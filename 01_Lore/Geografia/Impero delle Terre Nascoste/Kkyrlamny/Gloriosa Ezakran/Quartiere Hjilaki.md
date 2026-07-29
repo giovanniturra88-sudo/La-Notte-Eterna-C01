@@ -1,0 +1,7 @@
+---
+type: Luogo
+---
+
+Al suo arrivo a [[Gloriosa Ezakran|Ezakran]], l'eccentrica e viziata ambasciatrice hjilaki Madama Ghelia F'rezaele portò con sé un tale numero di servitori che si rese necessario un intero isolato per sistemarli tutti.
+In appena trent'anni, l'ambasciatrice è riuscita a trasformare *«questi grossi palloni di pietra che hanno la presunzione di chiamare case»* in *«sublime buon gusto gotico»*.
+Dopo i [[Giardinetti Lungofiume]], il quartiere hjilaki è senz'altro il più popolare tra i giovani [[karevi]]. Il locale più mondano di [[Gloriosa Ezakran|Ezakran]], il Rio Morte, è sito in questo quartiere. Questa locanda comprende un'enorme sala dove si balla al ritmo forsennato di violini e un bancone riservato alla degustazione di alcolici e dove è possibile consumare vino misto a sangue umano. Nell'arco della settimana, il Rio Morte accoglie migliaia di giovani. I giovani adorano l'aria di trasgressione che vi si respira e molti di loro provano grande piacere dal "bacio vampirico", restandone assuefatti al pari di una droga. I vampiri presenti nel locale non se lo lasciano ripetere due volte e si godono il lauto boccone, purché non si nutrano del mortale fino a dissanguarlo, il che è severamente proibito.

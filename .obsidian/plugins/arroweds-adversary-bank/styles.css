@@ -1,0 +1,547 @@
+
+.bv-statblock {
+    font-family: monospace;
+    position: relative
+}
+
+input[type=checkbox].bv-slot {
+    vertical-align: middle;
+    top: -0.1em;
+}
+
+.bv-smaller {
+    font-size: smaller;
+}
+
+.bv-larger {
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.bv-spreadout {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bv-muted {
+    color: var(--text-muted)
+}
+
+.bv-statblock .bv-thresholds {
+    text-align: center;
+    margin-bottom: 0.2em;
+    position: relative;
+}
+
+.bv-threshold-btn {
+    min-height: 2.35em;
+    padding: 0.12em 1.1em 0;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 1px solid rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.28);
+    background: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.07);
+    background-image: none;
+    box-shadow: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1;
+    vertical-align: middle;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+.bv-threshold-btn:hover,
+.bv-threshold-btn:active {
+    border-color: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.55);
+    background: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.16);
+    background-image: none;
+    box-shadow: none;
+    color: var(--text-normal);
+}
+
+.bv-rollable {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.bv-rollable:hover,
+.bv-rollable:active {
+    color: rgb(var(--callout-color))
+}
+
+.bv-statblock hr {
+    margin: 0
+}
+
+.bv-statblock ul, .bv-statblock ol {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.bv-padded {
+    padding-right: 2em;
+}
+
+.bv-bottom-corner {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0.5em;
+}
+
+.bv-top-corner {
+    position: absolute;
+    top: var(--size-2-2);
+    right: var(--size-2-2);
+}
+
+.bv-lower-1 {
+    top: 30px;
+}
+
+.bv-lower-2 {
+    top: 56px;
+}
+
+.bv-lower-3 {
+    top: 82px;
+}
+
+.bv-invisible {
+    display: none;
+}
+
+/* Active state for the corner edit pencil when overrides exist */
+button.bv-top-corner.bv-corner-edit-active {
+    color: rgb(var(--callout-color));
+    opacity: 0.95;
+}
+
+/* Per-instance header row: name on the left, reset icon on the right */
+.bv-statblock .bv-instance-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 2px;
+    min-height: 1.6em;
+}
+
+.bv-instance-row-name {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.bv-instance-reset {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.6em;
+    height: 1.6em;
+    padding: 0;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    opacity: 0.45;
+    transition: opacity 0.15s, color 0.15s;
+}
+
+.bv-instance-reset:hover,
+.bv-instance-reset:active {
+    opacity: 1;
+    color: var(--text-error);
+}
+
+.bv-instance-reset .svg-icon {
+    width: 0.95em;
+    height: 0.95em;
+}
+
+/* Overlay placement: reset button sits flush-right on the threshold row, vertically
+   centered alongside MINOR/MAJOR/SEVERE so the row doesn't earn extra vertical space. */
+.bv-statblock .bv-thresholds .bv-instance-reset-overlay {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Fallback row (no thresholds present): right-align the reset so it doesn't sprawl. */
+.bv-instance-row-noname {
+    justify-content: flex-end;
+}
+
+.bv-statblock .bv-feature p {
+    margin: 0;
+}
+
+/* HP/Stress slot controls */
+.bv-slot-controls {
+    display: inline-flex;
+    gap: 4px;
+    margin-left: 6px;
+    vertical-align: middle;
+}
+
+.bv-slot-btn {
+    font-size: 0.75em;
+    width: 3.6em;
+    height: 2.05em;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.28);
+    background: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.07);
+    background-image: none;
+    box-shadow: none;
+    color: var(--text-muted);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit;
+    font-weight: 600;
+    vertical-align: middle;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+.bv-slot-btn .svg-icon {
+    width: 1em;
+    height: 1em;
+    stroke-width: 2.25px;
+}
+
+.bv-slot-btn:hover,
+.bv-slot-btn:active {
+    border-color: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.55);
+    background: rgba(var(--bv-button-color-rgb, var(--callout-color)), 0.16);
+    background-image: none;
+    box-shadow: none;
+    color: var(--text-normal);
+}
+
+.bv-slot-btn-clear:hover,
+.bv-slot-btn-clear:active {
+    color: var(--text-error);
+}
+
+/* Mark a Stress action */
+.bv-mark-stress {
+    cursor: pointer;
+    border-bottom: 1px dotted currentColor;
+}
+
+.bv-mark-stress:hover,
+.bv-mark-stress:active {
+    color: rgb(var(--callout-color));
+}
+
+/* Rename */
+.bv-renameable {
+    cursor: pointer;
+}
+
+.bv-renameable:hover,
+.bv-renameable:active {
+    border-bottom: 1px dotted currentColor;
+}
+
+.bv-rename-input {
+    font-size: inherit;
+    font-weight: bold;
+    background: var(--background-modifier-form-field);
+    border: 1px solid var(--background-modifier-border);
+    color: inherit;
+    padding: 2px 4px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+/* Instance names */
+.bv-instance-name {
+    cursor: pointer;
+    font-size: 0.9em;
+    color: rgb(var(--callout-color));
+}
+
+.bv-instance-name:hover,
+.bv-instance-name:active {
+    border-bottom: 1px dotted currentColor;
+}
+
+.bv-instance-name-input {
+    font-size: 0.9em;
+    font-weight: bold;
+    background: var(--background-modifier-form-field);
+    border: 1px solid var(--background-modifier-border);
+    color: inherit;
+    padding: 2px 4px;
+    width: 12em;
+}
+
+/* Conditions */
+.bv-conditions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin: 6px 0;
+}
+
+.bv-condition-badge {
+    font-size: 0.75em;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: 1px solid var(--background-modifier-border);
+    cursor: pointer;
+    opacity: 0.5;
+    user-select: none;
+    transition: opacity 0.15s, background-color 0.15s;
+}
+
+.bv-condition-badge:hover,
+.bv-condition-badge:active {
+    opacity: 0.8;
+}
+
+.bv-condition-active {
+    opacity: 1;
+    background-color: rgba(var(--callout-color), 0.25);
+    border-color: rgba(var(--callout-color), 0.5);
+    font-weight: 600;
+}
+
+.bv-condition-custom {
+    border-style: dashed;
+}
+
+.bv-condition-add {
+    opacity: 0.4;
+    font-weight: bold;
+    min-width: 1.5em;
+    text-align: center;
+}
+
+.bv-condition-add:hover,
+.bv-condition-add:active {
+    opacity: 0.8;
+}
+
+.bv-condition-input {
+    font-size: 0.75em;
+    padding: 2px 8px;
+    border-radius: 12px;
+    border: 1px dashed var(--background-modifier-border);
+    background: var(--background-modifier-form-field);
+    color: inherit;
+    width: 8em;
+}
+
+/* Summon */
+.bv-summon-bar {
+    margin: 4px 0;
+}
+
+.bv-summon-button {
+    font-size: 0.8em;
+    padding: 2px 10px;
+    margin-right: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-normal);
+}
+
+.bv-summon-button:hover,
+.bv-summon-button:active {
+    background: var(--background-modifier-hover);
+}
+
+/* Dice-roller plugin integration.
+ *
+ * The plugin ships `.dice-roller { display: inline-flex; align-items: center;
+ * vertical-align: top }` with an 18px `--icon-size` dice glyph inside. In a
+ * stat block the surrounding text is `font-size: smaller`, so the flex box ends
+ * up taller than the line it sits on: `align-items: center` re-centres the
+ * formula inside that taller box and `vertical-align: top` pins the box to the
+ * top of the line, dropping the formula ~1.5px below its neighbours' baseline.
+ * Flatten the whole thing back to inline text on a shared baseline and scale
+ * the icon to the local font size. */
+.bv-statblock .dice-roller {
+    display: inline;
+    vertical-align: baseline;
+    margin: 0;
+}
+
+.bv-statblock .dice-roller > .dice-roller-result,
+.bv-statblock .dice-roller > .dice-roller-formula {
+    display: inline;
+    vertical-align: baseline;
+}
+
+/* `display: inline` on the container drops the plugin's flex `gap`, so the icon
+ * needs its own leading space. */
+.bv-statblock .dice-roller > .dice-roller-button {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: baseline;
+    margin-left: 0.25em;
+}
+
+.bv-statblock .dice-roller > .dice-roller-button .svg-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+}
+
+.markdown-reading-view .block-language-daggerheart + .edit-block-button,
+.markdown-preview-view .block-language-daggerheart + .edit-block-button,
+.markdown-source-view .block-language-daggerheart + .edit-block-button {
+    opacity: var(--icon-opacity);
+}
+
+/* Folder picker modal */
+.bv-folder-picker h3 {
+    margin-top: 0;
+}
+
+.bv-folder-search {
+    margin-bottom: 8px;
+}
+
+.bv-folder-search-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-modifier-form-field);
+    color: var(--text-normal);
+    font-size: 14px;
+}
+
+.bv-folder-list {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.bv-folder-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.bv-folder-row:hover,
+.bv-folder-row:active {
+    background: var(--background-modifier-hover);
+}
+
+.bv-folder-row.is-selected {
+    background: rgba(var(--color-accent-rgb, 124, 77, 255), 0.1);
+}
+
+.bv-folder-path {
+    flex: 1;
+    font-size: 13px;
+}
+
+.bv-folder-empty {
+    padding: 16px;
+    text-align: center;
+    color: var(--text-muted);
+}
+
+/* Settings: selected folder list */
+.bv-selected-folders .setting-item {
+    padding: 4px 0;
+    border: none;
+}
+
+.bv-folder-setting-name {
+    font-family: monospace;
+    font-size: 13px;
+}
+
+/* Visual cue for any header value that's currently overridden */
+.bv-overridden {
+    border-bottom: 1px dotted rgba(var(--callout-color), 0.7);
+}
+
+/* Edit modal */
+.bv-edit-modal h3 {
+    margin-top: 0;
+}
+
+.bv-edit-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 12px 0;
+}
+
+.bv-edit-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.bv-edit-label {
+    flex: 0 0 9em;
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+.bv-edit-input-wrap {
+    flex: 1;
+    display: flex;
+    gap: 4px;
+}
+
+.bv-edit-input {
+    flex: 1;
+    padding: 4px 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-modifier-form-field);
+    color: var(--text-normal);
+    font-size: 13px;
+    font-family: inherit;
+}
+
+.bv-edit-reset {
+    flex: 0 0 auto;
+    width: 2em;
+    padding: 2px 6px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+}
+
+.bv-edit-reset:hover,
+.bv-edit-reset:active {
+    color: var(--text-normal);
+    background: var(--background-modifier-hover);
+}
+
+.bv-edit-footer .setting-item {
+    border: none;
+    padding-top: 8px;
+}

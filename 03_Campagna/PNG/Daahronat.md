@@ -1,0 +1,12 @@
+---
+type: PNG
+---
+
+Spirito consacrato ai segreti più reconditi della foresta, Daahronat è il fiero capo della sua tribù. Allo schiudersi dell'uovo da cui nacque, lo sciamano della sua tribù predisse che Daahronat avrebbe riportato le razze a sangue freddo allo splendore di un tempo. La profezia si avverò quando, eletto nuovo sciamano della tribù, Daahronat ebbe una visione nella quale gli fu rivelato un elaborato rituale per il cui tramite una creatura a sangue freddo acquisisce la capacità soprannaturale, in forma permanente, di riscaldare il proprio sangue. Il rituale è piuttosto complesso e costoso in componenti arcane, per tale motivo solo i guerrieri più degni hanno il privilegio di esservi sottoposti.
+Daahronat disprezza le specie a sangue caldo, che giudica colpevoli, insieme ai loro sciocchi dèi, della scomparsa della stella. È per questo che i combattenti lucertoloidi non esitano a distruggere chiunque non si fregi di una pelle scagliosa. Le altre creature della foresta conoscono bene la mania di Daahronat e dei suoi seguaci, per questo motivo si mantengono alla larga dal territorio lucertoloide.
+Lo sciamano ha fondato una città sotterranea accessibile solo attraverso enormi bolle create da acque termali calde nel territorio lucertoloide.
+Recitando la parola d'ordine «Hsszrat» la bolla permette l'accesso al suo interno fino a tre creature di taglia media, quindi levita per 9 metri prima di scoppiare e svanire con tutti i suoi passeggeri, riapparendo nello stesso istante al di sotto del lago, in una vasta caverna calda e umida dove è sita la città segreta dei lucertoloidi. Questo luogo è avvolto nel mistero, si dice contenga meteore risalenti ai primi giorni della Guerra Celeste. Daahronat le sta meticolosamente collezionando per equipaggiare i combattenti della tribù con formidabili strumenti di distruzione.
+
+**Occorrono:** Ombra della Luna Rossa, il respiro più antico della foresta, sangue di guerriero, frammento di fuoco celeste (meteora).
+**Procedimento:** Alla luce della Luna Rossa, create un cerchio serrato. Inspirate a fondo il respiro della foresta. Cantate le antiche canzoni. Risvegliate gli spiriti per attingere il potere del firmamento. Versa il tuo sangue nella bocca della terra. Poni il frammento del cielo in mezzo al cerchio sacro. Ardi il sangue raffreddato. Bevi il distillato e lascia che il calore inondi le tue vene.
+**Risultato:** Scaglie che brillano, cuore che batte. Rinascita per i guerrieri dell'alba senza sole. Attenzione! Solo per chi è degno, il rituale non ammette debolezze.

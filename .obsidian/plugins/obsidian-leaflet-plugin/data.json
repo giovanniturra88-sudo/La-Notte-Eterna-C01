@@ -1,0 +1,974 @@
+{
+  "mapMarkers": [
+    {
+      "id": "mappa-neir",
+      "lastAccessed": 1785255874097,
+      "markers": [
+        {
+          "id": "ID_484a4a196998",
+          "type": "default",
+          "loc": [
+            -1312.015625,
+            1687
+          ],
+          "link": "Cenere di Lanie",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bea788a399a",
+          "type": "default",
+          "loc": [
+            -1232.03125,
+            1494
+          ],
+          "link": "Cratere di Lava",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba4ab81a7a38",
+          "type": "default",
+          "loc": [
+            -1385,
+            1286
+          ],
+          "link": "Placido Specchio di Ghyd",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5184438621245716,
+            0.7896237172177879
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bdaba3a0928",
+          "type": "default",
+          "loc": [
+            -1213.5,
+            1494
+          ],
+          "link": "Distese Nuvolose di Aej'Nagrizzt",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_993a4819f9ea",
+          "type": "default",
+          "loc": [
+            -904.03125,
+            1365
+          ],
+          "link": "Città delle Trame",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99888eac9cb",
+          "type": "default",
+          "loc": [
+            -892.03125,
+            1398
+          ],
+          "link": "Dominio delle Trame",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aabcacabb39",
+          "type": "default",
+          "loc": [
+            -994.03125,
+            1784
+          ],
+          "link": "Ludreq",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a9bfb5bf848",
+          "type": "default",
+          "loc": [
+            -990.03125,
+            1832
+          ],
+          "link": "Pahr",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b99a3a089918",
+          "type": "default",
+          "loc": [
+            -939.03125,
+            1798
+          ],
+          "link": "Valle Nuvolosa",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a98ca6a8828",
+          "type": "default",
+          "loc": [
+            -1088,
+            1863
+          ],
+          "link": "Selva Infestata di Mysteria",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b1bfa99a8ab",
+          "type": "default",
+          "loc": [
+            -486,
+            1338
+          ],
+          "link": "Ducato di Öuin",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a0a08b94809",
+          "type": "default",
+          "loc": [
+            -429.03125,
+            1316
+          ],
+          "link": "Öuin",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9da494a6919",
+          "type": "default",
+          "loc": [
+            -496.0625,
+            1608
+          ],
+          "link": "Landa di Edeber",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a195a28d909",
+          "type": "default",
+          "loc": [
+            -732.03125,
+            1922
+          ],
+          "link": "Favoleggiate Rovine di Gundazar",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9ea9b4aa928",
+          "type": "default",
+          "loc": [
+            -866.0625,
+            1956
+          ],
+          "link": "Verde Foresta",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb384bab5bf8",
+          "type": "default",
+          "loc": [
+            -282,
+            2187
+          ],
+          "link": "Magocrazia di Nü",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29391b4b795b",
+          "type": "default",
+          "loc": [
+            -403.015625,
+            1896
+          ],
+          "link": "La Repubblica di Mendulia’s Rock",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebf828fa380a",
+          "type": "default",
+          "loc": [
+            -350.5078125,
+            1855.75
+          ],
+          "link": "Mendulia's Rock",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b99a9ea6928",
+          "type": "default",
+          "loc": [
+            -1108.515625,
+            1473
+          ],
+          "link": "Oasis of Zey",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29aa3878691b",
+          "type": "default",
+          "loc": [
+            -692.0625,
+            1672
+          ],
+          "link": "Pianure di Xanesh",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79395b587bc9",
+          "type": "default",
+          "loc": [
+            -878.0625,
+            818
+          ],
+          "link": "Larass'hra",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9dbebdad83a",
+          "type": "default",
+          "loc": [
+            -703.515625,
+            1935.5
+          ],
+          "link": "Gundazar",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eabae9489838",
+          "type": "default",
+          "loc": [
+            -796.03125,
+            1792
+          ],
+          "link": "Aman'Raith",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aab885a185a",
+          "type": "default",
+          "loc": [
+            -1390.03125,
+            1915
+          ],
+          "link": "Fato di Lyonel",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b1b5a894a4a",
+          "type": "default",
+          "loc": [
+            -1262.515625,
+            1926
+          ],
+          "link": "Baia di Redoro",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bfaa909ba78",
+          "type": "default",
+          "loc": [
+            -1296.015625,
+            1850.5
+          ],
+          "link": "Abisso Oscuro",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daeadb4bc9bb",
+          "type": "default",
+          "loc": [
+            -1221.515625,
+            1802.5
+          ],
+          "link": "Petralta",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d84858894b98",
+          "type": "default",
+          "loc": [
+            -658.5,
+            1897.5
+          ],
+          "link": "Valli dei Giganti",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_680abaf8fb59",
+          "type": "default",
+          "loc": [
+            -577.7578125,
+            1990.75
+          ],
+          "link": "Forte Arundex",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598b3beaf879",
+          "type": "default",
+          "loc": [
+            -468.03125,
+            1935
+          ],
+          "link": "Lago delle Quattro Braccia",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a28f96ad839",
+          "type": "default",
+          "loc": [
+            -754.0546875,
+            1579.4186401367188
+          ],
+          "link": "Mubunash",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8949a9ca2958",
+          "type": "default",
+          "loc": [
+            -720.21875,
+            1422.674560546875
+          ],
+          "link": "Milford",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab8aba1a591a",
+          "type": "default",
+          "loc": [
+            -244.67946620520001,
+            2238.3879604235067
+          ],
+          "link": "Daragoss",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a2a596b0b09",
+          "type": "default",
+          "loc": [
+            -357.6828343272357,
+            2157.3867315055877
+          ],
+          "link": "Azkabel",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c948a8993b2b",
+          "type": "default",
+          "loc": [
+            -271.180256074527,
+            2156.8867239196743
+          ],
+          "link": "Città di Nü",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8e9eb39aa99",
+          "type": "default",
+          "loc": [
+            -770.9249877929688,
+            286.4280280115494
+          ],
+          "link": "Baia d'Argento di Onor",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d91ad9b8386b",
+          "type": "default",
+          "loc": [
+            -960.9249877929688,
+            766.4322970227308
+          ],
+          "link": "Bosco di Alysara",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39394a192988",
+          "type": "default",
+          "loc": [
+            -858.9249877929688,
+            702.4317278212401
+          ],
+          "link": "Bosco di Melis",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_482a39d9083b",
+          "type": "default",
+          "loc": [
+            -682.9249877929688,
+            1116.4354098433842
+          ],
+          "link": "Bosco di Llira",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b6b386b8bbb",
+          "type": "default",
+          "loc": [
+            -1132.9249877929688,
+            428.4292019896243
+          ],
+          "link": "Cimitero dei Draghi",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_387b2aa9ca19",
+          "type": "default",
+          "loc": [
+            -684.9249877929688,
+            869.633321236639
+          ],
+          "link": "Desolazione Occidentale",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d97ab95afb8b",
+          "type": "default",
+          "loc": [
+            -404.92498779296875,
+            421.6293368262029
+          ],
+          "link": "Golfo della Zanna Blu",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188a1bd90a3b",
+          "type": "default",
+          "loc": [
+            -764.0624694824219,
+            1106.4171242454897
+          ],
+          "link": "Isole Gemelle",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9f938eaf84a",
+          "type": "default",
+          "loc": [
+            -325.86248779296875,
+            1009.4162615494802
+          ],
+          "link": "Mare della Progenie dell'Esiliato",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbf80aabfad8",
+          "type": "default",
+          "loc": [
+            -967.8624877929688,
+            1122.8174165890496
+          ],
+          "link": "Lago di Udz",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa29d8f9a929",
+          "type": "default",
+          "loc": [
+            -1066.2000122070312,
+            1280.600365795664
+          ],
+          "link": "Montagna dell'Occhio del Drago",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5162670291456013,
+            0.6078677378603371
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a38c94a8b9a",
+          "type": "default",
+          "loc": [
+            -554.7999877929688,
+            347.20047279996385
+          ],
+          "link": "Picchi del Wyrm",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13997197048980603,
+            0.3163055802696515
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb9829b8d8ea",
+          "type": "default",
+          "loc": [
+            -1229.199951171875,
+            843.6000763120627
+          ],
+          "link": "Progenie del Vulcano",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3400927540060724,
+            0.7007981477604761
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca98eb6b79f9",
+          "type": "default",
+          "loc": [
+            -580.9249267578125,
+            691.2302118339849
+          ],
+          "link": "Regione Mistica",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a8b9a7919bb",
+          "type": "default",
+          "loc": [
+            -782.3999633789062,
+            868.3997102373783
+          ],
+          "link": "Terra di Ambra",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.35009059070243026,
+            0.4460661136709842
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_986b89695b3a",
+          "type": "default",
+          "loc": [
+            -465.20001220703125,
+            684
+          ],
+          "link": "Vetta delle Anime",
+          "layer": "%5B%5Bneir_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2757508566821205,
+            0.2652223558763006
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "01_Lore/Geografia/Neir.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "600px",
+    "image": "[[neir_map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[neir_map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 2,
+    "minZoom": -2,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "mappa-neir",
+    "width": "100%",
+    "type": "pixel",
+    "zoom": 1,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

@@ -1,0 +1,12 @@
+---
+type: Artefatto
+---
+
+![[Pasted image 20260713183854.png|327]]
+
+Gli avventurieri arrivano sul luogo di impatto di una meteora, tra le rocce fumanti intravedono i resti di un immondo definitivamente morto e il cui spirito tenterà di possedere chiunque si trovi sul posto.
+Belzebub è un'entità estremamente malvagia e intelligente. Farà tutto ciò che è in suo potere per liberarsi del gruppo e darsi alla fuga. Incatenare il personaggio posseduto e provare a prendere accordi con il demone intrappolato al suo interno potrebbe essere un buono spunto per una missione. Il demone può essere esorcizzato solo tramite rituale effettuato da un chierico di 10° livello.
+## Possessione
+Il bersaglio effettua un tiro salvezza su Carisma con CD 15 o viene posseduto, il cadavere del demone scompare e il bersaglio è incapacitato e perde il controllo del suo corpo. Ora il demone controlla il personaggio ma non priva il bersaglio della sua coscienza. Il demone non può essere colpito da nessun attacco, magia o effetto, mantiene allineamento e statistiche mentali ed è immune all'essere ammaliato e spaventato. Per ogni altra cosa usa le statistiche del bersaglio posseduto ma non ha accesso alle sue conoscenze, abilità di classe o competenze. La possessione dura finché il bersaglio viene ridotto a 0 punti ferita, muore, il demone la termina con un'azione bonus o viene scacciato da una magia come Dissolvi il Bene e il Male. Quando la possessione ha fine lo spirito del demone muore e il bersaglio non può essere posseduto per altre 24 ore.
+
+*Mentre Seraphina si avvicina per toccare i resti carbonizzati della meteora, viene avvolta da un'onda improvvisa di energia oscura. I suoi occhi si rovesciano mentre un'ondata di potere travolgente la attraversa, facendola sussultare da capo a piedi; il suo respiro si fa spasmodico come se avesse percorso una lunghissima strada per giungere fin qui. I suoi occhi, normalmente azzurro acceso, ora ardono di un minaccioso rosso fuoco, e l'espressione sul suo viso assume un ghigno feroce. Vene scure iniziano a pulsare visibilmente sulle sue tempie, segno di una grande lotta per tenere a freno qualcosa di mostruoso che spinge dall'interno. La sua voce cavernosa echeggia nel silenzio, facendovi raggelare il sangue nelle vene: «Ho fame».*

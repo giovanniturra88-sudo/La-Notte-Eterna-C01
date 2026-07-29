@@ -1,0 +1,14 @@
+---
+type: Artefatto
+---
+
+![[Pasted image 20260713185941.png|259]]
+
+*Oggetto Magico Instabile (Cranio), Raro, Richiede sintonia con una creatura di allineamento malvagio*
+
+Nella [[Guerra Celeste]] non mancano mai colpi di scena e tradimenti improvvisi. Quando ciò accade è quasi impossibile che nel piano celeste, come sul mondo di [[Neir]], non vi siano conseguenze. Quando una creatura celestiale o immonda tradisce la sua compagine di appartenenza e viene scoperto, subisce una pesante punizione allo scopo di demotivare i suoi commilitoni a fare lo stesso: il traditore viene smembrato e disossato e la sua essenza relegata al solo cranio, quindi viene scagliato sulla [[Dimensione della Materia]] con lo scopo di fargli trascorrere l'immortalità tra i mortali.
+- Quando atterra come meteora, il Cranio del Traditore ha una probabilità del 20% che si rompa all'atterraggio. Quando ciò accade, lo spirito rinchiuso al suo interno è libero di uscire e di ottenere vendetta contro la fazione che ha tradito sul piano celeste, cercando in contemporanea un modo per tornare su [[Rengaria]]. Se lo spirito, stabilito dal GM, è affine all'allineamento dei personaggi che si imbattono nella meteora distrutta, questo tenta di convincerli a trovare un modo per riportarlo sul piano celeste, insediandosi in uno qualunque degli oggetti posseduti da chi ha rinvenuto il cranio. Se l'oggetto posseduto è un'arma, questa diventa un'arma +1; Se l'oggetto è un'armatura, questa diventa un'armatura +1; Se l'oggetto non è né un'arma né un'armatura, questo diventa un oggetto magico senziente di allineamento uguale a quello del portatore. In qualsiasi caso, il portatore dell'oggetto inizia a subire le influenze dello spirito che tenta indurlo a tradire la propria causa a favore della sua.
+- Se il cranio non si rompe all'atterraggio, può essere utilizzato come focus arcano da personaggi con allineamento affine a quello del cranio rinvenuto.
+- Tutti i tiri per colpire e i tiri per i danni con incantesimi lanciati utilizzando il cranio come focus ricevono un bonus di +2. In aggiunta, il portatore sviluppa una capacità magica che gli consente di lanciare incantesimi aggiuntivi se usato come focus arcano: se di allineamento malvagio, può spendere la sua reazione per lanciare il trucchetto Deflagrazione Occulta; se di allineamento neutrale, Spruzzo Velenoso; se allineamento buono. Resistenza.
+## Rimuovere la Maledizione
+Essendo studiati appositamente per essere delle prigioni, è molto difficile rompere la maledizione sul cranio del traditore. Lanciare Rimuovere Maledizione ha una probabilità del 5% di avere effetto. Se ciò accade, trattare il cranio del traditore come se fosse stato rotto all'atterraggio.

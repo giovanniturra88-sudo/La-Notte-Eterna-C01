@@ -1,0 +1,29 @@
+{
+  "type": {
+    "standard": "Equipaggiamento"
+  },
+  "categoria": {
+    "standard": "Equipaggiamento"
+  },
+  "tier": {
+    "standard": "3"
+  },
+  "ruolo": {
+    "standard": "Primaria"
+  },
+  "tipo_danno": {
+    "standard": "Fisica"
+  },
+  "tratto": {
+    "standard": "Agilità"
+  },
+  "gittata": {
+    "standard": "Corpo a corpo"
+  },
+  "danno": {
+    "standard": "\"d6+4\""
+  },
+  "ingombro": {
+    "standard": "\"A due mani\""
+  }
+}

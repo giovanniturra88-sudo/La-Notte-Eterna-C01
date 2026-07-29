@@ -1,0 +1,15 @@
+---
+type: Regola
+---
+
+Molti studiosi e teologi hanno vanamente cercato, consultando tomi polverosi e oracoli, di scoprire come sia nato il fenomeno del vampirismo.
+Recentemente, nella Biblioteca Reale di [[Azkabel]] gli studiosi hanno scoperto un libricino polveroso intitolato Avventure nei Piani. Il diario, scritto da un anonimo [[wiloi]] intorno al 500 Era della Stella, racconta le peripezie di un giovane mago tra i piani della [[Dimensione della Materia]]. Il resoconto più importante è quello conclusivo, che salta immediatamente all'occhio del lettore: se il resto del tomo è scritto in uno stile elegante e sicuro, quest'ultimo brano presenta una forma stentata, quasi come se il mago fosse caduto vittima di una malattia degenerativa.
+
+*«... La lugubre natura di quel piano ha sconvolto la mia ragione. Ripenso spesso al vento che scuoteva quel mondo: esso urla nella mia testa segreti che non voglio conoscere.»*
+*«L'esperienza mi ha cambiato per sempre. Non riesco a bere né a mangiare. Mi sono rinchiuso in laboratorio nella speranza di sfuggire alla molesta luce del sole. I miei occhi si sono abituati al buio assoluto; colgo particolari di cui prima non conoscevo neppure l'esistenza.»*
+*«Mi desto al tramonto. Ho un terribile presentimento. Non riesco a zittire le urla nella mia testa!» «Questa notte ho finalmente compreso. Le tenebre di quel mondo mi hanno reso un'ombra fatta di carne. Devo nutrirmi della vita al suo stadio primordiale: il sangue è la linfa che alimenta i miei nuovi e incredibili poteri.»*
+*«La situazione è divenuta insostenibile. La gente comincia a mormorare delle strane uccisioni che avvengono ultimamente. Presto le indagini li porteranno a me. Anche i vecchi amici mi hanno voltato le spalle, sono ormai solo. Lascerò [[Azkabel]] questa notte stessa. Non prima, però, di affidare le mie memorie alla biblioteca. Possa [[Lanie]] avere pietà di me.»*
+
+Da qui in poi, la storia della specie vampirica degenera in mera supposizione. Probabilmente, l'autore del libro sopravvisse abbastanza a lungo da diffondere il vampirismo in altre persone, che a loro volta ne infettarono altre. Così i vampiri strisciarono nelle tenebre per secoli, fino al sopraggiungere dell'Era della [[Notte Eterna]].
+## Diffusione
+Al mondo esistono in totale circa 50 [[hjilaki]] (alti vampiri). Ben più consistente è la presenza di vampiri, di cui si stima un numero non inferiore ai 500 disseminati tra il [[Dominio delle Trame]] e altre regioni di [[Neir]]. In termini di gioco, è verosimile che un gruppo di allineamento malvagio possa giocare personaggi [[vampiri]] mentre gli [[hjilaki]] dovrebbero essere preclusi ai PNG. In un mondo dove non sorge mai il sole, la potenza dei vampiri è notevolmente accresciuta. Esistono però altri poteri su [[Neir]] e dai tempi in cui l'[[Armata dell'Apocalisse]] recò rovina sulla terra i mortali hanno appreso come combattere e difendersi da queste creature.

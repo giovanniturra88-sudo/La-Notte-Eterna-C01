@@ -1,0 +1,1862 @@
+source,source_type,target,target_type,weight
+Impero delle Terre Nascoste,location,Karevi,unknown,48
+Favoleggiate Rovine di Gundazar,location,Gundazar,location,46
+Magocrazia di Nü,location,Wiloi,unknown,41
+Valli dei Giganti,location,Forte Arundex,location,28
+Repubblica di Mendulia’s Rock,location,Mendulia's Rock,location,25
+Elfi di Dor,ancestry,Elfi,unknown,25
+Ducato di Öuin,location,Öuin,location,21
+Pianure di Xanesh,location,Gundazar,location,18
+Dominio delle Trame,location,Namass'rya,npc,14
+Magocrazia di Nü,location,Neir,location,14
+Elfi di Dor,ancestry,klorss,unknown,13
+Impero delle Terre Nascoste,location,Garod,deity_or_faction,12
+Mano di Krea,artifact,Krea,deity_or_faction,12
+Larass'hra,location,Neir,location,11
+Oasi di Zey,location,gnomi,unknown,11
+Pianure di Xanesh,location,Tenebris,deity_or_faction,11
+Valli dei Giganti,location,Gundazar,location,11
+Elfi di Dor,ancestry,Nani,unknown,11
+Magocrazia di Nü,location,Yolam'hra,unknown,10
+Magocrazia di Nü,location,Najestarr,npc,9
+Mondo di Neir,lore,Neir,location,8
+Favoleggiate Rovine di Gundazar,location,Wiloi,unknown,8
+Pianure di Xanesh,location,Mubunash,location,8
+Foglia di Iliar,artifact,Iliar,deity_or_faction,8
+Oasi di Zey,location,Gundazar,location,7
+Repubblica di Mendulia’s Rock,location,Neir,location,7
+Mano di Krea,artifact,Maskarr,deity_or_faction,7
+Favoleggiate Rovine di Gundazar,location,Giganti,unknown,6
+Impero delle Terre Nascoste,location,Neir,location,6
+Magocrazia di Nü,location,Lanie,deity_or_faction,6
+Oasi di Zey,location,Pianure di Xanesh,location,6
+Valli dei Giganti,location,Giganti,unknown,6
+Elfi di Dor,ancestry,Dor,unknown,6
+Elfi di Dor,ancestry,Città Torre di Meth,unknown,6
+Elfi di Dor,ancestry,Elunas,unknown,6
+Elfi di Dor,ancestry,Nore Aad,unknown,6
+Axrul II De Vaars,npc,Gundazar,location,6
+Efneriom,npc,Gundazar,location,6
+Ducato di Öuin,location,Laon,deity_or_faction,5
+Impero delle Terre Nascoste,location,klorss,unknown,5
+Larass'hra,location,Leresalazsnn'hra,unknown,5
+Magocrazia di Nü,location,loy'ach,unknown,5
+Magocrazia di Nü,location,Città di Nü,location,5
+Magocrazia di Nü,location,Azkabel,location,5
+Magocrazia di Nü,location,Daragoss,location,5
+Pianure di Xanesh,location,Neir,location,5
+Elfi di Dor,ancestry,umani,unknown,5
+Elfi di Dor,ancestry,Lanie,deity_or_faction,5
+Elfi di Dor,ancestry,Fjord,unknown,5
+Elfi di Dor,ancestry,Adzanaklorss,unknown,5
+Vampiro,enemy,Hjilaki,unknown,5
+Dustsceawung,artifact,Rionnag'hra,unknown,5
+Malia dell'Infido Gatto,artifact,Maskarr,deity_or_faction,5
+Nindja,artifact,Yolandi,artifact,5
+Azkabel,location,Wiloi,unknown,5
+Horus,npc,Urakian,unknown,5
+Divinità,deity_or_faction,Rengaria,location,4
+Cenere di Lanie,location,Urakian,ancestry,4
+Ducato di Öuin,location,Neir,location,4
+Favoleggiate Rovine di Gundazar,location,Mendulia's Rock,location,4
+Larass'hra,location,Mazak'hra,unknown,4
+Larass'hra,location,Wiloi,unknown,4
+Repubblica di Mendulia’s Rock,location,Gundazar,location,4
+Elfi di Dor,ancestry,Neir,location,4
+Elfi di Dor,ancestry,Valle Nuvolosa,location,4
+Elfi di Dor,ancestry,Meth,unknown,4
+Selva Infestata di Mysteria,location,klorss,unknown,4
+Reggia dei Piaceri,location,Namass'rya,npc,4
+Ritrovo dei Dannati,location,Prescelti dalle Tenebre,unknown,4
+Mare Andante,community,Mendulia's Rock,location,4
+SottoClassi,subclass,Ranger,class,4
+Carica di Incantesimo,ability,token,unknown,4
+Axrul II De Vaars,npc,Desea,npc,4
+Doerun Eldobeth,npc,Selva Infestata di Mysteria,location,4
+Mondo di Neir,lore,Nebvarasa,unknown,3
+Mondo di Neir,lore,Hadaknaton,unknown,3
+Lanie,deity_or_faction,Nelen Deseziath,npc,3
+Favoleggiate Rovine di Gundazar,location,Valli dei Giganti,location,3
+Favoleggiate Rovine di Gundazar,location,Neir,location,3
+Impero delle Terre Nascoste,location,Gundazar,location,3
+Impero delle Terre Nascoste,location,Provincia di Petralta,location,3
+Larass'hra,location,Elfi,unknown,3
+Larass'hra,location,Vetta delle Anime,location,3
+Magocrazia di Nü,location,Gundazar,location,3
+Oasi di Zey,location,Neir,location,3
+Repubblica di Mendulia’s Rock,location,Magocrazia di Nü,location,3
+Repubblica di Mendulia’s Rock,location,Baia di Redoro,location,3
+Valli dei Giganti,location,Neir,location,3
+Valli dei Giganti,location,Mendulia's Rock,location,3
+Elfi di Dor,ancestry,Elfi,ancestry,3
+Elfi di Dor,ancestry,Gundazar,location,3
+Elfi di Dor,ancestry,Magocrazia di Nü,location,3
+Hjilaki,ancestry,vampiri,unknown,3
+Egida del Rogo,artifact,Bakraag,deity_or_faction,3
+Elmo di Gwynplaine,artifact,Demien,deity_or_faction,3
+Mano di Krea,artifact,Neir,location,3
+Yolandi,artifact,Nindja,artifact,3
+Azkabel,location,Elfi,unknown,3
+Milford,location,halfling,unknown,3
+Sala dei Gran Maestri,location,Öuin,location,3
+Gloriosa Ezakran,location,Karevi,unknown,3
+Baia di Redoro,location,Neir,location,3
+Quartiere Mendus,location,Impero delle Terre Nascoste,location,3
+Mare Andante,community,Neir,location,3
+Teriantropia,house_rule,Neir,location,3
+SottoClassi,subclass,Chierico,unknown,3
+Approccio Strategico,ability,token,unknown,3
+Santuario della Selva,ability,Saggio,domain,3
+Annie Rose-Robe,npc,halfling,unknown,3
+Nelen Deseziath,npc,Neir,location,3
+Rakilia,npc,Urakian,unknown,3
+Ziria,npc,An'Rao IV,npc,3
+Ziria,npc,Garod,deity_or_faction,3
+Divinità,deity_or_faction,Laon,deity_or_faction,2
+Divinità,deity_or_faction,Lanie,deity_or_faction,2
+Divinità,deity_or_faction,Garod,deity_or_faction,2
+Divinità,deity_or_faction,Neir,location,2
+Cenere di Lanie,location,Urakian,unknown,2
+Ducato di Öuin,location,Lewyn,npc,2
+Favoleggiate Rovine di Gundazar,location,Orchi,unknown,2
+Favoleggiate Rovine di Gundazar,location,Tenebris,deity_or_faction,2
+Impero delle Terre Nascoste,location,Wiloi,unknown,2
+Impero delle Terre Nascoste,location,Petralta,location,2
+Larass'hra,location,Nebvarasa,unknown,2
+Larass'hra,location,Nani,unknown,2
+Larass'hra,location,umani,unknown,2
+Larass'hra,location,Daragoss,location,2
+Larass'hra,location,Regione Mistica,location,2
+Larass'hra,location,Cimitero dei Draghi,location,2
+Larass'hra,location,Terra di Ambra,location,2
+Magocrazia di Nü,location,Abisso Oscuro,location,2
+Oasi di Zey,location,Karevi,unknown,2
+Oasi di Zey,location,Tenebris,deity_or_faction,2
+Oasi di Zey,location,Urakian,unknown,2
+Pianure di Xanesh,location,Adraoos,deity_or_faction,2
+Pianure di Xanesh,location,Magocrazia di Nü,location,2
+Pianure di Xanesh,location,Città delle Palafitte,unknown,2
+Repubblica di Mendulia’s Rock,location,Impero delle Terre Nascoste,location,2
+Repubblica di Mendulia’s Rock,location,Dardi Sanguinanti,unknown,2
+Repubblica di Mendulia’s Rock,location,Forte Arundex,location,2
+Valli dei Giganti,location,Unthamarand,deity_or_faction,2
+Verde Foresta,location,Cenere di Lanie,location,2
+Verde Foresta,location,Valle Nuvolosa,location,2
+Verde Foresta,location,Aman'Raith,location,2
+Verde Foresta,location,Neir,location,2
+Verde Foresta,location,Gundazar,location,2
+Elfi di Dor,ancestry,Wiloi,unknown,2
+Elfi di Dor,ancestry,Landa di Edeber,location,2
+Elfi di Dor,ancestry,Hultuaar,unknown,2
+Elfi di Dor,ancestry,Oruth,unknown,2
+Elfi di Dor,ancestry,Nuiwlf,unknown,2
+Elfi di Dor,ancestry,Xodrodoth,unknown,2
+Elfi di Dor,ancestry,elfi di Dor,unknown,2
+Hjilaki,ancestry,Karevi,unknown,2
+Hjilaki,ancestry,01_Lore/Razze_e_Popoli/Vampiro,unknown,2
+Vera Magia,lore,Nebvarasa,unknown,2
+Vera Magia,lore,Dimensione della Materia,lore,2
+Ali del Radioso Martirio,artifact,Fadranstaff,deity_or_faction,2
+Collana del Distruttore,artifact,Nuzagaal,deity_or_faction,2
+Dozhdboli il Nero Flagello,artifact,Garod,deity_or_faction,2
+Elmo di Gwynplaine,artifact,Neir,location,2
+Gemma del Mana Perpetuo,artifact,klorss,unknown,2
+Gemma del Mana Perpetuo,artifact,Elfi,unknown,2
+K'idusi Seyifi Mak'at'eli,artifact,Laon,deity_or_faction,2
+Kanptazu,artifact,Laon,deity_or_faction,2
+Kanptazu,artifact,Demien,deity_or_faction,2
+La Senza Peso,artifact,Laon,deity_or_faction,2
+Lacrime Celesti,artifact,Neir,location,2
+Lama del Sacro Ordine,artifact,Halthea,deity_or_faction,2
+Mano di Krea,artifact,Rengaria,location,2
+Mano di Krea,artifact,Dimensione della Materia,lore,2
+Mercanti di Meteore,artifact,Neir,location,2
+Occhio del Demone,artifact,Cacciatore di Meteore,community,2
+Occhio del Demone,artifact,Neir,location,2
+Prima Lucis Advehens,artifact,Laon,deity_or_faction,2
+Prima Lucis Advehens,artifact,Ghaeler,unknown,2
+Putto,artifact,Rengaria,location,2
+Sfida Celeste,artifact,Garod,deity_or_faction,2
+Sfida Celeste,artifact,Neir,location,2
+Tibia di Jonuun,artifact,Nuzagaal,deity_or_faction,2
+Tibia di Jonuun,artifact,Guerra Celeste,lore,2
+Tibia di Jonuun,artifact,Neir,location,2
+Tibia di Jonuun,artifact,Jonuun,unknown,2
+Landa di Edeber,location,Neir,location,2
+Gundazar,location,Aman'Raith,location,2
+Bosco di Alysara,location,Elfi,ancestry,2
+Regione Mistica,location,Vetta delle Anime,location,2
+Vetta delle Anime,location,Nebvarasa,unknown,2
+Azkabel,location,Neir,location,2
+Mercato degli Schiavi,location,Karevi,unknown,2
+Reggia dei Piaceri,location,Agan,npc,2
+Molo,location,Öuin,location,2
+Aman'Raith,location,Gundazar,location,2
+Hzaad'à,location,Karevi,unknown,2
+Ynxazvann,location,Giungla di Erth,location,2
+Manor,location,Karevi,unknown,2
+Manor,location,Urakian,unknown,2
+Giardinetti Lungofiume,location,Gloriosa Ezakran,location,2
+Quartiere Hjilaki,location,Gloriosa Ezakran,location,2
+I Bianchi Sepolcri,location,Petralta,location,2
+Porticato del Governatore,location,Petralta,location,2
+Banco del Mare,location,Neir,location,2
+Banco del Mare,location,Mendulia's Rock,location,2
+Grande Porto,location,Magocrazia di Nü,location,2
+Monteforte,location,Mubunash,location,2
+Oscura Chiesa di Tenebris,location,Tenebris,deity_or_faction,2
+Torre Baronale,location,Tenebris,deity_or_faction,2
+Archivista,community,Neir,location,2
+Background,community,Neir,location,2
+Background,community,Cacciatore di Meteore,community,2
+Background,community,Mare Andante,community,2
+Domini delle Classi,domain,Codice,domain,2
+Domini delle Classi,domain,Grazia,domain,2
+Domini delle Classi,domain,Arcana,domain,2
+Domini delle Classi,domain,Saggio,domain,2
+Domini delle Classi,domain,Lama,domain,2
+Domini delle Classi,domain,Valore,domain,2
+Domini delle Classi,domain,Ossa,domain,2
+Domini delle Classi,domain,Mezzanotte,unknown,2
+Domini delle Classi,domain,Splendore,domain,2
+Ispirazione Divina,house_rule,Lurtan,deity_or_faction,2
+Ispirazione Divina,house_rule,Nuzagaal,deity_or_faction,2
+Ispirazione Divina,house_rule,Maskarr,deity_or_faction,2
+Teriantropia,house_rule,Urakian,unknown,2
+Teriantropia,house_rule,Hjilaki,unknown,2
+Vampirismo,house_rule,Azkabel,location,2
+Vampirismo,house_rule,Hjilaki,unknown,2
+Vampirismo,house_rule,Neir,location,2
+Cavaliere di Kurash,subclass,Nebvarasa,unknown,2
+Cavaliere di Kurash,subclass,Kurash,unknown,2
+SottoClassi,subclass,Wizard,class,2
+SottoClassi,subclass,Warrior,class,2
+Approccio Strategico,ability,riposo lungo,unknown,2
+Approccio Strategico,ability,attacco,unknown,2
+Armatura Infrangibile,ability,Fessura dell'Armatura,unknown,2
+Assalto,ability,attacco,unknown,2
+Assalto,ability,Ferita,unknown,2
+Aura Confondente,ability,attacco,unknown,2
+Cacciare,ability,tiro di reazione,unknown,2
+Cacciare,ability,Difficoltà,unknown,2
+Campo di Guarigione,ability,Ferita,unknown,2
+Carisma Infinito,ability,Speranza,unknown,2
+Catena di Fulmini,ability,Spellcast Roll,unknown,2
+Catena di Fulmini,ability,Close Range,unknown,2
+Catena di Fulmini,ability,D8,unknown,2
+Catena di Fulmini,ability,danni magici,unknown,2
+Cieli che Cadono,ability,Stress,unknown,2
+Colpito dalla Lama,ability,Lama,domain,2
+Toccato dalla Mezzanotte,ability,Mezzanotte,unknown,2
+An'Rao IV,npc,Karevi,unknown,2
+An'Rao IV,npc,Garod,deity_or_faction,2
+Annie Rose-Robe,npc,Milford,location,2
+Bruin Ashcroft,npc,Baia di Redoro,location,2
+Desea,npc,Axrul II De Vaars,npc,2
+Efneriom,npc,Neir,location,2
+Fahrn,npc,Gundazar,location,2
+Fahrn,npc,Aman'Raith,location,2
+Horus,npc,Neir,location,2
+Horus,npc,Distese Nuvolose di Aej'Nagrizzt,location,2
+M'oraoork,npc,Garod,deity_or_faction,2
+M'oraoork,npc,Gloriosa Ezakran,location,2
+Orgnornor,npc,Forte Arundex,location,2
+Rakilia,npc,Oasi di Zey,location,2
+Rakilia,npc,Karevi,unknown,2
+Renetzia,npc,Karevi,unknown,2
+Benvenuto,unknown,crea un collegamento,unknown,1
+Home,unknown,PNG_A,unknown,1
+Home,unknown,PNG_B,unknown,1
+Home,unknown,Geografia,unknown,1
+Home,unknown,Regole_di_Casa,unknown,1
+Home,unknown,Transformations,unknown,1
+Canzone di Nebvarasa,lore,Nebvarasa,unknown,1
+Meteore,artifact,Dimensione dello Spirito,lore,1
+Meteore,artifact,Karevi,unknown,1
+Meteore,artifact,Ali del Radioso Martirio,artifact,1
+Meteore,artifact,Infallibile Cristallo del Fato,artifact,1
+Meteore,artifact,Amuleto dell'investigatore,unknown,1
+Meteore,artifact,La Senza Peso,artifact,1
+Meteore,artifact,Anelli degli Elementi,artifact,1
+Meteore,artifact,Kanptazu,artifact,1
+Meteore,artifact,Balestre della Vita e della Morte,artifact,1
+Meteore,artifact,K'idusi Seyifi Mak'at'eli,artifact,1
+Meteore,artifact,Bastone della Misericordia,artifact,1
+Meteore,artifact,Lacrime Celesti,artifact,1
+Meteore,artifact,Bestia Sacra Eneli,artifact,1
+Meteore,artifact,Lama del Sacro Ordine,artifact,1
+Meteore,artifact,Binocolo della Preveggenza,artifact,1
+Meteore,artifact,Lancia Angelica,artifact,1
+Meteore,artifact,Bracciale delle Molte Forme,artifact,1
+Meteore,artifact,Lanterna del Becchino,artifact,1
+Meteore,artifact,Bracciale dell'Oltredove,artifact,1
+Meteore,artifact,Lenti dell'Archivista,artifact,1
+Meteore,artifact,Bracciale Sulfureo,artifact,1
+Meteore,artifact,Malia dell'Infido Gatto,artifact,1
+Meteore,artifact,Chevya' La Bestia,artifact,1
+Meteore,artifact,Mano di Krea,artifact,1
+Meteore,artifact,Collana del Distruttore,artifact,1
+Meteore,artifact,Mantello dei Venti,artifact,1
+Meteore,artifact,Collana del Mutaforma,artifact,1
+Meteore,artifact,Mantello dell'inconsistenza,unknown,1
+Meteore,artifact,Cormaglio,artifact,1
+Meteore,artifact,Matna e la Scatola,artifact,1
+Meteore,artifact,Cuore Divino,artifact,1
+Meteore,artifact,Nindja,artifact,1
+Meteore,artifact,Demone X,artifact,1
+Meteore,artifact,Occhio del Demone,artifact,1
+Meteore,artifact,Domatore di Bestie,artifact,1
+Meteore,artifact,Oppressione Demoniaca,artifact,1
+Meteore,artifact,Dozhdboli il Nero Flagello,artifact,1
+Meteore,artifact,Orecchini della Selva,artifact,1
+Meteore,artifact,Dustsceawung,artifact,1
+Meteore,artifact,Osservatore Celeste,artifact,1
+Meteore,artifact,Egida del Rogo,artifact,1
+Meteore,artifact,Psy Bot,artifact,1
+Meteore,artifact,Elmo del Fante Demoniaco,artifact,1
+Meteore,artifact,Prima Lucis Advehens,artifact,1
+Meteore,artifact,Elmo di Gwynplaine,artifact,1
+Meteore,artifact,Putto,artifact,1
+Meteore,artifact,Fante Demoniaco,artifact,1
+Meteore,artifact,Sfida Celeste,artifact,1
+Meteore,artifact,Foglia di Iliar,artifact,1
+Meteore,artifact,Teschio del Traditore,artifact,1
+Meteore,artifact,Frullatore (danneggiato),artifact,1
+Meteore,artifact,Tibia di Jonuun,artifact,1
+Meteore,artifact,Frusta Fiammeggiante,artifact,1
+Meteore,artifact,Tridente del Mare Eterno,artifact,1
+Meteore,artifact,Gemma del Mana Perpetuo,artifact,1
+Meteore,artifact,Yolandi,artifact,1
+Mondo di Neir,lore,Larass'hra,location,1
+Mondo di Neir,lore,Wiloi,unknown,1
+Mondo di Neir,lore,Loy'ach,unknown,1
+Mondo di Neir,lore,Najestarr,npc,1
+Mondo di Neir,lore,Rengaria,location,1
+Mondo di Neir,lore,Distese Nuvolose di Aej'Nagrizzt,location,1
+Mondo di Neir,lore,Tenebris,deity_or_faction,1
+Divinità,deity_or_faction,Adraoos,deity_or_faction,1
+Divinità,deity_or_faction,Bakraag,deity_or_faction,1
+Divinità,deity_or_faction,Demien,deity_or_faction,1
+Divinità,deity_or_faction,Doomkhan,deity_or_faction,1
+Divinità,deity_or_faction,Fadranstaff,deity_or_faction,1
+Divinità,deity_or_faction,Glumdrung,deity_or_faction,1
+Divinità,deity_or_faction,Halthea,deity_or_faction,1
+Divinità,deity_or_faction,Iliar,deity_or_faction,1
+Divinità,deity_or_faction,Krea,deity_or_faction,1
+Divinità,deity_or_faction,Nelen Deseziath,npc,1
+Divinità,deity_or_faction,Lurtan,deity_or_faction,1
+Divinità,deity_or_faction,Maskarr,deity_or_faction,1
+Divinità,deity_or_faction,Nuzagaal,deity_or_faction,1
+Divinità,deity_or_faction,Tenebris,deity_or_faction,1
+Divinità,deity_or_faction,Unthamarand,deity_or_faction,1
+Lanie,deity_or_faction,Neir,location,1
+Cenere di Lanie,location,Cratere di Lava,location,1
+Cenere di Lanie,location,Distese Nuvolose di Aej'Nagrizzt,location,1
+Cenere di Lanie,location,Placido Specchio di Ghyd,location,1
+Dominio delle Trame,location,Città delle Trame,location,1
+Dominio delle Trame,location,Matrona di Sangue,unknown,1
+Ducato di Öuin,location,Dominio delle Trame,location,1
+Ducato di Öuin,location,Agan,npc,1
+Ducato di Öuin,location,Mendulia's Rock,location,1
+Ducato di Öuin,location,Elfi di Dor,ancestry,1
+Ducato di Öuin,location,Halthea,deity_or_faction,1
+Ducato di Öuin,location,Fadranstaff,deity_or_faction,1
+Ducato di Öuin,location,Landa di Edeber,location,1
+Favoleggiate Rovine di Gundazar,location,Najestarr,npc,1
+Favoleggiate Rovine di Gundazar,location,Hadaknaton,unknown,1
+Favoleggiate Rovine di Gundazar,location,Loy'ach,unknown,1
+Favoleggiate Rovine di Gundazar,location,Elfi,unknown,1
+Favoleggiate Rovine di Gundazar,location,Oasi di Zey,location,1
+Favoleggiate Rovine di Gundazar,location,Valle Nuvolosa,location,1
+Impero delle Terre Nascoste,location,Cenere di Lanie,location,1
+Impero delle Terre Nascoste,location,Mendulia's Rock,location,1
+Impero delle Terre Nascoste,location,An'Rao IV,npc,1
+Impero delle Terre Nascoste,location,Terra,unknown,1
+Impero delle Terre Nascoste,location,Kkyrlamny,location,1
+Impero delle Terre Nascoste,location,Fato di Lyonel,location,1
+Impero delle Terre Nascoste,location,Giungla di Erth,location,1
+Impero delle Terre Nascoste,location,Ynxazvann,location,1
+Impero delle Terre Nascoste,location,Hzaad'à,location,1
+Impero delle Terre Nascoste,location,Manor,location,1
+Impero delle Terre Nascoste,location,I Bianchi Sepolcri,location,1
+Larass'hra,location,Elfi,ancestry,1
+Larass'hra,location,Pianure di Xanesh,location,1
+Larass'hra,location,Occhio del Drago,unknown,1
+Larass'hra,location,Città di Nü,location,1
+Larass'hra,location,Baia d'Argento di Onor,location,1
+Larass'hra,location,Bosco di Alysara,location,1
+Larass'hra,location,Bosco di Llira,location,1
+Larass'hra,location,Bosco di Melis,location,1
+Larass'hra,location,Desolazione Occidentale,location,1
+Larass'hra,location,Golfo della Zanna Blu,location,1
+Larass'hra,location,Isole Gemelle,location,1
+Larass'hra,location,Lago di Udz,location,1
+Larass'hra,location,Mare della Progenie dell'Esiliato,location,1
+Larass'hra,location,Montagna dell'Occhio del Drago,location,1
+Larass'hra,location,Picchi del Wyrm,location,1
+Larass'hra,location,Progenie del Vulcano,location,1
+Larass'hra,location,Canzone di Nebvarasa,lore,1
+Magocrazia di Nü,location,Nebvarasa,unknown,1
+Magocrazia di Nü,location,Hadaknaton,unknown,1
+Magocrazia di Nü,location,Nü,unknown,1
+Magocrazia di Nü,location,Cenere di Lanie,location,1
+Magocrazia di Nü,location,Nelen Deseziath,npc,1
+Magocrazia di Nü,location,Doomkhan,deity_or_faction,1
+Magocrazia di Nü,location,Glumdrung,deity_or_faction,1
+Oasi di Zey,location,Wiloi,unknown,1
+Oasi di Zey,location,Elfi,unknown,1
+Oasi di Zey,location,Nani,unknown,1
+Oasi di Zey,location,umani,unknown,1
+Oasi di Zey,location,halfling,unknown,1
+Oasi di Zey,location,Lanie,deity_or_faction,1
+Oasi di Zey,location,Karevi,ancestry,1
+Oasi di Zey,location,Dominio delle Trame,location,1
+Oasi di Zey,location,Öuin,location,1
+Oasi di Zey,location,Mendulia's Rock,location,1
+Oasi di Zey,location,giorni,unknown,1
+Oasi di Zey,location,Doomkhan,deity_or_faction,1
+Oasi di Zey,location,Cenere di Lanie,location,1
+Oasi di Zey,location,Piramide del Dio Dimenticato,location,1
+Oasi di Zey,location,Scuola degli Specchi,location,1
+Oasi di Zey,location,La Taverna Sommersa,location,1
+Oasi di Zey,location,Giardino degli Dei,location,1
+Oasi di Zey,location,Le Mura Invalicabili,location,1
+Oasi di Zey,location,Fadranstaff,deity_or_faction,1
+Oasi di Zey,location,Rakilia,npc,1
+Pianure di Xanesh,location,Valle Nuvolosa,location,1
+Pianure di Xanesh,location,Elspet,unknown,1
+Pianure di Xanesh,location,Aman'raith,unknown,1
+Pianure di Xanesh,location,Varshold,unknown,1
+Pianure di Xanesh,location,Nuzagaal,deity_or_faction,1
+Pianure di Xanesh,location,Kustaza,unknown,1
+Pianure di Xanesh,location,Karevi,unknown,1
+Pianure di Xanesh,location,Uskar,unknown,1
+Pianure di Xanesh,location,Belzifer,unknown,1
+Pianure di Xanesh,location,Garod,deity_or_faction,1
+Pianure di Xanesh,location,Darkfiame,unknown,1
+Pianure di Xanesh,location,Krea,deity_or_faction,1
+Pianure di Xanesh,location,Glumdrung,deity_or_faction,1
+Pianure di Xanesh,location,Milford,location,1
+Pianure di Xanesh,location,Oscura chiesa di Tenebris,unknown,1
+Pianure di Xanesh,location,Hulbert,npc,1
+Repubblica di Mendulia’s Rock,location,Nuzagaal,deity_or_faction,1
+Repubblica di Mendulia’s Rock,location,Wiloi,unknown,1
+Repubblica di Mendulia’s Rock,location,Provincia di Petralta,location,1
+Repubblica di Mendulia’s Rock,location,Elfi,unknown,1
+Repubblica di Mendulia’s Rock,location,Mubunash,location,1
+Repubblica di Mendulia’s Rock,location,Maskarr,deity_or_faction,1
+Repubblica di Mendulia’s Rock,location,Bruin Ashcroft,npc,1
+Repubblica di Mendulia’s Rock,location,Ippodromo,location,1
+Valle Nuvolosa,location,Ludreq,location,1
+Valle Nuvolosa,location,Pahr,location,1
+Valle Nuvolosa,location,selva Infestata di Mysteria,unknown,1
+Valle Nuvolosa,location,Campo Geyser,location,1
+Valli dei Giganti,location,Pianure di Xanesh,location,1
+Valli dei Giganti,location,Urakian,unknown,1
+Valli dei Giganti,location,Cenere di Lanie,location,1
+Valli dei Giganti,location,Fort Arundex,unknown,1
+Valli dei Giganti,location,Nuzagaal,deity_or_faction,1
+Valli dei Giganti,location,Iliar,deity_or_faction,1
+Valli dei Giganti,location,Lago delle Quattro Braccia,location,1
+Valli dei Giganti,location,Wündarka,unknown,1
+Valli dei Giganti,location,Rowzrugu,npc,1
+Valli dei Giganti,location,Buhragath,npc,1
+Verde Foresta,location,Landa di Edeber,location,1
+Verde Foresta,location,Iliar,deity_or_faction,1
+Verde Foresta,location,Fahrn,npc,1
+Elfi di Dor,ancestry,Mendulia's Rock,location,1
+Elfi di Dor,ancestry,Impero delle Terre Nascoste,location,1
+Elfi di Dor,ancestry,Città di Nü,location,1
+Elfi di Dor,ancestry,Halthea,deity_or_faction,1
+Elfi di Dor,ancestry,Garod,deity_or_faction,1
+Elfi di Dor,ancestry,Iliar,deity_or_faction,1
+Elfi di Dor,ancestry,Glumdrung,deity_or_faction,1
+Elfi di Dor,ancestry,Lurtan,deity_or_faction,1
+Hjilaki,ancestry,Neir,location,1
+Vampiro,enemy,Dominio delle Trame,location,1
+Vera Magia,lore,Dimensione dello Spirito,lore,1
+Vera Magia,lore,Vetta delle Anime,location,1
+Vera Magia,lore,Yolam'hra,unknown,1
+Vera Magia,lore,Hadaknaton,unknown,1
+Vera Magia,lore,Zuyndar,unknown,1
+Vera Magia,lore,Rengaria,location,1
+Ali del Radioso Martirio,artifact,Garod,deity_or_faction,1
+Amuleto dell'Investigatore,artifact,Rengaria,location,1
+Anelli degli Elementi,artifact,Neir,location,1
+Balestre della Vita e della Morte,artifact,Hedd,npc,1
+Bastone della Misericordia,artifact,Fadranstaff,deity_or_faction,1
+Bastone della Misericordia,artifact,Rengaria,location,1
+Bastone della Misericordia,artifact,Dimensione della Materia,lore,1
+Bestia Sacra Eneli,artifact,Nebvarasa,unknown,1
+Bestia Sacra Eneli,artifact,Lurtan,deity_or_faction,1
+Binocolo della Preveggenza,artifact,Doomkhan,deity_or_faction,1
+Bracciale dell'Oltredove,artifact,Dimensione della Materia,lore,1
+Bracciale dell'Oltredove,artifact,Zuyndar,unknown,1
+Bracciale Sulfureo,artifact,Tenebris,deity_or_faction,1
+Bracciale Sulfureo,artifact,Garod,deity_or_faction,1
+Bracciale Sulfureo,artifact,Dimensione della Materia,lore,1
+Chevya' La Bestia,artifact,Halthea,deity_or_faction,1
+Chevya' La Bestia,artifact,Neir,location,1
+Chevya' La Bestia,artifact,Nuzagaal,deity_or_faction,1
+Cuore Divino,artifact,Dimensione della Materia,lore,1
+Demone X,artifact,Neir,location,1
+Dustsceawung,artifact,Nebvarasa,unknown,1
+Dustsceawung,artifact,Rengaria,location,1
+Egida del Rogo,artifact,Dimensione dello Spirito,lore,1
+Egida del Rogo,artifact,Neir,location,1
+Egida del Rogo,artifact,Belzifer,unknown,1
+Elmo del Fante Demoniaco,artifact,Demien,deity_or_faction,1
+Fante Demoniaco,artifact,Elmo del Fante Demoniaco,artifact,1
+Foglia di Iliar,artifact,Elfi,unknown,1
+Foglia di Iliar,artifact,Neir,location,1
+Frusta Fiammeggiante,artifact,Tenebris,deity_or_faction,1
+Frusta Fiammeggiante,artifact,Città Senza Nome,unknown,1
+Frusta Fiammeggiante,artifact,Neir,location,1
+Frusta Fiammeggiante,artifact,Karevi,unknown,1
+Frusta Fiammeggiante,artifact,Bakraag,deity_or_faction,1
+Frusta Fiammeggiante,artifact,Unthamarand,deity_or_faction,1
+Gemma del Mana Perpetuo,artifact,Dor,unknown,1
+Gemma del Mana Perpetuo,artifact,Città Torre di Meth,unknown,1
+Gemma del Mana Perpetuo,artifact,Reame di Dor,unknown,1
+Infallibile Cristallo del Fato,artifact,Doomkhan,deity_or_faction,1
+Infallibile Cristallo del Fato,artifact,Notte Eterna,lore,1
+Infallibile Cristallo del Fato,artifact,Gundazar,location,1
+K'idusi Seyifi Mak'at'eli,artifact,Guerra Celeste,lore,1
+K'idusi Seyifi Mak'at'eli,artifact,Fadranstaff,deity_or_faction,1
+Kanptazu,artifact,Neir,location,1
+Kanptazu,artifact,Rengaria,location,1
+La Senza Peso,artifact,Dimensione della Materia,lore,1
+Lacrime Celesti,artifact,Rengaria,location,1
+Lama del Sacro Ordine,artifact,Neir,location,1
+Lanterna del Becchino,artifact,Principato di Darkflame,unknown,1
+Lanterna del Becchino,artifact,Krea,deity_or_faction,1
+Lanterna del Becchino,artifact,Città Senza Nome,unknown,1
+Lanterna del Becchino,artifact,Dimensione dello Spirito,lore,1
+Mano di Krea,artifact,cacciatori di meteore,unknown,1
+Mano di Krea,artifact,Tempio di Krea,unknown,1
+Mano di Krea,artifact,Darkflame,unknown,1
+Mano di Krea,artifact,Burocrate Infernale,unknown,1
+Mantello dei Venti,artifact,Adraoos,deity_or_faction,1
+Mantello dei Venti,artifact,Neir,location,1
+Matna e la Scatola,artifact,gemma del mana perpetuo,unknown,1
+Matna e la Scatola,artifact,Città Senza Nome,unknown,1
+Matna e la Scatola,artifact,Tenebris,deity_or_faction,1
+Mercanti di Meteore,artifact,Guerra Celeste,lore,1
+Mercanti di Meteore,artifact,Meteore,artifact,1
+Mercanti di Meteore,artifact,Rengaria,location,1
+Mercanti di Meteore,artifact,cacciatori di meteore,unknown,1
+Nindja,artifact,Demien,deity_or_faction,1
+Occhio del Demone,artifact,Rengaria,location,1
+Prima Lucis Advehens,artifact,Neir,location,1
+Prima Lucis Advehens,artifact,Dominio delle Trame,location,1
+Psy Bot,artifact,Doomkhan,deity_or_faction,1
+Putto,artifact,Azkabel,location,1
+Sfida Celeste,artifact,Laon,deity_or_faction,1
+Sfida Celeste,artifact,Halthea,deity_or_faction,1
+Teschio del Traditore,artifact,Guerra Celeste,lore,1
+Teschio del Traditore,artifact,Neir,location,1
+Teschio del Traditore,artifact,Dimensione della Materia,lore,1
+Teschio del Traditore,artifact,Rengaria,location,1
+Tibia di Jonuun,artifact,Giganti,unknown,1
+Tibia di Jonuun,artifact,Agmund,unknown,1
+Tridente del Mare Eterno,artifact,Glumdrung,deity_or_faction,1
+Tridente del Mare Eterno,artifact,Neir,location,1
+Cratere di Lava,location,Urakian,unknown,1
+Cratere di Lava,location,Lanie,deity_or_faction,1
+Distese Nuvolose di Aej'Nagrizzt,location,Rengaria,location,1
+Distese Nuvolose di Aej'Nagrizzt,location,Urakian,unknown,1
+Placido Specchio di Ghyd,location,Urakian,unknown,1
+Città delle Trame,location,Piscine,location,1
+Città delle Trame,location,Obelisco dei Vinti,location,1
+Città delle Trame,location,Mercato degli Schiavi,location,1
+Città delle Trame,location,Cancello,location,1
+Città delle Trame,location,Segrete,location,1
+Città delle Trame,location,Reggia dei Piaceri,location,1
+Landa di Edeber,location,Öuin,location,1
+Landa di Edeber,location,klorss,unknown,1
+Landa di Edeber,location,Radura delle Pietre Grigie,location,1
+Öuin,location,Palazzo Ducale,location,1
+Öuin,location,Piazza della Giostra,location,1
+Öuin,location,Sala dei Gran Maestri,location,1
+Öuin,location,Riposo dei Cavalieri,location,1
+Öuin,location,Molo,location,1
+Öuin,location,Ponte Curvo,location,1
+Öuin,location,Locanda degli Eroi,location,1
+Öuin,location,Tempio del Cuore e della Mente,location,1
+Gundazar,location,Il Palazzo Imperiale,location,1
+Gundazar,location,La Torre delle Anime,location,1
+Kkyrlamny,location,Neir,location,1
+Kkyrlamny,location,Karevi,unknown,1
+Kkyrlamny,location,Giungla di Erth,location,1
+Kkyrlamny,location,Lago Vurur,location,1
+Kkyrlamny,location,Miniere delle Otto Famiglie,location,1
+Kkyrlamny,location,Hzaad'à,location,1
+Kkyrlamny,location,Fiume Dern,location,1
+Kkyrlamny,location,Ynxazvann,location,1
+Kkyrlamny,location,Gloriosa Ezakran,location,1
+Provincia di Petralta,location,Abisso Oscuro,location,1
+Provincia di Petralta,location,Baia di Redoro,location,1
+Provincia di Petralta,location,Fato di Lyonel,location,1
+Provincia di Petralta,location,Petralta,location,1
+Provincia di Petralta,location,Manor,location,1
+Mendulia's Rock,location,Rupe di Mendulia,location,1
+Mendulia's Rock,location,Molo degli Stendardi,location,1
+Mendulia's Rock,location,Rifugio dei Marinai,location,1
+Mendulia's Rock,location,Base della Marina,location,1
+Mendulia's Rock,location,Banco del Mare,location,1
+Mendulia's Rock,location,Ippodromo,location,1
+Mendulia's Rock,location,Corporazione delle Arti,location,1
+Mendulia's Rock,location,Tana delle Sguattere,location,1
+Mendulia's Rock,location,Bassifondi,location,1
+Mendulia's Rock,location,Tempio della Guarigione,location,1
+Mendulia's Rock,location,Accademia delle Sette Arti,location,1
+Mendulia's Rock,location,Scuola delle Parole che Uccidono,location,1
+Mendulia's Rock,location,Teatro dei Sogni,location,1
+Baia d'Argento di Onor,location,Cimitero dei Draghi,location,1
+Bosco di Alysara,location,Azkabel,location,1
+Bosco di Alysara,location,Magocrazia di Nü,location,1
+Bosco di Alysara,location,Mendulia's Rock,location,1
+Bosco di Alysara,location,Neir,location,1
+Cimitero dei Draghi,location,Larass'hra,location,1
+Cimitero dei Draghi,location,Nebvarasa,unknown,1
+Desolazione Occidentale,location,Neir,location,1
+Isole Gemelle,location,Desolazione Occidentale,location,1
+Montagna dell'Occhio del Drago,location,Leresalazsnn'hra,unknown,1
+Montagna dell'Occhio del Drago,location,Cenere di Lanie,location,1
+Regione Mistica,location,Picchi del Wyrm,location,1
+Terra di Ambra,location,Neir,location,1
+Terra di Ambra,location,Canzone di Nebvarasa,lore,1
+Terra di Ambra,location,Leresalazsnn'hra,unknown,1
+Azkabel,location,Casa dei Musici e delle Belle Arti,location,1
+Azkabel,location,Biblioteca di Azkabel,location,1
+Azkabel,location,Osteria dell'Onda Infranta,location,1
+Città di Nü,location,Wiloi,unknown,1
+Città di Nü,location,Elfi,unknown,1
+Città di Nü,location,Magocrazia di Nü,location,1
+Città di Nü,location,Daragoss,location,1
+Città di Nü,location,Elfi di Dor,ancestry,1
+Città di Nü,location,Azkabel,location,1
+Città di Nü,location,Torre dei Segreti,location,1
+Città di Nü,location,Locanda della Pergamena Annacquata,location,1
+Città di Nü,location,Accademia Magica di Nü,location,1
+Città di Nü,location,Locanda delle Spade Incantate,location,1
+Città di Nü,location,Doomkhan,deity_or_faction,1
+Daragoss,location,Wiloi,unknown,1
+Daragoss,location,Elfi,ancestry,1
+Daragoss,location,Città di Nü,location,1
+Daragoss,location,Azkabel,location,1
+Daragoss,location,Neir,location,1
+Daragoss,location,Via delle Botteghe,location,1
+Daragoss,location,Università delle Scienze,location,1
+Daragoss,location,Museo Naturale,location,1
+Daragoss,location,Caserma delle Mille Lance,location,1
+Daragoss,location,Grande Porto,location,1
+Giardino degli Dei,location,Città delle Trame,location,1
+Le Mura Invalicabili,location,Urakian,unknown,1
+Le Mura Invalicabili,location,Forte Arundex,location,1
+Piramide del Dio Dimenticato,location,Elfi,unknown,1
+Piramide del Dio Dimenticato,location,Neir,location,1
+Scuola degli Specchi,location,Neir,location,1
+Scuola degli Specchi,location,Sagister,npc,1
+Scuola degli Specchi,location,Piramide del Dio Dimenticato,location,1
+Scuola degli Specchi,location,Doomkhan,deity_or_faction,1
+Milford,location,Dominio delle Trame,location,1
+Milford,location,Pianure di Xanesh,location,1
+Milford,location,Fortino del Conte,location,1
+Milford,location,Locanda dell'Eterno Riposo,location,1
+Milford,location,Iliar,deity_or_faction,1
+Milford,location,Krea,deity_or_faction,1
+Mubunash,location,Mendulia's Rock,location,1
+Mubunash,location,Tenebris,deity_or_faction,1
+Mubunash,location,Oscura Chiesa di Tenebris,location,1
+Mubunash,location,Torre Baronale,location,1
+Mubunash,location,Locanda del Cappuccio Nero,location,1
+Mubunash,location,Corporazione degli Archivisti,location,1
+Mubunash,location,Tempietto degli Ospedalieri,location,1
+Mubunash,location,Terme Imperiali,location,1
+Mubunash,location,Via degli Imperatori,location,1
+Mubunash,location,Monteforte,location,1
+Mubunash,location,Neir,location,1
+Forte Arundex,location,Neir,location,1
+Forte Arundex,location,Bastione Grigio,location,1
+Forte Arundex,location,Arena delle Belve,location,1
+Forte Arundex,location,Tempio degli Antenati,location,1
+Forte Arundex,location,Guarnigione del Simbolo Guerriero,location,1
+Forte Arundex,location,Antro dei Lupi d'Inverno,location,1
+Forte Arundex,location,Lago delle Quattro Braccia,location,1
+Forte Arundex,location,Doomkhan,deity_or_faction,1
+Campo Geyser,location,Valle Nuvolosa,location,1
+Campo Geyser,location,Nani,ancestry,1
+Ludreq,location,Fonderia del Principe,location,1
+Ludreq,location,Bastione del Principe,location,1
+Ludreq,location,Fondo di Guldann,location,1
+Ludreq,location,Fortezza degli Scudi,location,1
+Ludreq,location,Santuario di Fadranstaff,location,1
+Ludreq,location,Collegio,location,1
+Ludreq,location,Birreria dei Thunder,location,1
+Pahr,location,Ludreq,location,1
+Pahr,location,selva infestata di Mysteria,unknown,1
+Selva Infestata di Mysteria,location,Elfi,unknown,1
+Cancello,location,Città delle Trame,location,1
+Mercato degli Schiavi,location,Urakian,unknown,1
+Mercato degli Schiavi,location,elfi\,unknown,1
+Mercato degli Schiavi,location,halfling,unknown,1
+Mercato degli Schiavi,location,gnomi\,unknown,1
+Mercato degli Schiavi,location,orchi\,unknown,1
+Mercato degli Schiavi,location,umani\,unknown,1
+Obelisco dei Vinti,location,Città delle Trame,location,1
+Reggia dei Piaceri,location,Città delle Trame,location,1
+Reggia dei Piaceri,location,Neir,location,1
+Segrete,location,Namass'rya,npc,1
+Segrete,location,Dominio delle Trame,location,1
+Segrete,location,Matrona di Sangue,unknown,1
+Locanda degli Eroi,location,Öuin,location,1
+Locanda degli Eroi,location,Valle Nuvolosa,location,1
+Molo,location,Città di Nü,location,1
+Molo,location,Landa di Edeber,location,1
+Molo,location,Mendulia's Rock,location,1
+Molo,location,Daragoss,location,1
+Palazzo Ducale,location,Piazza della Giostra,location,1
+Ponte Curvo,location,Öuin,location,1
+Riposo dei Cavalieri,location,Öuin,location,1
+Riposo dei Cavalieri,location,Laon,deity_or_faction,1
+Sala dei Gran Maestri,location,Agan,npc,1
+Sala dei Gran Maestri,location,Lewyn,npc,1
+Aman'Raith,location,Valle Nuvolosa,location,1
+Aman'Raith,location,Verde Foresta,location,1
+La Torre delle Anime,location,Mendulia's Rock,location,1
+La Torre delle Anime,location,Neir,location,1
+Fiume Dern,location,Kkyrlamny,location,1
+Fiume Dern,location,Valli dei Giganti,location,1
+Fiume Dern,location,Abisso Oscuro,location,1
+Gloriosa Ezakran,location,Impero delle Terre Nascoste,location,1
+Gloriosa Ezakran,location,Kkyrlamny,location,1
+Gloriosa Ezakran,location,Hzaad'à,location,1
+Gloriosa Ezakran,location,Tempio della Luce Nera,location,1
+Gloriosa Ezakran,location,Palazzo-sfera dell'Imperatore,location,1
+Gloriosa Ezakran,location,Giardinetti Lungofiume,location,1
+Gloriosa Ezakran,location,Quartiere Mendus,location,1
+Gloriosa Ezakran,location,Quartiere Hjilaki,location,1
+Gloriosa Ezakran,location,Quartiere Zeyd,location,1
+Gloriosa Ezakran,location,Ritrovo dei Dannati,location,1
+Hzaad'à,location,Kkyrlamny,location,1
+Hzaad'à,location,Petralta,location,1
+Hzaad'à,location,Garod,deity_or_faction,1
+Lago Vurur,location,Giungla di Erth,location,1
+Lago Vurur,location,Neir,location,1
+Lago Vurur,location,Karevi,unknown,1
+Abisso Oscuro,location,Neir,location,1
+Abisso Oscuro,location,Hzaad'à,location,1
+Abisso Oscuro,location,Wiloi,unknown,1
+Baia di Redoro,location,Provincia di Petralta,location,1
+Baia di Redoro,location,Repubblica di Mendulia’s Rock,location,1
+Fato di Lyonel,location,Baia di Redoro,location,1
+Fato di Lyonel,location,Neir,location,1
+Fato di Lyonel,location,Gundazar,location,1
+Manor,location,Impero delle Terre Nascoste,location,1
+Manor,location,Neir,location,1
+Manor,location,Cenere di Lanie,location,1
+Petralta,location,Gundazar,location,1
+Petralta,location,Gloriosa Ezakran,location,1
+Petralta,location,Abisso Oscuro,location,1
+Petralta,location,Manor,location,1
+Petralta,location,Baia di Redoro,location,1
+Petralta,location,Mendulia's Rock,location,1
+Petralta,location,Fiera Avveniristica di Flurr lo Gnomo,location,1
+Petralta,location,Porticato del Governatore,location,1
+Petralta,location,Ostello dei Morti Contenti,location,1
+Petralta,location,Ospedale del Silenzio,location,1
+Petralta,location,I Bianchi Sepolcri,location,1
+Petralta,location,Mura di Aeros II,location,1
+Giardinetti Lungofiume,location,Karevi,unknown,1
+Palazzo-sfera dell'Imperatore,location,Neir,location,1
+Palazzo-sfera dell'Imperatore,location,Larass'hra,location,1
+Palazzo-sfera dell'Imperatore,location,Impero delle Terre Nascoste,location,1
+Quartiere Hjilaki,location,Giardinetti Lungofiume,location,1
+Quartiere Hjilaki,location,Karevi,unknown,1
+Quartiere Mendus,location,Mendulia's Rock,location,1
+Quartiere Mendus,location,Gloriosa Ezakran,location,1
+Quartiere Mendus,location,Karevi,unknown,1
+Quartiere Mendus,location,Petralta,location,1
+Quartiere Zeyd,location,Karevi,unknown,1
+Ritrovo dei Dannati,location,Karevi,unknown,1
+Ritrovo dei Dannati,location,Gloriosa Ezakran,location,1
+Tempio della Luce Nera,location,Neir,location,1
+Tempio della Luce Nera,location,M'oraoork,npc,1
+Fiera Avveniristica di Flurr lo Gnomo,location,Petralta,location,1
+Ospedale del Silenzio,location,Petralta,location,1
+Ostello dei Morti Contenti,location,Petralta,location,1
+Banco del Mare,location,Daragoss,location,1
+Bassifondi,location,Dardi Sanguinanti,unknown,1
+Ippodromo,location,Mendulia's Rock,location,1
+Ippodromo,location,Neir,location,1
+Molo degli Stendardi,location,Mendulia's Rock,location,1
+Rifugio dei Marinai,location,Orchi,unknown,1
+Rifugio dei Marinai,location,Urakian,unknown,1
+Rifugio dei Marinai,location,halfling,unknown,1
+Rifugio dei Marinai,location,Umani,ancestry,1
+Rifugio dei Marinai,location,Elfi,ancestry,1
+Rifugio dei Marinai,location,Wiloi,unknown,1
+Rifugio dei Marinai,location,Karevi,unknown,1
+Rifugio dei Marinai,location,gnomo,unknown,1
+Rifugio dei Marinai,location,Azkabel,location,1
+Rifugio dei Marinai,location,Molo degli Stendardi,location,1
+Scuola delle Parole che Uccidono,location,Mendulia's Rock,location,1
+Tana delle Sguattere,location,Orchi,ancestry,1
+Tempio della Guarigione,location,Fadranstaff,deity_or_faction,1
+Tempio della Guarigione,location,Mendulia's Rock,location,1
+Biblioteca di Azkabel,location,Yolam'hra,unknown,1
+Casa dei Musici e delle Belle Arti,location,Elfi,unknown,1
+Osteria dell'Onda Infranta,location,Azkabel,location,1
+Accademia Magica di Nü,location,Neir,location,1
+Locanda della Pergamena Annacquata,location,Accademia Magica di Nü,location,1
+Locanda della Pergamena Annacquata,location,yamyam,unknown,1
+Caserma delle Mille Lance,location,Magocrazia di Nü,location,1
+Caserma delle Mille Lance,location,Daragoss,location,1
+Grande Porto,location,Daragoss,location,1
+Museo Naturale,location,Università delle Scienze,location,1
+Università delle Scienze,location,Accademia Magica di Nü,location,1
+Università delle Scienze,location,Daragoss,location,1
+Via delle Botteghe,location,Daragoss,location,1
+Fortino del Conte,location,Annie Rose-Robe,npc,1
+Fortino del Conte,location,Fadranstaff,deity_or_faction,1
+Locanda dell'Eterno Riposo,location,Neir,location,1
+Locanda dell'Eterno Riposo,location,Milford,location,1
+Corporazione degli Archivisti,location,Neir,location,1
+Oscura Chiesa di Tenebris,location,Pianure di Xanesh,location,1
+Tempietto degli Ospedalieri,location,Mubunash,location,1
+Tempietto degli Ospedalieri,location,Fadranstaff,deity_or_faction,1
+Terme Imperiali,location,Mubunash,location,1
+Torre Baronale,location,Oscura Chiesa di Tenebris,location,1
+Via degli Imperatori,location,Gundazar,location,1
+Via degli Imperatori,location,Pianure di Xanesh,location,1
+Via degli Imperatori,location,Tenebris,deity_or_faction,1
+Antro dei Lupi d'Inverno,location,Neir,location,1
+Antro dei Lupi d'Inverno,location,Dardi Sanguinanti,unknown,1
+Antro dei Lupi d'Inverno,location,Forte Arundex,location,1
+Antro dei Lupi d'Inverno,location,Karevi,unknown,1
+Bastione Grigio,location,Forte Arundex,location,1
+Guarnigione del Simbolo Guerriero,location,Orgnornor,npc,1
+Tempio degli Antenati,location,Forte Arundex,location,1
+Bastione del Principe,location,Valle Nuvolosa,location,1
+Collegio,location,Nani,unknown,1
+Fonderia del Principe,location,Nani,unknown,1
+Fondo di Guldann,location,Impero delle Terre Nascoste,location,1
+Fondo di Guldann,location,Neir,location,1
+Fortezza degli Scudi,location,Fondo di Guldann,location,1
+Santuario di Fadranstaff,location,Ludreq,location,1
+Santuario di Fadranstaff,location,Fadranstaff,deity_or_faction,1
+Archivista,community,gnoll,unknown,1
+Archivista,community,bardi,unknown,1
+Archivista,community,Mubunash,location,1
+Archivista,community,Pianure di Xanesh,location,1
+Background,community,Esmeraldia,unknown,1
+Background,community,Baia di Redoro,location,1
+Background,community,Dardi Sanguinanti,unknown,1
+Background,community,Archivista,community,1
+Background,community,Dardo Sanguinante,community,1
+Cacciatore di Meteore,community,Forte Arundex,location,1
+Cacciatore di Meteore,community,Urakian,unknown,1
+Cacciatore di Meteore,community,Karevi,unknown,1
+Cacciatore di Meteore,community,Wiloi,unknown,1
+Cacciatore di Meteore,community,Neir,location,1
+Cacciatore di Meteore,community,Rengaria,location,1
+Cacciatore di Meteore,community,Dimensione della Materia,lore,1
+Dardo Sanguinante,community,Neir,location,1
+Mare Andante,community,Gilda del Gonfalone Azzurro,unknown,1
+Mare Andante,community,Gonfalone,unknown,1
+Mare Andante,community,Gonfalone Azzurro,unknown,1
+Arcana,domain,Custode delle Rune,ability,1
+Arcana,domain,Libera il Caos,ability,1
+Arcana,domain,Cammino sulle Pareti,ability,1
+Arcana,domain,Presa Cinerea,ability,1
+Arcana,domain,Occhio Fluttuante,ability,1
+Arcana,domain,ControIncantesimo,ability,1
+Arcana,domain,Volo,ability,1
+Arcana,domain,Sparizione,ability,1
+Arcana,domain,Esplosione di Conservazione,ability,1
+Arcana,domain,Catena di Fulmini,ability,1
+Arcana,domain,Premonizione,ability,1
+Arcana,domain,Camminatore di Fessura,ability,1
+Arcana,domain,Telecinesi,ability,1
+Arcana,domain,Toccato dall'Arcano,ability,1
+Arcana,domain,Esplosione Ammantata,ability,1
+Arcana,domain,Riflesso Arcano,ability,1
+Arcana,domain,Aura Confondente,ability,1
+Arcana,domain,Terremoto,ability,1
+Arcana,domain,Proiezione Sensoriale,ability,1
+Arcana,domain,Regola la Realtà,ability,1
+Arcana,domain,Cieli che Cadono,ability,1
+Codice,domain,Bard,class,1
+Codice,domain,Wizard,class,1
+Codice,domain,Libro di Ava,ability,1
+Codice,domain,Libro di Illiat,ability,1
+Codice,domain,Libro di Tyfar,ability,1
+Codice,domain,Libro di Sitil,ability,1
+Codice,domain,Libro di Vagras,ability,1
+Codice,domain,Libro di Korvax,ability,1
+Codice,domain,Libro di Norai,ability,1
+Codice,domain,Libro di Exota,ability,1
+Codice,domain,Libro di Grynn,ability,1
+Codice,domain,Muro Manifesto,ability,1
+Codice,domain,Teletrasporto,ability,1
+Codice,domain,Cacciare,ability,1
+Codice,domain,Sigillo di Ritorsione,ability,1
+Codice,domain,Libro di Homet,ability,1
+Codice,domain,Toccato dal Codice,ability,1
+Codice,domain,Libro di Vyola,ability,1
+Codice,domain,Rifugio Sicuro,ability,1
+Codice,domain,Libro di Ronin,ability,1
+Codice,domain,Onda di Disintegrazione,ability,1
+Codice,domain,Libro di Yarrow,ability,1
+Codice,domain,Unione Trascendente,ability,1
+Grazia,domain,Abile Inganno,ability,1
+Grazia,domain,Estasi,ability,1
+Grazia,domain,Parole d'Ispirazione,ability,1
+Grazia,domain,Non Dire Mai Bugie,ability,1
+Grazia,domain,PiantaGrane,ability,1
+Grazia,domain,Velo Ipnotico,ability,1
+Grazia,domain,Invisibilità,ability,1
+Grazia,domain,Discorso Rassicurante,ability,1
+Grazia,domain,Attraverso i Tuoi Occhi,ability,1
+Grazia,domain,Scavatore di Pensieri,ability,1
+Grazia,domain,Parole di Discordia,ability,1
+Grazia,domain,Mai Sopraffatto,ability,1
+Grazia,domain,Condividi il Carico,ability,1
+Grazia,domain,Carisma Infinito,ability,1
+Grazia,domain,Tocco della Grazia,ability,1
+Grazia,domain,Proiezione Astrale,ability,1
+Grazia,domain,Entusiasmo di Massa,ability,1
+Grazia,domain,Imitatore,ability,1
+Grazia,domain,Maestro dell'Arte,ability,1
+Grazia,domain,Ripetizione,ability,1
+Grazia,domain,Famoso,ability,1
+Lama,domain,Guardian,class,1
+Lama,domain,Warrior,class,1
+Lama,domain,Rialzati,ability,1
+Lama,domain,Non Abbastanza Buono,ability,1
+Lama,domain,Vortice,ability,1
+Lama,domain,Legame di un Soldato,ability,1
+Lama,domain,Audace,ability,1
+Lama,domain,Mischia,ability,1
+Lama,domain,Combattente Versatile,ability,1
+Lama,domain,Concentrazione Letale,ability,1
+Lama,domain,Armatura Fortificata,ability,1
+Lama,domain,Vantaggio del Campione,ability,1
+Lama,domain,Vitalità,ability,1
+Lama,domain,Rafforzato in Battaglia,ability,1
+Lama,domain,Furia Crescente,ability,1
+Lama,domain,Colpito dalla Lama,ability,1
+Lama,domain,Colpo di Sfioramento,ability,1
+Lama,domain,Grido di Battaglia,ability,1
+Lama,domain,Frenesia,ability,1
+Lama,domain,Sangue e Gloria,ability,1
+Lama,domain,Colpo del Mietitore,ability,1
+Lama,domain,Mostro da Battaglia,ability,1
+Lama,domain,Assalto,ability,1
+MezzaNotte,domain,Prendi e Tira,ability,1
+MezzaNotte,domain,Pioggia di Lame,ability,1
+MezzaNotte,domain,Travestimento Misterioso,ability,1
+MezzaNotte,domain,Spirito di Mezzanotte,ability,1
+MezzaNotte,domain,Legame dell'Ombra,ability,1
+MezzaNotte,domain,Presa alla Gola,ability,1
+MezzaNotte,domain,Velo Notturno,ability,1
+MezzaNotte,domain,Esperto di Furtività,ability,1
+MezzaNotte,domain,Glifo dell'Oscurità,ability,1
+MezzaNotte,domain,Silenzio,ability,1
+MezzaNotte,domain,Ritirata Fantasma,ability,1
+MezzaNotte,domain,Sussurri Oscuri,ability,1
+MezzaNotte,domain,Travestimento di Massa,ability,1
+MezzaNotte,domain,Toccato dalla Mezzanotte,ability,1
+MezzaNotte,domain,Schivata Elusiva,ability,1
+MezzaNotte,domain,Cacciatore d'Ombre,ability,1
+MezzaNotte,domain,Carica di Incantesimo,ability,1
+MezzaNotte,domain,Terrore della Notte,ability,1
+MezzaNotte,domain,Tassa del Crepuscolo,ability,1
+MezzaNotte,domain,Eclissi,ability,1
+MezzaNotte,domain,Spettro del Buio,ability,1
+Ossa,domain,Manovre Agili,ability,1
+Ossa,domain,Vedo Che Arriva,ability,1
+Ossa,domain,Intoccabile,ability,1
+Ossa,domain,Ferocia,ability,1
+Ossa,domain,Approccio Strategico,ability,1
+Ossa,domain,Rafforzamento,ability,1
+Ossa,domain,Tattico,ability,1
+Ossa,domain,Potenziamento,ability,1
+Ossa,domain,Ridirezione,ability,1
+Ossa,domain,Conosci il tuo nemico,ability,1
+Ossa,domain,Mossa Caratteristica,ability,1
+Ossa,domain,Risposta Rapida,ability,1
+Ossa,domain,Recupero,ability,1
+Ossa,domain,Toccando l'Osso,ability,1
+Ossa,domain,Precisione Crudele,ability,1
+Ossa,domain,Colpo di Rottura,ability,1
+Ossa,domain,Controllare,ability,1
+Ossa,domain,Sul Limite,ability,1
+Ossa,domain,Colpo di Frantumazione,ability,1
+Ossa,domain,Corsa verso la Morte,ability,1
+Ossa,domain,Passo Rapido,ability,1
+Saggio,domain,Druid,class,1
+Saggio,domain,Ranger,class,1
+Saggio,domain,Tracciatore Dotato,ability,1
+Saggio,domain,Lingua della Natura,ability,1
+Saggio,domain,Intrico Violento,ability,1
+Saggio,domain,Evoca Sciame,ability,1
+Saggio,domain,Famiglio della Natura,ability,1
+Saggio,domain,Proiettile Corrosivo,ability,1
+Saggio,domain,Fusto Maestoso,ability,1
+Saggio,domain,Morsa Mortale,ability,1
+Saggio,domain,Campo di Guarigione,ability,1
+Saggio,domain,Pelle di Spine,ability,1
+Saggio,domain,Fortezza Selvaggia,ability,1
+Saggio,domain,Equidi Evocati,ability,1
+Saggio,domain,Raccoglitore,ability,1
+Saggio,domain,Tocco del Saggio,ability,1
+Saggio,domain,Impulso Selvaggio,ability,1
+Saggio,domain,Spiritelli della Foresta,ability,1
+Saggio,domain,Barriera di Rigenerazione,ability,1
+Saggio,domain,Santuario della Selva,ability,1
+Saggio,domain,Dominio Vegetale,ability,1
+Saggio,domain,Forza della Natura,ability,1
+Saggio,domain,Tempesta,ability,1
+Splendore,domain,Proiettile di Luce,ability,1
+Splendore,domain,Tocco Riparatore,ability,1
+Splendore,domain,Rassicurazione,ability,1
+Splendore,domain,Ultime Parole,ability,1
+Splendore,domain,Mani Curatrici,ability,1
+Splendore,domain,Secondo Respiro,ability,1
+Splendore,domain,Voce della Ragione,ability,1
+Splendore,domain,Divinazione,ability,1
+Splendore,domain,Vita Protetta,ability,1
+Splendore,domain,Forma Materiale,ability,1
+Splendore,domain,Colpo,ability,1
+Splendore,domain,Ristoro,ability,1
+Splendore,domain,Zona di Protezione,ability,1
+Splendore,domain,Colpo Guaritore,ability,1
+Splendore,domain,Tocco dello Splendore,ability,1
+Splendore,domain,Scudo d'Aura,ability,1
+Splendore,domain,Splendida Luce Solare,ability,1
+Splendore,domain,Aura Sovrastante,ability,1
+Splendore,domain,Raggio Salvifico,ability,1
+Splendore,domain,Rinvigorimento,ability,1
+Splendore,domain,Risurrezione,ability,1
+Valore,domain,Ossa e Pelle,ability,1
+Valore,domain,Spinta Forzata,ability,1
+Valore,domain,Sono Il Tuo Scudo,ability,1
+Valore,domain,Distruttore di Corpi,ability,1
+Valore,domain,Presenza Audace,ability,1
+Valore,domain,Ispirazione Critica,ability,1
+Valore,domain,Appoggiati,ability,1
+Valore,domain,Provocazione,ability,1
+Valore,domain,Scudo di Supporto,ability,1
+Valore,domain,Corazza,ability,1
+Valore,domain,Colpo Risonante,ability,1
+Valore,domain,Inevitabile,ability,1
+Valore,domain,Risorgi,ability,1
+Valore,domain,Scuotiti,ability,1
+Valore,domain,Toccato dal Valore,ability,1
+Valore,domain,Piena Ondata,ability,1
+Valore,domain,Colpire al Suolo,ability,1
+Valore,domain,Tieni la Linea,ability,1
+Valore,domain,Guida con l'Esempio,ability,1
+Valore,domain,Infrangibile,ability,1
+Valore,domain,Armatura Infrangibile,ability,1
+Abominio dei Regni Esterni,enemy,Picchiatore,unknown,1
+Adepto Cultista,enemy,Supporto,unknown,1
+Agglomerato di Carcasse Zombie,enemy,Solo,unknown,1
+Alto Serafino,enemy,Capo,unknown,1
+Anguille Elettriche,enemy,Orda,unknown,1
+Aquila Gigante,enemy,Furtivo,unknown,1
+Arcere Scheletrico,enemy,a Distanza,unknown,1
+Arciere Maledetto,enemy,a Distanza,unknown,1
+Arciere Spettrale,enemy,a Distanza,unknown,1
+ArcoNecromante,enemy,Capo,unknown,1
+Assassino Apprendista,enemy,Minion,unknown,1
+Assassino Velenoso,enemy,Furtivo,unknown,1
+Bandito con Lama Seghettata,enemy,Standard,unknown,1
+Barone Mercante,enemy,Sociale,unknown,1
+Cacciatore Mortale,enemy,Capo,unknown,1
+Capitano Pirata,enemy,Capo,unknown,1
+Capitano Spettrale,enemy,Capo,unknown,1
+Capo delle Guardie,enemy,Capo,unknown,1
+Cavaliere del Cervo,enemy,Standard,unknown,1
+Cavaliere della Corona,enemy,Capo,unknown,1
+Cavaliere Scheletrico,enemy,Picchiatore,unknown,1
+Cecchino della Lama Seghettata,enemy,a Distanza,unknown,1
+Combattente Gigante,enemy,Picchiatore,unknown,1
+Consigliere Reale,enemy,Sociale,unknown,1
+Corrutore dei Regni Esterni,enemy,Supporto,unknown,1
+Corruttore dei Regni Esterni,enemy,Supporto,unknown,1
+Cortigiana,enemy,Sociale,unknown,1
+Cortigiano,enemy,Sociale,unknown,1
+Coscritto,enemy,Minion,unknown,1
+Costrutto,enemy,Solo,unknown,1
+Custode dei Segreti,enemy,Capo,unknown,1
+Demone dell'Avarizia,enemy,Supporto,unknown,1
+Demone dell'Presunzione,enemy,Capo,unknown,1
+Demone della Furia,enemy,Picchiatore,unknown,1
+Demone di Disperazione,enemy,Furtivo,unknown,1
+Demone di Gelosia,enemy,a Distanza,unknown,1
+Demone Minore,enemy,Solo,unknown,1
+Devastatore,enemy,Standard,unknown,1
+Difensore dalle Radici Profonde,enemy,Picchiatore,unknown,1
+Dragatore Scheletrico,enemy,Minion,unknown,1
+Drago Vulcanico Flagello Fuso,enemy,Solo,unknown,1
+Drago Vulcanico Predatore di Ossidiana,enemy,Solo,unknown,1
+Drago Vulcanico Tiranno Cinereo,enemy,Solo,unknown,1
+Driade,enemy,Capo,unknown,1
+Elementale Maggiore dell'Acqua,enemy,Supporto,unknown,1
+Elementale Maggiore della Terra,enemy,Picchiatore,unknown,1
+Elementale Minore del Caos,enemy,Solo,unknown,1
+Elementale Minore del Fuoco,enemy,Solo,unknown,1
+Esperimento Fallito,enemy,Standard,unknown,1
+Giovane Drago di Ghiaccio,enemy,Solo,unknown,1
+Giovane Driade,enemy,Capo,unknown,1
+Gorgone,enemy,Solo,unknown,1
+Gruppo di Zombie,enemy,Orda,unknown,1
+Guardia Arciere,enemy,a Distanza,unknown,1
+Guardia con Lama,enemy,Standard,unknown,1
+Guardiano Carceriere della Cripta,enemy,Supporto,unknown,1
+Guardiano Spettrale,enemy,Standard,unknown,1
+Guerriero Caduto Campione Imbattibile,enemy,Solo,unknown,1
+Guerriero Caduto Frantumatore di Reami,enemy,Solo,unknown,1
+Guerriero Scheletrico,enemy,Standard,unknown,1
+Idra,enemy,Solo,unknown,1
+Immensa Melma Verde,enemy,Furtivo,unknown,1
+Iniziato Cultista,enemy,Minion,unknown,1
+Kraken,enemy,Solo,unknown,1
+Ladro Mascherato,enemy,Furtivo,unknown,1
+Lama Incantata,enemy,Capo,unknown,1
+Legione Zombie,enemy,Orda,unknown,1
+Lucciola Adulta,enemy,Solo,unknown,1
+Lucciola Giovane,enemy,Solo,unknown,1
+Lupo Mannaro,enemy,Furtivo,unknown,1
+Maestro Assassino,enemy,Capo,unknown,1
+Maestro delle Armi,enemy,Picchiatore,unknown,1
+Maestro delle Bestie Gigante,enemy,Capo,unknown,1
+Mago della Lama Seghettata,enemy,Supporto,unknown,1
+Melma Rossa,enemy,Furtivo,unknown,1
+Melma Verde,enemy,Furtivo,unknown,1
+Mente dei Vampiri,enemy,Capo,unknown,1
+Mercante,enemy,Sociale,unknown,1
+Mercenario,enemy,Minion,unknown,1
+Minotauro Demolitore,enemy,Picchiatore,unknown,1
+Minotauro Demolitore,enemy,firbolg,unknown,1
+Monarca,enemy,Sociale,unknown,1
+Nobile Minore,enemy,Sociale,unknown,1
+Ogre di Caverna,enemy,Solo,unknown,1
+Ombra della Lama Seghettata,enemy,Furtivo,unknown,1
+Oracolo del Destino,enemy,Solo,unknown,1
+Orso,enemy,Picchiatore,unknown,1
+Pastore di Alberi Minore,enemy,Minion,unknown,1
+Pastore di Alberi Quercia,enemy,Picchiatore,unknown,1
+Piccola Melma Rossa,enemy,Furtivo,unknown,1
+Piccola Melma Verde,enemy,Furtivo,unknown,1
+Piccolo Pastore di Alberi,enemy,Minion,unknown,1
+Pirata Resiliente,enemy,Picchiatore,unknown,1
+Predoni Pirati,enemy,Orda,unknown,1
+Ratto Gigante,enemy,Minion,unknown,1
+Recluta Gigante,enemy,Minion,unknown,1
+Rovi Intricati,enemy,Minion,unknown,1
+Scatola da Battaglia,enemy,Solo,unknown,1
+Scavatore Acido,enemy,Solo,unknown,1
+Sciame di Ratti,enemy,Orda,unknown,1
+Sciame di Rovi Intricati,enemy,Orda,unknown,1
+Scintilla Elementale,enemy,Minion,unknown,1
+Scorpione Gigante,enemy,Picchiatore,unknown,1
+Seguace della Lama Seghettata,enemy,Minion,unknown,1
+Sentinella Guardiana della Cripta,enemy,Picchiatore,unknown,1
+Serpente di Vetro,enemy,Standard,unknown,1
+Servo dei Regni Esterni,enemy,Minion,unknown,1
+Sirena,enemy,Furtivo,unknown,1
+Soldato d'Assalto Caduto,enemy,Minion,unknown,1
+Soldato d'Elite,enemy,Standard,unknown,1
+Soldato Maledetto,enemy,Minion,unknown,1
+Soldato Silvano,enemy,Standard,unknown,1
+Spettro di Pietra,enemy,Furtivo,unknown,1
+SpezzaGinocchia della Lama Seghettata,enemy,Picchiatore,unknown,1
+Spia,enemy,Sociale,unknown,1
+Squadrone di Arceri,enemy,Orda,unknown,1
+Squalo,enemy,Picchiatore,unknown,1
+Stregone Caduto,enemy,Supporto,unknown,1
+Stregone Guerriero,enemy,a Distanza,unknown,1
+Tenente della Lama Seghettata,enemy,Capo,unknown,1
+Terribile Pipistrello,enemy,Furtivo,unknown,1
+Teschio del Caos,enemy,a Distanza,unknown,1
+Torretta Guardiana della Cripta,enemy,a Distanza,unknown,1
+Vampiro,enemy,Standard,unknown,1
+Zanna Cultista,enemy,Furtivo,unknown,1
+Zanzare Giganti,enemy,Orda,unknown,1
+Zombie Barcollante,enemy,Standard,unknown,1
+Zombie Marcio,enemy,Minion,unknown,1
+Zombie Muscoloso,enemy,Picchiatore,unknown,1
+Zombie Perfezionato,enemy,Picchiatore,unknown,1
+Ispirazione Divina,house_rule,Neir,location,1
+Ispirazione Divina,house_rule,Guerra Celeste,lore,1
+Ispirazione Divina,house_rule,Dimensione dello Spirito,lore,1
+Ispirazione Divina,house_rule,Dimensione della Materia,lore,1
+Ispirazione Divina,house_rule,Adraoos,deity_or_faction,1
+Ispirazione Divina,house_rule,Bakraag,deity_or_faction,1
+Ispirazione Divina,house_rule,Demien,deity_or_faction,1
+Ispirazione Divina,house_rule,Doomkhan,deity_or_faction,1
+Ispirazione Divina,house_rule,Fadranstaff,deity_or_faction,1
+Ispirazione Divina,house_rule,Garod,deity_or_faction,1
+Ispirazione Divina,house_rule,Glumdrung,deity_or_faction,1
+Ispirazione Divina,house_rule,Halthea,deity_or_faction,1
+Ispirazione Divina,house_rule,iliar,unknown,1
+Ispirazione Divina,house_rule,Krea,deity_or_faction,1
+Ispirazione Divina,house_rule,Lanie,deity_or_faction,1
+Ispirazione Divina,house_rule,Laon,deity_or_faction,1
+Ispirazione Divina,house_rule,Tenebris,deity_or_faction,1
+Ispirazione Divina,house_rule,Unthamarand,deity_or_faction,1
+Teriantropia,house_rule,Notte Eterna,lore,1
+Teriantropia,house_rule,Gonfalone Azzurro,unknown,1
+Teriantropia,house_rule,Forte Arudex,unknown,1
+Teriantropia,house_rule,Dominio delle Trame,location,1
+Teriantropia,house_rule,vampirismo,unknown,1
+Teriantropia,house_rule,Iliar,deity_or_faction,1
+Vampirismo,house_rule,Wiloi,unknown,1
+Vampirismo,house_rule,Dimensione della Materia,lore,1
+Vampirismo,house_rule,Lanie,deity_or_faction,1
+Vampirismo,house_rule,Notte Eterna,lore,1
+Vampirismo,house_rule,Dominio delle Trame,location,1
+Vampirismo,house_rule,vampiri,unknown,1
+Vampirismo,house_rule,Armata dell'Apocalisse,unknown,1
+Cavaliere di Kurash,subclass,Fuoco Segreto,unknown,1
+Cavaliere di Kurash,subclass,Dimensione della Materia,lore,1
+Cavaliere di Kurash,subclass,Dimensione dello Spirito,lore,1
+Cavaliere di Kurash,subclass,Ducato di Òuin,unknown,1
+Cavaliere di Öuin,subclass,Paladini,unknown,1
+Cavaliere di Öuin,subclass,Maghi,unknown,1
+Cavaliere di Öuin,subclass,Ranger,class,1
+Cavaliere di Öuin,subclass,Chierici,unknown,1
+Cavaliere di Öuin,subclass,Guerrieri,unknown,1
+Cavaliere di Öuin,subclass,Ducato di Ōuin,unknown,1
+Cavaliere di Öuin,subclass,Pianure di Xanesh,location,1
+Cavaliere di Öuin,subclass,Cavaliere Pesante,unknown,1
+Cavaliere di Öuin,subclass,Cavaliere di Kurash,subclass,1
+Cavaliere di Öuin,subclass,Cavaliere dei Passi,unknown,1
+Cavaliere di Öuin,subclass,Cavaliere Ospedaliere,subclass,1
+Cavaliere di Öuin,subclass,Cavaliere Predestinato,unknown,1
+SottoClassi,subclass,Notte Eterna,lore,1
+SottoClassi,subclass,Neir,location,1
+SottoClassi,subclass,Cavaliere di Kurash,subclass,1
+SottoClassi,subclass,Kurash,unknown,1
+SottoClassi,subclass,Cavaliere Ospedaliere,subclass,1
+SottoClassi,subclass,Fadranstaff,deity_or_faction,1
+SottoClassi,subclass,Cavaliere dei Passi,unknown,1
+SottoClassi,subclass,Cavaliere Pesante,unknown,1
+SottoClassi,subclass,Cavaliere Predestinato,unknown,1
+SottoClassi,subclass,Paladino,unknown,1
+SottoClassi,subclass,Laon,deity_or_faction,1
+SottoClassi,subclass,Criomante,unknown,1
+SottoClassi,subclass,Unthamarand,deity_or_faction,1
+SottoClassi,subclass,Custode dei Segreti,enemy,1
+SottoClassi,subclass,Druid,class,1
+SottoClassi,subclass,Circolo dei Segreti,unknown,1
+SottoClassi,subclass,Fuoco Segreto,unknown,1
+SottoClassi,subclass,Danse Macabre,unknown,1
+SottoClassi,subclass,Bard,class,1
+SottoClassi,subclass,Elementalista,unknown,1
+SottoClassi,subclass,Sourcerer,class,1
+SottoClassi,subclass,Guardiano Nanico,unknown,1
+SottoClassi,subclass,Nani,unknown,1
+SottoClassi,subclass,Lama di Dor,unknown,1
+SottoClassi,subclass,Elfi,unknown,1
+SottoClassi,subclass,Legionario Xaan,unknown,1
+SottoClassi,subclass,Lupo del Nord,unknown,1
+SottoClassi,subclass,Barbaro,unknown,1
+SottoClassi,subclass,Valli dei Giganti,location,1
+SottoClassi,subclass,Maestro delle Meraviglie,unknown,1
+SottoClassi,subclass,Oscuro Adepto,unknown,1
+SottoClassi,subclass,Tenebris,deity_or_faction,1
+SottoClassi,subclass,Prescelto dalle Tenebre,unknown,1
+SottoClassi,subclass,Monaco,unknown,1
+SottoClassi,subclass,Spiritualista,unknown,1
+SottoClassi,subclass,Warlock,class,1
+SottoClassi,subclass,Tombarolo,unknown,1
+SottoClassi,subclass,Ladro,unknown,1
+SottoClassi,subclass,Triste Mietitore,unknown,1
+SottoClassi,subclass,paladino,unknown,1
+SottoClassi,subclass,Krea,deity_or_faction,1
+SottoClassi,subclass,Veggente dell'Ultimo Giorno,unknown,1
+SottoClassi,subclass,Doomkhan,deity_or_faction,1
+Abile Inganno,ability,Grazia,domain,1
+Abile Inganno,ability,Abilità,unknown,1
+Abile Inganno,ability,Speranza,unknown,1
+Abile Inganno,ability,vantaggio,unknown,1
+Abile Inganno,ability,tiro per ingannare,unknown,1
+Abile Inganno,ability,tiro per ingraziarti,unknown,1
+Appoggiati,ability,Valore,domain,1
+Appoggiati,ability,Abilità,unknown,1
+Appoggiati,ability,riposo breve,unknown,1
+Appoggiati,ability,tiro d'azione,unknown,1
+Appoggiati,ability,Stress,unknown,1
+Approccio Strategico,ability,Ossa,domain,1
+Approccio Strategico,ability,Abilità,unknown,1
+Approccio Strategico,ability,Conoscenza,unknown,1
+Approccio Strategico,ability,portata Vicina,unknown,1
+Approccio Strategico,ability,vantaggio,unknown,1
+Approccio Strategico,ability,Stress,unknown,1
+Approccio Strategico,ability,portata di mischia,unknown,1
+Approccio Strategico,ability,D8,unknown,1
+Approccio Strategico,ability,tiro di danni,unknown,1
+Armatura Fortificata,ability,Lama,domain,1
+Armatura Fortificata,ability,Abilità,unknown,1
+Armatura Fortificata,ability,armatura,unknown,1
+Armatura Fortificata,ability,soglie di danno,unknown,1
+Armatura Infrangibile,ability,Valore,domain,1
+Armatura Infrangibile,ability,Abilità,unknown,1
+Armatura Infrangibile,ability,D6,unknown,1
+Armatura Infrangibile,ability,Proficiency,unknown,1
+Armatura Infrangibile,ability,gravità,unknown,1
+Assalto,ability,Lama,domain,1
+Assalto,ability,Abilità,unknown,1
+Assalto,ability,successo,unknown,1
+Assalto,ability,soglia di danno maggiore,unknown,1
+Assalto,ability,Stress,unknown,1
+Assalto,ability,Tiro di Reazione,unknown,1
+Assalto,ability,fallimento,unknown,1
+Attraverso i Tuoi Occhi,ability,Grazia,domain,1
+Attraverso i Tuoi Occhi,ability,Magia,unknown,1
+Attraverso i Tuoi Occhi,ability,portata molto lontana,unknown,1
+Attraverso i Tuoi Occhi,ability,riposo,unknown,1
+Audace,ability,Lama,domain,1
+Audace,ability,Abilità,unknown,1
+Audace,ability,Stress,unknown,1
+Audace,ability,vantaggio,unknown,1
+Audace,ability,attacco,unknown,1
+Aura Confondente,ability,Arcana,domain,1
+Aura Confondente,ability,Magia,unknown,1
+Aura Confondente,ability,Spellcast Roll,unknown,1
+Aura Confondente,ability,riposo lungo,unknown,1
+Aura Confondente,ability,successo,unknown,1
+Aura Confondente,ability,Stress,unknown,1
+Aura Confondente,ability,D6,unknown,1
+Aura Sovrastante,ability,Splendore,domain,1
+Aura Sovrastante,ability,Magia,unknown,1
+Aura Sovrastante,ability,Spellcast Roll,unknown,1
+Aura Sovrastante,ability,Speranza,unknown,1
+Aura Sovrastante,ability,Presenza,unknown,1
+Aura Sovrastante,ability,Spellcast Trait,unknown,1
+Aura Sovrastante,ability,riposo lungo,unknown,1
+Aura Sovrastante,ability,Stress,unknown,1
+Barriera di Rigenerazione,ability,Saggio,domain,1
+Barriera di Rigenerazione,ability,Magia,unknown,1
+Barriera di Rigenerazione,ability,Spellcast Roll,unknown,1
+Barriera di Rigenerazione,ability,riposo,unknown,1
+Barriera di Rigenerazione,ability,successo,unknown,1
+Barriera di Rigenerazione,ability,Range Molto Vicino,unknown,1
+Barriera di Rigenerazione,ability,D4,unknown,1
+Barriera di Rigenerazione,ability,Ferita,unknown,1
+Barriera di Rigenerazione,ability,danni fisici,unknown,1
+Cacciare,ability,Codice,domain,1
+Cacciare,ability,Magia,unknown,1
+Cacciare,ability,Spellcast Roll,unknown,1
+Cacciare,ability,Close Range,unknown,1
+Cacciare,ability,D20,unknown,1
+Cacciare,ability,Spellcast Trait,unknown,1
+Cacciare,ability,Stress,unknown,1
+Cacciare,ability,riposo,unknown,1
+Cacciare,ability,Paura,unknown,1
+Cacciatore d'Ombre,ability,mezzanotte,unknown,1
+Cacciatore d'Ombre,ability,della,unknown,1
+Cacciatore d'Ombre,ability,Abilità,unknown,1
+Cacciatore d'Ombre,ability,poca luce,unknown,1
+Cacciatore d'Ombre,ability,oscurità,unknown,1
+Cacciatore d'Ombre,ability,Evasione,unknown,1
+Cacciatore d'Ombre,ability,attacco,unknown,1
+Cacciatore d'Ombre,ability,vantaggio,unknown,1
+Camminatore di Fessura,ability,Arcana,domain,1
+Camminatore di Fessura,ability,Magia,unknown,1
+Camminatore di Fessura,ability,Spellcast Roll,unknown,1
+Cammino sulle Pareti,ability,Arcana,domain,1
+Cammino sulle Pareti,ability,Magia,unknown,1
+Cammino sulle Pareti,ability,Speranza,unknown,1
+Campo di Guarigione,ability,Saggio,domain,1
+Campo di Guarigione,ability,Magia,unknown,1
+Campo di Guarigione,ability,riposo lungo,unknown,1
+Campo di Guarigione,ability,Close Range,unknown,1
+Campo di Guarigione,ability,speranza,unknown,1
+Carica di Incantesimo,ability,Mezzanotte,unknown,1
+Carica di Incantesimo,ability,Magia,unknown,1
+Carica di Incantesimo,ability,danni magici,unknown,1
+Carica di Incantesimo,ability,Ferita,unknown,1
+Carica di Incantesimo,ability,Spellcast Trait,unknown,1
+Carica di Incantesimo,ability,D6,unknown,1
+Carica di Incantesimo,ability,tiro di danni,unknown,1
+Carisma Infinito,ability,Grazia,domain,1
+Carisma Infinito,ability,Abilità,unknown,1
+Carisma Infinito,ability,tiro d'azione,unknown,1
+Carisma Infinito,ability,Paura,unknown,1
+Catena di Fulmini,ability,Arcana,domain,1
+Catena di Fulmini,ability,Magia,unknown,1
+Catena di Fulmini,ability,Stress,unknown,1
+Catena di Fulmini,ability,Tiro di Reazione,unknown,1
+Catena di Fulmini,ability,Difficoltà,unknown,1
+Catena di Fulmini,ability,tiro di reazione,unknown,1
+Catena di Fulmini,ability,Range,unknown,1
+Cieli che Cadono,ability,Arcana,domain,1
+Cieli che Cadono,ability,Magia,unknown,1
+Cieli che Cadono,ability,Spellcast Roll,unknown,1
+Cieli che Cadono,ability,Long Range,unknown,1
+Cieli che Cadono,ability,D20,unknown,1
+Colpire al Suolo,ability,Valore,domain,1
+Colpire al Suolo,ability,Abilità,unknown,1
+Colpire al Suolo,ability,Speranza,unknown,1
+Colpire al Suolo,ability,Forza,unknown,1
+Colpire al Suolo,ability,Close Range,unknown,1
+Colpire al Suolo,ability,Long Range,unknown,1
+Colpire al Suolo,ability,Tiro di Reazione,unknown,1
+Colpire al Suolo,ability,D10,unknown,1
+Colpito dalla Lama,ability,Abilità,unknown,1
+Colpito dalla Lama,ability,tiri d'attacco,unknown,1
+Colpito dalla Lama,ability,soglia di danni severo,unknown,1
+Colpo del Mietitore,ability,Lama,domain,1
+Colpo del Mietitore,ability,Abilità,unknown,1
+Colpo del Mietitore,ability,riposo lungo,unknown,1
+Colpo del Mietitore,ability,Speranza,unknown,1
+Colpo del Mietitore,ability,tiro d'attacco,unknown,1
+Colpo del Mietitore,ability,range,unknown,1
+Colpo del Mietitore,ability,Ferita,unknown,1
+Colpo di Frantumazione,ability,Ossa,domain,1
+Colpo di Frantumazione,ability,Abilità,unknown,1
+Colpo di Frantumazione,ability,Speranza,unknown,1
+Colpo di Frantumazione,ability,attacco,unknown,1
+Colpo di Frantumazione,ability,range,unknown,1
+Colpo di Frantumazione,ability,riposo breve,unknown,1
+Colpo di Frantumazione,ability,successo,unknown,1
+Colpo di Frantumazione,ability,tiro di danni,unknown,1
+Colpo di Rottura,ability,Ossa,domain,1
+Colpo di Rottura,ability,Abilità,unknown,1
+Colpo di Rottura,ability,Stress,unknown,1
+Colpo di Rottura,ability,attacco,unknown,1
+Colpo di Rottura,ability,D12,unknown,1
+Colpo di Sfioramento,ability,Lama,domain,1
+Colpo di Sfioramento,ability,Abilità,unknown,1
+Colpo di Sfioramento,ability,attacco,unknown,1
+Colpo di Sfioramento,ability,Stress,unknown,1
+Colpo di Sfioramento,ability,Proficiency,unknown,1
+Colpo Guaritore,ability,Splendore,domain,1
+Colpo Guaritore,ability,Magia,unknown,1
+Colpo Guaritore,ability,Speranza,unknown,1
+Colpo Guaritore,ability,Ferita,unknown,1
+Colpo Guaritore,ability,Close Range,unknown,1
+Colpo Risonante,ability,Valore,domain,1
+Colpo Risonante,ability,Abilità,unknown,1
+Colpo Risonante,ability,riposo,unknown,1
+Colpo Risonante,ability,critico,unknown,1
+Colpo Risonante,ability,D4,unknown,1
+Colpo,ability,Splendore,domain,1
+Colpo,ability,Magia,unknown,1
+Colpo,ability,Speranza,unknown,1
+Colpo,ability,tiro di danni,unknown,1
+Colpo,ability,danni magici,unknown,1
+Combattente Versatile,ability,Lama,domain,1
+Combattente Versatile,ability,Abilità,unknown,1
+Combattente Versatile,ability,caratteristica,unknown,1
+Combattente Versatile,ability,stress,unknown,1
+Concentrazione Letale,ability,Lama,domain,1
+Concentrazione Letale,ability,della,unknown,1
+Condividi il Carico,ability,Grazia,domain,1
+Condividi il Carico,ability,Magia,unknown,1
+Conosci il tuo nemico,ability,Ossa,domain,1
+Conosci il tuo nemico,ability,Abilità,unknown,1
+ControIncantesimo,ability,Arcana,domain,1
+ControIncantesimo,ability,Magia,unknown,1
+Controllare,ability,Ossa,domain,1
+Controllare,ability,Abilità,unknown,1
+Corazza,ability,Valore,domain,1
+Corsa verso la Morte,ability,Ossa,domain,1
+Corsa verso la Morte,ability,Abilità,unknown,1
+Custode delle Rune,ability,Arcana,domain,1
+Custode delle Rune,ability,Magia,unknown,1
+Discorso Rassicurante,ability,Grazia,domain,1
+Discorso Rassicurante,ability,Abilità,unknown,1
+Distruttore di Corpi,ability,Valore,domain,1
+Distruttore di Corpi,ability,Abilità,unknown,1
+Divinazione,ability,Splendore,domain,1
+Divinazione,ability,Incantesimo,unknown,1
+Dominio Vegetale,ability,Saggio,domain,1
+Dominio Vegetale,ability,del,unknown,1
+Eclissi,ability,Mezzanotte,unknown,1
+Eclissi,ability,della,unknown,1
+Entusiasmo di Massa,ability,Grazia,domain,1
+Entusiasmo di Massa,ability,Magia,unknown,1
+Equidi Evocati,ability,Saggio,domain,1
+Equidi Evocati,ability,del,unknown,1
+Esperto di Furtività,ability,Mezzanotte,unknown,1
+Esperto di Furtività,ability,Abilità,unknown,1
+Esplosione Ammantata,ability,Arcana,domain,1
+Esplosione Ammantata,ability,Incantesimo,unknown,1
+Esplosione di Conservazione,ability,Arcana,domain,1
+Esplosione di Conservazione,ability,Magia,unknown,1
+Estasi,ability,Grazia,domain,1
+Estasi,ability,Magia,unknown,1
+Evoca Sciame,ability,Saggio,domain,1
+Evoca Sciame,ability,del,unknown,1
+Famiglio della Natura,ability,Saggio,domain,1
+Famiglio della Natura,ability,del,unknown,1
+Famoso,ability,Grazia,domain,1
+Ferocia,ability,Ossa,domain,1
+Ferocia,ability,Abilità,unknown,1
+Forma Materiale,ability,Splendore,domain,1
+Forma Materiale,ability,Incantesimo,unknown,1
+Fortezza Selvaggia,ability,Saggio,domain,1
+Fortezza Selvaggia,ability,del,unknown,1
+Forza della Natura,ability,Saggio,domain,1
+Forza della Natura,ability,del,unknown,1
+Frenesia,ability,Lama,domain,1
+Frenesia,ability,Abilità,unknown,1
+Furia Crescente,ability,Lama,domain,1
+Furia Crescente,ability,della,unknown,1
+Fusto Maestoso,ability,Saggio,domain,1
+Fusto Maestoso,ability,del,unknown,1
+Glifo dell'Oscurità,ability,Mezzanotte,unknown,1
+Glifo dell'Oscurità,ability,Magia,unknown,1
+Grido di Battaglia,ability,Lama,domain,1
+Grido di Battaglia,ability,Abilità,unknown,1
+Guida con l'Esempio,ability,Valore,domain,1
+Guida con l'Esempio,ability,Abilità,unknown,1
+Imitatore,ability,Grazia,domain,1
+Impulso Selvaggio,ability,Saggio,domain,1
+Impulso Selvaggio,ability,del,unknown,1
+Inevitabile,ability,Valore,domain,1
+Inevitabile,ability,Abilità,unknown,1
+Infrangibile,ability,Valore,domain,1
+Infrangibile,ability,Abilità,unknown,1
+Intoccabile,ability,Ossa,domain,1
+Intoccabile,ability,Abilità,unknown,1
+Intrico Violento,ability,Saggio,domain,1
+Intrico Violento,ability,del,unknown,1
+Invisibilità,ability,Grazia,domain,1
+Invisibilità,ability,Magia,unknown,1
+Ispirazione Critica,ability,Valore,domain,1
+Ispirazione Critica,ability,Abilità,unknown,1
+Legame dell'Ombra,ability,Mezzanotte,unknown,1
+Legame dell'Ombra,ability,Incantesimo,unknown,1
+Legame di un Soldato,ability,Lama,domain,1
+Legame di un Soldato,ability,Abilità,unknown,1
+Libera il Caos,ability,Arcana,domain,1
+Libera il Caos,ability,Magia,unknown,1
+Libro di Ava,ability,Codice,domain,1
+Libro di Ava,ability,Grimorio,unknown,1
+Libro di Exota,ability,Codice,domain,1
+Libro di Exota,ability,Grimorio,unknown,1
+Libro di Grynn,ability,Codice,domain,1
+Libro di Grynn,ability,Grimorio,unknown,1
+Libro di Homet,ability,Codice,domain,1
+Libro di Homet,ability,Grimorio,unknown,1
+Libro di Illiat,ability,Codice,domain,1
+Libro di Illiat,ability,Grimorio,unknown,1
+Libro di Korvax,ability,Codice,domain,1
+Libro di Korvax,ability,Grimorio,unknown,1
+Libro di Norai,ability,Codice,domain,1
+Libro di Norai,ability,Grimorio,unknown,1
+Libro di Ronin,ability,Codice,domain,1
+Libro di Ronin,ability,Grimorio,unknown,1
+Libro di Sitil,ability,Codice,domain,1
+Libro di Sitil,ability,Grimorio,unknown,1
+Libro di Tyfar,ability,Codice,domain,1
+Libro di Tyfar,ability,Grimorio,unknown,1
+Libro di Vagras,ability,Codice,domain,1
+Libro di Vagras,ability,Grimorio,unknown,1
+Libro di Vyola,ability,Codice,domain,1
+Libro di Vyola,ability,Grimorio,unknown,1
+Libro di Yarrow,ability,Codice,domain,1
+Libro di Yarrow,ability,Grimorio,unknown,1
+Lingua della Natura,ability,Saggio,domain,1
+Lingua della Natura,ability,del,unknown,1
+Maestro dell'Arte,ability,Grazia,domain,1
+Maestro dell'Arte,ability,Abilità,unknown,1
+Mai Sopraffatto,ability,Grazia,domain,1
+Mai Sopraffatto,ability,Abilità,unknown,1
+Mani Curatrici,ability,Splendore,domain,1
+Mani Curatrici,ability,Incantesimo,unknown,1
+Manovre Agili,ability,Ossa,domain,1
+Manovre Agili,ability,delle,unknown,1
+Mischia,ability,Lama,domain,1
+Mischia,ability,Abilità,unknown,1
+Morsa Mortale,ability,Saggio,domain,1
+Morsa Mortale,ability,del,unknown,1
+Mossa Caratteristica,ability,Ossa,domain,1
+Mossa Caratteristica,ability,Abilità,unknown,1
+Mostro da Battaglia,ability,Lama,domain,1
+Mostro da Battaglia,ability,Abilità,unknown,1
+Muro Manifesto,ability,Codice,domain,1
+Muro Manifesto,ability,Incantesimo,unknown,1
+Non Abbastanza Buono,ability,Lama,domain,1
+Non Dire Mai Bugie,ability,Grazia,domain,1
+Non Dire Mai Bugie,ability,Magia,unknown,1
+Occhio Fluttuante,ability,Arcana,domain,1
+Occhio Fluttuante,ability,Magia,unknown,1
+Onda di Disintegrazione,ability,Codice,domain,1
+Onda di Disintegrazione,ability,Spell,unknown,1
+Ossa e Pelle,ability,Valore,domain,1
+Parole d'Ispirazione,ability,Grazia,domain,1
+Parole d'Ispirazione,ability,Abilità,unknown,1
+Parole di Discordia,ability,Grazia,domain,1
+Parole di Discordia,ability,della,unknown,1
+Passo Rapido,ability,Ossa,domain,1
+Passo Rapido,ability,Abilità,unknown,1
+Pelle di Spine,ability,Saggio,domain,1
+Pelle di Spine,ability,del,unknown,1
+PiantaGrane,ability,Grazia,domain,1
+Piena Ondata,ability,Valore,domain,1
+Piena Ondata,ability,Abilità,unknown,1
+Pioggia di Lame,ability,Mezzanotte,unknown,1
+Pioggia di Lame,ability,della,unknown,1
+Potenziamento,ability,Ossa,domain,1
+Potenziamento,ability,Abilità,unknown,1
+Precisione Crudele,ability,Ossa,domain,1
+Precisione Crudele,ability,Abilità,unknown,1
+Premonizione,ability,Arcana,domain,1
+Premonizione,ability,Magia,unknown,1
+Prendi e Tira,ability,mezzanotte,unknown,1
+Prendi e Tira,ability,della,unknown,1
+Presa alla Gola,ability,Mezzanotte,unknown,1
+Presa alla Gola,ability,Abilità,unknown,1
+Presa Cinerea,ability,Arcana,domain,1
+Presa Cinerea,ability,Magia,unknown,1
+Presenza Audace,ability,Valore,domain,1
+Presenza Audace,ability,Abilità,unknown,1
+Proiettile Corrosivo,ability,Saggio,domain,1
+Proiettile Corrosivo,ability,del,unknown,1
+Proiettile di Luce,ability,Splendore,domain,1
+Proiettile di Luce,ability,Incantesimo,unknown,1
+Proiezione Astrale,ability,Grazia,domain,1
+Proiezione Astrale,ability,Magia,unknown,1
+Proiezione Sensoriale,ability,Arcana,domain,1
+Proiezione Sensoriale,ability,Magia,unknown,1
+Provocazione,ability,Valore,domain,1
+Provocazione,ability,Abilità,unknown,1
+Raccoglitore,ability,Saggio,domain,1
+Raccoglitore,ability,del,unknown,1
+Rafforzamento,ability,Ossa,domain,1
+Rafforzamento,ability,Abilità,unknown,1
+Rafforzato in Battaglia,ability,Lama,domain,1
+Rafforzato in Battaglia,ability,Abilità,unknown,1
+Raggio Salvifico,ability,Splendore,domain,1
+Raggio Salvifico,ability,Incantesimo,unknown,1
+Rassicurazione,ability,Splendore,domain,1
+Rassicurazione,ability,Abilità,unknown,1
+Recupero,ability,Ossa,domain,1
+Recupero,ability,Abilità,unknown,1
+Rialzati,ability,Lama,domain,1
+Rialzati,ability,Abilità,unknown,1
+Ridirezione,ability,Ossa,domain,1
+Ridirezione,ability,Abilità,unknown,1
+Riflesso Arcano,ability,Arcana,domain,1
+Riflesso Arcano,ability,Magia,unknown,1
+Rifugio Sicuro,ability,Codice,domain,1
+Rifugio Sicuro,ability,Spell,unknown,1
+Rinvigorimento,ability,Splendore,domain,1
+Rinvigorimento,ability,Incantesimo,unknown,1
+Ripetizione,ability,Grazia,domain,1
+Ripetizione,ability,Magia,unknown,1
+Risorgi,ability,Valore,domain,1
+Risorgi,ability,Abilità,unknown,1
+Risposta Rapida,ability,Ossa,domain,1
+Risposta Rapida,ability,Abilità,unknown,1
+Ristoro,ability,Splendore,domain,1
+Ristoro,ability,Incantesimo,unknown,1
+Risurrezione,ability,Splendore,domain,1
+Risurrezione,ability,Incantesimo,unknown,1
+Ritirata Fantasma,ability,Mezzanotte,unknown,1
+Ritirata Fantasma,ability,della,unknown,1
+Sangue e Gloria,ability,Lama,domain,1
+Sangue e Gloria,ability,Abilità,unknown,1
+Santuario della Selva,ability,Abilità,unknown,1
+Scavatore di Pensieri,ability,Grazia,domain,1
+Scavatore di Pensieri,ability,Magia,unknown,1
+Schivata Elusiva,ability,Mezzanotte,unknown,1
+Schivata Elusiva,ability,Magia,unknown,1
+Scudo d'Aura,ability,Splendore,domain,1
+Scudo d'Aura,ability,Incantesimo,unknown,1
+Scudo di Supporto,ability,Valore,domain,1
+Scudo di Supporto,ability,Abilità,unknown,1
+Scuotiti,ability,Valore,domain,1
+Scuotiti,ability,Abilità,unknown,1
+Secondo Respiro,ability,Splendore,domain,1
+Secondo Respiro,ability,Abilità,unknown,1
+Sigillo di Ritorsione,ability,Codice,domain,1
+Sigillo di Ritorsione,ability,Incantesimo,unknown,1
+Silenzio,ability,Mezzanotte,unknown,1
+Silenzio,ability,della,unknown,1
+Sono Il Tuo Scudo,ability,Valore,domain,1
+Sono Il Tuo Scudo,ability,Abilità,unknown,1
+Sparizione,ability,Arcana,domain,1
+Sparizione,ability,Magia,unknown,1
+Spettro del Buio,ability,Mezzanotte,unknown,1
+Spettro del Buio,ability,Magia,unknown,1
+Spinta Forzata,ability,Valore,domain,1
+Spinta Forzata,ability,Abilità,unknown,1
+Spiritelli della Foresta,ability,Saggio,domain,1
+Spiritelli della Foresta,ability,del,unknown,1
+Spirito di Mezzanotte,ability,Mezzanotte,unknown,1
+Spirito di Mezzanotte,ability,Magia,unknown,1
+Splendida Luce Solare,ability,Splendore,domain,1
+Splendida Luce Solare,ability,Magia,unknown,1
+Sul Limite,ability,Ossa,domain,1
+Sul Limite,ability,Abilità,unknown,1
+Sussurri Oscuri,ability,Mezzanotte,unknown,1
+Sussurri Oscuri,ability,Magia,unknown,1
+Tassa del Crepuscolo,ability,MezzaNotte,domain,1
+Tattico,ability,Ossa,domain,1
+Tattico,ability,Abilità,unknown,1
+Telecinesi,ability,Arcana,domain,1
+Telecinesi,ability,Magia,unknown,1
+Teletrasporto,ability,Codice,domain,1
+Teletrasporto,ability,Spell,unknown,1
+Tempesta,ability,Saggio,domain,1
+Tempesta,ability,del,unknown,1
+Terremoto,ability,Arcana,domain,1
+Terremoto,ability,Magia,unknown,1
+Terrore della Notte,ability,Mezzanotte,unknown,1
+Terrore della Notte,ability,Magia,unknown,1
+Tieni la Linea,ability,Valore,domain,1
+Tieni la Linea,ability,Abilità,unknown,1
+Toccando l'Osso,ability,Ossa,domain,1
+Toccando l'Osso,ability,Abilità,unknown,1
+Toccato dal Codice,ability,Codice,domain,1
+Toccato dal Codice,ability,del,unknown,1
+Toccato dal Valore,ability,Valore,domain,1
+Toccato dal Valore,ability,Abilità,unknown,1
+Toccato dall'Arcano,ability,Arcana,domain,1
+Toccato dall'Arcano,ability,Abilità,unknown,1
+Toccato dalla Mezzanotte,ability,della,unknown,1
+Tocco del Saggio,ability,Saggio,domain,1
+Tocco del Saggio,ability,del,unknown,1
+Tocco della Grazia,ability,Grazia,domain,1
+Tocco della Grazia,ability,Abilità,unknown,1
+Tocco dello Splendore,ability,Splendore,domain,1
+Tocco dello Splendore,ability,Abilità,unknown,1
+Tocco Riparatore,ability,Splendore,domain,1
+Tocco Riparatore,ability,Incantesimo,unknown,1
+Tracciatore Dotato,ability,Saggio,domain,1
+Tracciatore Dotato,ability,del,unknown,1
+Travestimento di Massa,ability,Mezzanotte,unknown,1
+Travestimento di Massa,ability,Spell,unknown,1
+Travestimento Misterioso,ability,Mezzanotte,unknown,1
+Travestimento Misterioso,ability,Incantesimo,unknown,1
+Ultime Parole,ability,Splendore,domain,1
+Ultime Parole,ability,Incantesimo,unknown,1
+Unione Trascendente,ability,Codice,domain,1
+Unione Trascendente,ability,Spell,unknown,1
+Vantaggio del Campione,ability,Lama,domain,1
+Vantaggio del Campione,ability,della,unknown,1
+Vedo Che Arriva,ability,Ossa,domain,1
+Vedo Che Arriva,ability,Abilità,unknown,1
+Velo Ipnotico,ability,Grazia,domain,1
+Velo Ipnotico,ability,Magia,unknown,1
+Velo Notturno,ability,Mezzanotte,unknown,1
+Velo Notturno,ability,Magia,unknown,1
+Vita Protetta,ability,Splendore,domain,1
+Vita Protetta,ability,Incantesimo,unknown,1
+Vitalità,ability,Lama,domain,1
+Vitalità,ability,Abilità,unknown,1
+Voce della Ragione,ability,Splendore,domain,1
+Voce della Ragione,ability,Abilità,unknown,1
+Volo,ability,Arcana,domain,1
+Volo,ability,Magia,unknown,1
+Vortice,ability,Lama,domain,1
+Vortice,ability,Abilità,unknown,1
+Zona di Protezione,ability,Splendore,domain,1
+Zona di Protezione,ability,Magia,unknown,1
+Bard,class,Grazia,domain,1
+Bard,class,Codice,domain,1
+Bard,class,Trovatore,unknown,1
+Bard,class,Paroliere,unknown,1
+Druid,class,Agile Scout,beast_form,1
+Druid,class,Household Friend,beast_form,1
+Druid,class,Nimble Grazer,beast_form,1
+Druid,class,Pack Predator,beast_form,1
+Druid,class,Aquatic Scout,beast_form,1
+Druid,class,Stalking Arachnid,beast_form,1
+Druid,class,Armored Sentry,beast_form,1
+Druid,class,Powerful Beast,beast_form,1
+Druid,class,Mighty Strider,beast_form,1
+Druid,class,Striking Serpent,beast_form,1
+Druid,class,Pouncing Predator,beast_form,1
+Druid,class,Winged Beast,beast_form,1
+Druid,class,Massive Behemoth,beast_form,1
+Druid,class,Terrible Lizard,beast_form,1
+Druid,class,Mythic Aerial Hunter,beast_form,1
+Druid,class,Epic Aquatic Beast,beast_form,1
+Druid,class,Mythic Beast,beast_form,1
+Druid,class,[Mythic Hybrid,unknown,1
+Wizard,class,Codice,domain,1
+Wizard,class,Splendore,domain,1
+Warlock,class,Grazia,domain,1
+Warlock,class,Dread,unknown,1
+Warlock,class,Scepter,weapon,1
+Warlock,class,Leather Armor,armor,1
+Warlock,class,Speranza,unknown,1
+Warlock,class,Favore,unknown,1
+Warlock,class,Pact of the Endless,unknown,1
+Warlock,class,Pact of the Wrathful,unknown,1
+Witch,class,Saggio,domain,1
+Witch,class,Dread,unknown,1
+Witch,class,Scepter,weapon,1
+Witch,class,Leather Armor,armor,1
+Witch,class,Speranza,unknown,1
+Witch,class,Favore,unknown,1
+Witch,class,Hedge,unknown,1
+Witch,class,Moon,unknown,1
+Agan,npc,Namass'rya,npc,1
+An'Rao IV,npc,Impero delle Terre Nascoste,location,1
+An'Rao IV,npc,Ziria,npc,1
+An'Rao IV,npc,Neir,location,1
+Annie Rose-Robe,npc,Darkflame,unknown,1
+Annie Rose-Robe,npc,Aran,unknown,1
+Annie Rose-Robe,npc,Tenebris,deity_or_faction,1
+Annie Rose-Robe,npc,Pianure di Xanesh,location,1
+Annie Rose-Robe,npc,Hulbert,npc,1
+Axrul II De Vaars,npc,Mendulia's Rock,location,1
+Axrul II De Vaars,npc,Valli dei Giganti,location,1
+Bruin Ashcroft,npc,Mendulia's Rock,location,1
+Bruin Ashcroft,npc,Compagnia del Gonfalone Azzurro,unknown,1
+Bruin Ashcroft,npc,Magocrazia di Nü,location,1
+Bruin Ashcroft,npc,Impero delle Terre Nascoste,location,1
+Bruin Ashcroft,npc,Petralta,location,1
+Bruin Ashcroft,npc,Dominio delle Trame,location,1
+Bruin Ashcroft,npc,Ducato di Öuin,location,1
+Buhragath,npc,Nuzagaal,deity_or_faction,1
+Buhragath,npc,Valli dei Giganti,location,1
+Desea,npc,Forte Arundex,location,1
+Doerun Eldobeth,npc,Pahr,location,1
+Doerun Eldobeth,npc,klorss,unknown,1
+Doerun Eldobeth,npc,Fadranstaff,deity_or_faction,1
+Efneriom,npc,Laon,deity_or_faction,1
+Efneriom,npc,Desea,npc,1
+Hedd,npc,Mendulia's Rock,location,1
+Hedd,npc,halfling,unknown,1
+Hedd,npc,Nani,unknown,1
+Hedd,npc,Laon,deity_or_faction,1
+Horus,npc,Cenere di Lanie,location,1
+Horus,npc,Ducato di Öuin,location,1
+Horus,npc,Karevi,unknown,1
+Hulbert,npc,Tenebris,deity_or_faction,1
+Korath,npc,Verde Foresta,location,1
+Korath,npc,Karevi,unknown,1
+M'oraoork,npc,An'Rao IV,npc,1
+M'oraoork,npc,Neir,location,1
+M'oraoork,npc,Impero delle Terre Nascoste,location,1
+Najestarr,npc,Wiloi,unknown,1
+Najestarr,npc,Nelen Deseziath,npc,1
+Namass'rya,npc,Gundazar,location,1
+Namass'rya,npc,klorss,unknown,1
+Nelen Deseziath,npc,Azkabel,location,1
+Nelen Deseziath,npc,Lanie,deity_or_faction,1
+Nelen Deseziath,npc,Wiloi,unknown,1
+Rakilia,npc,Cenere di Lanie,location,1
+Rakilia,npc,Manor,location,1
+Rakilia,npc,Città delle Trame,location,1
+Renetzia,npc,Karevi,ancestry,1
+Renetzia,npc,Petralta,location,1
+Renetzia,npc,Kkyrlamny,location,1
+Rihko,npc,Verde Foresta,location,1
+Sagister,npc,Oasi di Zey,location,1
+Ziria,npc,Karevi,unknown,1
+Ziria,npc,M'oraoork,npc,1
+Ziria,npc,Neir,location,1

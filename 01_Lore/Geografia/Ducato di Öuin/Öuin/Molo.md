@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+La città è una tappa obbligata per le navi che risalendo il Fiume Lacrima desiderino raggiungere il Mare di [[Città di Nü|Nü]]. Invece di tagliare attraverso la pericolosa [[Landa di Edeber]], le navi mercantili continuano dritto verso [[Öuin]]. Una volta raggiunto il mare, deviano verso oriente per fare tappa a [[Mendulia's Rock]], raramente si spingono oltre. Il dazio per l'ormeggio e il semplice passaggio nelle acque del Ducato è piuttosto oneroso, per questo i mercatili di passaggio sostano al molo di [[Öuin]] appena pochi giorni, giusto il tempo di rifornirsi e condurre qualche affare. Cinque galee da guerra recentemente uscite dai cantieri navali di [[Daragoss]] e numerose piccole imbarcazioni armate servono a convincere i mercanti a pagare l'ammontare esatto della tassa doganale. Il molo è la meta preferita dai fannulloni, quei ragazzi öued che non sono riusciti ad apprendere un mestiere e sognano la vita dell'avventuriero. Alcuni di loro riescono a ottenere un imbarco: un biglietto di sola andata verso un futuro incerto.

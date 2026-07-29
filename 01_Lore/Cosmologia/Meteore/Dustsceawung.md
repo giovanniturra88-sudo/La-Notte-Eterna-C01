@@ -1,0 +1,24 @@
+---
+type: Artefatto
+---
+
+*Arma Magica (Lancia), Leggendaria, Richiede sintonia*
+
+La parola *Dustsceawung* in lingua ōued significa: "Contemplazione della Polvere". Sta a indicare il momento di riflessione sulle civiltà passate, su chi non esiste più e sulla consapevolezza che tutte le cose sono destinate a diventare polvere.
+I pochi a conoscenza di quest'arma leggendaria, prevalentemente cavalieri oued di alto rango, sono fermamente convinti che si tratti di una semplice leggenda, poiché se esistesse davvero potrebbe cambiare gli equilibri dell'intero sistema di [[Nebvarasa]].
+In realtà Dustsceawung è una portentosa lancia formata da pura energia lunare posseduta dal mitico Drago delle Meteore [[Rionnag'hra]]. Oltre a essere la sua personale arma, che sfrutta nelle rare occasioni in cui combatte in sembianze umanoidi, in occasioni più uniche che rare il dragone può decidere di concederla a un gruppo di impavidi avventurieri. Prima di farlo scaglierà l'arma sulla terra affinché essi la trovino. Fingendo di voler riportare l'arma su [[Rengaria]], [[Rionnag'hra]] sfiderà gli avventurieri (senza utilizzare il massimo del suo potere) e se li riterrà degni gli affiderà la lancia fino alla fine della missione assegnata.
+La lancia possiede 5 cariche e ha una probabilità del 45% di ricaricare una carica dopo un riposo lungo.
+- **Arma Divina**: la lancia è considerata un'arma magica +3 e infligge 4d8 danni radianti extra.
+- **Annientare il Male**: spendendo due cariche i non morti e gli immondi entro un'area di 18 m dal personaggio devono effettuare un tiro salvezza su Carisma CD 20. Se lo falliscono, tutti i non morti e immondi di GS 5 e inferiore vengono distrutti mentre gli altri subiscono 8d8 danni radianti, in caso di successo i non morti di GS 5 e inferiore subiscono 8d8 danni radianti, e gli altri subiscono la metà dei danni radianti e gli altri subiscono la metà dei danni.
+- **Forma Stellare**: utilizzando 3 cariche il personaggio viene ricoperto da radiosa energia stellare per 10 minuti e in questo lasso di tempo ottiene i seguenti benefici:
+	- **Corpo Radioso**: il personaggio diviene resistente ai danni taglienti, contundenti e perforanti, immune ai danni radianti e resistente ai necrotici, inoltre può muoversi nello spazio di altre creature od oggetti e se attraversa una creatura vivente questa subisce Id8 danni radianti. Se il personaggio termina il turno in un oggetto o nello stesso spazio di una creatura, subisce Id8 danni contundenti e viene spinto nello spazio libero più vicino;
+	- **Benedizione delle Stelle**: il personaggio ottiene vantaggio ai tiri salvezza su saggezza e carisma, ottiene una velocità di volo (fluttuare) pari a 18 m e non ha bisogno di respirare;
+	- **Simulacro del Raggio Divino**: con un'azione bonus il personaggio può manifestare un simulacro del raggio divino di [[Rionnag'hra]]. Il personaggio effettua un tiro per colpire contro una creatura entro 18 m, sommando il proprio bonus di competenza e modificatore di Saggezza al tiro. Se colpisce, il bersaglio subisce danni radianti pari a 2d6 + 3 + il modificatore di Saggezza del personaggio.
+- **Proprietà Casuali**: La lancia conferisce 2 capacità benefiche minori e una maggiore.
+- **Cammino Stellare**: il personaggio può lanciare una volta per turno, senza usare cariche, la magia Passo Velato e, usando due cariche, la magia Proiezione Astrale.
+- **Antica Saggezza**: la lancia infonde nel portatore parte dell'immensa conoscenza di [[Rionnag'hra]], conferendogli vantaggio alle prove su Intelligenza (Storia, Arcana e Religione) e Intuizione.
+- **Stella Guida**: lasciata andare, la lancia fluttuerà a mezz'aria e su richiesta del personaggio punterà o alla meteora più vicina o verso un obiettivo del personaggio.
+- **Radiosa Luce Stellare**: spendendo un'azione, la lancia emette luce intensa per 36 m (conta come l'incantesimo Luce Diurna) e luce fioca per altri 16 m. La lancia può rimanere illuminata per 1 ora per riposo breve o lungo.
+- **Comandare le Stelle**: spendendo 5 cariche il personaggio può scagliare la lancia nel cielo. Nel turno successivo l'arma ricade sulla terra come una pioggia di meteore, come il personaggio avesse lanciato l'incantesimo Sciame di Meteore, a partire dal turno successivo. Questa abilità può essere usata una volta per settimana.
+- **Arma Senziente**: **Rionnag'hra** può percepire ogni cosa dalla lancia o dai sensi dell'utilizzatore e può decidere di teletrasportarsi all'arma o portarla a sé. Inoltre può comunicare telepaticamente con il portatore o parlare dalla lancia stessa.
+- **Distruggere l'Arma**: la lancia è indistruttibile. Può essere danneggiata e distrutta solo da una divinità, un solar, un arcidiavolo o un principe dei demoni. Antiche leggende affermano che se [[Rionnag'hra]] venisse trapassato dalla sua stessa lancia, l'anima del dragone verrebbe intrappolata al suo interno.

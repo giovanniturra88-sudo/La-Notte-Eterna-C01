@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e18c9c580e82791a",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f7ca8965c879c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd3501b07595375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Meccaniche_DaggerHeart/Domini/MezzaNotte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MezzaNotte"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d201cf622eeebe65",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64ad9470ed7ed97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7953156e4dee41d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "c8d96ea8c34c1b69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "aa2d05b39f3cdbf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "8a279119e481b459",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab77ed64f0eadace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40a74236e1a6dacb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "60bb87a69acc1d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Lore/Geografia/Valle Nuvolosa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Valle Nuvolosa"
+            }
+          },
+          {
+            "id": "ba59104e5dddb03a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "b57f057ef39ca9a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "321fb5b8d1fa678b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Lore/Geografia/Valle Nuvolosa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Valle Nuvolosa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "file-tree-generator:Generate file tree": false,
+      "arroweds-adversary-bank:Arroweds Adversary Bank": false
+    }
+  },
+  "active": "7bd3501b07595375",
+  "lastOpenFiles": [
+    "README.md",
+    "02_Meccaniche_DaggerHeart/Domini/Grazia.md",
+    "02_Meccaniche_DaggerHeart/Domini/Terrore.md",
+    "01_Lore/Geografia/Neir.md",
+    "00_Dashboard/Indice NPC.md",
+    "02_Meccaniche_DaggerHeart/Comunità/Highborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/Dardo Sanguinante.md",
+    "02_Meccaniche_DaggerHeart/Comunità/Cacciatore di Meteore.md",
+    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void/Blood Hunter.md",
+    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void/Summoner.md",
+    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Hope and Fear/Brawler.md",
+    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void",
+    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Hope and Fear/Assassin.md",
+    "03_Campagna/PNG/Najestarr.md",
+    "03_Campagna/PNG/Namass'rya.md",
+    "03_Campagna/PNG/Nelen Deseziath.md",
+    "03_Campagna/PNG/Doerun Eldobeth.md",
+    "03_Campagna/PNG/Desea.md",
+    "03_Campagna/PNG/Buhragath.md",
+    "03_Campagna/PNG/Bruin Ashcroft.md",
+    "03_Campagna/PNG/Axrul II De Vaars.md",
+    "03_Campagna/PNG/Annie Rose-Robe.md",
+    "03_Campagna/PNG/An'Rao IV.md",
+    "03_Campagna/PNG/Agan.md",
+    "02_Meccaniche_DaggerHeart/Domini/Domini delle Classi.md",
+    "02_Meccaniche_DaggerHeart/Domini/Sangue.md",
+    "01_Lore/Geografia/Senza nome.md",
+    "src/update_vault.py",
+    "src/clean_file_properly.py",
+    "src/clean_duplicate_yaml.py",
+    "src/final_clean_and_uniform.py",
+    "src/clean_and_uniform_properties.py",
+    "src/apply_transcoding.py",
+    "src/alias_mapping.json",
+    "src/transcoding_table.json",
+    "src/generate_transcoding_table.py",
+    "04_Risorse/Pictures/Pasted image 20260724002122.png",
+    "04_Risorse/Pasted image 20260724002122.png",
+    "Pasted image 20260724002122.png",
+    "Pasted image 20260721175031.png",
+    "Pasted image 20260721181936.png",
+    "04_Risorse/Pictures/mendulias_rock_map_pic.png",
+    "Pasted image 20260717114216.png",
+    "Pasted image 20260717144024.png",
+    "Pasted image 20260717143647.png",
+    "04_Risorse/Pictures/Pasted image 20260713190638.png",
+    "Senza nome.canvas"
+  ]
+}

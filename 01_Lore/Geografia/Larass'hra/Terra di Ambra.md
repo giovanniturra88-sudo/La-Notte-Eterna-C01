@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+Le origini dietro la sacralità della Terra di Ambra risalgono agli anni immediatamente successivi alla fuga dei draghi da [[Neir]], quando il loro numero aveva ormai toccato il minimo storico. Per evitare che finissero per uccidere i rispettivi cuccioli durante le loro contese territoriali, Ambra (drago d'argento adulto) dichiarò un territorio come sacro e inviolabile e sotto la sua protezione, quindi invitò i cuccioli di ogni specie a trascorrere gli anni di svezzamento presso di lei. Generazioni di draghi di ogni specie furono allevati con amorevoli cure dall'instancabile dragona. Anche i draghi più feroci, una volta svezzati, salutavano la loro madre adottiva con profondo rispetto. Quando l'anziana dragona lasciò il mondo mortale per affidare il suo spirito alla [[Canzone di Nebvarasa]], il [[Leresalazsnn'hra]] decretò che la Terra di Ambra sarebbe rimasta per sempre un luogo senza conflitto, dove i draghi di ogni specie avrebbero potuto trovare pace e ristoro dai tumulti del mondo.

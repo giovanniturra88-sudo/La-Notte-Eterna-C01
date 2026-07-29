@@ -1,0 +1,21 @@
+---
+type: Artefatto
+---
+
+![[Pasted image 20260713182303.png]]
+
+*Arma Magica Senziente (Spada Lunga, Legale Malvagio), Leggendaria, Richiede sintonia*
+
+*«La tua insolenza fa a gara con quella di [[Yolandi]]. Di chi parlo? Di mia sorella, purtroppo. Per quanto mi secca ammetterlo, ci tornerebbe decisamente utile in una situazione come questa.»*
+
+Nindja, come sua sorella [[Yolandi]], è un demone tramutato in spada per un capriccio di [[Demien]]. La spada è lunga 90 cm e ha una lama più ampia rispetto a una normale spada lunga. Spuntoni demoniaci e altri macabri dettagli decorano la spada rendendola un'arma dall'aspetto mostruoso e ultraterreno.
+Avvicinandosi alla spada, questa inizia a vorticare e ad avvolgersi in un turbine di sabbia rossa. Una volta sollevatasi da terra e dopo essersi presentata chiede con finta gentilezza ai presenti chi sia disposto ad aiutarla a ritrovare la sua assillante sorella [[Yolandi]], offrendosi come un grande strumento di morte nelle mani di chi la impugna.
+Nindja ha però perso buona parte dei suoi poteri. Appena trovata sarà al minimo delle forze e per riacquisirle dovrà uccidere e assorbire le essenze vitali delle proprie vittime.
+## Senziente
+La spada è senziente finché imprigiona Nindja. Mentre è senziente, la spada ha le seguenti proprietà:
+- Quando Nindja viene ritrovata si presenta come una Spada dei Demoni Minore (spada lunga +1, 3 cariche). Il possessore può usare un'azione per spendere una carica e lanciare Immagine Speculare su se stesso, o spendere una carica come reazione e lanciare Scudo di Fuoco al minimo del suo livello. La falce recupera tutte le cariche consumate al sorgere della luna. Uccidere una creatura con Nindja o che ha subito gli effetti di Scudo di Fuoco durante il suo ultimo minuto fa assorbire un'essenza vitale a Nindja. A 30 essenze vitali assorbite, Nindja si trasforma in una Spada dei Demoni.
+- Quando Nindja la spada si trasforma in Spada dei Demoni, la sua lama cresce e diventa più affilata e distruttiva, altri spuntoni si sviluppano lungo l'arma, rendendola più mortale e spaventosa. Viene trattata come una spada lunga +2, il numero di cariche sale a 6 e mette a segno un colpo critico su un risultato di 19-20. In aggiunta alle opzioni precedenti, il possessore può spendere due cariche per lanciare Inaridire. Il possessore può inoltre spendere un'azione per consumare 2 cariche per teletrasportarsi in qualsiasi punto che è in grado di vedere entro 36 m. La spada recupera tutte le cariche al sorgere della luna. Uccidere una creatura con Nindja, o con Inaridire, o che nell'ultimo minuto ha subito gli effetti di Scudo di Fuoco fa assorbire a Nindja un'essenza vitale. A 60 essenze vitali assorbite. Nindja si trasforma in una Spada Mangia Demoni Superiore.
+- Quando Nindja la spada si trasforma in Spada Mangia Demoni Superiore raggiunge la sua forma finale. Sull'elsa spunta un grosso occhio verde smeraldo dalla pupilla opaca e rotonda. La lama raggiunge la sua massima dimensione e appare mostruosa e mortale grazie anche allo sviluppo di nuovi spuntoni e decorazioni demoniache. Viene trattata come una spada lunga +3 e possiede 9 cariche. In aggiunta a tutte le opzioni precedenti, il possessore può spendere un'azione e consumare 6 cariche per lanciare Ferire. La spada recupera tutte le cariche consumate al sorgere della luna.
+## Liberare Nindja
+Lanciare Dissolvi Male e Bene sulla falce ha una probabilità dell'1% (la percentuale aumenta di 1 per ogni livello della magia) di liberare il Glabrezu rinchiuso al suo interno, riesce automaticamente se l'incantesimo è lanciato da un Solar o un Principe dei Demoni.
+Se [[Yolandi]] e Nindja, ancora intrappolati nelle armi, si ricongiungono ed entrambi sono nelle loro forme finali, riescono a liberarsi dalla loro prigionia e sono liberi di vagare. [[Yolandi]] e Nindja potrebbero anche decidere di impossessarsi dei loro due precedenti portatori, se li ritengono alla loro altezza. Solo l'intervento di un sacerdote di alto livello, un immondo o un celestiale potrebbe esorcizzare gli individui posseduti.

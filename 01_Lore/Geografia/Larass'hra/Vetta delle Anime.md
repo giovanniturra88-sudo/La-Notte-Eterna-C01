@@ -1,0 +1,13 @@
+---
+type: Luogo
+---
+
+Il sogno proibito di qualsiasi incantatore. Che cosa significherebbe impadronirsi del Fuoco Segreto? Quale immenso potere fluirebbe nelle vene del formidabile incantatore che, attraversate le terre dei draghi, riuscisse infine a raggiungere la Vetta delle Anime? Un ultimo, formidabile ostacolo sì frapporrebbe tra l'incantatore e il suo sogno: Mikrayl, il drago d'oro che giurò solennemente di proteggere il Fuoco. Solo una volta sconfitto Mikrayl l'incantatore potrà tentare di impadronirsi del Fuoco Segreto, recitando correttamente un'antica formula arcana i cui frammenti sono custoditi come reliquie inviolabili in templi e biblioteche sparsi tra i mondi di [[Nebvarasa]]:
+
+*«Kalhn, alar narad teular! Kalhn, alar darisséyral! Kalhn, kalhn, kalhn!»*
+*«A me, fuoco che domina il mondo! A me, fuoco del destino! A me, a me, a me!»*
+
+Per compiere questo rituale, l'incantatore deve essere in grado di lanciare almeno un incantesimo di Vera Magia. Immediatamente dopo aver recitato la formula al cospetto del Fuoco, l'incantatore dovrà effettuare con successo una prova di Arcana CD 35 e una di Costituzione CD 20. Fallire una di queste due prove comporterà la morte istantanea dell'incantatore e senza possibilità di tiro salvezza. L'anima dell'incantatore verrà quindi risucchiata dal Fuoco, dove brucerà in eterno.
+La via per il paradiso, si sa, è irta di ostacoli ma se dopo aver superato tutte queste prove l'incantatore dovesse riuscire a impossessarsi del Fuoco, acquisirà immediatamente il rango di divinità maggiore con il dominio della Conoscenza in aggiunta ad altri due in base a quella che era la sua natura mortale.
+La conquista del Fuoco Segreto provocherebbe un momentaneo risucchio di energia vitale in tutti mondi della Dimensione della Materia: qualsiasi creatura vivente invecchierebbe del 50% degli anni che complessivamente formano la sua naturale aspettativa di vita (ad esempio un nano, che normalmente vive fino, a 500 anni, invecchierebbe di 250 anni; se questo individuo ha già 400 anni al momento della soppressione del Fuoco di Kurash, dovrà effettuare un tiro salvezza su Costituzione con CD 20 + 1d20 o si polverizzerà all'istante; l'incenerimento conta come un effetto di energia necromantica).
+Lo squilibrio causato dal passaggio del Fuoco in un corpo senziente, dopo aver causato il temporaneo risucchio di energia vitale, si risanerebbe senza ulteriori conseguenze. Per via del suo padrone e indipendentemente dalla volontà di questi, il Fuoco Segreto continuerebbe a esercitare il suo naturale potere e la sua influenza su [[Nebvarasa]].
