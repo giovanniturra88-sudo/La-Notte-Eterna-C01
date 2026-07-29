@@ -1,0 +1,9 @@
+---
+type: Luogo
+---
+
+Questo maestoso palazzo-sfera rappresenta la dimora ideale di ogni regnante. Non fosse per l'atmosfera stranamente lugubre che si respira per i corridoi del palazzo, la reggia non sarebbe seconda a nessuna.
+L'edificio è stato progettato in maniera tale che dall'esterno dia il senso di una roccaforte inespugnabile, mentre al suo interno custodisce luoghi talmente belli da apparire sotto l'effetto di qualche potente illusione. Il lusso all'interno del palazzo potrebbe lasciare stordito anche il più consumato dei cortigiani. Tutte le ricchezze accumulate nella lunga e bellicosa storia dell'Impero si sono riversate tra le sale del palazzo.
+Il palazzo sfera dispone di una sala del trono (i cui elementi d'arredo superano il valore di un milione di monete d'oro); una grande serra (curata dalle concubine dell'Imperatore, custodisce alcuni tra i fiori più rari di [[Neir]], [[Larass'hra]] e delle [[Impero delle Terre Nascoste|Terre Nascoste]]); un piccolo ma raffinato complesso termale (costruito soltanto di recente); una caserma (locata in un edificio adiacente e annessa al palazzo-sfera tramite ponti coperti sospesi a dieci metri d'altezza).
+Ma esiste anche una facciata oscura della reggia. Nei suoi vasti e antichi sotterranei si svolgono torture e brutali esecuzioni. Alcune parti delle segrete sono infestate da spettri. Distruggerli non serve a nulla, dopo un certo periodo gli spettri ritornano. I sacerdoti di guardia sono costretti a iscrivere delle rune di protezione sulle pareti per impedire ai non morti di provocare danni.
+Il palazzo sfera è continuamente sorvegliato da cinquecento soldati e da un numero indefinito di Prescelti dalle Tenebre che mescolati tra i cortigiani rappresentano l'asso nella manica delle difese dell'Imperatore. 

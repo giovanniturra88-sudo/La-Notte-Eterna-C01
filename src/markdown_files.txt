@@ -1,0 +1,1053 @@
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\Benvenuto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\00_Dashboard\Home.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Canzone di Nebvarasa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Dimensione della Materia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Dimensione dello Spirito.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Guerra Celeste.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Mondo di Neir.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Notte Eterna.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Ali del Radioso Martirio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Amuleto dell'Investigatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Anelli degli Elementi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Balestre della Vita e della Morte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Bastone della Misericordia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Bestia Sacra Eneli.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Binocolo della Preveggenza.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Bracciale dell'Oltredove.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Bracciale delle Molte Forme.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Bracciale Sulfureo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Chevya' La Bestia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Collana del Distruttore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Collana del Mutaforma.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Cormaglio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Cuore Divino.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Demone X.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Domatore di Bestie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Dozhdboli il Nero Flagello.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Dustsceawung.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Egida del Rogo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Elmo del Fante Demoniaco.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Elmo di Gwynplaine.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Fante Demoniaco.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Foglia di Iliar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Frullatore (danneggiato).md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Frusta Fiammeggiante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Gemma del Mana Perpetuo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Infallibile Cristallo del Fato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\K'idusi Seyifi Mak'at'eli.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Kanptazu.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\La Senza Peso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Lacrime Celesti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Lama del Sacro Ordine.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Lancia Angelica.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Lanterna del Becchino.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Lenti dell'Archivista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Malia dell'Infido Gatto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Mano di Krea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Mantello dei Venti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Mantello dell'Inconsistenza.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Matna e la Scatola.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Mercanti di Meteore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Nindja.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Occhio del Demone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Oppressione Demoniaca.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Orecchini della Selva.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Osservatore Celeste.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Prima Lucis Advehens.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Psy Bot.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Putto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Sfida Celeste.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Teschio del Traditore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Tibia di Jonuun.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Tridente del Mare Eterno.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Cosmologia\Meteore\Yolandi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Adraoos.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Bakraag.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Demien.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Divinità.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Doomkhan.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Fadranstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Garod.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Glumdrung.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Halthea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Iliar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Krea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Lanie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Laon.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Lurtan.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Maskarr.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Nuzagaal.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Tenebris.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Divinità_e_Fazioni\Unthamarand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Cenere di Lanie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Favoleggiate Rovine di Gundazar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Neir.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Rengaria.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Repubblica di Mendulia’s Rock.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valli dei Giganti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Verde Foresta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Cenere di Lanie\Cratere di Lava.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Cenere di Lanie\Distese Nuvolose di Aej'Nagrizzt.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Cenere di Lanie\Placido Specchio di Ghyd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Cancello.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Mercato degli Schiavi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Obelisco dei Vinti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Piscine.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Reggia dei Piaceri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Dominio delle Trame\Città delle Trame\Segrete.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Landa di Edeber.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Landa di Edeber\Radura delle Pietre Grigie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Locanda degli Eroi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Molo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Palazzo Ducale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Piazza della Giostra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Ponte Curvo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Riposo dei Cavalieri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Sala dei Gran Maestri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Ducato di Öuin\Öuin\Tempio del Cuore e della Mente.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Favoleggiate Rovine di Gundazar\Gundazar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Favoleggiate Rovine di Gundazar\Gundazar\Aman'Raith.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Favoleggiate Rovine di Gundazar\Gundazar\Il Palazzo Imperiale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Favoleggiate Rovine di Gundazar\Gundazar\La Torre delle Anime.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Fiume Dern.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Giungla di Erth.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Hzaad'à.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Lago Vurur.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Miniere delle Otto Famiglie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Ynxazvann.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Giardinetti Lungofiume.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Palazzo-sfera dell'Imperatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Quartiere Hjilaki.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Quartiere Mendus.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Quartiere Zeyd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Ritrovo dei Dannati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Tempio della Luce Nera.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Abisso Oscuro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Baia di Redoro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Fato di Lyonel.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Manor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\Fiera Avveniristica di Flurr lo Gnomo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\I Bianchi Sepolcri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\Mura di Aeros II.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\Ospedale del Silenzio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\Ostello dei Morti Contenti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Impero delle Terre Nascoste\Provincia di Petralta\Petralta\Porticato del Governatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Accademia delle Sette Arti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Banco del Mare.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Base della Marina.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Bassifondi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Corporazione delle Arti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Ippodromo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Molo degli Stendardi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Rifugio dei Marinai.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Rupe di Mendulia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Scuola delle Parole che Uccidono.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Tana delle Sguattere.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Teatro dei Sogni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\La Repubblica di Mendulia's Rock\Mendulia's Rock\Tempio della Guarigione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Baia d'Argento di Onor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Bosco di Alysara.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Bosco di Llira.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Bosco di Melis.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Cimitero dei Draghi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Desolazione Occidentale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Golfo della Zanna Blu.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Isole Gemelle.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Lago di Udz.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Mare della Progenie dell'Esiliato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Montagna dell'Occhio del Drago.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Picchi del Wyrm.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Progenie del Vulcano.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Regione Mistica.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Terra di Ambra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Larass'hra\Vetta delle Anime.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Azkabel.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Città di Nü.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Azkabel\Biblioteca di Azkabel.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Azkabel\Casa dei Musici e delle Belle Arti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Azkabel\Osteria dell'Onda Infranta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Città di Nü\Accademia Magica di Nü.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Città di Nü\Locanda della Pergamena Annacquata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Città di Nü\Locanda delle Spade Incantate.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Città di Nü\Torre dei Segreti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss\Caserma delle Mille Lance.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss\Grande Porto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss\Museo Naturale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss\Università delle Scienze.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Magocrazia di Nü\Daragoss\Via delle Botteghe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey\Giardino degli Dei.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey\La Taverna Sommersa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey\Le Mura Invalicabili.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey\Piramide del Dio Dimenticato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Oasi di Zey\Scuola degli Specchi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Milford.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Milford\Fortino del Conte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Milford\Locanda dell'Eterno Riposo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Corporazione degli Archivisti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Locanda del Cappuccio Nero.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Monteforte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Oscura Chiesa di Tenebris.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Tempietto degli Ospedalieri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Terme Imperiali.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Torre Baronale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Pianure di Xanesh\Mubunash\Via degli Imperatori.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Antro dei Lupi d'Inverno.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Arena delle Belve.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Bastione Grigio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Guarnigione del Simbolo Guerriero.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Lago delle Quattro Braccia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle dei Giganti\Forte Arundex\Tempio degli Antenati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Campo Geyser.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Pahr.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Selva Infestata di Mysteria.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Bastione del Principe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Birreria dei Thunder.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Collegio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Fonderia del Principe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Fondo di Guldann.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Fortezza degli Scudi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Geografia\Valle Nuvolosa\Ludreq\Santuario di Fadranstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Razze_e_Popoli\Elfi di Dor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Razze_e_Popoli\Hjilaki.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Razze_e_Popoli\Vampiro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\01_Lore\Vera Magia\Vera Magia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Abile Inganno.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Appoggiati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Approccio Strategico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Armatura Fortificata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Armatura Infrangibile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Assalto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Attraverso i Tuoi Occhi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Audace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Aura Confondente.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Aura Sovrastante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Barriera di Rigenerazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cacciare.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cacciatore d'Ombre.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Camminatore di Fessura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cammino sulle Pareti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Campo di Guarigione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Carica di Incantesimo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Carisma Infinito.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Catena di Fulmini.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cieli che Cadono.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpire al Suolo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpito dalla Lama.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo del Mietitore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Frantumazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Rottura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Sfioramento.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo Guaritore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo Risonante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Combattente Versatile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Concentrazione Letale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Condividi il Carico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Conosci il tuo nemico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\ControIncantesimo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Controllare.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Corazza.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Corsa verso la Morte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Custode delle Rune.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Discorso Rassicurante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Distruttore di Corpi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Divinazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Dominio Vegetale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Eclissi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Entusiasmo di Massa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Equidi Evocati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esperto di Furtività.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esplosione Ammantata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esplosione di Conservazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Estasi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Evoca Sciame.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Famiglio della Natura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Famoso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ferocia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Forma Materiale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Fortezza Selvaggia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Forza della Natura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Frenesia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Furia Crescente.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Fusto Maestoso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Glifo dell'Oscurità.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Grido di Battaglia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Guida con l'Esempio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Imitatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Impulso Selvaggio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Inevitabile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Infrangibile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Intoccabile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Intrico Violento.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Invisibilità.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ispirazione Critica.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Legame dell'Ombra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Legame di un Soldato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libera il Caos.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Ava.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Exota.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Grynn.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Homet.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Illiat.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Korvax.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Norai.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Ronin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Sitil.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Tyfar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Vagras.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Vyola.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Yarrow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Lingua della Natura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Maestro dell'Arte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mai Sopraffatto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mani Curatrici.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Manovre Agili.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mischia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Morsa Mortale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mossa Caratteristica.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mostro da Battaglia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Muro Manifesto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Non Abbastanza Buono.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Non Dire Mai Bugie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Occhio Fluttuante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Onda di Disintegrazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ossa e Pelle.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Parole d'Ispirazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Parole di Discordia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Passo Rapido.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Pelle di Spine.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\PiantaGrane.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Piena Ondata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Pioggia di Lame.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Potenziamento.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Precisione Crudele.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Premonizione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Prendi e Tira.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presa alla Gola.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presa Cinerea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presenza Audace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiettile Corrosivo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiettile di Luce.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiezione Astrale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiezione Sensoriale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Provocazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Raccoglitore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rafforzamento.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rafforzato in Battaglia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Raggio Salvifico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rassicurazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Recupero.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Regola la Realtà.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rialzati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ridirezione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Riflesso Arcano.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rifugio Sicuro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rinvigorimento.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ripetizione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risorgi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risposta Rapida.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ristoro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risurrezione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ritirata Fantasma.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sangue e Gloria.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Santuario della Selva.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scavatore di Pensieri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Schivata Elusiva.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scudo d'Aura.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scudo di Supporto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scuotiti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Secondo Respiro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sigillo di Ritorsione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Silenzio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sono Il Tuo Scudo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sparizione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spettro del Buio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spinta Forzata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spiritelli della Foresta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spirito di Mezzanotte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Splendida Luce Solare.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sul Limite.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sussurri Oscuri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tassa del Crepuscolo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tattico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Telecinesi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Teletrasporto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tempesta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Terremoto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Terrore della Notte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tieni la Linea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccando l'Osso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dal Codice.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dal Valore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dall'Arcano.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dalla Mezzanotte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco del Saggio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco della Grazia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco dello Splendore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco Riparatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tracciatore Dotato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Travestimento di Massa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Travestimento Misterioso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ultime Parole.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Unione Trascendente.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vantaggio del Campione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vedo Che Arriva.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Velo Ipnotico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Velo Notturno.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vita Protetta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vitalità.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Voce della Ragione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Volo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vortice.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Zona di Protezione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Abandoned Grove.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Ambushed.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Ambushers.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Burning Heart of the Woods.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Bustling Marketplace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Castle Siege.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Chaos Realm.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Cliffside Ascent.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Cult Ritual.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Divine Usurpation.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Hallowed Temple.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Haunted City.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Imperial Court.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Local Tavern.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Mountain Pass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Necromancers Ossuary.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Outpost Town.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Pitched Battle.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ambienti\Raging River.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Clank.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Drakona.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Elfi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Faerie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Fauni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Firbolg.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Fungril.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Galapa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Giganti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Goblin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Halfling.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Infernis.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Karevi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Katari.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Klorss.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Nani.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Nuno.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Orchi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Ribbet.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Simiah.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Umani.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Urakian.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Ancestry_e_Community\Ancestry\Wiloi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Advanced Chainmail Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Advanced Full Plate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Advanced Gambeson Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Advanced Leather Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Bellamoi Fine Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Bladefare Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Chainmail Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Channeling Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Dragonscale Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Dunamis Silkchain.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Elundrian Chain Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Emberwoven Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Full Fortified Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Full Plate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Gambeson Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Harrowbone Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Improved Chainmail Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Improved Full Plate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Improved Gambeson Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Improved Leather Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Irontree Breastplate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Leather Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Legendary Chainmail Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Legendary Full Plate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Legendary Gambeson Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Legendary Leather Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Monetts Cloak.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Rosewild Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Runes of Fortification.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Runetan Floating Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Savior Chainmail.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Spiked Plate Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Tyris Soft Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armature\Veritas Opal Armor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Aantari Bow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Arcane Gauntlets.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Battleaxe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Broadsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Cutlass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Dualstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Glowing Rings.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Grappler.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Greatstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Greatsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Halberd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Hallowed Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Hand Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Hand Runes.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Longbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Longsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Mace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Quarterstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Rapier.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Returning Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Round Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Scepter.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Shortbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Shortstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Shortsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Small Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Spear.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Tower Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Wand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Warhammer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Advanced Whip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Arcane Gauntlets.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Axe of Fortunis.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Battleaxe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Black Powder Revolver.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Bladed Whip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Blessed Anlace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Bloodstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Blunderbuss.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Braveshield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Bravesword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Broadsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Buckler.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Casting Sword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Curved Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Cutlass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Devouring Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Double Flail.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Dual-Ended Sword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Dualstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Ego Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Elder Bow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Extended Polearm.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Finehair Bow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Firestaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Flickerfly Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Floating Bladeshards.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Fusion Gloves.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Ghostblade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Gilded Bow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Gilded Falchion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Glowing Rings.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Grappler.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Greatbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Greatstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Greatsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Halberd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hallowed Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hammer of Exota.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hammer of Wrath.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hand Cannon.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hand Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hand Runes.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Hand Sling.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Ilmaris Rifle.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Impact Gauntlet.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Arcane Gauntlets.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Battleaxe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Broadsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Cutlass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Dualstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Glowing Rings.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Grappler.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Greatstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Greatsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Halberd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Hallowed Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Hand Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Hand Runes.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Longbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Longsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Mace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Quarterstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Rapier.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Returning Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Round Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Scepter.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Shortbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Shortstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Shortsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Small Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Spear.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Tower Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Wand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Warhammer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Improved Whip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Keepers Staff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Knuckle Blades.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Knuckle Claws.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Labrys Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Arcane Gauntlets.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Battleaxe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Broadsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Cutlass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Dualstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Glowing Rings.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Grappler.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Greatstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Greatsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Halberd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Hallowed Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Hand Crossbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Hand Runes.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Longbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Longsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Mace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Quarterstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Rapier.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Returning Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Round Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Scepter.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Shortbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Shortstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Shortsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Small Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Spear.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Tower Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Wand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Warhammer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Legendary Whip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Longbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Longsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Mace.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Mage Orb.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Magus Revolver.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Meridian Cutlass.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Midas Scythe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Parrying Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Powered Gauntlet.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Primer Shard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Quarterstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Rapier.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Retractable Saber.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Returning Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Returning Blade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Ricochet Axes.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Round Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Runes of Ruination.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Scepter of Elias.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Scepter.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Shortbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Shortstaff.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Shortsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Siphoning Gauntlets.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Sledge Axe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Small Dagger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Spear.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Spiked Bow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Spiked Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Steelforged Halberd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Swinging Ropeblade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Sword of Light and Flame.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Talon Blades.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Thistlebow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Tower Shield.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Urok Broadsword.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Wand of Enthrallment.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Wand of Essek.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Wand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\War Scythe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Warhammer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Whip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Widogast Pendant.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Armi\Yutari Bloodbow.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Bard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Druid.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Guardian.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Ranger.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Rogue.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Seraph.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Sourcerer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Warrior.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart\Wizard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart Hope and Fear\Warlock.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Classi\DaggerHeart Hope and Fear\Witch.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Archivista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Background.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Cacciatore di Meteore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Dardo Sanguinante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Highborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Loreborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Mare Andante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Orderborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Ridgeborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Seaborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Slyborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Underborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Wanderborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Comunità\Wildborne.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Acidpaste.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Armor Stitcher.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Attune Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Blinding Orb.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Blood of the Yorgi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Bolster Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Bonding Honey.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Bridge Seed.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Channelstone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Charm Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Circle of the Void.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Control Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Death Tea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Dragonbloom Tea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Dripfang Poison.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Enlighten Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Feast of Xuria.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Featherbone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Gill Salve.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Grindletooth Venom.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Growing Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Health Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Homets Secret Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Hopehold Flare.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Hornets Secret Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Improved Arcane Shard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Improved Grindletooth Venom.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Jar of Lost Voices.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Jumping Root.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Knowledge Stone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Arcane Shard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Attune Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Bolster Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Charm Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Control Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Enlighten Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Health Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Stamina Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Major Stride Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Minor Health Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Minor Stamina Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Mirror of Marigold.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Morphing Clay.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Mythic Dust.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Ogre Musk.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Potion of Stability.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Redthorn Saliva.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Replication Parchment.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Shrinking Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Sleeping Sap.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Snap Powder.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Stamina Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Stardrop.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Stride Potion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Sun Tree Sap.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Sweet Moss.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Unstable Arcane Shard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Varik Leaves.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Vial of Darksmoke.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Vial of Moondrip.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Consumabili\Wingsprout.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Arcana.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Codice.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Domini delle Classi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Grazia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Lama.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\MezzaNotte.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Ossa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Saggio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Splendore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Domini\Valore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Agile Scout.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Aquatic Predator.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Aquatic Scout.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Armored Sentry.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Epic Aquatic Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Great Predator.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Great Winged Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Household Friend.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Legendary Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Legendary Hybrid.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Massive Behemoth.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Mighty Lizard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Mighty Strider.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Mythic Aerial Hunter.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Mythic Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Mythic Hybrid.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Nimble Grazer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Pack Predator.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Pouncing Predator.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Powerful Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Stalking Arachnid.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Striking Serpent.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Terrible Lizard.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Forme Bestiali\Winged Beast.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Airblade Charm.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Alistairs Torch.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Arcane Cloak.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Arcane Prism.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Attune Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Bag of Ficklesand.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Belt of Unity.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Bloodstone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Bolster Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Box of Many Goods.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Calming Pendant.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Charging Quiver.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Charm Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Clay Companion.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Companion Case.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Control Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Corrector Sprite.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Dual Flask.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Elusive Amulet.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Empty Chest.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Enlighten Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Fire Jar.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Flickerfly Pendant.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gecko Gloves.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Alacrity.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Audacity.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Insight.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Might.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Precision.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Gem of Sagacity.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Glamour Stone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Glider.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Greatstone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Homing Compasses.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Honing Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Hopekeeper Locket.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Infinite Bag.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Lakestrider Boots.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Lorekeeper.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Manacles.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Minor Health Potion Recipe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Minor Stamina Potion Recipe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Mythic Dust Recipe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Paragons Chain.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Phoenix Feather.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Piercing Arrows.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Piper Whistle.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Portal Seed.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Premium Bedroll.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Ring of Resistance.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Ring of Silence.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Ring of Unbreakable Resolve.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Shard of Memory.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Skeleton Key.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Speaking Orbs.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Stride Relic.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Suspended Rod.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Valorstone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Vial of Darksmoke Recipe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\items\Woven Net.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Abominio dei Regni Esterni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Adepto Cultista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Agglomerato di Carcasse Zombie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Alto Serafino.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Anguille Elettriche.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Aquila Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Arcere Scheletrico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Arciere Maledetto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Arciere Spettrale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\ArcoNecromante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Assassino Apprendista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Assassino Velenoso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Bandito con Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Barone Mercante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Branco Demoniaco.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cacciatore Mortale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Capitano Pirata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Capitano Spettrale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Capo delle Guardie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cavaliere del Cervo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cavaliere della Corona.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cavaliere Scheletrico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cecchino della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Combattente Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Consigliere Reale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Corrutore dei Regni Esterni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Corruttore dei Regni Esterni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cortigiana.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Cortigiano.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Coscritto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Costrutto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Custode dei Segreti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone dell'Avarizia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone dell'Presunzione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone della Furia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone di Disperazione.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone di Gelosia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Demone Minore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Devastatore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Difensore dalle Radici Profonde.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Dragatore Scheletrico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Drago Vulcanico Flagello Fuso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Drago Vulcanico Predatore di Ossidiana.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Drago Vulcanico Tiranno Cinereo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Driade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Elementale Maggiore dell'Acqua.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Elementale Maggiore della Terra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Elementale Minore del Caos.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Elementale Minore del Fuoco.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Esperimento Fallito.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Giovane Drago di Ghiaccio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Giovane Driade.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Gorgone.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Gruppo di Zombie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guardia Arciere.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guardia con Lama.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guardiano Carceriere della Cripta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guardiano Spettrale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guerriero Caduto Campione Imbattibile.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guerriero Caduto Frantumatore di Reami.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Guerriero Scheletrico.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Idra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Immensa Melma Verde.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Iniziato Cultista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Kraken.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Ladro Mascherato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Lama Incantata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Legione Zombie.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Lucciola Adulta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Lucciola Giovane.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Lupo Mannaro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Maestro Assassino.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Maestro delle Armi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Maestro delle Bestie Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Mago della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Melma Rossa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Melma Verde.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Mente dei Vampiri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Mercante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Mercenario.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Minotauro Demolitore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Monarca.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Nobile Minore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Ogre di Caverna.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Ombra della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Oracolo del Destino.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Orso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Pastore di Alberi Minore.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Pastore di Alberi Quercia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Piccola Melma Rossa.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Piccola Melma Verde.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Piccolo Pastore di Alberi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Pirata Resiliente.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Predoni Pirati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Ratto Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Recluta Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Rovi Intricati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Scatola da Battaglia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Scavatore Acido.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Sciame di Ratti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Sciame di Rovi Intricati.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Scintilla Elementale.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Scorpione Gigante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Seguace della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Sentinella Guardiana della Cripta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Serpente di Vetro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Servo dei Regni Esterni.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Sirena.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Soldato d'Assalto Caduto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Soldato d'Elite.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Soldato Maledetto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Soldato Silvano.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Spettro di Pietra.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\SpezzaGinocchia della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Spia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Squadrone di Arceri.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Squalo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Stregone Caduto.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Stregone Guerriero.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Tenente della Lama Seghettata.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Terribile Pipistrello.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Teschio del Caos.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Torretta Guardiana della Cripta.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Vampiro.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zanna Cultista.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zanzare Giganti.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zombie Barcollante.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zombie Marcio.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zombie Muscoloso.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Nemici\Zombie Perfezionato.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Regole_di_Casa\Ispirazione Divina.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Regole_di_Casa\Teriantropia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\Regole_di_Casa\Vampirismo.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Beastbound.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Call of the Brave.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Call of the Slayer.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Cavaliere di Kurash.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Cavaliere di Öuin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Cavaliere Ospedaliere.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Divine Wielder.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Elemental Origin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Nightwalker.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Primal Origin.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\School of Knowledge.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\School of War.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\SottoClassi.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Stalwart.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Syndicate.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Troubadour.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Vengeance.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Warden of Renewal.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Warden of the Elements.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Wayfinder.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Winged Sentinel.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\02_Meccaniche_DaggerHeart\SottoClassi\Wordsmith.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Agan.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\An'Rao IV.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Annie Rose-Robe.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Axrul II De Vaars.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Bruin Ashcroft.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Buhragath.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Daahronat.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Desea.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Doerun Eldobeth.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Efneriom.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Fahrn.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Hedd.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Horus.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Hulbert.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Korath.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Lewyn.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\M'oraoork.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Najestarr.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Namass'rya.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Nelen Deseziath.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Orgnornor.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Rakilia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Renetzia.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Rihko.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Rowzrugu.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Sagister.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\03_Campagna\PNG\Ziria.md
+C:\Users\gturra\DaggerHeart\La Notte Eterna C01\04_Risorse\Templates\Template Ancestry.md

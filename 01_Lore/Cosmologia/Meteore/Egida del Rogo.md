@@ -1,0 +1,14 @@
+---
+type: Artefatto
+---
+
+*Armatura Instabile Danneggiata (Scudo), Molto Rara, Richiede sintonia*
+
+Forniti in dotazione ai principali emissari di [[Bakraag]] nella Guerra Celeste, le Egide del Rogo sono robusti scudi in metallo che recano scolpito il volto dell'immondo cui appartengono, adornato a sua volta di borchie e rinforzi finalizzati ad accrescerne l'aura minacciosa.
+Il dio del fuoco e i demoni suoi servitori ritengono che la Guerra Celeste sia un inutile spreco di tempo, per questo motivo hanno creato delle vere e proprie prigioni portatili dove rinchiudere lo spirito di tutte le creature che hanno la malsana idea di sfidarli in battaglia. Questi scudi però fungono da prigioni solo quando si trovano nella [[Dimensione dello Spirito]]: tutte le Egide del Fuoco rinvenute finora su [[Neir]] sono danneggiate e spaccate, incapaci di mantenere intrappolati gli spiriti. L'impugnatura dello scudo emana un calore costante e al limite del tollerabile anche in ambienti glaciali, mentre sulla parte frontale è possibile addirittura friggerci le uova (1d2 danni da Fuoco per ogni turno in cui una creatura viene in contatto con lo scudo). A [[Belzifer]] un contadino imbattutosi per caso in una Egida del Fuoco ha abbandonato falce e zappa per inaugurare una piccolissima locanda senza posti a sedere chiamata "Il Buco" e dove, avvalendosi proprio della meteora come fornello, delizia gli avventori con piatti tipici xaan a prezzi contenuti, risparmiando tra l'altro su legna e carbone.
+- Finché il personaggio impugna questo scudo, ottiene resistenza ai danni da fuoco e +2 alla CA. Questo bonus è cumulativo al normale bonus dello scudo alla CA.
+- Ogni volta che un avversario infligge danni da fuoco a un bersaglio entro 1,5 m dal portatore dello scudo, quest'ultimo può spendere la sua reazione per cercare di intercettare le fiamme in arrivo e diventare così il bersaglio dell'attacco.
+- Ogni volta che il portatore dello scudo riesce a parare un attacco in mischia o un incantesimo che richieda tiro per colpire (bloccare un colpo grazie al bonus di +2 dato dallo scudo), lo scudo sprigiona 1d6 spiriti fiammeggianti che si schiantano ognuno su un bersaglio nemico diverso entro 9 metri, infliggendo 1d6 danni fuoco. Se i bersagli nemici nell'area sono meno di 6, gli spiriti fiammeggianti extra si disperdono senza recare danni.
+
+## Riparare lo Scudo
+Lo scudo può essere riparato o da un emissario di [[Bakraag]] o da un chierico di [[Bakraag]] di almeno livello 8. Se riparato, il possessore diventa in grado di decidere i bersagli degli spiriti infuocati, infliggendo fino a 2d6 danni da fuoco contro uno stesso bersaglio.

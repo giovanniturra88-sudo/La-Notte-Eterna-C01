@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+ Si tratta della locanda più rinomata di [[Petralta]], famosa per il livello di intrattenimento che è in grado di offrire ai suoi ospiti. Pagliacci, acrobati, mangiafuoco, musici, poeti e giullari si esibiscono su un palco ampio e ben illuminato. L'abilità e la simpatia degli artisti attirano numerosi turisti presso l'ostello.  Korib è amato e rispettato come un padre dal personale dell'ostello. Gli artisti che vi si esibiscono erano schiavi che Korib comprò e liberò a sue spese. Molti hanno deciso di restare e questo ha contribuito a creare una grande e felice famiglia di saltimbanchi.  L'ingresso nella sala comune dell'ostello, dove si svolgono le esibizioni, costa due h'kôy d'argento a persona. La sala comune può accogliere fino a un massimo di centoventi spettatori.

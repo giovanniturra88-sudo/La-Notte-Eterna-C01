@@ -1,0 +1,1313 @@
+Elenco del percorso delle cartelle
+Numero di serie del volume: 000000D6-A24C:64C4
+C:.
+|   audit_links.py
+|   Benvenuto.md
+|   fix_properties.py
+|   normalize_abilities.py
+|   simple_vault_analysis.py
+|   vault_tree.txt
+|   vault_tree.txtMostra
+|   
++---.obsidian
+|   |   app.json
+|   |   appearance.json
+|   |   community-plugins.json
+|   |   core-plugins.json
+|   |   graph.json
+|   |   types.json
+|   |   workspace.json
+|   |   
+|   +---plugins
+|   |   +---dataview
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   +---obsidian-leaflet-plugin
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   \---templater-obsidian
+|   |           main.js
+|   |           manifest.json
+|   |           styles.css
+|   |           
+|   \---themes
+|       +---Dune
+|       |       manifest.json
+|       |       theme.css
+|       |       
+|       +---Shiba Inu
+|       |       manifest.json
+|       |       theme.css
+|       |       
+|       \---Ukiyo
+|               manifest.json
+|               theme.css
+|               
++---00_Dashboard
+|       Home.md
+|       
++---01_Lore
+|   +---Cosmologia
+|   |   |   Canzone di Nebvarasa.md
+|   |   |   Dimensione della Materia.md
+|   |   |   Dimensione dello Spirito.md
+|   |   |   Guerra Celeste.md
+|   |   |   Meteore.md
+|   |   |   Mondo di Neir.md
+|   |   |   Notte Eterna.md
+|   |   |   
+|   |   \---Meteore
+|   |           Ali del Radioso Martirio.md
+|   |           Amuleto dell'Investigatore.md
+|   |           Anelli degli Elementi.md
+|   |           Balestre della Vita e della Morte.md
+|   |           Bastone della Misericordia.md
+|   |           Bestia Sacra Eneli.md
+|   |           Binocolo della Preveggenza.md
+|   |           Bracciale dell'Oltredove.md
+|   |           Bracciale delle Molte Forme.md
+|   |           Bracciale Sulfureo.md
+|   |           Chevya' La Bestia.md
+|   |           Collana del Distruttore.md
+|   |           Collana del Mutaforma.md
+|   |           Cormaglio.md
+|   |           Cuore Divino.md
+|   |           Demone X.md
+|   |           Domatore di Bestie.md
+|   |           Dozhdboli il Nero Flagello.md
+|   |           Dustsceawung.md
+|   |           Egida del Rogo.md
+|   |           Elmo del Fante Demoniaco.md
+|   |           Elmo di Gwynplaine.md
+|   |           Fante Demoniaco.md
+|   |           Foglia di Iliar.md
+|   |           Frullatore (danneggiato).md
+|   |           Frusta Fiammeggiante.md
+|   |           Gemma del Mana Perpetuo.md
+|   |           Infallibile Cristallo del Fato.md
+|   |           K'idusi Seyifi Mak'at'eli.md
+|   |           Kanptazu.md
+|   |           La Senza Peso.md
+|   |           Lacrime Celesti.md
+|   |           Lama del Sacro Ordine.md
+|   |           Lancia Angelica.md
+|   |           Lanterna del Becchino.md
+|   |           Lenti dell'Archivista.md
+|   |           Malia dell'Infido Gatto.md
+|   |           Mano di Krea.md
+|   |           Mantello dei Venti.md
+|   |           Mantello dell'Inconsistenza.md
+|   |           Matna e la Scatola.md
+|   |           Mercanti di Meteore.md
+|   |           Nindja.md
+|   |           Occhio del Demone.md
+|   |           Oppressione Demoniaca.md
+|   |           Orecchini della Selva.md
+|   |           Osservatore Celeste.md
+|   |           Prima Lucis Advehens.md
+|   |           Psy Bot.md
+|   |           Putto.md
+|   |           Sfida Celeste.md
+|   |           Teschio del Traditore.md
+|   |           Tibia di Jonuun.md
+|   |           Tridente del Mare Eterno.md
+|   |           Yolandi.md
+|   |           
+|   +---Cronologia
+|   +---Divinità_e_Fazioni
+|   |       Adraoos.md
+|   |       Bakraag.md
+|   |       Demien.md
+|   |       Divinità.md
+|   |       Doomkhan.md
+|   |       Fadranstaff.md
+|   |       Garod.md
+|   |       Glumdrung.md
+|   |       Halthea.md
+|   |       Iliar.md
+|   |       Krea.md
+|   |       Lanie.md
+|   |       Laon.md
+|   |       Lurtan.md
+|   |       Maskarr.md
+|   |       Nuzagaal.md
+|   |       Tenebris.md
+|   |       Unthamarand.md
+|   |       
+|   +---Geografia
+|   |   |   Cenere di Lanie.md
+|   |   |   Dominio delle Trame.md
+|   |   |   Ducato di Öuin.md
+|   |   |   Favoleggiate Rovine di Gundazar.md
+|   |   |   Impero delle Terre Nascoste.md
+|   |   |   Larass'hra.md
+|   |   |   Magocrazia di Nü.md
+|   |   |   Neir.md
+|   |   |   Oasi di Zey.md
+|   |   |   Pianure di Xanesh.md
+|   |   |   Rengaria.md
+|   |   |   Repubblica di Mendulia’s Rock.md
+|   |   |   Valle Nuvolosa.md
+|   |   |   Valli dei Giganti.md
+|   |   |   Verde Foresta.md
+|   |   |   
+|   |   +---Cenere di Lanie
+|   |   |       Cratere di Lava.md
+|   |   |       Distese Nuvolose di Aej'Nagrizzt.md
+|   |   |       Placido Specchio di Ghyd.md
+|   |   |       
+|   |   +---Dominio delle Trame
+|   |   |   |   Città delle Trame.md
+|   |   |   |   
+|   |   |   \---Città delle Trame
+|   |   |           Cancello.md
+|   |   |           Mercato degli Schiavi.md
+|   |   |           Obelisco dei Vinti.md
+|   |   |           Piscine.md
+|   |   |           Reggia dei Piaceri.md
+|   |   |           Segrete.md
+|   |   |           
+|   |   +---Ducato di Öuin
+|   |   |   |   Landa di Edeber.md
+|   |   |   |   Öuin.md
+|   |   |   |   
+|   |   |   +---Landa di Edeber
+|   |   |   |       Radura delle Pietre Grigie.md
+|   |   |   |       
+|   |   |   \---Öuin
+|   |   |           Locanda degli Eroi.md
+|   |   |           Molo.md
+|   |   |           Palazzo Ducale.md
+|   |   |           Piazza della Giostra.md
+|   |   |           Ponte Curvo.md
+|   |   |           Riposo dei Cavalieri.md
+|   |   |           Sala dei Gran Maestri.md
+|   |   |           Tempio del Cuore e della Mente.md
+|   |   |           
+|   |   +---Favoleggiate Rovine di Gundazar
+|   |   |   |   Gundazar.md
+|   |   |   |   
+|   |   |   \---Gundazar
+|   |   |           Aman'Raith.md
+|   |   |           Il Palazzo Imperiale.md
+|   |   |           La Torre delle Anime.md
+|   |   |           
+|   |   +---Impero delle Terre Nascoste
+|   |   |   |   Kkyrlamny.md
+|   |   |   |   Provincia di Petralta.md
+|   |   |   |   
+|   |   |   +---Kkyrlamny
+|   |   |   |   |   Fiume Dern.md
+|   |   |   |   |   Giungla di Erth.md
+|   |   |   |   |   Gloriosa Ezakran.md
+|   |   |   |   |   Hzaad'à.md
+|   |   |   |   |   Lago Vurur.md
+|   |   |   |   |   Miniere delle Otto Famiglie.md
+|   |   |   |   |   Ynxazvann.md
+|   |   |   |   |   
+|   |   |   |   \---Gloriosa Ezakran
+|   |   |   |           Giardinetti Lungofiume.md
+|   |   |   |           Palazzo-sfera dell'Imperatore.md
+|   |   |   |           Quartiere Hjilaki.md
+|   |   |   |           Quartiere Mendus.md
+|   |   |   |           Quartiere Zeyd.md
+|   |   |   |           Ritrovo dei Dannati.md
+|   |   |   |           Tempio della Luce Nera.md
+|   |   |   |           
+|   |   |   \---Provincia di Petralta
+|   |   |       |   Abisso Oscuro.md
+|   |   |       |   Baia di Redoro.md
+|   |   |       |   Fato di Lyonel.md
+|   |   |       |   Manor.md
+|   |   |       |   Petralta.md
+|   |   |       |   
+|   |   |       \---Petralta
+|   |   |               Fiera Avveniristica di Flurr lo Gnomo.md
+|   |   |               I Bianchi Sepolcri.md
+|   |   |               Mura di Aeros II.md
+|   |   |               Ospedale del Silenzio.md
+|   |   |               Ostello dei Morti Contenti.md
+|   |   |               Porticato del Governatore.md
+|   |   |               
+|   |   +---La Repubblica di Mendulia's Rock
+|   |   |   |   Mendulia's Rock.md
+|   |   |   |   
+|   |   |   \---Mendulia's Rock
+|   |   |           Accademia delle Sette Arti.md
+|   |   |           Banco del Mare.md
+|   |   |           Base della Marina.md
+|   |   |           Bassifondi.md
+|   |   |           Corporazione delle Arti.md
+|   |   |           Ippodromo.md
+|   |   |           Molo degli Stendardi.md
+|   |   |           Rifugio dei Marinai.md
+|   |   |           Rupe di Mendulia.md
+|   |   |           Scuola delle Parole che Uccidono.md
+|   |   |           Tana delle Sguattere.md
+|   |   |           Teatro dei Sogni.md
+|   |   |           Tempio della Guarigione.md
+|   |   |           
+|   |   +---Larass'hra
+|   |   |       Baia d'Argento di Onor.md
+|   |   |       Bosco di Alysara.md
+|   |   |       Bosco di Llira.md
+|   |   |       Bosco di Melis.md
+|   |   |       Cimitero dei Draghi.md
+|   |   |       Desolazione Occidentale.md
+|   |   |       Golfo della Zanna Blu.md
+|   |   |       Isole Gemelle.md
+|   |   |       Lago di Udz.md
+|   |   |       Mare della Progenie dell'Esiliato.md
+|   |   |       Montagna dell'Occhio del Drago.md
+|   |   |       Picchi del Wyrm.md
+|   |   |       Progenie del Vulcano.md
+|   |   |       Regione Mistica.md
+|   |   |       Terra di Ambra.md
+|   |   |       Vetta delle Anime.md
+|   |   |       
+|   |   +---Magocrazia di Nü
+|   |   |   |   Azkabel.md
+|   |   |   |   Città di Nü.md
+|   |   |   |   Daragoss.md
+|   |   |   |   
+|   |   |   +---Azkabel
+|   |   |   |       Biblioteca di Azkabel.md
+|   |   |   |       Casa dei Musici e delle Belle Arti.md
+|   |   |   |       Osteria dell'Onda Infranta.md
+|   |   |   |       
+|   |   |   +---Città di Nü
+|   |   |   |       Accademia Magica di Nü.md
+|   |   |   |       Locanda della Pergamena Annacquata.md
+|   |   |   |       Locanda delle Spade Incantate.md
+|   |   |   |       Torre dei Segreti.md
+|   |   |   |       
+|   |   |   \---Daragoss
+|   |   |           Caserma delle Mille Lance.md
+|   |   |           Grande Porto.md
+|   |   |           Museo Naturale.md
+|   |   |           Università delle Scienze.md
+|   |   |           Via delle Botteghe.md
+|   |   |           
+|   |   +---Oasi di Zey
+|   |   |       Giardino degli Dei.md
+|   |   |       La Taverna Sommersa.md
+|   |   |       Le Mura Invalicabili.md
+|   |   |       Piramide del Dio Dimenticato.md
+|   |   |       Scuola degli Specchi.md
+|   |   |       
+|   |   +---Pianure di Xanesh
+|   |   |   |   Milford.md
+|   |   |   |   Mubunash.md
+|   |   |   |   
+|   |   |   +---Milford
+|   |   |   |       Fortino del Conte.md
+|   |   |   |       Locanda dell'Eterno Riposo.md
+|   |   |   |       
+|   |   |   \---Mubunash
+|   |   |           Corporazione degli Archivisti.md
+|   |   |           Locanda del Cappuccio Nero.md
+|   |   |           Monteforte.md
+|   |   |           Oscura Chiesa di Tenebris.md
+|   |   |           Tempietto degli Ospedalieri.md
+|   |   |           Terme Imperiali.md
+|   |   |           Torre Baronale.md
+|   |   |           Via degli Imperatori.md
+|   |   |           
+|   |   +---Valle dei Giganti
+|   |   |   |   Forte Arundex.md
+|   |   |   |   
+|   |   |   \---Forte Arundex
+|   |   |           Antro dei Lupi d'Inverno.md
+|   |   |           Arena delle Belve.md
+|   |   |           Bastione Grigio.md
+|   |   |           Guarnigione del Simbolo Guerriero.md
+|   |   |           Lago delle Quattro Braccia.md
+|   |   |           Tempio degli Antenati.md
+|   |   |           
+|   |   \---Valle Nuvolosa
+|   |       |   Campo Geyser.md
+|   |       |   Ludreq.md
+|   |       |   Pahr.md
+|   |       |   Selva Infestata di Mysteria.md
+|   |       |   
+|   |       \---Ludreq
+|   |               Bastione del Principe.md
+|   |               Birreria dei Thunder.md
+|   |               Collegio.md
+|   |               Fonderia del Principe.md
+|   |               Fondo di Guldann.md
+|   |               Fortezza degli Scudi.md
+|   |               Santuario di Fadranstaff.md
+|   |               
+|   +---Razze_e_Popoli
+|   |       Elfi di Dor.md
+|   |       Hjilaki.md
+|   |       Vampiro.md
+|   |       
+|   \---Vera Magia
+|           Vera Magia.md
+|           
++---02_Meccaniche_DaggerHeart
+|   +---Abilità
+|   |   +---DaggerHeart
+|   |   |       Abile Inganno.md
+|   |   |       Appoggiati.md
+|   |   |       Approccio Strategico.md
+|   |   |       Armatura Fortificata.md
+|   |   |       Armatura Infrangibile.md
+|   |   |       Assalto.md
+|   |   |       Attraverso i Tuoi Occhi.md
+|   |   |       Audace.md
+|   |   |       Aura Confondente.md
+|   |   |       Aura Sovrastante.md
+|   |   |       Barriera di Rigenerazione.md
+|   |   |       Cacciare.md
+|   |   |       Cacciatore d'Ombre.md
+|   |   |       Camminatore di Fessura.md
+|   |   |       Cammino sulle Pareti.md
+|   |   |       Campo di Guarigione.md
+|   |   |       Carica di Incantesimo.md
+|   |   |       Carisma Infinito.md
+|   |   |       Catena di Fulmini.md
+|   |   |       Cieli che Cadono.md
+|   |   |       Colpire al Suolo.md
+|   |   |       Colpito dalla Lama.md
+|   |   |       Colpo del Mietitore.md
+|   |   |       Colpo di Frantumazione.md
+|   |   |       Colpo di Rottura.md
+|   |   |       Colpo di Sfioramento.md
+|   |   |       Colpo Guaritore.md
+|   |   |       Colpo Risonante.md
+|   |   |       Colpo.md
+|   |   |       Combattente Versatile.md
+|   |   |       Concentrazione Letale.md
+|   |   |       Condividi il Carico.md
+|   |   |       Conosci il tuo nemico.md
+|   |   |       ControIncantesimo.md
+|   |   |       Controllare.md
+|   |   |       Corazza.md
+|   |   |       Corsa verso la Morte.md
+|   |   |       Custode delle Rune.md
+|   |   |       Discorso Rassicurante.md
+|   |   |       Distruttore di Corpi.md
+|   |   |       Divinazione.md
+|   |   |       Dominio Vegetale.md
+|   |   |       Eclissi.md
+|   |   |       Entusiasmo di Massa.md
+|   |   |       Equidi Evocati.md
+|   |   |       Esperto di Furtività.md
+|   |   |       Esplosione Ammantata.md
+|   |   |       Esplosione di Conservazione.md
+|   |   |       Estasi.md
+|   |   |       Evoca Sciame.md
+|   |   |       Famiglio della Natura.md
+|   |   |       Famoso.md
+|   |   |       Ferocia.md
+|   |   |       Forma Materiale.md
+|   |   |       Fortezza Selvaggia.md
+|   |   |       Forza della Natura.md
+|   |   |       Frenesia.md
+|   |   |       Furia Crescente.md
+|   |   |       Fusto Maestoso.md
+|   |   |       Glifo dell'Oscurità.md
+|   |   |       Grido di Battaglia.md
+|   |   |       Guida con l'Esempio.md
+|   |   |       Imitatore.md
+|   |   |       Impulso Selvaggio.md
+|   |   |       Inevitabile.md
+|   |   |       Infrangibile.md
+|   |   |       Intoccabile.md
+|   |   |       Intrico Violento.md
+|   |   |       Invisibilità.md
+|   |   |       Ispirazione Critica.md
+|   |   |       Legame dell'Ombra.md
+|   |   |       Legame di un Soldato.md
+|   |   |       Libera il Caos.md
+|   |   |       Libro di Ava.md
+|   |   |       Libro di Exota.md
+|   |   |       Libro di Grynn.md
+|   |   |       Libro di Homet.md
+|   |   |       Libro di Illiat.md
+|   |   |       Libro di Korvax.md
+|   |   |       Libro di Norai.md
+|   |   |       Libro di Ronin.md
+|   |   |       Libro di Sitil.md
+|   |   |       Libro di Tyfar.md
+|   |   |       Libro di Vagras.md
+|   |   |       Libro di Vyola.md
+|   |   |       Libro di Yarrow.md
+|   |   |       Lingua della Natura.md
+|   |   |       Maestro dell'Arte.md
+|   |   |       Mai Sopraffatto.md
+|   |   |       Mani Curatrici.md
+|   |   |       Manovre Agili.md
+|   |   |       Mischia.md
+|   |   |       Morsa Mortale.md
+|   |   |       Mossa Caratteristica.md
+|   |   |       Mostro da Battaglia.md
+|   |   |       Muro Manifesto.md
+|   |   |       Non Abbastanza Buono.md
+|   |   |       Non Dire Mai Bugie.md
+|   |   |       Occhio Fluttuante.md
+|   |   |       Onda di Disintegrazione.md
+|   |   |       Ossa e Pelle.md
+|   |   |       Parole d'Ispirazione.md
+|   |   |       Parole di Discordia.md
+|   |   |       Passo Rapido.md
+|   |   |       Pelle di Spine.md
+|   |   |       PiantaGrane.md
+|   |   |       Piena Ondata.md
+|   |   |       Pioggia di Lame.md
+|   |   |       Potenziamento.md
+|   |   |       Precisione Crudele.md
+|   |   |       Premonizione.md
+|   |   |       Prendi e Tira.md
+|   |   |       Presa alla Gola.md
+|   |   |       Presa Cinerea.md
+|   |   |       Presenza Audace.md
+|   |   |       Proiettile Corrosivo.md
+|   |   |       Proiettile di Luce.md
+|   |   |       Proiezione Astrale.md
+|   |   |       Proiezione Sensoriale.md
+|   |   |       Provocazione.md
+|   |   |       Raccoglitore.md
+|   |   |       Rafforzamento.md
+|   |   |       Rafforzato in Battaglia.md
+|   |   |       Raggio Salvifico.md
+|   |   |       Rassicurazione.md
+|   |   |       Recupero.md
+|   |   |       Regola la Realtà.md
+|   |   |       Rialzati.md
+|   |   |       Ridirezione.md
+|   |   |       Riflesso Arcano.md
+|   |   |       Rifugio Sicuro.md
+|   |   |       Rinvigorimento.md
+|   |   |       Ripetizione.md
+|   |   |       Risorgi.md
+|   |   |       Risposta Rapida.md
+|   |   |       Ristoro.md
+|   |   |       Risurrezione.md
+|   |   |       Ritirata Fantasma.md
+|   |   |       Sangue e Gloria.md
+|   |   |       Santuario della Selva.md
+|   |   |       Scavatore di Pensieri.md
+|   |   |       Schivata Elusiva.md
+|   |   |       Scudo d'Aura.md
+|   |   |       Scudo di Supporto.md
+|   |   |       Scuotiti.md
+|   |   |       Secondo Respiro.md
+|   |   |       Sigillo di Ritorsione.md
+|   |   |       Silenzio.md
+|   |   |       Sono Il Tuo Scudo.md
+|   |   |       Sparizione.md
+|   |   |       Spettro del Buio.md
+|   |   |       Spinta Forzata.md
+|   |   |       Spiritelli della Foresta.md
+|   |   |       Spirito di Mezzanotte.md
+|   |   |       Splendida Luce Solare.md
+|   |   |       Sul Limite.md
+|   |   |       Sussurri Oscuri.md
+|   |   |       Tassa del Crepuscolo.md
+|   |   |       Tattico.md
+|   |   |       Telecinesi.md
+|   |   |       Teletrasporto.md
+|   |   |       Tempesta.md
+|   |   |       Terremoto.md
+|   |   |       Terrore della Notte.md
+|   |   |       Tieni la Linea.md
+|   |   |       Toccando l'Osso.md
+|   |   |       Toccato dal Codice.md
+|   |   |       Toccato dal Valore.md
+|   |   |       Toccato dall'Arcano.md
+|   |   |       Toccato dalla Mezzanotte.md
+|   |   |       Tocco del Saggio.md
+|   |   |       Tocco della Grazia.md
+|   |   |       Tocco dello Splendore.md
+|   |   |       Tocco Riparatore.md
+|   |   |       Tracciatore Dotato.md
+|   |   |       Travestimento di Massa.md
+|   |   |       Travestimento Misterioso.md
+|   |   |       Ultime Parole.md
+|   |   |       Unione Trascendente.md
+|   |   |       Vantaggio del Campione.md
+|   |   |       Vedo Che Arriva.md
+|   |   |       Velo Ipnotico.md
+|   |   |       Velo Notturno.md
+|   |   |       Vita Protetta.md
+|   |   |       Vitalità.md
+|   |   |       Voce della Ragione.md
+|   |   |       Volo.md
+|   |   |       Vortice.md
+|   |   |       Zona di Protezione.md
+|   |   |       
+|   |   \---DaggerHeart Hope and Fear
+|   +---Ambienti
+|   |       Abandoned Grove.md
+|   |       Ambushed.md
+|   |       Ambushers.md
+|   |       Burning Heart of the Woods.md
+|   |       Bustling Marketplace.md
+|   |       Castle Siege.md
+|   |       Chaos Realm.md
+|   |       Cliffside Ascent.md
+|   |       Cult Ritual.md
+|   |       Divine Usurpation.md
+|   |       Hallowed Temple.md
+|   |       Haunted City.md
+|   |       Imperial Court.md
+|   |       Local Tavern.md
+|   |       Mountain Pass.md
+|   |       Necromancers Ossuary.md
+|   |       Outpost Town.md
+|   |       Pitched Battle.md
+|   |       Raging River.md
+|   |       
+|   +---Ancestry_e_Community
+|   |   \---Ancestry
+|   |           Clank.md
+|   |           Drakona.md
+|   |           Elfi.md
+|   |           Faerie.md
+|   |           Fauni.md
+|   |           Firbolg.md
+|   |           Fungril.md
+|   |           Galapa.md
+|   |           Giganti.md
+|   |           Goblin.md
+|   |           Halfling.md
+|   |           Infernis.md
+|   |           Karevi.md
+|   |           Katari.md
+|   |           Klorss.md
+|   |           Nani.md
+|   |           Nuno.md
+|   |           Orchi.md
+|   |           Ribbet.md
+|   |           Simiah.md
+|   |           Umani.md
+|   |           Urakian.md
+|   |           Wiloi.md
+|   |           
+|   +---Armature
+|   |       Advanced Chainmail Armor.md
+|   |       Advanced Full Plate Armor.md
+|   |       Advanced Gambeson Armor.md
+|   |       Advanced Leather Armor.md
+|   |       Bellamoi Fine Armor.md
+|   |       Bladefare Armor.md
+|   |       Chainmail Armor.md
+|   |       Channeling Armor.md
+|   |       Dragonscale Armor.md
+|   |       Dunamis Silkchain.md
+|   |       Elundrian Chain Armor.md
+|   |       Emberwoven Armor.md
+|   |       Full Fortified Armor.md
+|   |       Full Plate Armor.md
+|   |       Gambeson Armor.md
+|   |       Harrowbone Armor.md
+|   |       Improved Chainmail Armor.md
+|   |       Improved Full Plate Armor.md
+|   |       Improved Gambeson Armor.md
+|   |       Improved Leather Armor.md
+|   |       Irontree Breastplate Armor.md
+|   |       Leather Armor.md
+|   |       Legendary Chainmail Armor.md
+|   |       Legendary Full Plate Armor.md
+|   |       Legendary Gambeson Armor.md
+|   |       Legendary Leather Armor.md
+|   |       Monetts Cloak.md
+|   |       Rosewild Armor.md
+|   |       Runes of Fortification.md
+|   |       Runetan Floating Armor.md
+|   |       Savior Chainmail.md
+|   |       Spiked Plate Armor.md
+|   |       Tyris Soft Armor.md
+|   |       Veritas Opal Armor.md
+|   |       
+|   +---Armi
+|   |       Aantari Bow.md
+|   |       Advanced Arcane Gauntlets.md
+|   |       Advanced Battleaxe.md
+|   |       Advanced Broadsword.md
+|   |       Advanced Crossbow.md
+|   |       Advanced Cutlass.md
+|   |       Advanced Dagger.md
+|   |       Advanced Dualstaff.md
+|   |       Advanced Glowing Rings.md
+|   |       Advanced Grappler.md
+|   |       Advanced Greatstaff.md
+|   |       Advanced Greatsword.md
+|   |       Advanced Halberd.md
+|   |       Advanced Hallowed Axe.md
+|   |       Advanced Hand Crossbow.md
+|   |       Advanced Hand Runes.md
+|   |       Advanced Longbow.md
+|   |       Advanced Longsword.md
+|   |       Advanced Mace.md
+|   |       Advanced Quarterstaff.md
+|   |       Advanced Rapier.md
+|   |       Advanced Returning Blade.md
+|   |       Advanced Round Shield.md
+|   |       Advanced Scepter.md
+|   |       Advanced Shortbow.md
+|   |       Advanced Shortstaff.md
+|   |       Advanced Shortsword.md
+|   |       Advanced Small Dagger.md
+|   |       Advanced Spear.md
+|   |       Advanced Tower Shield.md
+|   |       Advanced Wand.md
+|   |       Advanced Warhammer.md
+|   |       Advanced Whip.md
+|   |       Arcane Gauntlets.md
+|   |       Axe of Fortunis.md
+|   |       Battleaxe.md
+|   |       Black Powder Revolver.md
+|   |       Bladed Whip.md
+|   |       Blessed Anlace.md
+|   |       Bloodstaff.md
+|   |       Blunderbuss.md
+|   |       Braveshield.md
+|   |       Bravesword.md
+|   |       Broadsword.md
+|   |       Buckler.md
+|   |       Casting Sword.md
+|   |       Crossbow.md
+|   |       Curved Dagger.md
+|   |       Cutlass.md
+|   |       Dagger.md
+|   |       Devouring Dagger.md
+|   |       Double Flail.md
+|   |       Dual-Ended Sword.md
+|   |       Dualstaff.md
+|   |       Ego Blade.md
+|   |       Elder Bow.md
+|   |       Extended Polearm.md
+|   |       Finehair Bow.md
+|   |       Firestaff.md
+|   |       Flickerfly Blade.md
+|   |       Floating Bladeshards.md
+|   |       Fusion Gloves.md
+|   |       Ghostblade.md
+|   |       Gilded Bow.md
+|   |       Gilded Falchion.md
+|   |       Glowing Rings.md
+|   |       Grappler.md
+|   |       Greatbow.md
+|   |       Greatstaff.md
+|   |       Greatsword.md
+|   |       Halberd.md
+|   |       Hallowed Axe.md
+|   |       Hammer of Exota.md
+|   |       Hammer of Wrath.md
+|   |       Hand Cannon.md
+|   |       Hand Crossbow.md
+|   |       Hand Runes.md
+|   |       Hand Sling.md
+|   |       Ilmaris Rifle.md
+|   |       Impact Gauntlet.md
+|   |       Improved Arcane Gauntlets.md
+|   |       Improved Battleaxe.md
+|   |       Improved Broadsword.md
+|   |       Improved Crossbow.md
+|   |       Improved Cutlass.md
+|   |       Improved Dagger.md
+|   |       Improved Dualstaff.md
+|   |       Improved Glowing Rings.md
+|   |       Improved Grappler.md
+|   |       Improved Greatstaff.md
+|   |       Improved Greatsword.md
+|   |       Improved Halberd.md
+|   |       Improved Hallowed Axe.md
+|   |       Improved Hand Crossbow.md
+|   |       Improved Hand Runes.md
+|   |       Improved Longbow.md
+|   |       Improved Longsword.md
+|   |       Improved Mace.md
+|   |       Improved Quarterstaff.md
+|   |       Improved Rapier.md
+|   |       Improved Returning Blade.md
+|   |       Improved Round Shield.md
+|   |       Improved Scepter.md
+|   |       Improved Shortbow.md
+|   |       Improved Shortstaff.md
+|   |       Improved Shortsword.md
+|   |       Improved Small Dagger.md
+|   |       Improved Spear.md
+|   |       Improved Tower Shield.md
+|   |       Improved Wand.md
+|   |       Improved Warhammer.md
+|   |       Improved Whip.md
+|   |       Keepers Staff.md
+|   |       Knuckle Blades.md
+|   |       Knuckle Claws.md
+|   |       Labrys Axe.md
+|   |       Legendary Arcane Gauntlets.md
+|   |       Legendary Battleaxe.md
+|   |       Legendary Broadsword.md
+|   |       Legendary Crossbow.md
+|   |       Legendary Cutlass.md
+|   |       Legendary Dagger.md
+|   |       Legendary Dualstaff.md
+|   |       Legendary Glowing Rings.md
+|   |       Legendary Grappler.md
+|   |       Legendary Greatstaff.md
+|   |       Legendary Greatsword.md
+|   |       Legendary Halberd.md
+|   |       Legendary Hallowed Axe.md
+|   |       Legendary Hand Crossbow.md
+|   |       Legendary Hand Runes.md
+|   |       Legendary Longbow.md
+|   |       Legendary Longsword.md
+|   |       Legendary Mace.md
+|   |       Legendary Quarterstaff.md
+|   |       Legendary Rapier.md
+|   |       Legendary Returning Blade.md
+|   |       Legendary Round Shield.md
+|   |       Legendary Scepter.md
+|   |       Legendary Shortbow.md
+|   |       Legendary Shortstaff.md
+|   |       Legendary Shortsword.md
+|   |       Legendary Small Dagger.md
+|   |       Legendary Spear.md
+|   |       Legendary Tower Shield.md
+|   |       Legendary Wand.md
+|   |       Legendary Warhammer.md
+|   |       Legendary Whip.md
+|   |       Longbow.md
+|   |       Longsword.md
+|   |       Mace.md
+|   |       Mage Orb.md
+|   |       Magus Revolver.md
+|   |       Meridian Cutlass.md
+|   |       Midas Scythe.md
+|   |       Parrying Dagger.md
+|   |       Powered Gauntlet.md
+|   |       Primer Shard.md
+|   |       Quarterstaff.md
+|   |       Rapier.md
+|   |       Retractable Saber.md
+|   |       Returning Axe.md
+|   |       Returning Blade.md
+|   |       Ricochet Axes.md
+|   |       Round Shield.md
+|   |       Runes of Ruination.md
+|   |       Scepter of Elias.md
+|   |       Scepter.md
+|   |       Shortbow.md
+|   |       Shortstaff.md
+|   |       Shortsword.md
+|   |       Siphoning Gauntlets.md
+|   |       Sledge Axe.md
+|   |       Small Dagger.md
+|   |       Spear.md
+|   |       Spiked Bow.md
+|   |       Spiked Shield.md
+|   |       Steelforged Halberd.md
+|   |       Swinging Ropeblade.md
+|   |       Sword of Light and Flame.md
+|   |       Talon Blades.md
+|   |       Thistlebow.md
+|   |       Tower Shield.md
+|   |       Urok Broadsword.md
+|   |       Wand of Enthrallment.md
+|   |       Wand of Essek.md
+|   |       Wand.md
+|   |       War Scythe.md
+|   |       Warhammer.md
+|   |       Whip.md
+|   |       Widogast Pendant.md
+|   |       Yutari Bloodbow.md
+|   |       
+|   +---Classi
+|   |   +---DaggerHeart
+|   |   |       Bard.md
+|   |   |       Druid.md
+|   |   |       Guardian.md
+|   |   |       Ranger.md
+|   |   |       Rogue.md
+|   |   |       Seraph.md
+|   |   |       Sourcerer.md
+|   |   |       Warrior.md
+|   |   |       Wizard.md
+|   |   |       
+|   |   \---DaggerHeart Hope and Fear
+|   |           Warlock.md
+|   |           Witch.md
+|   |           
+|   +---Comunità
+|   |       Archivista.md
+|   |       Background.md
+|   |       Cacciatore di Meteore.md
+|   |       Dardo Sanguinante.md
+|   |       Highborne.md
+|   |       Loreborne.md
+|   |       Mare Andante.md
+|   |       Orderborne.md
+|   |       Ridgeborne.md
+|   |       Seaborne.md
+|   |       Slyborne.md
+|   |       Underborne.md
+|   |       Wanderborne.md
+|   |       Wildborne.md
+|   |       
+|   +---Consumabili
+|   |       Acidpaste.md
+|   |       Armor Stitcher.md
+|   |       Attune Potion.md
+|   |       Blinding Orb.md
+|   |       Blood of the Yorgi.md
+|   |       Bolster Potion.md
+|   |       Bonding Honey.md
+|   |       Bridge Seed.md
+|   |       Channelstone.md
+|   |       Charm Potion.md
+|   |       Circle of the Void.md
+|   |       Control Potion.md
+|   |       Death Tea.md
+|   |       Dragonbloom Tea.md
+|   |       Dripfang Poison.md
+|   |       Enlighten Potion.md
+|   |       Feast of Xuria.md
+|   |       Featherbone.md
+|   |       Gill Salve.md
+|   |       Grindletooth Venom.md
+|   |       Growing Potion.md
+|   |       Health Potion.md
+|   |       Homets Secret Potion.md
+|   |       Hopehold Flare.md
+|   |       Hornets Secret Potion.md
+|   |       Improved Arcane Shard.md
+|   |       Improved Grindletooth Venom.md
+|   |       Jar of Lost Voices.md
+|   |       Jumping Root.md
+|   |       Knowledge Stone.md
+|   |       Major Arcane Shard.md
+|   |       Major Attune Potion.md
+|   |       Major Bolster Potion.md
+|   |       Major Charm Potion.md
+|   |       Major Control Potion.md
+|   |       Major Enlighten Potion.md
+|   |       Major Health Potion.md
+|   |       Major Stamina Potion.md
+|   |       Major Stride Potion.md
+|   |       Minor Health Potion.md
+|   |       Minor Stamina Potion.md
+|   |       Mirror of Marigold.md
+|   |       Morphing Clay.md
+|   |       Mythic Dust.md
+|   |       Ogre Musk.md
+|   |       Potion of Stability.md
+|   |       Redthorn Saliva.md
+|   |       Replication Parchment.md
+|   |       Shrinking Potion.md
+|   |       Sleeping Sap.md
+|   |       Snap Powder.md
+|   |       Stamina Potion.md
+|   |       Stardrop.md
+|   |       Stride Potion.md
+|   |       Sun Tree Sap.md
+|   |       Sweet Moss.md
+|   |       Unstable Arcane Shard.md
+|   |       Varik Leaves.md
+|   |       Vial of Darksmoke.md
+|   |       Vial of Moondrip.md
+|   |       Wingsprout.md
+|   |       
+|   +---Domini
+|   |       Arcana.md
+|   |       Codice.md
+|   |       Domini delle Classi.md
+|   |       Grazia.md
+|   |       Lama.md
+|   |       MezzaNotte.md
+|   |       Ossa.md
+|   |       Saggio.md
+|   |       Splendore.md
+|   |       Valore.md
+|   |       
+|   +---Forme Bestiali
+|   |       Agile Scout.md
+|   |       Aquatic Predator.md
+|   |       Aquatic Scout.md
+|   |       Armored Sentry.md
+|   |       Epic Aquatic Beast.md
+|   |       Great Predator.md
+|   |       Great Winged Beast.md
+|   |       Household Friend.md
+|   |       Legendary Beast.md
+|   |       Legendary Hybrid.md
+|   |       Massive Behemoth.md
+|   |       Mighty Lizard.md
+|   |       Mighty Strider.md
+|   |       Mythic Aerial Hunter.md
+|   |       Mythic Beast.md
+|   |       Mythic Hybrid.md
+|   |       Nimble Grazer.md
+|   |       Pack Predator.md
+|   |       Pouncing Predator.md
+|   |       Powerful Beast.md
+|   |       Stalking Arachnid.md
+|   |       Striking Serpent.md
+|   |       Terrible Lizard.md
+|   |       Winged Beast.md
+|   |       
+|   +---items
+|   |       Airblade Charm.md
+|   |       Alistairs Torch.md
+|   |       Arcane Cloak.md
+|   |       Arcane Prism.md
+|   |       Attune Relic.md
+|   |       Bag of Ficklesand.md
+|   |       Belt of Unity.md
+|   |       Bloodstone.md
+|   |       Bolster Relic.md
+|   |       Box of Many Goods.md
+|   |       Calming Pendant.md
+|   |       Charging Quiver.md
+|   |       Charm Relic.md
+|   |       Clay Companion.md
+|   |       Companion Case.md
+|   |       Control Relic.md
+|   |       Corrector Sprite.md
+|   |       Dual Flask.md
+|   |       Elusive Amulet.md
+|   |       Empty Chest.md
+|   |       Enlighten Relic.md
+|   |       Fire Jar.md
+|   |       Flickerfly Pendant.md
+|   |       Gecko Gloves.md
+|   |       Gem of Alacrity.md
+|   |       Gem of Audacity.md
+|   |       Gem of Insight.md
+|   |       Gem of Might.md
+|   |       Gem of Precision.md
+|   |       Gem of Sagacity.md
+|   |       Glamour Stone.md
+|   |       Glider.md
+|   |       Greatstone.md
+|   |       Homing Compasses.md
+|   |       Honing Relic.md
+|   |       Hopekeeper Locket.md
+|   |       Infinite Bag.md
+|   |       Lakestrider Boots.md
+|   |       Lorekeeper.md
+|   |       Manacles.md
+|   |       Minor Health Potion Recipe.md
+|   |       Minor Stamina Potion Recipe.md
+|   |       Mythic Dust Recipe.md
+|   |       Paragons Chain.md
+|   |       Phoenix Feather.md
+|   |       Piercing Arrows.md
+|   |       Piper Whistle.md
+|   |       Portal Seed.md
+|   |       Premium Bedroll.md
+|   |       Ring of Resistance.md
+|   |       Ring of Silence.md
+|   |       Ring of Unbreakable Resolve.md
+|   |       Shard of Memory.md
+|   |       Skeleton Key.md
+|   |       Speaking Orbs.md
+|   |       Stride Relic.md
+|   |       Suspended Rod.md
+|   |       Valorstone.md
+|   |       Vial of Darksmoke Recipe.md
+|   |       Woven Net.md
+|   |       
+|   +---Nemici
+|   |       Abominio dei Regni Esterni.md
+|   |       Adepto Cultista.md
+|   |       Agglomerato di Carcasse Zombie.md
+|   |       Alto Serafino.md
+|   |       Anguille Elettriche.md
+|   |       Aquila Gigante.md
+|   |       Arcere Scheletrico.md
+|   |       Arciere Maledetto.md
+|   |       Arciere Spettrale.md
+|   |       ArcoNecromante.md
+|   |       Assassino Apprendista.md
+|   |       Assassino Velenoso.md
+|   |       Bandito con Lama Seghettata.md
+|   |       Barone Mercante.md
+|   |       Branco Demoniaco.md
+|   |       Cacciatore Mortale.md
+|   |       Capitano Pirata.md
+|   |       Capitano Spettrale.md
+|   |       Capo delle Guardie.md
+|   |       Cavaliere del Cervo.md
+|   |       Cavaliere della Corona.md
+|   |       Cavaliere Scheletrico.md
+|   |       Cecchino della Lama Seghettata.md
+|   |       Combattente Gigante.md
+|   |       Consigliere Reale.md
+|   |       Corrutore dei Regni Esterni.md
+|   |       Corruttore dei Regni Esterni.md
+|   |       Cortigiana.md
+|   |       Cortigiano.md
+|   |       Coscritto.md
+|   |       Costrutto.md
+|   |       Custode dei Segreti.md
+|   |       Demone dell'Avarizia.md
+|   |       Demone dell'Presunzione.md
+|   |       Demone della Furia.md
+|   |       Demone di Disperazione.md
+|   |       Demone di Gelosia.md
+|   |       Demone Minore.md
+|   |       Devastatore.md
+|   |       Difensore dalle Radici Profonde.md
+|   |       Dragatore Scheletrico.md
+|   |       Drago Vulcanico Flagello Fuso.md
+|   |       Drago Vulcanico Predatore di Ossidiana.md
+|   |       Drago Vulcanico Tiranno Cinereo.md
+|   |       Driade.md
+|   |       Elementale Maggiore dell'Acqua.md
+|   |       Elementale Maggiore della Terra.md
+|   |       Elementale Minore del Caos.md
+|   |       Elementale Minore del Fuoco.md
+|   |       Esperimento Fallito.md
+|   |       Giovane Drago di Ghiaccio.md
+|   |       Giovane Driade.md
+|   |       Gorgone.md
+|   |       Gruppo di Zombie.md
+|   |       Guardia Arciere.md
+|   |       Guardia con Lama.md
+|   |       Guardiano Carceriere della Cripta.md
+|   |       Guardiano Spettrale.md
+|   |       Guerriero Caduto Campione Imbattibile.md
+|   |       Guerriero Caduto Frantumatore di Reami.md
+|   |       Guerriero Scheletrico.md
+|   |       Idra.md
+|   |       Immensa Melma Verde.md
+|   |       Iniziato Cultista.md
+|   |       Kraken.md
+|   |       Ladro Mascherato.md
+|   |       Lama Incantata.md
+|   |       Legione Zombie.md
+|   |       Lucciola Adulta.md
+|   |       Lucciola Giovane.md
+|   |       Lupo Mannaro.md
+|   |       Maestro Assassino.md
+|   |       Maestro delle Armi.md
+|   |       Maestro delle Bestie Gigante.md
+|   |       Mago della Lama Seghettata.md
+|   |       Melma Rossa.md
+|   |       Melma Verde.md
+|   |       Mente dei Vampiri.md
+|   |       Mercante.md
+|   |       Mercenario.md
+|   |       Minotauro Demolitore.md
+|   |       Monarca.md
+|   |       Nobile Minore.md
+|   |       Ogre di Caverna.md
+|   |       Ombra della Lama Seghettata.md
+|   |       Oracolo del Destino.md
+|   |       Orso.md
+|   |       Pastore di Alberi Minore.md
+|   |       Pastore di Alberi Quercia.md
+|   |       Piccola Melma Rossa.md
+|   |       Piccola Melma Verde.md
+|   |       Piccolo Pastore di Alberi.md
+|   |       Pirata Resiliente.md
+|   |       Predoni Pirati.md
+|   |       Ratto Gigante.md
+|   |       Recluta Gigante.md
+|   |       Rovi Intricati.md
+|   |       Scatola da Battaglia.md
+|   |       Scavatore Acido.md
+|   |       Sciame di Ratti.md
+|   |       Sciame di Rovi Intricati.md
+|   |       Scintilla Elementale.md
+|   |       Scorpione Gigante.md
+|   |       Seguace della Lama Seghettata.md
+|   |       Sentinella Guardiana della Cripta.md
+|   |       Serpente di Vetro.md
+|   |       Servo dei Regni Esterni.md
+|   |       Sirena.md
+|   |       Soldato d'Assalto Caduto.md
+|   |       Soldato d'Elite.md
+|   |       Soldato Maledetto.md
+|   |       Soldato Silvano.md
+|   |       Spettro di Pietra.md
+|   |       SpezzaGinocchia della Lama Seghettata.md
+|   |       Spia.md
+|   |       Squadrone di Arceri.md
+|   |       Squalo.md
+|   |       Stregone Caduto.md
+|   |       Stregone Guerriero.md
+|   |       Tenente della Lama Seghettata.md
+|   |       Terribile Pipistrello.md
+|   |       Teschio del Caos.md
+|   |       Torretta Guardiana della Cripta.md
+|   |       Vampiro.md
+|   |       Zanna Cultista.md
+|   |       Zanzare Giganti.md
+|   |       Zombie Barcollante.md
+|   |       Zombie Marcio.md
+|   |       Zombie Muscoloso.md
+|   |       Zombie Perfezionato.md
+|   |       
+|   +---Regole_di_Casa
+|   |       Ispirazione Divina.md
+|   |       Teriantropia.md
+|   |       Vampirismo.md
+|   |       
+|   +---SottoClassi
+|   |       Beastbound.md
+|   |       Call of the Brave.md
+|   |       Call of the Slayer.md
+|   |       Cavaliere di Kurash.md
+|   |       Cavaliere di Öuin.md
+|   |       Cavaliere Ospedaliere.md
+|   |       Divine Wielder.md
+|   |       Elemental Origin.md
+|   |       Nightwalker.md
+|   |       Primal Origin.md
+|   |       School of Knowledge.md
+|   |       School of War.md
+|   |       SottoClassi.md
+|   |       Stalwart.md
+|   |       Syndicate.md
+|   |       Troubadour.md
+|   |       Vengeance.md
+|   |       Warden of Renewal.md
+|   |       Warden of the Elements.md
+|   |       Wayfinder.md
+|   |       Winged Sentinel.md
+|   |       Wordsmith.md
+|   |       
+|   \---Trasformazioni_e_Corruzione
++---03_Campagna
+|   +---Luoghi_di_Gioco
+|   +---PNG
+|   |       Agan.md
+|   |       An'Rao IV.md
+|   |       Annie Rose-Robe.md
+|   |       Axrul II De Vaars.md
+|   |       Bruin Ashcroft.md
+|   |       Buhragath.md
+|   |       Daahronat.md
+|   |       Desea.md
+|   |       Doerun Eldobeth.md
+|   |       Efneriom.md
+|   |       Fahrn.md
+|   |       Hedd.md
+|   |       Horus.md
+|   |       Hulbert.md
+|   |       Korath.md
+|   |       Lewyn.md
+|   |       M'oraoork.md
+|   |       Najestarr.md
+|   |       Namass'rya.md
+|   |       Nelen Deseziath.md
+|   |       Orgnornor.md
+|   |       Rakilia.md
+|   |       Renetzia.md
+|   |       Rihko.md
+|   |       Rowzrugu.md
+|   |       Sagister.md
+|   |       Ziria.md
+|   |       
+|   \---Sessioni
+\---04_Risorse
+    +---Pictures
+    |       adraoos_simbolo_pic.jpeg
+    |       agan_pic.png
+    |       an'rao_pic.png
+    |       annie_rose_robe_pic.png
+    |       cenere_di_lanie_pic.png
+    |       clank_pic.png
+    |       dominio_delle_trame_pic.png
+    |       drakona_pic.png
+    |       ducato_di_ouin_pic.png
+    |       elfi_pic.png
+    |       faerie_pic.png
+    |       fauno_pic.png
+    |       firbolg_pic.png
+    |       fungril_pic.png
+    |       galapa_pic.png
+    |       giganti_pic.png
+    |       goblin_pic.png
+    |       halfling_pic.png
+    |       infernis_pic.png
+    |       karevi_pic.png
+    |       katari_pic.png
+    |       klorss_pic.png
+    |       namass'rya_pic.png
+    |       nani_pic.png
+    |       neir_map.jpg
+    |       nelen_pic.png
+    |       nuno_pic.png
+    |       orchi_pic.png
+    |       Pasted image 20260710131707.png
+    |       Pasted image 20260710131752.png
+    |       Pasted image 20260710131838.png
+    |       Pasted image 20260710131909.png
+    |       Pasted image 20260710131952.png
+    |       Pasted image 20260710132254.png
+    |       Pasted image 20260710132353.png
+    |       Pasted image 20260710132429.png
+    |       Pasted image 20260710132446.png
+    |       Pasted image 20260710132750.png
+    |       Pasted image 20260710132843.png
+    |       Pasted image 20260710132905.png
+    |       Pasted image 20260710132933.png
+    |       Pasted image 20260710132953.png
+    |       Pasted image 20260710133019.png
+    |       Pasted image 20260711022753.png
+    |       Pasted image 20260712014522.png
+    |       Pasted image 20260712122123.png
+    |       Pasted image 20260712133843.png
+    |       Pasted image 20260712133935.png
+    |       Pasted image 20260712134221.png
+    |       Pasted image 20260712135136.png
+    |       Pasted image 20260712140006.png
+    |       Pasted image 20260712140244.png
+    |       Pasted image 20260712140520.png
+    |       Pasted image 20260712140541.png
+    |       Pasted image 20260712140552.png
+    |       Pasted image 20260712140604.png
+    |       Pasted image 20260712140924.png
+    |       Pasted image 20260712141539.png
+    |       Pasted image 20260712141553.png
+    |       Pasted image 20260712142508.png
+    |       Pasted image 20260712144725.png
+    |       Pasted image 20260712145107.png
+    |       Pasted image 20260712154736.png
+    |       Pasted image 20260712154847.png
+    |       Pasted image 20260712155004.png
+    |       Pasted image 20260712183613.png
+    |       Pasted image 20260712184002.png
+    |       Pasted image 20260713135452.png
+    |       Pasted image 20260713162553.png
+    |       Pasted image 20260713170124.png
+    |       Pasted image 20260713170412.png
+    |       Pasted image 20260713170809.png
+    |       Pasted image 20260713171358.png
+    |       Pasted image 20260713181806.png
+    |       Pasted image 20260713182245.png
+    |       Pasted image 20260713182303.png
+    |       Pasted image 20260713183122.png
+    |       Pasted image 20260713183405.png
+    |       Pasted image 20260713183854.png
+    |       Pasted image 20260713184300.png
+    |       Pasted image 20260713184520.png
+    |       Pasted image 20260713184530.png
+    |       Pasted image 20260713185101.png
+    |       Pasted image 20260713185502.png
+    |       Pasted image 20260713185941.png
+    |       Pasted image 20260713190340.png
+    |       Pasted image 20260713190638.png
+    |       ribbet_pic.png
+    |       simiah_pic.png
+    |       umani_pic.png
+    |       urakian_pic.png
+    |       wiloi_pic.png
+    |       _page_15_Picture_16.jpeg
+    |       
+    \---Templates
+            Template Ancestry.md
+            

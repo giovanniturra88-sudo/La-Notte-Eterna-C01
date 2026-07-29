@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Livello": "number",
+    "Costo di Richiamo": "number",
+    "Dominio": "text",
+    "ambientazione": "multitext",
+    "storyline": "multitext",
+    "luoghi": "multitext"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "showColorPicker": true,
+    "showMassiveThreshold": true,
+    "defaultColor": "#8A5CF5",
+    "statButtonColor": "#8A5CF5",
+    "numberOfPCs": 4,
+    "libraryFolders": [
+      "02_Meccaniche_DaggerHeart/Nemici",
+      "02_Meccaniche_DaggerHeart/Ambienti"
+    ],
+    "ignoreDuplicateNames": true,
+    "hideBuiltInLibrary": false,
+    "compatibleWithFSB": false
+  },
+  "cards": {
+    "j755e8e1qzq": {
+      "0": {}
+    }
+  }
+}

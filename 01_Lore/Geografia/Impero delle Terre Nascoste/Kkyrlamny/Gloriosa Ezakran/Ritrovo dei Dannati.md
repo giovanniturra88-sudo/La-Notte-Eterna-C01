@@ -1,0 +1,11 @@
+---
+type: Luogo
+aliases:
+  - Rifugio dei Dannati
+---
+A guardarla, non sembrerebbe niente di che: una misera locanda nel Quartiere Lungofiume. Un'insegna di legno reca scritto T'máv, *"osteria"* in lingua [[karevi]]. Eppure, è proprio da questa bettola che si accede al famigerato e leggendario Ritrovo dei Dannati, la sede dei [[Prescelti dalle Tenebre]].
+Il guardiano, Yrujel recita la parte di un anziano locandiere. Si limiterà a servire tranquillamente i clienti e, a meno che questi non si comportino in maniera sospetta, Yrujel non lascerà trapelare alcun segno di nervosismo.
+La frase segreta per accedere al ritrovo sotterraneo è: *«Un pugnale ho donato al nemico del mio amico perché questi vivesse e uccidesse il suo nemico»*. Se gli avventurieri pronunceranno correttamente l'intricata formula, mostrando qualche segno distintivo della loro associazione ai [[Prescelti dalle Tenebre]], alla prima occasione utile Yrujel li inviterà dietro il bancone da cui, azionando alcune leve, aprirà una pesante botola.
+Il Rifugio dei Dannati si snoda attraverso un labirintico sistema di tunnel. Il sistema di sicurezza del rifugio è uno dei migliori al mondo: i tunnel sono collegati tra loro da ingranaggi che, azionati una volta al mese, permettono ai tunnel di ruotare e stravolgere l'assetto del rifugio. In casi di attacco, il quartier generale del rifugio può isolare interi passaggi, condannando gli sventurati assalitori alla morte per denutrizione. I tunnel sono sorvegliati continuamente da una variante dell'incantesimo Occhio Arcano.
+Il rifugio costituisce una città nella città. È provvisto di ogni tipo di necessità e grazie alle sue scorte alimentari sarebbe in grado di resistere a un assedio per mesi. La popolazione del rifugio si aggira intorno alle duemila persone (millecinquecento servitori e cinquecento [[Prescelti dalle Tenebre]]). Uniche nel loro genere sono le palestre adoperate dai monaci per i loro addestramenti: queste sale simulano gli ambienti più disparati. Lo scopo di queste palestre consiste nell'addestrare i [[Prescelti dalle Tenebre]] ad affrontare qualunque tipo di pericolo.
+A capo della sede di [[Gloriosa Ezakran|Ezakran]], ma ciò non significa che egli sia il capo dell'organizzazione, c'è un certo Hokrune, un uomo spietato e dal passato misterioso.

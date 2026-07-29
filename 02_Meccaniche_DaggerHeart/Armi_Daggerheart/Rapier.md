@@ -1,0 +1,18 @@
+---
+alias: ["Rapiere"]
+categoria: equipaggiamento
+danno: d8
+gittata: mischia
+ingombro: "una mano"
+original_name: "Rapier"
+ruolo: primaria
+tier: 1
+tipo_danno: fisica
+tratto: presence
+type: equipaggiamento
+---
+
+### EFFETTO
+
+**_Veloce:_** Quando esegui un attacco, puoi segnare uno Stress per colpire un'altra creatura entro portata.
+---

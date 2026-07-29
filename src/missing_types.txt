@@ -1,0 +1,212 @@
+Benvenuto.md
+Transformations.md
+00_Dashboard\Home.md
+00_Dashboard\Indice Artefatti.md
+00_Dashboard\Indice Luoghi.md
+00_Dashboard\Indice NPC.md
+01_Lore\Divinità_e_Fazioni\Krea.md
+01_Lore\Divinità_e_Fazioni\Maskarr.md
+01_Lore\Geografia\Impero delle Terre Nascoste.md
+01_Lore\Geografia\Larass'hra.md
+01_Lore\Geografia\Pianure di Xanesh.md
+01_Lore\Cosmologia\Meteore\Bestia Sacra Eneli.md
+01_Lore\Cosmologia\Meteore\Demone X.md
+01_Lore\Cosmologia\Meteore\Frullatore (danneggiato).md
+01_Lore\Cosmologia\Meteore\K'idusi Seyifi Mak'at'eli.md
+01_Lore\Cosmologia\Meteore\Kanptazu.md
+01_Lore\Cosmologia\Meteore\Prima Lucis Advehens.md
+01_Lore\Cosmologia\Meteore\Psy Bot.md
+01_Lore\Geografia\Cenere di Lanie\Distese Nuvolose di Aej'Nagrizzt.md
+01_Lore\Geografia\Magocrazia di Nü\Città di Nü.md
+01_Lore\Geografia\Favoleggiate Rovine di Gundazar\Gundazar\Aman'Raith.md
+01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran.md
+01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Giardinetti Lungofiume.md
+01_Lore\Geografia\Impero delle Terre Nascoste\Kkyrlamny\Gloriosa Ezakran\Ritrovo dei Dannati.md
+02_Meccaniche_DaggerHeart\SottoClassi\Cavaliere di Kurash.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Abile Inganno.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Appoggiati.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Approccio Strategico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Armatura Fortificata.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Armatura Infrangibile.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Assalto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Attraverso i Tuoi Occhi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Audace.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Aura Confondente.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Aura Sovrastante.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Barriera di Rigenerazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cacciare.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cacciatore d'Ombre.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Camminatore di Fessura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cammino sulle Pareti.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Campo di Guarigione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Carica di Incantesimo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Carisma Infinito.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Catena di Fulmini.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Cieli che Cadono.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpire al Suolo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpito dalla Lama.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo del Mietitore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Frantumazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Rottura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo di Sfioramento.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo Guaritore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo Risonante.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Colpo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Combattente Versatile.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Concentrazione Letale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Condividi il Carico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Conosci il tuo nemico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\ControIncantesimo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Controllare.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Corsa verso la Morte.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Custode delle Rune.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Discorso Rassicurante.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Distruttore di Corpi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Divinazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Dominio Vegetale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Eclissi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Entusiasmo di Massa.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Equidi Evocati.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esperto di Furtività.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esplosione Ammantata.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Esplosione di Conservazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Estasi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Evoca Sciame.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Famiglio della Natura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ferocia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Forma Materiale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Fortezza Selvaggia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Forza della Natura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Frenesia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Furia Crescente.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Fusto Maestoso.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Glifo dell'Oscurità.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Grido di Battaglia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Guida con l'Esempio.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Impulso Selvaggio.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Inevitabile.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Infrangibile.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Intoccabile.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Intrico Violento.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Invisibilità.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ispirazione Critica.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Legame dell'Ombra.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Legame di un Soldato.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libera il Caos.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Ava.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Exota.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Grynn.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Homet.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Illiat.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Korvax.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Norai.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Ronin.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Sitil.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Tyfar.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Vagras.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Vyola.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Libro di Yarrow.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Lingua della Natura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Maestro dell'Arte.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mai Sopraffatto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mani Curatrici.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Manovre Agili.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mischia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Morsa Mortale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mossa Caratteristica.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Mostro da Battaglia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Muro Manifesto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Non Dire Mai Bugie.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Occhio Fluttuante.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Onda di Disintegrazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Parole d'Ispirazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Parole di Discordia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Passo Rapido.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Pelle di Spine.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Piena Ondata.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Pioggia di Lame.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Potenziamento.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Precisione Crudele.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Premonizione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Prendi e Tira.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presa alla Gola.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presa Cinerea.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Presenza Audace.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiettile Corrosivo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiettile di Luce.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiezione Astrale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Proiezione Sensoriale.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Provocazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Raccoglitore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rafforzamento.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rafforzato in Battaglia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Raggio Salvifico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rassicurazione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Recupero.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rialzati.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ridirezione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Riflesso Arcano.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rifugio Sicuro.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Rinvigorimento.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ripetizione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risorgi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risposta Rapida.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ristoro.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Risurrezione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ritirata Fantasma.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sangue e Gloria.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Santuario della Selva.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scavatore di Pensieri.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Schivata Elusiva.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scudo d'Aura.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scudo di Supporto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Scuotiti.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Secondo Respiro.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sigillo di Ritorsione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Silenzio.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sono Il Tuo Scudo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sparizione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spettro del Buio.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spinta Forzata.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spiritelli della Foresta.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Spirito di Mezzanotte.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Splendida Luce Solare.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sul Limite.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Sussurri Oscuri.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tattico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Telecinesi.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Teletrasporto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tempesta.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Terremoto.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Terrore della Notte.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tieni la Linea.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccando l'Osso.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dal Codice.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dal Valore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dall'Arcano.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Toccato dalla Mezzanotte.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco del Saggio.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco della Grazia.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco dello Splendore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tocco Riparatore.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Tracciatore Dotato.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Travestimento di Massa.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Travestimento Misterioso.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Ultime Parole.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Unione Trascendente.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vantaggio del Campione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vedo Che Arriva.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Velo Ipnotico.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Velo Notturno.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vita Protetta.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vitalità.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Voce della Ragione.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Volo.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Vortice.md
+02_Meccaniche_DaggerHeart\Abilità\DaggerHeart\Zona di Protezione.md
+03_Campagna\PNG\An'Rao IV.md
+03_Campagna\PNG\Axrul II De Vaars.md
+03_Campagna\PNG\Hedd.md
+03_Campagna\PNG\Namass'rya.md
+03_Campagna\PNG\Ziria.md
+04_Risorse\Templates\Template Ancestry.md

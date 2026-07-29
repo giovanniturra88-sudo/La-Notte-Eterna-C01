@@ -1,0 +1,8 @@
+---
+type: Luogo
+---
+
+Anni addietro, la torre era la lussuosa dimora di una ricca e influente famiglia patrizia. All'arrivo degli hjilaki, i signori della torre abbandonarono l'edificio e fuggirono a [[Mendulia's Rock]]. Rimasta vuota, la torre fu reclamata dal generale Luaar che, come riconoscimento per i servigi resi, la donò al suo servo più fidato, il lich Efneriom.
+Al sicuro nella sua fortezza, Efneriom poté compiere rituali di magia nera talmente empi e orrendi da ripugnare gli stessi vampiri. La malvagità del lich lo indusse a consumare centinaia di vittime, tanto che Luaar fu costretto a ordinargli di limitare la distruzione delle greggi. E furono proprio loro, le greggi, ad attribuire alla torretta il suo nome sinistro.
+Alta tre piani, l'imponente torretta è provvista di un solo ingresso: un portone di pietra difeso da interdizioni magiche e congegni meccanici così astuti e micidiali da poter umiliare persino l'avventuriero più esperto. Qualora l'avventuriero riuscisse a disinnescare le trappole e a dissolvere le interdizioni che difendono il portone, un incantesimo di allarme mentale si attiverebbe in ogni caso, allertando istantaneamente i custodi della torretta (dodici guerrieri vampiri).
+Efneriom dimora nelle segrete della torretta, cui è possibile accedere unicamente tramite un passaggio segreto. Da qui, il lich scruta avidamente nella sua sfera di cristallo grazie alla quale ha acquisito una profonda conoscenza dei regni e delle città di [[Neir]]. Conoscenza che non tarderà troppo a usare per i suoi malvagi piani di conquista.

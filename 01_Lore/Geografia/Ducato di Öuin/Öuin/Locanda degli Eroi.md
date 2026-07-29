@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+Il nome stesso di questa locanda suggerisce il genere di frequentatori. Cavalieri ordinati o erranti si riuniscono in questo caldo e accogliente edificio, per metà in legno yug e per metà in pietra. Le discussioni sono particolarmente frequenti, così come le sfide a singolar tenzone. Uno straniero rimarrebbe certamente meravigliato dalla facilità con cui un cavaliere öued può sentirsi mortalmente offeso. La locanda ha due livelli pieni zeppi di umili alloggi dove i cavalieri possono riposare dalle escursioni contro i banditi e dai postumi delle grandi bevute. Un brindisi tira l'altro con il Sangue della Terra, un'ottima birra ambrata, forse la migliore nel suo genere. Il proprietario della locanda, Korg Lance è un vecchio e saggio guerriero in pensione. Nessuno conosce il suo passato né come sia finito a [[Öuin]]. È creduto un uomo deforme, sebbene particolarmente barbuto, forse un saltimbanco stanco di girovagare. In realtà, il nano fu ingiustamente esiliato da [[Valle Nuvolosa]] quando era ancora ragazzo per via di un aspro feudo familiare. Di quell'esperienza conserva ancora le cicatrici e una promessa mai dimenticata.

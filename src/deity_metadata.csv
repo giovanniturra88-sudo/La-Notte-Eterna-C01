@@ -1,0 +1,19 @@
+alignment,category,name,related_locations
+neutral,deity,Adraoos,['Zey']
+dark,deity,Bakraag,"['Neir', 'Terre Nascoste']"
+dark,deity,Demien,[]
+unknown,deity,Divinità,"['Neir', 'Rengaria']"
+neutral,deity,Doomkhan,[]
+light,deity,Fadranstaff,['Neir']
+neutral,deity,Garod,"['Impero delle Terre Nascoste', 'Neir', 'Terre Nascoste']"
+light,deity,Glumdrung,"['Neir', 'Lago Lacrima', 'Xanesh']"
+neutral,deity,Halthea,['Ôuin']
+neutral,deity,Iliar,[]
+neutral,deity,Krea,"['Neir', 'Terre Nascoste']"
+neutral,deity,Lanie,"['Neir', 'Terre Nascoste']"
+light,deity,Laon,['Neir']
+neutral,deity,Lurtan,[]
+neutral,deity,Maskarr,"['Mubunash', 'Nebvarasa']"
+dark,deity,Nuzagaal,"['Lanie', 'Nebvarasa', 'Multiverso']"
+dark,deity,Tenebris,"['Città Senza Nome', 'Pianure di Xanesh', 'Dimensione dello Spirito', 'Neir']"
+neutral,deity,Unthamarand,"['Valli dei Giganti', 'Neir', 'Ashazan']"
