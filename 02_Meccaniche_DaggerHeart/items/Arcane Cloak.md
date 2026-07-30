@@ -1,5 +1,6 @@
 ---
-type: Oggetto
+type:
+  - "[[Item]]"
 ---
 
 # Arcane Cloak

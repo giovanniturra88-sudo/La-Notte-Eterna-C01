@@ -1,5 +1,6 @@
 ---
-type: Creatura
+type:
+  - "[[Beast Shape]]"
 ---
 
 # Powerful Beast

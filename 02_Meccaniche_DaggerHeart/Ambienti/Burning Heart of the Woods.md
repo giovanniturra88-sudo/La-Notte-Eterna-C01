@@ -1,5 +1,6 @@
 ---
-type: Scenario
+type:
+  - "[[Environment]]"
 ---
 
 # Burning Heart of the Woods

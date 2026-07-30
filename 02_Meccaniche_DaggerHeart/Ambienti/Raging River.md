@@ -1,5 +1,6 @@
 ---
-type: Scenario
+type:
+  - "[[Environment]]"
 ---
 
 # Raging River

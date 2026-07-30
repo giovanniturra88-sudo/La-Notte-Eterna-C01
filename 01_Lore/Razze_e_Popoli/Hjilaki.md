@@ -2,7 +2,7 @@
 type: Popolo
 ---
 
-Gli alti [[vampiri]] sono conosciuti come hjilaki, un composto delle parole [[karevi]] *hj* e *hlaká* (in lingua [[karevi]] *"morto del sangue"*). In principio il termine si riferiva a tutti i [[vampiri]], ma con il progressivo indebolimento del Sangue del Primo è servito a indicare esclusivamente i [[vampiri]] dotati di pieni poteri.
+Gli alti [[vampiri]] sono conosciuti come hjilaki, un composto delle parole [[Karevi]] *hj* e *hlaká* (in lingua [[Karevi]] *"morto del sangue"*). In principio il termine si riferiva a tutti i [[vampiri]], ma con il progressivo indebolimento del Sangue del Primo è servito a indicare esclusivamente i [[vampiri]] dotati di pieni poteri.
 Gli hjilaki sono creature più affascinanti, scaltre e forti dei vampiri. Ai vertici di ogni banda, clan o nazione vampirica vi sono sempre hjilaki. Secondo quanto affermano loro stessi, gli hjilaki avrebbero mantenuto intatte le straordinarie caratteristiche del leggendario Primo, il progenitore dei vampiri di [[Neir]].
 ## Tratti degli Hjilaki
 Il personaggio perde tutti i suoi privilegi di razza ma conserva l'aspetto che aveva in vita, sebbene il suo incarnato acquisisca un estremo pallore e il colore delle sue iridi cambi in grigio, nero e in alcuni casi rossastro.

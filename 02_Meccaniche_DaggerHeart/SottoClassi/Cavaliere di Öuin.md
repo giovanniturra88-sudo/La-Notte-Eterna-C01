@@ -1,5 +1,6 @@
 ---
-type: Sottoclasse
+type:
+  - "[[SottoClassi]]"
 ---
 
 5 sottoclassi rivolte a [[Paladini]], [[Maghi]], [[Ranger]], [[Chierici]] e [[Guerrieri]].

@@ -8,6 +8,7 @@
     "Dominio": "text",
     "ambientazione": "multitext",
     "storyline": "multitext",
-    "luoghi": "multitext"
+    "luoghi": "multitext",
+    "type": "multitext"
   }
 }
