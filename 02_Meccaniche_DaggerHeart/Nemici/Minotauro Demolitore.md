@@ -2,7 +2,7 @@
 type: Creatura
 ---
 
-**_Tier 2 [[Picchiatore]]._** _Un [[firbolg]] con la testa di bue enorme e un carattere impulsivo._
+**_Tier 2 [[Picchiatore]]._** _Un [[Firbolg]] con la testa di bue enorme e un carattere impulsivo._
 
 - **Motivi e Tattiche:** Consumare, ferire, navigare, sovrastare, inseguire
 - **Difficoltà:** 16 | **Soglie:** 14/27 | **PF:** 7 | **Stress:** 5

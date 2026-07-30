@@ -1,5 +1,6 @@
 ---
-type: Sottoclasse
+type:
+  - "[[SottoClassi]]"
 classe:
   - Seraph
 ---

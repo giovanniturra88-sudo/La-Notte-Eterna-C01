@@ -1,5 +1,6 @@
 ---
-type: Oggetto
+type: 
+  - "[[Item]]"
 ---
 
 # Bag of Ficklesand

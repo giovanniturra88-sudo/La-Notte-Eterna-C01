@@ -1,9 +1,7 @@
 ---
-type: Oggetto
+type: "[[Consumable]]"
 ---
 
 # Minor Health Potion
-
-**_Consumable_**
 
 Clear 1d4 HP.

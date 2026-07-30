@@ -1,5 +1,6 @@
 ---
-type: Indice
+type:
+  - Indice
 ---
 
 Le vie dell'avventuriero sono infinite e la [[Notte Eterna]] non fa eccezione a questa regola. Esplorando le nazioni e le terre di [[Neir]], incontrerete sul vostro cammino personaggi che hanno fatto di una particolare arte o specializzazione il loro stile di vita. In basso sono riportati archetipi per ogni classe:
@@ -12,8 +13,8 @@ Le vie dell'avventuriero sono infinite e la [[Notte Eterna]] non fa eccezione a 
 - Il [[02_Meccaniche_DaggerHeart/SottoClassi/Custode dei Segreti|Custode dei Segreti]] è un [[Druid]] votato all'antico € misterioso [[Circolo dei Segreti]]. Protettore del [[Fuoco Segreto]], la fonte di magia primigenia, è dotato di grandi potenziamenti alle sue capacità da incantatore. 
 - Il [[Danse Macabre]] è un [[Bard]] in grado di far ballare i morti con la sua musica. Letteralmente.
 - L'[[Elementalista]] è uno [[Sourcerer]] con sintonia verso un elemento a scelta tra Acido, Veleno, Fuoco, Freddo, Tuono o Fulmine. La sintonia gli conferisce poteri e immunità legati all'elemento scelto.
-- Il [[Guardiano Nanico]] è un [[Ranger]] [[nani|Nano]] specializzato in attacchi illusori e non letali.
-- La [[Lama di Dor]] è un [[Ranger]] [[elfi|elfo]] o mezzelfo specializzato nell'antica arte di combattimento del Popolo Fiero.
+- Il [[Guardiano Nanico]] è un [[Ranger]] [[Nani|Nano]] specializzato in attacchi illusori e non letali.
+- La [[Lama di Dor]] è un [[Ranger]] [[Elfi|elfo]] o mezzelfo specializzato nell'antica arte di combattimento del Popolo Fiero.
 - Il [[Legionario Xaan]] è un [[Warrior]] dotato di grande versatilità combattiva.
 - Il [[Lupo del Nord]] è un [[Barbaro]] originario delle [[Valli dei Giganti]], dove ha sviluppato capacità di combattimento legate al gelido ambiente in cui è cresciuto.
 - Il [[Maestro delle Meraviglie]] è un [[Wizard]] capace di sfruttare il potere degli oggetti magici per potenziare i propri incantesimi.

@@ -4,7 +4,7 @@
     "showMassiveThreshold": true,
     "defaultColor": "#8A5CF5",
     "statButtonColor": "#8A5CF5",
-    "numberOfPCs": 4,
+    "numberOfPCs": 5,
     "libraryFolders": [
       "02_Meccaniche_DaggerHeart/Nemici",
       "02_Meccaniche_DaggerHeart/Ambienti"

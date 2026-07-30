@@ -10,9 +10,9 @@ luoghi:
 # Silke  
 ## Ruolo  
 Antagonista principale de [[La Morte Strisciante]].  
-Necromante [[klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine. 
+Necromante [[Klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine. 
 ## Descrizione  
-Una [[klorss]] di straordinaria bellezza e presenza.  
+Una [[Klorss]] di straordinaria bellezza e presenza.  
 Veste quasi esclusivamente di nero e si presenta sempre con modi eleganti e raffinati.  
 La mano sinistra appare deformata e in avanzato stato di deterioramento. Per nascondere tale menomazione indossa costantemente un elegante guanto nero.  
 ## Personalità  

@@ -1,4 +1,5 @@
 ---
-type: Sottoclasse
+type:
+  - "[[SottoClassi]]"
 ---
 

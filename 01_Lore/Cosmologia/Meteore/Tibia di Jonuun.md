@@ -4,7 +4,7 @@ type: Artefatto
 
 *Arma Magica (Martello da Guerra), Leggendario, Richiede sintonia*
 
-[[Nuzagaal]] è solito impiegare troll e [[giganti]] nella [[Guerra Celeste]]. Quando uno di loro viene sconfitto, il fragore della sua caduta causa brevi e quasi impercettibili terremoti che scuotono lo stesso mondo di [[Neir]].
+[[Nuzagaal]] è solito impiegare troll e [[Giganti]] nella [[Guerra Celeste]]. Quando uno di loro viene sconfitto, il fragore della sua caduta causa brevi e quasi impercettibili terremoti che scuotono lo stesso mondo di [[Neir]].
 [[Jonuun]] era il capotribù dei giganti del gelo che hanno preso parte alla [[Guerra Celeste]] al fianco di [[Nuzagaal]]. Alcune leggende narrano che quando venne sconfitto dal suo rivale [[Agmund]], la sua rovinosa caduta causò la distruzione del suo intero corpo. Solo qualcuna delle sue ossa sopravvisse all'impatto, precipitando su [[Neir]] come meteore. Tra queste la tibia di [[Jonuun]], che quando viene ritrovata appare conficcata al suolo come un dente di ghiaccio. La tibia è gelida al tatto ed emana costantemente una foschia fredda che la avvolge come un manto. L'osso è lungo oltre un metro e ha l'estremità bombata, viene perciò naturale brandirlo come un'arma rudimentale.
 La Tibia di Jonuun funziona come un martello da guerra +2 e infligge 1d8 danni extra da freddo.
 - Ogni volta che un personaggio colpisce con la Tibia di Jonuun può spendere la sua azione bonus per lanciare Dardo di Gelo.

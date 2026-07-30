@@ -22,10 +22,10 @@ Anno 127, N.E. La dea Lanie precipita sulla regione sotto forma di meteora, deva
 ## Geografia
 Un immenso deserto di cenere viola (ars) che, in assenza di luce, si illumina emanando un bagliore
 dorato. Il deserto è caratterizzato da dune di altezza variabile e in costante mutamento per via del
-vento; queste dune sono abitate perlopiù da insetti mostruosi - predati dagli [[urakian]]-carnivori - e ratti, volatili, cammelli, piccoli mammiferi e altri animali. Ma è nelle oasi, luoghi rigogliosi che ricordano l’antica giungla che un tempo cresceva su questa terra, che fiorisce la vita. Nel luogo dell'impatto della meteora si è formato un enorme lago di lava: è il sangue inquieto della dea dal quale si sono originate creature di origine soprannaturale e materiali straordinari e ricercatissimi da ogni avventuriero.
+vento; queste dune sono abitate perlopiù da insetti mostruosi - predati dagli [[Urakian]]-carnivori - e ratti, volatili, cammelli, piccoli mammiferi e altri animali. Ma è nelle oasi, luoghi rigogliosi che ricordano l’antica giungla che un tempo cresceva su questa terra, che fiorisce la vita. Nel luogo dell'impatto della meteora si è formato un enorme lago di lava: è il sangue inquieto della dea dal quale si sono originate creature di origine soprannaturale e materiali straordinari e ricercatissimi da ogni avventuriero.
 ## Governo
 Ciascuna tribù urakian è governata da un consiglio di anziani e da un capo, solitamente un combattente o uno sciamano. Se un capo si dimostra indegno di comandare, un altro guerriero della tribù ha il diritto di sfidarlo per assumere il ruolo.
-La società uraki non prevede in qualunque caso la pena di morte. L'esilio è considerato la peggiore punizione per un [[urakian]]: nel mondo “civilizzato” sei considerato alla stregua di un mostro, come speri di sopravvivere?
+La società uraki non prevede in qualunque caso la pena di morte. L'esilio è considerato la peggiore punizione per un [[Urakian]]: nel mondo “civilizzato” sei considerato alla stregua di un mostro, come speri di sopravvivere?
 ## Economia
 Fra le comunità non esiste il commercio nella forma che conosciamo ma persiste l'usanza primordiale del baratto.
 L’ars è largamente esportata dai mercanti zeyd e karevi per via delle sue straordinarie capacità di
