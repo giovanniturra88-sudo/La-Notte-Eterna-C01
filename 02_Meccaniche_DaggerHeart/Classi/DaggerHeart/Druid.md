@@ -65,12 +65,12 @@ Le categorie della Forma Bestiale sono suddivise per livello. Ogni voce include 
 
 #### LIVELLO 3
 
-- [Predatore Magnifico](../beastforms/Great%20Predator.md)
-- [Lucertola Maestosa](../beastforms/Mighty%20Lizard.md)
-- [Bestia Volante Grande](../beastforms/Great%20Winged%20Beast.md)
-- [Predatore Aquatico](../beastforms/Aquatic%20Predator.md)
-- [Bestia Leggendaria](../beastforms/Legendary%20Beast.md)
-- [Ibrido Leggendario](../beastforms/Legendary%20Hybrid.md)
+- [[Great Predator]]
+- [[Mighty Lizard]]
+- [[Great Winged Beast]]
+- [[Aquatic Predator]]
+- [[Legendary Beast]]
+- [[Legendary Hybrid]]
 
 #### LIVELLO 4
 
@@ -79,7 +79,7 @@ Le categorie della Forma Bestiale sono suddivise per livello. Ogni voce include 
 - [[Mythic Aerial Hunter]]
 - [[Epic Aquatic Beast]]
 - [[Mythic Beast]]
-- [[[Mythic Hybrid]]
+- [[Mythic Hybrid]]
 
 ### SOTTOCLASSI
 

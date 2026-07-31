@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 2
-Dominio: "[[Mezzanotte]]"
+Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 0
 Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:

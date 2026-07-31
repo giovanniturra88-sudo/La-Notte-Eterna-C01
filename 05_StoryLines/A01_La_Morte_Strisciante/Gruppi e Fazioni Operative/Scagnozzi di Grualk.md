@@ -1,5 +1,7 @@
 ---
-type: PNG
+type:
+  - "[[Creatura]]"
+  - "[[Organizzazioni]]"
 storyline:
   - "[[La Morte Strisciante]]"
 ---

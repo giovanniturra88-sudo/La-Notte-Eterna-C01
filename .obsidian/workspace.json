@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5b35c58df8d2c4",
+        "id": "8aa8e3cfa6198c80",
         "type": "tabs",
         "children": [
           {
-            "id": "42940162cb9c05b5",
+            "id": "59ebd018347c3484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Campagna/PNG/Nelen Deseziath.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nelen Deseziath"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Lore/Geografia/Valle Nuvolosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Valle Nuvolosa"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -164,12 +159,28 @@
               "title": "Struttura di Valle Nuvolosa"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "abc54db01d9a074b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa114d566abc1755",
+            "type": "leaf",
+            "state": {
+              "type": "daggerforge:content-browser",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Content Browser"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,57 +193,58 @@
       "bases:Crea nuova Base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "file-tree-generator:Generate file tree": false,
-      "arroweds-adversary-bank:Arroweds Adversary Bank": false
+      "arroweds-adversary-bank:Arroweds Adversary Bank": false,
+      "daggerforge:DaggerForge menu": false
     }
   },
-  "active": "42940162cb9c05b5",
+  "active": "59ebd018347c3484",
   "lastOpenFiles": [
-    "03_Campagna/PNG/Daahronat.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Winged Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Terrible Lizard.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Striking Serpent.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Stalking Arachnid.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Powerful Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Pouncing Predator.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Pack Predator.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Nimble Grazer.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Mythic Hybrid.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Mythic Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Mythic Aerial Hunter.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Mighty Strider.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Mighty Lizard.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Massive Behemoth.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Legendary Hybrid.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Legendary Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Household Friend.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Great Winged Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Great Predator.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Epic Aquatic Beast.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Armored Sentry.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Aquatic Scout.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Aquatic Predator.md",
-    "02_Meccaniche_DaggerHeart/Forme Bestiali/Agile Scout.md",
-    "02_Meccaniche_DaggerHeart/Armature/Advanced Leather Armor.md",
-    "replace_type_items.py",
-    "monsters_output.yaml",
-    "convert_monsters.py",
-    "02_Meccaniche_DaggerHeart/SottoClassi_Daggerheart",
-    "src/convert_vault.py",
-    "src/main.py",
-    "translate_sottoclassi.py",
-    "extract_subclasses.ps1",
-    "extract_subclasses.py",
-    "extracted_subclasses.txt",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Piccola Melma Verde.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Piccola Melma Rossa.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Pastore di Alberi Quercia.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Pastore di Alberi Minore.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Orso.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Oracolo del Destino.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Ombra della Lama Seghettata.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Ogre di Caverna.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Nobile Minore.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Monarca.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Minotauro Demolitore.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Idra.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Guerriero Scheletrico.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Dragatore Scheletrico.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Difensore dalle Radici Profonde.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Devastatore.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Demone di Gelosia.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Demone Minore.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Corruttore dei Regni Esterni.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Corrutore dei Regni Esterni.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Consigliere Reale.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Combattente Gigante.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cecchino della Lama Seghettata.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere della Corona.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere del Cervo.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere Scheletrico.md",
+    "02_Meccaniche_DaggerHeart/Consumabili/DaggerHeart",
+    "02_Meccaniche_DaggerHeart/Consumabili/DaggerHeart Hope and Fear",
+    "02_Meccaniche_DaggerHeart/Items/DaggerHeart Hope and Fear",
+    "02_Meccaniche_DaggerHeart/Items/DaggerHeart",
+    "02_Meccaniche_DaggerHeart/Armi/DaggerHeart Hope and Fear",
+    "02_Meccaniche_DaggerHeart/Armature/DaggerHeart Hope and Fear",
+    "02_Meccaniche_DaggerHeart/Armature/DaggerHeart",
+    "02_Meccaniche_DaggerHeart/Armi/DaggerHeart",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart",
+    "04_Risorse/Pictures/Pasted image 20260731102923.png",
+    "04_Risorse/Pictures/Pasted image 20260731103737.png",
+    "04_Risorse/Pictures/Pasted image 20260731103518.png",
+    "04_Risorse/Pictures/Pasted image 20260731103128.png",
+    "Pasted image 20260731102822.png",
+    "Pasted image 20260731102706.png",
+    "04_Risorse/Pictures/Pasted image 20260730172201.png",
+    "04_Risorse/Pictures/Pasted image 20260730171949.png",
     "04_Risorse/Pictures/Pasted image 20260724002122.png",
     "04_Risorse/Pasted image 20260724002122.png",
-    "Pasted image 20260724002122.png",
-    "Pasted image 20260721175031.png",
-    "Pasted image 20260721181936.png",
-    "04_Risorse/Pictures/mendulias_rock_map_pic.png",
-    "Pasted image 20260717114216.png",
-    "Pasted image 20260717144024.png",
-    "Pasted image 20260717143647.png",
-    "04_Risorse/Pictures/Pasted image 20260713190638.png",
     "Senza nome.canvas"
   ]
 }

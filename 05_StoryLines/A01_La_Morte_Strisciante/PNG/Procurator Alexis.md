@@ -1,5 +1,6 @@
 ---
-type: PNG
+type:
+  - "[[PNG]]"
 storyline:
   - "[[La Morte Strisciante]]"
 luoghi: "[[Mendulia's Rock]]"
