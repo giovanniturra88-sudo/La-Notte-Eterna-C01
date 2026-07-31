@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa8e3cfa6198c80",
+        "id": "d454f7753c8d8fea",
         "type": "tabs",
         "children": [
           {
-            "id": "59ebd018347c3484",
+            "id": "fa2f8863fc128de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Lore/Clima e Ambiente/Clima e Ambiente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clima e Ambiente"
+            }
+          },
+          {
+            "id": "00dfceff5f4647d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Lore/Società e Conto degli Anni/Società e Conto degli Anni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Società e Conto degli Anni"
+            }
+          },
+          {
+            "id": "9ff1c10c2b0c84ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +45,8 @@
               "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yamyam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,44 +226,45 @@
       "daggerforge:DaggerForge menu": false
     }
   },
-  "active": "59ebd018347c3484",
+  "active": "9ff1c10c2b0c84ed",
   "lastOpenFiles": [
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Piccola Melma Verde.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Piccola Melma Rossa.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Pastore di Alberi Quercia.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Pastore di Alberi Minore.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Orso.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Oracolo del Destino.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Ombra della Lama Seghettata.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Ogre di Caverna.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Nobile Minore.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Monarca.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Minotauro Demolitore.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Idra.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Guerriero Scheletrico.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Dragatore Scheletrico.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Difensore dalle Radici Profonde.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Devastatore.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Demone di Gelosia.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Demone Minore.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Corruttore dei Regni Esterni.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Corrutore dei Regni Esterni.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Consigliere Reale.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Combattente Gigante.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cecchino della Lama Seghettata.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere della Corona.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere del Cervo.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cavaliere Scheletrico.md",
-    "02_Meccaniche_DaggerHeart/Consumabili/DaggerHeart",
-    "02_Meccaniche_DaggerHeart/Consumabili/DaggerHeart Hope and Fear",
-    "02_Meccaniche_DaggerHeart/Items/DaggerHeart Hope and Fear",
-    "02_Meccaniche_DaggerHeart/Items/DaggerHeart",
-    "02_Meccaniche_DaggerHeart/Armi/DaggerHeart Hope and Fear",
-    "02_Meccaniche_DaggerHeart/Armature/DaggerHeart Hope and Fear",
-    "02_Meccaniche_DaggerHeart/Armature/DaggerHeart",
-    "02_Meccaniche_DaggerHeart/Armi/DaggerHeart",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart",
+    "02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Ancestry/Yamyam.md",
+    "02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Ancestry/Wiloi.md",
+    "01_Lore/Vera Magia/Vera Magia.md",
+    "Dimensioni dello Spirito.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 1.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 6.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 9.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 8.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 7.md",
+    "01_Lore/Clima e Ambiente/Funghi Velenosi.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 5.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 4.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 3.md",
+    "01_Lore/Vera Magia/Vera Magia - Livello 2.md",
+    "01_Lore/Società e Conto degli Anni/Ricchezze e Valute.md",
+    "01_Lore/Società e Conto degli Anni/Scorrere del Tempo nelle Terre Nascoste.md",
+    "01_Lore/Società e Conto degli Anni/Società e Conto degli Anni.md",
+    "01_Lore/Società e Conto degli Anni/Tenore di Vita e Guadagni.md",
+    "01_Lore/Società e Conto degli Anni/Linguaggi di Neir.md",
+    "01_Lore/Società e Conto degli Anni/Fasi del Giorno.md",
+    "01_Lore/Società e Conto degli Anni/Luna di Neir.md",
+    "01_Lore/Società e Conto degli Anni/Calendario Xaan.md",
+    "01_Lore/Società e Conto degli Anni/Calendario Trino.md",
+    "01_Lore/Società e Conto degli Anni/Calendario Comune.md",
+    "01_Lore/Società e Conto degli Anni/Calendari di Neir.md",
+    "01_Lore/Società e Conto degli Anni",
+    "01_Lore/Clima e Ambiente/Vanta Olvar.md",
+    "01_Lore/Clima e Ambiente/Senza nome",
+    "01_Lore/Clima e Ambiente",
+    "03_Campagna/Items/a",
+    "03_Campagna/Armi/Bastoni Magici di Nu",
+    "Senza nome.canvas",
+    "03_Campagna/Armature/Abito del Messo",
+    "03_Campagna/prova",
+    "03_Campagna/Armature",
+    "03_Campagna/Armi",
+    "03_Campagna/Items",
     "04_Risorse/Pictures/Pasted image 20260731102923.png",
     "04_Risorse/Pictures/Pasted image 20260731103737.png",
     "04_Risorse/Pictures/Pasted image 20260731103518.png",
@@ -244,7 +274,6 @@
     "04_Risorse/Pictures/Pasted image 20260730172201.png",
     "04_Risorse/Pictures/Pasted image 20260730171949.png",
     "04_Risorse/Pictures/Pasted image 20260724002122.png",
-    "04_Risorse/Pasted image 20260724002122.png",
-    "Senza nome.canvas"
+    "04_Risorse/Pasted image 20260724002122.png"
   ]
 }
