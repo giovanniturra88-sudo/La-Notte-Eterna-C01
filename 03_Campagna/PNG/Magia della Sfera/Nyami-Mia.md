@@ -7,7 +7,7 @@ type:
 
 > «I fiumi ricordano ogni lacrima versata. Io ne sono la memoria e la vendetta.»
 
-Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua e dei bacini sotterranei di Neir. Legata allo spirito guida dei fiumi, protegge la vita acquatica e scatena piene rovinose contro chi inquina o profana le sue acque.
+Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua e dei bacini sotterranei di [[Neir]]. Legata allo spirito guida dei fiumi, protegge la vita acquatica e scatena piene rovinose contro chi inquina o profana le sue acque.
 
 ---
 
@@ -49,6 +49,4 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 ---
 
 ### **STORIA E LORE**
-Protettrice del fiume sacro di Neir, Nyami-mia combatte apertamente le nefaste creazioni di Abaia, il Principe delle Anguille, ricacciando i demoni negli abissi di Ezav.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+Protettrice del fiume sacro di [[Neir]], Nyami-mia combatte apertamente le nefaste creazioni di [[Abaia]], il Principe delle Anguille, ricacciando i demoni negli abissi di Ezav.
