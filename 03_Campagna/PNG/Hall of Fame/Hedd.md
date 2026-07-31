@@ -1,0 +1,16 @@
+---
+type:
+  - "[[PNG]]"
+aliases:
+  - Hedd il Folle
+---
+Originario di [[Mendulia's Rock]], Hedd, il Folle Mascherato, è una leggenda vivente. Il suo nome è conosciuto, rispettato, amato, temuto e odiato ovunque. Alcuni lo chiamano eroe, altri un povero squilibrato. È difficile capire chi abbia ragione, ma forse la verità sta nel mezzo.
+Hedd ha la straordinaria capacità di apparire e scomparire sempre al momento opportuno. Si narrano un'infinità di storie su di lui, e nessuno sa dire quali siano vere e quali no. Un alone di mistero circonda la figura di Hedd. Sembra che nessuno lo abbia mai visto in volto, o almeno chi lo ha fatto non è sopravvissuto per raccontarlo. Il volto dell'elfo, infatti, è sempre coperto da una maschera di ceramica finemente lavorata, il ricordo di un viaggio fatto tempo addietro alla Città delle Trame.
+Alcuni dicono che Hedd sia l'ultimo allievo di Ghaeler, il mitico uccisore di vampiri, e la bravura con cui l'elfo affronta i crudeli hjilaki lascia supporre che ciò sia vero. Difficilmente, però, Hedd si getta in un combattimento. Egli lo fa soltanto se l'uso della violenza si rende strettamente necessario.
+Da fanciullo, Hedd, il cui vero nome è Hedroes, fu vittima di un incidente: un carro lo investi facendogli battere la testa. Il colpo fu tale che la sua mente ne soffri in modo permanente. Hedroes dovette abbandonare la scuola e le amicizie.
+Quando anche lo zio, l'unica persona che Hedd aveva al mondo, morì, il ragazzo restò solo con le sue compagnie immaginarie. Ne ha tre: Milde, una graziosa [[Halfling]] sempre disposta agli scherzi e al gioco; Tuldann, uno scorbutico [[Nani|nano]] dotato di un misterioso sesto senso per i guai; e Corky, un cane fedele e coraggioso dal fiuto infallibile. In realtà Milde, Tuldann e Corky non sono semplici amici immaginari: dopo aver battuto la testa, la vista dell'elfo acquisì il potere di guardare attraverso il sottile velo che cela il piano etereo, il cosiddetto limbo, agli occhi mortali. Milde, Tuldann e Corkvin in realtà sono degli spettri. Vogliono sinceramente bene a Hedd. che considerano un fratello, e l'elfo ricambia il sentimento.
+Hedd ha oltre 600 anni. La sua vita ha raggiunto quella fase che gli elfi chiamano malinconicamente il "tempo del tramonto". Anche se non comprende bene cosa gli stia succedendo, l'elfo sente che il suo tempo è ormai prossimo alla fine. Hedd ha dunque messo da parte le vecchie battaglie per avvicinarsi alla mistica luce di [[Laon]] e preparare la sua anima al viaggio finale.
+Hedd è alla ricerca di un giovane disposto ad apprendere i segreti dello stile di combattimento "scoppia teste", come lui chiama lo stile di "dardo del fato". Ai suoi tempi, l'apprese da Ghaeler in persona, il leggendario uccisore di vampiri. L'aspirante allievo di Hedroes dovrà avere un cuore puro e generoso e dimostrargli di saperci davvero fare con le spade.
+*«Non vorremmo»* dice, riferendosi a Milde, Tuldann e Corky, *«non vorremmo che tu vada là fuori a farti ammazzare da un hjilaki, hm? Hm? Hm?»*.
+
+*In silenzio nella foresta, osservo la mia vita lunga quanto la terra, Un tempo giovane e forte, ora l'età si palesa e nei miei verdi occhi brilla una lacrima d'argento. Guardo avanti, cosa serba per me la morte? Una storia da raccontare? Il mio sentiero si interpica tra le stelle disegnando nuove avventure.*

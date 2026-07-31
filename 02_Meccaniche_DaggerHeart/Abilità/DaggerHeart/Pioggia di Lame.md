@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 1
-Dominio: "[[Mezzanotte]]"
+Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[della]]"
 Titolo Inglese:

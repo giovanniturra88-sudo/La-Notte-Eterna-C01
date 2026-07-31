@@ -1,6 +1,0 @@
----
-type: PNG
----
-
-![[agan_pic.png|473]]
-Agan appare come un uomo sulla trentina dall'aspetto fiero ma piacente. Ha i capelli castano scuri mentre i suoi occhi glaciali hanno la capacità di inquietare chiunque ne incroci lo sguardo. Agan non si separa mai da Blackdoom, lo spadone in adamantio con cui ha abbattuto centinaia di nemici. Ultimo discendente della dinastia di Öduin il Valoroso, prima di cedere alle tenebre Agan era un nobile paladino al servizio di Laon. Il giorno prima della battaglia contro l'Armata dell'Apocalisse, il giovane Duca giurò fedeltà e obbedienza all'Ordine dei Predestinati. Durante la battaglia, Agan combatté contro Nefertiri delle Ombre. Dopo una dura lotta, la hjilaki riuscì a sopraffarlo ma, invece di ucciderlo, lo "baciò". Il morso lascivo di Nefertiri corruppe l'animo di Agan, che da campione della luce si trasformò in un temibile servitore dell'oscurità, il più potente mai visto. Agan ha abbracciato pienamente la causa vampirica di dominazione del mondo. Mai Neir ha conosciuto un guerriero tanto spietato. Il cavaliere caduto serba un profondo rancore nei confronti dei Cavalieri dei Passi, colpevoli di aver distrutto il suo grande amore. Agan condivide il potere del Dominio con la sua nuova sposa, [[Namass'rya]] delle Trame. Insieme, i due formano la coppia più potente del mondo.

@@ -1,5 +1,6 @@
 ---
-type: Creatura
+type:
+  - "[[Creatura]]"
 storyline:
   - "[[La Morte Strisciante]]"
 ---

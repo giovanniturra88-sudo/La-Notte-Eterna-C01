@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 8
-Dominio: "[[mezzanotte]]"
+Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 2
 Tipologia Carta[[della]]: "[[Abilità]]"
 Titolo Inglese: ShadowHunter

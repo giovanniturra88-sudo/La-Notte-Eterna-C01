@@ -1,5 +1,6 @@
 ---
-type: Organizzazioni
+type:
+  - "[[Organizzazioni]]"
 location: "[[Mendulia's Rock]]"
 storyline:
   - "[[La Morte Strisciante]]"

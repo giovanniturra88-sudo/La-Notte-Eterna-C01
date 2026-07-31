@@ -8,9 +8,9 @@ Ogni classe concede l'accesso a due domini:
 - **Druido:** [[Arcana]] & [[Saggio]]
 - **Guardiano:** [[Lama]] & [[Valore]]
 - **Ranger:** [[Ossa]] & [[Saggio]]
-- **Ladro:** [[Grazia]] & [[Mezzanotte]]
+- **Ladro:** [[Grazia]] & [[MezzaNotte]]
 - **Seraph:** [[Splendore]] & [[Valore]]
-- **Stregone:** [[Arcana]] & [[Mezzanotte]]
+- **Stregone:** [[Arcana]] & [[MezzaNotte]]
 - **Guerriero:** [[Lama]] & [[Ossa]]
 - **Mago:** [[Codice]] & [[Splendore]]
 I PG acquisiscono due carte di dominio di livello 1 alla creazione del personaggio e una carta di dominio aggiuntiva a livello o inferiore ogni volta che salgono di livello.

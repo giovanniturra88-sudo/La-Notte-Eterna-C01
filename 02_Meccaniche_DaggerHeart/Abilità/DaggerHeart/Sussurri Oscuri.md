@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 6
-Dominio: "[[Mezzanotte]]"
+Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 0
 Tipologia Carta: "[[Magia]]"
 Titolo Inglese:
