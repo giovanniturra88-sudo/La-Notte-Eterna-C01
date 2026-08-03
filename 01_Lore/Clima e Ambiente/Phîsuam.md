@@ -11,7 +11,7 @@ aliases:
 ---
 
 # Phîsuam
-*"La Cacciatrice"* in [[karevi]]
+*"La Cacciatrice"* in [[Karevi]]
 
 Questa pianta carnivora originaria della [[Giungla di Erth]] si caratterizza per foglie larghe e bianche e fiori giallo oro che emanano un profumo irresistibile per gli insetti, che la pianta divora in grandi quantità.
 

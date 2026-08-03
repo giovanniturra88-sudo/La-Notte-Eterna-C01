@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "mappa-neir",
-      "lastAccessed": 1785255874097,
+      "lastAccessed": 1785676810495,
       "markers": [
         {
           "id": "ID_484a4a196998",
@@ -894,6 +894,224 @@
       "shapes": [],
       "files": [
         "01_Lore/Geografia/Neir.md"
+      ]
+    },
+    {
+      "id": "mappa-mendualias-rock",
+      "lastAccessed": 1785677095520,
+      "markers": [
+        {
+          "id": "ID_48a99b583879",
+          "type": "default",
+          "loc": [
+            -207.4296875,
+            177.5
+          ],
+          "link": "Rupe di Mendulia",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a3b88695a9b",
+          "type": "default",
+          "loc": [
+            -350.71484375,
+            277.25
+          ],
+          "link": "Molo degli Stendardi",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9b99a8a08db",
+          "type": "default",
+          "loc": [
+            -304.21484375,
+            362
+          ],
+          "link": "Rifugio dei Marinai",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19c9aa69d8e8",
+          "type": "default",
+          "loc": [
+            -221.4296875,
+            424
+          ],
+          "link": "Base della Marina",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db2a0838a8da",
+          "type": "default",
+          "loc": [
+            -67.9296875,
+            336.5
+          ],
+          "link": "Ippodromo",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7af9881979fa",
+          "type": "default",
+          "loc": [
+            -347.9296875,
+            356
+          ],
+          "link": "Corporazione delle Arti",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3adb39ab9aa9",
+          "type": "default",
+          "loc": [
+            -116.9296875,
+            381.5
+          ],
+          "link": "Tana delle Sguattere",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8885aea09eb",
+          "type": "default",
+          "loc": [
+            -65.4296875,
+            399
+          ],
+          "link": "Bassifondi",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69e80a5a4b89",
+          "type": "default",
+          "loc": [
+            -352.5,
+            130
+          ],
+          "link": "Tempio della Guarigione",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24096385542168675,
+            0.8412887828162291
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98b83ac85b5b",
+          "type": "default",
+          "loc": [
+            -110.4296875,
+            265.5
+          ],
+          "link": "Accademia delle Sette Arti",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8b8788bc919",
+          "type": "default",
+          "loc": [
+            -82.9296875,
+            461.5
+          ],
+          "link": "Scuola delle Parole che Uccidono",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f91b6afa0b99",
+          "type": "default",
+          "loc": [
+            -167.9296875,
+            243.5
+          ],
+          "link": "Teatro dei Sogni",
+          "layer": "%5B%5Bmendulias_rock_map_pic.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "01_Lore/Geografia/La Repubblica di Mendulia's Rock/Mendulia's Rock.md"
       ]
     }
   ],

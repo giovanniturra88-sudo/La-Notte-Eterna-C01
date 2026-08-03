@@ -1,0 +1,12 @@
+---
+type:
+  - "[[Consumabile]]"
+alias: ["Necroprancers_Bell"]
+rarity: "Leggendaria"
+original_rarity: "Legendary"
+roll: 55
+---
+
+# Necroprancer's Bell
+
+You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.

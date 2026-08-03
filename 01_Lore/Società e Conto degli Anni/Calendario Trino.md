@@ -11,7 +11,7 @@ aliases:
 
 # Calendario Trino
 
-Il **Calendario Trino** fu portato su [[Neir]] dai **[[wiloi]]**. Un tempo era largamente diffuso su [[Neir]] soprattutto tra razze antiche quali elfi e nani. I nani di Valle Nuvolosa sono i soli a utilizzarlo ancora, sebbene con differenti pronunce (le dolci parole [wiloi] in nanico sono diventate *"Altanar"*, *"Larkoross"* e *"Marnok"*).
+Il **Calendario Trino** fu portato su [[Neir]] dai **[[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]]**. Un tempo era largamente diffuso su [[Neir]] soprattutto tra razze antiche quali elfi e nani. I nani di Valle Nuvolosa sono i soli a utilizzarlo ancora, sebbene con differenti pronunce (le dolci parole [wiloi] in nanico sono diventate *"Altanar"*, *"Larkoross"* e *"Marnok"*).
 
 ---
 
@@ -30,5 +30,5 @@ Il **Calendario Trino** fu portato su [[Neir]] dai **[[wiloi]]**. Un tempo era l
 
 ## 🔗 Note Correlate
 - [[Calendari di Neir]]
-- [[Wiloi]]
+- [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]]
 - [[Calendario Comune]]

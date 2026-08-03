@@ -48,7 +48,7 @@ Il drastico cambiamento climatico ha devastato l'ecosistema animale:
 
 Dopo un lungo periodo di carestia, l'agricoltura su [[Neir]] è rinata in modo inaspettato grazie all'ascolto delle popolazioni sotterranee:
 
-- **L'apporto dei [[Karevi]]:** Risalendo dalle *[[Impero delle Terre Nascoste|Terre Nascoste]]* verso la superficie, i [[karevi]] hanno portato con sé specie vegetali e animali ipogee che si sono diffuse rapidamente su **[[Neir]]** e **[[Larass'hra]]**.
+- **L'apporto dei [[Karevi]]:** Risalendo dalle *[[Impero delle Terre Nascoste|Terre Nascoste]]* verso la superficie, i [[Karevi]] hanno portato con sé specie vegetali e animali ipogee che si sono diffuse rapidamente su **[[Neir]]** e **[[Larass'hra]]**.
 - **[[Muschio Kuss]]:** Una risorsa vegetale fondamentale da cui si ricava un pane estremamente nutriente.
 - **[[Albero Nero di Yug]]:** Una delle più geniali invenzioni alchemico-magiche che ha dato nuovo impulso alle coltivazioni artificiali.
 

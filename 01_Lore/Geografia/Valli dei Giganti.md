@@ -33,7 +33,7 @@ Anno 3, N.E. Migliaia di profughi provenienti da [[Gundazar]] si rifugiano a [[F
 ## Geografia
 Ampie vallate cinte da monti innevati, steppe e tundre, ghiacciai perenni e fiumi impetuosi che sfociano su un mare tempestoso e puntellato da iceberg; nonostante la lunga occupazione imperiale, le Valli dei Giganti restano la regione più selvaggia di [[Neir]]. La sua storia è quella di individui coraggiosi, gente di frontiera che vive in costante contatto con una natura matrigna e pronta a ucciderti al primo attimo di distrazione.
 ## Governo
-Nella regione vivono da sempre tribù di umani selvaggi, umanoidi mostruosi e giganti. La sola legge che conoscono è quella del più forte. Esattamente come accade tra gli [[Urakian]] nella [[Cenere di Lanie]], le tribù delle Valli basano la loro struttura sociale sul valore guerresco.
+Nella regione vivono da sempre tribù di umani selvaggi, umanoidi mostruosi e giganti. La sola legge che conoscono è quella del più forte. Esattamente come accade tra gli [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Urakian]] nella [[Cenere di Lanie]], le tribù delle Valli basano la loro struttura sociale sul valore guerresco.
 La città stato di [[Forte Arundex]] è invece governata dai vecchi codici legislativi dell'Impero che, con il tempo, hanno subito l'influenza delle tribù delle Valli. In assenza di un'autorità superiore è il Governatore ad avere il controllo assoluto. La carica non è ereditiera e di norma viene eletta dal Sedile dei Nobili, ossia dagli esponenti delle principali famiglie patrizie di [[Forte Arundex]].
 
   

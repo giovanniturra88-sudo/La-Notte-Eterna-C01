@@ -6,7 +6,7 @@ Il mercato degli schiavi dista appena un centinaio di metri dal Cancello. Ogni a
 
 | Razza                            | Impiego                                               | Costo  |
 | -------------------------------- | ----------------------------------------------------- | ------ |
-| Maschio/Femmina [[Urakian]]      | Riserva di Sangue, Lavoratore, Gladiatore             | 500 mo |
+| Maschio/Femmina [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Urakian]]      | Riserva di Sangue, Lavoratore, Gladiatore             | 500 mo |
 | Maschio/Femmina [[Elfi\|elfo]]   | Riserva di Sangue, Schiavo dedito al piacere sessuale | 150 mo |
 | Maschio/Femmina [[Halfling]]     | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
 | Maschio/Femmina [[gnomi\|gnomo]] | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
