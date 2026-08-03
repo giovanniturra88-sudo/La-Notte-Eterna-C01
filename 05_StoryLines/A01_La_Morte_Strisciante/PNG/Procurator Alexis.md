@@ -5,6 +5,7 @@ storyline:
   - "[[La Morte Strisciante]]"
 luoghi: "[[Mendulia's Rock]]"
 ---
+ ![[Pasted image 20260801211945.png|900]]
 # Procurator Alexis  
 ## Ruolo  
 

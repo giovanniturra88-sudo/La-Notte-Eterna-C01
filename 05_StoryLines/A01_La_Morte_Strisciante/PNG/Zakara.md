@@ -6,7 +6,7 @@ storyline:
 luoghi:
   - "[[Mendulia's Rock]]"
 ---
-# Zakara  
+![[Pasted image 20260801212334.png|900]]
 ## Ruolo  
 Ufficiale della milizia di [[Mendulia's Rock]].  
 All'apparenza è l'assistente più fidata del [[Procurator Alexis]] e supervisiona le indagini sugli omicidi dei Bassifondi.  
