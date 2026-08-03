@@ -40,4 +40,4 @@ Su Neir si parlano una molteplicità di lingue diverse e non è sempre facile co
 - [[Società e Conto degli Anni]]
 - [[Pianure di Xanesh]]
 - [[Karevi]]
-- [[Wiloi]]
+- [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]]

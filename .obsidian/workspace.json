@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d454f7753c8d8fea",
+        "id": "22f7c2bab733e1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2f8863fc128de4",
+            "id": "90b4530d476bbaba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lore/Clima e Ambiente/Clima e Ambiente.md",
+                "file": "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clima e Ambiente"
-            }
-          },
-          {
-            "id": "00dfceff5f4647d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Lore/Società e Conto degli Anni/Società e Conto degli Anni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Società e Conto degli Anni"
-            }
-          },
-          {
-            "id": "9ff1c10c2b0c84ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "Werewolf"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Esplora file"
             }
           },
           {
@@ -78,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yamyam",
+                "query": "Izafer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,22 +80,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 271.5
   },
   "right": {
     "id": "8a279119e481b459",
     "type": "split",
     "children": [
       {
-        "id": "ab77ed64f0eadace",
+        "id": "42b71e495b6b2568",
         "type": "tabs",
         "children": [
           {
-            "id": "40a74236e1a6dacb",
+            "id": "de0aef6c8a46609a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "a5060e79da3531c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          },
+          {
+            "id": "49b207cec0e6b0f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06_Materiale_Notte_Eterna/Comunità/Mare Andante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,11 +135,12 @@
             }
           },
           {
-            "id": "60bb87a69acc1d8d",
+            "id": "c6281a04c82dd427",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06_Materiale_Notte_Eterna/Comunità/Mare Andante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +149,7 @@
             }
           },
           {
-            "id": "ba59104e5dddb03a",
+            "id": "e00613fa692fd52d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,7 +164,7 @@
             }
           },
           {
-            "id": "b57f057ef39ca9a0",
+            "id": "b07b57f1198bb9e9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,108 +176,78 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
-          },
-          {
-            "id": "321fb5b8d1fa678b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01_Lore/Geografia/Valle Nuvolosa.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura di Valle Nuvolosa"
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "abc54db01d9a074b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa114d566abc1755",
-            "type": "leaf",
-            "state": {
-              "type": "daggerforge:content-browser",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Content Browser"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "file-tree-generator:Generate file tree": false,
-      "arroweds-adversary-bank:Arroweds Adversary Bank": false,
-      "daggerforge:DaggerForge menu": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ff1c10c2b0c84ed",
+  "active": "90b4530d476bbaba",
   "lastOpenFiles": [
-    "02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Ancestry/Yamyam.md",
-    "02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Ancestry/Wiloi.md",
-    "01_Lore/Vera Magia/Vera Magia.md",
-    "Dimensioni dello Spirito.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 1.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 6.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 9.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 8.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 7.md",
-    "01_Lore/Clima e Ambiente/Funghi Velenosi.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 5.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 4.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 3.md",
-    "01_Lore/Vera Magia/Vera Magia - Livello 2.md",
-    "01_Lore/Società e Conto degli Anni/Ricchezze e Valute.md",
-    "01_Lore/Società e Conto degli Anni/Scorrere del Tempo nelle Terre Nascoste.md",
-    "01_Lore/Società e Conto degli Anni/Società e Conto degli Anni.md",
-    "01_Lore/Società e Conto degli Anni/Tenore di Vita e Guadagni.md",
-    "01_Lore/Società e Conto degli Anni/Linguaggi di Neir.md",
-    "01_Lore/Società e Conto degli Anni/Fasi del Giorno.md",
-    "01_Lore/Società e Conto degli Anni/Luna di Neir.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Xaan.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Trino.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Comune.md",
-    "01_Lore/Società e Conto degli Anni/Calendari di Neir.md",
-    "01_Lore/Società e Conto degli Anni",
-    "01_Lore/Clima e Ambiente/Vanta Olvar.md",
-    "01_Lore/Clima e Ambiente/Senza nome",
-    "01_Lore/Clima e Ambiente",
-    "03_Campagna/Items/a",
-    "03_Campagna/Armi/Bastoni Magici di Nu",
-    "Senza nome.canvas",
-    "03_Campagna/Armature/Abito del Messo",
-    "03_Campagna/prova",
-    "03_Campagna/Armature",
-    "03_Campagna/Armi",
-    "03_Campagna/Items",
-    "04_Risorse/Pictures/Pasted image 20260731102923.png",
-    "04_Risorse/Pictures/Pasted image 20260731103737.png",
-    "04_Risorse/Pictures/Pasted image 20260731103518.png",
-    "04_Risorse/Pictures/Pasted image 20260731103128.png",
-    "Pasted image 20260731102822.png",
-    "Pasted image 20260731102706.png",
-    "04_Risorse/Pictures/Pasted image 20260730172201.png",
-    "04_Risorse/Pictures/Pasted image 20260730171949.png",
-    "04_Risorse/Pictures/Pasted image 20260724002122.png",
-    "04_Risorse/Pasted image 20260724002122.png"
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Vampire.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Demigod.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Shapeshifter.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Reanimated.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Ghost.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Castle High.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/README.md",
+    "pdf_transform_extract/page_204.txt",
+    "pdf_transform_extract/page_203.txt",
+    "pdf_transform_extract/page_202.txt",
+    "pdf_transform_extract/page_201.txt",
+    "pdf_transform_extract/page_200.txt",
+    "pdf_transform_extract/page_199.txt",
+    "pdf_transform_extract/page_198.txt",
+    "pdf_transform_extract/page_197.txt",
+    "pdf_transform_extract/page_196.txt",
+    "pdf_transform_extract/page_195.txt",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Urco.md",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Vampirismo.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Teurgia.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Martial Artist.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto della Furia.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Warborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Reborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Heathborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Frostborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Freeborne.md",
+    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Duneborne.md",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Ispirazione Divina.md",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Teriantropia.md",
+    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Gnome.md",
+    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Tidekin.md",
+    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Drakona.md",
+    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Earthkin.md",
+    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Aetheris.md",
+    "04_Risorse/Pictures/KAREVI.png",
+    "04_Risorse/Pictures/Pasted image 20260802121721.png",
+    "04_Risorse/Pictures/Pasted image 20260802121620.png",
+    "04_Risorse/Pictures/Pasted image 20260802121610.png",
+    "04_Risorse/Pictures/Pasted image 20260802121147.png",
+    "04_Risorse/Pictures/Pasted image 20260802121134.png",
+    "04_Risorse/Pictures/Wiloi.png",
+    "04_Risorse/Pictures/Urakian.png",
+    "04_Risorse/Pictures/Nuno.png",
+    "04_Risorse/Pictures/Klorrs.png",
+    "Senza nome.canvas"
   ]
 }
