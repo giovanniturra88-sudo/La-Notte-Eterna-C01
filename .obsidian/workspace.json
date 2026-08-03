@@ -11,14 +11,10 @@
             "id": "90b4530d476bbaba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Werewolf"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -106,7 +102,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,8 +197,8 @@
   },
   "active": "90b4530d476bbaba",
   "lastOpenFiles": [
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Vampire.md",
     "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
+    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Vampire.md",
     "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Demigod.md",
     "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Shapeshifter.md",
     "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Reanimated.md",
