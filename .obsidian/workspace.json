@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de7159446de9c1eb",
+        "id": "a48dd4a0a3e436d9",
         "type": "tabs",
         "children": [
           {
-            "id": "81509414dd0f6b05",
+            "id": "30f728cc147528bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Dashboard/Indice NPC.md",
+                "file": "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice NPC"
+              "title": "Abominio dei Regni Esterni"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Dashboard/Indice NPC.md",
+                "file": "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear/Entombed Skin Beetles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -121,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/Comunità/Mare Andante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/Comunità/Mare Andante.md",
+                "file": "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -178,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,46 +199,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "81509414dd0f6b05",
+  "active": "30f728cc147528bf",
   "lastOpenFiles": [
-    "00_Dashboard/Indice Luoghi.md",
-    "00_Dashboard/Indice Artefatti.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Buhragath.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Bruin Ashcroft.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Axrul II De Vaars.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Annie Rose-Robe.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/An'Rao IV.md",
-    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Agan.md",
-    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Arkanis delle Lame.md",
+    "06_Materiale_Notte_Eterna/Nemici/Akamud.md",
     "06_Materiale_Notte_Eterna/Nemici/Abaia.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Mago della Lama Seghettata.md",
     "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Ahuizotl.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Immensa Melma Verde.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Anguille Elettriche.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Vampire Bat Swarm.md",
-    "01_Lore/Geografia/Dominio delle Trame/Città delle Trame/Mercato degli Schiavi.md",
-    "01_Lore/Geografia/Dominio delle Trame/Città delle Trame/Cancello.md",
-    "01_Lore/Geografia/Cenere di Lanie/Placido Specchio di Ghyd.md",
-    "01_Lore/Geografia/Cenere di Lanie/Aej'Nagrizzt.md",
-    "01_Lore/Geografia/Cenere di Lanie/Cratere di Lava.md",
-    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart Hope and Fear/Abandoned Grove.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Mercenario.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Chicken-Foot Hut.md",
-    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart/Ambushed.md",
-    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart/Abandoned Grove.md",
-    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart Hope and Fear/Abandoned Mine.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/add_type.py",
+    "04_Risorse/Templates/Template Ancestry.md",
+    "04_Risorse/Templates/Template Avversario.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear/Entombed Necropriest.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear/Entombed Empress.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear/Entombed Elite Guard.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear/Elk.md",
+    "06_Materiale_Notte_Eterna/Nemici/Cacciatore di Anime.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Adepto Cultista.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Darkweave Queen.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Archmage.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Alto Serafino.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Agglomerato di Carcasse Zombie.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Adepto Cultista.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Divine Wielder.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Call of the Brave.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Beastbound.md",
+    "convert_remaining.py",
+    "convert_statblocks.py",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Zombie Perfezionato.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Zombie Muscoloso.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Zombie Marcio.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Zombie Barcollante.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart/Zanzare Giganti.md",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear",
+    "06_Materiale_Notte_Eterna/Nemici/DaggerHeart",
+    "convert_nemici.py",
+    "update_remaining_statblocks.py",
+    "check_and_add_statblocks.py",
+    "fix_statblocks_log.txt",
+    "fix_all_statblocks.py",
+    "06_Materiale_Notte_Eterna/Nemici/Kūkunnaz.md.check",
     "04_Risorse/Pictures/Pasted image 20260804014346.png",
-    "fix_environment_types.py",
     "Senza nome.canvas",
-    "pdf_transform_extract/page_204.txt",
-    "pdf_transform_extract/page_203.txt",
-    "pdf_transform_extract/page_202.txt",
-    "pdf_transform_extract/page_201.txt",
-    "pdf_transform_extract/page_200.txt",
-    "pdf_transform_extract/page_199.txt",
-    "pdf_transform_extract/page_198.txt",
-    "pdf_transform_extract/page_197.txt",
     "04_Risorse/Pictures/KAREVI.png",
     "04_Risorse/Pictures/Pasted image 20260802121721.png",
     "04_Risorse/Pictures/Pasted image 20260802121620.png",

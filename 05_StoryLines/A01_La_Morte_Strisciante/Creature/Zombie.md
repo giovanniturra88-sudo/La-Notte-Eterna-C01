@@ -28,5 +28,5 @@ I non morti sono una presenza sempre più diffusa a [[Neir]] e costituiscono una
 Servono come guardiani del covo di [[Silke]].  
 ## Collegamenti  
 - [[Silke]]  
-- [[Necromanzia]]  
+- [[Necromante]]  
 - [[La Morte Strisciante]]
