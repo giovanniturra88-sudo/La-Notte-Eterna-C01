@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Darkweave Spinner
 **Tier 1 Standard**
 

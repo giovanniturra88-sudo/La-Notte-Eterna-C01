@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Redcap Skinner
 **Tier 1 Minion**
 

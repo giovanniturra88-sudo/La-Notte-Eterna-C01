@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Wildriders_Saddle"]
 rarity: "Raro"
 original_rarity: "Rare"

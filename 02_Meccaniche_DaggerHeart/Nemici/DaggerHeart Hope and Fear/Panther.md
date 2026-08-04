@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Panther
 **Tier 1 Skulk**
 

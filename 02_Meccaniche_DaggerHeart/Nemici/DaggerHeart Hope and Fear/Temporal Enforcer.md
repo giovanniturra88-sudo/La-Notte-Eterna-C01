@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Temporal Enforcer
 *Tier 4 Bruiser*
 *A giant mechanical being from a dimension outside time, built by the Time Keepers to preserve the Holy Continuum.*

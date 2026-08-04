@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Urco
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A black-furred hound from beyond the veil of death that portends death and feeds on fear.

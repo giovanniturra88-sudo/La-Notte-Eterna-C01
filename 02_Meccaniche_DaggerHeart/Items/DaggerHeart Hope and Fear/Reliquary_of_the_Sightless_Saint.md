@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Reliquary_of_the_Sightless_Saint"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

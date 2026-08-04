@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Archmage
 - **Tipo / Ruolo:** Tier 3 Solo
 - **Descrizione:** A seeker of secret knowledge hidden away in a tome-filled tower.

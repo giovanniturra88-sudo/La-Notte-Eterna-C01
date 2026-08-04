@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Masque Muerte
 **Tier 1 Solo**
 

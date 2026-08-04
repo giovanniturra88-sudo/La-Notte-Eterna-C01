@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Titans_Girdle"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Force_Disc"]
 rarity: "Raro"
 original_rarity: "Rare"

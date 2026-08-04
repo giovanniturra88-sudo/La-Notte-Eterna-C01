@@ -2,7 +2,7 @@
 type:
   - "[[PNG]]"
 ---
-![[Pasted image 20260731103128.png|434]]
+![[Pasted image 20260731103128.png|700]]
 
 Spirito consacrato ai segreti più reconditi della foresta, Daahronat è il fiero capo della sua tribù. Allo schiudersi dell'uovo da cui nacque, lo sciamano della sua tribù predisse che Daahronat avrebbe riportato le razze a sangue freddo allo splendore di un tempo. La profezia si avverò quando, eletto nuovo sciamano della tribù, Daahronat ebbe una visione nella quale gli fu rivelato un elaborato rituale per il cui tramite una creatura a sangue freddo acquisisce la capacità soprannaturale, in forma permanente, di riscaldare il proprio sangue. Il rituale è piuttosto complesso e costoso in componenti arcane, per tale motivo solo i guerrieri più degni hanno il privilegio di esservi sottoposti.
 Daahronat disprezza le specie a sangue caldo, che giudica colpevoli, insieme ai loro sciocchi dèi, della scomparsa della stella. È per questo che i combattenti lucertoloidi non esitano a distruggere chiunque non si fregi di una pelle scagliosa. Le altre creature della foresta conoscono bene la mania di Daahronat e dei suoi seguaci, per questo motivo si mantengono alla larga dal territorio lucertoloide.

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Eclipse_Coin"]
 rarity: "Raro"
 original_rarity: "Rare"

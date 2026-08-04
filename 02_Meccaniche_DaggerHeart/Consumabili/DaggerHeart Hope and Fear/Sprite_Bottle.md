@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Sprite_Bottle"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

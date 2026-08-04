@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Falcon
 **Tier 1 Skulk**
 

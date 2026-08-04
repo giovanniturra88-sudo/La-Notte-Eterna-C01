@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Harbinger of Famine
 *Tier 4 Support*
 *A dried-out husk of a body riding atop a withered white horse. They are covered in mouths and surrounded by swarming flies.*

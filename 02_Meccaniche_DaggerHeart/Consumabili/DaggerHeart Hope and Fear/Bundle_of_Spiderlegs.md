@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Bundle_of_Spiderlegs"]
 rarity: "Comune"
 original_rarity: "Common"

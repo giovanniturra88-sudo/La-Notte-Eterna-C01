@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Dragon Knight
 **Tier 2 Bruiser**
 

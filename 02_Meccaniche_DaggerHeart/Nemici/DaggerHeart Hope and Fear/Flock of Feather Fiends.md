@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Flock of Feather Fiends
 - **Tipo / Ruolo:** Tier 2 Horde (3/HP)
 - **Descrizione:** A flock of undead crow corpses, eyes aglow with necroplasmic light.

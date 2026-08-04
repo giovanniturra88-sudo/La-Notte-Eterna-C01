@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Self-Tying_Rope"]
 rarity: "Comune"
 original_rarity: "Common"

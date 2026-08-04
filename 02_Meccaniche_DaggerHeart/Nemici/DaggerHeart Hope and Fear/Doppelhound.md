@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Doppelhound
 **Tier 2 Skulk**
 

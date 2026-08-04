@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Banshee
 **Tier 2 Skulk**
 

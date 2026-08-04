@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Harbinger of Pestilence
 *Tier 4 Leader*
 *A bloated and rotting agglomeration of wriggling insects and slugs formed into a single humanoid mass riding a worm-eaten horse.*

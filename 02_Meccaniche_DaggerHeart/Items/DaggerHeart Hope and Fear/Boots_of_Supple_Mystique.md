@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Boots_of_Supple_Mystique"]
 rarity: "Comune"
 original_rarity: "Common"

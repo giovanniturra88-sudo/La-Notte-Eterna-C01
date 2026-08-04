@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Spellbound Armor
 **Tier 1 Bruiser**
 

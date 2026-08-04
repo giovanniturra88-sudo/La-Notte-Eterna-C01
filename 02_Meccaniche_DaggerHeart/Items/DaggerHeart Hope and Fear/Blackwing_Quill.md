@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Blackwing_Quill"]
 rarity: "Comune"
 original_rarity: "Common"

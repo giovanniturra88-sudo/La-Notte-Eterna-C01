@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Hollowbark_Horn"]
 rarity: "Comune"
 original_rarity: "Common"

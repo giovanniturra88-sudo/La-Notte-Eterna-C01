@@ -1,3 +1,7 @@
+---
+type:
+  - "[[Environment]]"
+---
 # Local Festival
 *Tier 1 Social*
 *Commoners and nobles alike gather from the surrounding area for a weeklong celebration.*

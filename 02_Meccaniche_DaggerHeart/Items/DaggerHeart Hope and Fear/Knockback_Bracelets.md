@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Knockback_Bracelets"]
 rarity: "Raro"
 original_rarity: "Rare"

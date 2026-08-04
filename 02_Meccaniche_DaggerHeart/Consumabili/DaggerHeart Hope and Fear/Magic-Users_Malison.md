@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Magic-Users_Malison"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

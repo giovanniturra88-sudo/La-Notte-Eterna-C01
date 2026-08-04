@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Formoid_Serum"]
 rarity: "Raro"
 original_rarity: "Rare"

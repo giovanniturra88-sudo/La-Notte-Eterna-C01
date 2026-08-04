@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Phobophages_Circlet"]
 rarity: "Raro"
 original_rarity: "Rare"

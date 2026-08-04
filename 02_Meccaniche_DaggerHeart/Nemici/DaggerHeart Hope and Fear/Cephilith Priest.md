@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cephilith Priest
 *Tier 4 Leader*
 *A perpetually moist, faceless humanoid from the Outer Realms who has elongated fingers and translucent skin, under which one can see wriggling worms.*

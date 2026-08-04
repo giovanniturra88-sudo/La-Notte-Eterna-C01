@@ -3,7 +3,7 @@ type:
   - "[[PNG]]"
 ---
 
-![[nelen_pic.png|425]]
+![[nelen_pic.png|700]]
 
 Originaria della splendida città di [[Azkabel]], Nelen è dotata di un carisma fuori dal comune e ha una personalità amabile e generosa. Sin da bambina mostrò un’affinità arcana straordinaria, trovando però lo studio della magia soffocante. Con l'approvazione dei suoi genitori, abbandonò la scuola per coltivare il suo potere innato, cresciuto significativamente nel corso degli anni. Ha viaggiato attraverso i mondi giungendo alla conclusione che il suo potere non è solo un dono ma anche una responsabilità.
 Al calare della Notte Eterna su [[Neir]], la dea [[Lanie]] visitò la strega in una visione, predicendole la sua

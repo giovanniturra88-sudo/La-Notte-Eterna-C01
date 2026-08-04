@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Verglasian_Seed"]
 rarity: "Comune"
 original_rarity: "Common"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Rugaru
 **Tier 1 Solo**
 

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Plesiosaurus
 *Tier 3 Standard*
 *A canoe-length marine lizard that has a long neck and four flippers.*

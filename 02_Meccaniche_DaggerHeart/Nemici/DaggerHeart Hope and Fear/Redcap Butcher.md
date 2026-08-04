@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Redcap Butcher
 **Tier 1 Standard**
 

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Manticore
 *Tier 3 Solo*
 *A legendary beast that has a human's face, lion's body, scorpion's tail, and dragon's wings.*

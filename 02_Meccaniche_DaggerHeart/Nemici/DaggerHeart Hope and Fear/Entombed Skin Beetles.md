@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entombed Skin Beetles
 - **Tipo / Ruolo:** Tier 2 Horde (5/HP)
 - **Descrizione:** Flesh-eating beetles that burrow beneath the skin.

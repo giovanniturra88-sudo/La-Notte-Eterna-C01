@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Mossmantle_Potion"]
 rarity: "Comune"
 original_rarity: "Common"

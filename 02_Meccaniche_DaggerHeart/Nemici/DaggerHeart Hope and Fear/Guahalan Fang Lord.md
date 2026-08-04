@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Guahalan Fang Lord
 - **Tipo / Ruolo:** Tier 2 Leader
 - **Descrizione:** A shapeshifting warlord who leads a group of warriors into battle.

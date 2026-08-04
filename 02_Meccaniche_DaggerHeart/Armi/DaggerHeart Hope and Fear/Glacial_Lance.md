@@ -7,7 +7,7 @@ ingombro: "two-handed"
 tipo_danno: "fisica"
 tratto: "knowledge"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 2
 ruolo: "primaria"
 ---

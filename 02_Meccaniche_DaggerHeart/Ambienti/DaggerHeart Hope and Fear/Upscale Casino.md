@@ -1,19 +1,31 @@
+---
+type:
+  - "[[Environment]]"
+---
+
 # Upscale Casino
-*Tier 3 Social*
-*A glittering gambling hall where well-heeled merchants and nobles come to fritter away their fortunes.*
 
-**Impulses:** Dangle the jackpot just out of reach, dazzle them with spectacle, prey on their vices[cite: 2]
-**Difficulty:** 16[cite: 2]
-**Potential Adversaries:** Automated Security (Vault Guardians), Gamblers (Courtesan, Merchant Baron, Petty Noble, Spy)[cite: 2]
+**_Tier 3 Event._** _You step through the doors and enter a lavish, luxurious casino where high stakes are standard._
 
-## FEATURES
-* **Glitz & Glamor - Passive:** The overwhelming spectacle of this place can entrance even the most jaded patron[cite: 2]. While here, all PCs have disadvantage on reaction rolls caused by a staff member or regular patron of the casino[cite: 2].
-  * *What's so wondrous about the casino's trappings? Are they truly magical in nature or merely mundane wonders taken to an impossible extreme?*[cite: 2]
-* **Fortune Favors the Bold - Passive:** Once per long rest, a PC can gamble any amount of gold by stating how much they want to wager and rolling their Hope Die[cite: 2]. On a result of 7 or higher, the PC wins an equal amount, doubling their money[cite: 2]. On a result of 6 or lower, they lose it all[cite: 2].
-  * *What game does the PC choose to play? What house rules does this casino have? Is there anything besides gold the PCs are willing to risk?*[cite: 2]
-* **The House Always Wins - Reaction:** When an adversary fails a roll, you can spend a Fear to make it a success instead[cite: 2].
-  * *Is this place blessed with impossible fortune, or does something curse anyone who steps through its doors?*[cite: 2]
-* **Automated Security - Reaction:** When a PC attempts to cheat at a game in the casino and fails, they must mark a Stress as they activate the casino's mechanical security detail[cite: 2]. Gain a Fear and summon one Vault Guardian Gaoler and Turret for each PC, plus a Vault Guardian Sentinel[cite: 2]. All adversaries appear within Far range of the PCs, and the Vault Guardian Sentinel immediately takes the spotlight[cite: 2].
-  * *Who built these machines? Why are they preferable to living beings?*[cite: 2]
-* **The Devil's Playground - Reaction:** If the PCs defeat the casino's automated security or try to leave with stolen winnings, you can spend an amount of Fear equal to the number of PCs to summon the casino's true owner, a Demon of Avarice, within Close range of a PC[cite: 2]. The Demon is immediately spotlighted and bars the party's exit at all costs[cite: 2].
-  * *How did the demon mask their influence until now? How does the casino itself change to reveal its true nature?*[cite: 2]
+- **Impulses:** Give them exactly what they want, offer a tempting deal, reveal their debts to the house
+- **Difficulty:** 16
+- **Potential Adversaries:** Croupier (Warrior), Dealer (Adept), Pit Boss (Controller), Bouncer (Brute)
+
+### FEATURES
+
+**_House Rules - Passive:_** These are not your normal rules. At the start of any scene, reveal one House Rule from the table below. You can swap them as you wish for your own custom ones. _Have you ever played a game where the rules seemed to favor the house? Why do some people gamble when they know the odds are stacked against them?_
+
+| d6 | House Rule |
+|---|---|
+| 1 | When rolling with Fear, roll two dice and take the highest. |
+| 2 | You must always roll all six dice. If there aren't enough Fate Dice to fill a pool, you can use Stress instead (e.g., if you have four Fate Dice and need six, add two Stress). |
+| 3 | Whenever a PC marks Stress, they mark an additional Stress. |
+| 4 | When a GM move triggers the loss of Fate Dice, that many Stress are marked instead. |
+| 5 | If you lose your entire pool of Fate Dice in a single roll, you must immediately make a death move as if you had been defeated. |
+| 6 | You may not spend Hope to regain Fate Dice. |
+
+**_The House Always Wins - Passive:_** All stakes and wagers made here are automatically made against the house, rather than any individual. _What kind of games are available? What happens when someone wins a particularly large amount?_
+
+**_High Roller's Lounge - Passive:_** A PC can make a Presence Roll to negotiate with high rollers in their attempts to win back what they've lost. On a success, the PC either recovers some Stress or Fate Dice that were marked or lost as part of a wager earlier in the scene. _Who has been here before? What happened while they were here?_
+
+**_The House Fights Back - Action:_** Spend a Fear to have the pit boss activate the casino's anti-magic field, nullifying any magical abilities and giving all adversaries advantage on their rolls until the end of the next scene. A PC can make an Instinct or Knowledge Roll to disable it early. _How is this place protected? Why has this rule been added?_

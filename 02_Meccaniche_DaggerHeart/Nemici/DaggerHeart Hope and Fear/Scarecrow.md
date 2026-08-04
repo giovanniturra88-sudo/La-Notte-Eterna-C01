@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Scarecrow
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A bundle of straw bound into a humanoid shape, clothed in rags, and animated by a trapped soul.

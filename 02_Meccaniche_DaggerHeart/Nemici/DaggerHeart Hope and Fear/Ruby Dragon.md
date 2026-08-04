@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Ruby Dragon
 *Tier 4 Standard*
 *A huge winged dragon that has visible flames beneath its glittering, gem-encrusted scales. Its body heat melts stone.*

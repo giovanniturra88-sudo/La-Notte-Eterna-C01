@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Waxwork Creation
 **Tier 1 Solo**
 

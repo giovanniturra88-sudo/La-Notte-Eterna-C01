@@ -3,7 +3,7 @@ type:
   - "[[PNG]]"
 ---
 
-![[Pasted image 20260712155004.png|404]]
+![[Pasted image 20260712155004.png|700]]
 
 Bruin Ashcroft è un uomo scaltro e ingegnoso. Ha quarant'anni ma ne dimostra molti di più: le vicissitudini giovanili e le aspre contese politiche disputate in senato hanno temprato il suo carattere al punto da conferirgli il soprannome “di ferro”.
 L'astuzia del nobile ha giocato un ruolo cruciale nell'espansione mercantilistica della Repubblica. Bruin ha rafforzato i legami tra le colonie della [[Baia di Redoro]] e [[Mendulia's Rock]] attraverso la [[Compagnia del Gonfalone Azzurro]], aprendo nuovi mercati per opera di persuasione e, se necessario, con l'uso della forza, arrivando persino a compiere atti di pirateria.

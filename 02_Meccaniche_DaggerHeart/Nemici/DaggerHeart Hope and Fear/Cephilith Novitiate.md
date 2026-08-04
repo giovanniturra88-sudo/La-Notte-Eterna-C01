@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cephilith Novitiate
 *Tier 4 Minion*
 *A luminary of the Mortal Realm who has given their mind to extradimensional entities in exchange for eldritch abilities.*

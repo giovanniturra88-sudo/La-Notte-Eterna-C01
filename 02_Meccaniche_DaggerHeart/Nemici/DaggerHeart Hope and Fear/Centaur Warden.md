@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Centaur Warden
 **Tier 2 Ranged**
 

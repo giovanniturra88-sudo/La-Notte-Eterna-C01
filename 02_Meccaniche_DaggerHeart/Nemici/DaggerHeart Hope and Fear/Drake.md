@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Drake
 *Tier 3 Skulk*
 *A clawed quadruped that has a scaled, serpentine body and a willingness to serve its cousins, the dragons.*

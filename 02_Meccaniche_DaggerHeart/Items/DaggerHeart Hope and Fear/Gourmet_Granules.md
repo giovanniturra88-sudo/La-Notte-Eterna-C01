@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Gourmet_Granules"]
 rarity: "Comune"
 original_rarity: "Common"

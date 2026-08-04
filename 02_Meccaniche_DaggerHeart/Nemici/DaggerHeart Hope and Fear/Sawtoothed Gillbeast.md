@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Sawtoothed Gillbeast
 **Tier 1 Standard**
 

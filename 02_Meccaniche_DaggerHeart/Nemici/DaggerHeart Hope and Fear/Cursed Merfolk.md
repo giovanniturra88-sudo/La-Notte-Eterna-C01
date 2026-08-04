@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cursed Merfolk
 *Tier 3 Standard*
 *A half-fish, half-human creature psychically bound to serve the Deep Dwellers.*

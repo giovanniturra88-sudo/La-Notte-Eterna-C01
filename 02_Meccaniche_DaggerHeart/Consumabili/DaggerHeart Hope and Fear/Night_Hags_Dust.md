@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Night_Hags_Dust"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Berserkers_Brew"]
 rarity: "Raro"
 original_rarity: "Rare"

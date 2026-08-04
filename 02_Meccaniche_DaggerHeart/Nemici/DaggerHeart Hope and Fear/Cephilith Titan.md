@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cephilith Titan
 *Tier 4 Solo*
 *A transdimensional entity in the form of an impassibly large, winged humanoid with an octopus-shaped head and rows of glowing eyes.*

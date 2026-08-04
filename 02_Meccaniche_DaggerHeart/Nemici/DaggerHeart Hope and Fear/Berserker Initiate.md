@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Berserker Initiate
 **Tier 2 Standard**
 

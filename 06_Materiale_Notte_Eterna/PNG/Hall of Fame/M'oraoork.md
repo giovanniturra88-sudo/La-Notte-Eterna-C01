@@ -3,7 +3,7 @@ type:
   - "[[PNG]]"
 ---
 
-![[Pasted image 20260713162553.png|469]]
+![[Pasted image 20260713162553.png|700]]
 
 Nato deforme, il Gran Sacerdote di [[Garod]], M'oraoork, ha subito dalla propria famiglia un trattamento peggiore di quello riservato a uno schiavo. Per anni è rimasto rinchiuso nelle segrete del palazzo-sfera di famiglia, nutrito solo con avanzi o peggio. L'oscurità, il lerciume e l'umidità della prigione hanno reso il suo aspetto sempre più spaventoso, trasformandolo in una presenza repellente che i suoi genitori e fratelli chiamavano semplicemente "la cosa". La via di fuga dalla miseria della sua esistenza si presentò quando furono necessari lavori strutturali alle fondamenta del palazzo.
 Quando il padre di M'oraoork scese nelle segrete per catturare "la cosa" e finalmente sbarazzarsene, il giovane uomo scatenò tutta la frustrazione e l'angoscia accumulata durante anni di prigionia. Uccise selvaggiamente il padre con le unghie cresciute a dismisura e che aveva affilato come pugnali per catturare gli sventurati ratti che gli capitavano a tiro. Compiuto il delitto, M'oraoork non perse tempo a fuggire, selvaggio e ingenuo come una bestia, a malapena capace di riconoscere ciò che vedeva. Una volta fuori dal palazzo trovò rifugio nel vasto complesso fognario della [[Gloriosa Ezakran]] per mesi, e solo con il tempo iniziò ad avventurarsi all'esterno sempre più di frequente.

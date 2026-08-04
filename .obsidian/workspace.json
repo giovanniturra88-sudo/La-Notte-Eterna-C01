@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22f7c2bab733e1c3",
+        "id": "de7159446de9c1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "90b4530d476bbaba",
+            "id": "81509414dd0f6b05",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/Indice NPC.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice NPC"
             }
           }
         ]
@@ -102,6 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00_Dashboard/Indice NPC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +200,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "90b4530d476bbaba",
+  "active": "81509414dd0f6b05",
   "lastOpenFiles": [
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Werewolf.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Vampire.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Demigod.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Shapeshifter.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Reanimated.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/Ghost.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Castle High.md",
-    "02_Meccaniche_DaggerHeart/Trasformazioni_e_Corruzione/README.md",
+    "00_Dashboard/Indice Luoghi.md",
+    "00_Dashboard/Indice Artefatti.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Buhragath.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Bruin Ashcroft.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Axrul II De Vaars.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Annie Rose-Robe.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/An'Rao IV.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Agan.md",
+    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Arkanis delle Lame.md",
+    "06_Materiale_Notte_Eterna/Nemici/Abaia.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Mago della Lama Seghettata.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Ahuizotl.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Immensa Melma Verde.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Anguille Elettriche.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Vampire Bat Swarm.md",
+    "01_Lore/Geografia/Dominio delle Trame/Città delle Trame/Mercato degli Schiavi.md",
+    "01_Lore/Geografia/Dominio delle Trame/Città delle Trame/Cancello.md",
+    "01_Lore/Geografia/Cenere di Lanie/Placido Specchio di Ghyd.md",
+    "01_Lore/Geografia/Cenere di Lanie/Aej'Nagrizzt.md",
+    "01_Lore/Geografia/Cenere di Lanie/Cratere di Lava.md",
+    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart Hope and Fear/Abandoned Grove.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Mercenario.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Chicken-Foot Hut.md",
+    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart/Ambushed.md",
+    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart/Abandoned Grove.md",
+    "02_Meccaniche_DaggerHeart/Ambienti/DaggerHeart Hope and Fear/Abandoned Mine.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/add_type.py",
+    "04_Risorse/Pictures/Pasted image 20260804014346.png",
+    "fix_environment_types.py",
+    "Senza nome.canvas",
     "pdf_transform_extract/page_204.txt",
     "pdf_transform_extract/page_203.txt",
     "pdf_transform_extract/page_202.txt",
@@ -213,26 +240,6 @@
     "pdf_transform_extract/page_199.txt",
     "pdf_transform_extract/page_198.txt",
     "pdf_transform_extract/page_197.txt",
-    "pdf_transform_extract/page_196.txt",
-    "pdf_transform_extract/page_195.txt",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Urco.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Vampirismo.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Teurgia.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Martial Artist.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto della Furia.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Warborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Reborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Heathborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Frostborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Freeborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Duneborne.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Ispirazione Divina.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Teriantropia.md",
-    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Gnome.md",
-    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Tidekin.md",
-    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Drakona.md",
-    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Earthkin.md",
-    "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Aetheris.md",
     "04_Risorse/Pictures/KAREVI.png",
     "04_Risorse/Pictures/Pasted image 20260802121721.png",
     "04_Risorse/Pictures/Pasted image 20260802121620.png",
@@ -241,8 +248,6 @@
     "04_Risorse/Pictures/Pasted image 20260802121134.png",
     "04_Risorse/Pictures/Wiloi.png",
     "04_Risorse/Pictures/Urakian.png",
-    "04_Risorse/Pictures/Nuno.png",
-    "04_Risorse/Pictures/Klorrs.png",
-    "Senza nome.canvas"
+    "04_Risorse/Pictures/Nuno.png"
   ]
 }

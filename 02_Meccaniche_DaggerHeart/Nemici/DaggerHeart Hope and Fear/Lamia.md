@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Lamia
 *Tier 3 Skulk*
 *A snake-tailed humanoid monster who stalks the night to absorb the life energy of sleeping people.*

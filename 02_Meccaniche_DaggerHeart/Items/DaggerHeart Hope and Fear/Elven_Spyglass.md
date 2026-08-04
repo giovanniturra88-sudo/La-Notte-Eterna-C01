@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Elven_Spyglass"]
 rarity: "Comune"
 original_rarity: "Common"

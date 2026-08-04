@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entmbed Cat Beast
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A large undead humanoid skeleton with a panther's skull for a head.

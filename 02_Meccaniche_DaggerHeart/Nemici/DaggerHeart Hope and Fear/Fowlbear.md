@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Fowlbear
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A grizzly bear with a feathery hide and the head of a giant goose.

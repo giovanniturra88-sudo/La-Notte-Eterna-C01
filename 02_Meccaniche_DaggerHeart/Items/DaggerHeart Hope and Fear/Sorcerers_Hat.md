@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Sorcerers_Hat"]
 rarity: "Raro"
 original_rarity: "Rare"

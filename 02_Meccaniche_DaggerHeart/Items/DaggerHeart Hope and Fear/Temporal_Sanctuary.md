@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Temporal_Sanctuary"]
 rarity: "Raro"
 original_rarity: "Rare"

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Potion_of_Vigilance"]
 rarity: "Raro"
 original_rarity: "Rare"

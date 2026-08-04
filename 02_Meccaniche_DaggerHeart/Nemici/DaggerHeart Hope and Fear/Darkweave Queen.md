@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Darkweave Queen
 **Tier 1 Solo**
 

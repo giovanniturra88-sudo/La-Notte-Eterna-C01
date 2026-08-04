@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Viscera Sucker
 *Tier 3 Skulk*
 *A vampiric demon whose upper body detaches at sundown to fly through nearby villages in search of victims. It has a winged upper body with hanging entrails.*

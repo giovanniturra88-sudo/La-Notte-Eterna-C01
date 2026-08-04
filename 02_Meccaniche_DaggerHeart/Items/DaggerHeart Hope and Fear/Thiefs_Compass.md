@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Thiefs_Compass"]
 rarity: "Comune"
 original_rarity: "Common"

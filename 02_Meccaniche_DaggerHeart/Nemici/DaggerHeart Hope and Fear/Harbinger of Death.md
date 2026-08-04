@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Harbinger of Death
 *Tier 4 Skulk*
 *A desiccated corpse riding atop a skeletal horse. Their eyes are sewn shut and their body is wrapped in a burial shroud of dust and ash.*

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Wyrmlings
 *Tier 4 Horde (3/HP)*
 *A clutch of newly hatched dragons. As newborns, they're furious, hungry, and stupid.*

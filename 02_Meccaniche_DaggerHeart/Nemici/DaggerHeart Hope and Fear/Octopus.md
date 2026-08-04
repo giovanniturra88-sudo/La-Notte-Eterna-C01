@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Octopus
 **Tier 1 Skulk**
 

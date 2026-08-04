@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Hill Titan
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A goliath clad in animal skins and surrounded by a swarm of insects.

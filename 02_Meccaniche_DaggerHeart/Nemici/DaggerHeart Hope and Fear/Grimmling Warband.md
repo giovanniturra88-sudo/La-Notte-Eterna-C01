@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Grimmling Warband
 **Tier 1 Horde (4/HP)**
 

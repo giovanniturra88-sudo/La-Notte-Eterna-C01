@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Pain Priest
 *Tier 3 Social*
 *A member of an other-dimensional religious order devoted to exploring the boundaries of mortal suffering and ecstasy.*

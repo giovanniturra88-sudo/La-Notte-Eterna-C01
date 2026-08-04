@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Dire Pangolati
 **Tier 2 Bruiser**
 

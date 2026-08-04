@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Giant Octopus
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A monstrous, aquatic mollusk that has eight sucker-bearing arms and a hard, beaklike jaw.

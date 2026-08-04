@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Griffin
 *Tier 4 Standard*
 *A large leonine creature that has the head, talons, and wings of an eagle.*

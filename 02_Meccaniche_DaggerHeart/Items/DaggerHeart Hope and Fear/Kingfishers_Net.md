@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Kingfishers_Net"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

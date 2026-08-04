@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Timekeepers_Pendant"]
 rarity: "Raro"
 original_rarity: "Rare"

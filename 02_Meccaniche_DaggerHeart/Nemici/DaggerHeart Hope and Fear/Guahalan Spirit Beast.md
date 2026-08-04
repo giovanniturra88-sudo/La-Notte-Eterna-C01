@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Guahalan Spirit Beast
 - **Tipo / Ruolo:** Tier 2 Minion
 - **Descrizione:** A brightly colored spirit in the shape of an animal.

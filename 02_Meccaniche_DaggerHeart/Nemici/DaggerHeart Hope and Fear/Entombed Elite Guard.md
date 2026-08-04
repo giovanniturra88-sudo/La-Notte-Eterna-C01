@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entombed Elite Guard
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** An elite undead soldier buried with their empress to defend the tomb from theft and desecration.

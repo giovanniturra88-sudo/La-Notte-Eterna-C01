@@ -7,7 +7,7 @@ ingombro: "one-handed"
 tipo_danno: "fisica"
 tratto: "instinct"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 2
 ruolo: "secondaria"
 ---

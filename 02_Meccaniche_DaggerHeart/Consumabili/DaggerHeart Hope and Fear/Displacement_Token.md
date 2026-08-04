@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Displacement_Token"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

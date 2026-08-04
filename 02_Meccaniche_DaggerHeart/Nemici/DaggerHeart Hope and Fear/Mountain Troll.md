@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Mountain Troll
 **Tier 1 Solo**
 

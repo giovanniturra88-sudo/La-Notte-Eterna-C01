@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Box_of_Dragon_Dust"]
 rarity: "Comune"
 original_rarity: "Common"

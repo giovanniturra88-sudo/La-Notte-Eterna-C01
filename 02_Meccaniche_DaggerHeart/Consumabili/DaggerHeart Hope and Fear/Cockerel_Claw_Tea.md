@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Cockerel_Claw_Tea"]
 rarity: "Raro"
 original_rarity: "Rare"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Ravenous Mockery
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A shapeshifting predator that assumes the appearance of inanimate objects to lure unwary prey into its threat range.

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Dagginaes_Obsidian_Slate"]
 rarity: "Raro"
 original_rarity: "Rare"

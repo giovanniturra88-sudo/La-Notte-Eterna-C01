@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Severed Shadow
 *Tier 4 Minion*
 *A two-dimensional living shadow bound to flat planes and surfaces.*

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Zephyrs_Jar"]
 rarity: "Comune"
 original_rarity: "Common"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Bugbear
 **Tier 1 Bruiser**
 

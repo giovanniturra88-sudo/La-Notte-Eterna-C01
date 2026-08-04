@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Demiurges_Draught"]
 rarity: "Raro"
 original_rarity: "Rare"

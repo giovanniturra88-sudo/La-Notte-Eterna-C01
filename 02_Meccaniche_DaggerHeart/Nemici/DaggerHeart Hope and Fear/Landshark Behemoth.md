@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Landshark Behemoth
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A landshark that's lived long enough to become a large burrowing monstrosity with steely hide and razor-sharp teeth.

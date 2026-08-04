@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Mandragorian_Torch"]
 rarity: "Comune"
 original_rarity: "Common"

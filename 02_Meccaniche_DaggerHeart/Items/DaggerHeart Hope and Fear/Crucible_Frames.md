@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Crucible_Frames"]
 rarity: "Raro"
 original_rarity: "Rare"

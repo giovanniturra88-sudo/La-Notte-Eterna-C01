@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Supreme Demiurge Adonix
 *Tier 4 Solo*
 *The four-faced angel from the Hallows Above who manifests in the Mortal Realm as a floating tetrahedron with numerous eyes and multiple sets of metallic feathered wings.*

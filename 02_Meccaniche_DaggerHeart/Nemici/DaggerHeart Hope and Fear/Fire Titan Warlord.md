@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Fire Titan Warlord
 *Tier 4 Leader*
 *A smoldering, battle-obsessed goliath wearing bespoke armor and wielding a massive maul.*

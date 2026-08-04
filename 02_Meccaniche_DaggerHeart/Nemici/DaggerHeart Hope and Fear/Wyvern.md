@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Wyvern
 *Tier 3 Standard*
 *A two-legged dragon that flies from its mountaintop aerie to devour livestock.*

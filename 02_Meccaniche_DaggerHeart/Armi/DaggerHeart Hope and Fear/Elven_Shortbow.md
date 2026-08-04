@@ -7,7 +7,7 @@ ingombro: "two-handed"
 tipo_danno: "fisica"
 tratto: "agility"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 1
 ruolo: "primaria"
 ---

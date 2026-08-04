@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Soul-Twin_Circlets"]
 rarity: "Raro"
 original_rarity: "Rare"

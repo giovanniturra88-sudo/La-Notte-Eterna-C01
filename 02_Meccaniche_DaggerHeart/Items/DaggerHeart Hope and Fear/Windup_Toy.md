@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Windup_Toy"]
 rarity: "Comune"
 original_rarity: "Common"

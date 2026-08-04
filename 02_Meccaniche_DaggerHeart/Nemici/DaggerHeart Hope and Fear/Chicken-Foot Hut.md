@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Chicken-Foot Hut
 **Tier 2 Bruiser**
 

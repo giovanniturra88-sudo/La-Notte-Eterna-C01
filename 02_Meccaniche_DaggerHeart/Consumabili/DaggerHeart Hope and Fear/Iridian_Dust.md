@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Iridian_Dust"]
 rarity: "Comune"
 original_rarity: "Common"

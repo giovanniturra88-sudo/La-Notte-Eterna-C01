@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Hallowed Choir
 *Tier 4 Horde (6/HP)*
 *A heavenly host of winged humanoids whose song calls forth tears of religious awe.*

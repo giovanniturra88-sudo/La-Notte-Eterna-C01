@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Gloves_of_Alacrity"]
 rarity: "Raro"
 original_rarity: "Rare"

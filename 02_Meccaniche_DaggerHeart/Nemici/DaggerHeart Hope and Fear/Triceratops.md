@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Triceratops
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A large dinosaur that has an armored frill and three horns.

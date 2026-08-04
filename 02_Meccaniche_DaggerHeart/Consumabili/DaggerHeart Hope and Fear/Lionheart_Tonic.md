@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Lionheart_Tonic"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

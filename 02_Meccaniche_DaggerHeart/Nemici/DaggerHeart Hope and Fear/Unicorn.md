@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Unicorn
 *Tier 3 Standard*
 *A celestial avatar of goodness in the form of a preternaturally beautiful horse with a long, spiraled horn emerging from its head.*

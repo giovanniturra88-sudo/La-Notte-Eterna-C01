@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Ball_Bearings"]
 rarity: "Comune"
 original_rarity: "Common"

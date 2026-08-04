@@ -4,7 +4,7 @@ type:
 aliases:
   - Shagas-kin
 ---
-![[Pasted image 20260730172201.png|368]]
+![[Pasted image 20260730172201.png|700]]
 
 Protettrice dell'Imperatore [[An'Rao IV]], Ziria è un'erinni dall'intelligenza fuori dal comune: è astuta e sa usare la sua irresistibile bellezza sempre a proprio vantaggio. La storia della sua scalata al potere iniziò migliaia di anni fa, quando da semplice guardiana della dimora di [[Garod]] iniziò una rapida ascesa nella corte del dio fino a diventarne una delle concubine preferite e a raggiungere la carica di Generalessa Suprema della sua guardia armata. Le particolari attenzioni che il Tiranno riservava a Ziria finirono però per scatenare la gelosia di Bladifria, la prima concubina di [[Garod]]; grazie a un potente incantesimo di costrizione, quest'ultima costrinse l'erinni a rivelarle il suo vero nome: [[Ziria|Shagas-kin]], "sospiro di morte" in lingua infernale. Con un altro incantesimo, incise il vero nome dell'Immonda su un amuleto che donò a Garam, un anziano evocatore [[Karevi]], in cambio della sua anima. Il mortale evocò Ziria sul piano materiale, rendendola sua schiava.
 Durante gli anni di schiavitù, Ziria venne costretta a soddisfare tutti i perversi desideri di Garam e iniziò a covare un odio infinito nei confronti del suo padrone; la vita di un immondo è lunga, e l'erinni ne approfittò per apprendere le arti arcane e per preparare la sua vendetta nei confronti di Bladifria.

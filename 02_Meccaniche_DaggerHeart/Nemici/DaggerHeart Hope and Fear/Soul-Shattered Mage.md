@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Soul-Shattered Mage
 **Tier 1 Solo**
 

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entombed Empress
 - **Tipo / Ruolo:** Tier 2 Leader
 - **Descrizione:** The undead ruler of a forgotten realm. She's been given blasphemous funeral rites to prevent her soul from moving on.

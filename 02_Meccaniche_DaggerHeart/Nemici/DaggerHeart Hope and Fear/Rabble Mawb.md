@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Rabble Mawb
 **Tier 1 Horde (3/HP)**
 

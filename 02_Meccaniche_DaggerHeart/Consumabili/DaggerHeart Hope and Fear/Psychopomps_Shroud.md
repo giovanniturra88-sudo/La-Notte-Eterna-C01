@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Psychopomps_Shroud"]
 rarity: "Raro"
 original_rarity: "Rare"

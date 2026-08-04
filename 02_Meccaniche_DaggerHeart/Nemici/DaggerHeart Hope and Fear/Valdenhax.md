@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Valdenhax
 - **Tipo / Ruolo:** Tier 2 Leader
 - **Descrizione:** A malevolent forest hag who has long, mossy hair and flies through the air with an oversized mortar and pestle.

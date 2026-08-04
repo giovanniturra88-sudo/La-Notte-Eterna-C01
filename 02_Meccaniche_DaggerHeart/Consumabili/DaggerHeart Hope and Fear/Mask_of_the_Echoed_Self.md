@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Mask_of_the_Echoed_Self"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

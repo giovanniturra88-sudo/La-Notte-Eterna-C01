@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Redcap Biters
 **Tier 1 Horde (3/HP)**
 

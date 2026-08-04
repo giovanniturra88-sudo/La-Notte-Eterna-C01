@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Pipeweed"]
 rarity: "Comune"
 original_rarity: "Common"

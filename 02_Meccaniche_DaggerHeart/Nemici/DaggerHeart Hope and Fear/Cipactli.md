@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cipactli
 *Tier 4 Solo*
 *A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths.*

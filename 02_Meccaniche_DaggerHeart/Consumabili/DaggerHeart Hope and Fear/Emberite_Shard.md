@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Emberite_Shard"]
 rarity: "Raro"
 original_rarity: "Rare"

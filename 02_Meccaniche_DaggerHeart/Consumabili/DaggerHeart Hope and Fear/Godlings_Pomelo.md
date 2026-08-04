@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Godlings_Pomelo"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

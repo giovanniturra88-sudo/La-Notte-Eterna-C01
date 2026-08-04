@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Young Fire Dragon
 *Tier 3 Solo*
 *A crimson dragon with four powerful limbs and smoldering wings.*

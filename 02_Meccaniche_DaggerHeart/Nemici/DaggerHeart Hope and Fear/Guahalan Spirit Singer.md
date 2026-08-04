@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Guahalan Spirit Singer
 - **Tipo / Ruolo:** Tier 2 Support
 - **Descrizione:** A shapeshifting summoner who has animalistic features.

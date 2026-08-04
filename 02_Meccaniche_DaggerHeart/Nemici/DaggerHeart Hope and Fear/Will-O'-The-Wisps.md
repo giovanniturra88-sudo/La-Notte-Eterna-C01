@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Will-O'-The-Wisps
 **Tier 1 Horde (8/HP)**
 
