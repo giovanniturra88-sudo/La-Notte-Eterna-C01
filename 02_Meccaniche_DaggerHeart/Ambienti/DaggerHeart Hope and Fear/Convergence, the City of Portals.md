@@ -1,23 +1,28 @@
+---
+type:
+  - "[[Environment]]"
+---
+
 # Convergence, the City of Portals
-*Tier 4 Social*
-*A sprawling metropolis at the nexus of creation, where influential figures from across the realms gather.*
 
-**Impulses:** Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible[cite: 3]
-**Difficulty:** 20[cite: 3]
-**Potential Adversaries:** Power Players (Arch-Necromancer, Demon Lord Berzug, Fire Titan Warlord, High Seraph, Monarch, Oracle of Doom, Vampire Lord), Travelers and Residents (Any)[cite: 3]
+**_Tier 4 Social._** _A sprawling metropolis at the nexus of creation, where influential figures from across the realms gather._
 
-## FEATURES
-* **Impossibilities Abound - Passive:** Convergence is a nexus of gods, monsters, aliens, and all manner of dimension-hoppers[cite: 3]. Because mortal life is generally beneath these beings' concern, PCs have disadvantage on action rolls to influence them unless they have leverage against them or know what the NPC cares about[cite: 3].
-  * *What manner of being currently holds sway in the city? What strange customs do they practice? Which PC is most confused or offended by them, and which PC adopts these customs as their own?*[cite: 3]
-* **Into the Multiverse - Passive:** The city of Convergence has a portal or door to every realm of existence[cite: 3].
-  * *Where (or when) does the party want to go? Where is that portal located, and who controls that area?*[cite: 3]
-* **Infinite Inventory - Passive:** This city has the solution to any problem, if you can find it[cite: 3]. A PC seeking a particular item with wondrous properties can make an Instinct or Presence Roll to find it in the city's pandemonium marketplace[cite: 3].
-  * **Critical Success:** The PC finds the perfect item, and the merchant who has it only wants something the PC considers inconsequential in exchange[cite: 3].
-  * **Success with Hope:** The PC finds the perfect item and can exchange something of equal value for it[cite: 3].
-  * **Success with Fear:** The PC finds the perfect item, but the merchant who has it will only exchange it for something the party can't give them... yet[cite: 3].
-  * **Any Failure:** The PC must mark a Stress as they go on a wild goose chase but come up empty-handed[cite: 3]. The PC can mark an additional Stress to change this result into a success with Fear[cite: 3].
-  * *Who has the item the party needs? What do they want in return?*[cite: 3]
-* **Don't Make Waves - Passive:** Countdown (6)[cite: 3]. Because anything is possible in Convergence, the city maintains a labyrinthine bureaucracy that issues and enforces ordinances regarding all exchanges and interactions between the realms[cite: 3]. When the party arrives in Convergence, activate the countdown[cite: 3]. It ticks down when a PC does something that upsets the city's delicate political equilibrium[cite: 3]. When it triggers, the PCs become *Wanted* until they clear their names with the authorities[cite: 3]. When a *Wanted* PC rolls with Fear, you can summon 1d4 Temporal Enforcers who appear within Very Close range, immediately take the spotlight, and try to apprehend the party[cite: 3].
-  * *What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?*[cite: 3]
-* **An Offer You Can't Refuse - Action:** Convergence is home to a tenuous network of rival factions[cite: 3]. Spend a Fear to have one of them present the party with an easy solution to a difficult problem in exchange for their allegiance[cite: 3]. If the party refuses, each PC must mark a Stress, and they can't turn to that faction for help in the future[cite: 3].
-  * *Which faction offers the party their support? Who do they want the party to act against?*[cite: 3]
+- **Impulses:** Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible
+- **Difficulty:** 20
+- **Potential Adversaries:** Power Players (Arch-Necromancer, Demon Lord Berzug, Fire Titan Warlord, High Seraph, Monarch, Oracle of Doom, Vampire Lord), Travelers and Residents (Any)
+
+### FEATURES
+
+**_Impossibilities Abound - Passive:_** Convergence is a nexus of gods, monsters, aliens, and all manner of dimension-hoppers. Because mortal life is generally beneath these beings' concern, PCs have disadvantage on action rolls to influence them unless they have leverage against them or know what the NPC cares about. _What manner of being currently holds sway in the city? What strange customs do they practice? Which PC is most confused or offended by them, and which PC adopts these customs as their own?_
+
+**_Into the Multiverse - Passive:_** The city of Convergence has a portal or door to every realm of existence. _Where (or when) does the party want to go? Where is that portal located, and who controls that area?_
+
+**_Infinite Inventory - Passive:_** This city has the solution to any problem, if you can find it. A PC seeking a particular item with wondrous properties can make an Instinct or Presence Roll to find it in the city's pandemonium marketplace.
+- **Critical Success:** The PC finds the perfect item, and the merchant who has it only wants something the PC considers inconsequential in exchange.
+- **Success with Hope:** The PC finds the perfect item and can exchange something of equal value for it.
+- **Success with Fear:** The PC finds the perfect item, but the merchant who has it will only exchange it for something the party can't give them... yet.
+- **Any Failure:** The PC must mark a Stress as they go on a wild goose chase but come up empty-handed. The PC can mark an additional Stress to change this result into a success with Fear. _Who has the item the party needs? What do they want in return?_
+
+**_Don't Make Waves - Passive:_** Countdown (6). Because anything is possible in Convergence, the city maintains a labyrinthine bureaucracy that issues and enforces ordinances regarding all exchanges and interactions between the realms. When the party arrives in Convergence, activate the countdown. It ticks down when a PC does something that upsets the city's delicate political equilibrium. When it triggers, the PCs become _Wanted_ until they clear their names with the authorities. When a _Wanted_ PC rolls with Fear, you can summon 1d4 Temporal Enforcers who appear within Very Close range, immediately take the spotlight, and try to apprehend the party. _What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?_
+
+**_An Offer You Can't Refuse - Action:_** Convergence is home to a tenuous network of rival factions. Spend a Fear to have one of them present the party with an easy solution to a difficult problem in exchange for their allegiance. If the party refuses, each PC must mark a Stress, and they can't turn to that faction for help in the future. _Which faction offers the party their support? Who do they want the party to act against?_

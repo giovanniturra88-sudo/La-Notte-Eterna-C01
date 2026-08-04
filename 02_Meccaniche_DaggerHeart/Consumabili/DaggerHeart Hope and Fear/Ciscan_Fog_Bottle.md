@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Ciscan_Fog_Bottle"]
 rarity: "Comune"
 original_rarity: "Common"

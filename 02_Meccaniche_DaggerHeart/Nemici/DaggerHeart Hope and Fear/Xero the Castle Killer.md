@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Xero the Castle Killer
 *Tier 4 Solo*
 *A castle-sized, bipedal reptile.*

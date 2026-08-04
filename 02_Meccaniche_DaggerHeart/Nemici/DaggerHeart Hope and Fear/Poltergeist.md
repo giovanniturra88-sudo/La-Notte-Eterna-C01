@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Poltergeist
 **Tier 1 Ranged**
 

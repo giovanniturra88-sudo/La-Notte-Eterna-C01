@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Harbinger of War
 *Tier 4 Bruiser*
 *A warrior clad in black armor and a horned helmet and bearing a bloody banner.*

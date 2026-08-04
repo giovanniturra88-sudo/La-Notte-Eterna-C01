@@ -17,6 +17,6 @@ type:
 
 **_Raze and Pillage - Action:_** The attacking force raises the stakes by lighting a fire, stealing a valuable asset, kidnapping an important person, or killing the populace. _What is valuable here? Who is most vulnerable?_
 
-**_War Magic - Action:_** **Spend a Fear** as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within Very Far range of the mage. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take **3d12+8** magic damage and must mark a Stress. _What form does the attack take—fireball, raining acid, a storm of blades? What tactical objective is this attack meant to accomplish, and what comes next?_
+**_War Magic - Action:_** **Spend a Fear** as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within Very Far range of the mage. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take **3d12+8** magic damage and must mark a Stress. _What form does the attack takeâ€”fireball, raining acid, a storm of blades? What tactical objective is this attack meant to accomplish, and what comes next?_
 
 **_Reinforcements! - Action:_** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight. _Who are they targeting first? What formation do they take?_

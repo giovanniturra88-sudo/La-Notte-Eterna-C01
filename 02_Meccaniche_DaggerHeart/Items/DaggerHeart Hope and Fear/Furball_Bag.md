@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Furball_Bag"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

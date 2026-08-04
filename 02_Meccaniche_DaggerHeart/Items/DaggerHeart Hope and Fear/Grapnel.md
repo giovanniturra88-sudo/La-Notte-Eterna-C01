@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Grapnel"]
 rarity: "Comune"
 original_rarity: "Common"

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Drakemantle"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Necroprancers_Bell"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

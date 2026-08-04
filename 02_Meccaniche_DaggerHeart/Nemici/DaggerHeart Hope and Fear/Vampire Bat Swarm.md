@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Vampire Bat Swarm
 *Tier 3 Horde (5/HP)*
 *A cloud of blood-sucking bats.*

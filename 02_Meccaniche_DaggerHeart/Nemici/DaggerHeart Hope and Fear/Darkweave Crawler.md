@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Darkweave Crawler
 **Tier 1 Minion**
 

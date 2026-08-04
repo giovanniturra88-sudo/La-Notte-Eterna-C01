@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Slayers_Salt"]
 rarity: "Comune"
 original_rarity: "Common"

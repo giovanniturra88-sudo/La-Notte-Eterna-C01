@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Phoenix
 *Tier 3 Ranged*
 *A huge eagle that's made of magical flame, impossible to kill, and hunted for its healing plumage.*

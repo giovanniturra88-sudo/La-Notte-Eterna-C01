@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Featherstep_Potion"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

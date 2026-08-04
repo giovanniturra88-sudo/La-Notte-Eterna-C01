@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Jack-O'-Lantern
 - **Tipo / Ruolo:** Tier 2 Minion
 - **Descrizione:** A floating pumpkin or other gourd that has a face carved into it. The soul trapped within it emits an eerie glow.

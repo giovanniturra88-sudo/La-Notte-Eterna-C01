@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Iron_Veil"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

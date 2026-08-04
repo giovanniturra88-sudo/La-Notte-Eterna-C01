@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Warp_Pendant"]
 rarity: "Raro"
 original_rarity: "Rare"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Owl Witch
 *Tier 4 Support*
 *A giant, vengeful barn owl that has a 15-foot wingspan and a human face.*

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Rust eater
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A pony-sized cockroach coated in a corrosive chitin that turns metal into rust.

@@ -49,7 +49,7 @@ Gli urakian seguono il ritmo delle stagioni: degli accoppiamenti, della migrazio
 Le virtù guerriere sono tenute in alta considerazione nella cultura primitiva degli urakian. Sin da cuccioli gli vengono impartite due fondamentali lezioni: è l'unione a fare la forza ed è il più forte a comandare. Per quanto possano sembrare paradossali, le due regole sono strettamente legate l'una all'altra.
 ## Luoghi Rilevanti
 - [[Cratere di Lava]]
-- [[Distese Nuvolose di Aej'Nagrizzt]]
+- [[Aej'Nagrizzt]]
 - [[Placido Specchio di Ghyd]]
 ## Spunti per Avventure
 - Una banda di schiavisti zeyd scorrazza liberamente per il deserto uccidendo e imprigionando decine di urakian.

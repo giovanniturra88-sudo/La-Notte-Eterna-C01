@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Catrin
 - **Tipo / Ruolo:** Tier 3 Social
 - **Descrizione:** A lavishly adorned skeleton that has an endless appetite for gold.

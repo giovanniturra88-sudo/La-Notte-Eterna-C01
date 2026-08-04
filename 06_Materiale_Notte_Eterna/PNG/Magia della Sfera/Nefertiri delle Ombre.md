@@ -2,7 +2,7 @@
 type:
   - "[[PNG]]"
 ---
-![[Pasted image 20260801175450.png|443]]
+![[Pasted image 20260801175450.png|700]]
 # NEFERTIRI DELLE OMBRE
 *La Danzatrice del Crepuscolo*
 

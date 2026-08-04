@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cephilith Abomination
 *Tier 4 Bruiser*
 *A lumbering, bog-grown frog beast that has tadpole-like leeches visibly wriggling underneath their translucent skin.*

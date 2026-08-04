@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Mechanorb
 **Tier 1 Standard**
 

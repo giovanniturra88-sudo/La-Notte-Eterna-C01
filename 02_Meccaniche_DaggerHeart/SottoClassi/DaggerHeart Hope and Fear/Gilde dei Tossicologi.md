@@ -1,5 +1,5 @@
 ---
-type: SottoClasse
+type: "[[SottoClassi]]"
 ---
 
 Sei un assassino che ha scelto il percorso della Gilde dei Tossicologi.

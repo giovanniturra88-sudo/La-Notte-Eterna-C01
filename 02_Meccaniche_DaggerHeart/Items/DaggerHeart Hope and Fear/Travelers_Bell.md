@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Travelers_Bell"]
 rarity: "Comune"
 original_rarity: "Common"

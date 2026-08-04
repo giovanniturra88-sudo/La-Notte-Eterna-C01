@@ -2,7 +2,7 @@
 type:
   - "[[PNG]]"
 ---
-![[Pasted image 20260731103737.png|385]]
+![[Pasted image 20260731103737.png|700]]
 
 Le immense ricchezze sepolte tra le rovine di [[Gundazar]] non costituiscono l'unica attrattiva della regione. Tra gli avventurieri più esperti c'è chi non cede alle lusinghe dell'oro, preferendo rischiare la pelle per qualcosa di più prezioso. Secondo una leggenda, tra le sinistre rovine di [[Gundazar]] si celerebbe il tesoro che ricchi e potenti di [[Neir]] anelano dall'inizio dei tempi: il dono della vita eterna.
 Il latore di questo dono sarebbe il famoso (o famigerato) Efneriom. Costui era il Gran Sacerdote di una setta messianica che profetizzava l'avvento della Notte Eterna. Quando gli hjilaki conquistarono [[Gundazar]] (3 N.E.), del sacerdote si perse ogni traccia. Nella sconsiderata mattanza che segui la capitolazione della città, in molti lo diedero semplicemente per spacciato. Si diffusero notizie secondo cui gli insaziabili vampiri avessero *«... banchettato con le sue viscere e versato il suo sangue in calici d’oro; poi, conciata la sua pelle in un tappeto e filati i suoi capelli in una sciarpa, dalle sue ossa innalzarono un empio altare»*. Altri, invece, giurarono che il chierico fosse sopravvissuto grazie a un rituale che ne aveva preservato il corpo e lo spirito.

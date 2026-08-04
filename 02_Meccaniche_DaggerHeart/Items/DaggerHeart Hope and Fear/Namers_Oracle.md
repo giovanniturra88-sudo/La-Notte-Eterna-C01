@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Namers_Oracle"]
 rarity: "Raro"
 original_rarity: "Rare"

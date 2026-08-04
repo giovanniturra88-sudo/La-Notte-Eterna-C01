@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Landshark
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A quadrupedal shark that swims through the ground.

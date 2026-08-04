@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Red_Ooze_Oil"]
 rarity: "Comune"
 original_rarity: "Common"

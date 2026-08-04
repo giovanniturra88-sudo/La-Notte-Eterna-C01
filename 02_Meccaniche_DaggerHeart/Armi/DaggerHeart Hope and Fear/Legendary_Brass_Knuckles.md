@@ -7,7 +7,7 @@ ingombro: "one-handed"
 tipo_danno: "fisica"
 tratto: "strength"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 4
 ruolo: "primaria"
 ---

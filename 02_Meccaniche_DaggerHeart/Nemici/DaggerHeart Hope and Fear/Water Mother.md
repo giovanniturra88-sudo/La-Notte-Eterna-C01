@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Water Mother
 *Tier 4 Solo*
 *A colossal fur-covered snake that hunts in large bodies of water.*

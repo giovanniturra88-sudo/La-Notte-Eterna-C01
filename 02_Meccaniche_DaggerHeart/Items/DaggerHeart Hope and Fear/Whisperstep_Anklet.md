@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Whisperstep_Anklet"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

@@ -1,3 +1,7 @@
+---
+type:
+  - "[[Environment]]"
+---
 # Crystal Wasteland
 *Tier 3 Traversal*
 *A harsh and alien landscape that shines with towers of glittering crystal.*
@@ -11,7 +15,7 @@
   * *How does attunement to this place alter your sensory experience of it? What sound or song from your childhood does this place conjure?*
 * **Gravitational Anomalies - Action:** Strange, localized phenomena dot the landscape, warping distance and direction. Spend a Fear to alter the gravity at a chosen point. Each target within Close range of that point must make a Knowledge Reaction Roll to calculate their new trajectories. Targets who fail take 3d8+4 physical damage as they are thrown up and away. Targets who succeed must mark a Stress or take half damage.
   * *What does it feel like as your body and mind fight to reestablish equilibrium? Is there any way to use this to your advantage?*
-* **Arcane Reflection - Action:** Spend a Fear to have any number of PCs glimpse a reflection in the crystal of who they once were or might become. Each target must make an Instinct Reaction Roll. Targets who succeed see a vision of their better self and can replace one Experience. Targets who fail see a vision of their dark past—or an even darker future—and must mark a Stress. You gain a Fear for each target who failed.
+* **Arcane Reflection - Action:** Spend a Fear to have any number of PCs glimpse a reflection in the crystal of who they once were or might become. Each target must make an Instinct Reaction Roll. Targets who succeed see a vision of their better self and can replace one Experience. Targets who fail see a vision of their dark pastâ€”or an even darker futureâ€”and must mark a Stress. You gain a Fear for each target who failed.
   * *Who do the PCs see on the other side of the crystal? How does it make them feel?*
 * **Razor-Sharp Terrain - Reaction:** When a PC fails a roll to navigate the wasteland, they must make a Finesse Reaction Roll. On a failure, they cut themselves on the sharp edges of the terrain. Shards of magic crystal become embedded in their wound and slowly grow, *Crystallizing* them. Activate a Crystal Countdown (1) for that PC. Until they remove the condition with a successful Knowledge Roll, a *Crystallizing* PC ticks up their Crystal Countdown at the start of each rest and gains a penalty to their Evasion equal to its value. The countdown ends when the condition is cleared.
   * *What does the crystal look like as it grows? What does it feel like?*

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Chimera
 - **Tipo / Ruolo:** Tier 3 Bruiser
 - **Descrizione:** A giant fire-breathing monster that has a lion's head, a goat's body, and a serpent's tail.

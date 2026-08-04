@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Nighthawkers_Ring"]
 rarity: "Comune"
 original_rarity: "Common"

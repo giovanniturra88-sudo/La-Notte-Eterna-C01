@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Two-Faced_Aegis_Brooch"]
 rarity: "Raro"
 original_rarity: "Rare"

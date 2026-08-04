@@ -1,5 +1,5 @@
 ---
-type: SottoClasse
+type: "[[SottoClassi]]"
 ---
 
 Sei un mago della natura che ha scelto il percorso del Hedge.

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Caltrops"]
 rarity: "Comune"
 original_rarity: "Common"

@@ -4,7 +4,7 @@ type:
 aliases:
   - An'Rao
 ---
-![[an'rao_pic.png|449]]
+![[an'rao_pic.png|700]]
 
 L'attuale imperatore delle [[Impero delle Terre Nascoste|Terre Nascoste]], An'Rao, ha vent'anni, appena un fanciullo per gli standard [[Karevi]], eppure possiede già l'astuzia e la crudeltà di un consumato tiranno. Alla morte dell'anziano padre, la concubina Kiwruel, una delle numerose mogli dell'imperatore, nonché madre di An'Rao IV, ordì segretamente contro il figlio per impadronirsi del potere. Ma An'Rao, appoggiato dalla casta sacerdotale, riuscì a scoprire la congiura: fatta imprigionare la madre, il giovane imperatore ne ordinò l'efferato sacrificio in nome di [[Garod]], per via del quale evocò permanentemente una erinni guardiana di nome [[Ziria]] con cui ha stabilito un legame perverso che, forse, è una forma deviata di amore.
 An'Rao IV desidera assoggettare tutte le nazioni di superficie sotto l'egemonia dell'Impero, ma è conscio che l'uso delle armi non varrebbe a realizzare il suo progetto. Consigliato dai suoi ministri, il giovane imperatore ha escogitato un piano alternativo: diffondere la cultura, l'economia e l'ideologia dell'impero in tutte le nazioni libere, in modo che queste diventino, con il tempo, stati satellite dell'impero. Molte usanze [[Karevi]] si sono già diffuse tra le nazioni di [[Neir]].

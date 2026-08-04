@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Gadimans_Backpack"]
 rarity: "Raro"
 original_rarity: "Rare"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Crimson Lepus
 *Tier 3 Solo*
 *A red-eyed rabbit that thinks only of murder.*

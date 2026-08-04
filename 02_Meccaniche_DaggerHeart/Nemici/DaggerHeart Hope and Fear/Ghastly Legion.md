@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Ghastly Legion
 *Tier 4 Horde (10/HP)*
 *A teeming army of ghosts roused from dreamless slumber to fulfill their ancient oath.*

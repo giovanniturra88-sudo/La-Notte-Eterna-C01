@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Enchanters_Loupe"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

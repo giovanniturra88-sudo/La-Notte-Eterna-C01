@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Hive Walker
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A corpse filled with and puppeted by a colony of carrion-eating bees.

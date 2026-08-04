@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Augurs_Relic"]
 rarity: "Raro"
 original_rarity: "Rare"

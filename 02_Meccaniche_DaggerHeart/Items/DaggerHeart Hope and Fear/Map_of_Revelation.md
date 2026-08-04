@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Map_of_Revelation"]
 rarity: "Raro"
 original_rarity: "Rare"

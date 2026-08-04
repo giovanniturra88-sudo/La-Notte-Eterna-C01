@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Berserker Alpha
 **Tier 2 Leader**
 

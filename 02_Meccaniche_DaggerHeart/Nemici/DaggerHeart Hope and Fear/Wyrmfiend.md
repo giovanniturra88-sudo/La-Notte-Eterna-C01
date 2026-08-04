@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Wyrmfiend
 *Tier 4 Minion*
 *A reptilian biped created by mysterious and ancient dragon magic. Wyrmfiends exist more as extensions of their draconic master's will than as individual beings.*

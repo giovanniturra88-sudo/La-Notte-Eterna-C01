@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Vampire Lord
 *Tier 3 Solo*
 *A cruel vampire lord from a long-lost age, cursed with immortality.*

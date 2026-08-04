@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Cephilith Hatchling
 *Tier 4 Minion*
 *A squidlike parasite that latches onto their prey's skull, bathing the victim's brain in extradimensional neurotoxins.*

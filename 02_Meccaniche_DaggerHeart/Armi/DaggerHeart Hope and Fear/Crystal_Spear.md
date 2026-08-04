@@ -7,7 +7,7 @@ ingombro: "one-handed"
 tipo_danno: "magica"
 tratto: "finesse"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 1
 ruolo: "primaria"
 ---

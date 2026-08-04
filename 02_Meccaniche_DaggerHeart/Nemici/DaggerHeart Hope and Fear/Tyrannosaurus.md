@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Tyrannosaurus
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A huge carnivorous dinosaur that walks on two legs.

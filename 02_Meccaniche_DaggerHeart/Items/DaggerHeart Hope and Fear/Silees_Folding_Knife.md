@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Silees_Folding_Knife"]
 rarity: "Comune"
 original_rarity: "Common"

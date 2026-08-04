@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Green_Ooze_Oil"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Shapeshifting Fiend
 *Tier 3 Social*
 *An evil entity who impersonates a trusted figure.*

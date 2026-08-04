@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Lamplight Beguiler
 *Tier 3 Skulk*
 *A huge aquatic creature that lures unwary prey into eating range with its dangling, shapeshifting head stalk.*

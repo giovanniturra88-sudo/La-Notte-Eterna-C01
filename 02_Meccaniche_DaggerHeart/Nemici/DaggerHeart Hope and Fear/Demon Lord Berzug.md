@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Demon Lord Berzug
 *Tier 4 Solo*
 *The ruler of a deep circle in the Circles Below and a huge hybrid beast with a serpent's tail, a lizard's hind legs, a crab's claw arms, and a two-faced wolf's head.*

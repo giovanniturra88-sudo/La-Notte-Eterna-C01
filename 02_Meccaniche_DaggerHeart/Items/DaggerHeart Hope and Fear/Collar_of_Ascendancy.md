@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Collar_of_Ascendancy"]
 rarity: "Raro"
 original_rarity: "Rare"

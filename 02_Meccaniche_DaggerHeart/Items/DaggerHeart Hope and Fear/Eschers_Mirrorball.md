@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Eschers_Mirrorball"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

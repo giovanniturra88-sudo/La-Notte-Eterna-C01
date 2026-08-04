@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Quintessential_Severant"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

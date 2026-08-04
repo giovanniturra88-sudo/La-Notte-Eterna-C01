@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Stone Titan
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A gray-skinned goliath who lives underground and specializes in crafting powerful items inlaid with magical runes.

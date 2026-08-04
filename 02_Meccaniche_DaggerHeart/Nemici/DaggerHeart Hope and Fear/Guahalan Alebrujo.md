@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Guahalan Alebrujo
 - **Tipo / Ruolo:** Tier 2 Solo
 - **Descrizione:** A huge, colorful, chimeric beast formed from many animals.

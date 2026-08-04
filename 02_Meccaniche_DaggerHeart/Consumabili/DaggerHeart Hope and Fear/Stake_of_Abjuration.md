@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Stake_of_Abjuration"]
 rarity: "Raro"
 original_rarity: "Rare"

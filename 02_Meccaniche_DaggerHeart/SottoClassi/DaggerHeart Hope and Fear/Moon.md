@@ -1,5 +1,5 @@
 ---
-type: SottoClasse
+type: "[[SottoClassi]]"
 ---
 
 Sei una strega che ha scelto il percorso della Moon.

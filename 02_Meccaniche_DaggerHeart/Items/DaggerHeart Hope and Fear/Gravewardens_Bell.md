@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Gravewardens_Bell"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

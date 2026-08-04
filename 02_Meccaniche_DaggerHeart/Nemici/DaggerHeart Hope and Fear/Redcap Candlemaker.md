@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Redcap Candlemaker
 **Tier 1 Leader**
 

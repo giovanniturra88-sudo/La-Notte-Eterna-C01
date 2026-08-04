@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Insomniacs_Periapt"]
 rarity: "Raro"
 original_rarity: "Rare"

@@ -2,7 +2,7 @@
 type:
   - "[[PNG]]"
 ---
-![[Pasted image 20260724002122.png|410]]
+![[Pasted image 20260724002122.png|700]]
 
 Scommettereste mai un singolo pezzo d'oro su un goblin? Uno stupido, piccolo, insignificante goblin? Andate a dirlo a Orgnornor, il Governatore di [[Forte Arundex]].
 Questo perfido e astuto individuo ben rappresenta la sua razza. Orgnornor è un opportunista nato, uno che la pianificazione ce l'ha nel sangue. Col tempo, il goblin è riuscito prima a introdursi nell'ingarbugliata politica di Forte Arundex e a raggiungerne i vertici. Quando ha assassinato il precedente Governatore, un grossolano e puzzolente mezz'orco, mancò poco che gli altri, i sottoposti, si alzassero in piedi per applaudire la sua impresa.

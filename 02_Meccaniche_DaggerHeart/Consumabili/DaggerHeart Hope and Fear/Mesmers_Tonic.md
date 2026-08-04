@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Mesmers_Tonic"]
 rarity: "Raro"
 original_rarity: "Rare"

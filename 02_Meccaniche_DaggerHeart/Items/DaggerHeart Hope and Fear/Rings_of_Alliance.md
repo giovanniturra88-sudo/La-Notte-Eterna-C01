@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Rings_of_Alliance"]
 rarity: "Raro"
 original_rarity: "Rare"

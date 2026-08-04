@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Cupbearers_Bezoar"]
 rarity: "Comune"
 original_rarity: "Common"

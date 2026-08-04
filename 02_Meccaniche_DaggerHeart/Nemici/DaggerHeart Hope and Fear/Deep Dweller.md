@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Deep Dweller
 *Tier 3 Leader*
 *A huge psychic lamprey that has pitch-black eyes and toxic tentacles.*

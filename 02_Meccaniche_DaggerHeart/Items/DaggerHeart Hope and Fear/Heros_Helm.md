@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Heros_Helm"]
 rarity: "Raro"
 original_rarity: "Rare"

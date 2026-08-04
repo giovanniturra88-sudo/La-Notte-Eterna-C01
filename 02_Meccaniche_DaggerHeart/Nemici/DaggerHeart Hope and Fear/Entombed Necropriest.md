@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entombed Necropriest
 - **Tipo / Ruolo:** Tier 2 Support
 - **Descrizione:** A necromancer charged with preserving the empress's life beyond death.

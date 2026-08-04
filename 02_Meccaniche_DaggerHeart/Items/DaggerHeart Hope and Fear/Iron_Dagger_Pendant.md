@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Iron_Dagger_Pendant"]
 rarity: "Raro"
 original_rarity: "Rare"

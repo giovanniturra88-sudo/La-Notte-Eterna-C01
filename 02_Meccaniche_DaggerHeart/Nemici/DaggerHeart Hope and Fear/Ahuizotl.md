@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Ahuizotl
 **Tier 1 Skulk**
 

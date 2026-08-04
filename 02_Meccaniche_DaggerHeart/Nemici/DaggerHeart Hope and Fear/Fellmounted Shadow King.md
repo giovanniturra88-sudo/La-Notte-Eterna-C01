@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Fellmounted Shadow King
 *Tier 3 Support*
 *The shade of a forgotten ruler, cursed to patrol the skies atop a winged eel in the service of an even greater evil.*

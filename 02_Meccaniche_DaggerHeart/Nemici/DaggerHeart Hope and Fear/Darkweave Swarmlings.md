@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Darkweave Swarmlings
 **Tier 1 Horde (8/HP)**
 

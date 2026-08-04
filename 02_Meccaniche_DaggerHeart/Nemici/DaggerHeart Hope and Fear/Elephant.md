@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Elephant
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A huge pachyderm that has large ears and a prehensile trunk.

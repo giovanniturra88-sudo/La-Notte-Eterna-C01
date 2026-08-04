@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Kelpie
 **Tier 1 Skulk**
 

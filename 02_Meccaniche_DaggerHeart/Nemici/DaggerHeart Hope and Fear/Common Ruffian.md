@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Common Ruffian
 **Tier 1 Standard**
 

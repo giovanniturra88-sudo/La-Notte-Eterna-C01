@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Fungispunj Sporeling
 - **Tipo / Ruolo:** Tier 2 Minion
 - **Descrizione:** A halfling-sized mushroom creature that defends itself from attackers with tiny puffs of neurotoxic spores.

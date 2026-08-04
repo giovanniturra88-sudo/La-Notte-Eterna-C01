@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Dragon Mother Mitera
 *Tier 4 Solo*
 *A gargantuan seven-headed dragon with dazzling diamond scales that shine with every color of the rainbow.*

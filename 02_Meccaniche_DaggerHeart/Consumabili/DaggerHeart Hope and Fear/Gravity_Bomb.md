@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Gravity_Bomb"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Shapeshifting Fiend Revealed
 *Tier 3 Solo*
 *A towering humanoid who has an insectile head and multiple sets of glowing red eyes.*

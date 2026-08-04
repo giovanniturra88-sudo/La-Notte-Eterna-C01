@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Guahalan Shifter
 - **Tipo / Ruolo:** Tier 2 Standard
 - **Descrizione:** A shapeshifting masked warrior who has animalistic features.

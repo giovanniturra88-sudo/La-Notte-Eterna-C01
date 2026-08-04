@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Gargantuan War Machine
 *Tier 4 Solo*
 *A 100-foot-tall adamantine construct that has gemstone eyes, powered by a chest crucible of elemental flame.*

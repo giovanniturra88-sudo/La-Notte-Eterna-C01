@@ -4,6 +4,6 @@ type: Indice
 
 ```dataview
 TABLE file.link
-WHERE type = "PNG"
+WHERE contains(type, [[PNG]])
 SORT file.name ASC
 ```

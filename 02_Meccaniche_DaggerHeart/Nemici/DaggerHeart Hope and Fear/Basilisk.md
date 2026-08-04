@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Basilisk
 **Tier 2 Standard**
 

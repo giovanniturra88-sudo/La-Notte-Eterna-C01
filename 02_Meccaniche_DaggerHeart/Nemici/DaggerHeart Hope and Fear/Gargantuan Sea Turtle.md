@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Gargantuan Sea Turtle
 *Tier 3 Solo*
 *A monstrous sea turtle that has an adamantine shell and beak.*

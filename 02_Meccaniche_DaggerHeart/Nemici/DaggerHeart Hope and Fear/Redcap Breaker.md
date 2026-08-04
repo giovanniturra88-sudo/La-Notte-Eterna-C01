@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Redcap Breaker
 **Tier 1 Bruiser**
 

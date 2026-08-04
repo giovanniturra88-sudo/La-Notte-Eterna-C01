@@ -1,7 +1,7 @@
 ---
-type: Sottoclasse
- classe: Summoner
- percorso: Necromanzia
+type: "[[SottoClassi]]"
+classe: Summoner
+percorso: Necromanzia
 ---
 
 # Necromanzia

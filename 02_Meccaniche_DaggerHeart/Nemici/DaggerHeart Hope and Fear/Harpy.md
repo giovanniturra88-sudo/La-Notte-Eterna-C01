@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Harpy
 **Tier 1 Skulk**
 

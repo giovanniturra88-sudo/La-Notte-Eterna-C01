@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Collapsible_Pole"]
 rarity: "Comune"
 original_rarity: "Common"

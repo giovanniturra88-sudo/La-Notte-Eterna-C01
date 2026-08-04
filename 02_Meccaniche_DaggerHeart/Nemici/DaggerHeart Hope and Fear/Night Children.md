@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Night Children
 *Tier 3 Horde (2/HP)*
 *A teeming assortment of nocturnal fiends under the thrall of an ancient evil.*

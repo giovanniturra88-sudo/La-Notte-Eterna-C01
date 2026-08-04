@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumabile]]"
+  - "[[Consumable]]"
 alias: ["Self-Sewing_Thread"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

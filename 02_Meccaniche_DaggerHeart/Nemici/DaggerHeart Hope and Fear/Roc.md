@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Roc
 *Tier 3 Solo*
 *A giant falcon that nests in the mountains and unleashes storms.*

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Portal_Frames"]
 rarity: "Raro"
 original_rarity: "Rare"

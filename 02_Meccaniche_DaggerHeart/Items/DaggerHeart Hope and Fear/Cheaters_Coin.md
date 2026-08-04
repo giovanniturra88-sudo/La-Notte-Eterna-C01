@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Cheaters_Coin"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

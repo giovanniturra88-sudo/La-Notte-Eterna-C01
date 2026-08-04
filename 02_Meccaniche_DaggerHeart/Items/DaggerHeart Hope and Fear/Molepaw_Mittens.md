@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Molepaw_Mittens"]
 rarity: "Raro"
 original_rarity: "Rare"

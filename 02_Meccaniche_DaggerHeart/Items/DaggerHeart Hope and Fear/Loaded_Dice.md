@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Oggetto]]"
+  - "[[Item]]"
 alias: ["Loaded_Dice"]
 rarity: "Comune"
 original_rarity: "Common"

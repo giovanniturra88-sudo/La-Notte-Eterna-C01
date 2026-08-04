@@ -4,7 +4,7 @@ type:
 aliases:
   - Énuas
 ---
-![[Pasted image 20260712154847.png|510]]
+![[Pasted image 20260712154847.png|700]]
 
 Alla caduta di [[Gundazar]], il caos più assoluto si riversò in quelle terre dove un tempo governavano gli imperatori e la vita era scandita dal naturale scorrere delle stagioni. Molti riferirono che i Cinque Generali dell'Armata dell'Apocalisse festeggiarono la propria vittoria brindando con il sangue della famiglia imperiale, ma questa tesi, seppure non fu mai smentita, non ha alcun riferimento storico. Cosa ne è stato, dunque, della famiglia imperiale? Gli Archivisti se lo domandano da tempo, ormai, ma invano.
 E voi, cosa volete sentirvi dire? Desiderate ascoltare verità, o sentirvi raccontare una favola?

@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Frost Titan
 *Tier 3 Bruiser*
 *A blue-skinned goliath who has rimed hair and wears trophies of past battles.*

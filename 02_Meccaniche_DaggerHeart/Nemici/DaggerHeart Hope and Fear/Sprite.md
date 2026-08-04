@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Sprite
 - **Tipo / Ruolo:** Tier 2 Minion
 - **Descrizione:** A tiny winged warrior that attacks trespassers with poison-tipped arrows.

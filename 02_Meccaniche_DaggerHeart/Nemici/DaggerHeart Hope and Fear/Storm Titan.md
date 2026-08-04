@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Storm Titan
 *Tier 3 Solo*
 *An ancient, wise, and temperamental goliath who has hair made of mist and electricity crackling across their skin.*

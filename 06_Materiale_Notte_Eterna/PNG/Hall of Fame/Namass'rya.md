@@ -4,7 +4,7 @@ type:
 aliases:
   - Matrona di Sangue
 ---
-![[namass'rya_pic.png|600]]
+![[namass'rya_pic.png|700]]
 
 Namass'rya è una donna estremamente sensuale. Lunghi capelli corvini le scivolano sulle esili spalle; occhi dorati e sottilmente velati da una patina sanguigna le donano un tocco di esotico; il suo corpo snello e sublime spingerebbe anche l'uomo più casto al desiderio.
 Quattrocento anni fa, più precisamente nel 239 E.S., Namass'rya era una giovane e promettente strega mortale. Cresciuta in un povero villaggio di pastori in una provincia dell'Impero di [[Gundazar]], comprese di essere diversa dagli altri sin da fanciulla. Consapevole del suo potere innato, all'età di 16 anni la giovane strega abbandonò la famiglia per intraprendere l'emozionante vita dell'avventuriero.

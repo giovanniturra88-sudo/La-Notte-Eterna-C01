@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Fire Titan
 *Tier 3 Solo*
 *An armor-clad goliath who has ash-gray skin and fiery hair and wields a masterwork greatsword crafted in their own smithy.*

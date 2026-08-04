@@ -7,7 +7,7 @@ ingombro: "two-handed"
 tipo_danno: "magica"
 tratto: "strength"
 type:
-  - "Arma"
+  - "[[Arma]]"
 tier: 4
 ruolo: "primaria"
 ---

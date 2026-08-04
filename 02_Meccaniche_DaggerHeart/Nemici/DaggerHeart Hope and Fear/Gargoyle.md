@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Gargoyle
 - **Tipo / Ruolo:** Tier 2 Bruiser
 - **Descrizione:** A magically animated statue resembling a terrifying beast or demon.

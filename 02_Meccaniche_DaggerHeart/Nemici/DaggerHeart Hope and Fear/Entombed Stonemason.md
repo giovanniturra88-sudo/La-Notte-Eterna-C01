@@ -1,3 +1,8 @@
+---
+type:
+  - "[[Creatura]]"
+---
+
 # Entombed Stonemason
 - **Tipo / Ruolo:** Tier 2 Minion
 - **Descrizione:** An unfortunate undead laborer chosen by lottery to wall up their empress's tomb from the inside.
