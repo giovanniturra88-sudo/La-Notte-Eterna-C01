@@ -27,6 +27,6 @@ Lo Zombie Potenziato rappresenta la prova concreta del livello raggiunto dagli e
 Compare nelle fogne della [[Sezione LVI]].  
 ## Collegamenti  
 - [[Silke]]  
-- [[Necromanzia]]  
+- [[Necromante]]  
 - [[Sezione LVI]]  
 - [[La Morte Strisciante]]

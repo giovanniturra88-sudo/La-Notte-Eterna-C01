@@ -4,7 +4,7 @@ classe: Summoner
 percorso: Necromanzia
 ---
 
-# Necromanzia
+# Necromante
 
 ## Fondazione
 

@@ -14,3 +14,25 @@ type:
 * **Tratti e Capacità:**
   * **Falso Aspetto:** Indistinguibile da comune vegetazione acquatica finché rimane immobile.
   * **Groviglio Trattenente (1 Paura):** Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge 1d6 danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto.
+
+```statblock
+layout: DaggerHeart Nemici
+name: "Berberoka"
+description: "Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi."
+tier: "2"
+ruolo: "Control / Agguato"
+difficolta: "15"
+hp: "5"
+stress: "4"
+esperienza: "+3"
+soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 28"
+attacchi:
+  - name: "Frusta di Alghe"
+    desc: "**+3** | Reach (A portata) | **2d6+5** Tagliente *(Trascina il bersaglio)*"
+  - name: "Bomba d'Acqua"
+    desc: "**+2** | Media | **1d10+4** Contundente"
+tratti:
+  - name: "Falso Aspetto"
+    desc: "Indistinguibile da comune vegetazione acquatica finché rimane immobile."
+  - name: "Groviglio Trattenente"
+    desc: "*(Costo: 1 Paura)* Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge **1d6** danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto."

@@ -5,7 +5,7 @@ classe: Summoner
 percorso: Teurgia
 ---
 
-# Teurgia
+# Teurga
 
 ## Fondazione
 
