@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[06_Materiale_Notte_Eterna/Comunità/Community]]"
+  - "[[Community Neir]]"
+  - "[[Community]]"
 ---
 
 *«Ha! Sapevo che non ce l'avrebbe fatta. Quella ragazza non ha la stoffa del marinaio» Usgali si lisciò i baffi pregustando il momento in cui avrebbe messo le mani sulla quota di Eleya. A quell'ora sul molo si vedevano solo ubriachi, prostitute e qualche povero derelitto. Il Timoniere guardò il cielo, poi il mare: nessun vascello all'orizzonte. Peccato, quella ragazza le stava simpatica. Suo malgrado sollevò il campanaccio, pronto a rintoccare la fine di quella sciarada e ad arricchire quel farabutto di Usgall.* 

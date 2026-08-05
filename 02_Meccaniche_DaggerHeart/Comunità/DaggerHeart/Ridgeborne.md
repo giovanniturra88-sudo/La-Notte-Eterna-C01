@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Comunità/Community]]"
+  - "[[Community]]"
 ---
 
 # Ridgeborne

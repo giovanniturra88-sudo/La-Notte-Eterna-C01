@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[06_Materiale_Notte_Eterna/Comunità/Community]]"
+  - "[[Community Neir]]"
+  - "[[Community]]"
 ---
 
 *Gli [[gnoll]] sorpresero tutti con una manovra azzardata e puntando con decisione verso la rocca sguarnita. Paralizzato dall'orrore, il re osservava il panico farsi largo tra i suoi sudditi, incapace di offrire gli ordini più basilari ai pochi ufficiali rimasti al suo fianco. Trascorse qualche secondo, forse qualche minuto, in uno stato di trance. A destarlo fu una piccola mano rugosa: era Minghil, il venerabile archivista gnomo da sempre al servizio del suo casato, il topo della biblioteca reale. Lo si vedeva una volta l'anno e solo in occasione del Giorno degli Avi.*

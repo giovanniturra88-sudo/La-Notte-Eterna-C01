@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[06_Materiale_Notte_Eterna/Comunità/Community]]"
+  - "[[Community Neir]]"
+  - "[[Community]]"
 ---
 
 *Il nobile la additò senza troppe cerimonie: «È lei! Arrestate quella sgualdrina!».*

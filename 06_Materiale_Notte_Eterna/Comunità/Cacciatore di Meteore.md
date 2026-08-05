@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[06_Materiale_Notte_Eterna/Comunità/Community]]"
+  - "[[Community Neir]]"
+  - "[[Community]]"
 ---
 
 *Kayla sistemò l'alidada dell'astrolabio con precisione millimetrica, assicurandosi che i traguardi fossero tutti al posto giusto; dopo alcune manipolazioni, la Costellazione Rossa le confermò la bontà del suo operato. Questione di minuti, forse secondi, e la gelida volta stellata avrebbe preso fuoco.*
