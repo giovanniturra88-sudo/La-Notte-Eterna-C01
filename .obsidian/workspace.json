@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a48dd4a0a3e436d9",
+        "id": "721d585900b8da0b",
         "type": "tabs",
         "children": [
           {
-            "id": "30f728cc147528bf",
+            "id": "71dd7d210fcea22b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Rowzrugu.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rowzrugu"
+            }
+          },
+          {
+            "id": "a4c9bf53b49119ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Lore/Divinità/Nuzagaal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nuzagaal"
             }
           }
         ]
@@ -135,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Rowzrugu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,13 +189,40 @@
               "icon": "lucide-archive",
               "title": "Tutte le proprietà"
             }
+          },
+          {
+            "id": "5916d1d19159eddb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_188a8b0baa1b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 18,
+                    "month": 7,
+                    "year": 1
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_9a0b49880ba8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +240,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "30f728cc147528bf",
+  "active": "71dd7d210fcea22b",
   "lastOpenFiles": [
+    "normalize_nemici.py",
+    "update_nemici.ps1",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Buhragath.md",
+    "01_Lore/Divinità/Nuzagaal.md",
+    "06_Materiale_Notte_Eterna/PNG/Hall of Fame/Bruin Ashcroft.md",
+    "06_Materiale_Notte_Eterna/Nemici/Regina dello Sciame.md",
+    "06_Materiale_Notte_Eterna/Nemici/Qal.md",
+    "temp_append.ps1",
+    "06_Materiale_Notte_Eterna/Nemici/Bararum.md",
+    "06_Materiale_Notte_Eterna/Nemici/Akamud.md",
+    "06_Materiale_Notte_Eterna/Nemici/Amalgama Mostruosa.md",
+    "06_Materiale_Notte_Eterna/Nemici/Abaia.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/ArcoNecromante.md",
+    "Solo][[.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Ahuizotl.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Anguille Elettriche.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Alto Serafino.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Adepto Cultista.md",
     "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Warborne.md",
     "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Reborne.md",
     "02_Meccaniche_DaggerHeart/Ancestry_e_Communità/Comunità/Community.md",
@@ -207,31 +272,12 @@
     "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart Hope and Fear/Duneborne.md",
     "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Wildborne.md",
     "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Wanderborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Underborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Slyborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Seaborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Ridgeborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Orderborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Loreborne.md",
-    "02_Meccaniche_DaggerHeart/Comunità/DaggerHeart/Highborne.md",
-    "06_Materiale_Notte_Eterna/Comunità/Mare Andante.md",
-    "06_Materiale_Notte_Eterna/Comunità/Dardo Sanguinante.md",
-    "06_Materiale_Notte_Eterna/Comunità/Community Neir.md",
-    "06_Materiale_Notte_Eterna/Comunità/Cacciatore di Meteore.md",
-    "06_Materiale_Notte_Eterna/Comunità/Archivista.md",
-    "06_Materiale_Notte_Eterna/Comunità/Community.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Abominio dei Regni Esterni.md",
-    "06_Materiale_Notte_Eterna/Nemici/Akamud.md",
-    "06_Materiale_Notte_Eterna/Nemici/Abaia.md",
-    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Ahuizotl.md",
     "convert_remaining.py",
     "convert_statblocks.py",
     "06_Materiale_Notte_Eterna/Nemici/DaggerHeart Hope and Fear",
     "06_Materiale_Notte_Eterna/Nemici/DaggerHeart",
     "convert_nemici.py",
     "update_remaining_statblocks.py",
-    "check_and_add_statblocks.py",
-    "fix_statblocks_log.txt",
     "04_Risorse/Pictures/Pasted image 20260804014346.png",
     "Senza nome.canvas",
     "04_Risorse/Pictures/KAREVI.png",

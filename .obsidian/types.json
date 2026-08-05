@@ -9,6 +9,9 @@
     "ambientazione": "multitext",
     "storyline": "multitext",
     "luoghi": "multitext",
-    "type": "multitext"
+    "type": "multitext",
+    "tipo_nemico": "multitext",
+    "attacchi": "multitext",
+    "tratti": "multitext"
   }
 }
