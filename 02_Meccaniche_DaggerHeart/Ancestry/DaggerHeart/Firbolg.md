@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Firlborg non hanno bisogno di luce; percepiscono le vibrazioni e le correnti magiche che permeano l'oscurità come se fossero correnti d'aria, muovendosi con naturalezza assoluta.
 - **Relazione con le Fazioni**: Considerati "i guardiani silenti" delle zone di confine. Le fazioni di Neir li rispettano per la loro capacità di mantenere intatti i passaggi sicuri, ma la loro reticenza a condividere i segreti del mondo li rende figure enigmatiche.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Firlborg** (Manuale base).
-- *Modifiche apportate*: Abbiamo trasformato la loro capacità di "invisibilità" e "comunicazione naturale" in strumenti tattici legati al mondo decadente, introducendo il costo in *Tensione* per il sacrificio protettivo, che rende il Firlborg un "serbatoio" di minaccia per il GM.

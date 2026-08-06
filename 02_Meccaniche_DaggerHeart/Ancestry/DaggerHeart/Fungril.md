@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Fungril "vedono" attraverso la rete di micelio che percorre ogni centimetro del terreno di Nebvarasa. Per loro, l'oscurità non esiste: sentono la pressione, l'umidità e il calore di ogni creatura vivente nel raggio di chilometri.
 - **Relazione con le Fazioni**: Visti con disgusto ma anche con necessità pragmatica dalle gilde di Neir, che li usano come esploratori nelle fogne o nei livelli inferiori dove nessun altro oserebbe scendere.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Fungril** (adattato per enfatizzare la natura fungina/simbiotica).
-- *Modifiche apportate*: Abbiamo reso la loro capacità di "rigenerazione" una meccanica di scambio: recuperano risorse personali (Stress) a costo di aumentare la pressione del mondo (Tensione), rafforzando il tema della loro natura invasiva e adattabile.

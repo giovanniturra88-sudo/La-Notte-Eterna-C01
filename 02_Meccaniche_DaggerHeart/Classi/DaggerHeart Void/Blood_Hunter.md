@@ -1,100 +1,84 @@
 ---
 type: Classe
 ---
+Hai scelto il percorso del **Blood Hunter** (Cacciatore di Sangue). Come Blood Hunter, imbrigli il potere dell'emocraft — vale a dire la magia del sangue — nella tua incessante caccia alle creature malvagie.
 
-Hai scelto il percorso del Blood Hunter.
+---
+- **DOMINI -** [Sangue](Sangue.md) & [Ossa](Ossa.md)
+- **EVASIONE INIZIALE -** 10
+- **PUNTI FERITA INIZIALI -** 7
+- **OGGETTI DI CLASSE -** Vestiti macchiati di sangue, color cremisi o logori; provviste di base e una manciata di monete d'oro.
+---
+- **TRATTI SUGGERITI -** +1 Istinto, 0 Presenza, -1 Conoscenza. (Mutante/Spettro: +2 Agilità, -1 Forza, +1 Precisione; Licantropo: +1 Agilità, +2 Forza, -1 Precisione).
+- **ARMA PRIMARIA SUGGERITA -** Spada Lunga o Grand'asta.
+- **ARMATURA SUGGERITA -** Armatura di Brigandina.
 
 ---
 
-- **DOMINI -** [[Mutila]]
-- **EVADE INIZIALE -** 10
-- **PUNTI VITA INIZIALI -** 7
-- **OGGETTI DI CLASSE -** Un oggetto insanguinato che simboleggia uno dei loro crimini
+### CARATTERISTICA SPERANZA
+**_Maledizione del Sangue (Blood Maledict):_** **Spendi 3 Punti Speranza** quando un avversario ha successo in un tiro d'attacco entro portata Vicina per costringerlo a ripetere il tiro con svantaggio.
 
 ---
 
-# Timore
+### CARATTERISTICHE DI CLASSE
+**_Rito Cremisi (Crimson Rite):_** **Segna un Punto Ferita** per incantare una delle tue armi attive con un potere assetato di sangue fino al termine del tuo prossimo riposo o finché non usi nuovamente questa caratteristica. Quando hai successo in un attacco con l'arma incantata, essa infligge **1d4 danni magici extra**. Questo danno extra aumenta a **2d4 al livello 2**, **3d4 al livello 5** e **4d4 al livello 8**.
 
-## Incantesimo del Blood Hunter
-Quando segni un Punto Vita, puoi posizionare un gettone sulla carta [[Timore]] e marcare uno Stress. Poi scegli un avversario per subire -1 ai tiri di attacco finché non si sposta almeno 2 spazi lontano da te o da chi marca Timore.
+---
 
-# Caratteristiche di Fondazione
+### SOTTOCLASSI
 
-| Nome | Descrizione |
-|------|-------------|
-| **Secondo Fiato** | Quando segni un Punto Vita, ottieni resistenza al danno finché non subisci danno Maggiore o superiore. |
+#### Ordine dello Spettro (Order of the Specter)
+*Gioca l'Ordine dello Spettro se desideri scivolare tra le ombre, manipolare la linea tra la vita e la morte e colpire i nemici con poteri spettrali.*
 
-# Caratteristiche di Specializzazione
+- **Caratteristica di Incantesimo:** Agilità
 
-## Order of the Specter
+| Grado                | Nome Caratteristica                    | Descrizione                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fondazione**       | **Grinta d'Ombra (Shadowed Grit)**     | Quando hai successo in un tiro di azione con **Timore**, puoi spendere una Speranza per eliminare uno Stress.                                                                                                                                                                                                                                                                                                          |
+| **Fondazione**       | **Passo del Velo (Veilwalker)**        | Puoi scivolare brevemente nel regno tra i vivi e i morti. **Segna uno Stress** per muoverti fino a portata Vicina attraverso creature e oggetti.                                                                                                                                                                                                                                                                       |
+| **Specializzazione** | **Inseguitore del Velo (Veilstalker)** | Quando usi la tua caratteristica *Passo del Velo*, puoi muoverti fino a una portata Lontana e ottieni vantaggio sul prossimo tiro di azione che effettui in questa scena.                                                                                                                                                                                                                                              |
+| **Maestria**         | **Tempra dell'Orrore (Horror Honed)**  | Non puoi essere reso Vulnerabile a meno che tutti i tuoi slot Stress non siano segnati.                                                                                                                                                                                                                                                                                                                                |
+| **Maestria**         | **Forma Spettrale (Spectral Form)**    | Una volta per riposo lungo, quando stai per segnare il tuo ultimo Punto Ferita, puoi invece **segnare uno Stress** ed entrare nella tua Forma Spettrale. In questa forma puoi muoverti attraverso la materia fisica e hai resistenza ai danni fisici. Inoltre, se stai per segnare un Punto Ferita, segni invece uno Stress. Esci da questa forma se il tuo ultimo Stress viene segnato o se recuperi un Punto Ferita. |
 
-| Nome | Descrizione |
-|------|-------------|
-| **Primo Cerchio — Passaggio Spettrale** | Una volta per riposo, marchi un Punto Vita per passare attraverso i limiti della materia e diventare uno Spettro fino alla fine del tuo prossimo turno. Mentre sei uno Spettro, ottieni resistenza al danno non sacro. |
-| **Visibile solo ai Morti** | Quando segni un Punto Vita, puoi rendere invisibile te stesso finché non marchi di nuovo un Punto Vita o non attacchi. |
+---
 
-## Order of the Mutant
+#### Ordine del Mutante (Order of the Mutant)
+*Gioca l'Ordine del Mutante se vuoi alterare la tua biologia tramite potenti tossine alchemiche per adattarti a ogni sfida sul campo di battaglia.*
 
-| Nome | Descrizione |
-|------|-------------|
-| **Primo Cerchio — Forma Bestiale** | Puoi fondere la tua forma fisica con quella di una creatura per infliggere d8 danni fisici in base al mostro fuso alla tua carne. Mentre sei trasformato, il tuo dado danno aumenta a d10 se hai segnato almeno un Punto Vita. |
-| **Corpo Ibrido** | Quando segni un Punto Vita e fai un tiro di corpo a corpo contro lo stesso bersaglio, ottieni vantaggio all'attacco. |
+- **Caratteristica di Incantesimo:** Agilità
 
-## Order of the Lycan
+| Grado                | Nome Caratteristica                           | Descrizione                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fondazione**       | **Mutageni (Mutagens)**                       | Prepari e consumi tossine mutageniche per alterare le tue capacità. Quando completi un riposo, puoi bere un mutageno per ottenerne gli effetti fino al tuo prossimo riposo. Scegli una caratteristica per ottenere un bonus di **+1** e una caratteristica diversa per subire una penalità di **-1**. Ottieni inoltre un beneficio a scelta tra: <br>• **Celerità:** Se sei Trattenuto o Vulnerabile, segna uno Stress per terminare la condizione su di te.<br>• **Pelle Coriacea:** Il tuo punteggio di Armatura aumenta di 2.<br>• **Sensi del Cacciatore:** Hai vantaggio sui tiri per tracciare le creature e vedi nell'oscurità completa. |
+| **Specializzazione** | **Pelle di Ferro (Ironskin)**                 | La tua soglia di danno Grave aumenta di un ammontare pari alla tua Proficienza.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Specializzazione** | **Tossine Volatili (Volatile Toxins)**        | Puoi scegliere due benefici dei mutageni invece di uno. Se lo fai, **segna un Punto Ferita** che non può essere recuperato fino al tuo prossimo riposo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Maestria**         | **Mutageni Perfezionati (Mastered Mutagens)** | I bonus e le penalità alle caratteristiche della tua caratteristica *Mutageni* cambiano rispettivamente a **+2** e **-2**. Quando scegli un beneficio dei mutageni, puoi includere anche: <br>• **Sangue dell'Etere:** Vedi l'invisibile e le illusioni trasparenti entro il tuo campo visivo; vedi la vera forma di creature/oggetti mutati dalla magia.<br>• **Furia:** Quando effettui un attacco, segna uno Stress per aggiungere la tua Proficienza al tiro.<br>• **Pelle d'Acciaio:** La tua soglia di danno Maggiore aumenta di un ammontare pari alla tua Proficienza.                                                                  |
 
-| Nome | Descrizione |
-|------|-------------|
-| **Primo Cerchio — Trasformazione Lycan** | Puoi innescare la tua forma lupina per infliggere d8 danni fisici in base al mostro fuso alla tua carne. Mentre sei trasformato, il tuo dado danno aumenta a d10 se hai segnato almeno un Punto Vita. Inoltre, quando marchii un Punto Vita per trasformarti in una Lupa, ottieni resistenza al danno finché non subisci danno Maggiore o superiore. |
-| **Ruggito Spaventoso** | Quando segni un Punto Vita e la tua trasformazione è attiva, emetti un ruggito spaventoso. Ogni avversario entro portata Molto Vicina segna 1 Stress. |
+---
 
-# Caratteristiche di Maestria
+#### Ordine del Licantropo (Order of the Lycan)
+*Gioca l'Ordine del Licantropo se desideri scatenare la bestia dentro di te, trasformandoti in un ibrido predatore per dilaniare i tuoi nemici.*
 
-## Order of the Specter
+- **Caratteristica di Incantesimo:** Agilità
 
-| Nome | Descrizione |
-|------|-------------|
-| **Prima Saldatura** | Quando marchi un Punto Vita, posiziona un gettone su questa carta. In un attacco riuscito, puoi spendere qualsiasi numero di gettoni da questa carta per ottenere un bonus di danno 1d6 per ogni gettone speso. Questa carta può contenere un numero massimo di gettoni uguale alla tua caratteristica Mutila. Elimina tutti i gettoni da questa carta quando fai un riposo lungo. |
-| **Terzo Cerchio — Corpo Spettrale** | Una volta per riposo lungo, marchi un Punto Vita per fondere la tua forma fisica con quella di una creatura per infliggere d12 danni fisici in base al mostro fuso alla tua carne. |
+| Grado | Nome Caratteristica | Descrizione |
+|-------|---------------------|-------------|
+| **Fondazione** | **Forma Ibrida (Hybrid Form)** | Puoi scatenare la piaga della licantropia per trasformarti in un predatore ibrido. Finché sei in questa forma, i tuoi attacchi senz'armi infliggono d8 danni fisici. |
+| **Fondazione** | **Rigenerazione (Regeneration)** | Quando ottieni un successo con Speranza mentre sei nella tua Forma Ibrida, lancia un d4. Se il risultato è superiore al tuo attuale numero di Punti Ferita non segnati, recuperi un Punto Ferita [18]. |
+| **Fondazione** | **Ruggito Spaventoso (Scary Roar)** | Quando segni un Punto Ferita mentre la tua Forma Ibrida è attiva, puoi emettere un ruggito spaventoso. Ogni avversario entro portata Molto Vicina segna uno Stress. |
+| **Specializzazione** | **Bestia Rampante (Rampant Beast)** | I tuoi attacchi in forma ibrida infliggono d10 danni fisici. Quando segni un Punto Ferita per trasformarti, ogni avversario entro portata Vicina deve superare un tiro di reazione o segnare uno Stress. |
+| **Maestria** | **Lama di Furia (Blade of Fury)** | Una volta per riposo lungo, puoi segnare uno Stress per evocare una lama di pura furia contro un bersaglio entro portata Vicina, costringendolo a segnare un Punto Ferita e 3 Stress. |
 
-## Order of the Mutant
+---
 
-| Nome | Descrizione |
-|------|-------------|
-| **Sesto Cerchio — La Mia Magia** | Una volta per riposo lungo, marchi uno Stress per evocare una lama di pura furia contro un bersaglio entro portata Vicina che marca 1 Punto Vita e segna 3 Stress. |
-| **Terzo Cerchio — Trasformazione Mutante** | Puoi fondere la tua forma fisica con quella di un mostro per infliggere d10 danni fisici in base al mostro fuso alla tua carne. Quando marchi un Punto Vita per trasformarti, scegli una creatura entro portata Vicina per subire d8 danni fisici. |
+### DOMANDE DI SFONDO
+- Cosa hai sentito dire riguardo alla magia del sangue che ti spaventa o ti preoccupa per la tua incolumità?
+- Quale tuo parente di sangue ti ha insegnato una lezione fondamentale per tenerti in vita?
+- Quale atto di spargimento di sangue vi ha unito come gruppo?
 
-## Order of the Lycan
+---
 
-| Nome | Descrizione |
-|------|-------------|
-| **Sesto Cerchio — La Mia Magia** | Una volta per riposo lungo, marchi uno Stress per evocare una lama di pura furia contro un bersaglio entro portata Vicina che marca 1 Punto Vita e segna 3 Stress. |
-| **Terzo Cerchio — Bestia Rampante** | Puoi innescare la tua forma lupina per infliggere d10 danni fisici in base al mostro fuso alla tua carne. Quando marchii un Punto Vita per trasformarti, ogni avversario entro portata Vicina deve riuscire in un tiro di resistenza o segnare 1 Stress. |
-
-# Caratteristiche di Classe
-
-## Secondo Fiato
-
-Quando segni un Punto Vita, ottieni resistenza al danno finché non subisci danno Maggiore o superiore.
-
-## Domande di Sfondo
-Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
-- Come hai ucciso il primo nemico che hai sfidato con il tuo potere?
-- Qual è stato l'ultimo assassino prima di te a padroneggiare il dominio del Mutila?
-- Cosa ti impedisce di abbandonare la tua ricerca per un potere più semplice?
-
-# Connessioni
-Chiedi ai tuoi compagni di giocatori una delle seguenti domande affinché la risponda il loro personaggio, oppure crea le tue domande.
-- Quali prove hai trovato nei vostri viaggi che confermano o confutano la storia del tuo gruppo?
-- Quale abilità ti sei specializzato nella ricerca?
-- Per quale motivo è più probabile che tu collabori con altri membri del party?
-
-# Incantesimi del Blood Hunter
-
-## Quarto Cerchio — Il Mio Domínio
-Fai un tiro di Incantesimo contro un bersaglio entro portata Vicina. In caso di successo, marchi uno Stress per incutere nel bersaglio la consapevolezza della propria mortalità fino alla fine della scena. Ogni volta che il bersaglio fa un tiro di azione, il bersaglio marca 1 Stress.
-
-## Quinto Cerchio — Il Mio Domínio II
-Fai un tiro di Incantesimo (13). In caso di successo, marchi due stress per infliggere d8+2 danni magici al bersaglio. Quando il danno supera la Resistenza Danno del bersaglio, aggiungi la tua caratteristica Mutila al danno totale. Se hai almeno 4 Punti Vita segnati, il dado danno diventa un d10 invece.
-
-## Sesto Cerchio — La Mia Magia
-Una volta per riposo lungo, marchi uno Stress per evocare una lama di pura furia contro un bersaglio entro portata Vicina che marca 1 Punto Vita e segna 3 Stress.
+### CONNESSIONI
+- Io e te abbiamo imparato a cacciare insieme. Per quale tecnica siamo famosi nel nostro gruppo?
+- C'è qualcosa nel mio utilizzo della magia del sangue che ti rende cauto o a disagio intorno a me?
+- Quale segreto del mio passato stiamo proteggendo insieme?

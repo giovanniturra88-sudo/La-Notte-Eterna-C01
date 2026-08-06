@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Nani possiedono una vista che è meno basata sulla luce e più sulla percezione delle vibrazioni telluriche. Si muovono nelle zone corrotte senza alcuna penalità, leggendo le vibrazioni delle strutture attorno a loro.
 - **Relazione con le Fazioni**: Essenziali per le gilde che gestiscono le infrastrutture di Neir. Sono però costantemente in conflitto con le entità che abitano le profondità, che vedono le loro attività minerarie come un'intrusione.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Dwarf** (Manuale base, pag. 54).
-- *Modifiche apportate*: Abbiamo adattato la loro resilienza classica convertendo la capacità di "non muoversi" in una scelta tattica che genera *Tensione*, sottolineando come la loro ostinata resistenza attiri l'attenzione delle creature abissali.

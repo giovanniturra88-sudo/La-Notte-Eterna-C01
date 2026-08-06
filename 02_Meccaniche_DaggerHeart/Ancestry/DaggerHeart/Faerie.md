@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Le Fearie non vedono "la luce" come gli altri esseri organici, ma percepiscono le frequenze del piano astrale. Per loro, l'oscurità è una tela vibrante di colori invisibili, rendendo la Notte Eterna il loro terreno di caccia naturale.
 - **Relazione con le Fazioni**: Sono temute dalle fazioni di Neir come presagi di sventura o caos. Spesso vivono ai margini della civiltà, agendo come traghettatori di sogni o pericolosi ingannatori.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Faerie** (adattato per la mobilità aerea e l'interazione con il piano astrale).
-- *Modifiche apportate*: Abbiamo bilanciato la loro capacità di movimento naturale (volo) con il rischio di generare *Tensione* ogni volta che usano la loro magia per influenzare i compagni, rappresentando la loro natura aliena e pericolosa.

@@ -12,12 +12,8 @@ type:
 
 - **Dita Agili (Nimble Fingers)**: Quando fallisci una prova con un dado di *Speranza*, puoi spendere 2 punti *Speranza* per rigirare quel dado.
   
-- **Flicker Step**: Una volta per scena, quando inizi o finisci il tuo turno a più di Distanza Ravvicinata da doveeri, puoi teleportarti fino a Distanza Lunga in un luogo non occupato a Distanza Ravvicinata da dove eri precedentemente.
+- **Flicker Step**: Una volta per scena, quando inizi o finisci il tuo turno a più di Distanza Ravvicinata da dove eri, puoi teleportarti fino a Distanza Lunga in un luogo non occupato a Distanza Ravvicinata da dove eri precedentemente.
 
 ## Integrazione in La Notte Eterna
-- **Presenza nel Mondo**: Gli Gnome sono figure onnipresenti ma sottovalutate — spesso visti come semplici artiggiani o messaggeri, ma la loro capacità di teleportazione li rende preziosi per operazioni delicate. Le fazioni più astute li cercano attivamente come agenti.
+- **Presenza nel Mondo**: Gli Gnomi sono figure onnipresenti ma sottovalutate — spesso visti come semplici artigiani o messaggeri, ma la loro capacità di teleportazione li rende preziosi per operazioni delicate. Le fazioni più astute li cercano attivamente come agenti.
 - **Adattamento Lore**: La loro piccola statura li rende spesso sottovalutati dai nemici — un vantaggio che gli Gnome sfruttano abilmente in ogni contesto.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Daggerheart Hope & Fear — Cap. 1, pag. 26-27
-- *Focus*: Utilità tattica con teleportazione e reroll della Speranza, perfetto per ruoli di supporto/agilità.

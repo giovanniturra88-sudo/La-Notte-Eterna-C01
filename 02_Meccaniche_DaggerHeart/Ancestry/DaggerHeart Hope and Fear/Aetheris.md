@@ -17,7 +17,3 @@ type:
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Aetheris sono visti come portatori di buon presagio o messaggi divini. La loro aura sacra è considerata una benedizione — o una maledizione, a seconda dei punti di vista. Fazioni religiose potrebbero venerarli, mentre i sospettosi li temono come presagi di cambiamento.
 - **Adattamento Lore**: La loro capacità di trasformare la Paura in Speranza li rende alleati preziosi nella lotta contro il Vuoto, ma attira anche l'attenzione di coloro che vogliono sfruttare o eliminare questo potere.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Daggerheart Hope & Fear — Cap. 1, pag. 20
-- *Focus*: Supporto al gruppo e manipolazione della meccanica Paura/Speranza, con mobilità aerea.

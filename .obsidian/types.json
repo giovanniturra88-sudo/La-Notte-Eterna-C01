@@ -12,6 +12,7 @@
     "type": "multitext",
     "tipo_nemico": "multitext",
     "attacchi": "multitext",
-    "tratti": "multitext"
+    "tratti": "multitext",
+    "classe": "multitext"
   }
 }

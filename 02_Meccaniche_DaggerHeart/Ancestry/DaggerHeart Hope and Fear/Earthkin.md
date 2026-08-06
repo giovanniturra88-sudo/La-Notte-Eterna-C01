@@ -17,7 +17,3 @@ type:
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Earthkin sono temuti e rispettati per la loro resistenza naturale. Le fazioni che operano nel sottosuolo o nelle fortificazioni li cercano come soldati d'elite. Tuttavia, la loro natura "inesorabile" li rende sospetti agli occhi di chi teme i poteri tellurici.
 - **Adattamento Lore**: La loro capacità di tornare alla terra dopo la morte li rende figure cicliche nella mitologia locale — "non muoiono, tornano al suolo da cui vennero".
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Daggerheart Hope & Fear — Cap. 1, pag. 22
-- *Focus*: Tank/protettore con alta sopravvivenza e controllo del posizionamento.

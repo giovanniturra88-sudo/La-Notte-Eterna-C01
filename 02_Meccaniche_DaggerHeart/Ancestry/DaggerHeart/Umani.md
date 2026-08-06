@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Sono il pilastro delle gilde civili, mercantili e accademiche. La loro società è un fragile castello di carte che tentano di proteggere dal decadimento esterno.
 	- **Esterni**: Visti come intrusi o, nei casi migliori, come portatori di una tecnologia (e di un'arroganza) che minaccia di attirare ancora più corruzione nel mondo.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la versatilità e il "punto eroico" (Spinta di Volontà) con il rischio di fallimento catastrofico, rendendo l'umano una razza che gioca costantemente col rischio per superare i propri limiti biologici.

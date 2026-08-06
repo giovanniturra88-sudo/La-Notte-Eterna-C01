@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Sono il collante sociale dei quartieri bassi. Spesso operano come corrieri clandestini o informatori, muovendosi attraverso i condotti che gli abitanti più grandi ignorano.
 	- **Esterni**: Visti con cautela; la loro abilità nel "far sparire" le cose (o se stessi) li rende sospettabili di contatti con le entità che abitano le zone corrotte.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la loro mobilità superiore e le capacità di mitigazione dei danni con il costo in *Tensione*, rendendoli piccoli ma cruciali per la gestione del campo di battaglia.

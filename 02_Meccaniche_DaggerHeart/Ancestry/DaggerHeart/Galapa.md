@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Galapa non vedono nel senso tradizionale. La loro pelle e il loro guscio sono sensibili alle variazioni di pressione atmosferica. In una stanza buia, "mappano" lo spazio circostante percependo i volumi d'aria e le correnti, rendendoli immuni alle penalità di oscurità.
 - **Relazione con le Fazioni**: Molto rispettati dalle biblioteche e dagli ordini di Neir come custodi dei pochi archivi rimasti. La loro naturale lentezza è vista come una forma di saggezza meditativa, raramente scambiata per debolezza.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Katari** (adattato per la robustezza fisica) o **Dwarf** (per la stabilità).
-- *Modifiche apportate*: Abbiamo sostituito la mobilità tipica delle razze agili con una forte capacità di difesa reattiva e una resistenza metabolica unica, perfetta per un personaggio che funge da "ancora" per il gruppo.

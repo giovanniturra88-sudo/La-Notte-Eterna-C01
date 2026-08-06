@@ -9,7 +9,7 @@ type:
 - **Origine**: costrutti senzienti forgiati nelle antiche fucine della Dimensione della Materia. La loro origine è legata sia alla tecnologia perduta della Guerra Celeste che alla volontà dei loro creatori mortali.
 - **Archetipo**: Costrutti dotati di anima o coscienza artificiale, spesso in cerca di uno scopo o di una comprensione della propria origine.
 
-## Tratti Ancestrali (Meccaniche)
+## Tratti Ancestrali
 - **Progettato con uno scopo**: decidi chi ti ha creato e per quale scopo. Alla creazione del personaggio, scegli una delle tue Esperienze che meglio si allinea a questo scopo e ottieni un bonus permanente di +1 a essa.
 - **Efficiente**: Quando effettui un riposo breve, puoi scegliere una mossa da riposo lungo invece di una mossa da riposo breve.
 
@@ -20,7 +20,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: In una terra avvolta nella Notte Eterna, i Clank sono spesso immuni alla corruzione biologica che colpisce gli abitanti di Neir. La loro natura inorganica li rende preziosi esploratori nelle zone infestate da spore o veleni.
 - **Relazione con le Fazioni**: Sono visti come reliquie viventi della Guerra Celeste o come strumenti avanzati. Le gilde magiche di Neir sono affascinate dalla loro struttura, mentre le fedi più conservatrici potrebbero considerarli abominazioni senza anima.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Clank** (Manuale base, pag. 53).
-- *Modifiche apportate*: Adattamento contestuale alla lore di Nebvarasa, enfatizzando il loro ruolo di esploratori immuni agli agenti biologici della Notte Eterna.

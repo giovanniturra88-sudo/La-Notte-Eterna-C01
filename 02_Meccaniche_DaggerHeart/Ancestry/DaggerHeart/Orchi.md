@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Visti con timore dalle gilde di difesa della città. Molti Orchi lavorano come mercenari o guardie del corpo nelle zone più pericolose, dove la loro forza bruta è l'unica garanzia di sopravvivenza.
 	- **Esterni**: Sono temuti per la loro capacità di attraversare le zone corrotte senza scomporsi. Le fazioni nomadi li rispettano come sopravvissuti naturali che hanno rifiutato la dipendenza dalla tecnologia di Neir.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la loro enorme resilienza fisica e la capacità di attirare le minacce con il rischio narrativo della *Tensione*, rendendoli dei veri "perni" tattici per il gruppo, capaci di assorbire colpi ma anche di complicare le situazioni con il loro rumore.

@@ -17,7 +17,3 @@ type:
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Emberkin sono visti come forze della natura — distruttivi ma anche purificatori. Le comunità che li accettano li utilizzano per forgiatura, riscaldamento e difesa. Quelli repressi possono esplodere in violenza incontrollata.
 - **Adattamento Lore**: La loro scintilla vitale è vista come metafora dell'anima stessa — finché arde, c'è speranza. Le culture locali potrebbero avere riti funerari che prevedono la dispersione delle ceneri.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Daggerheart Hope & Fear — Cap. 1, pag. 23
-- *Focus*: Danno elevato con rischio/recupero, resistenza esclusiva al fuoco.

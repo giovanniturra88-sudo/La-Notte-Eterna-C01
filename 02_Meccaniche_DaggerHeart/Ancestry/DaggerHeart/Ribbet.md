@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Considerati degli "abitatori del basso", i Ribbet sono spesso tenuti a distanza a causa del loro odore e del loro legame con le zone più insalubri della città. Tuttavia, sono indispensabili come guide nelle cloache e negli acquedotti in rovina.
 	- **Esterni**: Molti Ribbet vivono in piccoli insediamenti comunitari presso le sorgenti contaminate della superficie. Sono visti con sospetto per la loro capacità di "mangiare" la corruzione, che alcuni interpretano come una forma di adorazione del Vuoto.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la loro straordinaria mobilità (salto) e utilità ambientale con il rischio di richiamare l'attenzione del Vuoto attraverso il loro uso tattico della lingua, enfatizzando la loro natura di esseri che prosperano nel degrado.

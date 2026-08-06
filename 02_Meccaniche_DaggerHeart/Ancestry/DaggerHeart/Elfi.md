@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Gli Elfi non vedono "nel buio", ma percepiscono le aure di energia dei luoghi e delle creature; questo permette loro di muoversi senza alcuna penalità nelle zone corrotte dalla Notte Eterna.
 - **Relazione con le Fazioni**: Visti con un misto di invidia e reverenza dalle gilde accademiche di Neir, che tentano di carpire i loro segreti sulla natura della magia perduta. Spesso isolati, preferiscono la compagnia di coloro che rispettano il silenzio.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Elfo** (Manuale base, pag. 55).
-- *Modifiche apportate*: Abbiamo enfatizzato il legame con la memoria del passato e la capacità di muoversi "tra le pieghe" della realtà, legando l'efficacia del loro movimento silenzioso alla generazione di *Tensione* per il GM.

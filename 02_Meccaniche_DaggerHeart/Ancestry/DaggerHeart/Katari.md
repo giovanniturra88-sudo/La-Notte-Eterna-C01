@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Visti con timore reverenziale. Molte gilde li assoldano come "cacciatori di taglie" per recuperare oggetti o persone disperse nei livelli inferiori di Neir, dove la luce non arriva.
 	- **Esterni**: Molti clan Katari vivono ai margini della civiltà, agendo come guardiani delle rotte commerciali più pericolose, esigendo un tributo (spesso in cibo o tecnologia) in cambio del passaggio sicuro.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la loro mobilità eccezionale e la capacità offensiva con un alto rischio di generare *Tensione*, rendendo il Katari un personaggio che deve bilanciare la sua sete di caccia con il pericolo che attrae su tutto il gruppo.

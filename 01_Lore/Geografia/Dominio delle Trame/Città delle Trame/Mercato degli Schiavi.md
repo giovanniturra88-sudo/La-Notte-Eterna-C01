@@ -9,7 +9,7 @@ Il mercato degli schiavi dista appena un centinaio di metri dal Cancello. Ogni a
 | Maschio/Femmina [[Urakian]]      | Riserva di Sangue, Lavoratore, Gladiatore             | 500 mo |
 | Maschio/Femmina [[Elfi\|elfo]]   | Riserva di Sangue, Schiavo dedito al piacere sessuale | 150 mo |
 | Maschio/Femmina [[Halfling]]     | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
-| Maschio/Femmina [[Gnome]]        | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
+| Maschio/Femmina [[Gnomi]]        | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
 | Maschio/Femmina [[Orchi\|orco]]  | Riserva di Sangue, Lavoratore, Gladiatore             | 100 mo |
 | Maschio/Femmina [[Karevi]]       | Riserva di Sangue, Scriba, Servo                      | 200 mo |
 | Maschio/Femmina [[Umani\|umano]] | Riserva di Sangue, Lavoratore                         | 75 mo  |

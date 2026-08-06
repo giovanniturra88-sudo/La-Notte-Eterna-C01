@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Goblin possiedono una vista "termica-residuale". Non vedono nel buio completo come le creature magiche, ma percepiscono le micro-correnti d'aria causate dal calore dei corpi o dal movimento dei meccanismi. Sono gli unici in grado di navigare nei condotti di ventilazione di Neir senza l'uso di ausili.
 - **Relazione con le Fazioni**: Considerati il "parassita" necessario della città. Le fazioni di Neir li disprezzano, ma li assoldano regolarmente per compiti di recupero o esplorazione in zone dove la corruzione ha reso l'aria tossica per le razze più grandi.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Goblin** (adattato per la mobilità tattica).
-- *Modifiche apportate*: Abbiamo rimosso la resistenza bruta in favore di una sinergia con gli alleati, trasformando il loro "colpo fortunato" in una risorsa legata alla *Tensione*, rendendo il Goblin un personaggio che vive sul filo del rasoio.

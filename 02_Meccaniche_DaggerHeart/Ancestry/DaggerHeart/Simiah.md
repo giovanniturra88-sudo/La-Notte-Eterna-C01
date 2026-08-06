@@ -21,7 +21,3 @@ type:
 - **Relazione con le Fazioni**:
 	- **Neir**: Spesso guardati con un misto di invidia e fastidio dalle gilde civili. Sono gli unici in grado di ispezionare le parti alte dei monumenti o riparare le condutture superiori senza bisogno di impalcature.
 	- **Esterni**: Visti come "figli del vento" o spiriti inquieti. Sono ricercati dalle carovane nomadi per la loro capacità di avvistare pericoli da posizioni sopraelevate e di trovare percorsi sicuri dove la terra è impraticabile.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la loro mobilità verticale estrema con il costo narrativo della *Tensione*, rendendo il Simiah un personaggio che è maestro nel trovare ciò che è nascosto, ma che spesso finisce per attirare attenzioni indesiderate a causa della sua curiosità.

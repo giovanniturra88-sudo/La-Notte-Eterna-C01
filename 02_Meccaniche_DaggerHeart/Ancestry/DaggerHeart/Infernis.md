@@ -15,7 +15,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Gli Infernis non vedono il buio come una minaccia, ma come un ambiente naturale. Non soffrono le penalità ambientali nelle zone dove la "Notte Eterna" è più densa (es. le cripte di Mendulia's Rock).
 - **Relazione con le Fazioni**: Visti spesso con sospetto dalle fazioni legate alla luce divina, ma ricercati come mercenari o studiosi occulti dalle gilde magiche di Neir, che riconoscono il loro legame con le dimensioni oscure.
- 
-## Note di Adattamento
-- _Base Daggerheart di riferimento_: **Infernis** (Manuale base, pag. 081).
-- _Modifiche apportate_: Ho reso _Fearless_ più narrativo (legandolo alla natura "corrotta" del mondo) e aggiunto _Sangue dei Circoli_ per dare un vantaggio attivo in combattimento, tipico del gioco _dark fantasy_.

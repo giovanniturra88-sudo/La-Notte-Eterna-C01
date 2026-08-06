@@ -17,7 +17,3 @@ type:
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Fauni percepiscono la Notte Eterna attraverso i sensi olfattivi e uditivi potenziati. Non subiscono penalità nel buio, poiché percepiscono l'ambiente circostante come una mappa di odori e suoni in costante mutamento.
 - **Relazione con le Fazioni**: Spesso guardati con sospetto dai coloni di Neir, che vedono le loro abilità come "selvagge" o pericolose. Sono tuttavia i migliori esploratori per chiunque debba avventurarsi nelle zone dove la natura ha preso il sopravvento sulla città.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Faun** (Manuale base).
-- *Modifiche apportate*: Abbiamo spostato il focus dalla semplice agilità alla capacità di sopravvivenza in un ambiente corrotto, bilanciando il loro "Richiamo" con la meccanica della *Tensione* per riflettere il pericolo costante di essere cacciati nelle zone selvagge.
