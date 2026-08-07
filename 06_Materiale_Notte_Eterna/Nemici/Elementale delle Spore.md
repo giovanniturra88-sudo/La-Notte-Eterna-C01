@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Elementale delle Spore
 * **Descrizione:** Abominio vegetale composto da spore tossiche e miceli bioluminescenti delle Terre Nascoste.

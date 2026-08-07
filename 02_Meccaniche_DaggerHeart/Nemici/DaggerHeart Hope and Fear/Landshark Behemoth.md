@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 
 # Landshark Behemoth

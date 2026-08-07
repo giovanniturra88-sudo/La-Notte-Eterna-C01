@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 
 # Guahalan Spirit Singer

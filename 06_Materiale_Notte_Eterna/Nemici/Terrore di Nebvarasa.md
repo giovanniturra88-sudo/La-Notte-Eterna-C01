@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 ## Terrore di Nebvarasa
 * **Descrizione:** La quintessenza dell'incubo: mostruosità epica creata dalla concentrazione della Guerra Celeste.

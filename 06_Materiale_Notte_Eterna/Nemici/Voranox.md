@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 ## Voranox
 * **Descrizione:** Bestia velenosa alata dal corpo serpentiforme e fauci cariche di tossine corrosive.

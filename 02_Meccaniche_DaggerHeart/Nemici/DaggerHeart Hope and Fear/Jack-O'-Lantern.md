@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
 # Jack-O'-Lantern

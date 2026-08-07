@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Drago dei Sogni
 * **Descrizione:** Entità cosmica tessitrice dei reami onirici, messaggero della dea Lanie in grado di intrappolare i mortali nelle proprie illusioni.

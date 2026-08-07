@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Regina dello Sciame
 * **Descrizione:** Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita.

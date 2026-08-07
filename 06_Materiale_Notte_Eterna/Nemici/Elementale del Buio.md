@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Elementale del Buio
 * **Descrizione:** Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla.

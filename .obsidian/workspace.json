@@ -11,32 +11,27 @@
             "id": "57fee7850e1d1fbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine dello Spettro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordine dello Spettro"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           },
           {
-            "id": "b6c17a4da4cd9f4a",
+            "id": "8bd08445c443d027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Earthkin.md",
-                "mode": "preview",
+                "file": "06_Materiale_Notte_Eterna/Nemici/Choptok.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Earthkin"
+              "title": "Choptok"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,34 +200,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b6c17a4da4cd9f4a",
+  "active": "57fee7850e1d1fbf",
   "lastOpenFiles": [
-    "00_Dashboard/Master e Players/Indice SottoClassi.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Congrega della Siepe.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine dello Spettro.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine del Mutante.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine del Licantropo.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Teurga.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Necromante.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto dell'Infinito.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Gilda dei Tossicologi.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto dell'Ira.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Gilda dei Sicari.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Congrega della Luna.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Artista Marziale.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Colosso.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Baluardo.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Campione Divino.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Chiamata dei Coraggiosi.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Chiamata dello Sterminatore.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Custode degli Elementi.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Custode del Rinnovamento.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Esploratore.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Fabbro di Parole.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Legato alla Bestia.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Ombra della Notte.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Origine Elementale.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Origine Primordiale.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Branco Demoniaco.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Yufo.md",
+    "06_Materiale_Notte_Eterna/Nemici/Choptok.md",
+    "06_Materiale_Notte_Eterna/Nemici/Impundulu.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart Hope and Fear/Mountain Troll.md",
+    "06_Materiale_Notte_Eterna/Nemici/Voranox.md",
+    "06_Materiale_Notte_Eterna/Nemici/Vaïkas.md",
+    "06_Materiale_Notte_Eterna/Nemici/Tloxa.md",
+    "06_Materiale_Notte_Eterna/Nemici/Titano Tloxa.md",
+    "06_Materiale_Notte_Eterna/Nemici/Titano d'Ombra dello Xanesh.md",
+    "06_Materiale_Notte_Eterna/Nemici/Terrore di Nebvarasa.md",
+    "06_Materiale_Notte_Eterna/Nemici/Smarrito.md",
+    "06_Materiale_Notte_Eterna/Nemici/Shimbyaleth.md",
+    "06_Materiale_Notte_Eterna/Nemici/Scorpione delle Dune.md",
+    "06_Materiale_Notte_Eterna/Nemici/Rotloss.md",
+    "06_Materiale_Notte_Eterna/Nemici/Nuno.md",
+    "06_Materiale_Notte_Eterna/Nemici/Regina dello Sciame.md",
+    "06_Materiale_Notte_Eterna/Nemici/Qal.md",
+    "06_Materiale_Notte_Eterna/Nemici/Pupazzo Diabolico.md",
+    "06_Materiale_Notte_Eterna/Nemici/Predatore Sotterraneo.md",
+    "06_Materiale_Notte_Eterna/Nemici/Ninfa della Discordia.md",
+    "06_Materiale_Notte_Eterna/Nemici/Nâtsik.md",
+    "06_Materiale_Notte_Eterna/Nemici/Mambabarang.md",
+    "06_Materiale_Notte_Eterna/Nemici/Loy'ach.md",
+    "06_Materiale_Notte_Eterna/Nemici/Kurna.md",
+    "06_Materiale_Notte_Eterna/Nemici/Kukunnaz.md",
     "00_Dashboard/Master e Players",
     "00_Dashboard/Master",
     "04_Risorse/Guide/Daggerheart_Core_Book_-_Full_Art_Cards_-_9-09-25.pdf",

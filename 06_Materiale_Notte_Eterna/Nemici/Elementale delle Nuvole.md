@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Elementale delle Nuvole
 * **Descrizione:** Creatura eterea e tempestosa fatta di nebbia densa, fulmini e venti impetuosi.

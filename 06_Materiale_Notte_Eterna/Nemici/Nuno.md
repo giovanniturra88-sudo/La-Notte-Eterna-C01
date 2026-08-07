@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Nuno
 * **Descrizione:** Piccolo e burbero spirito della terra che dimora nei monticoli e punisce chi calpesta la sua dimora senza rispetto.

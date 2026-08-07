@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Berberoka
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.

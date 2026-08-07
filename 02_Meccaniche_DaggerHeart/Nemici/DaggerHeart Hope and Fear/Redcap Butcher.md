@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
 # Redcap Butcher

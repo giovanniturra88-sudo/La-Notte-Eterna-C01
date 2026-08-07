@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 ## Mambabarang
 * **Descrizione:** Strega o sciamano corrotto che evoca sciami di insetti e maledizioni viscerali dal proprio corpo.

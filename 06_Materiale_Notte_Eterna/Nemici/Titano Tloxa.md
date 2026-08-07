@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Titano Tloxa
 * **Descrizione:** Versione colossale degli anfibi tloxa, veneratore antico delle forze abissali.

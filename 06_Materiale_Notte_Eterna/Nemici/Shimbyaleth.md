@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Shimbyaleth
 * **Descrizione:** Orrore tentacolare delle profondità abissali, creatura di puro incubo subacqueo.

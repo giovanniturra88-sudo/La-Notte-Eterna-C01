@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Choptok
 * **Descrizione:** Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatte di foglie.

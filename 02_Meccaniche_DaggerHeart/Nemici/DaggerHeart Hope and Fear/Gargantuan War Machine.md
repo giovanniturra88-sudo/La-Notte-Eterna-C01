@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 
 # Gargantuan War Machine

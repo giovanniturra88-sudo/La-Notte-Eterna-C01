@@ -7,6 +7,8 @@ Dominio:
   - "[[Arcana]]"
   - "[[MezzaNotte]]"
 source: La Notte Eterna
+location:
+  - "[[Cenere di Lanie]]"
 ---
 # Sottoclasse: Elementalista
 

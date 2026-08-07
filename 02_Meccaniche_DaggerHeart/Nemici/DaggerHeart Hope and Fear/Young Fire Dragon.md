@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 
 # Young Fire Dragon

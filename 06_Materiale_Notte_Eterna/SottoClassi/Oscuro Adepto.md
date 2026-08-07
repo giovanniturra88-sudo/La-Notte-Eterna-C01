@@ -7,6 +7,9 @@ Dominio:
   - "[[Grazia]]"
 spellcast_trait: Presenza (Presence)
 source: La Notte Eterna
+location:
+  - "[[Pianure di Xanesh]]"
+  - "[[Mubunash]]"
 ---
 # Sottoclasse: Oscuro Adepto
 

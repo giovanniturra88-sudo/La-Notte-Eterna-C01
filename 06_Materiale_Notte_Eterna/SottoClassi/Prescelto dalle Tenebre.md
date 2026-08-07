@@ -7,6 +7,9 @@ Dominio:
   - "[[MezzaNotte]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
+location:
+  - "[[Gloriosa Ezakran|Ezakran]]"
+  - "[[Impero delle Terre Nascoste]]"
 ---
 # Sottoclasse: Prescelto dalle Tenebre
 

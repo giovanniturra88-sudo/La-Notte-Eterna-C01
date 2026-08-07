@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Bararumm
 * **Descrizione:** Grosso bovino cieco dal pelo folto e con un singolo corno frontale. Utilizza la vista cieca/udito radar per orientarsi.

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
 # Darkweave Crawler

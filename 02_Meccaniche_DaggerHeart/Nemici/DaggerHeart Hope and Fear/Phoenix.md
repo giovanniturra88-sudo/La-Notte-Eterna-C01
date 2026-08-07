@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[a Distanza]]"
 ---
 
 # Phoenix

@@ -7,6 +7,8 @@ Dominio:
   - "[[Grazia]]"
 spellcast_trait: Finesse
 source: La Notte Eterna
+location:
+  - "[[Mendulia's Rock]]"
 ---
 # I Dardi Sanguinanti
 

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
 aliases:
   - Il principe delle Anguille
 ---

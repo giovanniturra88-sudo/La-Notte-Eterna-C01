@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
 # Severed Shadow

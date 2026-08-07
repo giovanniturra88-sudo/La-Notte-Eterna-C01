@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Cacciatore di Anime
 * **Descrizione:** Non-morto alato agile e spietato, creato dai necromanti xaan per cacciare ed estrarre le anime di viventi e spettri.

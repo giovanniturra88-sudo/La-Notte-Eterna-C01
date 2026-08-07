@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Amalgama Mostruosa
 * **Descrizione:** Abominio nato dalla fusione magica di più animali a causa della caduta delle meteore. Può variare notevolmente in forma e attacchi.

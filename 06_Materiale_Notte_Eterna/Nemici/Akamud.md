@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Akammud
 * **Descrizione:** Aberrazione alata rettiliana proveniente dal Monte delle Anime Perdute, usata come cavalcatura da guerra rapida e letale.

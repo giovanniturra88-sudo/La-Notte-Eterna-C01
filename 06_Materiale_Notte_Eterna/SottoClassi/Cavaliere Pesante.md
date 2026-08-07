@@ -9,6 +9,8 @@ Dominio:
   - "[[Ossa]]"
   - "[[Valore]]"
 source: La Notte Eterna
+location:
+  - "[[Ducato di Öuin]]"
 ---
 # Sottoclasse: Cavaliere Pesante
 

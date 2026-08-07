@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Orda]]"
 ---
 
 # Flock of Feather Fiends

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 
 # Berserker Alpha

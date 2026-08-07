@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Qal 
 * **Descrizione:** Demone volatile d'ombra e piume scure che nidifica nelle rovine abbandonate.

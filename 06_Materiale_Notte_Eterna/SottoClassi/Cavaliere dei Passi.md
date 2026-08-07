@@ -7,6 +7,9 @@ Dominio:
   - "[[Saggio]]"
 spellcast_trait: Istinto
 source: La Notte Eterna
+location:
+  - "[[Ducato di Öuin]]"
+  - "[[Landa di Edeber]]"
 ---
 # Sottoclasse: Cavaliere dei Passi
 

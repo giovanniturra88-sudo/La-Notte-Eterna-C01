@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Orda]]"
 ---
 
 # Hallowed Choir

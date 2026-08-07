@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Sociale]]"
 ---
 ## Ninfa della Discordia
 * **Descrizione:** Spirito corrotto della natura che instilla odio, paranoia e follia tra i compagni di viaggio.

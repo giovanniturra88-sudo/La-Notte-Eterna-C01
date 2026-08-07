@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[a Distanza]]"
 ---
 
 # Centaur Warden

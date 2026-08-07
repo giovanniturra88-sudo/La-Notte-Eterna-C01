@@ -7,6 +7,9 @@ Dominio:
   - "[[MezzaNotte]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
+location:
+  - "[[Cenere di Lanie]]"
+  - "[[Cratere di Lava]]"
 ---
 
 # I Cacciatori di Meteore

@@ -10,6 +10,9 @@ Dominio:
   - "[[Saggio]]"
   - "[[Lama]]"
 source: La Notte Eterna
+location:
+  - "[[Landa di Edeber]]"
+  - "[[Azkabel]]"
 ---
 
 # Sottoclasse: Lama di Dor

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Nâtsik
 * **Descrizione:** Creatura rettiliana anfibia che caccia nelle paludi e lungo i fiumi sommersi di Neir.

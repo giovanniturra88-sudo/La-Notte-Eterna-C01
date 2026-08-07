@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Drago della Luna (Aragadanavalaramsshra)
 * **Descrizione:** Maestoso drago argentato alleato dei mortali, in grado di manipolare l'energia lunare, la forza di gravità ed esiliare i nemici.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Guardiano di Sangue
 * **Descrizione:** Costrutto o non-morto rituale animato dal sangue e dal sacrificio, guardiano irremovibile di cripte e reliquie.

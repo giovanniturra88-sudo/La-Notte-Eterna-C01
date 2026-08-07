@@ -7,6 +7,8 @@ Dominio:
   - "[[Ossa]]"
 spellcast_trait: Forza
 source: La Notte Eterna
+location:
+  - "[[Valli dei Giganti]]"
 ---
 # Sottoclasse: Lupo del Nord
 

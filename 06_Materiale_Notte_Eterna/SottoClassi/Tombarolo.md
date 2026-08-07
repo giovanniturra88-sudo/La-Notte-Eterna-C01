@@ -7,6 +7,8 @@ Dominio:
   - "[[Grazia]]"
 spellcast_trait: Finesse
 source: La Notte Eterna
+location:
+  - "[[Favoleggiate Rovine di Gundazar]]"
 ---
 # Sottoclasse: Tombarolo
 

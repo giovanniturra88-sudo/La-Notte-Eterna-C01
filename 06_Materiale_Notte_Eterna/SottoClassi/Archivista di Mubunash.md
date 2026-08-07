@@ -8,6 +8,8 @@ Dominio:
   - "[[Splendore]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
+location:
+  - "[[Mubunash]]"
 ---
 # Gli Archivisti di Mubunash
 

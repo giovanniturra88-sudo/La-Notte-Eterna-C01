@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 ## Kraven
 * **Descrizione:** Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio.

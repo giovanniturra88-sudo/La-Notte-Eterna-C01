@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
 # Temporal Enforcer

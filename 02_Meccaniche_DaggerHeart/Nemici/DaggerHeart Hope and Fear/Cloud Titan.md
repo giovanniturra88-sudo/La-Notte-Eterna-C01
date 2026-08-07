@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Sociale]]"
 ---
 
 # Cloud Titan

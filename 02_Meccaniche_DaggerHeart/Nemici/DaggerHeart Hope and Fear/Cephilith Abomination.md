@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
 # Cephilith Abomination

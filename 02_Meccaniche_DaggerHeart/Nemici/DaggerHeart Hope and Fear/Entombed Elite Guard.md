@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
 # Entombed Elite Guard

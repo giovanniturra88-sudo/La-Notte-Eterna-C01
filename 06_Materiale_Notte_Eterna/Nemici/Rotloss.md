@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 ## Rotloss
 * **Descrizione:** Umanoide non-morto coperto di piaghe e marciume fungino che infetta chiunque lo tocchi.

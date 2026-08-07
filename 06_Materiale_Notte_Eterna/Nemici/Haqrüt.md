@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Haqrüt
 * **Descrizione:** Bestia predatrice delle desolate brughiere di Cenere, cacciatore implacabile e solitario.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Gigante Fungino
 * **Descrizione:** Imponente umanoide composto interamente da stratificazioni di legno marcito, miceli e funghi giganti.

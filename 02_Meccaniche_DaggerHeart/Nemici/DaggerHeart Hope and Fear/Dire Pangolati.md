@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
 # Dire Pangolati

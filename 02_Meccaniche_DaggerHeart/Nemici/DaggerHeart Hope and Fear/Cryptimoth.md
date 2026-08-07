@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Furtivo]]"
 ---
 
 # Cryptimoth

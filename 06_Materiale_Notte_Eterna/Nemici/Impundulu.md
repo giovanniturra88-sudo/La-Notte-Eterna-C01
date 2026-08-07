@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Impundulu (Uccello del Fulmine)
 * **Descrizione:** Creatura mitologica simile a un enorme rapace in grado di evocare fulmini e trasformarsi in forma umana.

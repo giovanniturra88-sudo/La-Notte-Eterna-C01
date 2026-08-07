@@ -7,6 +7,9 @@ Dominio:
   - "[[Splendore]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
+location:
+  - "[[Principato di Darkflame]]"
+  - "[[I Bianchi Sepolcri]]"
 ---
 # Spiritualista
 

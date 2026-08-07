@@ -10,6 +10,10 @@ Dominio:
   - "[[Ossa]]"
   - "[[Splendore]]"
 source: La Notte Eterna
+location:
+  - "[[Mubunash]]"
+  - "[[Ducato di Öuin]]"
+  - "[[Vetta delle Anime]]"
 ---
 
 # Sottoclasse: Cavaliere di Kurash

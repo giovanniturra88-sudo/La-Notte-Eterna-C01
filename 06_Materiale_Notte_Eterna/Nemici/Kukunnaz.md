@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Kūkunnaz
 * **Descrizione:** Insettoide gigante corazzato scavatore di gallerie sotterranee, dotato di chele e mandibole devastanti.

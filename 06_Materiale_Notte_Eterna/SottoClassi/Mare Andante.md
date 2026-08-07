@@ -8,6 +8,9 @@ Dominio:
   - "[[Ossa]]"
 spellcast_trait: Istinto
 source: La Notte Eterna
+location:
+  - "[[Mendulia's Rock]]"
+  - "[[Baia di Redoro]]"
 ---
 
 # Il Mare Andante

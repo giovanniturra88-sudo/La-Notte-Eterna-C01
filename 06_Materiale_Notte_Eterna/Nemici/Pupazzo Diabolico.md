@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 ## Pupazzo Diabolico
 * **Descrizione:** Costrutto animato da una maligna entità spirituale, apparentemente un giocattolo innocuo.

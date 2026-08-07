@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Kurna
 * **Descrizione:** Demone minore strisciante, stridulo e pestilenziale, inviato per diffondere morbi e disperazione.

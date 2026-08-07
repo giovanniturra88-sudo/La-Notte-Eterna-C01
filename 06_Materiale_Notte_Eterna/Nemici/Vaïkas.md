@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 ## Vaïkas
 * **Descrizione:** Insettoide predatore dalle lunghe zampe affilate come lame, agile arrampicatore di pareti rocciose.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Titano d'Ombra dello Xanesh
 * **Descrizione:** Colosso di pura ombra legato ai rituali proibiti della principessa Xanesh.

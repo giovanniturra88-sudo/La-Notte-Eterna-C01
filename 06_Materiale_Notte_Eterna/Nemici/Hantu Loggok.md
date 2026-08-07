@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Hantu Loggok
 * **Descrizione:** Spettro maligno della foresta scaturito da un suicidio o omicidio cruento tra gli alberi-fungo.

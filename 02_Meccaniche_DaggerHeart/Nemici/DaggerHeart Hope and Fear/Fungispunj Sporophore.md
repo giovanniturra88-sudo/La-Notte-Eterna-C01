@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 
 # Fungispunj Sporophore

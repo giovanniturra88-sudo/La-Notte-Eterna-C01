@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 ## Fungo Fauce
 * **Descrizione:** Pianta carnivora trappola mimetizzata tra la flora fungina con grandi fauci dentate radicate nel terreno.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Bonguru
 * **Descrizione:** Cinghiale deformato dalla magia della meteora, con tre teste sovrapposte, funghi tossici sul dorso e nidi di calabroni giganti tra le piaghe.

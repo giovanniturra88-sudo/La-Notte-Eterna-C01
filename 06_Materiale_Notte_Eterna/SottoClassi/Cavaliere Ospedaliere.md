@@ -7,6 +7,9 @@ Dominio:
   - "[[Splendore]]"
 spellcast_trait: Presenza
 source: La Notte Eterna
+location:
+  - "[[Ducato di Öuin]]"
+  - "[[Repubblica di Mendulia’s Rock]]"
 ---
 # Sottoclasse: Cavaliere Ospedaliere
 

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 
 # Fire Titan Warlord

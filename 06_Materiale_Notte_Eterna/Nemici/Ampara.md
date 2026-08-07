@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Sociale]]"
 ---
 ## Ampara
 * **Descrizione:** Piccola tartaruga acquatica ultra-longeva dal guscio simile a una pietra levigata del fiume. Sacra ai druidi e ricercata dagli alchimisti.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Elementale dell'Inchiostro
 * **Descrizione:** Entità fluida e vischiosa nata dalla magia trascritta, gola profonda di sapere che prosciuga libri, pergamene e ricordi.

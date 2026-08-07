@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 
 # Entombed Necropriest

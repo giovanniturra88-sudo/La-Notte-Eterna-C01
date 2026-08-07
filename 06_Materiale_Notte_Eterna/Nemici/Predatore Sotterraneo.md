@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Predatore Sotterraneo
 * **Descrizione:** Enorme verme o rettile scuro che striscia al di sotto dei pavimenti di pietra e delle rovine abbandonate.

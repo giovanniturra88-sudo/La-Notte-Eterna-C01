@@ -7,6 +7,8 @@ Dominio:
   - "[[Saggio]]"
   - "[[Terrore]]"
 source: La Notte Eterna
+location:
+  - "[[Valli dei Giganti]]"
 ---
 # Sottoclasse: Criomante
 

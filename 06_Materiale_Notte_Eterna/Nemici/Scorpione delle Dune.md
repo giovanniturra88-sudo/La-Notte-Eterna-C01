@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Scorpione delle Dune
 * **Descrizione:** Aracnide gigante caratteristico dei deserti di Cenere, dotato di una corazza durissima e un veleno micidiale.

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 ## Tloxa
 * **Descrizione:** Umanoide anfibio abitatore delle zone costiere e delle rovine sommerse, devoto a demoni del mare.

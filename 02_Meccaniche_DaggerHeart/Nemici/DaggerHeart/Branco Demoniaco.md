@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Orda]]"
 ---
 
 **_Orda Tier 2 (1/HP)._** _Cani innaturali infiammati dall'interno dal fuoco dell'inferno._

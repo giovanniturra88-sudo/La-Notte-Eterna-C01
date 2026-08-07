@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 ## Haathi
 * **Descrizione:** Gigantesco pachiderma da guerra a quattro zanne, addestrato per abbattere fortificazioni e travolgere ranghi di fanteria.

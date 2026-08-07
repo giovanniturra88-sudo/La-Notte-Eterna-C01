@@ -7,6 +7,9 @@ Dominio:
   - "[[Terrore]]"
   - "[[Grazia]]"
 source: La Notte Eterna
+location:
+  - "[[Azkabel]]"
+  - "[[Principato di Darkflame]]"
 ---
 
 # Sottoclasse: Danse Macabre

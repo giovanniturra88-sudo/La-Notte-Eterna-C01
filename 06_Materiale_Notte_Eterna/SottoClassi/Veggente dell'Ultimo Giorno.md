@@ -7,6 +7,8 @@ Dominio:
   - "[[Saggio]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
+location:
+  - "[[Oasi di Zey]]"
 ---
 
 # Sottoclasse: Veggente dell'Ultimo Giorno

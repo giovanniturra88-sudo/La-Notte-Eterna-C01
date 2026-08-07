@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 ## Smarrito
 * **Descrizione:** Anima errante di un viaggiatore perso nelle tenebre perpetue di Neir, ora guscio vuoto e spettrale.

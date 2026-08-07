@@ -7,6 +7,8 @@ Dominio:
   - "[[Splendore]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
+location:
+  - "[[Daragoss]]"
 ---
 # Sottoclasse: Maestro delle Meraviglie
 

@@ -1,6 +1,7 @@
 ---
-type: 
-- "[[Creatura]]"
+type:
+  - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 ## Drago delle Meteore (Rionnag'hra)
 * **Descrizione:** Custode supremo del confine dimensionale in armatura di adamantio pura. Capace di far cadere le stelle dal cielo.
