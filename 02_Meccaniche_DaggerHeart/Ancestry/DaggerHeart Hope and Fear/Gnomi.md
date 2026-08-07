@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart Hope and Fear
 ---
 
 ## Profilo

@@ -1,46 +1,52 @@
 ---
-type: "[[SottoClassi]]"
-classe: Summoner
-percorso: Necromanzia
+type: Sottoclasse
+classe:
+  - "[[Summoner]]"
+source: DaggerHeart Void
+Dominio:
+  - "[[Sangue]]"
+  - "[[Splendore]]"
+spellcast_trait: Conoscenza
 ---
 
 # Necromante
 
-## Fondazione
+La Necromanzia consente al Summoner di rianimare e controllare spiriti e corpi decaduti per tormentare i nemici e proteggere se stesso.
 
-**Tiro di Incantesimo:** Knowledge (Conoscenza)
-
-### Secondo Cerchio — Zombie Balzellante (Shambling Corpse)
-Puoi evocare Zombie Balzellanti usando il tuo Secondo Cerchio.
-
-### Fame della Tomba (Hunger of the Grave)
-Fai un tiro di Incantesimo contro un bersaglio entro portata Lontana. In caso di successo, i tuoi Zombie Balzellanti si muovono per attaccare il bersaglio, infliggendo 5 danni fisici per ogni Zombie Balzellante prima di tornare da te. Uno Zombie Balzellante poi scompare.
-
-### Raccolta Macabra (Grim Harvest)
-Quando un'avversario entro portata Lontana marca il suo ultimo Punto Vita, puoi evocare uno Zombie Balzellante senza marcare uno Stress.
+- **TRATTO DA INCANTESIMO:** Conoscenza
 
 ---
 
-## Specializzazione
+### CARATTERISTICHE DI FONDAZIONE
 
-### Terzo Cerchio — Spettri (Ghosts)
-Puoi evocare Spettri usando il tuo Terzo Cerchio.
+#### Second Circle - Shambling Corpse (Secondo Cerchio — Cadavere Rianimato)
+Puoi evocare i *Cadaveri Rianimati* (Shambling Corpses) utilizzando il tuo **Secondo Cerchio** di evocazione.
 
-### Protettori Spettrali (Ghostly Protectors)
-Mentre hai almeno uno Spirito evocato, la tua EVADE ha un bonus di +1 poiché gli spiriti ti proteggono.
+#### Hunger of the Grave (Fame della Tomba)
+Effettua un tiro di Incantesimo contro un bersaglio entro portata Lontana (Far) . In caso di successo, i tuoi *Cadaveri Rianimati* si muovono per attaccare il bersaglio, infliggendo **5 danni fisici** per ciascun Cadavere Rianimato attivo, prima di ritornare da te. Successivamente, un *Cadavere Rianimato* scompare.
 
-### Terrore Spettrale (Spectral Terror)
-Fai un tiro di Incantesimo contro un bersaglio entro portata Lontana. In caso di successo, uno dei tuoi Spettri si lancia sul bersaglio per spaventarlo, facendolo segnare uno Stress. Questo Spirito poi scompare.
+#### Macabre Harvest (Raccolta Macabra)
+Quando un avversario entro portata Lontana segna il suo ultimo Punto Ferita (viene sconfitto), puoi immediatamente evocare un *Cadavere Rianimato* nel tuo Secondo Cerchio senza dover segnare alcuno Stress.
 
 ---
 
-## Maestria
+### CARATTERISTICHE DI SPECIALIZZAZIONE
 
-### Quarto Cerchio — Cavaliere della Morte (Death Knight)
-Puoi evocare un solo Cavaliere della Morte alla volta usando il tuo Quarto Cerchio.
+#### Third Circle - Ghosts (Terzo Cerchio — Spettri)
+Puoi evocare gli *Spettri* (Ghosts) utilizzando il tuo **Terzo Cerchio** di evocazione.
 
-### Guerriero Funereo (Deathly Warrior)
-Quando riesci con Speranza su un tiro di attacco, puoi invece riuscire con Timore, causando il tuo Cavaliere della Morte di correre verso il tuo bersaglio, aggiungere 2d12 al danno dell'attacco, e poi tornare da te.
+#### Ghostly Protectors (Protettori Spettrali)
+Finché hai almeno uno *Spettro* evocato e attivo, la tua **Evasione** ottiene un bonus di **+1** mentre turbinano attorno a te per farti da scudo.
 
-### Baluardo Cavalieresco (Knightly Bulwark)
-Quando subisci danno Severo, il Cavaliere della Morte assorbe un Punto Vita al posto tuo, poi scompare.
+---
+
+### CARATTERISTICHE DI MAESTRIA
+
+#### Fourth Circle - Death Knight (Quarto Cerchio — Cavaliere della Morte)
+Puoi evocare un singolo *Cavaliere della Morte* (Death Knight) alla volta utilizzando il tuo **Quarto Cerchio** di evocazione.
+
+#### Deathly Warrior (Guerriero Mortale)
+Quando ottieni un successo su un tiro d'attacco con Speranza, puoi scegliere invece di considerarlo un successo con Timore (Fear) per comandare al tuo *Cavaliere della Morte* di caricare il bersaglio, aggiungendo **2d12** ai danni dell'attacco, per poi tornare da te.
+
+#### Knightly Bulwark (Baluardo del Cavaliere)
+Quando subisci danno Grave (Severe) o superiore, il tuo *Cavaliere della Morte* assorbe **1 Punto Ferita** al tuo posto e poi scompare.

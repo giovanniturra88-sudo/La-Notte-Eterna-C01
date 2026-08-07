@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart
 ---
 
 ![[giganti_pic.png|344]]

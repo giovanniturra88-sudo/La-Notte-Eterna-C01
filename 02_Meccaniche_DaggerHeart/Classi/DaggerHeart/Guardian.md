@@ -1,56 +1,41 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-Il titolo di guardiano rappresenta un insieme di professioni marziali, che parlano più della loro bussola morale e della loro fermezza inamovibile che dei mezzi con cui combattono. Sebbene molti guardiani si uniscano a gruppi di militanti per una nazione o una causa, sono più propensi a seguire quei pochi a cui davvero importa, indipendentemente dalla maggioranza. I guardiani sono noti per combattere con una ferocia straordinaria anche contro odds schiaccianti, difendendo il loro gruppo sopra ogni altra cosa. Chi danneggia l'alleato di un guardiano, avrà a che fare con la vendetta del guardiano.
+Hai scelto il percorso del Guardiano.
+
+I guardiani sono formidabili difensori, pronti a lanciarsi nel pericolo per assorbire i colpi diretti ai compagni ed ergersi come un baluardo invalicabile.
 
 ---
-
-- **DOMINI -** [Valore](Valore.md) & [Lama](Lama.md)
+- **DOMINI -** [[Valore]] & [[Lama]]
 - **EVASIONE INIZIALE -** 9
-- **PUNTI COLPO INIZIALI -** 7
+- **PUNTI FERITA INIZIALI -** 7
+- **TRATTI SUGGERITI -** +1 Agilità, +2 Forza, -1 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Ascia da Battaglia (Forza Mischia, d10+3 fisici, Due Mani)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio CA 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un totem del tuo mentore o una chiave segreta
-
 ---
 
-- **TRATTI SUGGERITI -** +1, +2, -1, 0, +1, 0
-- **ARMAMENTO PRINCIPALE SUGGERITO -** Ascia da battaglia
-- **ARMATURA SUGGERITA -** Armatura di maglia
+# Speranza
 
----
+## Caratteristica Speranza
+**_Difensore di Prima Linea:_** Spendi 3 Punti Speranza per liberare/ripristinare 2 slot Armatura marcati.
 
-### CARATTERISTICA SPERANZA
+# Sottoclassi
+Scegli tra la sottoclasse [[Baluardo]] o [[Vendicatore]].
 
-**_Scudo della Fronte:_** **Spendi 3 Speranza** per liberare 2 Slot Armatura.
+# Caratteristiche di Classe
+**_Inarrestabile (Unstoppable):_** Una volta per riposo lungo, puoi attivare l'Inarrestabilità piazzando un Dado Inarrestabile (d4 al livello 1, d6 al livello 5) sulla tua scheda col valore 1 rivolto verso l'alto. Ogni volta che effettui un tiro di danno che infligge almeno 1 PF a un bersaglio, aumenta il valore del dado di uno. Ottieni resistenza ai danni fisici e benefici passivi.
 
-### CARATTERISTICA DI CLASSE
+# Domande di Sfondo
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- Chi della tua comunità non sei riuscito a proteggere e perché ci pensi ancora oggi?
+- Ti è stato affidato il compito di proteggere qualcosa di importante e consegnarlo in un luogo pericoloso. Di cosa si tratta?
+- Qual è la cicatrice più profonda che hai sul corpo e quale battaglia rievoca?
 
-**_Inarrestabile:_** Una volta per lungo riposo, puoi diventare _Inarrestabile._ Ottieni un Dado Inarrestabile. A livello 1, il tuo Dado Inarrestabile è un **d4.** Posizionalo sul tuo foglio personaggio nello spazio previsto, con il valore 1 in alto. Dopo che effettui un tiro danni che infligge 1 o più Punti Colpo a un bersaglio, aumenta il valore del Dado Inarrestabile di uno. Quando il valore del dado supererebbe il suo valore massimo o alla fine della scena, rimuovi il dado e esci da _Inarrestabile_. A livello 5, il tuo Dado Inarrestabile diventa un **d6.**
-
-Mentre sei _Inarrestabile_, ottieni i seguenti vantaggi:
-
-- Riduci la gravità del danno fisico di una soglia (Severo in Maggiore, Maggiore in Minore, Minore in Nessuno).
-- Aggiungi il valore corrente del Dado Inarrestabile al tuo tiro danni.
-- Non puoi essere _Ristretto_ o _Vulnerabile_.
-
-> _**Suggerimento:** Se il tuo Dado Inarrestabile è un d4 e il 4 è attualmente in alto, rimuoverai il dado la prossima volta che dovresti aumentarlo. Tuttavia, se il tuo Dado Inarrestabile è cresciuto a d6 e il 4 è attualmente in alto, lo girerai al 5 la prossima volta che dovresti aumentarlo. In questo caso, rimuoverai il dado dopo che avresti dovuto aumentarlo oltre il 6._
-
-### SOTTOCLASSI
-
-Scegli tra la sottoclasse **[Ferreo](../subclasses/Stalwart.md)** o **[Vendetta](../subclasses/Vengeance.md)**.
-
-### DOMANDE DI SFONDO
-
-_Rispondi a una delle seguenti domande di background. Puoi anche creare le tue domande._
-
-- Chi nella tua comunità non sei riuscito a proteggere, e perché continui a pensarci?
-- Ti è stato affidato il compito di proteggere qualcosa di importante e consegnarlo in un posto pericoloso. Cos'è e dove deve andare?
-- Consideri un aspetto di te stesso come debolezza. Qual è e come ti ha influenzato?
-
-### CONNESSIONI
-
-_Fai una delle seguenti domande ai tuoi compagni di gioco affinché la rispondano, oppure crea le tue domande._
-
-- Come mi hai salvato la vita la prima volta che ci siamo incontrati?
-- Quale piccolo regalo mi hai fatto e che noto che porto sempre con me?
-- Quale bugia ti sei inventata su di te stesso che io credo assolutamente?
+# Connessioni
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
+- Quale bugia mi hai raccontato su di te a cui credo ciecamente?
+- Perché ti senti più al sicuro quando combatto al tuo fianco?
+- In quale occasione hai rischiato la vita per me e cosa ti ho promesso in cambio?

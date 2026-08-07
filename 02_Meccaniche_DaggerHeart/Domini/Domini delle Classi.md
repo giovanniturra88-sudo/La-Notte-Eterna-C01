@@ -2,17 +2,7 @@
 type: Indice
 ---
 
-Ogni classe concede l'accesso a due domini:
-
-- **Bardo:** [[Codice]] & [[Grazia]]
-- **Druido:** [[Arcana]] & [[Saggio]]
-- **Guardiano:** [[Lama]] & [[Valore]]
-- **Ranger:** [[Ossa]] & [[Saggio]]
-- **Ladro:** [[Grazia]] & [[MezzaNotte]]
-- **Seraph:** [[Splendore]] & [[Valore]]
-- **Stregone:** [[Arcana]] & [[MezzaNotte]]
-- **Guerriero:** [[Lama]] & [[Ossa]]
-- **Mago:** [[Codice]] & [[Splendore]]
+Ogni classe concede l'accesso a due domini fra [[Codice]], [[Grazia]], [[Arcana]], [[Saggio]], [[Lama]], [[Valore]], [[Ossa]] , [[MezzaNotte]], [[Splendore]], [[Terrore]] e [[Sangue]].
 I PG acquisiscono due carte di dominio di livello 1 alla creazione del personaggio e una carta di dominio aggiuntiva a livello o inferiore ogni volta che salgono di livello.
 # Carte del Dominio
 Ogni carta di dominio fornisce una o più funzionalità che il PG può utilizzare durante le avventure. Alcune carte di dominio forniscono mosse che si possono fare, come un attacco unico o un incantesimo. Altre offrono effetti passivi, nuove capacità durante il tempo libero o le interazioni sociali, o benefici una tantum.
@@ -22,7 +12,7 @@ Ogni carta di dominio include sei elementi:
 - **Dominio.** Sotto il livello della carta c'è un simbolo che indica il suo dominio. Puoi scegliere solo carte dai due domini della tua classe.
 - **Costo di Richiamo.** Il numero e il fulmine in alto a destra della carta mostrano il loro costo di richiamo. Questa è la quantità di Stress che un giocatore deve segnare per scambiare questa carta dalla sua **vault** con una carta della sua **loadout.** _**Nota:** Un giocatore può scambiare carte di dominio durante il tempo libero senza pagare il costo di richiamo della carta di dominio._
 - **Titolo.** Il nome della carta.
-- **Tipo.** Il **tipo** della carta è elencato al centro sopra il titolo. Ci sono tre tipi di carte di dominio: **abilità, incantesimi** e **grimoiri.** Le abilità sono tipicamente non magiche, mentre gli incantesimi sono magici. I grimoiri sono unici per il dominio Codice e concedono l'accesso a una collezione di incantesimi meno potenti. Alcune meccaniche del gioco si applicano solo a certi tipi di carte.
+- **Tipo.** Il **tipo** della carta è elencato al centro sopra il titolo. Ci sono tre tipi di carte di dominio: **abilità, incantesimi** e **grimori.** Le abilità sono tipicamente non magiche, mentre gli incantesimi sono magici. I grimori sono unici per il dominio Codice e concedono l'accesso a una collezione di incantesimi meno potenti. Alcune meccaniche del gioco si applicano solo a certi tipi di carte.
 - **Funzionalità.** Il testo nella parte inferiore della carta descrive le sue funzionalità, comprese eventuali regole speciali che devi seguire quando usi quella carta.
 ## Loadout & Vault
 

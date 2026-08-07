@@ -3,7 +3,7 @@ type: Abilità
 Livello: 10
 Dominio: "[[Codice]]"
 Costo di Richiamo: 1
-Tipologia Carta: "[[Spell]]"
+Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart
 ---
 
 ![[katari_pic.png|298]]

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart
 ---
 
 ![[goblin_pic.png|270]]

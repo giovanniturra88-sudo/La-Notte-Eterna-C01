@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart
 ---
 
 Ossa è il dominio della **tattica e del corpo.** Chi pratica questo dominio ha un controllo straordinario sulle proprie capacità fisiche e un occhio per prevedere i comportamenti degli altri in combattimento. Chi segue il dominio dell'Osso acquisisce una comprensione senza paragoni del corpo umano e dei suoi movimenti. Il dominio dell'Osso può essere utilizzato dalle classi [[Ranger]], [[Warrior]]  e [[Brawler]].

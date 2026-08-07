@@ -1,50 +1,42 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-Che si tratti di uno studio istituzionale o individuale, coloro che sono noti come maghi acquisiscono e affinano un potere magico immenso nel corso degli anni di studio in cui utilizzano una varietà di strumenti, tra cui libri, pietre, pozioni e erbe. Alcuni maghi dedicano la loro vita a padroneggiare una particolare scuola di magia, mentre altri imparano da una vasta gamma di discipline. Molti maghi diventano figure sagge e potenti nella loro comunità, consigliando i governanti, fornendo medicine e guarigioni, e persino guidando i consigli di guerra. Sebbene tutti questi maghi lavorino verso l'obiettivo comune di raccogliere conoscenza magica, i maghi spesso hanno il maggior numero di conflitti all'interno delle loro stesse file, poiché l'acquisizione, il possesso e la condivisione di segreti potenti è un argomento dibattuto intensamente che ha portato a innumerevoli morti.
+Hai scelto il percorso del Mago.
+
+I maghi acquisiscono e affinano poteri magici immensi attraverso lo studio accademico, l'uso di grimoiri, rune e complessi trattati arcani.
 
 ---
-
-- **DOMINI -** [[Codice]]) & [[Splendore]]
+- **DOMINI -** [[Codice]] & [[Splendore]]
 - **EVASIONE INIZIALE -** 11
-- **PUNTI VITA INIZIALI -** 5
-- **OGGETTI DI CLASSE -** Un libro che stai cercando di tradurre o un piccolo e innocuo animale elementale
-
+- **PUNTI FERITA INIZIALI -** 5
+- **TRATTI SUGGERITI -** -1 Agilità, +0 Forza, +0 Finesse, +1 Istinto, +1 Presenza, +2 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Bastone Grande (Conoscenza Molto Lontano, d6 magici, Due Mani - Potente: Al successo, lancia un dado danno aggiuntivo e scarta il risultato più basso)
+- **ARMATURA SUGGERITA -** Vesti da Mago (Soglie 4/10, Punteggio CA 2 - Incantato: Ottieni un bonus alle soglie di danno pari al tuo tratto di Incantesimo)
+- **OGGETTI DI CLASSE -** Un libro che stai cercando di tradurre o un piccolo elementale domestico innocuo
 ---
 
-- **TRATTI SUGGERITI -** -1, 0, 0, +1, +1, +2
-- **ARMA PRINCIPALE SUGGERITA -** Grande bastone
-- **ARMATURA SUGGERITA -** Armatura di pelle
-
----
 # Speranza
-## Non Stavolta
-**Spendi 3 Speranza** per costringere un avversario entro portata Lontana a ripetere un tiro d’attacco o un tiro di danni.
+
+## Caratteristica Speranza
+**_Non Stavolta:_** Spendi 3 Punti Speranza per costringere un nemico entro portata Lontana a ripetere un tiro di attacco o di danno.
+
+# Sottoclassi
+Scegli tra la sottoclasse [[Scuola della Conoscenza]] o [[Scuola della Guerra]].
+
 # Caratteristiche di Classe
+**_Prestidigitazione:_** Puoi eseguire piccoli effetti magici innocui e sottili a piacimento (cambiare colore a un oggetto, accendere una candela, riparare un piccolo oggetto).
+**_Strani Schemi (Strange Patterns):_** Scegli un numero tra 1 e 12. Quando lanci quel numero su un Dado della Dualità, ottieni 1 Sferzata di Speranza o rimuovi 1 Stress. Puoi cambiare il numero durante un riposo lungo.
 
-**_Prestidigitazione:_** Puoi eseguire effetti magici innocui e sottili a tuo piacimento. Per esempio, puoi cambiare il colore di un oggetto, creare un odore, accendere una candela, far galleggiare un piccolo oggetto, illuminare una stanza o riparare un oggetto piccolo.
+# Domande di Sfondo
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- Quali grandi responsabilità la tua comunità si aspettava da te? In che modo l'hai delusa?
+- Hai passato la vita intera a cercare un libro o un manufatto di straordinario valore. Cos'è e perché è così importante?
+- Hai un rivale arcano estremamente potente. Chi è e perché sei così determinato a sconfiggerlo?
 
-**_Strane Combinazioni:_** Scegli un numero compreso tra 1 e 12. Quando lanci quel numero su un Dado della Dualità, ottieni una Speranza o elimina uno Stress.
-
-Puoi cambiare questo numero quando fai una lunga pausa.
-
-### SOTTOCLASSE
-
-Scegli tra la sottoclasse **[Scuola del Conoscimento](../subclasses/School%20of%20Knowledge.md)** o **[Scuola della Guerra](../subclasses/School%20of%20War.md)**.
-
-### DOMANDE DI SFONDO
-
-_Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande._
-
-- Quali responsabilità la tua comunità una volta ti aspettava? Come hai deluso loro?
-- Hai passato la vita cercando un libro o un oggetto di grande importanza. Cos'è e perché è così importante per te?
-- Hai un potente rivale. Chi è, e perché sei così determinato a sconfiggerlo?
-
-### CONNESSIONI
-
-_Fai una delle seguenti domande ai tuoi compagni di gioco affinché il loro personaggio risponda, oppure crea le tue domande._
-
-- Quale favore ti ho chiesto che non sei sicuro di poter compiere?
-- Quale strana passione o strano interesse condividiamo entrambi?
-- Quale segreto su di te hai affidato solo a me?
+# Connessioni
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
+- Quale grande favore mi hai chiesto che non sei del tutto sicuro io possa compiere?
+- Quale strana passione o bizzarro hobby condividiamo entrambi?
+- Quale indicibile segreto su di te hai deciso di confidare soltanto a me?

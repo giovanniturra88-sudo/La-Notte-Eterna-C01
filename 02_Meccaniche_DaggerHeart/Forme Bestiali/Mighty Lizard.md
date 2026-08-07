@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[Beast Shape]]"
+  - "[[Forme Bestiali]]"
+tier: Tier 3
 ---
 
 # Mighty Lizard

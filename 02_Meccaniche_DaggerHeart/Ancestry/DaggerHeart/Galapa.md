@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart
 ---
 
 ![[galapa_pic.png|314]]

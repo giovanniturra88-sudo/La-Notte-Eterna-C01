@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart
 ---
 
 ![[fauno_pic.png|165]]

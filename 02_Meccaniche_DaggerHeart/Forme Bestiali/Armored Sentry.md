@@ -1,6 +1,7 @@
 ---
 type:
-  - "[[Beast Shape]]"
+  - "[[Forme Bestiali]]"
+tier: Tier 2
 ---
 
 # Armored Sentry

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: DaggerHeart Hope and Fear
 ---
 
 ## Profilo
@@ -17,7 +18,3 @@ type:
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Skykin sono visti come figure enigmatiche — a volte alleati, a volta nemici. La loro natura mutevole e difficile da afferrare li rende perfetti per spionaggio ed evasioni. Le fazioni che li comprendono sanno quanto sia preziosa la loro lealtà.
 - **Adattamento Lore**: In alcune culture, i colori degli Skykin sono letti come "linguaggio del vento" — un modo per leggere le intenzioni altrui senza parole.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Daggerheart Hope & Fear — Cap. 1, pag. 24
-- *Focus*: Evitazione del danno e controllo del campo di battaglia con repelling e elusione.

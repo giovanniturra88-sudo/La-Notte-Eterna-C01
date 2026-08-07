@@ -3,7 +3,7 @@ type: Abilità
 Livello: 1
 Dominio: "[[Saggio]]"
 Costo di Richiamo: 0
-Tipologia Carta: "[[del]]"
+Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 

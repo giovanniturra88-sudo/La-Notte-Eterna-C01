@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart
 ---
 
 Midnight è il dominio delle **ombre e del segreto.** Che si tratti di ingegnosi trucchi, magia aggraziata o della mantella della notte, chi canalizza queste forze pratica l'arte dell'oscurità e può scoprire tesori nascosti. Midnight offre ai praticanti il potere di controllare e creare enigmi. Il dominio Midnight può essere accesso dalle classi [[Rogue]], [[Sourcerer]] e [[Assassin]].

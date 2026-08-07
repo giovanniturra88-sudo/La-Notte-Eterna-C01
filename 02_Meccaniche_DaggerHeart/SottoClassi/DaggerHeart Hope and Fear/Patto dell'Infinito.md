@@ -1,55 +1,41 @@
 ---
-type:
-  - "[[SottoClassi]]"
-parent_class: Warlock
+type: Sottoclasse
+classe:
+  - "[[Warlock]]"
+source: DaggerHeart Hope and Fear
+Dominio:
+  - "[[Terrore]]"
+  - "[[Grazia]]"
+spellcast_trait: Presenza
 ---
 
 # Patto dell'Infinito
+Sottoclasse del [[Warlock]]
 
-Gioca il Patto dell'Infinito se vuoi resistere forte contro i nemici ed evitare la morte.
+Il Patto dell'Infinito (Pact of the Endless) concede al warlock il potere di resistere ai colpi più devastanti e di sfuggire persino all'abbraccio della morte, avvolgendosi nell'aspetto eterno e inamovibile del proprio patrono.
 
-## Carattere di Lanciincantesimi
-Presenza
+- **CARATTERISTICA DA INCANTESIMO -** Presenza
 
-## Caratteristiche di Fondazione
+## Caratteristiche di Fondazione (Tier 1)
 
-### Mantello del Patrono
-Spendi un Favore per avvolgerti in un aspetto terrificante del tuo Patrono che dura finché non subisci danno Severo o finisce la scena. Mentre questo effetto è attivo, ottieni un bonus alle tue soglie di danno uguale al tuo tier e hai advantage sui tiri di azione per intimorire un bersaglio.
+### Mantello del Patrono (Patron's Mantle)
+Spendi un Favore (Favor) per ammantarti di un aspetto terrificante del tuo Patrono. Questo effetto dura finché non subisci danni Gravi (Severe) o superiori, o finché la scena non termina. Finché questo effetto è attivo, guadagni un bonus alle tue soglie di danno pari al tuo Tier e hai vantaggio sui tiri di azione per intimidire un bersaglio.
 
-###abbraccio Senza Morte
-Una volta per riposo, spendi qualsiasi numero di Favore per rotolare un numero uguale di Dadi Patrono. Per ogni risultato di 4 o più, clear un Punto Vita.
+### Abbraccio Immortale (Deathless Embrace)
+Una volta per rest (riposo), spendi un qualsiasi numero di Favori per tirare un pari numero di Dadi del Patrono. Per ogni risultato pari a 4 o superiore, **cura/recupera un Punto Ferita (HP)**.
 
-## Caratteristiche di Fondazione
+## Caratteristiche di Specializzazione (Tier 2)
 
-| Nome | Descrizione |
-|------|-------------|
-| **Invocazione Straziante** | Quando un avversario ti prende come bersaglio o un alleato entro portata Molto Vicina con un attacco, puoi spendere un Favore per conferirgli disadvantage sul tiro. Se l'avversario fallisce il tiro, deve anche segnare uno Spavento. |
-| **Pozzo Danni** | Una volta per riposo, puoi spendere un Favore per dimezzare il danno in arrivo. |
+### Invocazione Tormentosa (Harrowing Invocation)
+Quando un avversario prende come bersaglio te o un alleato entro portata Molto Vicina con un attacco, puoi spendere un Favore per **imporre svantaggio** al suo tiro. Se l'avversario fallisce il tiro, deve anche marcare uno Stress.
 
-## Caratteristiche di Maestria
+### Assorbitore di Danni (Damage Sink)
+Una volta per rest, puoi spendere un Favore per **dimezzare** i danni in arrivo da una singola fonte.
 
-| Nome | Descrizione |
-|------|-------------|
-| **Aegis Oscuro** | Una volta per lungo riposo, quando dovresti subire danno, puoi spendere un Favore invece di segnare Punti Vita. |
-| **Flagello Drainante** | Quando un avversario ti prende come bersaglio o un alleato entro portata Molto Vicina con un attacco, puoi spendere un Favore per drenarlo. Quando lo fai, deve segnare uno Spavento, e puoi clear uno Spavento. Mentre Drained, il bersaglio usa un d12 invece di un d20 per i tiri di attacco (inclusi per advantage o disadvantage) finché non fallisce un tiro. |
+## Caratteristiche di Maestria (Tier 3)
 
-## Caratteristiche di Classe
+### Egida Oscura (Dark Aegis)
+Una volta per riposo lungo, quando stai per subire danni che ridurrebbero i tuoi PF, puoi spendere un Favore **invece di marcare Punti Ferita**.
 
-### Patto del Patrono
-Ti sei impegnato con un'entità sovrannaturale — come un dio, fae, o demone — in cambio di potere. Scrivi il loro nome sul tuo foglio personaggio, poi lavora con il GM per determinare la loro sfera di influenza (come Natura, Caos, Saggezza, Truffa, Amore, Guerra, Giustizia, o Morte). Prima di fare un tiro di azione che riguarda la sfera di influenza del tuo patrono, puoi spendere un Favore per invocare il loro aiuto, rotolando il tuo Dado Patrono e aggiungendo il risultato al totale. Il tuo Dado Patrono inizia come un d6 e aumenta a d8 al livello 5.
-
-### Sfere di Influenza del Patrono
-
-| Ambizione | Leader | Segreti |
-|-----------|--------|---------|
-| Artista | Amore | Soldati |
-| Caos | Misericordia | Viaggiatori |
-| Oscurità | Truffatore | Verità |
-| Morte | Natura | Guerra |
-| Giustizia | Studio | Saggezza |
-
-### Favore
-Inizi con 3 Favore. Puoi usare un'azione di riposo per mostrare tributo al tuo patrono. Descrivi come e guadagna Favore uguale al tuo carattere di Lanciincantesimi. Inoltre, quando riesci in un tiro di azione con Speranza, puoi scegliere di guadagnare un Favore invece di una Speranza.
-
-### Speranza del Warlock
-**Boa del Patrono**: Quando fallisci un tiro, puoi spendere 3 Speranza per rotolare nuovamente con advantage.
+### Flagello Prosciugante (Draining Bane)
+Quando un avversario prende come bersaglio te o un alleato entro portata Molto Vicina con un attacco, puoi spendere un Favore per **Prosciugarlo** (Drain). Quando lo fai, l'avversario deve marcare uno Stress e tu puoi eliminare uno Stress dalla tua scheda. Finché è Prosciugato, il bersaglio utilizza un d12 invece di un d20 per tutti i tiri per colpire (inclusi i vantaggi/svantaggi) finché non fallisce un tiro di azione.

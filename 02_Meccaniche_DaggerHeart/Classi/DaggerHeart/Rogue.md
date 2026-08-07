@@ -1,56 +1,43 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-I ladri sono delinquenti, spesso sia nell'atteggiamento che nelle pratiche. In generale conosciuti come bugiardi e ladri, i migliori di questa classe si muovono nel mondo in modo anonimo. Utilizzando la loro acutezza mentale e le loro lame, i ladri ingannano i loro nemici attraverso la manipolazione sociale altrettanto facilmente che rompere serrature, scalare finestre o infliggere colpi sporchi. Questi maestri dell'arte magica manipolano ombra e movimento, aggiungendo una serie di strumenti utili e letali alla loro dottrina. I ladri spesso fondano gilde per incontrare futuri complici, affittare lavori e perfezionare abilità segrete, dimostrando che c'è onore tra i ladri per chi sa dove guardare.
+Hai scelto il percorso del Ladro.
+
+I ladri sono maestri dell'ombra, del sotterfugio e del crimine. Si muovono nell'oscurità colpendo i punti deboli dei nemici con attacchi furtivi devastanti.
 
 ---
-
-- **DOMINI -** [Mezzanotte](MezzaNotte.md) & [Gratuità](Grazia.md)
-- **EVADE INIZIALE -** 12
-- **PUNTI COLPO INIZIALI -** 6
-- **OGGETTI DI CLASSE -** Un insieme di attrezzi per falsificazione o un gancio da arrampicata
-
+- **DOMINI -** [[Mezzanotte]] & [[Grazia]]
+- **EVASIONE INIZIALE -** 12
+- **PUNTI FERITA INIZIALI -** 6
+- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Pugnale (Finesse Mischia, d8+1 fisici, Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Finesse Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
+- **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio CA 3 - Flessibile: +1 all'Evasione)
+- **OGGETTI DI CLASSE -** Un set di attrezzi da falsario o un rampino
 ---
 
-- **TRATTI SUGGERITI -** +1, -1, +2, 0, +1, 0
-- **PRIMA ARMA SUGGERITA -** Pugnale
-- **SECONDA ARMA SUGGERITA -** Piccolo Pugnale
-- **ARMATURA SUGGERITA -** Armatura di Gambeson
+# Speranza
 
----
+## Caratteristica Speranza
+**_Schivata del Ladro:_** Spendi 3 Punti Speranza per ottenere +2 all'Evasione finché un attacco non va a segno contro di te, o fino al prossimo riposo.
 
-### FUNZIONE SPERANZA
+# Sottoclassi
+Scegli tra la sottoclasse [[Ombra della Notte]] o [[Sindacato]].
 
-**_Schivata del Ladro:_** **Spendi 3 punti di speranza** per ottenere un bonus +2 alla tua Evasione fino alla prossima volta che un attacco riesce contro di te. In caso contrario, questo bonus dura fino al tuo prossimo riposo.
+# Caratteristiche di Classe
+**_Occultato (Cloaked):_** Ogni volta che ti trovi in una condizione di occultamento (Hidden), sei considerato Cloaked. Ottieni vantaggi difensivi e rimani invisibile finché resti fermo o non attacchi.
+**_Attacco Furtivo (Sneak Attack):_** Quando colpisci un bersaglio mentre sei Cloaked o quando un alleato è a portata di mischia con esso, aggiungi un numero di d6 pari al tuo Tier al tiro di danno.
 
-### FUNZIONI DI CLASSE
+# Domande di Sfondo
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- Cosa sei stato catturato a fare che ha causato il tuo esilio dalla tua comunità d'origine?
+- Avevi una vita diversa una volta, ma hai cercato di lasciarla alle spalle. Chi ti sta ancora dando la caccia?
+- Qual è il furto più audace che hai compiuto e chi ne è stata la vittima?
 
-**_Nascosto:_** Ogni volta che saresti _Nascosto_, sei invece _Coperto_. Oltre ai benefici della condizione _Nascosto_, mentre sei _Coperto_ rimani invisibile se sei fermo quando un nemico si muove verso il punto dove normalmente ti vedrebbe. Dopo aver effettuato un attacco o aver terminato un movimento entro la linea di vista di un nemico, non sei più _Coperto_.
-
-**_Attacco Furtivo:_** Quando riesci ad attaccare mentre sei _Coperto_ o mentre un alleato è a portata di mischia del tuo bersaglio, aggiungi un numero di **d6** uguale al tuo livello al tuo tiro danni.
-
-- Livello 1 → Livello 1
-- Livelli 2-4 → Livello 2
-- Livelli 5-7 → Livello 3
-- Livelli 8-10 → Livello 4
-
-### SOTTOCLASSI
-
-Scegli tra la sottoclasse **[Camminatore della Notte](../subclasses/Nightwalker.md)** o **[Sindacato](../subclasses/Syndicate.md)**.
-
-### DOMANDE DI SFONDO
-
-_Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande._
-
-- Cosa stavi facendo quando sei stato scoperto e hai dovuto abbandonare la tua comunità?
-- Avevi una vita diversa, ma hai cercato di lasciarla alle spalle. Chi del tuo passato ti sta ancora inseguendo?
-- Di chi del tuo passato sei stato più triste a dir addio?
-
-### CONNESSIONI
-
-_Fai a uno dei tuoi compagni un'una delle seguenti domande affinché la risponda il personaggio, oppure crea le tue domande._
-
-- Cosa ho recentemente convinto te a fare che ci ha messo entrambi nei guai?
-- Cosa ho scoperto sul tuo passato che tengo segreto dagli altri?
-- Chi conosci del mio passato e come ha influenzato i tuoi sentimenti verso di me?
+# Connessioni
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
+- Di cosa mi hai recentemente convinto a fare che ci ha messi entrambi nei guai con le guardie?
+- Quale segreto sul mio passato hai scoperto e tieni nascosto agli altri membri del gruppo?
+- Chi o cosa della mia vita ti ricorda le strade in cui sei cresciuto?

@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart Hope and Fear
 ---
 
 **Terrore** è il dominio della paura e dell'angoscia. Chi pratica questo dominio possiede un controllo straordinario sulle energie oscure e un'abilità innata nello sfruttare il terrore e la sofferenza altrui come armi sul campo di battaglia. Chi segue il dominio del Terrore acquisisce una comprensione senza paragoni della mente e dei punti di rottura emotivi dei propri nemici, piegandoli alla disperazione. Il dominio del Terrore può essere utilizzato dalle classi [[Warlock]] e [[Witch]].

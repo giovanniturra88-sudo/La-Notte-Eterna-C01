@@ -1,52 +1,41 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-I ranger sono cacciatori altamente esperti che, nonostante le loro abilità marziali, raramente offrono i loro servigi a un esercito. Attraverso la padronanza del corpo e una profonda comprensione della natura, i ranger diventano tattici astuti, inseguendo la loro preda con ingegno e pazienza. Molti ranger inseguono e combattono insieme a un compagno animale con cui hanno stretto un potente legame spirituale. Perfezionando le loro abilità nella selvaggia, i ranger diventano esperti di tracciamento, altrettanto capaci di intrappolare i loro nemici in una trappola che di attaccarli frontalmente.
+Hai scelto il percorso del Ranger.
+
+I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selvagge. Usano tattiche micidiali e letali attacchi a distanza per abbattere le loro prede.
 
 ---
-
-- **DOMINI -** [Ossa](Ossa.md) & [Saggio](Saggio.md)
-- **EVADE INIZIALE -** 12
-- **PUNTI COLPO INIZIALI -** 6
-- **OGGETTI DI CLASSE -** Un trofeo dalla tua prima uccisione o una bussola apparentemente rotta
-
+- **DOMINI -** [[Ossa]] & [[Saggio]]
+- **EVASIONE INIZIALE -** 12
+- **PUNTI FERITA INIZIALI -** 6
+- **TRATTI SUGGERITI -** +2 Agilità, +0 Forza, +1 Finesse, +1 Istinto, -1 Presenza, +0 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Arco Corto (Agilità Lontano, d6+3 fisici, Due Mani)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio CA 3)
+- **OGGETTI DI CLASSE -** Un trofeo della tua prima uccisione o una bussola apparentemente rotta
 ---
 
-- **TRATTI SUGGERITI -** +2, 0, +1, +1, -1, 0
-- **ARMA PRINCIPALE SUGGERITA -** Balestra corta
-- **ARMATURA SUGGERITA -** Armatura di pelle
+# Speranza
 
----
+## Caratteristica Speranza
+**_Tenerli a Bada:_** Spendi 3 Punti Speranza quando metti a segno un attacco con arma per applicare lo stesso risultato di attacco contro due avversari aggiuntivi entro la gittata dell'arma.
 
-### CARATTERISTICA SPERANZA
+# Sottoclassi
+Scegli tra la sottoclasse [[Legato alla Bestia]] o [[Esploratore]].
 
-**_Tienili a bada:_** **Spesa 3 Speranza** quando riesci in un attacco con un'arma per usare quel medesimo lancio contro due avversari aggiuntivi entro portata dell'attacco.
+# Caratteristiche di Classe
+**_Focus del Ranger (Ranger's Focus):_** Spendi 1 Speranza ed effettua un attacco contro un bersaglio. In caso di successo, infliggi danno normale e rendi temporaneamente il bersaglio il tuo Focus. Ottieni vantaggi letali contro il tuo Focus, costringendolo a marcare Stress quando subisce danno.
 
-### CARATTERISTICA DI CLASSE
+# Domande di Sfondo
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- Chi ti ha insegnato a cacciare e perché si è rifiutato di seguirti quando sei partito?
+- C'è un luogo leggendario che hai sempre voluto trovare e che la tua bussola rotta sembra indicare. Cos'è?
+- Qual è la preda più pericolosa che hai cacciato e cosa hai conservato come trofeo?
 
-**_Concentrazione del Ranger:_** **Spesa una Speranza** e fai un attacco contro un bersaglio. Se riesci, infliggi i danni normali dell'attacco e rendi temporaneamente il bersaglio dell'attacco il tuo _Foco_. Finché questa caratteristica dura o finché non scegli un'altra creatura come _Foco_, ottieni i seguenti vantaggi contro il tuo _Foco_:
-
-- Sai esattamente in quale direzione si trova.
-- Quando infliggi danni a loro, devono segnare uno Stress.
-- Quando fallisci un attacco contro di loro, puoi terminare la caratteristica del Ranger's Focus per rilanciare i Dadi della Dualità.
-
-### SOTTOCLASSI
-
-Scegli tra la sottoclasse **[Bestiame](../subclasses/Beastbound.md)** o **[Guida](../subclasses/Wayfinder.md)**.
-
-### DOMANDE DI SFONDO
-
-_Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande._
-
-- Una terribile creatura ha ferito la tua comunità, e hai giurato di inseguirla. Chi è, e quale traccia o segno unico lasciano dietro di sé?
-- La tua prima uccisione quasi ti ha ucciso. Chi era, e quale parte di te non è mai più stata la stessa dopo quell'evento?
-- Hai viaggiato in molti luoghi pericolosi, ma c'è un posto che rifiuti di visitare?
-
-### CONNESSIONI
-
-_Chiedi ai tuoi compagni uno delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande._
-
-- Qual è la nostra competizione amichevole?
-- Perché agisci diversamente quando siamo soli rispetto a quando ci sono altre persone intorno?
-- Quale minaccia ti ho chiesto di stare in guardia, e perché sei preoccupato per essa?
+# Connessioni
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
+- Quale tecnica di caccia abbiamo sviluppato insieme nel nostro viaggio?
+- Perché ti fidi del mio giudizio più del tuo quando siamo in una foresta o in territori selvaggi?
+- Cosa hai visto fare al mio compagno animale che ti ha fatto capire la profondità del nostro legame?

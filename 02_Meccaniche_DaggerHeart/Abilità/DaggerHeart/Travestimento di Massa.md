@@ -3,7 +3,7 @@ type: Abilità
 Livello: 6
 Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 0
-Tipologia Carta: "[[Spell]]"
+Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 

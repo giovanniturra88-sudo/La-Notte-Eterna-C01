@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart
 ---
 
 La Lama è il dominio della **maestria delle armi**. Che sia con acciaio, arco o forse un'arma più specializzata, chi segue questa via possiede l'abilità di recidere brevemente le vite altrui. Chi impugna la Lama si dedica ad ottenere un potere inesorabile sulla morte. Il dominio della Lama può essere accesso dalle classi [[Guardian]], [[Warrior]] e [[Assassin]].

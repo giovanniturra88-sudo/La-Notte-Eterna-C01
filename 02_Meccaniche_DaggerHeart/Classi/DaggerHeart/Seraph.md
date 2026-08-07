@@ -1,49 +1,42 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-I serafini sono combattenti e guaritori divini che si ispirano a un scopo sacro. Esistono numerose deità nei regni, e quindi molti tipi di seraph vengono nominati da questi dèi. La loro etica tradizionalmente si allinea con il dominio o gli obiettivi del loro dio, come difendere i deboli, vendicare le ingiustizie, proteggere una terra o un artefatto, o mantenere una particolare fede. Alcuni seraph si alleano con un esercito o un luogo, molto soddisfacenti per i loro sovrani, ma altri crociati combattono contro le follie del Regno Mortale. È meglio essere alleato di un seraph che il suo nemico, poiché sono nemici terribili per chi osa contrastare il loro scopo.
+Hai scelto il percorso del Serafino.
+
+I serafini sono guerrieri celesti imbevuti di potere divino, scelti dalle divinità per amministrare la guarigione o scatenare la punizione sacra sui nemici.
 
 ---
-
-- **DOMINI -** [Splendore](Splendore.md) & [Valore](Valore.md)
-- **EVADE INIZIALE -** 9
-- **PUNTI VITA INIZIALI -** 7
-- **OGGETTI DI CLASSE -** Un plico di offerte o un sigillo del tuo dio
-
+- **DOMINI -** [[Splendore]] & [[Valore]]
+- **EVASIONE INIZIALE -** 9
+- **PUNTI FERITA INIZIALI -** 7
+- **TRATTI SUGGERITI -** +0 Agilità, +2 Forza, +0 Finesse, +1 Istinto, +1 Presenza, -1 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Ascia Consacrata (Forza Mischia, d8+1 magici, Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Scudo Rotondo (Forza Mischia, d4 fisici, Una Mano - Protettivo: +1 al punteggio di Armatura)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio CA 4 - Pesante: -1 all'Evasione)
+- **OGGETTI DI CLASSE -** Un fascio di offerte o un sigillo del tuo dio
 ---
 
-- **TRATTI SUGGERITI -** 0, +2, 0, +1, +1, -1
-- **ARMA PRINCIPALE SUGGERITA -** Ascia Sacra
-- **ARMA SECONDARIA SUGGERITA -** Scudo Rotondo
-- **ARMATURA SUGGERITA -** Armatura di Maglia
+# Speranza
 
----
+## Caratteristica Speranza
+**_Supporto Vitale:_** Spendi 3 Punti Speranza per curare 1 Punto Ferita a un alleato entro portata Vicina.
 
-### CARATTERISTICA DI SPERANZA
+# Sottoclassi
+Scegli tra la sottoclasse [[Campione Divino]] o [[Sentinella Alata]].
 
-**_Supporto Vitale:_** **Spendi 3 Speranza** per rimuovere un punto vita da un alleato entro portata Vicina.
+# Caratteristiche di Classe
+**_Dadi della Preghiera (Prayer Dice):_** All'inizio di ogni sessione, lancia d4 pari al tratto di incantesimo della tua sottoclasse. Puoi spendere questi dadi per ridurre il danno subito, aggiungere il valore a un tiro d'azione dopo il lancio o ottenere punti Speranza pari al risultato.
 
-### CARATTERISTICA DI CLASSE
+# Domande di Sfondo
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- A quale divinità ti sei consacrato e quale miracolo ha compiuto per te in un momento di disperazione?
+- In che modo le tue sembianze fisiche sono mutate dopo aver prestato il tuo sacro giuramento?
+- Qual è il modo bizzarro o unico attraverso cui comunichi con la tua divinità?
 
-**_Dadi della Preghiera:_** All'inizio di ogni sessione, lancia un numero di **d4** pari al tratto Spellcast della tua sottoclasse e posizionali sul tuo foglio personaggio nello spazio previsto. Questi sono i tuoi Dadi della Preghiera. Puoi spendere qualsiasi numero di Dadi della Preghiera per aiutarti o un alleato entro portata Lontana. Puoi usare il valore di un dado speso per ridurre i danni in arrivo, aggiungere al risultato di un tiro dopo che è stato effettuato, o ottenere Speranza pari al risultato. Alla fine di ogni sessione, rimuovi tutti i Dadi della Preghiera non utilizzati.
-
-### SOTTOCLASSI
-
-Scegli tra la sottoclasse **[Divine Wielder](../subclasses/Divine%20Wielder.md)** o **[Winged Sentinel](../subclasses/Winged%20Sentinel.md)**.
-
-### DOMANDE DI SFONDO
-
-_Rispondi a una delle seguenti domande di background. Puoi anche creare le tue domande._
-
-- A quale dio ti sei dedicato? Qual è stato il fatto incredibile che ha compiuto per te in un momento di disperazione?
-- Come è cambiata la tua apparenza dopo aver preso il tuo giuramento?
-- In quale modo strano o unico comunichi con il tuo dio?
-
-### CONNESSIONI
-
-_Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché venga risposta dal loro personaggio, oppure crea le tue domande._
-
-- Quale promessa mi hai fatto fare, nel caso morissi sul campo di battaglia?
-- Perché mi fai così tante domande sul tuo dio?
-- Mi hai detto di proteggere un membro del nostro gruppo sopra tutti gli altri, persino me stesso. Chi è e perché?
+# Connessioni
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
+- Quale promessa mi hai fatto giurare di compiere nel caso tu muoia in battaglia?
+- Perché mi fai così tante domande sulla tua divinità e sulla tua fede?
+- Chi mi hai chiesto di proteggere sopra ogni cosa nel nostro gruppo, anche a costo della tua vita?

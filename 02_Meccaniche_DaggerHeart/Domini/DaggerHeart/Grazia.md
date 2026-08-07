@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart
 ---
 
 La Grazia è il dominio della **carisma.** Attraverso racconti entusiasmanti, incantesimi affascinanti o una cortina di menzogne, chi canalizza questo potere definisce le realtà dei propri avversari, piegando la percezione alla propria volontà. La Grazia offre ai suoi portatori magnetismo grezzo e padronanza del linguaggio. Il dominio della Grazia può essere accesso dalle classi [[Bard]], [[Rogue]] e [[Warlock]].

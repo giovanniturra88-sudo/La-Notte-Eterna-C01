@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Domini delle Classi]]"
+source: DaggerHeart Void
 ---
 Il **Sangue** è il dominio della forza vitale e del sacrificio. Coloro che percorrono questa via attingono al potere recondito che scorre nelle vene delle creature vive per plasmare una magia cruda e viscerale. Il Sangue concede ai suoi seguaci la capacità di tramutare le proprie ferite in armi letali e di manipolare la vitalità di alleati e nemici. Il dominio del Sangue può essere utilizzato dalle classi [[Blood Hunter]] e [[Summoner]].
 

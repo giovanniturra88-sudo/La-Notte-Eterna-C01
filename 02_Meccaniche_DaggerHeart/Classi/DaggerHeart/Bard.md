@@ -1,38 +1,42 @@
 ---
 type: Classe
+source: DaggerHeart
 ---
 
-I bardi sono le persone più carismatiche di tutti i regni. I membri di questa classe sono maestri della cattura dell'attenzione e si specializzano in una varietà di tipi di performance, tra cui cantare, suonare strumenti musicali, intrecciare storie o raccontare barzellette. Che si esibiscano davanti a un pubblico o parlino a un individuo, i bardi eccellono nelle situazioni sociali. I membri di questa professione si riuniscono e si allenano nelle scuole o nelle gilde, ma un flusso di egoismo scorre tra coloro che si ispirano alla tradizione dei bardi. Sebbene possano essere la classe più propensa a riunire le persone, un bardo di cattivo umore può facilmente rovinare una festa.
+Hai scelto il percorso del Bardo.
+
+I bardi sono i maestri della captazione e del fascino in tutti i regni. Esperti in canti, esibizioni, storie e giochi di parole, prosperano nelle situazioni sociali e sanno ispirare i compagni sul campo di battaglia.
 
 ---
-
 - **DOMINI -** [[Grazia]] & [[Codice]]
-- **EVADE INIZIALE -** 10
-- **PUNTI VITA INIZIALI -** 5
-- **OGGETTI DI CLASSE -** Un romanzo d'amore o una lettera mai aperta
-
+- **EVASIONE INIZIALE -** 10
+- **PUNTI FERITA INIZIALI -** 5
+- **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Finesse, +0 Istinto, +2 Presenza, +1 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Stocco (Presenza Mischia, d8 fisici, Una Mano - Rapido: Puoi marcare uno Stress per colpire un bersaglio aggiuntivo a portata)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Finesse Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
+- **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio CA 3 - Flessibile: +1 all'Evasione)
+- **OGGETTI DI CLASSE -** Un romanzo rosa o una lettera mai aperta
 ---
 
-- **TRATTI SUGGERITI -** 0, -1, +1, 0, +2, +1
-- **ARMA PRINCIPALE SUGGERITA -** Rapa
-- **ARMA SECONDARIA SUGGERITA -** Piccola Lama
-- **ARMATURA SUGGERITA -** Armatura di Gambeson
-
----
 # Speranza
-## Crea una Scena
-Spendi 3 Speranza per _Distogliere temporaneamente_ un bersaglio entro portata ravvicinata, infliggendogli un penalità di -2 alla propria Difficoltà.
-# Guida
-Una volta a sessione, descrivi come guidi il gruppo e assegnati a te stesso e a ciascun alleato un Dado di Guida. Al livello 1, il tuo Dado di Guida è un **d6**. Un PG può spendere il proprio Dado di Guida per lanciarlo, aggiungendo il risultato al lancio d'azione, reazione, danni o per rimuovere una quantità di Stress uguale al risultato. Alla fine di ogni sessione, cancella tutti i Dadi di Guida non spesi. Al livello 5, il tuo Dado di Guida aumenta a **d8**.
-# SottoClassi
-Scegli tra la sottoclasse del [[Trovatore]] o della [[Paroliere]].
+
+## Caratteristica Speranza
+**_Fare Scena:_** Spendi 3 Punti Speranza per Distrarre temporaneamente un bersaglio entro portata Vicina, infliggendogli una penalità di -2 alla sua Difficoltà.
+
+# Sottoclassi
+Scegli tra la sottoclasse del [[Trovatore]] o del [[Fabbro di Parole]].
+
+# Caratteristiche di Classe
+**_Adunata (Rally):_** Una volta per sessione, descrivi come incoraggi il gruppo e fornisci a te stesso e a ogni alleato un Dado di Adunata (d6 al livello 1). Un PG può spendere il Dado di Adunata per aggiungerlo al proprio tiro di azione, reazione, danno o per curare Stress pari al risultato. Rimuovi tutti i dadi inutilizzati a fine sessione.
+
 # Domande di Sfondo
-Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
-- Chi nella tua comunità ti ha insegnato ad avere così tanto autostima?
-- Ti sei innamorato una volta. Chi amavi e come ti ha ferito?
-- Hai sempre ammirato un altro bardo. Chi è e perché lo idolatri?
+_Rispondi a una qualsiasi delle seguenti domande di background._
+- Chi nella tua comunità ti ha insegnato ad avere così tanta fiducia in te stesso?
+- Sei stato innamorato una volta. Chi era il tuo amore e in che modo ti ha spezzato il cuore?
+- C'è un bardo che hai sempre stimato. Chi è e perché lo idolatri?
+
 # Connessioni
-Chiedi ai tuoi compagni di giocatori una delle seguenti domande affinché la risponda il loro personaggio, oppure crea le tue domande.
+_Fai una delle seguenti domande ai tuoi compagni di gioco._
 - Cosa ti ha fatto capire che saremmo diventati così buoni amici?
-- Cosa faccio che ti irrita?
-- Perché mi afferrate la mano di notte?
+- Quale mia abitudine o azione ti infastidisce di più?
+- Per quale motivo stringi la mia mano durante la notte?
