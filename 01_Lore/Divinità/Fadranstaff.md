@@ -1,5 +1,7 @@
 ---
 type: Divinità
+aliases:
+  - Viandante Misericordioso
 ---
 
 ![[Pasted image 20260710131838.png]]
