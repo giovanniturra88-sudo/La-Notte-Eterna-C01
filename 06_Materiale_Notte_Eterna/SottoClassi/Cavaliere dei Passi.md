@@ -1,32 +1,49 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Mago
+  - "[[Ranger]]"
+Dominio:
+  - "[[Ossa]]"
+  - "[[Saggio]]"
+spellcast_trait: Istinto
+source: La Notte Eterna
+---
+# Sottoclasse: Cavaliere dei Passi
+
+Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di correre in silenzio e superare barriere territoriali impossibili.
+
 ---
 
-*Il mondo è vasto e i passi devono essere compiuti con cura.*
+### Fondazione
+**_Passo Lungo & Felpato:_** La tua velocità di movimento aumenta permanentemente di +3 metri, e ottieni +1 all'Evasione. Hai vantaggio permanente su tutte le prove di Furtività che richiedono movimento.
 
-I Cavalieri dei Passi sono un ordine di maghi che si specializzano nella magia del movimento e della velocità. Essi viaggiano attraverso i continenti, spesso portando notizie e conoscenze tra le città e i regni. La loro forma di magia è basata sul concetto del "passo perfetto" - un movimento armonioso che permette di superare ogni ostacolo.
+---
 
-## Caratteristica di Lancio Incantesimi
+### Specializzazione
+**_Passo Schivo:_** Tutti gli attacchi di opportunità effettuati contro di te subiscono svantaggio.
+**_Passo Fuorviante:_** Come azione bonus, spendi 1 Speranza per confondere un avversario visibile. I suoi attacchi contro di te hanno svantaggio finché non ti colpisce o finché la scena non termina.
 
-Movimento
+---
 
-## Caratteristiche Fondamentali
+### Maestria
+**_Passo Perfetto:_** Ottieni la capacità di camminare sull'acqua e sulle superfici verticali. Sei completamente immune a qualsiasi danno ambientale (acido, fuoco, trappole) derivante dal muoverti sul terreno, e ignori tutti i terreni difficili.
 
-**_Passo dell'Esploratore:_** Hai studiato le tecniche per muoverti rapidamente e in modo flessibile. Ogni volta che ti muovi, puoi aggiungere il tuo modificatore di Intelligenza al tuo movimento.
+---
 
-**_Ritmo del Passo:_** Quando effettui un attacco con un'arma a distanza, puoi spendere un punto di energia per far sì che il colpo non venga parato, infliggendo danno extra di **1d6**.
+## Domande di Sfondo
 
-## Caratteristiche di Specializzazione
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Passo dell'Ombra:_** Puoi muoverti senza lasciare tracce. Se ti muovi in condizioni di oscurità o in ambienti complessi, puoi effettuare un tiro per nasconderti senza dover effettuare un'azione.
+- Chi ti ha donato la cappa impermeabile e insegnato a camminare senza produrre alcun suono?
+- Quale mappa delle fogne della Sezione LVI sei riuscito a rubare e cosa speri di trovarvi?
+- Perché preferisci la solitaria e gelida notte all'addiaccio alla sicurezza di una locanda?
 
-**_Percorso del Maestro:_** Il danno extra dal tuo "Ritmo del Passo" aumenta a **2d6**.
+---
 
-## Caratteristiche di Maestria
+## Connessioni
 
-**_Passo dell'Istante:_** Quando effettui un attacco, puoi spendere un punto di energia per muoverti di un numero di metri uguale al tuo modificatore di Destrezza prima di effettuare l'attacco.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Percorso Infinito:_** Il danno extra dal tuo "Ritmo del Passo" aumenta a **3d6**.
+- Quale traccia o impronta hai lasciato che mi ha permesso di rintracciarti quando eri disperso?
+- Perché la mia andatura silenziosa ti spaventa o ti rende vigile?
+- Quale segreto dei territori boschivi della Landa di Edeber abbiamo scoperto insieme?

@@ -1,32 +1,49 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Ladro
+  - "[[Rogue]]"
+Dominio:
+  - "[[MezzaNotte]]"
+  - "[[Grazia]]"
+spellcast_trait: Finesse
+source: La Notte Eterna
+---
+# Sottoclasse: Tombarolo
+
+Ladri specializzati nell'esplorazione e nel saccheggio di antiche necropoli, capaci di rianimare un cadavere come servitore per i lavori forzati.
+
 ---
 
-# Tombarolo
+### Fondazione
+**_Morto di Fatica:_** Una volta per rest, puoi mirare a un cadavere umanoide di taglia media o inferiore per rianimarlo come non-morto helper (Scheletro o Zombi). Non può attaccare o difendere, ma esegue ordini semplici per te (aprire casse, trasportare pesi, attivare leve). Scompare se subisce danni.
 
-Play the Tombarolo if you want to specialize in dungeon exploration and treasure hunting.
+---
 
-### SPELLCAST TRAIT
+### Specializzazione
+**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi HP. Come reazione quando stai per subire danni da un attacco e il tuo helper è entro portata Molto Vicina, puoi far sì che l'attacco colpisca e distrugga il tuo helper al tuo posto.
+**_Esploratore di Catacombe:_** Ottieni vantaggio raddoppiato su tutte le prove per individuare trappole e passaggi segreti.
 
-Trap Finding
+---
 
-### FOUNDATION FEATURES
+### Maestria
+**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Vicina deve effettuare un TS Destrezza; in caso di fallimento, subisce 6d10 danni necrotici ed è avvelenata per 1 minuto.
 
-**_Sneak Attack:_** Once per turn, when you hit a creature with a finesse or ranged weapon attack, you can deal an extra **1d6** damage to the target.
+---
 
-**_Trap Sense:_** You gain resistance to trap damage. When you take trap damage, reduce it by 5.
+## Domande di Sfondo
 
-### SPECIALIZATION FEATURES
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Locksmith:_** You can pick locks and disarm traps with a successful Dexterity check.
+- Quale favoloso tesoro hai sottratto alle pericolose e Favoleggiate Rovine di Gundazar?
+- Qual è la trappola mortale a cui sei sfuggito per un soffio e che ha segnato la tua reputazione di tombarolo?
+- Perché ritieni che la profanazione delle tombe sia l'unico modo per rimediare alle pesanti tasse della Repubblica?
 
-**_Treasure Hunter:_** The extra damage from your "Sneak Attack" feature increases to **2d6**.
+---
 
-### MASTERY FEATURES
+## Connessioni
 
-**_Master of the Dungeon:_** When you deal sneak attack damage, you can mark an additional Hit Point on the target.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Treasure Master:_** The extra damage from your "Sneak Attack" feature increases to **3d6**.
+- Quale oggetto di valore o gemma rubata dalle catacombe mi hai regalato per farti perdonare un torto?
+- Perché trovi che la mia paura dei non morti sia un'ottima scusa per mandarmi avanti a esplorare i corridoi?
+- Quale trappola micidiale abbiamo disattivato spalla a spalla nel dungeon sotterraneo?

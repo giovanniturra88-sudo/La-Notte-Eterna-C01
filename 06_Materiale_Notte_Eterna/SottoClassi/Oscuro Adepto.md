@@ -1,32 +1,49 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Seraph
+  - "[[Warlock]]"
+Dominio:
+  - "[[Terrore]]"
+  - "[[Grazia]]"
+spellcast_trait: Presenza (Presence)
+source: La Notte Eterna
+---
+# Sottoclasse: Oscuro Adepto
+
+Chierici e cultisti devoti del semidio [[Tenebris]], che stringono patti infernali per ottenere difese d'ombra e catene sacrileghe.
+
 ---
 
-*La luce non è mai davvero spenta, ma solo nascosta.*
+### Fondazione
+**_Protezione Infernale:_** Ottieni resistenza permanente ai danni da Fuoco e da Veleno. Come reazione quando vieni colpito da un attacco, puoi spendere 1 Stress per essere ammantato da ombre deformi che ti concedono resistenza a tutti i danni di quell'attacco.
 
-L'Oscuro Adepto è un Seraph che ha ricevuto il potere dell'oscurità e della visione divina. Questo sacerdote si specializza nella manipolazione del potere dell'oscurità, utilizzandolo per vedere il futuro e proteggere i suoi alleati.
+---
 
-## Caratteristica di Lancio Incantesimi
+### Specializzazione
+**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Vicina. Essi devono effettuare un TS Forza contro la tua CD Incantesimo; in caso di fallimento, sono considerati Ristretti (Restrained) da catene di acciaio bollente per 1 round.
+**_Aguzzino Competente:_** Ottieni vantaggio permanente su tutte le prove di Intimidire.
 
-Oscurità
+---
 
-## Caratteristiche Fondamentali
+### Maestria
+**_Pentacolo dei Dieci Devoti:_** Ottieni l'immunità completa ai danni da Fuoco e Veleno. Il tuo tipo di creatura diventa permanentemente Immondo (Fiend). Ottieni vantaggio permanente a tutte le prove di Intimidire, ma subisci svantaggio permanente a tutte le prove di Persuasione con creature buone.
 
-**_Visione Oscura:_** Ogni volta che lanci un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+---
 
-**_Raggio dell'Oscurità:_** Quando infliggi danno a un nemico, puoi spendere un punto di energia per far sì che il danno venga raddoppiato.
+## Domande di Sfondo
 
-## Caratteristiche di Specializzazione
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Premonizione Oscura:_** Ogni volta che effettui un tiro salvezza contro un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza. Inoltre, puoi lanciare un incantesimo che causa un effetto di oscurità a tutti i nemici entro 30 metri. I nemici colpiti devono effettuare un tiro salvezza contro la tua CA o subire un danno di **2d6** e diventare ciechi per un round.
+- Quale patto infernale hai stipulato con il semidio Tenebris nella sua Oscura Chiesa?
+- Qual è l'agghiacciante sacrificio umano o di anime che hai dovuto compiere per ottenere il tuo Pentacolo?
+- Quale segreto sul Barone Hulbert e sul culto di Tenebris a Mubunash stai custodendo?
 
-**_Raggio dell'Oscurità:_** Il danno causato dal tuo "Raggio dell'Oscurità" aumenta a **3d6**.
+---
 
-## Caratteristiche di Maestria
+## Connessioni
 
-**_Vista dell'Universo Oscura:_** Quando un nemico subisce un colpo critico contro di te, puoi spendere un punto di energia per ridurre il danno del 50% e ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Oscurità dell'Universo:_** Il danno causato dal tuo "Raggio dell'Oscurità" aumenta a **4d6** e puoi scegliere di infliggere danno oscuritario invece che fisico.
+- Quale delle mie preghiere o azioni ti ricorda costantemente la dannazione della tua anima?
+- Perché trovi che la mia fermezza morale sia un fastidioso ostacolo per i tuoi piani infernali?
+- Quale catena d'ombra hai evocato in mia difesa che mi ha salvato la vita?

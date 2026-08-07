@@ -1,30 +1,48 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
+classe:
+  - "[[Sorcerer]]"
+spellcast_trait: Istinto (Instinct)
+Dominio:
+  - "[[Arcana]]"
+  - "[[MezzaNotte]]"
+source: La Notte Eterna
+---
+# Sottoclasse: Elementalista
+
+Stregoni con una sintonia viscerale verso un elemento naturale (Acido, Veleno, Fuoco, Freddo, Tuono o Fulmine), che si ammantano di barriere distruttive.
+
 ---
 
-# Elementalista
+### Fondazione
+**_Schermo Elementale:_** Scegli un elemento (Acido, Veleno, Fuoco, Freddo, Tuono, Fulmine). Quando subisci danni, usa la tua reazione e spendi 1 Stress per ridurre il danno di un valore pari al tuo modificatore di Incantesimo + il tuo Tier. L'attaccante subisce lo stesso ammontare di danni dell'elemento scelto.
 
-Play the Elementalista if you want to harness the power of the elements in your magic.
+---
 
-### SPELLCAST TRAIT
+### Specializzazione
+**_Fusione Elementale:_** Ottieni resistenza permanente all'elemento scelto. Tutti i tuoi incantesimi e attacchi ignorano la resistenza dei nemici all'elemento da te prescelto.
 
-Elemental
+---
 
-### FOUNDATION FEATURES
+### Maestria
+**_Elementalista Supremo:_** Ottieni l'immunità totale all'elemento scelto. Inoltre, i tuoi incantesimi infliggono danni dimezzati anche alle creature che sarebbero normalmente immuni a quell'elemento.
 
-**_Elemental Affinity:_** You gain resistance to one type of damage (fire, cold, lightning, or acid). Choose at the start of each day.
+---
 
-**_Elemental Strike:_** Your attacks deal an extra **1d6** damage of the chosen element.
+## Domande di Sfondo
 
-### SPECIALIZATION FEATURES
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Elemental Mastery:_** When you deal damage with a spell or ability, you can mark an additional Hit Point on the target.
+- Come si è manifestata per la prima volta la tua Sintonia Elementale e quale danno incontrollato ha causato?
+- Perché gli Araldi della Tempesta ti considerano una minaccia o un prezioso alleato?
+- Quale frammento di meteora ha infuso la tua magia elementale di potere instabile?
 
-**_Elemental Surge:_** The extra damage from your "Elemental Strike" feature increases to **2d6**.
+---
 
-### MASTERY FEATURES
+## Connessioni
 
-**_Master of Elements:_** When you deal damage with a spell or ability, you can mark an additional Hit Point on the target and force them to make a Strength saving throw or be knocked prone.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Absolute Element:_** The extra damage from your "Elemental Strike" feature increases to **3d6.**
+- Quale elemento ti spaventa di più e perché la mia magia ti ricorda quella fobia?
+- Come ti ho protetto da un incendio o da una tempesta elementale in passato?
+- Quale mia abitudine ti fa dubitare della mia stabilità mentale?

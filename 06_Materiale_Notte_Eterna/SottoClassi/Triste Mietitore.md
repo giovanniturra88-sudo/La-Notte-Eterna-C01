@@ -1,32 +1,48 @@
 ---
-type:
-  - "[[SottoClassi]]"
-classe:
-  - Seraph
+type: Sottoclasse
+classe_associata: "[[Blood Hunter]]"
+Dominio:
+  - "[[Sangue]]"
+  - "[[Ossa]]"
+spellcast_trait: Presenza (Presence) o Istinto (Instinct)
+source: La Notte Eterna
+---
+# Sottoclasse: Triste Mietitore
+
+Paladini risorti per volere di Krea, che non seguono la via del bene o del male ma si adoperano per ristabilire l'equilibrio tra la vita e la morte.
+
 ---
 
-*La morte non è la fine, ma l'inizio di un nuovo viaggio.*
+### Fondazione
+**_Punizione dell'Oltretomba:_** Le tue abilità marziali e i tuoi attacchi d'arma possono infliggere danni Necrotici invece di fisici. Ogni volta che sconfiggi un avversario pericoloso con un attacco necrotico, rimuovi immediatamente 1 Stress.
 
-Il Triste Mietitore è un Seraph che ha prestato giuramento a Krea e all'Oltretomba. Questo sacerdote della morte si specializza nella manipolazione dei poteri dell'afterlife, usando la paura e la morte come armi contro i propri nemici.
+---
 
-## Caratteristica di Lancio Incantesimi
+### Specializzazione
+**_Aura dell'Oltretomba:_** Emani un'aura verdastra entro portata Vicina. Gli spiriti e le creature invisibili all'interno dell'aura diventano visibili. Le creature incorporee che entrano nell'area perdono la loro capacità di movimento incorporeo per la durata della scena.
+**_Cupo Raccolto:_** Quando infliggi danni necrotici, recuperi HP pari alla metà dei danni inflitti.
 
-Morte
+---
 
-## Caratteristiche Fondamentali
+### Maestria
+**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo 3 Speranza, ti trasforma in un campione scheletrico di Krea per la durata della scena. Ottieni velocità di volo (levitazione) pari a 9 m, immunità totale ai danni Necrotici, e i tuoi attacchi fisici e magici convertono metà del danno inflitto in cura per te stesso.
 
-**_Soffio della Morte:_** Quando infliggi danno a un nemico che ha 0 o meno punti vita, puoi spendere un punto di energia per causare un danno supplementare di **1d6**.
+---
 
-**_Guardiano dell'Oltretomba:_** Ogni volta che un nemico subisce un colpo critico contro di te, puoi spendere un punto di energia per ridurre il danno del 50%.
+## Domande di Sfondo
 
-## Caratteristiche di Specializzazione
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Canto della Morte:_** Puoi lanciare un incantesimo che causa un effetto di paura a tutti i nemici entro 30 metri. I nemici colpiti devono effettuare un tiro salvezza contro la tua CA o subire un danno di **2d6** e diventare spaventati per un round.
+- Quale gloriosa casata o ordine cavalleresco servivi prima che le orbite vuote di Krea si posassero sul tuo cadavere?
+- Perché non possiedi ricordi della tua passata esistenza mortale e cosa ti spinge a ripristinare l'equilibrio tra la vita e la morte?
+- Quale tiranno o chierico che abusava dei miracoli hai dovuto punire nel nome della Dama Nera?
 
-**_Soffio dell'Oltretomba:_** Il danno causato dal tuo "Soffio della Morte" aumenta a **2d6**.
+---
 
-## Caratteristiche di Maestria
+## Connessioni
 
-**_Signore dell'Afterlife:_** Quando un nemico muore a causa del tuo potere, puoi spendere un punto di energia per far sì che il loro spirito rimanga per un round per attaccare i tuoi nemici. Questo spirito può effettuare un attacco bonus contro un nemico.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Morte dell'Universo:_** Il danno causato dal tuo "Soffio della Morte" aumenta a **3d6** e puoi scegliere di infliggere danno psichico invece che fisico.
+- Quale mia azione ritieni che stia violando il naturale ciclo della vita e della morte?
+- Perché la mia presenza vitale e calorosa ti infastidisce o ti incuriosisce?
+- Quale promessa silenziosa ci lega nel fango delle catacombe?

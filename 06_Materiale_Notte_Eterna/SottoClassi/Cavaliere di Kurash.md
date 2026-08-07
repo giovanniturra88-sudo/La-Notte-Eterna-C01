@@ -1,21 +1,53 @@
 ---
 type:
-  - "[[SottoClassi]]"
+  - Sottoclasse
 classe:
-  - Mago
+  - "[[Wizard]]"
+spellcast_trait: Conoscenza
+Dominio:
+  - "[[Codice]]"
+  - "[[Lama]]"
+  - "[[Ossa]]"
+  - "[[Splendore]]"
+source: La Notte Eterna
 ---
-*Fuoco che governi [[Nebvarasa]], avvolgimi con il tuo sapere.*
 
-Perché limitarsi al solo uso delle armi quando si può padroneggiare anche l'arte della magia?
-Un Cavaliere di Kurash spesso si riconosce dal fatto che non indossa alcuna armatura. I nemici potrebbero ritenerlo uno sprovveduto e solo ad attacco avvenuto scoprire che una forza invisibile protegge il loro avversario.
-Le fonti storiche ci raccontano che [[Kurash]], il leggendario mago che scoprì e documentò per primo il [[Fuoco Segreto]], era un raffinato spadaccino che non perdeva mai occasione di sfidare a duello gli incantatori che si opponevano alle sue teorie. Nel corso del tempo, [[Kurash]] sviluppò una tecnica marziale che univa al potere arcano, tecnica successivamente documentata in un libro intitolato "Un Trattato sulla Scherma Arcana: Sorprendi i Tuoi Nemici con Magia e Acciaio". Questo libro è considerato sacro dai Cavalieri di Kurash, un ordine che ha costruito le proprie fondamenta sui principi enunciati dal geniale incantatore. Con il passare del tempo, i Cavalieri dî Kurash hanno affinato e perfezionato le tecniche originali, sviluppando di conseguenza una grande considerazione di se stessi che li rende fermi sostenitori della loro superiore conoscenza rispetto alla [[Dimensione della Materia]] e alla [[Dimensione dello Spirito]], le due dimensioni che formano il sistema di [[Nebvarasa]].
-Grazie al loro studio del trattato di Kurash, questi maghi sanno destreggiarsi bene in quelle situazioni in cui altri cavalieri Oued si troverebbero in grave difficoltà. Il [[Ducato di Òuin]] si avvale dei loro servigi per ambasciate presso altri regni e, in battaglia, per tutte quelle missioni particolarmente rischiose che richiedono arcani saperi e finezza.
-Sono ammirati, invidiati e talvolta guardati con malcelato sospetto dagli altri cavalieri, soprattutto sono sempre evitati come compagni di bevuta: non sai mai quale trucco possono giocarti, trasformando il vino in acqua o peggio, sfidandoti a gare impossibili dalle quali emergono vittoriosi grazie alla magia
-## Arcano della Lama
-Al 2° livello il mago apprende l'uso di un arcano grazie al quale può materializzare una spada di pura energia magica compiendo un rituale della durata di 1 ora e spendendo componenti del costo di 100 monete d'oro. L'arma conta come arma da mischia semplice e leggera in cui il mago possiede competenza. Una volta materializzata, il mago può far scomparire e ricomparire l'arma nella sua mano utilizzando un'azione bonus. L'arma non può essere ceduta o impugnata da altri al di fuori del mago. Se il mago lascia cadere l'arma, essa si dissipa alla fine del turno. Quando il mago attacca con quest'arma, può usare il suo modificatore di Intelligenza, anziché di Forza, sia per i tiri per colpire, sia per i tiri per i danni. L'arma infligge 1d10 danni da Forza; benché la lama sia formata da energia arcana possiede il normale peso di una spada lunga e resta in possesso dell'incantatore fino alla sua morte. Se la lama viene distrutta può essere riformata attraverso un nuovo rituale.
-## Arcano della Preveggenza
-Dal 6° livello il mago apprende l'Arcano della Preveggenza grazie al quale riesce ad anticipare qualsiasi attacco l'attimo prima che esso avvenga. Se non indossa armature, la CA del mago equivale a 10 + modificatore di Destrezza + modificatore di Intelligenza.
-## Arcano dell'Alleanza
-Al 10° livello il mago può spendere un'azione per stringere alleanza con una creatura, non necessariamente amichevole. La creatura effettua un tiro salvezza su Saggezza contro la CD degli incantesimi del mago, se lo supera il mago non può più utilizzare questo privilegio su quella creatura per 24 ore. Se fallisce, il bersaglio è affascinato dal mago. La creatura affascinata considera il mago una figura conosciuta e amichevole e segue i suoi ordini al meglio delle sue capacità. Il mago recupera l'utilizzo di questa capacità quando completa un riposo lungo. Il mago può stringere alleanza con una sola creatura per volta. Il legame si interrompe alla morte del mago, oppure se questo ferisce o maltratta la creatura. I Cavalieri di Kurash sono soliti utilizzare l'Arcano dell'Alleanza per cercare un degno destriero, spesso pegasi, raramente draghi o unicorni. Questo potere non funziona su costrutti, umanoidi, elementali e aberrazioni.
-## Arcano del Tempo
-A partire dal 14° livello il mago, usando un'azione, può annullare gli effetti di una qualsiasi azione avvenuta nel round precedente o nel suo stesso round. Gli effetti che è in grado di annullare includono un singolo attacco/incantesimo e i danni/effetti causati sul mago o un altro individuo entro 6 m; ha effetto anche su azioni narrative quali una torcia che cadendo appicca il fuoco a un tetto di paglia, ecc. La capacità viene recuperata effettuando un riposo lungo.
+# Sottoclasse: Cavaliere di Kurash
+
+Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'energia arcana e di manipolare lo scorrere del tempo.
+
+---
+
+### Fondazione
+**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di Incantesimo invece di Forza, infliggendo 1d10 danni da Forza. Puoi farla scomparire e ricomparire come azione gratuita.
+
+---
+
+### Specializzazione
+**_Arcano della Preveggenza:_** Se non indossi armature, la tua Evasione aumenta di un valore pari al tuo modificatore di Incantesimo. Inoltre, ottieni vantaggio ai tiri di Iniziativa.
+**_Arcano del Tempo:_** Come reazione quando tu o un alleato entro portata Vicina subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
+
+---
+
+### Maestria
+**_Maestro del Fuoco Segreto:_** La tua lama di forza ignora qualsiasi resistenza o immunità al danno dei nemici. I tuoi attacchi riusciti con l'Arcano della Lama infliggono +2d10 danni da Forza extra.
+
+---
+
+## Domande di Sfondo
+
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+
+- Chi ti ha iniziato allo studio del Trattato sulla Scherma Arcana di Kurash?
+- Quale segreto del Fuoco Segreto hai scoperto nelle rovine che ti fa temere l'interesse delle altre sette?
+- Quale pegaso o destriero leggendario desideri evocare con l'Arcano dell'Alleanza?
+
+---
+
+## Connessioni
+
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
+
+- Quale mio incantesimo o trucco magico hai cercato di replicare con la tua spada?
+- Perché ritieni che il mio pragmatismo sia fondamentale per compensare le tue manie di grandezza accademica?
+- Quale aneddoto sul leggendario spadaccino Kurash mi tormenti a raccontare ogni notte?

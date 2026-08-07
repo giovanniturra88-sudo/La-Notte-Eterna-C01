@@ -1,32 +1,49 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Seraph
+  - "[[Assassin]]"
+Dominio:
+  - "[[Lama]]"
+  - "[[MezzaNotte]]"
+spellcast_trait: Istinto (Instinct)
+source: La Notte Eterna
+---
+# Sottoclasse: Prescelto dalle Tenebre
+
+Monaci assassini e sicari della Chiesa di [[Garod]], in grado di fondersi con le ombre, sferrare colpi necrotici e alterare il proprio aspetto.
+
 ---
 
-*La luce non è mai davvero spenta, ma solo nascosta.*
+### Fondazione
+**_Verme nell'Ombra & Colpo di Tenebra:_** Ottieni vantaggio raddoppiato su tutte le prove di Furtività. Quando attacchi con successo un avversario mentre sei Cloaked o in condizioni di oscurità, puoi spendere 1 Stress per infliggere +1d10 danni necrotici extra.
 
-Il Prescelto delle Tenebre è un Seraph che ha ricevuto il potere delle tenebre e della visione divina. Questo sacerdote si specializza nella manipolazione del potere delle tenebre, utilizzandolo per vedere il futuro e proteggere i suoi alleati.
+---
 
-## Caratteristica di Lancio Incantesimi
+### Specializzazione
+**_Sussurri nel Buio:_** Ottieni resistenza permanente ai danni Necrotici. Puoi spendere 1 Speranza per lanciare una percezione mentale: per 10 minuti, puoi percepire la presenza e la direzione di qualsiasi mente entro portata Vicina che si trovi in condizioni di oscurità.
+**_Sudario di Tenebre:_** Puoi spendere 1 Speranza per alterare illusoriamente il tuo aspetto e vestiario.
 
-Tenebre
+---
 
-## Caratteristiche Fondamentali
+### Maestria
+**_Benedizione di Garod:_** Una volta per riposo lungo, spendendo 2 Speranza, puoi fonderti completamente con l'oscurità per la durata della scena. Mentre sei in questa forma, ottieni +4 all'Evasione, velocità di movimento raddoppiata e immunità totale a tutti i danni fisici.
 
-**_Visione delle Tenebre:_** Ogni volta che lanci un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+---
 
-**_Raggio delle Tenebre:_** Quando infliggi danno a un nemico, puoi spendere un punto di energia per far sì che il danno venga raddoppiato.
+## Domande di Sfondo
 
-## Caratteristiche di Specializzazione
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Premonizione delle Tenebre:_** Ogni volta che effettui un tiro salvezza contro un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza. Inoltre, puoi lanciare un incantesimo che causa un effetto di tenebra a tutti i nemici entro 30 metri. I nemici colpiti devono effettuare un tiro salvezza contro la tua CA o subire un danno di **2d6** e diventare ciechi per un round.
+- Quale spietato addestramento marziale hai subito sin da fanciullo presso la Chiesa di Garod?
+- Quale 'Rinnegato' o compagno di addestramento stai fuggendo o braccando nelle Terre Nascoste?
+- Qual è la fazione o il bersaglio della milizia di Mendulia's Rock che hai dovuto eliminare in segreto?
 
-**_Raggio delle Tenebre:_** Il danno causato dal tuo "Raggio delle Tenebre" aumenta a **3d6**.
+---
 
-## Caratteristiche di Maestria
+## Connessioni
 
-**_Vista dell'Universo delle Tenebre:_** Quando un nemico subisce un colpo critico contro di te, puoi spendere un punto di energia per ridurre il danno del 50% e ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Tenebra dell'Universo:_** Il danno causato dal tuo "Raggio delle Tenebre" aumenta a **4d6** e puoi scegliere di infliggere danno di tenebra invece che fisico.
+- Quale dei tuoi segreti ho scoperto che ti rende estremamente vigile e cauto quando sono vicino a te?
+- Perché trovi che la mia capacità di infiltrazione sia l'unico modo per completare le nostre missioni più rischiose?
+- Quale promessa silenziosa ci unisce nel buio delle cripte?

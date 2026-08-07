@@ -1,32 +1,50 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Seraph
+  - "[[Shadow Hunter]]"
+Dominio:
+  - "[[MezzaNotte]]"
+  - "[[Saggio]]"
+spellcast_trait: Istinto (Instinct)
+source: La Notte Eterna
 ---
 
-*La luce del sole non è mai davvero spenta, ma solo nascosta.*
+# Sottoclasse: Veggente dell'Ultimo Giorno
 
-Il Veggente dell'Ultim Giorno è un Seraph che ha ricevuto il potere della luce e della visione divina. Questo sacerdote si specializza nella manipolazione del potere della luce, utilizzandolo per vedere il futuro e proteggere i suoi alleati.
+Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marziale tangibile tramite i Dadi del Destino.
 
-## Caratteristica di Lancio Incantesimi
+---
 
-Luce
+### Fondazione
+**_Dadi del Destino:_** Ottieni una riserva di *Dadi del Destino* (d8) pari al tuo modificatore di Istinto. Prima di effettuare una prova o un attacco, puoi spendere un Dado del Destino per aggiungerne il risultato al tuo tiro d'azione (*Conoscenza Futura*).
 
-## Caratteristiche Fondamentali
+---
 
-**_Visione Divina:_** Ogni volta che lanci un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+### Specializzazione
+**_Previsione Accurata:_** Quando utilizzi un Dado del Destino, puoi scegliere di fornire vantaggio a un tiro che effettuerai nelle prossime 24 ore.
+**_Futuro Malleabile:_** Come azione bonus, spendi un Dado del Destino per imporre svantaggio a tutti i tiri per colpire effettuati contro di te fino alla fine del tuo prossimo turno.
 
-**_Raggio della Luce:_** Quando infliggi danno a un nemico, puoi spendere un punto di energia per far sì che il danno venga raddoppiato.
+---
 
-## Caratteristiche di Specializzazione
+### Maestria
+**_Onniscienza Futura:_** I tuoi Dadi del Destino diventano d12. Una volta per riposo, quando spendi un Dado del Destino e non sei soddisfatto del risultato, puoi scegliere di rilanciarlo e tenere il valore più alto. Se il tiro fallisce, recuperi immediatamente il Dado speso.
 
-**_Premonizione:_** Ogni volta che effettui un tiro salvezza contro un incantesimo, puoi spendere un punto di energia per ottenere un bonus di **+2** al tiro salvezza. Inoltre, puoi lanciare un incantesimo che causa un effetto di luce a tutti i nemici entro 30 metri. I nemici colpiti devono effettuare un tiro salvezza contro la tua CA o subire un danno di **2d6** e diventare ciechi per un round.
+---
 
-**_Raggio della Luce:_** Il danno causato dal tuo "Raggio della Luce" aumenta a **3d6**.
+## Domande di Sfondo
 
-## Caratteristiche di Maestria
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Vista dell'Universo:_** Quando un nemico subisce un colpo critico contro di te, puoi spendere un punto di energia per ridurre il danno del 50% e ottenere un bonus di **+2** al tiro salvezza contro l'incantesimo.
+- Come sei entrato in comunione con il dio Doomkhan e quale visione del tuo ultimo giorno ti è stata rivelata?
+- Qual è la taglia o la missione giudicata impossibile che sei riuscito a completare grazie al tuo Dado del Destino?
+- Quale filo del destino stai cercando di proteggere o di non far recidere dalla notte eterna?
 
-**_Luce dell'Universo:_** Il danno causato dal tuo "Raggio della Luce" aumenta a **4d6** e puoi scegliere di infliggere danno luminoso invece che fisico.
+---
+
+## Connessioni
+
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
+
+- Quale destino funesto ho evitato per conto tuo in passato grazie a una mia premonizione?
+- Perché trovi che la mia spensieratezza e il mio caos interiore siano in totale contrasto con la tua visione fatalista del mondo?
+- Quale profezia sul nostro party mi hai rivelato durante una notte stellata?

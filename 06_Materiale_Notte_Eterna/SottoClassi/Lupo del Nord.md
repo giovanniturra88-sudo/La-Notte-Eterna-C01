@@ -1,30 +1,49 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
+classe:
+  - "[[Brawler]]"
+Dominio:
+  - "[[Valore]]"
+  - "[[Ossa]]"
+spellcast_trait: Forza
+source: La Notte Eterna
+---
+# Sottoclasse: Lupo del Nord
+
+Barbaro e guerriero nativo delle gelide tundre delle Valli dei Giganti, temprato dal gelo intenso e furioso in battaglia.
+
 ---
 
-# Lupo del Nord
+### Fondazione
+**_Il Gelo è Casa:_** Ottieni resistenza permanente ai danni da Freddo. Hai vantaggio su tutte le prove di Costituzione e di sopravvivenza effettuate per resistere agli effetti delle basse temperature e del ghiaccio.
 
-Play the Lupo del Nord if you want to be a fierce warrior of the northern lands.
+---
 
-### SPELLCAST TRAIT
+### Specializzazione
+**_Lama di Ghiaccio:_** Quando colpisci con un attacco d'arma da mischia, spendi 1 Stress per infondere il colpo di gelo. L'attacco infligge +1d6 danni da Freddo extra (che aumentano a +1d10 al livello 5).
+**_Valanga:_** Come azione bonus, puoi effettuare una prova di Forza (CD 14) per spingere o far cadere prono un avversario entro portata Molto Vicina.
 
-Martial
+---
 
-### FOUNDATION FEATURES
+### Maestria
+**_Vento Glaciale:_** Una volta per scena, puoi esalare un soffio di gelo in un cono di 4,5 metri. L'area diventa terreno difficile per 1 minuto. Ogni nemico nell'area deve superare un TS Costituzione o subire 4d6 danni da gelo e avere la propria velocità dimezzata per 1 minuto.
 
-**_Arctic Resistance:_** You gain resistance to cold damage. When you take cold damage, reduce it by 5.
+---
 
-**_Feral Strike:_** Your attacks deal an extra **1d8** damage.
+## Domande di Sfondo
 
-### SPECIALIZATION FEATURES
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Howling Strike:_** Once per turn, you can cause a target to become frightened. On a hit, roll a d20. If the result is equal to or less than your proficiency bonus, the target becomes frightened until the end of their next turn.
+- Quale gigante del gelo o tribù di umanoidi mostruosi ha cercato di distruggere il tuo clan nelle Valli dei Giganti?
+- Qual è l'animale selvaggio (es. lupo crudele o mammut) con cui hai stretto un legame spirituale?
+- Come è mutata la tua pelle (tonalità azzurrognola) dopo anni passati tra i ghiacci eterni?
 
-**_Northern Surge:_** The extra damage from your "Feral Strike" feature increases to **2d8**.
+---
 
-### MASTERY FEATURES
+## Connessioni
 
-**_Master of the Wild:_** When you deal damage, you can mark an additional Hit Point on the target.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Absolute North:_** The extra damage from your "Feral Strike" feature increases to **3d8.**
+- In quale occasione ho dovuto proteggerti da una bufera che minacciava di assiderarti?
+- Perché trovi che la mia esuberanza sia l'unica cosa in grado di riscaldare il tuo cuore freddo?
+- Quale leggenda sulle Valli dei Giganti mi racconti ogni volta che ci accampiamo?

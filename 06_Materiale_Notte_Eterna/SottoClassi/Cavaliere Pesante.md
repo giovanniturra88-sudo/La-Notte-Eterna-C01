@@ -1,32 +1,51 @@
 ---
-type:
-  - "[[SottoClassi]]"
+type: Sottoclasse
 classe:
-  - Mago
+  - "[[Guardian]]"
+  - "[[Warrior]]"
+spellcast_trait: Forza
+Dominio:
+  - "[[Lama]]"
+  - "[[Ossa]]"
+  - "[[Valore]]"
+source: La Notte Eterna
+---
+# Sottoclasse: Cavaliere Pesante
+
+Resistenti combattenti specializzati nella pura forza fisica, nell'uso di pesanti armature e nel blocco dei nemici.
+
 ---
 
-*La forza non è mai un'arma, ma una protezione.*
+### Fondazione
+**_Armatura del Veterano:_** Ignori qualsiasi penalità all'Evasione derivante dall'indossare armature pesanti. Inoltre, la tua soglia di danno Minore aumenta di +1.
 
-I Cavalieri Pesanti sono maghi che si specializzano nella protezione e nella resistenza. Utilizzano la loro conoscenza arcana per creare barriere e armature magiche che li rendono immensi scudi viventi. La loro forma di magia si basa sul concetto della "pesantezza della conoscenza" - un'energia che rende il mago più resistente ai danni.
+---
 
-## Caratteristica di Lancio Incantesimi
+### Specializzazione
+**_Resilienza del Veterano:_** Come azione bonus, spendi 1 Speranza per focalizzarti su un avversario. Ottieni resistenza ai danni fisici (contundenti, perforanti, taglienti) inflitti da quell'avversario fino alla fine della scena.
+**_Nella Polvere:_** Quando colpisci un bersaglio con un attacco di opportunità, il bersaglio è immediatamente buttato prono.
 
-Resistenza
+---
 
-## Caratteristiche Fondamentali
+### Maestria
+**_Inamovibile:_** Sei completamente immune ad essere spostato contro la tua volontà o buttato prono. Sei inoltre immune alla condizione Afferrato (Grabbed) e non puoi subire Stress per respingere attacchi fisici.
 
-**_Armatura del Cavaliere:_** Hai studiato le tecniche per proteggerti dagli attacchi. Ogni volta che subisci un danno, puoi spendere un punto di energia per ridurre il danno di **1d6**.
+---
 
-**_Peso della Conoscenza:_** Quando effettui un tiro salvezza contro un effetto che ti infligge danno, puoi spendere un punto di energia per aggiungere il tuo modificatore di Intelligenza al tiro salvezza.
+## Domande di Sfondo
 
-## Caratteristiche di Specializzazione
+Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 
-**_Barriera dell'Armatura:_** Puoi creare una barriera magica intorno a te che riduce i danni da attacchi fisici del **2d6**. Questa barriera dura per un round e si ricarica dopo un riposo lungo.
+- In quale celebre scontro dell'Armata dell'Apocalisse hai combattuto per meritare l'accesso alla Sala dei Gran Maestri?
+- Di quale metallo o lega d'argento è fatta la tua corazza pesante, e quale fabbro di Öuin l'ha forgiata?
+- Quale crimine o fallimento militare ti tormenta e ti spinge a cercare il martirio?
 
-**_Peso della Verità:_** Il danno ridotto dal tuo "Peso della Conoscenza" aumenta a **2d6**.
+---
 
-## Caratteristiche di Maestria
+## Connessioni
 
-**_Armatura dell'Immortalità:_** Quando subisci un colpo che ti ridurrebbe a 0 punti vita, puoi spendere un punto di energia per evitare di cadere a 0 punti vita e invece rimanere con 1 punto vita.
+Chiedi ai tuoi compagni di gioco una delle seguenti domande affinché il loro personaggio risponda, oppure crea le tue domande.
 
-**_Peso dell'Universo:_** Il danno ridotto dal tuo "Peso della Conoscenza" aumenta a **3d6**.
+- Quale ferita d'arma da taglio ti ho inflitto o medicato durante il nostro primo incontro?
+- Perché trovi che la mia spietatezza in battaglia sia necessaria per la sopravvivenza del gruppo?
+- Quale promessa marziale ci lega nel fango delle trincee?

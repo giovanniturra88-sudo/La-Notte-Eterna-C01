@@ -1,6 +1,7 @@
 ---
 type:
   - "[[Ancestry]]"
+source: La Notte Eterna
 ---
 
 ![[Nuno.png]]
