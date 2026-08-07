@@ -8,43 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71dd7d210fcea22b",
+            "id": "57fee7850e1d1fbf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04_Risorse/Guide/Blood_Hunter_Void_2026_07_09.pdf"
+                "file": "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine dello Spettro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blood_Hunter_Void_2026_07_09"
+              "icon": "lucide-file",
+              "title": "Ordine dello Spettro"
             }
           },
           {
-            "id": "a4c9bf53b49119ef",
+            "id": "b6c17a4da4cd9f4a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "04_Risorse/Pictures/Pasted image 20260807005407.png"
+                "file": "02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart Hope and Fear/Earthkin.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260807005407"
-            }
-          },
-          {
-            "id": "b72a68a5ba2946a8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "04_Risorse/Pictures/Pasted image 20260807005407.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260807005407"
+              "icon": "lucide-file",
+              "title": "Earthkin"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Incantesimo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 289.5
   },
   "right": {
     "id": "8a279119e481b459",
@@ -213,45 +205,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7953156e4dee41d1",
+  "active": "b6c17a4da4cd9f4a",
   "lastOpenFiles": [
-    "04_Risorse/Pictures/Pasted image 20260806185438.png",
-    "04_Risorse/Pictures/Pasted image 20260807005407.png",
-    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void/Summoner.md",
-    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void/Blood_Hunter.md",
+    "00_Dashboard/Master e Players/Indice SottoClassi.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Congrega della Siepe.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine dello Spettro.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine del Mutante.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Ordine del Licantropo.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Teurga.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Necromante.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto dell'Infinito.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Gilda dei Tossicologi.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Patto dell'Ira.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Gilda dei Sicari.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Congrega della Luna.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Artista Marziale.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Hope and Fear/Colosso.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Baluardo.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Campione Divino.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Chiamata dei Coraggiosi.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Chiamata dello Sterminatore.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Custode degli Elementi.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Custode del Rinnovamento.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Esploratore.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Fabbro di Parole.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Legato alla Bestia.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Ombra della Notte.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Origine Elementale.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/Origine Primordiale.md",
+    "00_Dashboard/Master e Players",
+    "00_Dashboard/Master",
+    "04_Risorse/Guide/Daggerheart_Core_Book_-_Full_Art_Cards_-_9-09-25.pdf",
+    "06_Materiale_Notte_Eterna/Classi",
+    "04_Risorse/Guide/Daggerheart_Hope_and_Fear_Interactive_Book.pdf",
+    "04_Risorse/Guide/Summoner_Void_2026_07_09.pdf",
     "04_Risorse/Guide/Blood_Hunter_Void_2026_07_09.pdf",
-    "01_Lore/Divinità/Nuzagaal.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere di Öuin.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere Ospedaliere.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere Pesante.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/cavaliere-dei-passi.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/cavaliere-di-kurash.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/cavaliere-di-ouin.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/cavaliere-ospedaliere.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/cavaliere-predestinato.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/criomante 1.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/custode-dei-segreti.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/danse-macabre.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/elementalista 1.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/guardiano-nanico.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/lama-di-dor.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Legionario Xaan.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/legionario-xaan.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Lupo del Nord.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/lupo-del-nord.md",
-    "Dread.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Maestro delle Meraviglie.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/maestro-delle-meraviglie.md",
+    "04_Risorse/Pictures/Pasted image 20260807005407.png",
+    "04_Risorse/Pictures/Pasted image 20260806185438.png",
     "warlock_pdf.txt",
     "page8.txt",
     "page9.txt",
-    "pdf_brawler_extract.txt",
-    "04_Risorse/Campagna/jul-03_LNE-B-CBKI_Manuale-base_ebook.pdf",
     "04_Risorse/Pictures/Pasted image 20260805185428.png",
-    "pdf_structure.txt",
-    "analyze_pdf.py",
-    "pdf_temp_pages_1-10.txt",
-    "pdf_extract_raw.txt",
     "04_Risorse/Pictures/Pasted image 20260804014346.png",
     "Senza nome.canvas",
     "04_Risorse/Pictures/KAREVI.png",
