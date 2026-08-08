@@ -15,6 +15,7 @@
     "tratti": "multitext",
     "classe": "multitext",
     "domini_associati": "multitext",
-    "location": "multitext"
+    "location": "multitext",
+    "tattiche": "multitext"
   }
 }

@@ -1,14 +1,22 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Supporto]]"
+tier: Tier 2
+tattiche:
+  - Guadagnare favori
+  - Ostacolare nemici
+  - Scoprire conoscenze
+difficoltà: "14"
+soglia minore: "9"
+soglia maggiore: "18"
+HP: "4"
+stress: "6"
 ---
 
-**_Tier 2 [[Supporto]]._** _Un mago esperto che impugna ombra e paura._
-
-- **Motivi e Tattiche:** Guadagnare favori, ostacolare nemici, scoprire conoscenze
-- **Difficoltà:** 14 | **Soglie:** 9/18 | **PF:** 4 | **Stress:** 6
-- **ATT:** +2 | **Bastone Ricoperto di Rune:** Lontano | 2d4+3 mag
-- **Esperienza:** Conoscenza Caduta +2, Riti +2
+_Un mago esperto che impugna ombra e paura._
+**ATT:** +2 | **Bastone Ricoperto di Rune:** Lontano | 2d4+3 mag
+**Esperienza:** Conoscenza Caduta +2, Riti +2
 
 ### CARATTERISTICHE
 

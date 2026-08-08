@@ -1,14 +1,25 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
+tier: Tier 4
+tattiche:
+  - Applicare il dogma
+  - Volare
+  - Pronunciare giudizio
+  - Colpire
+difficoltà: "20"
+soglia minore: "37"
+soglia maggiore: "70"
+HP: "7"
+stress: "5"
 ---
 
-**_[[Capo]] Tier 4._** _Un campione divino, capo di una sacra schiera di guerrieri che fanno rispettare la volontà del loro dio._
+_Un campione divino, capo di una sacra schiera di guerrieri che fanno rispettare la volontà del loro dio._
 
-- **Motivazioni e Tattiche:** Applicare il dogma, volare, pronunciare giudizio, colpire
-- **Difficoltà:** 20 | **Soglie:** 37/70 | **PF:** 7 | **Stress:** 5
-- **ATT:** +8 | **Spada Sacra:** Molto Vicino | 4d10+10 fis
-- **Esperienza:** Conoscenza Divina +3
+**ATT:** +8 | **Spada Sacra:** Molto Vicino | 4d10+10 fis
+
+**Esperienza:** Conoscenza Divina +3
 
 ### CARATTERISTICHE
 

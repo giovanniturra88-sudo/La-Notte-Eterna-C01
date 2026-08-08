@@ -1,14 +1,25 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
+tier: Tier 1
+tattiche:
+  - Assorbire cadaveri
+  - Aggredire
+  - Fame
+  - Spaventare
+difficoltà: "13"
+soglia minore: "8"
+soglia maggiore: "15"
+HP: "10"
+stress: "3"
 ---
 
-**_[[Solo]] Tier 1._** _Un'orda di cadaveri che si muovono come uno solo, con arti della grandezza del torso e pugni grandi quanto un halfling adulto._
+_Un'orda di cadaveri che si muovono come uno solo, con arti della grandezza del torso e pugni grandi quanto un halfling adulto._
 
-- **Motivazioni & Tattiche:** Assorbire cadaveri, aggredire, fame, spaventare
-- **Difficoltà:** 13 | **Soglie:** 8/15 | **PF:** 10 | **Stress:** 3
-- **ATT:** +4 | **Troppe Braccia:** Molto Vicino | 1d20 fis
-- **Esperienza:** Intimidation +2, Strappare a Pezzi +2
+**ATT:** +4 | **Troppe Braccia:** Molto Vicino | 1d20 fis
+
+**Esperienza:** Intimidation +2, Strappare a Pezzi +2
 
 ### CARATTERISTICHE
 
