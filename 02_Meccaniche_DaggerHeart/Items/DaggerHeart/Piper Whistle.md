@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Piper Whistle
+# Fischietto del Pifferaio
 
 **_Item_**
 
-This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.
+Questo fischietto artigianale ha un suono caratteristico. Quando soffi in questo fischietto, il suo tono penetrante può essere udito entro un raggio di 1 miglio.

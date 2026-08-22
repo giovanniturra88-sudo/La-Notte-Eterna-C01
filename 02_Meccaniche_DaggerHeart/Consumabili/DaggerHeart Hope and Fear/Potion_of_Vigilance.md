@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 40
 ---
 
-# Potion of Vigilance
+# Pozione di Vigilanza
 
-You can drink this potion to gain a +1 bonus to your Evasion until you mark a Hit Point.
+Puoi bere questa pozione per ottenere un bonus di +1 alla tua Elusione finché non segni un Punto Ferita.

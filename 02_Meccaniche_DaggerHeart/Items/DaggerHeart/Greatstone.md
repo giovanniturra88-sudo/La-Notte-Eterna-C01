@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Greatstone
+# Grande Pietra
 
 **_Item_**
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. Powerful: On a successful attack, roll an additional damage die and discard the lowest result.
+Puoi fissare questa pietra a un'arma che non ha già una caratteristica. L'arma ottiene la seguente caratteristica. Potente: Con un attacco riuscito, tira un dado di danno aggiuntivo e scarta il risultato più basso.

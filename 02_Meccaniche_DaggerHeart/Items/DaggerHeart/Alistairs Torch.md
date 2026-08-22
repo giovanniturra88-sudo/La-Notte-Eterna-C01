@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Alistair's Torch
+# Torcia di Alistair
 
 **_Item_**
 
-You can light this magic torch at will. The flame's light fills a much larger space than it should, enough to illuminate a cave bright as day.
+Puoi accendere questa torcia magica a piacimento. La luce della fiamma riempie uno spazio molto più grande di quanto dovrebbe, abbastanza da illuminare una caverna chiara come il giorno.

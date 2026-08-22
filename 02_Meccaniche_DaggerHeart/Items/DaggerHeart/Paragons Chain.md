@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Paragon’s Chain
+# Catena del Paragone
 
 **_Item_**
 
-As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle.
+Come mossa di tempi morti, puoi meditare su un ideale o principio che ti sta a cuore e concentrare la tua volontà in questa catena. Una volta per riposo lungo, puoi spendere una Speranza per tirare un d20 come tuo Dado di Speranza per tiri che si allineano direttamente con quel principio.

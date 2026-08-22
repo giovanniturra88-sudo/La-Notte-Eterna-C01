@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Ogre Musk
+# Muschio dell'Orco
 
-You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest.
+Puoi usare questo muschio per impedire a chiunque di tracciarti con mezzi comuni o magici fino al tuo prossimo riposo.

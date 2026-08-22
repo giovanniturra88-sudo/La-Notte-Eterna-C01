@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Hopehold Flare
+# Fiamma di Hopehold
 
-When you use this flare, allies within Close range roll a d6 when they spend a Hope. On a result of 6, they gain the effect of that Hope without spending it. The flare lasts until the end of the scene.
+Quando usi questa fiamma, gli alleati entro gittata Vicina tirano un d6 quando spendono una Speranza. Con un risultato di 6, ottengono l'effetto di quella Speranza senza spenderla. La fiamma dura fino alla fine della scena.

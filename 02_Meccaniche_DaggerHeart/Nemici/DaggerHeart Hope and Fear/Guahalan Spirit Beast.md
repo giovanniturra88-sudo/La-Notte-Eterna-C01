@@ -4,18 +4,42 @@ type:
   - "[[Minion]]"
 ---
 
-# Guahalan Spirit Beast
-- **Tipo / Ruolo:** Tier 2 Minion
-- **Descrizione:** A brightly colored spirit in the shape of an animal.
-- **Motivi & Tattiche:** Protect, sacrifice, surround
-- **Difficoltà:** 13
-- **Soglie (Thresholds):** None
-- **Punti Ferita (HP):** 1
-- **Stress:** 2
-- **Attacco:** +1 | Bite & Claw: Melee | 5 mag
+## Bestia Spirito Guahalan
+* **Descrizione:** Uno spirito dai colori vivaci, a forma di animale.
+* **Tier:** 2 (Minion)
+* **Difficoltà:** 13
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 2
+* **Attacchi:**
+  * **Morso e Artiglio:** +1 | Da Vicino | 5 magico
+* **Tratti e Capacità:**
+  * **Minion (5) - Passiva:** La Bestia Spirito viene sconfitta quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge alla Bestia Spirito, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Forma Eterea - Passiva:** La Bestia Spirito ha resistenza ai danni fisici.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Bestie Spirito Guahalan entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 5 danni magici ciascuno. Combina questi danni.
+  * **Bomba Bestiale - Reazione:** Quando la Bestia Spirito viene sconfitta, esplode in fiamma bianca e infligge 5 danni magici alle creature entro portata Da Vicino.
 
-**Tratti (Features):**
-* **Minion (5) - Passive:** The Spirit Beast is defeated when it takes any damage. For every 5 damage a PC deals to the Spirit Beast, the PC defeats an additional Minion within range the attack would succeed against.
-* **Ethereal Form - Passive:** The Spirit Beast has resistance to physical damage.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Guahalan Spirit Beasts within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 5 magic damage each. Combine this damage.
-* **Beast Bomb - Reaction:** When the Spirit Beast is defeated, it explodes in white flame and deals 5 magic damage to creatures within Melee range.
+```statblock
+layout: DaggerHeart Nemici
+name: "Bestia Spirito Guahalan"
+description: "Uno spirito dai colori vivaci, a forma di animale."
+tier: "2"
+ruolo: "Minion"
+difficolta: "13"
+hp: "1"
+stress: "2"
+esperienza: ""
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Morso e Artiglio"
+    desc: "**+1** | Da Vicino | **5** magico"
+tratti:
+  - name: "Minion (5)"
+    desc: "*- Passiva:* La Bestia Spirito viene sconfitta quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge alla Bestia Spirito, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo."
+  - name: "Forma Eterea"
+    desc: "*- Passiva:* La Bestia Spirito ha resistenza ai danni fisici."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Bestie Spirito Guahalan entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 5 danni magici ciascuno. Combina questi danni."
+  - name: "Bomba Bestiale"
+    desc: "*- Reazione:* Quando la Bestia Spirito viene sconfitta, esplode in fiamma bianca e infligge 5 danni magici alle creature entro portata Da Vicino."
+```

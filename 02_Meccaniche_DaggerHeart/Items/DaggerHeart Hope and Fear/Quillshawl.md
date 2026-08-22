@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 56
 ---
 
-# Quillshawl
+# Scialle di Penne
 
-If an adversary attacks you within Melee range, they must succeed on a Reaction Roll (12) or mark a Hit Point.
+Se un avversario ti attacca entro gittata di Mischia, deve avere successo su un Tiro di Reazione (12) o segnare un Punto Ferita.

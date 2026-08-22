@@ -4,22 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Waxwork Creation
-**Tier 1 Solo**
+## Creatura di Cera
+* **Descrizione:** Un costrutto di cera di candela, alto dieci piedi, semisolido (e semisensiente).
+* **Tier:** 1 (Solo)
+* **Difficoltà:** 13
+* **Soglie di Danno:** 8/15
+* **Punti Ferita:** 10 | **Stress:** 3
+* **Esperienza:** Gigantesco +2
+* **Attacchi:**
+  * **Pugni:** +2 | Molto Vicina | 1d20 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (2) - Passiva:** La Creatura può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Nessun Organo Vitale - Passiva:** La Creatura non subisce danni extra dagli attacchi che hanno successo critico contro di essa.
+  * **Palla di Cera - Azione:** Segnare uno Stress per far sì che la Creatura lanci una palla di cera a un bersaglio entro portata Lontana. Effettua un attacco contro il bersaglio. In caso di successo, il bersaglio subisce 1d12+2 danni fisici e diventa *Ristretto* finché non supera un tiro di Forza (15).
+  * **Splat! - Reazione:** Quando un PG in portata Da Vicino della Creatura effettua un attacco con arma contro di essa, tira un d6. Su un risultato di 5 o superiore, l'arma dell'attaccante si incastra nella Creatura e può essere rimossa solo con un tiro di Forza riuscito (15).
+  * **Aggancio Asfissiante - Reazione:** Quando la Creatura effettua un attacco standard riuscito contro un bersaglio in portata Da Vicino, puoi spendere una Paura per Fissare il bersaglio all'interno del corpo di cera della Creatura. Mentre è *Fissato*, il bersaglio è *Ristretto* e deve segnare uno Stress e muoversi con la Creatura ogni volta che viene messa a fuoco. Una creatura *Fissata* viene liberata quando la Creatura subisce danni Maggiori o superiori.
 
-*A ten-foot-tall, semisolid (and semisentient) candle wax construct.*
-
-* **Motives & Tactics:** Lumber menacingly, moan with the pain of unlife, smother
-* **Difficulty:** 13
-* **Thresholds:** 8/15
-* **HP:** 10
-* **Stress:** 3
-* **ATK:** +2 | Fists: Very Close | 1d20 phy
-* **Experience:** Giant-Sized +2
-
-## FEATURES
-* **Relentless (2) - Passive:** The Creation can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight it.
-* **No Vital Organs - Passive:** The Creation doesn't take extra damage from attacks that critically succeed against it.
-* **Wax Ball - Action:** Mark a Stress to have the Creation throw a ball of wax at a target within Far range. Make an attack against the target. On a success, the target takes 1d12+2 physical damage and becomes Restrained until they succeed on a Strength Roll (15).
-* **Splotch! - Reaction:** When a PC within Melee range of the Creation makes a weapon attack against it, roll a d6. On a 5 or higher, the attacker's weapon gets stuck in the Creation and can be removed only with a successful Strength Roll (15).
-* **Smothering Grapple - Reaction:** When the Creation makes a successful standard attack against a target within Melee range, you can spend a Fear to Trap the target inside the Creation's wax body. While Trapped, the target is Restrained and must mark a Stress and move with the Creation each time it's spotlighted. A Trapped creature is freed when the Creation takes Major or greater damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Creatura di Cera"
+description: "Un costrutto di cera di candela, alto dieci piedi, semisolido (e semisensiente)."
+tier: "1"
+ruolo: "Solo"
+difficolta: "13"
+hp: "10"
+stress: "3"
+esperienza: "Gigantesco +2"
+soglia_danni: "8/15"
+attacchi:
+  - name: "Pugni"
+    desc: "**+2** | Molto Vicina | **1d20** fisico"
+tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* La Creatura può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Nessun Organo Vitale"
+    desc: "*- Passiva:* La Creatura non subisce danni extra dagli attacchi che hanno successo critico contro di essa."
+capacita_speciali:
+  - name: "Palla di Cera"
+    desc: "*- Azione:* Segnare uno Stress per far sì che la Creatura lanci una palla di cera a un bersaglio entro portata Lontana. Effettua un attacco contro il bersaglio. In caso di successo, il bersaglio subisce 1d12+2 danni fisici e diventa Ristretto finché non supera un tiro di Forza (15)."
+  - name: "Splat!"
+    desc: "*- Reazione:* Quando un PG in portata Da Vicino della Creatura effettua un attacco con arma contro di essa, tira un d6. Su un risultato di 5 o superiore, l'arma dell'attaccante si incastra nella Creatura e può essere rimossa solo con un tiro di Forza riuscito (15)."
+  - name: "Aggancio Asfissiante"
+    desc: "*- Reazione:* Quando la Creatura effettua un attacco standard riuscito contro un bersaglio in portata Da Vicino, puoi spendere una Paura per Fissare il bersaglio all'interno del corpo di cera della Creatura. Mentre è Fissato, il bersaglio è Ristretto e deve segnare uno Stress e muoversi con la Creatura ogni volta che viene messa a fuoco. Una creatura Fissata viene liberata quando la Creatura subisce danni Maggiori o superiori."
+```

@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Morphing Clay
+# Argilla Mutante
 
-You can spend a Hope to use this clay, altering your face enough to make you unrecognizable until your next rest.
+Puoi spendere una Speranza per usare questa argilla, alterando il tuo volto abbastanza da renderti irriconoscibile fino al tuo prossimo riposo.

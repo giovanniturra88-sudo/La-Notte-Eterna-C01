@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Snap Powder
+# Polvere Esplosiva
 
-Mark a Stress and clear a HP.
+Segna uno Stress ed elimina un Punto Ferita.

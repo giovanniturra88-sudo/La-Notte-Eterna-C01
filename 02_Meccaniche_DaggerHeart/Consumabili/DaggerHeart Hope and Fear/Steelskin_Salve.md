@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 49
 ---
 
-# Steelskin Salve
+# Unguento della Pelle d'Acciaio
 
-You can apply this salve to your skin to gain a bonus to your damage thresholds equal to your tier until the end of the scene.
+Puoi applicare questo unguento alla tua pelle per ottenere un bonus alle tue Soglie di Danno pari al tuo livello fino alla fine della scena.

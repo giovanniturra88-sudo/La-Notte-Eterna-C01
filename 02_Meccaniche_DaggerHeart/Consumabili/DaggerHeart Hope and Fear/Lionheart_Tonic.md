@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 58
 ---
 
-# Lionheart Tonic
+# Tonic del Cuore di Leone
 
-You can drink this tonic to gain a +1 bonus to your Proficiency until you roll with Fear.
+Puoi bere questo tonic per ottenere un bonus di +1 alla tua Competenza finché non tiri con Paura.

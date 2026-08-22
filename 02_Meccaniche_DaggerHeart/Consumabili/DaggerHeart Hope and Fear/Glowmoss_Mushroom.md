@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 14
 ---
 
-# Glowmoss Mushroom
+# Funghi Glowmoss
 
-You can break this mushroom into pieces, causing it to glow bright blue until your next long rest.
+Puoi spezzare questo fungo in pezzi, facendolo brillare di un azzurro intenso fino al tuo prossimo riposo lungo.

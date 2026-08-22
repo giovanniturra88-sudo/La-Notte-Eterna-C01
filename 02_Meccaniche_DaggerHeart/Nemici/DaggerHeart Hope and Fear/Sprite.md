@@ -4,18 +4,40 @@ type:
   - "[[Minion]]"
 ---
 
-# Sprite
-- **Tipo / Ruolo:** Tier 2 Minion
-- **Descrizione:** A tiny winged warrior that attacks trespassers with poison-tipped arrows.
-- **Motivi & Tattiche:** Avoid detection, let the poison do its work, protect the wilderness
-- **Difficoltà:** 13
-- **Soglie (Thresholds):** None
-- **Punti Ferita (HP):** 1
-- **Stress:** 1
-- **Attacco:** +0 | Needle-Sharp Arrows: Close | 5 phy
-- **Esperienza:** Stealth +2, Vengeance +2
+## Sprite
+* **Descrizione:** Un minuscolo guerriero alato che attacca gli intrusi con frecce avvelenate.
+* **Tier:** 2 (Minion)
+* **Difficoltà:** 13
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Furtività +2, Vendetta +2
+* **Attacchi:**
+  * **Frecce Affilate come Aghi:** +0 | Vicina | 5 fisico
+* **Tratti e Capacità:**
+  * **Minion (5) - Passiva:** Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Arte dell'Invisibilità - Azione:** Spendere una Paura per rendere lo Sprite *Nascosto* finché non attacca.
+  * **Veleno del Fiore del Sogno - Azione:** Quando lo Sprite ha successo su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Sonnecchioso* finché non subisce danni. Mentre è *Sonnecchioso*, il bersaglio deve effettuare un Tiro di Reazione di Presenza prima di effettuare un tiro d'azione. In caso di fallimento, deve segnare 2 Stress o addormentarsi finché non subisce danni.
 
-**Tratti (Features):**
-* **Minion (5) - Passive:** The Sprite is defeated when they take any damage. For every 5 damage a PC deals to the Sprite, the PC defeats an additional Minion within range the attack would succeed against.
-* **Art of Invisibility - Action:** Spend a Fear to make the Sprite Hidden until they attack.
-* **Dream Petal Poison - Action:** When the Sprite succeeds on a standard attack, you can spend a Fear to make the target Sleepy until the target takes damage. While Sleepy, the target must make a Presence Reaction Roll before they make an action roll. On a failure, they must mark 2 Stress or fall asleep until they take damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sprite"
+description: "Un minuscolo guerriero alato che attacca gli intrusi con frecce avvelenate."
+tier: "2"
+ruolo: "Minion"
+difficolta: "13"
+hp: "1"
+stress: "1"
+esperienza: "Furtività +2, Vendetta +2"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Frecce Affilate come Aghi"
+    desc: "**+0** | Vicina | **5** fisico"
+tratti:
+  - name: "Minion (5)"
+    desc: "*- Passiva:* Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo."
+capacita_speciali:
+  - name: "Arte dell'Invisibilità"
+    desc: "*- Azione:* Spendere una Paura per rendere lo Sprite *Nascosto* finché non attacca."
+  - name: "Veleno del Fiore del Sogno"
+    desc: "*- Azione:* Quando lo Sprite ha successo su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Sonnecchioso* finché non subisce danni. Mentre è *Sonnecchioso*, il bersaglio deve effettuare un Tiro di Reazione di Presenza prima di effettuare un tiro d'azione. In caso di fallimento, deve segnare 2 Stress o addormentarsi finché non subisce danni."
+```

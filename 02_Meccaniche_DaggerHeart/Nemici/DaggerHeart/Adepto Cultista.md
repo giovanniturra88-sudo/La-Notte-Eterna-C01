@@ -2,28 +2,44 @@
 type:
   - "[[Creatura]]"
   - "[[Supporto]]"
-tier: Tier 2
-tattiche:
-  - Guadagnare favori
-  - Ostacolare nemici
-  - Scoprire conoscenze
-difficoltà: "14"
-soglia minore: "9"
-soglia maggiore: "18"
-HP: "4"
-stress: "6"
 ---
 
-_Un mago esperto che impugna ombra e paura._
-**ATT:** +2 | **Bastone Ricoperto di Rune:** Lontano | 2d4+3 mag
-**Esperienza:** Conoscenza Caduta +2, Riti +2
+## Adepto Cultista
+* **Descrizione:** Un mago esperto che impugna ombra e paura.
+* **Tier:** 2 (Supporto)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 9/18
+* **Punti Ferita:** 4 | **Stress:** 6
+* **Esperienza:** Conoscenza Caduta +2, Riti +2
+* **Attacchi:**
+  * **Bastone Ricoperto di Rune:** +2 | Lontana | 2d4+3 magico
+* **Tratti e Capacità:**
+  * **Esplosione Debilitante - Azione:** **Spendere una Paura** per effettuare un attacco standard contro un bersaglio entro portata. In caso di successo, il bersaglio deve segnare uno Stress.
+  * **Manto dei Caduti - Azione:** **Segnare uno Stress** per avvolgere un alleato entro portata in un _Manto di Protezione_ fino a quando l'Adepto non segna il suo ultimo PF. Mentre è _Protetto_, il bersaglio ha resistenza a tutti i danni.
+  * **Catene d'Ombra - Azione:** **Spendere una Paura** e scegliere un punto entro portata Lontana. Tutti i bersagli entro portata Vicina a quel punto sono _Ristretti_ in catene di fumo fino a quando non si liberano con un successo su un Tiro di Forza o Istinto. Un bersaglio _Ristretto_ da questa caratteristica deve spendere una Speranza per effettuare un tiro d'azione.
+  * **La Paura è Carburante - Reazione:** Due volte per scena, quando un PG fallisce con Paura, cancella uno Stress.
 
-### CARATTERISTICHE
-
-**_Esplosione Debilitante - Azione:_** **Spendi una Paura** per effettuare un attacco standard contro un bersaglio entro portata. In caso di successo, il bersaglio deve segnare uno Stress.
-
-**_Manto dei Caduti - Azione:_** **Segna uno Stress** per avvolgere un alleato entro portata ravvolto in un _Manto di Protezione_ fino a quando l'Adepto non segna il suo ultimo PF. Mentre è _Protetto_, il bersaglio ha resistenza a tutti i danni.
-
-**_Catene d'Ombra - Azione:_** **Spendi una Paura** e scegli un punto entro portata Lontana. Tutti i bersagli entro portata Vicina a quel punto sono _Ristretti_ in catene di fumo fino a quando non si liberano con un successo su un Tiro di Forza o Istinto. Un bersaglio _Ristretto_ da questa caratteristica deve spendere una Speranza per effettuare un tiro d'azione.
-
-**_La Paura è Carburante - Reazione:_** Due volte per scena, quando un PG fallisce con Paura, cancella uno Stress.
+```statblock
+layout: DaggerHeart Nemici
+name: "Adepto Cultista"
+description: "Un mago esperto che impugna ombra e paura."
+tier: "2"
+ruolo: "Supporto"
+difficolta: "14"
+hp: "4"
+stress: "6"
+esperienza: "Conoscenza Caduta +2, Riti +2"
+soglia_danni: "9/18"
+attacchi:
+  - name: "Bastone Ricoperto di Rune"
+    desc: "**+2** | Lontana | **2d4+3** magico"
+capacita_speciali:
+  - name: "Esplosione Debilitante"
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco standard contro un bersaglio entro portata. In caso di successo, il bersaglio deve segnare uno Stress."
+  - name: "Manto dei Caduti"
+    desc: "*- Azione:* Segnare uno Stress per avvolgere un alleato entro portata in un Manto di Protezione fino a quando l'Adepto non segna il suo ultimo PF. Mentre è Protetto, il bersaglio ha resistenza a tutti i danni."
+  - name: "Catene d'Ombra"
+    desc: "*- Azione:* Spendere una Paura e scegliere un punto entro portata Lontana. Tutti i bersagli entro portata Vicina a quel punto sono Ristretti in catene di fumo fino a quando non si liberano con un successo su un Tiro di Forza o Istinto. Un bersaglio Ristretto da questa caratteristica deve spendere una Speranza per effettuare un tiro d'azione."
+  - name: "La Paura è Carburante"
+    desc: "*- Reazione:* Due volte per scena, quando un PG fallisce con Paura, cancella uno Stress."
+```

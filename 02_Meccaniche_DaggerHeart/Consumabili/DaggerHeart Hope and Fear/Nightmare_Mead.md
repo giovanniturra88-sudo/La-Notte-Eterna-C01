@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 42
 ---
 
-# Nightmare Mead
+# Idromea dell'Incubo
 
-You can drink this potion to discover the deepest fear of the next person you make eye contact with. When you do, the GM gains a Fear.
+Puoi bere questa pozione per scoprire la paura più profonda della prossima persona con cui fai contatto visivo. Quando lo fai, il GM guadagna una Paura.

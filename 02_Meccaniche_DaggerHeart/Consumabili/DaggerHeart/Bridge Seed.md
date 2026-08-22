@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Bridge Seed
+# Seme del Ponte
 
-Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next rest.
+Grossi viticci crescono dalla tua posizione fino a un punto a tua scelta entro gittata Lontana, permettendoti di arrampicarti su di essi o di attraversarli. I viticci si dissolvono al tuo prossimo riposo.

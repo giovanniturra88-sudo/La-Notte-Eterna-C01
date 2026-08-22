@@ -4,18 +4,34 @@ type:
   - "[[Standard]]"
 ---
 
-# Basilisk
-**Tier 2 Standard**
+## Basilisco
+* **Descrizione:** Un'iguana a sei zampe con la testa di un'avvoltoio, una spina dorsale spinosa e uno sguardo petrificante.
+* **Tier:** 2 (Standard)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 8/19
+* **Punti Ferita:** 4 | **Stress:** 4
+* **Attacchi:**
+  * **Mascelle e Artigli:** +1 | Da Vicino | 2d6+4 fisico
+* **Tratti e Capacità:**
+  * **Petrificare - Azione:** Spendere una Paura per costringere un PG entro portata Lontana a effettuare un Tiro di Reazione d'Istinto. In caso di successo, il bersaglio segna uno Stress. In caso di fallimento, il bersaglio diventa Rigido. Se il bersaglio è già Rigido, diventa Petrificato. Mentre è Rigido, il PG deve segnare uno Stress ogni volta che agisce, finché non effettua un riposo o il Basilisco non viene sconfitto. Mentre è Petrificato, il PG non può agire. La condizione Petrificato può essere rimossa solo applicando la saliva del Basilisco sul bersaglio.
+  * **CRONCH! - Azione:** Segnare uno Stress per far mordere al Basilisco un PG Petrificato entro portata Da Vicino. Il bersaglio deve effettuare una mossa di morte.
 
-*A six-legged monitor lizard that has the head of a vulture, a spiked backbone, and a petrifying gaze.*
-
-* **Motives & Tactics:** Move slow and steady, savor petrified prey, turn everyone to stone, watch and wait
-* **Difficulty:** 14
-* **Thresholds:** 8/19
-* **HP:** 4
-* **Stress:** 4
-* **ATK:** +1 | Jaws & Claws: Melee | 2d6+4 phy
-
-## FEATURES
-* **Petrify - Action:** Spend a Fear to force a PC within Far range to make an Instinct Reaction Roll. On a success, the target marks a Stress. On a failure, the target becomes Stiff. If the target is already Stiff, they become Petrified. While Stiff, the PC must mark a Stress each time they act until they take a rest or the Basilisk is defeated. While Petrified, the PC can't act. The Petrified condition can be cleared only by applying Basilisk saliva to the target.
-* **CRONCH! - Action:** Mark a Stress to have the Basilisk chomp down on a Petrified PC within Melee range. The target must make a death move.
+```statblock
+layout: DaggerHeart Nemici
+name: "Basilisco"
+description: "Un'iguana a sei zampe con la testa di un'avvoltoio, una spina dorsale spinosa e uno sguardo petrificante."
+tier: "2"
+ruolo: "Standard"
+difficolta: "14"
+hp: "4"
+stress: "4"
+soglia_danni: "8/19"
+attacchi:
+  - name: "Mascelle e Artigli"
+    desc: "**+1** | Da Vicino | **2d6+4** fisico"
+capacita_speciali:
+  - name: "Petrificare"
+    desc: "*- Azione:* Spendere una Paura per costringere un PG entro portata Lontana a effettuare un Tiro di Reazione d'Istinto. In caso di successo, il bersaglio segna uno Stress. In caso di fallimento, il bersaglio diventa Rigido. Se il bersaglio è già Rigido, diventa Petrificato. Mentre è Rigido, il PG deve segnare uno Stress ogni volta che agisce, finché non effettua un riposo o il Basilisco non viene sconfitto. Mentre è Petrificato, il PG non può agire. La condizione Petrificato può essere rimossa solo applicando la saliva del Basilisco sul bersaglio."
+  - name: "CRONCH!"
+    desc: "*- Azione:* Segnare uno Stress per far mordere al Basilisco un PG Petrificato entro portata Da Vicino. Il bersaglio deve effettuare una mossa di morte."
+```

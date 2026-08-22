@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 41
 ---
 
-# Cacophonous Concoction
+# Concozione Cacofonica
 
-When you drink this potion, anything you say or do in the next hour becomes impossible for a witness to recount. Any attempts they make to communicate what they saw, heard, or otherwise sensed comes out garbled or nonsensical.
+Quando bevi questa pozione, qualsiasi cosa tu dica o faccia nell'ora successiva diventa impossibile da riferire per un testimone. Qualsiasi tentativo che facciano per comunicare ciò che hanno visto, sentito o altrimenti percepito risulta confuso o privo di senso.

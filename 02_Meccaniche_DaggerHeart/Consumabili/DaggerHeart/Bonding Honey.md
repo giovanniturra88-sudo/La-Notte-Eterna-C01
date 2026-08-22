@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Bonding Honey
+# Miele Legante
 
-This honey can be used to glue two objects together permanently.
+Questo miele può essere usato per incollare due oggetti insieme in modo permanente.

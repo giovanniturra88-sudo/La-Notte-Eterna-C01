@@ -8,7 +8,7 @@ Hai scelto il percorso del Assassino.
 Gli assassini sono professionisti della morte. Usano la furtività assoluta, i veleni debilitanti e la precisione chirurgica dei loro colpi per eliminare i bersagli più protetti del mondo.
 
 ---
-- **DOMINI -** [[Lama]] & [[Mezzanotte]]
+- **DOMINI -** [[Lama]] & [[MezzaNotte]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 5
 - **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +1 Istinto, +0 Presenza, +0 Conoscenza

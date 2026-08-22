@@ -4,16 +4,39 @@ type:
   - "[[a Distanza]]"
 ---
 
-# Phoenix
-*Tier 3 Ranged*
-*A huge eagle that's made of magical flame, impossible to kill, and hunted for its healing plumage.*
+## Fenice
+* **Descrizione:** Un'aquila enorme fatta di fiamma magica, impossibile da uccidere e cacciata per il suo piumaggio curativo.
+* **Tier:** 3 (a Distanza)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 19/30
+* **Punti Ferita:** 6 | **Stress:** 6
+* **Esperienza:** Luminosa +4, Leggendaria +3
+* **Attacchi:**
+  * **Proiettile di Fuoco:** +4 | Molto Lontana | 3d10+3 magico
+* **Tratti e Capacità:**
+  * **Aurea Purificatrice - Passiva:** Qualsiasi PG che compie un'azione entro portata Da Vicino della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni.
+  * **Seme di Fuoco - Reazione:** La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Molto Vicina.
+  * **Resurrezione - Evoluzione:** Quando la Fenice viene sconfitta, diventa una nuvola di cenere che si disperde rivelando un Uovo Bruciante. L'Uovo ha immunità a tutti i danni e ha un'aurea di calore che infligge 3d4 danni magici diretti a chiunque lo tocchi. L'Uovo si schiude in una nuova Fenice, con tutti i PF e lo Stress rimossi, in 7 giorni.
 
-**Motives & Tactics:** Flee pursuers, live brilliantly, soar through the heavens, wield light and flame
-**Difficulty:** 18 | **Thresholds:** 19/30 | **HP:** 6 | **Stress:** 6
-**ATK:** +4 | **Fire Bolt:** Very Far | 3d10+3 mag
-**Experience:** Bright +4, Legendary +3
-
-## FEATURES
-* **Purifying Aura - Passive:** Any PC who takes an action within the Phoenix's Melee range can spend a Hope to purify themselves in its healing warmth, clearing a HP or a Stress and all conditions.
-* **Fireseed - Reaction:** The Phoenix bleeds magic fire. When the Phoenix marks a HP, summon one Minor Fire Elemental within Very Close range.
-* **Resurrection - Evolution:** When the Phoenix is defeated, it becomes a cloud of ash that blows away to reveal a Smoldering Egg. The Egg is immune to all damage and has a heat aura that deals 3d4 direct magic damage to anyone who touches it. The Egg hatches into a new Phoenix, with all HP and Stress cleared, in 7 days.
+```statblock
+layout: DaggerHeart Nemici
+name: "Fenice"
+description: "Un'aquila enorme fatta di fiamma magica, impossibile da uccidere e cacciata per il suo piumaggio curativo."
+tier: "3"
+ruolo: "a Distanza"
+difficolta: "18"
+hp: "6"
+stress: "6"
+esperienza: "Luminosa +4, Leggendaria +3"
+soglia_danni: "19/30"
+attacchi:
+  - name: "Proiettile di Fuoco"
+    desc: "**+4** | Molto Lontana | **3d10+3** magico"
+tratti:
+  - name: "Aurea Purificatrice"
+    desc: "*- Passiva:* Qualsiasi PG che compie un'azione entro portata Da Vicino della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni."
+  - name: "Seme di Fuoco"
+    desc: "*- Reazione:* La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Molto Vicina."
+  - name: "Resurrezione"
+    desc: "*- Evoluzione:* Quando la Fenice viene sconfitta, diventa una nuvola di cenere che si disperde rivelando un Uovo Bruciante. L'Uovo ha immunità a tutti i danni e ha un'aurea di calore che infligge 3d4 danni magici diretti a chiunque lo tocchi. L'Uovo si schiude in una nuova Fenice, con tutti i PF e lo Stress rimossi, in 7 giorni."
+```

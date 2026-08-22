@@ -4,19 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Cipactli
-*Tier 4 Solo*
-*A gargantuan crocodile that has a body covered in a patchwork of fish scales, toad skin, and dozens of hungry mouths.*
+## Cipactli
+* **Descrizione:** Un coccodrillo gargantuesco, con un corpo coperto da un mosaico di squame di pesce, pelle di rospo e decine di bocche affamate.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 35/60
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Affamato +3, Primordiale +3
+* **Attacchi:**
+  * **Morso:** +8 | Vicina | 4d8+12 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Cipactli può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Molte Bocche - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina. I bersagli contro cui il Cipactli ha successo devono anche segnare uno Stress.
+  * **Pasciuta Frenetica - Azione:** Spendere una Paura per costringere tutti i PG entro portata Vicina a superare un Tiro di Reazione d'Istinto o subire 4d6 danni fisici diretti. Il Cipactli rimuove un PF per ogni creatura che ha subito danni Gravi da questo attacco.
+  * **Passi Sconvolgenti - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono devono segnare 2 Stress e sono *Vulnerabili* finché non subiscono danni. I bersagli che riescono devono segnare uno Stress.
+  * **Sangue della Vita - Reazione:** Quando il Cipactli subisce danni Gravi, il suo sangue schizza a terra e istantaneamente si trasforma in una giungla. Tutte le creature entro portata Vicina sono temporaneamente *Ristrette*.
+  * **Esplosione Verdeggente - Reazione:** Quando il Cipactli segna l'ultimo PF, il suo corpo esplode in vegetazione fitta che invade il paesaggio.
 
-**Motives & Tactics:** Consume, reshape the land, trample
-**Difficulty:** 20 | **Thresholds:** 35/60 | **HP:** 8 | **Stress:** 5
-**ATK:** +8 | **Bite:** Close | 4d8+12 phy
-**Experience:** Hungry +3, Primordial +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Cipactli can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Many Mouths - Action:** Mark a Stress to make a standard attack against all targets within Very Close range. Targets the Cipactli succeeds against must also mark a Stress.
-* **Frenzied Feeding - Action:** Spend a Fear to force all PCs within Close range to succeed on an Instinct Reaction Roll or take 4d6 direct physical damage. The Cipactli clears a HP for each creature who took Severe damage from this attack.
-* **Quaking Footfalls - Action:** Mark a Stress to force each PC within Far range to make an Agility Reaction Roll. Targets who fail must mark 2 Stress and are *Vulnerable* until they take damage. Targets who succeed must mark a Stress.
-* **Lifeblooded - Reaction:** When the Cipactli takes Severe damage, its blood splashes to the ground and instantly erupts into a jungle. All creatures within Close range are temporarily *Restrained*.
-* **Verdant Explosion - Reaction:** When the Cipactli marks its last HP, its body erupts into dense vegetation that overtakes the landscape.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cipactli"
+description: "Un coccodrillo gargantuesco, con un corpo coperto da un mosaico di squame di pesce, pelle di rospo e decine di bocche affamate."
+tier: "4"
+ruolo: "Solo"
+difficolta: "20"
+hp: "8"
+stress: "5"
+esperienza: "Affamato +3, Primordiale +3"
+soglia_danni: "35/60"
+attacchi:
+  - name: "Morso"
+    desc: "**+8** | Vicina | **4d8+12** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Cipactli può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+capacita_speciali:
+  - name: "Molte Bocche"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina. I bersagli contro cui il Cipactli ha successo devono anche segnare uno Stress."
+  - name: "Pasciuta Frenetica"
+    desc: "*- Azione:* Spendere una Paura per costringere tutti i PG entro portata Vicina a superare un Tiro di Reazione d'Istinto o subire 4d6 danni fisici diretti. Il Cipactli rimuove un PF per ogni creatura che ha subito danni Gravi da questo attacco."
+  - name: "Passi Sconvolgenti"
+    desc: "*- Azione:* Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono devono segnare 2 Stress e sono *Vulnerabili* finché non subiscono danni. I bersagli che riescono devono segnare uno Stress."
+  - name: "Sangue della Vita"
+    desc: "*- Reazione:* Quando il Cipactli subisce danni Gravi, il suo sangue schizza a terra e istantaneamente si trasforma in una giungla. Tutte le creature entro portata Vicina sono temporaneamente *Ristrette*."
+  - name: "Esplosione Verdeggente"
+    desc: "*- Reazione:* Quando il Cipactli segna l'ultimo PF, il suo corpo esplode in vegetazione fitta che invade il paesaggio."
+```

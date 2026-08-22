@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Minor Stamina Potion Recipe
+# Ricetta: Pozione di Stamina Minore
 
 **_Item_**
 
-As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion.
+Come mossa di tempi morti, puoi usare l'osso di una creatura per creare una Pozione di Stamina Minore.

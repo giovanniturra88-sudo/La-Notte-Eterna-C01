@@ -12,8 +12,8 @@ tier: 1
 ruolo: "primaria"
 ---
 
-### GUNBLADE
+### Fucilame
 
-**_Versatile: This weapon can also be used with these statistics—Agility, Melee, d8+6 phy_**
+**_Versatile: Questa arma può anche essere usata con queste statistiche—Agilità, Mischia, d8+6 fis_**
 
 ---

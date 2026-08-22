@@ -12,8 +12,8 @@ tier: 1
 ruolo: "primaria"
 ---
 
-### PICKAXE
+### Piccozza
 
-**_Digging: You can use this weapon to dig through earth and stone at half normal speed_**
+**_Scavo: Puoi usare questa arma per scavare nella terra e nella pietra a metà velocità normale_**
 
 ---

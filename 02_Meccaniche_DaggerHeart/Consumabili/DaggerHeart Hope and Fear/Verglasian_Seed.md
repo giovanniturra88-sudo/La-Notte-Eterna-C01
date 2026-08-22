@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 3
 ---
 
-# Verglasian Seed
+# Seme Verglasiano
 
-You can use this ice shard to instantly freeze an area of water up to Close range.
+Puoi usare questa scheggia di ghiaccio per congelare istantaneamente un'area d'acqua fino a gittata Vicina.

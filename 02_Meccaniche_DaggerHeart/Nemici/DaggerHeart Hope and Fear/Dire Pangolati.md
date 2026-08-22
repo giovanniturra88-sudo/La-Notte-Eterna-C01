@@ -4,21 +4,43 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Dire Pangolati
-**Tier 2 Bruiser**
+## Pangolati Feroce
+* **Descrizione:** Un ibrido pangolino-coati delle dimensioni di una carrozza, coperto di placche d'armatura. Ha una coda a lama che usa per scagliare squame affilate come rasoi.
+* **Tier:** 2 (Picchiatore)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 14/28
+* **Punti Ferita:** 7 | **Stress:** 4
+* **Esperienza:** Arrampicata +3, Inseguimento dell'Odore +3
+* **Attacchi:**
+  * **Taglio della Coda:** +2 | Molto Vicina | 2d12+3 fisico
+* **Tratti e Capacità:**
+  * **Divoratore di Armature - Passiva:** Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare uno Slot di Armatura aggiuntivo per ridurre la gravità dei danni.
+  * **Rotazione della Lama - Azione:** Spendere una Paura per far girare rapidamente il Pangolati su sé stesso. Ogni bersaglio entro portata Molto Vicina deve superare un Tiro di Reazione di Agilità o subire 2d8 danni fisici.
+  * **Scagliata della Lama - Azione:** Segnare uno Stress per far scattare la coda del Pangolati e scagliare una placca d'armatura a filo di rasoio. Effettua un attacco contro un bersaglio entro portata Lontana. In caso di successo, l'attacco infligge 2d6+10 danni fisici.
+  * **Squame di Cheratina - Reazione:** Quando il Pangolati sta per segnare PF da un attacco, puoi segnare uno Stress per ridurre di 1 il numero di PF che segna.
 
-*A carriage-sized pangolin-coati hybrid covered in armor plating. It has a bladed tail it uses to fling razor-sharp scales.*
-
-* **Motives & Tactics:** Escape with a meal, slice and dice, wade into danger
-* **Difficulty:** 14
-* **Thresholds:** 14/28
-* **HP:** 7
-* **Stress:** 4
-* **ATK:** +2 | Tail Slash: Very Close | 2d12+3 phy
-* **Experience:** Climbing +3, Scent Tracking +3
-
-## FEATURES
-* **Armor Eater - Passive:** When the Pangolati makes a successful attack against a PC, that PC must mark an additional Armor Slot to reduce the severity of the damage.
-* **Blade Spin - Action:** Spend a Fear to have the Pangolati quickly spin in a circle. Each target within Very Close range must succeed on an Agility Reaction Roll or take 2d8 physical damage.
-* **Blade Fling - Action:** Mark a Stress to have the Pangolati flick its tail and fling a razor-edged armor plate. Make an attack against a target within Far range. On a success, the attack deals 2d6+10 physical damage.
-* **Keratin Scales - Reaction:** When the Pangolati would mark HP from an attack, you can mark a Stress to reduce the number of HP it marks by 1.
+```statblock
+layout: DaggerHeart Nemici
+name: "Pangolati Feroce"
+description: "Un ibrido pangolino-coati delle dimensioni di una carrozza, coperto di placche d'armatura. Ha una coda a lama che usa per scagliare squame affilate come rasoi."
+tier: "2"
+ruolo: "Picchiatore"
+difficolta: "14"
+hp: "7"
+stress: "4"
+esperienza: "Arrampicata +3, Inseguimento dell'Odore +3"
+soglia_danni: "14/28"
+attacchi:
+  - name: "Taglio della Coda"
+    desc: "**+2** | Molto Vicina | **2d12+3** fisico"
+tratti:
+  - name: "Divoratore di Armature"
+    desc: "*- Passiva:* Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare uno Slot di Armatura aggiuntivo per ridurre la gravità dei danni."
+capacita_speciali:
+  - name: "Rotazione della Lama"
+    desc: "*- Azione:* Spendere una Paura per far girare rapidamente il Pangolati su sé stesso. Ogni bersaglio entro portata Molto Vicina deve superare un Tiro di Reazione di Agilità o subire 2d8 danni fisici."
+  - name: "Scagliata della Lama"
+    desc: "*- Azione:* Segnare uno Stress per far scattare la coda del Pangolati e scagliare una placca d'armatura a filo di rasoio. Effettua un attacco contro un bersaglio entro portata Lontana. In caso di successo, l'attacco infligge 2d6+10 danni fisici."
+  - name: "Squame di Cheratina"
+    desc: "*- Reazione:* Quando il Pangolati sta per segnare PF da un attacco, puoi segnare uno Stress per ridurre di 1 il numero di PF che segna."
+```

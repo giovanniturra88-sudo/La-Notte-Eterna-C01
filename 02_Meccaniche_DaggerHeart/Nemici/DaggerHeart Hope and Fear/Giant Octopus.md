@@ -4,19 +4,43 @@ type:
   - "[[Solo]]"
 ---
 
-# Giant Octopus
-- **Tipo / Ruolo:** Tier 2 Solo
-- **Descrizione:** A monstrous, aquatic mollusk that has eight sucker-bearing arms and a hard, beaklike jaw.
-- **Motivi & Tattiche:** Crush and bite, grapple, harry sailing vessels, hunt prey
-- **Difficoltà:** 14
-- **Soglie (Thresholds):** 13 / 26
-- **Punti Ferita (HP):** 10
-- **Stress:** 5
-- **Attacco:** +3 | Arm Whip: Close | 2d10 phy
-- **Esperienza:** Intelligent +3
+## Polpo Gigante
+* **Descrizione:** Un mollusco acquatico mostruoso, con otto braccia dotate di ventose e una mascella dura e a forma di becco.
+* **Tier:** 2 (Solo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 13/26
+* **Punti Ferita:** 10 | **Stress:** 5
+* **Esperienza:** Intelligente +3
+* **Attacchi:**
+  * **Sferzata del Braccio:** +3 | Vicina | 2d10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Polpo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Armato e Pericoloso - Passiva:** Quando il Polpo appare per la prima volta, posiziona un d8 su questo statblock con il valore 8 rivolto verso l'alto. Quando il Polpo effettua un attacco standard riuscito contro un PG, puoi aggiungere il valore del dado ai danni inflitti. Dopo aver aggiunto il suo valore a un tiro, riduci il valore del dado di 1.
+  * **Aggancio - Azione:** Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Finezza riuscito.
+  * **Schiacciare - Azione:** Segnare uno Stress per infliggere 3d8 danni fisici diretti a un bersaglio *Agganciato* dal Polpo.
 
-**Tratti (Features):**
-* **Relentless (3) - Passive:** The Octopus can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Armed and Dangerous - Passive:** When the Octopus first appears, place a d8 on this stat block with the 8 value facing up. When the Octopus makes a successful standard attack against a PC, you can add the die's value to the damage dealt. After you add its value to a roll, decrease the die's value by 1.
-* **Grapple - Action:** When the Octopus succeeds on a standard attack, you can spend a Fear to have the Octopus Grapple the target. While Grappled, the target is Restrained and Vulnerable until they break free with a successful Strength or Finesse Roll.
-* **Crush - Action:** Mark a Stress to deal 3d8 direct physical damage to a target Grappled by the Octopus.
+```statblock
+layout: DaggerHeart Nemici
+name: "Polpo Gigante"
+description: "Un mollusco acquatico mostruoso, con otto braccia dotate di ventose e una mascella dura e a forma di becco."
+tier: "2"
+ruolo: "Solo"
+difficolta: "14"
+hp: "10"
+stress: "5"
+esperienza: "Intelligente +3"
+soglia_danni: "13/26"
+attacchi:
+  - name: "Sferzata del Braccio"
+    desc: "**+3** | Vicina | **2d10** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Polpo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Armato e Pericoloso"
+    desc: "*- Passiva:* Quando il Polpo appare per la prima volta, posiziona un d8 su questo statblock con il valore 8 rivolto verso l'alto. Quando il Polpo effettua un attacco standard riuscito contro un PG, puoi aggiungere il valore del dado ai danni inflitti. Dopo aver aggiunto il suo valore a un tiro, riduci il valore del dado di 1."
+capacita_speciali:
+  - name: "Aggancio"
+    desc: "*- Azione:* Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Finezza riuscito."
+  - name: "Schiacciare"
+    desc: "*- Azione:* Segnare uno Stress per infliggere 3d8 danni fisici diretti a un bersaglio *Agganciato* dal Polpo."
+```

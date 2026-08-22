@@ -1,0 +1,19 @@
+---
+alias: []
+categoria: "equipaggiamento"
+danno: "d6+3"
+gittata: "very_close"
+ingombro: "two-handed"
+tipo_danno: "fisica"
+tratto: "instinct"
+type:
+  - "[[Arma]]"
+tier: 1
+ruolo: "primaria"
+---
+
+### Mucchio di Radici
+
+**_Intrappolante: Con un attacco riuscito, puoi spendere una Speranza per rendere il bersaglio temporaneamente Vulnerabile_**
+
+---

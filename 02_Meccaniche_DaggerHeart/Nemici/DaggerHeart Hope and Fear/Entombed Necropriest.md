@@ -4,18 +4,39 @@ type:
   - "[[Supporto]]"
 ---
 
-# Entombed Necropriest
-- **Tipo / Ruolo:** Tier 2 Support
-- **Descrizione:** A necromancer charged with preserving the empress's life beyond death.
-- **Motivi & Tattiche:** Boost allies, conquer time, hold down enemies, serve the empress, wield death as a weapon
-- **Difficoltà:** 13
-- **Soglie (Thresholds):** 8 / 16
-- **Punti Ferita (HP):** 3
-- **Stress:** 7
-- **Attacco:** +2 | Death Bolt: Far | 2d6+2 mag
-- **Esperienza:** Dark Magic +4, Protect +2
+## Necro-prete Sepolto
+* **Descrizione:** Un necromante incaricato di preservare la vita dell'imperatrice oltre la morte.
+* **Tier:** 2 (Supporto)
+* **Difficoltà:** 13
+* **Soglie di Danno:** 8/16
+* **Punti Ferita:** 3 | **Stress:** 7
+* **Esperienza:** Magia Scura +4, Protezione +2
+* **Attacchi:**
+  * **Proiettile della Morte:** +2 | Lontano | 2d6+2 magico
+* **Tratti e Capacità:**
+  * **Rinvigorire - Azione:** Segnare uno Stress per scegliere fino a tre alleati entro portata Lontana. Ciascuno di essi guadagna vantaggio sul suo prossimo tiro d'attacco.
+  * **Ultima Presa - Azione:** Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Ristretto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Ristretto* in questo modo spende Speranza, guadagni una Paura.
+  * **Tocco Gelo - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura.
 
-**Tratti (Features):**
-* **Invigorate - Action:** Mark a Stress to choose up to three allies within Far range. Each one gains advantage on their next attack roll.
-* **Last Grasp - Action:** Spend a Fear to choose a PC within Far range. Skeletal hands burst out of the ground at the PC's feet and Restrain them until the PC breaks free with a successful Strength Roll. When a target Restrained in this way spends Hope, you gain a Fear.
-* **Chill Touch - Action:** Mark a Stress to make a standard attack against a target within Melee range. On a success, the target takes standard damage and must mark 1d4 Stress. If the target marks their last Stress from this attack, you gain a Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Necro-prete Sepolto"
+description: "Un necromante incaricato di preservare la vita dell'imperatrice oltre la morte."
+tier: "2"
+ruolo: "Supporto"
+difficolta: "13"
+hp: "3"
+stress: "7"
+esperienza: "Magia Scura +4, Protezione +2"
+soglia_danni: "8/16"
+attacchi:
+  - name: "Proiettile della Morte"
+    desc: "**+2** | Lontano | **2d6+2** magico"
+capacita_speciali:
+  - name: "Rinvigorire"
+    desc: "*- Azione:* Segnare uno Stress per scegliere fino a tre alleati entro portata Lontana. Ciascuno di essi guadagna vantaggio sul suo prossimo tiro d'attacco."
+  - name: "Ultima Presa"
+    desc: "*- Azione:* Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Ristretto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Ristretto* in questo modo spende Speranza, guadagni una Paura."
+  - name: "Tocco Gelo"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura."
+```

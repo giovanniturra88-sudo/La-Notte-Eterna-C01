@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Health Potion
+# Pozione di Salute
 
-Clear 1d4+1 HP.
+Elimina 1d4+1 Punti Ferita.

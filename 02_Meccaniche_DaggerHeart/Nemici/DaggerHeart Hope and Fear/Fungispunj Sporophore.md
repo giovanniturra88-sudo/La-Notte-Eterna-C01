@@ -4,19 +4,42 @@ type:
   - "[[Capo]]"
 ---
 
-# Fungispunj Sporophore
-- **Tipo / Ruolo:** Tier 2 Leader
-- **Descrizione:** A giant mushroom creature that can command the dead.
-- **Motivi & Tattiche:** Awaken the fallen, defend the colony, spread spores
-- **Difficoltà:** 16
-- **Soglie (Thresholds):** 12 / 24
-- **Punti Ferita (HP):** 6
-- **Stress:** 5
-- **Attacco:** +2 | Spongy Fist: Very Close | 2d8+4 phy
-- **Esperienza:** Commander +5, Guardian +4
+## Sporoforo Fungispunj
+* **Descrizione:** Una creatura fungo gigante che può comandare i morti.
+* **Tier:** 2 (Capo)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 12/24
+* **Punti Ferita:** 6 | **Stress:** 5
+* **Esperienza:** Comandante +5, Guardiano +4
+* **Attacchi:**
+  * **Pugno Spugnoso:** +2 | Molto Vicina | 2d8+4 fisico
+* **Tratti e Capacità:**
+  * **Nuvola di Spore Neurotossiche - Azione:** Segnare uno Stress per far sprigionare allo Sporoforo una nuvola di spore su tutti i bersagli entro portata Vicina. Ogni PG deve superare un Tiro di Reazione di Agilità o diventare *Avvelenato* finché non spende una Speranza per rimuovere la condizione. Mentre è *Avvelenato*, un bersaglio deve tirare un d6 prima di effettuare un tiro di azione. Con un risultato di 4 o inferiore, deve segnare uno Stress.
+  * **Rianimatore - Azione:** Spendere una Paura per far sprigionare allo Sporoforo una nuvola di spore psiciche su un cadavere entro portata Molto Vicina. Il cadavere rimuove tutti i PF e lo Stress, poi si rianima sotto il controllo psicico dello Sporoforo. Quando lo Sporoforo viene messo a fuoco, puoi anche mettere a fuoco tutti i cadaveri che controlla.
+  * **Colonia - Azione:** Segnare qualsiasi numero di Stress per far evocare allo Sporoforo lo stesso numero di Sporeling Fungispunj entro portata Vicina.
+  * **Fusione Mentale - Reazione:** Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quel Stress al suo posto, distribuito tra gli alleati come preferisce.
 
-**Tratti (Features):**
-* **Neurotoxic Spore Cloud - Action:** Mark a Stress to have the Sporophore spray a cloud of spores on all targets within Close range. Each PC must succeed on an Agility Reaction Roll or become Poisoned until they spend a Hope to clear the condition. While Poisoned, a target must roll a d6 before they make an action roll. On a result of 4 or lower, they must mark a Stress.
-* **Reanimator - Action:** Spend a Fear to have the Sporophore spray a corpse within Very Close range with a cloud of psychic spores. The corpse clears all HP and Stress, then reanimates under the psychic control of the Sporophore. When the Sporophore is spotlighted, you can also spotlight all corpses it controls.
-* **Colony - Action:** Mark any number of Stress to have the Sporophore summon an equal number of Fungispunj Sporelings within Close range.
-* **Mind Meld - Reaction:** All Fungispunj can telepathically communicate with one another. When the Sporophore would be forced to mark Stress from an attack, it can cause Fungispunj allies in the scene to mark that Stress in its place, distributed among allies as it chooses.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sporoforo Fungispunj"
+description: "Una creatura fungo gigante che può comandare i morti."
+tier: "2"
+ruolo: "Capo"
+difficolta: "16"
+hp: "6"
+stress: "5"
+esperienza: "Comandante +5, Guardiano +4"
+soglia_danni: "12/24"
+attacchi:
+  - name: "Pugno Spugnoso"
+    desc: "**+2** | Molto Vicina | **2d8+4** fisico"
+capacita_speciali:
+  - name: "Nuvola di Spore Neurotossiche"
+    desc: "*- Azione:* Segnare uno Stress per far sprigionare allo Sporoforo una nuvola di spore su tutti i bersagli entro portata Vicina. Ogni PG deve superare un Tiro di Reazione di Agilità o diventare *Avvelenato* finché non spende una Speranza per rimuovere la condizione. Mentre è *Avvelenato*, un bersaglio deve tirare un d6 prima di effettuare un tiro di azione. Con un risultato di 4 o inferiore, deve segnare uno Stress."
+  - name: "Rianimatore"
+    desc: "*- Azione:* Spendere una Paura per far sprigionare allo Sporoforo una nuvola di spore psiciche su un cadavere entro portata Molto Vicina. Il cadavere rimuove tutti i PF e lo Stress, poi si rianima sotto il controllo psicico dello Sporoforo. Quando lo Sporoforo viene messo a fuoco, puoi anche mettere a fuoco tutti i cadaveri che controlla."
+  - name: "Colonia"
+    desc: "*- Azione:* Segnare qualsiasi numero di Stress per far evocare allo Sporoforo lo stesso numero di Sporeling Fungispunj entro portata Vicina."
+  - name: "Fusione Mentale"
+    desc: "*- Reazione:* Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quel Stress al suo posto, distribuito tra gli alleati come preferisce."
+```

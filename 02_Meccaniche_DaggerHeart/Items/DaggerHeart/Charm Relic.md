@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Charm Relic
+# Reliquia del Fascino
 
 **_Item_**
 
-You gain a +1 bonus to your Presence. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Presenza. Puoi trasportare una sola reliquia.

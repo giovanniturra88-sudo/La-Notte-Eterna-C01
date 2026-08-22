@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Flickerfly Pendant
+# Ciondolo della Farfalla Tremula
 
 **_Item_**
 
-While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.
+Mentre porti questo ciondolo, le tue armi con gittata da Mischia che infliggono danni fisici hanno una lucentezza di filo di ragno e possono attaccare bersagli entro gittata Molto Vicina.

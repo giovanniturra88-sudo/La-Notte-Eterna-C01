@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Jumping Root
+# Radice Saltatrice
 
-Eat this root to leap up to Far range once without needing to roll.
+Mangia questa radice per saltare fino a gittata Lontana una volta senza dover tirare.

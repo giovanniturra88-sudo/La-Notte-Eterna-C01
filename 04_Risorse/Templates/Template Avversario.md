@@ -1,12 +1,32 @@
+---
+type:
+  - "[[Creatura]]"
+  - "[[Ruolo]]"
+---
+
+## Nome del Nemico
+* **Descrizione:** Breve descrizione narrativa dell'avversario.
+* **Tier:** 1 (Minion / Leader / Solo)
+* **Difficoltà:** 12
+* **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 12
+* **Punti Ferita:** 4 | **Stress:** 2
+* **Esperienza:** +2
+* **Attacchi:**
+  * **Nome Attacco 1:** +X | Distanza | XdX+X tipo danno
+  * **Nome Attacco 2:** +X | Da Vicino | XdX+X tipo danno
+* **Tratti e Capacità:**
+  * **Nome Tratto Passivo:** Descrizione dell'effetto passivo o condizionale.
+  * **Nome Mossa (Costo: 1 Paura):** Descrizione dell'abilità speciale che consuma risorse del GM o Stress.
+
 ```statblock
-layout: Daggerheart
+layout: DaggerHeart Nemici
 name: "Nome del Nemico"
 description: "Breve descrizione narrativa dell'avversario."
-tier: 1
+tier: "1"
 ruolo: "Minion / Leader / Solo"
-difficolta: 12
-hp: 4
-stress: 2
+difficolta: "12"
+hp: "4"
+stress: "2"
 esperienza: "+2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 12"
 attacchi:

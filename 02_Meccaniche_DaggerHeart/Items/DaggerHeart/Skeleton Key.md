@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Skeleton Key
+# Chiave Scheletrica
 
 **_Item_**
 
-When you use this key to open a locked door, you gain advantage on the Finesse Roll.
+Quando usi questa chiave per aprire una porta chiusa a chiave, ottieni vantaggio sul Tiro di Finezza.

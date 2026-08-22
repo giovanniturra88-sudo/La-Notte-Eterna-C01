@@ -4,20 +4,48 @@ type:
   - "[[Solo]]"
 ---
 
-# Roc
-*Tier 3 Solo*
-*A giant falcon that nests in the mountains and unleashes storms.*
+## Roc
+* **Descrizione:** Un falco gigante che nidifica nelle montagne e scatena tempeste.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 20/35
+* **Punti Ferita:** 12 | **Stress:** 6
+* **Esperienza:** Cime Scoscese +3
+* **Attacchi:**
+  * **Becco e Artigli:** +3 | Molto Vicina | 3d12+8 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Roc può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Uccello Predatore - Passiva:** Una volta per turno del GM, il Roc può muoversi fino a portata Molto Lontana prima o dopo di compiere un'azione.
+  * **Ecco la Bomba - Azione:** Spendere una Paura per far scatenare al Roc una tempesta di fulmini e tuoni. Effettua un tiro d'attacco contro 1d4+1 bersagli entro portata Lontana. I bersagli contro cui il Roc ha successo subiscono 3d12 danni magici. Poi ogni bersaglio entro portata Lontana del Roc deve effettuare un Tiro di Reazione di Agilità (20). I bersagli che falliscono subiscono 3d8 danni fisici e vengono respinti in portata Vicina. I bersagli che riescono devono segnare uno Stress.
+  * **Presione Schiacciante - Reazione:** Quando il Roc effettua un attacco standard riuscito, puoi segnare uno Stress per far schiacciare al Roc il bersaglio con i suoi artigli, costringendolo a segnare 1d4 Stress e *Rendendo Ristretto* il bersaglio finché non supera un Tiro di Forza (20).
+  * **Guardiano del Nido - Evoluzione:** Quando le uova del Roc sono minacciate, guadagna i seguenti tratti:
+    * **Sdegnato - Passiva:** Il Roc guadagna un bonus di +2 alla sua Difficoltà e un bonus ai tiri sui danni pari al numero di Stress che ha segnato.
+    * **Aurea Elettificante - Passiva:** Il Roc ha resistenza ai danni magici. I PG che falliscono un tiro entro portata Molto Vicina devono spendere una Speranza o segnare 1d4 Stress.
 
-**Motives & Tactics:** Breathe lightning and speak thunder, protect eggs, rake with talons, spy from afar
-**Difficulty:** 18 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6
-**ATK:** +3 | **Beak & Talons:** Very Close | 3d12+8 phy
-**Experience:** Craggy Peaks +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Roc can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Bird of Prey - Passive:** Once per GM turn, the Roc can move up to Very Far range before or after it takes an action.
-* **Here Comes the Boom - Action:** Spend a Fear to have the Roc unleash a storm of lightning and thunder. Make an attack roll against 1d4+1 targets within Far range. Targets the Roc succeeds against take 3d12 magic damage. Then each target within Far range of the Roc must make an Agility Reaction Roll (20). Targets who fail take 3d8 physical damage and are pushed back to Close range. Targets who succeed must mark a Stress.
-* **Crushing Grasp - Reaction:** When the Roc makes a successful standard attack, you can mark a Stress to have the Roc crush the target with its talons, forcing them to mark 1d4 Stress and *Restraining* them until they succeed on a Strength Roll (20).
-* **Nest Warden - Evolution:** When the Roc's eggs are threatened, it gains the following features:
-  * **Wrathful - Passive:** The Roc gains a +2 bonus to its Difficulty and a bonus to damage rolls equal to the number of Stress it has marked.
-  * **Electrifying Aura - Passive:** The Roc has resistance to magic damage. PCs who fail a roll within Very Close range must spend a Hope or mark 1d4 Stress.
+```statblock
+layout: DaggerHeart Nemici
+name: "Roc"
+description: "Un falco gigante che nidifica nelle montagne e scatena tempeste."
+tier: "3"
+ruolo: "Solo"
+difficolta: "18"
+hp: "12"
+stress: "6"
+esperienza: "Cime Scoscese +3"
+soglia_danni: "20/35"
+attacchi:
+  - name: "Becco e Artigli"
+    desc: "**+3** | Molto Vicina | **3d12+8** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Roc può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Uccello Predatore"
+    desc: "*- Passiva:* Una volta per turno del GM, il Roc può muoversi fino a portata Molto Lontana prima o dopo di compiere un'azione."
+capacita_speciali:
+  - name: "Ecco la Bomba"
+    desc: "*- Azione:* Spendere una Paura per far scatenare al Roc una tempesta di fulmini e tuoni. Effettua un tiro d'attacco contro 1d4+1 bersagli entro portata Lontana. I bersagli contro cui il Roc ha successo subiscono 3d12 danni magici. Poi ogni bersaglio entro portata Lontana del Roc deve effettuare un Tiro di Reazione di Agilità (20). I bersagli che falliscono subiscono 3d8 danni fisici e vengono respinti in portata Vicina. I bersagli che riescono devono segnare uno Stress."
+  - name: "Presione Schiacciante"
+    desc: "*- Reazione:* Quando il Roc effettua un attacco standard riuscito, puoi segnare uno Stress per far schiacciare al Roc il bersaglio con i suoi artigli, costringendolo a segnare 1d4 Stress e *Rendendo Ristretto* il bersaglio finché non supera un Tiro di Forza (20)."
+  - name: "Guardiano del Nido (Evoluzione)"
+    desc: "*- Evoluzione:* Quando le uova del Roc sono minacciate, guadagna i tratti 'Sdegnato' e 'Aurea Elettificante'."
+```

@@ -1,6 +1,6 @@
 ---
 type: "[[Consumable]]"
 ---
-# Knowledge Stone
+# Pietra della Conoscenza
 
-If you die while holding this stone, an ally can take a card from your loadout to place in their loadout or vault. After they take this knowledge, the stone crumbles.
+Se muori mentre tieni questa pietra, un alleato può prendere una carta dal tuo equipaggiamento per inserirla nel proprio equipaggiamento o archivio. Dopo aver acquisito questa conoscenza, la pietra si sbriciola.

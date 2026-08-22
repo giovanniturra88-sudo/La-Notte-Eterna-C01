@@ -4,21 +4,43 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Banshee
-**Tier 2 Skulk**
+## Banshee
+* **Descrizione:** Uno spirito fey corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di gossamer luminoso.
+* **Tier:** 2 (Furtivo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 9/18
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Vana +3, Sdegnata +3
+* **Attacchi:**
+  * **Unghie:** +2 | Da Vicino | 2d6+1 magico
+* **Tratti e Capacità:**
+  * **Spettro - Passiva:** La Banshee ha resistenza ai danni fisici. Segnare uno Stress per muoversi fino a portata Vicina attraverso oggetti solidi.
+  * **Terrificante - Passiva:** Quando la Banshee effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura.
+  * **Tattica di Terrore - Azione:** Fino a tre volte per scena, spendere una Paura per far teletrasportare la Banshee fino a portata Molto Lontana e spaventare un PG entro portata Da Vicino. Il PG segna 1d4 Stress. Se ciò gli fa segnare PF, perde anche una Speranza.
+  * **Urlo di Disperazione - Azione:** Segnare uno Stress per far scatenare alla Banshee un grido funebre di dolore e angoscia. Ogni PG entro portata Vicina deve effettuare un Tiro di Reazione di Presenza. I bersagli che riescono subiscono 1d12+1 danni magici. I bersagli che falliscono subiscono il doppio dei danni e vengono respinti in portata Vicina.
 
-*A corrupted fey spirit that haunts the night in the form of a willowy specter wearing a luminous gossamer gown.*
-
-* **Motives & Tactics:** Ambush from inside solid objects, frighten to death, mourn life and beauty lost, scream balefully
-* **Difficulty:** 14
-* **Thresholds:** 9/18
-* **HP:** 5
-* **Stress:** 3
-* **ATK:** +2 | Fingernails: Melee | 2d6+1 mag
-* **Experience:** Vain +3, Wrathful +3
-
-## FEATURES
-* **Specter - Passive:** The Banshee has resistance to physical damage. Mark a Stress to move up to Close range through solid objects.
-* **Terrifying - Passive:** When the Banshee makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear.
-* **Scare Tactic - Action:** Up to three times per scene, spend a Fear to have the Banshee teleport up to Very Far range and scare a PC within Melee range. The PC marks 1d4 Stress. If this causes them to mark HP, they also lose a Hope.
-* **Wail of Despair - Action:** Mark a Stress to have the Banshee unleash a mournful scream of pain and anguish. Each PC within Close range must make a Presence Reaction Roll. Targets who succeed take 1d12+1 magic damage. Targets who fail take double damage and are knocked back to Close range.
+```statblock
+layout: DaggerHeart Nemici
+name: "Banshee"
+description: "Uno spirito fey corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di gossamer luminoso."
+tier: "2"
+ruolo: "Furtivo"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Vana +3, Sdegnata +3"
+soglia_danni: "9/18"
+attacchi:
+  - name: "Unghie"
+    desc: "**+2** | Da Vicino | **2d6+1** magico"
+tratti:
+  - name: "Spettro"
+    desc: "*- Passiva:* La Banshee ha resistenza ai danni fisici. Segnare uno Stress per muoversi fino a portata Vicina attraverso oggetti solidi."
+  - name: "Terrificante"
+    desc: "*- Passiva:* Quando la Banshee effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura."
+capacita_speciali:
+  - name: "Tattica di Terrore"
+    desc: "*- Azione:* Fino a tre volte per scena, spendere una Paura per far teletrasportare la Banshee fino a portata Molto Lontana e spaventare un PG entro portata Da Vicino. Il PG segna 1d4 Stress. Se ciò gli fa segnare PF, perde anche una Speranza."
+  - name: "Urlo di Disperazione"
+    desc: "*- Azione:* Segnare uno Stress per far scatenare alla Banshee un grido funebre di dolore e angoscia. Ogni PG entro portata Vicina deve effettuare un Tiro di Reazione di Presenza. I bersagli che riescono subiscono 1d12+1 danni magici. I bersagli che falliscono subiscono il doppio dei danni e vengono respinti in portata Vicina."
+```

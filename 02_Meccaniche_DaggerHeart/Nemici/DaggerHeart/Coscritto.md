@@ -1,16 +1,38 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
-**_Tier 2 [[Minion]]._** _Un civile mal addestrato costretto in guerra._
+## Coscritto
+* **Descrizione:** Un civile mal addestrato costretto in guerra.
+* **Tier:** 2 (Minion)
+* **Difficoltà:** 12
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Attacchi:**
+  * **Lance:** +0 | Molto Vicina | 6 fisico
+* **Tratti e Capacità:**
+  * **Minion (6) - Passiva:** Il Coscritto viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge al Coscritto, sconfiggi un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe avuto successo.
+  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Coscritti entro portata Vicina. Quei Minion si muovono in portata Da Vicino verso il bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina i danni.
 
-- **Motivi e Tattiche:** Seguire gli ordini, attaccare in gruppo, sopravvivere
-- **Difficoltà:** 12 | **Soglie:** Nessuna | **PF:** 1 | **Stress:** 1
-- **ATT:** +0 | **Lance:** Molto Vicino | 6 fis
-
-### CARATTERISTICHE
-
-**_Minion (6) - Passiva:_** Il Conscript è sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PC infligge al Conscript, sconfiggi un Minion aggiuntivo entro portata del colpo che avrebbe avuto successo.
-
-**_Attacco di Gruppo - Azione:_** **Spendi una Paura** per scegliere una destinazione e mettere a fuoco tutti i Conscription entro portata Vicina. Quei Minion si muovono a portata di mischia verso la destinazione e effettuano un solo tiro di attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina i danni.
+```statblock
+layout: DaggerHeart Nemici
+name: "Coscritto"
+description: "Un civile mal addestrato costretto in guerra."
+tier: "2"
+ruolo: "Minion"
+difficolta: "12"
+hp: "1"
+stress: "1"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Lance"
+    desc: "**+0** | Molto Vicina | **6** fisico"
+tratti:
+  - name: "Minion (6)"
+    desc: "*- Passiva:* Il Coscritto viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge al Coscritto, sconfiggi un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe avuto successo."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Coscritti entro portata Vicina. Quei Minion si muovono in portata Da Vicino verso il bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina i danni."
+```

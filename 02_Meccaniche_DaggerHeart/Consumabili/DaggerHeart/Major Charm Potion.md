@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Charm Potion
+# Pozione di Incanto Maggiore
 
-You gain a +1 bonus to your Presence until your next rest.
+Ottieni un bonus di +1 alla tua Presenza fino al tuo prossimo riposo.

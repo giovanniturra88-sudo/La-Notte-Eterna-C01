@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 13
 ---
 
-# Yakamel Milk
+# Latte di Yakamel
 
-After consuming this milk, the next time you clear 1 or more Hit Points, you clear an additional Hit Point.
+Dopo aver consumato questo latte, la prossima volta che elimini 1 o più Punti Ferita, elimini un Punto Ferita aggiuntivo.

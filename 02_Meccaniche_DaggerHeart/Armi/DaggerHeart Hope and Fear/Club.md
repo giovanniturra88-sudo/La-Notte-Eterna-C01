@@ -12,8 +12,8 @@ tier: 1
 ruolo: "primaria"
 ---
 
-### CLUB
+### Mazza
 
-**_Nonlethal: When a target would mark any number of Hit Points from an attack with this weapon, they mark an equal number of Stress instead_**
+**_Non letale: Quando un bersaglio segnerebbe qualsiasi numero di Punti Ferita da un attacco con questa arma, segna invece un numero uguale di Stress_**
 
 ---

@@ -4,19 +4,37 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Panther
-**Tier 1 Skulk**
+## Pantera
+* **Descrizione:** Un grande predatore felino che insegue la sua preda dalle ombre.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 5/10
+* **Punti Ferita:** 4 | **Stress:** 3
+* **Esperienza:** Sensi Acuti +3, Furtività +3
+* **Attacchi:**
+  * **Denti e Artigli:** +2 | Da Vicino | 1d8+1 fisico
+* **Tratti e Capacità:**
+  * **Inseguitore delle Ombre - Passiva:** Mentre è *Nascosto*, la Pantera guadagna un bonus di +2 ai suoi tiri d'attacco.
+  * **Colpo Potente - Azione:** Segnare uno Stress per far saltare la Pantera in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 1d12+2 danni fisici.
 
-*A large feline predator that stalks its prey from the shadows.*
-
-* **Motives & Tactics:** Climb trees, pounce, stalk
-* **Difficulty:** 14
-* **Thresholds:** 5/10
-* **HP:** 4
-* **Stress:** 3
-* **ATK:** +2 | Teeth and Claws: Melee | 1d8+1 phy
-* **Experience:** Keen Senses +3, Slink +3
-
-## FEATURES
-* **Shadow Stalker - Passive:** While Hidden, the Panther gains a +2 bonus to its attack rolls.
-* **Pounding Strike - Action:** Mark a Stress to have the Panther leap into Melee range of a target within Far range and make an attack against them. On a success, deal 1d12+2 physical damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Pantera"
+description: "Un grande predatore felino che insegue la sua preda dalle ombre."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "14"
+hp: "4"
+stress: "3"
+esperienza: "Sensi Acuti +3, Furtività +3"
+soglia_danni: "5/10"
+attacchi:
+  - name: "Denti e Artigli"
+    desc: "**+2** | Da Vicino | **1d8+1** fisico"
+tratti:
+  - name: "Inseguitore delle Ombre"
+    desc: "*- Passiva:* Mentre è *Nascosto*, la Pantera guadagna un bonus di +2 ai suoi tiri d'attacco."
+capacita_speciali:
+  - name: "Colpo Potente"
+    desc: "*- Azione:* Segnare uno Stress per far saltare la Pantera in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 1d12+2 danni fisici."
+```

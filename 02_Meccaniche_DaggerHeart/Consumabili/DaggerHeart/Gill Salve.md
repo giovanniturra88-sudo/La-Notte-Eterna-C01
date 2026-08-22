@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Gill Salve
+# Unguento delle Branchie
 
-You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.
+Puoi applicare questo unguento al collo per respirare sott'acqua per un numero di minuti pari al tuo livello.

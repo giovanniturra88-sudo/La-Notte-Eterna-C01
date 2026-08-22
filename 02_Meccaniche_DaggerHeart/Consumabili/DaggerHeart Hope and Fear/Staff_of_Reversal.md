@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 33
 ---
 
-# Staff of Reversal
+# Bastone del Rivalsamento
 
-You can break this staff against the ground to reverse one magical transformation or effect within Far range.
+Puoi rompere questo bastone contro il terreno per invertire una trasformazione o un effetto magico entro gittata Lontana.

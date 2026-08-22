@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Clay Companion
+# Compagno d'Argilla
 
 **_Item_**
 
-When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form.
+Quando scolpisci questa palla di argilla in un compagno animale d'argilla, si comporta come quell'animale. Per esempio, un ragno d'argilla può tessere ragnatele d'argilla, mentre un uccello d'argilla può volare. Il compagno d'argilla conserva memoria e identità attraverso forme diverse, ma può adottare nuovi modi di fare con ogni forma.

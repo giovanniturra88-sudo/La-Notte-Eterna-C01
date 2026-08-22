@@ -1,20 +1,44 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
-**_Tier 3 [[Picchiatore]]._** _Un costrutto dorato ricoperto di polvere, con arti rotondeggianti e un enorme martelletto al posto della mano._
+## Sentinella Guardiana della Cripta
+* **Descrizione:** Un costrutto dorato ricoperto di polvere, con arti rotondeggianti e un enorme martelletto al posto della mano.
+* **Tier:** 3 (Picchiatore)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 21/40
+* **Punti Ferita:** 6 | **Stress:** 3
+* **Attacchi:**
+  * **Martelletto Carico:** +3 | Molto Vicina | 2d12+1 fisico
+* **Tratti e Capacità:**
+  * **Colpo Cinetico - Passiva:** I bersagli che subiscono danni dall'attacco standard della Sentinella vengono spinti in portata Molto Vicina.
+  * **Racchiudi - Azione:** **Spendere uno Stress** per scegliere un bersaglio in portata Molto Vicina e metterlo a fuoco. Quel bersaglio ha svantaggio sui tiri d'attacco quando si trova in portata Molto Vicina dalla Sentinella. La Sentinella può mettere a fuoco un solo bersaglio alla volta.
+  * **Fulmine di Mana - Azione:** **Spendere una Paura** per lanciare magia esplosiva verso un punto in portata Lontana. Tutti i bersagli in portata Molto Vicina da quel punto devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono **2d8+20** danni magici e vengono spinti in portata Vicina. I bersagli che riescono subiscono metà danno e non vengono spinti.
+  * **Impulso - Reazione:** Quando la Sentinella effettua un attacco riuscito contro un PG, guadagni una Paura.
 
-- **Motivi e Tattiche:** Distruggere a qualsiasi costo, espellere, proteggere
-- **Difficoltà:** 17 | **Soglie:** 21/40 | **PF:** 6 | **Stress:** 3
-- **ATT:** +3 | **Martelletto Carico:** Molto Vicino | 2d12+1 fis
-
-### CARATTERISTICHE
-
-**_Colpo Cinetico - Passiva:_** I bersagli che subiscono danni dall'attacco standard del Sentinel vengono spinti a una distanza Molto Vicina.
-
-**_Racchiudi - Azione:_** **Spendi uno Stress** per scegliere un bersaglio entro distanza Molto Vicina su cui concentrarsi. Quel bersaglio ha svantaggio sui tiri d'attacco quando si trova a distanza Molto Vicina dal Sentinel. Il Sentinel può concentrarsi su un solo bersaglio alla volta.
-
-**_Fulmine di Mana - Azione:_** **Spendi una Paura** per lanciare magia esplosiva verso un punto entro distanza Lontana. Tutti i bersagli entro distanza Molto Vicina da quel punto devono effettuare un tiro reazionale di Agilità. I bersagli che falliscono subiscono **2d8+20** danni magici e vengono spinti a distanza Vicina. I bersagli che riescono subiscono metà danno e non vengono spinti.
-
-**_Impulso - Reazione:_** Quando il Sentinel effettua un attacco riuscito contro un PG, guadagni una Paura.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sentinella Guardiana della Cripta"
+description: "Un costrutto dorato ricoperto di polvere, con arti rotondeggianti e un enorme martelletto al posto della mano."
+tier: "3"
+ruolo: "Picchiatore"
+difficolta: "17"
+hp: "6"
+stress: "3"
+soglia_danni: "21/40"
+attacchi:
+  - name: "Martelletto Carico"
+    desc: "**+3** | Molto Vicina | **2d12+1** fisico"
+tratti:
+  - name: "Colpo Cinetico"
+    desc: "*- Passiva:* I bersagli che subiscono danni dall'attacco standard della Sentinella vengono spinti in portata Molto Vicina."
+capacita_speciali:
+  - name: "Racchiudi"
+    desc: "*- Azione:* Spendere uno Stress per scegliere un bersaglio in portata Molto Vicina e metterlo a fuoco. Quel bersaglio ha svantaggio sui tiri d'attacco quando si trova in portata Molto Vicina dalla Sentinella. La Sentinella può mettere a fuoco un solo bersaglio alla volta."
+  - name: "Fulmine di Mana"
+    desc: "*- Azione:* Spendere una Paura per lanciare magia esplosiva verso un punto in portata Lontana. Tutti i bersagli in portata Molto Vicina da quel punto devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 2d8+20 danni magici e vengono spinti in portata Vicina. I bersagli che riescono subiscono metà danno e non vengono spinti."
+  - name: "Impulso"
+    desc: "*- Reazione:* Quando la Sentinella effettua un attacco riuscito contro un PG, guadagni una Paura."
+```

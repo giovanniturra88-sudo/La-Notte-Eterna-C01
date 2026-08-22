@@ -1,17 +1,38 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
-**_[[Minion]] di Tier 1._** _Una pila di ossa che crepita._
+## Dragatore Scheletrico
+* **Descrizione:** Una pila di ossa che crepita.
+* **Tier:** 1 (Minion)
+* **Difficoltà:** 8
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Attacchi:**
+  * **Artigli d'Ossa:** -1 | Da Vicino | 1 fisico
+* **Tratti e Capacità:**
+  * **Minion (4) - Passiva:** Il Dredge viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dredge, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
+  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Dredges in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
 
-- **Motivi e Tattiche:** Si disintegra, sovrastampa, finge di essere morto, ruba la pelle
-- **Difficoltà:** 8 | **Soglie:** Nessuna | **PF:** 1 | **Stress:** 1
-- **ATT:** -1 | **Artigli d'Ossa:** Mischia | 1 fis
-
-### CARATTERISTICHE
-
-**_Minion (4) - Passiva:_** Il Dredge viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dredge, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
-
-**_Attacco di Gruppo - Azione:_** **Spendi una Paura** per scegliere una bersaglio e mettere a fuoco tutti i Dredges entro portata ravvicinata. Quei Minion si muovono a portata di mischia del bersaglio e effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
+```statblock
+layout: DaggerHeart Nemici
+name: "Dragatore Scheletrico"
+description: "Una pila di ossa che crepita."
+tier: "1"
+ruolo: "Minion"
+difficolta: "8"
+hp: "1"
+stress: "1"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Artigli d'Ossa"
+    desc: "**-1** | Da Vicino | **1** fisico"
+tratti:
+  - name: "Minion (4)"
+    desc: "*- Passiva:* Il Dredge viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dredge, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Dredges in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni."
 ```

@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 43
 ---
 
-# Stake of Abjuration
+# Palo dell'Abiurazione
 
-You can hammer this stake into the ground and make a proclamation. Until your next rest, a creature within Far range of the stake who transgresses that proclamation must mark a Stress. The stake lasts until your next rest, then it shatters.
+Puoi piantare questo palo nel terreno con un colpo di martello e fare una proclamazione. Fino al tuo prossimo riposo, una creatura entro gittata Lontana dal palo che trasgredisce quella proclamazione deve segnare uno Stress. Il palo dura fino al tuo prossimo riposo, poi si frantuma.

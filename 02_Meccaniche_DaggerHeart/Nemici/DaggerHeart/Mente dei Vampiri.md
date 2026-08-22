@@ -1,23 +1,49 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 
-**_[[Capo]] di Tier 3._** _Un incorporeo affascinante vestito con eleganza aristocratica._
+## Mente dei Vampiri
+* **Descrizione:** Un incorporeo affascinante vestito con eleganza aristocratica.
+* **Tier:** 3 (Capo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 22/42
+* **Punti Ferita:** 6 | **Stress:** 6
+* **Esperienza:** Aristocratico +3
+* **Attacchi:**
+  * **Rapiera:** +5 | Da Vicino | 2d20+4 fisico
+* **Tratti e Capacità:**
+  * **Terrificante - Passiva:** Quando il Vampiro effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
+  * **Guarda nei Miei Occhi - Passiva:** Una creatura che si sposta in portata Da Vicino del Vampiro deve effettuare un Tiro di Reazione di Istinto. Se fallisce, guadagni **1d4** Paura.
+  * **Sanguinare i Seguaci - Azione:** Quando il Vampiro è in portata Da Vicino di un alleato, può far segnare un PF all'alleato. Il Vampiro poi elimina un PF.
+  * **La Caccia È Iniziata - Azione:** **Spendere 2 Paura** per evocare **1d4** Vampiri, che appaiono in portata Lontana e vengono subito messi a fuoco.
+  * **Assorbimento Vitale - Reazione:** Quando il Vampiro è messo a fuoco, tira un **d8**. Su un risultato di 6 o superiore, tutti i bersagli in portata Molto Vicina devono segnare un PF.
 
-- **Motivazioni e Tattiche:** Creare thrall, incantare, comandare, volare, intimidire
-- **Difficoltà:** 17 | **Soglie:** 22/42 | **PF:** 6 | **Stress:** 6
-- **ATT:** +5 | **Rapiera:** Mischia | 2d20+4 fis
-- **Esperienza:** Aristocratico +3
-
-### CARATTERISTICHE
-
-**_Terrificante - Passiva:_** Quando il Vampire effettua un attacco riuscito, tutti i PG entro portata Lontana perdono una Speranza e tu guadagni una Paura.
-
-**_Guarda nei Miei Occhi - Passiva:_** Una creatura che si sposta nella portata Mischia del Vampire deve effettuare un Tiro di Reazione di Istinto. Se fallisce, guadagni **1d4** Paura.
-
-**_Sanguinare i Seguaci - Azione:_** Quando il Vampire è entro portata Mischia di un alleato, può far marcare un PF all'alleato. Il Vampire poi cancella un PF.
-
-**_La Caccia È Iniziata - Azione:_** **Spendi 2 Paura** per evocare **1d4** Vampiri, che appaiono a portata Lontana e subito prendono il fuoco.
-
-**_Assorbimento Vitale - Reazione:_** Quando il Vampire è al centro dell'attenzione, tira un **d8**. Su un risultato di 6 o superiore, tutti i bersagli entro portata Molto Vicina devono marcire un PF.
+```statblock
+layout: DaggerHeart Nemici
+name: "Mente dei Vampiri"
+description: "Un incorporeo affascinante vestito con eleganza aristocratica."
+tier: "3"
+ruolo: "Capo"
+difficolta: "17"
+hp: "6"
+stress: "6"
+esperienza: "Aristocratico +3"
+soglia_danni: "22/42"
+attacchi:
+  - name: "Rapiera"
+    desc: "**+5** | Da Vicino | **2d20+4** fisico"
+tratti:
+  - name: "Terrificante"
+    desc: "*- Passiva:* Quando il Vampiro effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura."
+  - name: "Guarda nei Miei Occhi"
+    desc: "*- Passiva:* Una creatura che si sposta in portata Da Vicino del Vampiro deve effettuare un Tiro di Reazione di Istinto. Se fallisce, guadagni 1d4 Paura."
+capacita_speciali:
+  - name: "Sanguinare i Seguaci"
+    desc: "*- Azione:* Quando il Vampiro è in portata Da Vicino di un alleato, può far segnare un PF all'alleato. Il Vampiro poi elimina un PF."
+  - name: "La Caccia È Iniziata"
+    desc: "*- Azione:* Spendere 2 Paura per evocare 1d4 Vampiri, che appaiono in portata Lontana e vengono subito messi a fuoco."
+  - name: "Assorbimento Vitale"
+    desc: "*- Reazione:* Quando il Vampiro è messo a fuoco, tira un d8. Su un risultato di 6 o superiore, tutti i bersagli in portata Molto Vicina devono segnare un PF."
+```

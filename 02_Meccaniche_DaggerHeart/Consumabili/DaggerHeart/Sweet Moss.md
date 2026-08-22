@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Sweet Moss
+# Muschio Dolce
 
-You can consume this moss during a rest to clear 1d10 HP or 1d10 Stress.
+Puoi consumare questo muschio durante un riposo per eliminare 1d10 Punti Ferita o 1d10 Stress.

@@ -4,23 +4,47 @@ type:
   - "[[Solo]]"
 ---
 
-# Mountain Troll
-**Tier 1 Solo**
+## Trollo della Montagna
+* **Descrizione:** Un gigante orribile nato da una roccia massiccia. Indossa armature rubate e una cintura di teste mozzate o teschi.
+* **Tier:** 1 (Solo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 8/15
+* **Punti Ferita:** 8 | **Stress:** 3
+* **Esperienza:** Montagne +4
+* **Attacchi:**
+  * **Nodosa di Teschi:** +2 | Molto Vicina | 1d8+1 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Trollo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Armatura Rubata - Passiva: Conto alla Rovina.** Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi "Trollo della Montagna Incazzato").
+  * **Sferzata della Nodosa - Azione:** Segnare uno Stress per effettuare un attacco contro tutti i bersagli davanti al Trollo entro portata Molto Vicina. I bersagli contro cui il Trollo ha successo subiscono 2d8+2 danni fisici.
+  * **Trollo della Montagna Incazzato - Evoluzione:** Il Trollo perde i tratti "Armatura Rubata" e "Sferzata della Nodosa", poi guadagna un bonus di +1 alla sua Difficoltà. Inoltre, guadagna il tratto "Doppia Sferzata" e sostituisce "Nodosa di Teschi" con il seguente attacco standard:
+    * **Sferzata degli Artigli:** Molto Vicina | 1d10+3 fisico
+    * **Doppia Sferzata - Azione:** Spendere una Paura per muoversi fino a portata Vicina ed effettuare due attacchi standard contro un bersaglio entro portata Da Vicino. Se entrambi gli attacchi hanno successo, combina i danni e il bersaglio perde una Speranza.
 
-*A hideous giant born out of a massive rock. They wear purloined armor and a belt of severed heads or skulls.*
-
-* **Motives & Tactics:** Ambush, bellow, hurl large boulders, smash, stomp
-* **Difficulty:** 14
-* **Thresholds:** 8/15
-* **HP:** 8
-* **Stress:** 3
-* **ATK:** +2 | Skull Flail: Very Close | 1d8+1 phy
-* **Experience:** Mountains +4
-
-## FEATURES
-* **Relentless (3) - Passive:** The Troll can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Stolen Armor - Passive: Countdown.** When combat begins, activate a countdown with a value equal to the number of PCs. When the Troll takes damage, reduce the severity by one threshold, then tick down the countdown. When it triggers, the Troll evolves (see "Enraged Mountain Troll").
-* **Flail Swipe - Action:** Mark a Stress to make an attack against all targets in front of the Troll within Very Close range. Targets the Troll succeeds against take 2d8+2 physical damage.
-* **Enraged Mountain Troll - Evolution:** The Troll loses their "Stolen Armor" and "Flail Swipe" features, then gains a +1 bonus to their Difficulty. Additionally, they gain the "Double Swipe" feature and replace "Skull Flail" with the following standard attack:
-  * **Claw Swipe:** Very Close | 1d10+3 phy
-  * **Double Swipe - Action:** Spend a Fear to move up to Close range and make two standard attacks against a target within Melee range. If both attacks succeed, combine the damage, and the target loses a Hope.
+```statblock
+layout: DaggerHeart Nemici
+name: "Trollo della Montagna"
+description: "Un gigante orribile nato da una roccia massiccia. Indossa armature rubate e una cintura di teste mozzate o teschi."
+tier: "1"
+ruolo: "Solo"
+difficolta: "14"
+hp: "8"
+stress: "3"
+esperienza: "Montagne +4"
+soglia_danni: "8/15"
+attacchi:
+  - name: "Nodosa di Teschi"
+    desc: "**+2** | Molto Vicina | **1d8+1** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Trollo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Armatura Rubata"
+    desc: "*- Passiva: Conto alla Rovina.* Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi 'Trollo della Montagna Incazzato')."
+capacita_speciali:
+  - name: "Sferzata della Nodosa"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro tutti i bersagli davanti al Trollo entro portata Molto Vicina. I bersagli contro cui il Trollo ha successo subiscono 2d8+2 danni fisici."
+  - name: "Trollo della Montagna Incazzato (Evoluzione)"
+    desc: "*- Evoluzione:* Il Trollo perde i tratti 'Armatura Rubata' e 'Sferzata della Nodosa', poi guadagna un bonus di +1 alla sua Difficoltà. Inoltre, guadagna il tratto 'Doppia Sferzata' e sostituisce 'Nodosa di Teschi' con 'Sferzata degli Artigli' (Molto Vicina | 1d10+3 fisico)."
+  - name: "Doppia Sferzata"
+    desc: "*- Azione:* Spendere una Paura per muoversi fino a portata Vicina ed effettuare due attacchi standard contro un bersaglio entro portata Da Vicino. Se entrambi gli attacchi hanno successo, combina i danni e il bersaglio perde una Speranza."
+```

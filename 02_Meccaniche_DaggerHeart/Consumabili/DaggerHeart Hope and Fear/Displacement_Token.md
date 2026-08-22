@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 23
 ---
 
-# Displacement Token
+# Token dello Spostamento
 
-You can swallow this token to conjure two illusions of yourself that you can control. Each illusion lasts until it takes damage or until your next rest.
+Puoi ingoiare questo token per evocare due illusioni di te stesso che puoi controllare. Ogni illusione dura finché non subisce danni o fino al tuo prossimo riposo.

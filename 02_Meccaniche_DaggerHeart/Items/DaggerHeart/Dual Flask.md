@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Dual Flask
+# Fiaschetta Doppia
 
 **_Item_**
 
-This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask’s side.
+Questa fiaschetta può contenere due liquidi diversi. Puoi passare da uno all'altro capovolgendo un piccolo interruttore sul lato della fiaschetta.

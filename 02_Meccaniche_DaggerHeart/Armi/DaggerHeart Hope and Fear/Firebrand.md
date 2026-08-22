@@ -12,8 +12,8 @@ tier: 2
 ruolo: "primaria"
 ---
 
-### FIREBRAND
+### Brandeburgo
 
-**_Flaming: On a successful attack, the target catches fire and marks 1 HP at the start of each turn_**
+**_Fiammeggiante: Con un attacco riuscito, il bersaglio prende fuoco e segna 1 PF all'inizio di ogni turno_**
 
 ---

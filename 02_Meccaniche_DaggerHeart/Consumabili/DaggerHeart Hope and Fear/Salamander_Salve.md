@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 28
 ---
 
-# Salamander Salve
+# Unguento della Salamandra
 
-You can apply this salve to your skin to make yourself immune to heat until your next rest.
+Puoi applicare questo unguento alla tua pelle per renderti immune al calore fino al tuo prossimo riposo.

@@ -4,20 +4,40 @@ type:
   - "[[Standard]]"
 ---
 
-# Phantom
-**Tier 1 Standard**
+## Fantasma
+* **Descrizione:** L'eco di un'anima perduta, sotto forma di un'ombra ectoplasmica.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 11
+* **Soglie di Danno:** 5/Nessuna
+* **Punti Ferita:** 2 | **Stress:** 1
+* **Esperienza:** Spettrale +3
+* **Attacchi:**
+  * **Tocco Gelerante:** -1 | Da Vicino | 1d6+2 magico
+* **Tratti e Capacità:**
+  * **Incorporeo - Passiva:** Il Fantasma ha resistenza ai danni fisici e può muoversi attraverso oggetti solidi.
+  * **Aurea di Paura - Passiva:** Un PG che viene messo a fuoco entro portata Molto Vicina del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress.
+  * **Infestazione Persistente - Reazione: Conto alla Rovina (1d6).** Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco.
 
-*The echo of a lost soul in the form of an ectoplasmic shadow.*
-
-* **Motives & Tactics:** Create cold spots, swoop through the air, whisper dark tidings
-* **Difficulty:** 11
-* **Thresholds:** 5/None
-* **HP:** 2
-* **Stress:** 1
-* **ATK:** -1 | Chill Touch: Melee | 1d6+2 mag
-* **Experience:** Spooky +3
-
-## FEATURES
-* **Incorporeal - Passive:** The Phantom has resistance to physical damage and can move through solid objects.
-* **Fear Aura - Passive:** A PC who takes the spotlight within Very Close range of the Phantom must succeed on a Presence Reaction Roll (10) or mark a Stress.
-* **Lingering Haunt - Reaction: Countdown (1d6).** When the Phantom is defeated, you can spend a Fear to activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, clear the Phantom's HP and immediately spotlight them.
+```statblock
+layout: DaggerHeart Nemici
+name: "Fantasma"
+description: "L'eco di un'anima perduta, sotto forma di un'ombra ectoplasmica."
+tier: "1"
+ruolo: "Standard"
+difficolta: "11"
+hp: "2"
+stress: "1"
+esperienza: "Spettrale +3"
+soglia_danni: "5/Nessuna"
+attacchi:
+  - name: "Tocco Gelerante"
+    desc: "**-1** | Da Vicino | **1d6+2** magico"
+tratti:
+  - name: "Incorporeo"
+    desc: "*- Passiva:* Il Fantasma ha resistenza ai danni fisici e può muoversi attraverso oggetti solidi."
+  - name: "Aurea di Paura"
+    desc: "*- Passiva:* Un PG che viene messo a fuoco entro portata Molto Vicina del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress."
+capacita_speciali:
+  - name: "Infestazione Persistente"
+    desc: "*- Reazione: Conto alla Rovina (1d6).* Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco."
+```

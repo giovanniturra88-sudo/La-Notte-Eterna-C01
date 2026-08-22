@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Gem of Insight
+# Gemma di Intuizione
 
 **_Item_**
 
-You can attach this gem to a weapon, allowing you to use your Instinct when making an attack with that weapon.
+Puoi fissare questa gemma a un'arma, permettendoti di usare la tua Istinto quando effettui un attacco con quell'arma.

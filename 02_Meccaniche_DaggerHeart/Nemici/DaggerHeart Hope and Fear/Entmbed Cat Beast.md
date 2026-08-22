@@ -4,20 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Entmbed Cat Beast
-- **Tipo / Ruolo:** Tier 2 Solo
-- **Descrizione:** A large undead humanoid skeleton with a panther's skull for a head.
-- **Motivi & Tattiche:** Rush attack, shred, terrify
-- **Difficoltà:** 15
-- **Soglie (Thresholds):** 12 / 23
-- **Punti Ferita (HP):** 7
-- **Stress:** 3
-- **Attacco:** +2 | Razor Claws: Very Close | 2d12+2 phy
-- **Esperienza:** Feral +2
+## Bestia Gatto Sepolta
+* **Descrizione:** Un grande scheletro non-morto umanoido, con il cranio di una pantera per testa.
+* **Tier:** 2 (Solo)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 12/23
+* **Punti Ferita:** 7 | **Stress:** 3
+* **Esperienza:** Feroce +2
+* **Attacchi:**
+  * **Artigli a Rasoio:** +2 | Molto Vicina | 2d12+2 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** La Bestia Gatto può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Colpo Sanguinoso - Passiva:** Un PG che segna 3 o più PF da un attacco effettuato dalla Bestia Gatto deve segnare un PF aggiuntivo.
+  * **Urlo Stridulo - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana della Bestia Gatto a effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono diventano *Agitati* finché non tirano con Speranza. Quando la Bestia Gatto effettua un attacco riuscito contro un PG *Agitato*, tira i danni due volte e prendi il risultato migliore, poi rimuovi la condizione *Agitato* dal bersaglio.
+  * **Io Solo - Reazione:** Quando la Bestia Gatto appare per la prima volta, puoi scegliere di farle assorbire l'essenza dei suoi alleati. Sconfiggi immediatamente qualsiasi numero di alleati sul campo di battaglia, e guadagna una Paura per ogni alleato sconfiggito in questo modo.
+  * **Ritorsione Feroce - Reazione:** Quando la Bestia Gatto subisce danni da un attacco effettuato da un PG entro portata Molto Vicina, puoi segnare uno Stress per effettuare un attacco standard contro quel PG.
 
-**Tratti (Features):**
-* **Relentless (3) - Passive:** The Cat Beast can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Bloody Strike - Passive:** A PC who marks 3 or more HP from an attack made by the Cat Beast must mark an additional HP.
-* **Screeching Caterwaul - Action:** Mark a Stress to force each PC within Far range of the Cat Beast to make a Presence Reaction Roll. Targets who fail become Rattled until they roll with Hope. When the Cat Beast makes a successful attack against a Rattled PC, roll damage twice and take the better result, then clear the Rattled condition from the target.
-* **I Alone - Reaction:** When the Cat Beast first appears, you can choose to have them absorb the essence of their allies. Immediately defeat any number of allies on the battlefield, and gain a Fear for each ally defeated this way.
-* **Vicious Reprisal - Reaction:** When the Cat Beast takes damage from an attack made by a PC within Very Close range, you can mark a Stress to make a standard attack against that PC.
+```statblock
+layout: DaggerHeart Nemici
+name: "Bestia Gatto Sepolta"
+description: "Un grande scheletro non-morto umanoido, con il cranio di una pantera per testa."
+tier: "2"
+ruolo: "Solo"
+difficolta: "15"
+hp: "7"
+stress: "3"
+esperienza: "Feroce +2"
+soglia_danni: "12/23"
+attacchi:
+  - name: "Artigli a Rasoio"
+    desc: "**+2** | Molto Vicina | **2d12+2** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* La Bestia Gatto può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Colpo Sanguinoso"
+    desc: "*- Passiva:* Un PG che segna 3 o più PF da un attacco effettuato dalla Bestia Gatto deve segnare un PF aggiuntivo."
+capacita_speciali:
+  - name: "Urlo Stridulo"
+    desc: "*- Azione:* Segnare uno Stress per costringere ogni PG entro portata Lontana della Bestia Gatto a effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono diventano *Agitati* finché non tirano con Speranza. Quando la Bestia Gatto effettua un attacco riuscito contro un PG *Agitato*, tira i danni due volte e prendi il risultato migliore, poi rimuovi la condizione *Agitato* dal bersaglio."
+  - name: "Io Solo"
+    desc: "*- Reazione:* Quando la Bestia Gatto appare per la prima volta, puoi scegliere di farle assorbire l'essenza dei suoi alleati. Sconfiggi immediatamente qualsiasi numero di alleati sul campo di battaglia, e guadagna una Paura per ogni alleato sconfiggito in questo modo."
+  - name: "Ritorsione Feroce"
+    desc: "*- Reazione:* Quando la Bestia Gatto subisce danni da un attacco effettuato da un PG entro portata Molto Vicina, puoi segnare uno Stress per effettuare un attacco standard contro quel PG."
+```

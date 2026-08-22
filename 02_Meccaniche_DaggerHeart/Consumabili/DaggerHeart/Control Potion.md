@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Control Potion
+# Pozione di Controllo
 
-You gain a +1 bonus to your next Finesse Roll.
+Ottieni un bonus di +1 al tuo prossimo Tiro di Finezza.

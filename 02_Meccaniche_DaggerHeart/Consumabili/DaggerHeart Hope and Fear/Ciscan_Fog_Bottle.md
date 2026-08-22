@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 18
 ---
 
-# Ciscan Fog Bottle
+# Bottiglia di Nebbia Ciscan
 
-You can break this jar to fill the area within Close range with magical mist. A creature who enters the mist clears a Stress and becomes Hidden.
+Puoi rompere questo barattolo per riempire l'area entro gittata Vicina con nebbia magica. Una creatura che entra nella nebbia elimina uno Stress e diventa Nascosta.

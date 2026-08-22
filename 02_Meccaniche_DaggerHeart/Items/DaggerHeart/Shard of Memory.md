@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Shard of Memory
+# Scheggia di Memoria
 
 **_Item_**
 
-Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost.
+Una volta per riposo lungo, puoi spendere 2 Speranza per richiamare una carta di dominio dal tuo archivio invece di pagare il suo Costo di Richiamo.

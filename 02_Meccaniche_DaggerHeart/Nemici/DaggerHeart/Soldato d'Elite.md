@@ -1,16 +1,37 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
-**_Livello 2 [[Standard]]._** _Un squadrone corazzato o un comune abitante esperto che cerca di avanzare._
+## Soldato d'Elite
+* **Descrizione:** Un squadrone corazzato o un comune abitante esperto che cerca di avanzare.
+* **Tier:** 2 (Standard)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 9/18
+* **Punti Ferita:** 4 | **Stress:** 3
+* **Attacchi:**
+  * **Lancia:** +1 | Molto Vicina | 2d8+4 fisico
+* **Tratti e Capacità:**
+  * **Rafforzare - Azione:** **Segnare uno Stress** per muoversi in portata Da Vicino di un alleato ed effettuare un attacco standard contro un bersaglio in portata Molto Vicina. In caso di successo, infliggi **2d10+2** danni fisici e l'alleato può eliminare uno Stress.
+  * **Fedeltà del Vassallo - Reazione:** Quando il Soldato si trova in portata Molto Vicina di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi **Segnare uno Stress** per muoversi in portata Da Vicino e subire il danno al posto loro.
 
-- **Motivazioni e Tattiche:** Guadagnare gloria, mantenere l'ordine, formare alleanze
-- **Difficoltà:** 15 | **Soglie:** 9/18 | **PF:** 4 | **Stress:** 3
-- **ATT:** +1 | **Lancia:** Molto Vicino | 2d8+4 fis
-
-### CARATTERISTICHE
-
-**_Rafforzare - Azione:_** **Segna uno Stress** per muoverti nella portata di mischia di un alleato e effettuare un attacco standard contro un bersaglio nella portata Molto Vicino. In caso di successo, infliggi **2d10+2** danni fisici e l'alleato può eliminare uno Stress.
-
-**_Fedeltà del Vassallo - Reazione:_** Quando il Soldato si trova nella portata Molto Vicino di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi **segnare uno Stress** per muoverti nella portata di mischia e subire il danno al posto loro.
+```statblock
+layout: DaggerHeart Nemici
+name: "Soldato d'Elite"
+description: "Un squadrone corazzato o un comune abitante esperto che cerca di avanzare."
+tier: "2"
+ruolo: "Standard"
+difficolta: "15"
+hp: "4"
+stress: "3"
+soglia_danni: "9/18"
+attacchi:
+  - name: "Lancia"
+    desc: "**+1** | Molto Vicina | **2d8+4** fisico"
+capacita_speciali:
+  - name: "Rafforzare"
+    desc: "*- Azione:* Segnare uno Stress per muoversi in portata Da Vicino di un alleato ed effettuare un attacco standard contro un bersaglio in portata Molto Vicina. In caso di successo, infliggi 2d10+2 danni fisici e l'alleato può eliminare uno Stress."
+  - name: "Fedeltà del Vassallo"
+    desc: "*- Reazione:* Quando il Soldato si trova in portata Molto Vicina di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi Segnare uno Stress per muoversi in portata Da Vicino e subire il danno al posto loro."
+```

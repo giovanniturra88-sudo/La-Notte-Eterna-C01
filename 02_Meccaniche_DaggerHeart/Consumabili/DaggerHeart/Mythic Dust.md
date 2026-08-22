@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Mythic Dust
+# Polvere Mistica
 
-You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon.
+Puoi applicare questa polvere a un'arma che infligge danni magici per aggiungere un d12 al tuo prossimo tiro di danno con quell'arma.

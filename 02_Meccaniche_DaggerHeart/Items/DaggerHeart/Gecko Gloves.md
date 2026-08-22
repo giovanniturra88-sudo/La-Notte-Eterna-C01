@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Gecko Gloves
+# Guanti da Geco
 
 **_Item_**
 
-You can climb up vertical surfaces and across ceilings.
+Quando indossi questi guanti, ottieni velocità di scalata pari alla tua velocità di movimento.

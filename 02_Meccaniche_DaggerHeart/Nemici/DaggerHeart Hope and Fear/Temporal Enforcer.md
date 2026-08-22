@@ -4,18 +4,46 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Temporal Enforcer
-*Tier 4 Bruiser*
-*A giant mechanical being from a dimension outside time, built by the Time Keepers to preserve the Holy Continuum.*
+## Esecutore Temporale
+* **Descrizione:** Un essere meccanico gigante, da una dimensione al di fuori del tempo, costruito dai Custodi del Tempo per preservare il Continuum Sacro.
+* **Tier:** 4 (Picchiatore)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 42/68
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Anomalie Temporali +3
+* **Attacchi:**
+  * **Martello di Adamantio:** +4 | Molto Vicina | 40 fisico diretto
+* **Tratti e Capacità:**
+  * **Inesorabile (2) - Passiva:** L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Loop Temporale - Passiva:** Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi.
+  * **Muoversi tra i Momenti - Azione:** Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Molto Lontana, poi mettilo a fuoco di nuovo.
+  * **Riavvolgimento Istantaneo - Reazione:** Quando l'Esecutore fallisce un attacco, puoi spendere una Paura per rilanciare il dado.
+  * **Invertire la Polarità - Reazione:** Fino a tre volte per scena, puoi spendere una Paura per ribaltare qualsiasi dado lanciato sul suo risultato dritto. Questo effetto non può essere usato per alterare un successo critico.
 
-**Motives & Tactics:** Repair the timeline, seek out temporal heretics, serve the Lords of Continuity
-**Difficulty:** 20 | **Thresholds:** 42/68 | **HP:** 8 | **Stress:** 5
-**ATK:** +4 | **Adamantine Hammer:** Very Close | 40 direct phy
-**Experience:** Temporal Anomalies +3
-
-## FEATURES
-* **Relentless (2) - Passive:** The Enforcer can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
-* **Time Looper - Passive:** Countdown (Loop 2d6). When the Enforcer first appears, activate the countdown. It ticks down when the Enforcer is spotlighted. When it triggers, the Enforcer clears all HP, Stress, and conditions. Reroll the countdown when the Enforcer takes Severe damage.
-* **Move Between Moments - Action:** Mark a Stress to have the Enforcer teleport to a point within Very Far range, then spotlight them again.
-* **Instant Rewind - Reaction:** When the Enforcer fails an attack, you can spend a Fear to reroll the die.
-* **Invert Polarity - Reaction:** Up to three times per scene, you can spend a Fear to flip any die rolled onto its obverse result. This effect can't be used to alter a critical success.
+```statblock
+layout: DaggerHeart Nemici
+name: "Esecutore Temporale"
+description: "Un essere meccanico gigante, da una dimensione al di fuori del tempo, costruito dai Custodi del Tempo per preservare il Continuum Sacro."
+tier: "4"
+ruolo: "Picchiatore"
+difficolta: "20"
+hp: "8"
+stress: "5"
+esperienza: "Anomalie Temporali +3"
+soglia_danni: "42/68"
+attacchi:
+  - name: "Martello di Adamantio"
+    desc: "**+4** | Molto Vicina | **40** fisico diretto"
+tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Loop Temporale"
+    desc: "*- Passiva:* Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi."
+capacita_speciali:
+  - name: "Muoversi tra i Momenti"
+    desc: "*- Azione:* Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Molto Lontana, poi mettilo a fuoco di nuovo."
+  - name: "Riavvolgimento Istantaneo"
+    desc: "*- Reazione:* Quando l'Esecutore fallisce un attacco, puoi spendere una Paura per rilanciare il dado."
+  - name: "Invertire la Polarità"
+    desc: "*- Reazione:* Fino a tre volte per scena, puoi spendere una Paura per ribaltare qualsiasi dado lanciato sul suo risultato rovescio. Questo effetto non può essere usato per alterare un successo critico."
+```

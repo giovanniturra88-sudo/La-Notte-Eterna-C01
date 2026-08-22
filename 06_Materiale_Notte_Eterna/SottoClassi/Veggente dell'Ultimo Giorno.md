@@ -1,7 +1,7 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Shadow Hunter]]"
+  - "[[Cacciatore delle Ombre]]"
 Dominio:
   - "[[MezzaNotte]]"
   - "[[Saggio]]"

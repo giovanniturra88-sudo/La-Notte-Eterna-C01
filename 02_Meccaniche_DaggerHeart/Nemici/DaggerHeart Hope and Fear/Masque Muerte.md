@@ -3,23 +3,47 @@ type:
   - "[[Creatura]]"
   - "[[Solo]]"
 ---
+	
+## Masque Muerte
+* **Descrizione:** L'anima furiosa di un lottatore mascherato villain.
+* **Tier:** 1 (Solo)
+* **Difficoltà:** 13
+* **Soglie di Danno:** 7/14
+* **Punti Ferita:** 8 | **Stress:** 4
+* **Esperienza:** Lottatore +3, Showman +3
+* **Attacchi:**
+  * **Colpo a Mano Nuda:** +4 | Da Vicino | 1d12+2 magico
+* **Tratti e Capacità:**
+  * **Lucha - Passiva:** Il Masque Muerte non può essere *Ristretto*.
+  * **Rivolta del Villain - Azione:** Segnare uno Stress per effettuare un attacco contro un PG entro portata Vicina. In caso di successo, il bersaglio deve segnare uno Stress e diventa temporaneamente *Vulnerabile* mentre il Masque Muerte lo assale con una serie di provocazioni insultanti.
+  * **Suplex Spettrale - Azione:** Spendere una Paura per far eseguire al Masque Muerte un suplex a un PG *Ristretto*, infliggendogli 1d10+6 danni magici.
+  * **Morte Svelata - Azione:** Spendere una Paura per far rimuovere momentaneamente al Masque Muerte la sua maschera, rivelando il suo volto terrificante sottostante. Ogni PG entro portata Vicina deve superare un Tiro di Reazione di Presenza o segnare uno Stress.
+  * **Tag Team - Reazione:** Quando il Masque Muerte infligge danni a un PG, puoi spendere una Paura per far apparire un lottatore spettrale che *Fissa* il bersaglio finché non si libera con un Tiro di Forza riuscito. Mentre è *Fissato*, il bersaglio è *Ristretto* e subisce 1d12 danni magici aggiuntivi dagli attacchi del Masque Muerte.
 
-# Masque Muerte
-**Tier 1 Solo**
-
-*The raging soul of a villainous masked wrestler.*
-
-* **Motives & Tactics:** Call out, embarrass, energize the audience, pin opponents to the ground
-* **Difficulty:** 13
-* **Thresholds:** 7/14
-* **HP:** 8
-* **Stress:** 4
-* **ATK:** +4 | Open-Handed Strike: Melee | 1d12+2 mag
-* **Experience:** Grappler +3, Showboat +3
-
-## FEATURES
-* **Lucha - Passive:** The Masque Muerte can't be Restrained.
-* **Heel Turn - Action:** Mark a Stress to make an attack against a PC within Close range. On a success, the target must mark a Stress and is temporarily Vulnerable as the Masque Muerte assaults them with a string of insulting taunts.
-* **Spectral Suplex - Action:** Spend a Fear to have the Masque Muerte suplex a Restrained PC, dealing 1d10+6 magic damage to them.
-* **Unmasking Death - Action:** Spend a Fear to have the Masque Muerte momentarily remove their mask, revealing their horrifying face underneath. Each PC within Close range must succeed on a Presence Reaction Roll or mark a Stress.
-* **Tag Team - Reaction:** When the Masque Muerte deals damage to a PC, you can spend a Fear to have a spectral wrestler appear and Pin the target until they escape with a successful Strength Roll. While Pinned, the target is Restrained and takes an extra 1d12 magic damage from the Masque Muerte's attacks.
+```statblock
+layout: DaggerHeart Nemici
+name: "Masque Muerte"
+description: "L'anima furiosa di un lottatore mascherato villain."
+tier: "1"
+ruolo: "Solo"
+difficolta: "13"
+hp: "8"
+stress: "4"
+esperienza: "Lottatore +3, Showman +3"
+soglia_danni: "7/14"
+attacchi:
+  - name: "Colpo a Mano Nuda"
+    desc: "**+4** | Da Vicino | **1d12+2** magico"
+tratti:
+  - name: "Lucha"
+    desc: "*- Passiva:* Il Masque Muerte non può essere *Ristretto*."
+capacita_speciali:
+  - name: "Rivolta del Villain"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro un PG entro portata Vicina. In caso di successo, il bersaglio deve segnare uno Stress e diventa temporaneamente *Vulnerabile* mentre il Masque Muerte lo assale con una serie di provocazioni insultanti."
+  - name: "Suplex Spettrale"
+    desc: "*- Azione:* Spendere una Paura per far eseguire al Masque Muerte un suplex a un PG *Ristretto*, infliggendogli 1d10+6 danni magici."
+  - name: "Morte Svelata"
+    desc: "*- Azione:* Spendere una Paura per far rimuovere momentaneamente al Masque Muerte la sua maschera, rivelando il suo volto terrificante sottostante. Ogni PG entro portata Vicina deve superare un Tiro di Reazione di Presenza o segnare uno Stress."
+  - name: "Tag Team"
+    desc: "*- Reazione:* Quando il Masque Muerte infligge danni a un PG, puoi spendere una Paura per far apparire un lottatore spettrale che *Fissa* il bersaglio finché non si libera con un Tiro di Forza riuscito. Mentre è *Fissato*, il bersaglio è *Ristretto* e subisce 1d12 danni magici aggiuntivi dagli attacchi del Masque Muerte."
+```

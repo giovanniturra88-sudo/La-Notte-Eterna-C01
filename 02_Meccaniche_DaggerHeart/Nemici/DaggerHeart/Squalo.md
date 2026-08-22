@@ -1,19 +1,43 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
-**_Tier 2 [[Picchiatore]]._** _Un grande predatore acquatico, sempre in movimento._
+## Squalo
+* **Descrizione:** Un grande predatore acquatico, sempre in movimento.
+* **Tier:** 2 (Picchiatore)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 14/28
+* **Punti Ferita:** 7 | **Stress:** 3
+* **Esperienza:** Senso dell'Odore +3
+* **Attacchi:**
+  * **Mascella Dentata:** +2 | Molto Vicina | 2d12+1 fisico
+* **Tratti e Capacità:**
+  * **Terrificante - Passiva:** Quando il Squalo effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
+  * **Morso Lacerante - Passiva:** Quando il Squalo effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare uno Slot di Armatura, devono segnare un PF in più.
+  * **Sangue nell'Acqua - Reazione:** Quando una creatura in portata Vicina al Squalo segna PF a causa di un attacco di un'altra creatura, puoi **Segnare uno Stress** per mettere immediatamente a fuoco il Squalo, spostandolo in portata Da Vicino rispetto alla vittima ed effettuando un attacco standard.
 
-- **Motivi e Tattiche:** Trova il sangue, isola la preda, colpisce i deboli
-- **Difficoltà:** 14 | **Soglie:** 14/28 | **PF:** 7 | **Stress:** 3
-- **ATT:** +2 | **Mascella Dentata:** Molto Vicino | 2d12+1 fis
-- **Esperienza:** Senso dell'Odore +3
-
-### CARATTERISTICHE
-
-**_Terrificante - Passiva:_** Quando il Squalo effettua un attacco riuscito, tutti i PG entro portata Lontana perdono una Speranza e tu guadagni una Paura.
-
-**_Morso Lacerante - Passiva:_** Quando il Squalo effettua un attacco riuscito, la vittima deve segnare una Slot di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare uno Slot di Armatura, devono segnare un PF in più.
-
-**_Sangue nell'Acqua - Reazione:_** Quando una creatura entro portata Vicina al Squalo segna PF a causa di un attacco di un'altra creatura, puoi **segna uno Stress** per mettere immediatamente in evidenza il Squalo, spostandolo nella portata di Mischia rispetto alla vittima e effettuando un attacco standard.
+```statblock
+layout: DaggerHeart Nemici
+name: "Squalo"
+description: "Un grande predatore acquatico, sempre in movimento."
+tier: "2"
+ruolo: "Picchiatore"
+difficolta: "14"
+hp: "7"
+stress: "3"
+esperienza: "Senso dell'Odore +3"
+soglia_danni: "14/28"
+attacchi:
+  - name: "Mascella Dentata"
+    desc: "**+2** | Molto Vicina | **2d12+1** fisico"
+tratti:
+  - name: "Terrificante"
+    desc: "*- Passiva:* Quando il Squalo effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura."
+  - name: "Morso Lacerante"
+    desc: "*- Passiva:* Quando il Squalo effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare uno Slot di Armatura, devono segnare un PF in più."
+capacita_speciali:
+  - name: "Sangue nell'Acqua"
+    desc: "*- Reazione:* Quando una creatura in portata Vicina al Squalo segna PF a causa di un attacco di un'altra creatura, puoi Segnare uno Stress per mettere immediatamente a fuoco il Squalo, spostandolo in portata Da Vicino rispetto alla vittima ed effettuando un attacco standard."
+```

@@ -4,16 +4,40 @@ type:
   - "[[Orda]]"
 ---
 
-# Vampire Bat Swarm
-*Tier 3 Horde (5/HP)*
-*A cloud of blood-sucking bats.*
+## Sciame di Pipistrelli Vampiro
+* **Descrizione:** Una nube di pipistrelli che succhiano sangue.
+* **Tier:** 3 (Orda)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 16/30
+* **Punti Ferita:** 8 | **Stress:** 3
+* **Esperienza:** Sangue +3
+* **Attacchi:**
+  * **Zanne:** +1 | Da Vicino | 3d6+6 fisico
+* **Tratti e Capacità:**
+  * **Orda (2d6) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6 danni fisici.
+  * **Multitudine Accecante - Passiva:** Lo Sciame è così denso da bloccare la vista di chiunque interagisca con esso. Le creature entro portata Da Vicino hanno svantaggio sugli attacchi effettuati contro avversari diversi dallo Sciame.
+  * **Sanguisughe - Reazione:** Quando lo Sciame infligge danni a un bersaglio, puoi segnare uno Stress per far sì che lo Sciame si nutra. Il bersaglio segna un PF aggiuntivo, e lo Sciame rimuove un PF.
 
-**Motives & Tactics:** Blot out the moon, murmur, spread disease
-**Difficulty:** 15 | **Thresholds:** 16/30 | **HP:** 8 | **Stress:** 3
-**ATK:** +1 | **Fangs:** Melee | 3d6+6 phy
-**Experience:** Blood +3
-
-## FEATURES
-* **Horde (2d6) - Passive:** When the Swarm has marked half or more of its HP, its standard attack deals 2d6 physical damage instead.
-* **Blinding Multitude - Passive:** The Swarm is so thick it blocks the vision of anyone it interacts with. Creatures within Melee range have disadvantage on attacks made against adversaries other than the Swarm.
-* **Bloodsuckers - Reaction:** When the Swarm deals damage to a target, you can mark a Stress to have the Swarm feed. The target marks an additional HP, and the Swarm clears a HP.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sciame di Pipistrelli Vampiro"
+description: "Una nube di pipistrelli che succhiano sangue."
+tier: "3"
+ruolo: "Orda"
+difficolta: "15"
+hp: "8"
+stress: "3"
+esperienza: "Sangue +3"
+soglia_danni: "16/30"
+attacchi:
+  - name: "Zanne"
+    desc: "**+1** | Da Vicino | **3d6+6** fisico"
+tratti:
+  - name: "Orda (2d6)"
+    desc: "*- Passiva:* Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6 danni fisici."
+  - name: "Multitudine Accecante"
+    desc: "*- Passiva:* Lo Sciame è così denso da bloccare la vista di chiunque interagisca con esso. Le creature entro portata Da Vicino hanno svantaggio sugli attacchi effettuati contro avversari diversi dallo Sciame."
+capacita_speciali:
+  - name: "Sanguisughe"
+    desc: "*- Reazione:* Quando lo Sciame infligge danni a un bersaglio, puoi segnare uno Stress per far sì che lo Sciame si nutra. Il bersaglio segna un PF aggiuntivo, e lo Sciame rimuove un PF."
+```

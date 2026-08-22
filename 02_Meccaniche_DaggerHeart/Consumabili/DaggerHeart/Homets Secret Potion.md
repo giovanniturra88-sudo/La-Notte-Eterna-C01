@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Homet's Secret Potion
+# Pozione Segreta di Homet
 
-After drinking this potion, the next successful attack you make critically succeeds.
+Dopo aver bevuto questa pozione, il tuo prossimo attacco riuscito ottiene un successo critico.

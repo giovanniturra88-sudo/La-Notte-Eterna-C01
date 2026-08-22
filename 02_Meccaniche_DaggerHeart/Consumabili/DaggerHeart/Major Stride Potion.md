@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Stride Potion
+# Pozione del Passo Maggiore
 
-You gain a +1 bonus to your Agility until your next rest.
+Ottieni un bonus di +1 alla tua Agilità fino al tuo prossimo riposo.

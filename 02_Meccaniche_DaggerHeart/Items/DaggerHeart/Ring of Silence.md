@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Ring of Silence
+# Anello del Silenzio
 
 **_Item_**
 
-Spend a Hope to activate this ring. Your footsteps are silent until your next rest.
+Spendi una Speranza per attivare questo anello. I tuoi passi sono silenziosi fino al tuo prossimo riposo.

@@ -4,19 +4,36 @@ type:
   - "[[Standard]]"
 ---
 
-# Common Ruffian
-**Tier 1 Standard**
+## Ruffiano Comune
+* **Descrizione:** Un lavoratore o artigiano locale spinto dalle circostanze ad aggredire gli altri.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 6/10
+* **Punti Ferita:** 4 | **Stress:** 4
+* **Esperienza:** Disperato +3
+* **Attacchi:**
+  * **Arma Improvvisata:** +0 | Da Vicino | 1d8 fisico
+* **Tratti e Capacità:**
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Ruffiani entro portata Vicina di esso. I Ruffiani si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 1d8 danni fisici ciascuno. Combina questi danni.
+  * **Istinto di Sopravvivenza - Reazione:** Quando il Ruffiano segna metà dei suoi PF, tira un d6. Con un risultato di 4 o superiore, il Ruffiano fugge dalla scena. Altrimenti, guadagni una Paura.
 
-*A local laborer or artisan pushed by circumstances to assail others.*
-
-* **Motives & Tactics:** Do violence, seek security and survival
-* **Difficulty:** 12
-* **Thresholds:** 6/10
-* **HP:** 4
-* **Stress:** 4
-* **ATK:** +0 | Improvised Weapon: Melee | 1d8 phy
-* **Experience:** Desperate +3
-
-## FEATURES
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Ruffians within Close range of them. The Ruffians move into Melee range of the target and make one shared attack roll. On a success, they deal 1d8 physical damage each. Combine this damage.
-* **Survival Instinct - Reaction:** When the Ruffian marks half their HP, roll a d6. On a result of 4 or higher, the Ruffian flees the scene. Otherwise, you gain a Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Ruffiano Comune"
+description: "Un lavoratore o artigiano locale spinto dalle circostanze ad aggredire gli altri."
+tier: "1"
+ruolo: "Standard"
+difficolta: "12"
+hp: "4"
+stress: "4"
+esperienza: "Disperato +3"
+soglia_danni: "6/10"
+attacchi:
+  - name: "Arma Improvvisata"
+    desc: "**+0** | Da Vicino | **1d8** fisico"
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Ruffiani entro portata Vicina di esso. I Ruffiani si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 1d8 danni fisici ciascuno. Combina questi danni."
+  - name: "Istinto di Sopravvivenza"
+    desc: "*- Reazione:* Quando il Ruffiano segna metà dei suoi PF, tira un d6. Con un risultato di 4 o superiore, il Ruffiano fugge dalla scena. Altrimenti, guadagni una Paura."
+```

@@ -1,18 +1,40 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Supporto]]"
 ---
 
-**_[[Supporto]] Tier 3._** _Un enorme moto vivente che si abbatta sugli nemici._
+## Elementale Maggiore dell'Acqua
+* **Descrizione:** Un enorme moto vivente che si abbatte sugli nemici.
+* **Tier:** 3 (Supporto)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 17/34
+* **Punti Ferita:** 5 | **Stress:** 5
+* **Attacchi:**
+  * **Onda Schiantante:** +3 | Molto Vicina | 3d4+1 magico
+* **Tratti e Capacità:**
+  * **Getto d'Acqua - Azione:** **Segnare uno Stress** per attaccare un bersaglio a portata Molto Vicina. In caso di successo, infliggi **2d4+7** danni fisici e l'azione successiva del bersaglio ha svantaggio. In caso di fallimento, il bersaglio deve segnare uno Stress.
+  * **Abbraccio dell'Annegamento - Azione:** **Spendere una Paura** per effettuare un attacco contro tutti i bersagli a portata Molto Vicina. I bersagli colpiti diventano _Ristretti_ e _Vulnerabili_ mentre iniziano ad affogare. Un bersaglio può liberarsi, terminando entrambe le condizioni, con un tiro di Forza o Istinto riuscito.
+  * **Marea Alta - Reazione:** Quando l'Elementale effettua un attacco standard riuscito, puoi **segnare uno Stress** per spingere il bersaglio indietro a portata Vicina.
 
-- **Motivi e Tattiche:** Alluvione, disperdere, annegare
-- **Difficoltà:** 17 | **Soglie:** 17/34 | **PF:** 5 | **Stress:** 5
-- **ATT:** +3 | **Onda Schiantante:** Molto Vicino | 3d4+1 mag
-
-### CARATTERISTICHE
-
-**_Getto d'Acqua - Azione:_** **Segna uno Stress** per attaccare una target a distanza Molto Vicino. Se ha successo, infliggi **2d4+7** danni fisici e l'azione successiva del bersaglio ha svantaggio. Se fallisce, il bersaglio deve segnare uno Stress.
-
-**_Abbraccio dell'Annegamento - Azione:_** **Spendi una Paura** per effettuare un attacco contro tutti i bersagli a distanza Molto Vicino. I bersagli colpiti diventano _Ristretti_ e _Vulnerabili_ mentre iniziano ad affogare. Un bersaglio può liberarsi, terminando entrambe le condizioni, con un tiro di Forza o Istinto di successo.
-
-**_Marea Alta - Reazione:_** Quando l'Elementale effettua un attacco standard riuscito, puoi **segna uno Stress** per spingere il bersaglio indietro a distanza Vicino.
+```statblock
+layout: DaggerHeart Nemici
+name: "Elementale Maggiore dell'Acqua"
+description: "Un enorme moto vivente che si abbatte sugli nemici."
+tier: "3"
+ruolo: "Supporto"
+difficolta: "17"
+hp: "5"
+stress: "5"
+soglia_danni: "17/34"
+attacchi:
+  - name: "Onda Schiantante"
+    desc: "**+3** | Molto Vicina | **3d4+1** magico"
+capacita_speciali:
+  - name: "Getto d'Acqua"
+    desc: "*- Azione:* Segnare uno Stress per attaccare un bersaglio a portata Molto Vicina. In caso di successo, infliggi 2d4+7 danni fisici e l'azione successiva del bersaglio ha svantaggio. In caso di fallimento, il bersaglio deve segnare uno Stress."
+  - name: "Abbraccio dell'Annegamento"
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco contro tutti i bersagli a portata Molto Vicina. I bersagli colpiti diventano Ristretti e Vulnerabili mentre iniziano ad affogare. Un bersaglio può liberarsi, terminando entrambe le condizioni, con un tiro di Forza o Istinto riuscito."
+  - name: "Marea Alta"
+    desc: "*- Reazione:* Quando l'Elementale effettua un attacco standard riuscito, puoi segnare uno Stress per spingere il bersaglio indietro a portata Vicina."
+```

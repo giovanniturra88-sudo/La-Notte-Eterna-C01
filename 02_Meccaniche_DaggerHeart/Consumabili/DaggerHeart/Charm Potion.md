@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Charm Potion
+# Pozione di Incanto
 
-You gain a +1 bonus to your next Presence Roll.
+Ottieni un bonus di +1 al tuo prossimo Tiro di Presenza.

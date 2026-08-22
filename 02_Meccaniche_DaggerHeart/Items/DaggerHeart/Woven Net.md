@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Woven Net
+# Rete Intrecciata
 
 **_Item_**
 
-You can make a Finesse Roll using this net to trap a small creature. A trapped target can break free with a successful Attack Roll (16).
+Puoi effettuare un Tiro di Finezza usando questa rete per intrappolare una piccola creatura. Un bersaglio intrappolato può liberarsi con un Tiro di Attacco riuscito (16).

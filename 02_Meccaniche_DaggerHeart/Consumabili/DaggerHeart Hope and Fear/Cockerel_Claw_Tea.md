@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 39
 ---
 
-# Cockerel Claw Tea
+# Tè della Zampa del Gallo
 
-You can drink this tea to refresh your features as if you had taken a long rest.
+Puoi bere questo tè per rinfrescare le tue caratteristiche come se avessi effettuato un riposo lungo.

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Infinite Bag
+# Sacca Infinita
 
 **_Item_**
 
-When you store items in this bag, they are kept in a pocket dimension that never runs out of space. You can retrieve an item at any time.
+Quando conservi oggetti in questa sacca, vengono custoditi in una dimensione tascabile che non finisce mai lo spazio. Puoi recuperare un oggetto in qualsiasi momento.

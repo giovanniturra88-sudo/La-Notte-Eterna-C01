@@ -1,21 +1,46 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Furtivo]]"
 ---
 
-**_Tier 1 [[Furtivo]]._** _Un mucchio mobile di melma traslucida verde._
+## Melma Verde
+* **Descrizione:** Un mucchio mobile di melma traslucida verde.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 8
+* **Soglie di Danno:** 5/10
+* **Punti Ferita:** 5 | **Stress:** 2
+* **Esperienza:** Camuffamento +3
+* **Attacchi:**
+  * **Appendice di Melma:** +1 | Da Vicino | 1d6+1 magico
+* **Tratti e Capacità:**
+  * **Lento - Passiva:** Quando metti a fuoco la Melma e non ha un gettone sul suo blocco statistiche, non può agire ancora. Metti un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco la Melma e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire.
+  * **Forma Acida - Passiva:** Quando la Melma effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF aggiuntivo.
+  * **Avvolgimento - Azione:** Effettua un attacco standard contro una vittima in portata Da Vicino. In caso di successo, la Melma la avvolge e la vittima deve segnare 2 Stress. La vittima deve segnare uno Stress aggiuntivo quando effettua un tiro d'azione. Se la Melma subisce danni Gravi, la vittima è liberata.
+  * **Divisione - Reazione:** Quando la Melma ha 3 o più PF segnati, puoi **Spendere una Paura** per dividerla in due Melme Verdi Piccole (senza PF o Stress segnati). Metti immediatamente a fuoco entrambe.
 
-- **Motivi e Tattiche:** Camuffamento, consumare e moltiplicarsi, avvicinarsi furtivamente, avvolgere
-- **Difficoltà:** 8 | **Soglie:** 5/10 | **PF:** 5 | **Stress:** 2
-- **ATT:** +1 | **Appendice di Melma:** Mischia | 1d6+1 mag
-- **Esperienza:** Camuffamento +3
-
-### CARATTERISTICHE
-
-**_Lento - Passivo:_** Quando metti in evidenza la Melma e non hanno un gettone sul loro blocco statistiche, non possono agire ancora. Metti un gettone sul loro blocco statistiche e descrivi cosa stanno preparando di fare. Quando metti in evidenza la Melma e hanno un gettone sul loro blocco statistiche, rimuovi il gettone e possono agire.
-
-**_Forma Acida - Passivo:_** Quando la Melma effettua un attacco riuscito, la vittima deve segnare una casella di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre il danno). Se non possono segnare una casella di Armatura, devono segnare un PF aggiuntivo.
-
-**_Avvolgimento - Azione:_** Effettua un attacco standard contro una vittima entro portata di mischia. In caso di successo, la Melma li avvolge e la vittima deve segnare 2 Stress. La vittima deve segnare uno Stress aggiuntivo quando effettua un tiro d'azione. Se la Melma subisce danni gravi, la vittima è liberata.
-
-**_Divisione - Reazione:_** Quando la Melma ha 3 o più PF segnati, puoi **spendere una Paura** per dividerla in due Melme Verdi Piccole (senza PF o Stress segnati). Metti immediatamente in evidenza entrambe.
+```statblock
+layout: DaggerHeart Nemici
+name: "Melma Verde"
+description: "Un mucchio mobile di melma traslucida verde."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "8"
+hp: "5"
+stress: "2"
+esperienza: "Camuffamento +3"
+soglia_danni: "5/10"
+attacchi:
+  - name: "Appendice di Melma"
+    desc: "**+1** | Da Vicino | **1d6+1** magico"
+tratti:
+  - name: "Lento"
+    desc: "*- Passiva:* Quando metti a fuoco la Melma e non ha un gettone sul suo blocco statistiche, non può agire ancora. Metti un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco la Melma e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire."
+  - name: "Forma Acida"
+    desc: "*- Passiva:* Quando la Melma effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF aggiuntivo."
+capacita_speciali:
+  - name: "Avvolgimento"
+    desc: "*- Azione:* Effettua un attacco standard contro una vittima in portata Da Vicino. In caso di successo, la Melma la avvolge e la vittima deve segnare 2 Stress. La vittima deve segnare uno Stress aggiuntivo quando effettua un tiro d'azione. Se la Melma subisce danni Gravi, la vittima è liberata."
+  - name: "Divisione"
+    desc: "*- Reazione:* Quando la Melma ha 3 o più PF segnati, puoi Spendere una Paura per dividerla in due Melme Verdi Piccole (senza PF o Stress segnati). Metti immediatamente a fuoco entrambe."
+```

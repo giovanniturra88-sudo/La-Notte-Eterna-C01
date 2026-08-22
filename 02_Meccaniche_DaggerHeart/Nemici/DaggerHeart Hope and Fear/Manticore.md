@@ -4,19 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Manticore
-*Tier 3 Solo*
-*A legendary beast that has a human's face, lion's body, scorpion's tail, and dragon's wings.*
+## Mantica
+* **Descrizione:** Una bestia leggendaria che ha il volto di un essere umano, il corpo di un leone, la coda di uno scorpione e le ali di un drago.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 20/35
+* **Punti Ferita:** 12 | **Stress:** 6
+* **Esperienza:** Crescita +3, Enigmi +3
+* **Attacchi:**
+  * **Denti e Artigli:** +6 | Molto Vicina | 3d12+6 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** La Mantica può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Enigma per Me - Passiva:** La Mantica è ossessionata dai puzzle e può essere distratta da indovinelli, giochi di parole o altre distrazioni semi-intellettuali.
+  * **Alata - Passiva:** Mentre è in volo, la Mantica guadagna un bonus di +2 alla sua Difficoltà e ai tiri d'attacco.
+  * **Attacco in Tuffo - Azione:** Spendere una Paura per far tuffare la Mantica in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 3d20+6 danni fisici e il bersaglio diventa *Tremante* finché non spende una Speranza. Mentre è *Tremante*, il bersaglio effettua i tiri d'attacco con lo svantaggio.
+  * **Aculeo Paralizzante - Azione:** Segnare uno Stress per effettuare un tiro d'attacco contro un bersaglio entro portata Vicina. In caso di successo, il bersaglio subisce 3d8 danni fisici e diventa *Ristretto* finché non supera la tossina con un Tiro di Forza riuscito.
+  * **Mascelle Bloccanti - Reazione:** Quando la Mantica riesce su un attacco standard contro un bersaglio entro portata Da Vicino, puoi segnare uno Stress per bloccare le sue mascelle sul bersaglio, rendendolo *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza riuscito (19).
 
-**Motives & Tactics:** Bite, claw, pounce, riddle, swipe, swoop, trick
-**Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6
-**ATK:** +6 | **Teeth & Claws:** Very Close | 3d12+6 phy
-**Experience:** Overgrowth +3, Riddles +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Manticore can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Riddle Me This - Passive:** The Manticore is obsessed with puzzles and can be distracted by brain teasers, word games, or other semi-intellectual diversions.
-* **Winged - Passive:** While airborne, the Manticore gains a +2 bonus to their Difficulty and attack rolls.
-* **Pouncing Attack - Action:** Spend a Fear to have the Manticore pounce into Melee range of a target within Far range and make an attack against them. On a success, deal 3d20+6 physical damage, and the target becomes *Shaky* until they spend a Hope. While *Shaky*, the target makes attack rolls with disadvantage.
-* **Paralyzing Tail Spike - Action:** Mark a Stress to make an attack roll against a target within Close range. On a success, the target takes 3d8 physical damage and becomes *Restrained* until they overcome the toxin with a successful Strength Roll.
-* **Locking Jaws - Reaction:** When the Manticore succeeds on a standard attack against a target within Melee range, you can mark a Stress to lock their jaws onto the target, making the target *Restrained* and *Vulnerable* until they escape with a successful Strength Roll (19).
+```statblock
+layout: DaggerHeart Nemici
+name: "Mantica"
+description: "Una bestia leggendaria che ha il volto di un essere umano, il corpo di un leone, la coda di uno scorpione e le ali di un drago."
+tier: "3"
+ruolo: "Solo"
+difficolta: "17"
+hp: "12"
+stress: "6"
+esperienza: "Crescita +3, Enigmi +3"
+soglia_danni: "20/35"
+attacchi:
+  - name: "Denti e Artigli"
+    desc: "**+6** | Molto Vicina | **3d12+6** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* La Mantica può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Enigma per Me"
+    desc: "*- Passiva:* La Mantica è ossessionata dai puzzle e può essere distratta da indovinelli, giochi di parole o altre distrazioni semi-intellettuali."
+  - name: "Alata"
+    desc: "*- Passiva:* Mentre è in volo, la Mantica guadagna un bonus di +2 alla sua Difficoltà e ai tiri d'attacco."
+capacita_speciali:
+  - name: "Attacco in Tuffo"
+    desc: "*- Azione:* Spendere una Paura per far tuffare la Mantica in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 3d20+6 danni fisici e il bersaglio diventa *Tremante* finché non spende una Speranza. Mentre è *Tremante*, il bersaglio effettua i tiri d'attacco con lo svantaggio."
+  - name: "Aculeo Paralizzante"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un tiro d'attacco contro un bersaglio entro portata Vicina. In caso di successo, il bersaglio subisce 3d8 danni fisici e diventa *Ristretto* finché non supera la tossina con un Tiro di Forza riuscito."
+  - name: "Mascelle Bloccanti"
+    desc: "*- Reazione:* Quando la Mantica riesce su un attacco standard contro un bersaglio entro portata Da Vicino, puoi segnare uno Stress per bloccare le sue mascelle sul bersaglio, rendendolo *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza riuscito (19)."
+```

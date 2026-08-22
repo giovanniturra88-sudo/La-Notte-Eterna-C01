@@ -1,17 +1,40 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
-**_Tier 1 [[Standard]]._** _Un combattente agile armato di giavellotti._
+## Devastatore
+* **Descrizione:** Un combattente agile armato di giavellotti.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 5/9
+* **Punti Ferita:** 3 | **Stress:** 3
+* **Esperienza:** Camuffamento +2
+* **Attacchi:**
+  * **Giavellotto:** +1 | Vicina | 1d6+2 fisico
+* **Tratti e Capacità:**
+  * **Mantieni Distanza - Passiva:** Dopo aver effettuato un attacco standard, il Devastatore può muoversi ovunque entro portata Lontana.
+  * **Ritirata - Reazione:** Quando una creatura entra in portata Da Vicino per effettuare un attacco, puoi **segnare uno Stress** prima del tiro d'attacco per muoverti ovunque entro portata Vicina ed effettuare un attacco contro quella creatura. In caso di successo, infliggi **1d10+2** danni fisici.
 
-- **Motivi e Tattiche:** Flank, harry, kite, profit
-- **Difficoltà:** 12 | **Soglie:** 5/9 | **PF:** 3 | **Stress:** 3
-- **ATT:** +1 | **Giavellotto:** Distanza Vicina | 1d6+2 fis
-- **Esperienza:** Camuffamento +2
-
-### CARATTERISTICHE
-
-**_Mantieni Distanza - Passiva:_** Dopo aver effettuato un attacco standard, l'Harrier può muoversi ovunque entro la distanza Lontana.
-
-**_Ritirata - Reazione:_** Quando una creatura entra nell'area di mischia per effettuare un attacco, puoi **segna uno Stress** prima del tiro d'attacco per muoverti ovunque entro la distanza Vicina e effettuare un attacco contro quella creatura. In caso di successo, infliggi **1d10+2** danni fisici.
+```statblock
+layout: DaggerHeart Nemici
+name: "Devastatore"
+description: "Un combattente agile armato di giavellotti."
+tier: "1"
+ruolo: "Standard"
+difficolta: "12"
+hp: "3"
+stress: "3"
+esperienza: "Camuffamento +2"
+soglia_danni: "5/9"
+attacchi:
+  - name: "Giavellotto"
+    desc: "**+1** | Vicina | **1d6+2** fisico"
+tratti:
+  - name: "Mantieni Distanza"
+    desc: "*- Passiva:* Dopo aver effettuato un attacco standard, il Devastatore può muoversi ovunque entro portata Lontana."
+capacita_speciali:
+  - name: "Ritirata"
+    desc: "*- Reazione:* Quando una creatura entra in portata Da Vicino per effettuare un attacco, puoi segnare uno Stress prima del tiro d'attacco per muoverti ovunque entro portata Vicina ed effettuare un attacco contro quella creatura. In caso di successo, infliggi 1d10+2 danni fisici."
+```

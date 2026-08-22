@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Channelstone
+# Pietra del Canale
 
-You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault.
+Puoi usare questa pietra per prendere un incantesimo o un grimorio dal tuo archivio, usarlo una volta e restituirlo al tuo archivio.

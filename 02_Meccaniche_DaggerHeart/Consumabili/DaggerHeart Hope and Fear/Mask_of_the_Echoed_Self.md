@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 54
 ---
 
-# Mask of the Echoed Self
+# Maschera dell'Io Riflesso
 
-You can wear this mask during your next level up to swap the values of any of your traits. When you do, the mask becomes your permanent face.
+Puoi indossare questa maschera durante il tuo prossimo aumento di livello per scambiare i valori di qualsiasi tua caratteristica. Quando lo fai, la maschera diventa il tuo volto permanente.

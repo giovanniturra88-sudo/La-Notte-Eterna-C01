@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 31
 ---
 
-# Moonlight Orb
+# Sfera di Luna
 
-You can shatter this orb to make the area within Very Far range appear as though it's moonlit nighttime for the next 24 hours.
+Puoi frantumare questa sfera per far sì che l'area entro gittata Molto Lontana appaia come una notte illuminata dalla luna per le prossime 24 ore.

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Lakestrider Boots
+# Stivali del Camminatore del Lago
 
 **_Item_**
 
-You can walk on the surface of water as if it were soft ground.
+Puoi camminare sulla superficie dell'acqua come se fosse terreno morbido.

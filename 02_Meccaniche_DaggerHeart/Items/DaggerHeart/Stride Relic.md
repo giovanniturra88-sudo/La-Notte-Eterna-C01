@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Stride Relic
+# Reliquia del Passo
 
 **_Item_**
 
-You gain a +1 bonus to your Agility. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Agilità. Puoi trasportare una sola reliquia.

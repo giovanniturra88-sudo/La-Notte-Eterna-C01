@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 2
 ---
 
-# Grapnel
+# Rampino
 
-You gain advantage on action rolls to climb sheer surfaces.
+Ottieni vantaggio sui tiri di azione per scalare superfici a strapiombo.

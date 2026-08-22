@@ -4,21 +4,43 @@ type:
   - "[[a Distanza]]"
 ---
 
-# Centaur Warden
-**Tier 2 Ranged**
+## Centauro Guardiano
+* **Descrizione:** Un guardiano metà umano e metà cavallo, che pattuglia i confini di terre idilliache non corrotte dal tocco della civiltà.
+* **Tier:** 2 (a Distanza)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 10/19
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Natura +2, Filosofia +2
+* **Attacchi:**
+  * **Arco Ricurvo:** +2 | Lontano | 2d8+4 fisico
+* **Tratti e Capacità:**
+  * **Manovra di Flanco - Passiva:** Quando il Guardiano effettua un attacco standard contro un bersaglio entro portata Da Vicino di uno o più alleati del Guardiano, quest'ultimo guadagna un bonus di +2 al tiro d'attacco.
+  * **Occhio del Saggio - Azione:** Segnare uno Stress per effettuare un attacco standard. Il Guardiano ha vantaggio sul tiro d'attacco e ottiene un successo critico con un risultato di 19-20.
+  * **Calpestare - Azione:** Spendere una Paura per far galoppare il Guardiano fino a portata Lontana in linea retta. Ogni bersaglio sul suo percorso deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono subiscono 1d6+2 danni fisici. I bersagli che falliscono subiscono il doppio dei danni e devono segnare uno Stress.
+  * **Volley Rapido - Reazione:** Quando il Guardiano effettua un attacco standard, puoi segnare qualsiasi numero di Stress per bersagliare lo stesso numero di creature aggiuntive entro portata.
 
-*A half-human, half-horse guardian who patrols the borders of idyllic lands uncorrupted by the touch of civilization.*
-
-* **Motives & Tactics:** Live in harmony with nature, protect the wilderness, use mobility and distance to drive off intruders
-* **Difficulty:** 14
-* **Thresholds:** 10/19
-* **HP:** 5
-* **Stress:** 3
-* **ATK:** +2 | Recurved Bow: Far | 2d8+4 phy
-* **Experience:** Nature +2, Philosophy +2
-
-## FEATURES
-* **Flanking Maneuver - Passive:** When the Warden makes a standard attack against a target within Melee range of one or more of the Warden's allies, the Warden gains a +2 bonus to the attack roll.
-* **Eye of the Sage - Action:** Mark a Stress to make a standard attack. The Warden has advantage on the attack roll and critically succeeds on a roll of 19-20.
-* **Trample - Action:** Spend a Fear to have the Warden gallop up to Far range in a straight line. Each target in their path must make an Agility Reaction Roll. Targets who succeed take 1d6+2 physical damage. Targets who fail take double damage and must mark a Stress.
-* **Quick Volley - Reaction:** When the Warden makes a standard attack, you can mark any number of Stress to target an equal number of additional creatures within range.
+```statblock
+layout: DaggerHeart Nemici
+name: "Centauro Guardiano"
+description: "Un guardiano metà umano e metà cavallo, che pattuglia i confini di terre idilliache non corrotte dal tocco della civiltà."
+tier: "2"
+ruolo: "a Distanza"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Natura +2, Filosofia +2"
+soglia_danni: "10/19"
+attacchi:
+  - name: "Arco Ricurvo"
+    desc: "**+2** | Lontano | **2d8+4** fisico"
+tratti:
+  - name: "Manovra di Flanco"
+    desc: "*- Passiva:* Quando il Guardiano effettua un attacco standard contro un bersaglio entro portata Da Vicino di uno o più alleati del Guardiano, quest'ultimo guadagna un bonus di +2 al tiro d'attacco."
+capacita_speciali:
+  - name: "Occhio del Saggio"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard. Il Guardiano ha vantaggio sul tiro d'attacco e ottiene un successo critico con un risultato di 19-20."
+  - name: "Calpestare"
+    desc: "*- Azione:* Spendere una Paura per far galoppare il Guardiano fino a portata Lontana in linea retta. Ogni bersaglio sul suo percorso deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono subiscono 1d6+2 danni fisici. I bersagli che falliscono subiscono il doppio dei danni e devono segnare uno Stress."
+  - name: "Volley Rapido"
+    desc: "*- Reazione:* Quando il Guardiano effettua un attacco standard, puoi segnare qualsiasi numero di Stress per bersagliare lo stesso numero di creature aggiuntive entro portata."
+```

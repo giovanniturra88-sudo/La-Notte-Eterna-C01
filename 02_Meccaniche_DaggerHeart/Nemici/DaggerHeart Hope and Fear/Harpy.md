@@ -4,19 +4,37 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Harpy
-**Tier 1 Skulk**
+## Arpia
+* **Descrizione:** Un uccello feroce e dal fetore nauseante, con un'apertura alare di otto piedi e il busto e il volto di un essere umano.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 3/7
+* **Punti Ferita:** 3 | **Stress:** 3
+* **Esperienza:** Isole +3
+* **Attacchi:**
+  * **Artigli:** +0 | Da Vicino | 1d8+1 fisico
+* **Tratti e Capacità:**
+  * **Aurea Tossica - Passiva:** L'Arpia emana un fetore nauseante che rende *Vulnerabili* tutti i non-Arpie entro portata Molto Vicina.
+  * **Attacco in Tuffo - Azione:** Segnare uno Stress per far muovere l'Arpia in linea retta verso un punto entro portata Lontana ed effettuare un attacco contro un bersaglio lungo il suo percorso. In caso di successo, l'Arpia infligge 3d6 danni fisici.
 
-*A fierce and foul-smelling bird with an eight-foot wingspan and the upper body and face of a human.*
-
-* **Motives & Tactics:** Defend nest, drop enemies from a great height, maraud from the air, screech incessantly
-* **Difficulty:** 12
-* **Thresholds:** 3/7
-* **HP:** 3
-* **Stress:** 3
-* **ATK:** +0 | Talons: Melee | 1d8+1 phy
-* **Experience:** Islands +3
-
-## FEATURES
-* **Toxic Aura - Passive:** The Harpy emits a foul stench that renders all non-Harpies Vulnerable while within Very Close range.
-* **Swooping Attack - Action:** Mark a Stress to have the Harpy move in a straight line to a point within Far range and make an attack against a target in the Harpy's path. On a success, the Harpy deals 3d6 physical damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Arpia"
+description: "Un uccello feroce e dal fetore nauseante, con un'apertura alare di otto piedi e il busto e il volto di un essere umano."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "12"
+hp: "3"
+stress: "3"
+esperienza: "Isole +3"
+soglia_danni: "3/7"
+attacchi:
+  - name: "Artigli"
+    desc: "**+0** | Da Vicino | **1d8+1** fisico"
+tratti:
+  - name: "Aurea Tossica"
+    desc: "*- Passiva:* L'Arpia emana un fetore nauseante che rende *Vulnerabili* tutti i non-Arpie entro portata Molto Vicina."
+capacita_speciali:
+  - name: "Attacco in Tuffo"
+    desc: "*- Azione:* Segnare uno Stress per far muovere l'Arpia in linea retta verso un punto entro portata Lontana ed effettuare un attacco contro un bersaglio lungo il suo percorso. In caso di successo, l'Arpia infligge 3d6 danni fisici."
+```

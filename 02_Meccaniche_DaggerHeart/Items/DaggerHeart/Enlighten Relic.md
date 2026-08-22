@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Enlighten Relic
+# Reliquia di Illuminazione
 
 **_Item_**
 
-You gain a +1 bonus to your Knowledge. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Conoscenza. Puoi trasportare una sola reliquia.

@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 9
 ---
 
-# Packet of Space Dust
+# Pacco di Polvere Spaziale
 
-This dust causes anything it covers to become lighter than air. One packet contains enough dust to cover the contents of a picnic basket, and the effects last for an hour.
+Questa polvere fa sì che qualsiasi cosa copra diventi più leggera dell'aria. Un pacco contiene polvere sufficiente a coprire il contenuto di un cesto da picnic, e gli effetti durano per un'ora.

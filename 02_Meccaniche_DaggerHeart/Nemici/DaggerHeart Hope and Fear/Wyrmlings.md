@@ -4,16 +4,40 @@ type:
   - "[[Orda]]"
 ---
 
-# Wyrmlings
-*Tier 4 Horde (3/HP)*
-*A clutch of newly hatched dragons. As newborns, they're furious, hungry, and stupid.*
+## Dracchini
+* **Descrizione:** Una covata di draghi appena nati. Come neonati, sono furiosi, affamati e stupidi.
+* **Tier:** 4 (Orda)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 25/45
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Legame Draconico +2
+* **Attacchi:**
+  * **Piccole Mascelle e Artigli:** +2 | Da Vicino | 4d6+10 fisico
+* **Tratti e Capacità:**
+  * **Orda (2d6+5) - Passiva:** Quando i Dracchini hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+5 danni fisici.
+  * **Vorace - Reazione:** Una volta per turno del GM, quando un PG segna un PF da un attacco effettuato dai Dracchini, puoi spendere una Paura per mettere di nuovo a fuoco i Dracchini.
+  * **Sovraccarico - Reazione:** Quando i Dracchini subiscono danni Minori da un attacco in portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante.
 
-**Motives & Tactics:** Consume, shred, swarm
-**Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5
-**ATK:** +2 | **Tiny Jaws & Claws:** Melee | 4d6+10 phy
-**Experience:** Dragon Bond +2
-
-## FEATURES
-* **Horde (2d6+5) - Passive:** When the Wyrmlings have marked half or more of their HP, their standard attack deals 2d6+5 physical damage instead.
-* **Ravenous - Reaction:** Once per GM turn when a PC marks a HP from an attack made by the Wyrmlings, you can spend a Fear to spotlight the Wyrmlings again.
-* **Overwhelm - Reaction:** When the Wyrmlings take Minor damage from an attack within Melee range, you can mark a Stress to make a standard attack with advantage against the attacker.
+```statblock
+layout: DaggerHeart Nemici
+name: "Dracchini"
+description: "Una covata di draghi appena nati. Come neonati, sono furiosi, affamati e stupidi."
+tier: "4"
+ruolo: "Orda"
+difficolta: "17"
+hp: "8"
+stress: "5"
+esperienza: "Legame Draconico +2"
+soglia_danni: "25/45"
+attacchi:
+  - name: "Piccole Mascelle e Artigli"
+    desc: "**+2** | Da Vicino | **4d6+10** fisico"
+tratti:
+  - name: "Orda (2d6+5)"
+    desc: "*- Passiva:* Quando i Dracchini hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+5 danni fisici."
+capacita_speciali:
+  - name: "Vorace"
+    desc: "*- Reazione:* Una volta per turno del GM, quando un PG segna un PF da un attacco effettuato dai Dracchini, puoi spendere una Paura per mettere di nuovo a fuoco i Dracchini."
+  - name: "Sovraccarico"
+    desc: "*- Reazione:* Quando i Dracchini subiscono danni Minori da un attacco in portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante."
+```

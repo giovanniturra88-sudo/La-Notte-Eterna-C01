@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Empty Chest
+# Cassa Vuota
 
 **_Item_**
 
-This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.
+Questa cassa magica sembra vuota. Quando pronunci una parola o un'azione innescante specifica e apri la cassa, puoi vedere gli oggetti conservati al suo interno.

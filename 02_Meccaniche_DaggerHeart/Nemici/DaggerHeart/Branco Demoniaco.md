@@ -4,17 +4,40 @@ type:
   - "[[Orda]]"
 ---
 
-**_Orda Tier 2 (1/HP)._** _Cani innaturali infiammati dall'interno dal fuoco dell'inferno._
+## Branco Demoniaco
+* **Descrizione:** Cani innaturali infiammati dall'interno dal fuoco dell'inferno.
+* **Tier:** 2 (Orda)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 11/23
+* **Punti Ferita:** 6 | **Stress:** 3
+* **Esperienza:** Tracciamento con il Fiuto +3
+* **Attacchi:**
+  * **Artigli e Zanne:** +0 | Da Vicino | 2d8+2 fisico
+* **Tratti e Capacità:**
+  * **Orda (2d4+1) - Passiva:** Quando il Branco ha segnato metà o più dei propri PF, il suo attacco standard infligge **2d4+1** danni fisici.
+  * **Urlo del Terrore - Azione:** **Segnare uno Stress** per far perdere a tutti i bersagli entro portata Molto Vicina una Speranza. Se un bersaglio non è in grado di perdere una Speranza, deve invece segnare 2 Stress.
+  * **Impeto - Reazione:** Quando il Branco effettua un attacco riuscito contro un PG, guadagni una Paura.
 
-- **Motivazioni e Tattiche:** Creano paura, consumano carne, compiacendo i loro padroni
-- **Difficoltà:** 15 | **Soglie:** 11/23 | **PF:** 6 | **Stress:** 3
-- **ATT:** +0 | **Artigli e Zanne:** Mischia | 2d8+2 fis
-- **Esperienza:** Tracciamento con il fiuto +3
-
-### CARATTERISTICHE
-
-**_Orda (2d4+1) - Passiva:_** Quando la Sciagnera ha segnato metà o più dei propri PF, il loro attacco standard infligge **2d4+1** danni fisici invece.
-
-**_Urlo del Terrore - Azione:_** **Segna uno Stress** per far perdere a tutti i bersagli nella zona Molto Vicina una Speranza. Se un bersaglio non è in grado di perdere una Speranza, deve invece segnare 2 Stress.
-
-**_Impeto - Reazione:_** Quando la Sciagnera effettua un attacco riuscito contro un PG, guadagni un Terrore.
+```statblock
+layout: DaggerHeart Nemici
+name: "Branco Demoniaco"
+description: "Cani innaturali infiammati dall'interno dal fuoco dell'inferno."
+tier: "2"
+ruolo: "Orda"
+difficolta: "15"
+hp: "6"
+stress: "3"
+esperienza: "Tracciamento con il Fiuto +3"
+soglia_danni: "11/23"
+attacchi:
+  - name: "Artigli e Zanne"
+    desc: "**+0** | Da Vicino | **2d8+2** fisico"
+tratti:
+  - name: "Orda (2d4+1)"
+    desc: "*- Passiva:* Quando il Branco ha segnato metà o più dei propri PF, il suo attacco standard infligge 2d4+1 danni fisici."
+capacita_speciali:
+  - name: "Urlo del Terrore"
+    desc: "*- Azione:* Segnare uno Stress per far perdere a tutti i bersagli entro portata Molto Vicina una Speranza. Se un bersaglio non è in grado di perdere una Speranza, deve invece segnare 2 Stress."
+  - name: "Impeto"
+    desc: "*- Reazione:* Quando il Branco effettua un attacco riuscito contro un PG, guadagni una Paura."
+```

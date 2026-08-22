@@ -4,16 +4,40 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Viscera Sucker
-*Tier 3 Skulk*
-*A vampiric demon whose upper body detaches at sundown to fly through nearby villages in search of victims. It has a winged upper body with hanging entrails.*
+## Sanguisuga delle Viscere
+* **Descrizione:** Un demone vampirico, la cui parte superiore del corpo si stacca al tramonto per volare attraverso i villaggi vicini in cerca di vittime. Ha una parte superiore alata con viscere pendenti.
+* **Tier:** 3 (Furtivo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 16/30
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Volo +3
+* **Attacchi:**
+  * **Unghie Lunghe:** +2 | Da Vicino | 2d6+7 fisico
+* **Tratti e Capacità:**
+  * **Unirsi o Morire - Passiva:** La Sanguisuga delle Viscere muore se non ha ricollegato le sue metà superiore e inferiore entro l'alba.
+  * **Viscere Intrappolanti - Azione:** Spendere una Paura per far sì che la Sanguisuga delle Viscere si aggrappi a un bersaglio entro portata Molto Vicina, rendendolo *Ristretto* finché non ne sfugge con un tiro di Forza riuscito (16).
+  * **Sanguisugamento - Azione:** Segnare uno Stress per far sì che la Sanguisuga delle Viscere beva sangue da un bersaglio *Ristretto* entro portata Da Vicino. Il bersaglio segna un PF, e la Sanguisuga delle Viscere rimuove un PF.
 
-**Motives & Tactics:** Clamp onto prey, suck blood, tear in half
-**Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
-**ATK:** +2 | **Long Nails:** Melee | 2d6+7 phy
-**Experience:** Flying +3
-
-## FEATURES
-* **Join or Die - Passive:** The Viscera Sucker dies if it hasn't reconnected its upper and lower halves by dawn.
-* **Entangling Entrails - Action:** Spend a Fear to have the Viscera Sucker latch onto a target within Very Close range, *Restraining* them until they escape with a successful Strength Roll (16).
-* **Lifesuck - Action:** Mark a Stress to have the Viscera Sucker drink blood from a *Restrained* target within Melee range. The target marks a HP, and the Viscera Sucker clears a HP.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sanguisuga delle Viscere"
+description: "Un demone vampirico, la cui parte superiore del corpo si stacca al tramonto per volare attraverso i villaggi vicini in cerca di vittime. Ha una parte superiore alata con viscere pendenti."
+tier: "3"
+ruolo: "Furtivo"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Volo +3"
+soglia_danni: "16/30"
+attacchi:
+  - name: "Unghie Lunghe"
+    desc: "**+2** | Da Vicino | **2d6+7** fisico"
+tratti:
+  - name: "Unirsi o Morire"
+    desc: "*- Passiva:* La Sanguisuga delle Viscere muore se non ha ricollegato le sue metà superiore e inferiore entro l'alba."
+capacita_speciali:
+  - name: "Viscere Intrappolanti"
+    desc: "*- Azione:* Spendere una Paura per far sì che la Sanguisuga delle Viscere si aggrappi a un bersaglio entro portata Molto Vicina, rendendolo Ristretto finché non ne sfugge con un tiro di Forza riuscito (16)."
+  - name: "Sanguisugamento"
+    desc: "*- Azione:* Segnare uno Stress per far sì che la Sanguisuga delle Viscere beva sangue da un bersaglio Ristretto entro portata Da Vicino. Il bersaglio segna un PF, e la Sanguisuga delle Viscere rimuove un PF."
+```

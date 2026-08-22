@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Ring of Resistance
+# Anello di Resistenza
 
 **_Item_**
 
-Once per long rest, you can activate this ring after a successful attack against you to halve the damage.
+Una volta per riposo lungo, puoi attivare questo anello dopo un attacco riuscito contro di te per dimezzare i danni.

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Manacles
+# Manette
 
 **_Item_**
 
-This pair of locking cuffs comes with a key.
+Questo paio di manette con serratura viene fornito con una chiave.

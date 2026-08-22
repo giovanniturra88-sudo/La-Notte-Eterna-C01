@@ -4,20 +4,40 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Bugbear
-**Tier 1 Bruiser**
+## Bugbear
+* **Descrizione:** Una grande creatura bipede, con un muso cornuto e pelame ruvido.
+* **Tier:** 1 (Picchiatore)
+* **Difficoltà:** 13
+* **Soglie di Danno:** 8/15
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Trappole +3
+* **Attacchi:**
+  * **Mazza Chiodata:** +1 | Molto Vicina | 1d8+6 fisico
+* **Tratti e Capacità:**
+  * **Sorpresa! - Passiva:** Se il Bugbear effettua il suo primo attacco in una scena prima di segnare PF o Stress, ha il vantaggio sull'attacco e infligge 1d8 danni aggiuntivi.
+  * **Brutale - Reazione:** Quando il Bugbear effettua un attacco standard riuscito, puoi segnare uno Stress per infliggere 1d6 danni aggiuntivi.
+  * **Cuore da Guerra - Reazione:** Quando una condizione dovrebbe essere imposta al Bugbear, puoi spendere una Paura per annullarla.
 
-*A large bipedal creature that has a tusked snout and coarse fur.*
-
-* **Motives & Tactics:** Ambush, bully, seek carnage and shiny things
-* **Difficulty:** 13
-* **Thresholds:** 8/15
-* **HP:** 5
-* **Stress:** 3
-* **ATK:** +1 | Spiked Mace: Very Close | 1d8+6 phy
-* **Experience:** Traps +3
-
-## FEATURES
-* **Surprise! - Passive:** If the Bugbear makes its first attack in a scene before it's marked HP or Stress, it has advantage on the attack and deals an extra 1d8 damage.
-* **Brutal - Reaction:** When the Bugbear makes a successful standard attack, you can mark a Stress to deal an extra 1d6 damage.
-* **Warheart - Reaction:** When a condition would be imposed on the Bugbear, you can spend a Fear to negate it.
+```statblock
+layout: DaggerHeart Nemici
+name: "Bugbear"
+description: "Una grande creatura bipede, con un muso cornuto e pelame ruvido."
+tier: "1"
+ruolo: "Picchiatore"
+difficolta: "13"
+hp: "5"
+stress: "3"
+esperienza: "Trappole +3"
+soglia_danni: "8/15"
+attacchi:
+  - name: "Mazza Chiodata"
+    desc: "**+1** | Molto Vicina | **1d8+6** fisico"
+tratti:
+  - name: "Sorpresa!"
+    desc: "*- Passiva:* Se il Bugbear effettua il suo primo attacco in una scena prima di segnare PF o Stress, ha il vantaggio sull'attacco e infligge 1d8 danni aggiuntivi."
+capacita_speciali:
+  - name: "Brutale"
+    desc: "*- Reazione:* Quando il Bugbear effettua un attacco standard riuscito, puoi segnare uno Stress per infliggere 1d6 danni aggiuntivi."
+  - name: "Cuore da Guerra"
+    desc: "*- Reazione:* Quando una condizione dovrebbe essere imposta al Bugbear, puoi spendere una Paura per annullarla."
+```

@@ -4,27 +4,51 @@ type:
   - "[[Solo]]"
 ---
 
-# Gobstalker
-- **Tipo / Ruolo:** Tier 2 Solo
-- **Descrizione:** A fleshy, floating ball of teeth that has numerous eyes and a bundle of questing mouth tentacles that shoot magic beams.
-- **Motivi & Tattiche:** Ambush rivals, seek riches, shoot beams
-- **Difficoltà:** 15
-- **Soglie (Thresholds):** 10 / 20
-- **Punti Ferita (HP):** 8
-- **Stress:** 6
-- **Attacco:** +2 | Mouth Tentacles: Very Close | 2d6+3 phy
-- **Esperienza:** Magic +3
+## Gobstalker
+* **Descrizione:** Una sfera carnosa e fluttuante di denti, con numerosi occhi e un fascio di tentacoli orali esploratori che scagliano raggi magici.
+* **Tier:** 2 (Solo)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 10/20
+* **Punti Ferita:** 8 | **Stress:** 6
+* **Esperienza:** Magia +3
+* **Attacchi:**
+  * **Tentacoli Orali:** +2 | Molto Vicina | 2d6+3 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Gobstalker può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Alitosi Anti-Mistica - Passiva:** L'alito fetido del Gobstalker crea una miasma invisibile che annulla la magia. Un attacco, un'abilità o un incantesimo che infligge danni magici o crea un effetto magico fallisce automaticamente se usato entro portata Vicina del Gobstalker.
+  * **Raggi dei Tentacoli - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Lontana. In caso di successo, tira un d8 per un attacco a raggio casuale o spendere una Paura per sceglierlo:
+    1. **Affascina.** Il Gobstalker *Affascina* il bersaglio. Mentre è *Affascinato*, il bersaglio vede il Gobstalker come un amico e non può attaccarlo. Inoltre, quando un PG tira con Paura, un PG *Affascinato* deve segnare uno Stress o attaccare un bersaglio scelto dal Gobstalker. Un PG *Affascinato* deve superare un Tiro di Istitinto (16) per rimuovere la condizione.
+    2. **Corrode.** Il bersaglio subisce 2d8 danni magici e deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni). Se non può, raddoppia i danni.
+    3. **Rovina.** Il bersaglio deve segnare tutti i PF, ma può spendere un numero qualsiasi di Speranze per ridurre il numero di PF segnati in questo modo di un importo pari.
+    4. **Ipnosi.** Il bersaglio cade in una *Trance Profonda* e non può agire se non per cercare di svegliarsi. Questa condizione dura finché il bersaglio subisce danni o si sveglia con un Tiro di Presenza riuscito (16).
+    5. **Paralizza.** Il bersaglio si gela sul posto, diventando *Vulnerabile* e *Ristretto* finché non segna 2 Stress.
+    6. **Brucia.** Il bersaglio subisce 2d8 danni magici diretti.
+    7. **Spaventa.** Il bersaglio è *Spaventato*. Mentre è *Spaventato*, il bersaglio non può compiere azioni diverse dalla fuga dalla battaglia o dal tentativo di scrollarsi di dosso il terrore. Inoltre, il bersaglio deve segnare uno Stress ogni volta che spendi una Paura. Il bersaglio può rimuovere la condizione con un Tiro di Presenza riuscito (16).
+    8. **Rallenta.** Il bersaglio diventa *Vulnerabile* e deve segnare uno Stress per muoversi finché non spende 2 Speranze.
+  * **Leccata della Sanguisuga - Reazione:** In caso di attacco standard riuscito, puoi spendere una Paura per rimuovere un numero di Stress pari al numero di PF segnati dal bersaglio.
 
-**Tratti (Features):**
-* **Relentless (3) - Passive:** The Gobstalker can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Anti-Mystical Halitosis - Passive:** The Gobstalker's rancid breath creates an invisible, magic-negating miasma. An attack, an ability, or a spell that deals magic damage or creates a magic effect fails automatically if used within Close range of the Gobstalker.
-* **Tentacle Rays - Action:** Mark a Stress to attack a target within Far range. On a success, roll a d8 for a random beam attack or spend a Fear to choose instead:
-  1. **Beguile.** The Gobstalker Beguiles the target. While Beguiled, the target sees the Gobstalker as a friend and can't attack it. Additionally, when a PC rolls with Fear, a Beguiled PC must mark a Stress or attack a target chosen by the Gobstalker. A Beguiled PC must succeed on an Instinct Roll (16) to clear the condition.
-  2. **Corrode.** The target takes 2d8 magic damage and must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can't, double the damage.
-  3. **Doom.** The target must mark all HP, but they can spend any number of Hope to reduce the number of HP marked this way by an equal amount.
-  4. **Hypnosis.** The target falls into a *Deep Trance* and can't act except to try to wake up. This condition lasts until the target takes damage or wakes up with a successful Presence Roll (16).
-  5. **Paralyze.** The target freezes in place, becoming Vulnerable and Restrained until they mark 2 Stress.
-  6. **Sear.** The target takes 2d8 direct magic damage.
-  7. **Scare.** The target is Scared. While Scared, the target can't take actions other than fleeing the battle or trying to shake off their terror. Additionally, the target must mark a Stress whenever you spend a Fear. The target can clear the condition with a successful Presence Roll (16).
-  8. **Slow.** The target becomes Vulnerable and must mark a Stress to move until they spend 2 Hope.
-* **Leech Lick - Reaction:** On a successful standard attack, you can spend a Fear to clear a number of Stress equal to the number of HP the target marked.
+```statblock
+layout: DaggerHeart Nemici
+name: "Gobstalker"
+description: "Una sfera carnosa e fluttuante di denti, con numerosi occhi e un fascio di tentacoli orali esploratori che scagliano raggi magici."
+tier: "2"
+ruolo: "Solo"
+difficolta: "15"
+hp: "8"
+stress: "6"
+esperienza: "Magia +3"
+soglia_danni: "10/20"
+attacchi:
+  - name: "Tentacoli Orali"
+    desc: "**+2** | Molto Vicina | **2d6+3** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Gobstalker può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Alitosi Anti-Mistica"
+    desc: "*- Passiva:* L'alito fetido del Gobstalker crea una miasma invisibile che annulla la magia. Un attacco, un'abilità o un incantesimo che infligge danni magici o crea un effetto magico fallisce automaticamente se usato entro portata Vicina del Gobstalker."
+capacita_speciali:
+  - name: "Raggi dei Tentacoli"
+    desc: "*- Azione:* Segnare uno Stress per attaccare un bersaglio entro portata Lontana. In caso di successo, tira un d8 per un attacco a raggio casuale o spendere una Paura per sceglierlo: 1. Affascina. 2. Corrode. 3. Rovina. 4. Ipnosi. 5. Paralizza. 6. Brucia. 7. Spaventa. 8. Rallenta (vedi descrizione completa nel corpo del file)."
+  - name: "Leccata della Sanguisuga"
+    desc: "*- Reazione:* In caso di attacco standard riuscito, puoi spendere una Paura per rimuovere un numero di Stress pari al numero di PF segnati dal bersaglio."
+```

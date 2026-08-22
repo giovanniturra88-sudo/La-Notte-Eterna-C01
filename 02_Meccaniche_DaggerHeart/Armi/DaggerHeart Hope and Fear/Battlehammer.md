@@ -12,8 +12,8 @@ tier: 3
 ruolo: "primaria"
 ---
 
-### BATTLEHAMMER
+### Martello da Guerra
 
-**_Shattering: On a critical hit, the target also drops their equipped weapon_**
+**_Frantumante: Con un successo critico, il bersaglio lascia cadere la sua arma equipaggiata_**
 
 ---

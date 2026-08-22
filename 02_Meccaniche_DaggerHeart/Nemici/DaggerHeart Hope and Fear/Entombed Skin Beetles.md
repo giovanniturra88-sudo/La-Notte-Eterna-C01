@@ -4,18 +4,40 @@ type:
   - "[[Orda]]"
 ---
 
-# Entombed Skin Beetles
-- **Tipo / Ruolo:** Tier 2 Horde (5/HP)
-- **Descrizione:** Flesh-eating beetles that burrow beneath the skin.
-- **Motivi & Tattiche:** Carpet the ground, consume the living, crawl under clothing
-- **Difficoltà:** 14
-- **Soglie (Thresholds):** 10 / 20
-- **Punti Ferita (HP):** 5
-- **Stress:** 3
-- **Attacco:** +0 | Pincers: Melee | 2d8+2 phy
-- **Esperienza:** Tombs +3
+## Scarabei della Pelle Sepolti
+* **Descrizione:** Scarabei carnivori che si infossano sotto la pelle.
+* **Tier:** 2 (Orda, 5 PF)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 10/20
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Tombe +3
+* **Attacchi:**
+  * **Pinze:** +0 | Da Vicino | 2d8+2 fisico
+* **Tratti e Capacità:**
+  * **Orda (2d4+1) - Passiva:** Quando gli Scarabei hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d4+1 danni fisici.
+  * **Omofoago - Azione:** Segnare un PF per far infossare 5 Scarabei sotto la pelle di un PG entro portata Da Vicino, costringendolo a segnare uno Stress e *Infettandolo*. Mentre è *Infettato*, il bersaglio subisce 6 danni fisici diretti ogni volta che tira con Paura. Questa condizione viene rimossa quando il PG rimuove un PF o uno Stress.
+  * **Slancio - Reazione:** Quando gli Scarabei effettuano un attacco riuscito contro un PG, guadagni una Paura.
 
-**Tratti (Features):**
-* **Horde (2d4+1) - Passive:** When the Beetles have marked half or more of their HP, their standard attack deals 2d4+1 physical damage instead.
-* **Omophagous - Action:** Mark a HP to have 5 Beetles burrow under the skin of a PC within Melee range, forcing them to mark a Stress and Infecting them. While Infected, the target takes 6 direct physical damage every time they roll with Fear. This condition is cleared when the PC clears a HP or a Stress.
-* **Momentum - Reaction:** When the Beetles make a successful attack against a PC, you gain a Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Scarabei della Pelle Sepolti"
+description: "Scarabei carnivori che si infossano sotto la pelle."
+tier: "2"
+ruolo: "Orda"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Tombe +3"
+soglia_danni: "10/20"
+attacchi:
+  - name: "Pinze"
+    desc: "**+0** | Da Vicino | **2d8+2** fisico"
+tratti:
+  - name: "Orda (2d4+1)"
+    desc: "*- Passiva:* Quando gli Scarabei hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d4+1 danni fisici."
+capacita_speciali:
+  - name: "Omofoago"
+    desc: "*- Azione:* Segnare un PF per far infossare 5 Scarabei sotto la pelle di un PG entro portata Da Vicino, costringendolo a segnare uno Stress e *Infettandolo*. Mentre è *Infettato*, il bersaglio subisce 6 danni fisici diretti ogni volta che tira con Paura. Questa condizione viene rimossa quando il PG rimuove un PF o uno Stress."
+  - name: "Slancio"
+    desc: "*- Reazione:* Quando gli Scarabei effettuano un attacco riuscito contro un PG, guadagni una Paura."
+```

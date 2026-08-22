@@ -4,16 +4,40 @@ type:
   - "[[Minion]]"
 ---
 
-# Wyrmfiend
-*Tier 4 Minion*
-*A reptilian biped created by mysterious and ancient dragon magic. Wyrmfiends exist more as extensions of their draconic master's will than as individual beings.*
+## Wyrmfiend
+* **Descrizione:** Un bipede rettile, creato da magia draconica misteriosa e antica. I Wyrmfiend esistono più come estensioni della volontà del loro maestro draconico che come esseri individuali.
+* **Tier:** 4 (Minion)
+* **Difficoltà:** 17
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Legame Draconico +2
+* **Attacchi:**
+  * **Armi dal Tesoro:** +3 | Da Vicino | 11 fisico
+* **Tratti e Capacità:**
+  * **Minion (13) - Passiva:** Il Wyrmfiend viene sconfitto quando subisce qualsiasi danno. Per ogni 13 danni che un PG infligge al Wyrmfiend, il PG sconfigge un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe successo.
+  * **Morso Velenoso - Azione:** Spendere una Paura per effettuare un attacco contro un PG in portata Da Vicino. In caso di successo, infliggi 4d4+4 danni fisici e *Avvelena* il bersaglio finché non supera un tiro di Forza (20). Mentre è *Avvelenato*, il bersaglio deve tirare un d6 prima di effettuare un tiro d'azione. Su un risultato di 4 o inferiore, il bersaglio deve segnare uno Stress.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Wyrmfiend entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 11 danni fisici ciascuno. Combina questi danni.
 
-**Motives & Tactics:** Hold the line, sacrifice, serve, swarm
-**Difficulty:** 17 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-**ATK:** +3 | **Weapons from the Hoard:** Melee | 11 phy
-**Experience:** Dragon Bond +2
-
-## FEATURES
-* **Minion (13) - Passive:** The Wyrmfiend is defeated when it takes any damage. For every 13 damage a PC deals to the Wyrmfiend, the PC defeats an additional Minion within range the attack would succeed against.
-* **Venomous Bite - Action:** Spend a Fear to make an attack against a PC within Melee range. On a success, deal 4d4+4 physical damage and *Poison* the target until they succeed on a Strength Roll (20). While *Poisoned*, the target must roll a d6 before they make an action roll. On a result of 4 or lower, the target must mark a Stress.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Wyrmfiends within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 11 physical damage each. Combine this damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Wyrmfiend"
+description: "Un bipede rettile, creato da magia draconica misteriosa e antica. I Wyrmfiend esistono più come estensioni della volontà del loro maestro draconico che come esseri individuali."
+tier: "4"
+ruolo: "Minion"
+difficolta: "17"
+hp: "1"
+stress: "1"
+esperienza: "Legame Draconico +2"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Armi dal Tesoro"
+    desc: "**+3** | Da Vicino | **11** fisico"
+tratti:
+  - name: "Minion (13)"
+    desc: "*- Passiva:* Il Wyrmfiend viene sconfitto quando subisce qualsiasi danno. Per ogni 13 danni che un PG infligge al Wyrmfiend, il PG sconfigge un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe successo."
+capacita_speciali:
+  - name: "Morso Velenoso"
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco contro un PG in portata Da Vicino. In caso di successo, infliggi 4d4+4 danni fisici e Avvelena il bersaglio finché non supera un tiro di Forza (20). Mentre è Avvelenato, il bersaglio deve tirare un d6 prima di effettuare un tiro d'azione. Su un risultato di 4 o inferiore, il bersaglio deve segnare uno Stress."
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Wyrmfiend entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 11 danni fisici ciascuno. Combina questi danni."
+```

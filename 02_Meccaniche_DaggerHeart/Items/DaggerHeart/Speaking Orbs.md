@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Speaking Orbs
+# Sfere Parlanti
 
 **_Item_**
 
-This pair of orbs allows any creatures holding them to communicate with each other across any distance.
+Questo paio di sfere permette a qualsiasi creatura che le tiene di comunicare tra loro a qualsiasi distanza.

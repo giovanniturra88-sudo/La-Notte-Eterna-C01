@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 32
 ---
 
-# Midas Flask
+# Fiaschetta di Midas
 
-You can pour this small flask of alchemical liquid over a mundane item to instantly transmute it into a handful of gold.
+Puoi versare questa piccola fiaschetta di liquido alchemico su un oggetto comune per tramutarlo istantaneamente in una manciata d'oro.

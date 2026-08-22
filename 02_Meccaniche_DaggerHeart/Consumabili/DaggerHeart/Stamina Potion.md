@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Stamina Potion
+# Pozione di Stamina
 
-Clear 1d4+1 Stress.
+Elimina 1d4+1 Stress.

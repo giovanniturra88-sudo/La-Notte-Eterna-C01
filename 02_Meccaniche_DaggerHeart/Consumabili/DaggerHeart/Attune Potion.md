@@ -1,6 +1,6 @@
 ---
 type: "[[Consumable]]"
 ---
-# Attune Potion
+# Pozione di Sintonia
 
-You gain a +1 bonus to your next Instinct Roll.
+Ottieni un bonus di +1 al tuo prossimo Tiro di Istinto.

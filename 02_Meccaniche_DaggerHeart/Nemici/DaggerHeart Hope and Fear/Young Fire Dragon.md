@@ -4,19 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Young Fire Dragon
-*Tier 3 Solo*
-*A crimson dragon with four powerful limbs and smoldering wings.*
+## Giovane Drago del Fuoco
+* **Descrizione:** Un drago cremisi, con quattro zampe potenti e ali fumeggianti.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 21/34
+* **Punti Ferita:** 10 | **Stress:** 6
+* **Esperienza:** Rabbia Ardente +3
+* **Attacchi:**
+  * **Morso e Artigli:** +7 | Vicina | 4d10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Intimidatorio - Passiva:** Quando spendi una Paura per mettere a fuoco il Drago, tutti i PG entro portata Vicina devono segnare uno Stress o perdere una Speranza.
+  * **Respiro di Fiamma - Azione:** Spendere una Paura per far sì che il Drago scateni un'esplosione di fiamme contro tutti i bersagli davanti a sé entro portata Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d8+3 danni magici. I bersagli che riescono devono segnare uno Stress o subire la metà dei danni. Un bersaglio che segna PF da questo attacco diventa anche *Vulnerabile* finché non rimuove un PF.
+  * **Eruzione - Azione:** Spendere una Paura per far sì che il Drago spacchi la terra con la coda, scatenando un'esplosione di lava. Scegli un punto entro portata Lontana. Ogni PG sulla linea tra il Drago e il punto scelto deve superare un Tiro di Reazione di Agilità o venire bruciato, diventando *Vulnerabile* finché non compie il suo prossimo riposo. Guadagni una Paura per ogni PG che fallisce.
+  * **Scaglie Ardenti - Reazione:** Quando una creatura entro portata Molto Vicina attacca il Drago, l'attaccante deve segnare uno Stress.
+  * **Taglio e Bruciatura - Reazione:** Quando il Drago effettua un attacco standard riuscito, guadagni una Paura e puoi segnare uno Stress per far sì che l'attacco infligga 10 danni magici in più.
 
-**Motives & Tactics:** Burn, defend lair, erupt, fly, shred, take
-**Difficulty:** 18 | **Thresholds:** 21/34 | **HP:** 10 | **Stress:** 6
-**ATK:** +7 | **Bite & Claws:** Close | 4d10 phy
-**Experience:** Burning Rage +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Intimidating - Passive:** When you spend a Fear to spotlight the Dragon, all PCs within Close range must mark a Stress or lose a Hope.
-* **Flame Breath - Action:** Spend a Fear to have the Dragon unleash a blast of flame against all targets in front of it within Close range. Each target must make an Agility Reaction Roll. Targets who fail take 4d8+3 magic damage. Targets who succeed must mark a Stress or take half damage. A target who marks HP from this attack also becomes *Vulnerable* until they clear a HP.
-* **Eruption - Action:** Spend a Fear to have the Dragon crack the earth open with its tail, unleashing an explosion of lava. Choose a point within Far range. Each PC on the line between the Dragon and the chosen point must succeed on an Agility Reaction Roll or get burned, becoming *Vulnerable* until their next rest. You gain a Fear for each PC who fails.
-* **Blazing Scales - Reaction:** When a creature within Very Close range attacks the Dragon, the attacker must mark a Stress.
-* **Slash and Burn - Reaction:** When the Dragon makes a successful standard attack, you gain a Fear and can mark a Stress to have the attack deal an extra 10 magic damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Giovane Drago del Fuoco"
+description: "Un drago cremisi, con quattro zampe potenti e ali fumeggianti."
+tier: "3"
+ruolo: "Solo"
+difficolta: "18"
+hp: "10"
+stress: "6"
+esperienza: "Rabbia Ardente +3"
+soglia_danni: "21/34"
+attacchi:
+  - name: "Morso e Artigli"
+    desc: "**+7** | Vicina | **4d10** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Intimidatorio"
+    desc: "*- Passiva:* Quando spendi una Paura per mettere a fuoco il Drago, tutti i PG entro portata Vicina devono segnare uno Stress o perdere una Speranza."
+capacita_speciali:
+  - name: "Respiro di Fiamma"
+    desc: "*- Azione:* Spendere una Paura per far sì che il Drago scateni un'esplosione di fiamme contro tutti i bersagli davanti a sé entro portata Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d8+3 danni magici. I bersagli che riescono devono segnare uno Stress o subire la metà dei danni. Un bersaglio che segna PF da questo attacco diventa anche Vulnerabile finché non rimuove un PF."
+  - name: "Eruzione"
+    desc: "*- Azione:* Spendere una Paura per far sì che il Drago spacchi la terra con la coda, scatenando un'esplosione di lava. Scegli un punto entro portata Lontana. Ogni PG sulla linea tra il Drago e il punto scelto deve superare un Tiro di Reazione di Agilità o venire bruciato, diventando Vulnerabile finché non compie il suo prossimo riposo. Guadagni una Paura per ogni PG che fallisce."
+  - name: "Scaglie Ardenti"
+    desc: "*- Reazione:* Quando una creatura entro portata Molto Vicina attacca il Drago, l'attaccante deve segnare uno Stress."
+  - name: "Taglio e Bruciatura"
+    desc: "*- Reazione:* Quando il Drago effettua un attacco standard riuscito, guadagni una Paura e puoi segnare uno Stress per far sì che l'attacco infligga 10 danni magici in più."
+```

@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 48
 ---
 
-# Formoid Serum
+# Siero Formoid
 
-You can drink this potion to become a swarm of 16 million ants until the end of the scene. You keep and have access to all equipment, loot, and features.
+Puoi bere questa pozione per diventare un sciame di 16 milioni di formiche fino alla fine della scena. Conservi e hai accesso a tutto l'equipaggiamento, al bottino e alle caratteristiche.

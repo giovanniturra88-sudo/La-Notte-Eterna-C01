@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Dragonbloom Tea
+# Tè del Fiore del Drago
 
-You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take 2d20 physical damage using your Proficiency.
+Puoi bere questo tè per scatenare un attacco di alito infuocato. Effettua un Tiro di Istinto contro tutti gli avversari davanti a te entro gittata Vicina. I bersagli contro cui hai successo subiscono 2d20 danni fisici usando la tua Competenza.

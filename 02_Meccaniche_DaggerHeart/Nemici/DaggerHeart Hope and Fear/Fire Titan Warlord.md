@@ -4,18 +4,46 @@ type:
   - "[[Capo]]"
 ---
 
-# Fire Titan Warlord
-*Tier 4 Leader*
-*A smoldering, battle-obsessed goliath wearing bespoke armor and wielding a massive maul.*
+## Signore di Guerra Titano del Fuoco
+* **Descrizione:** Un golias fumante e ossessionato dalla battaglia, che indossa un'armatura su misura e impugna un massiccio martello.
+* **Tier:** 4 (Capo)
+* **Difficoltà:** 21
+* **Soglie di Danno:** 33/66
+* **Punti Ferita:** 9 | **Stress:** 8
+* **Esperienza:** Tattica +4
+* **Attacchi:**
+  * **Martello:** +6 | Molto Vicina | 4d10+10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (2) - Passiva:** Il Signore di Guerra può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Fabbricante di Colossi - Passiva:** Conto alla Rovina (6). Quando il Signore di Guerra entra in scena, attiva il conto alla rovina. Si riduce quando il Signore di Guerra viene messo a fuoco. Quando scatta, evoca la Macchina da Guerra Gargantuesca, che appare al bordo del campo di battaglia e viene immediatamente messa a fuoco.
+  * **Scatena i Cani - Azione:** Spendere una Paura per far evocare al Signore di Guerra due Branchi di Cane Demoniaco, che appaiono in portata Vicina e vengono immediatamente messi a fuoco.
+  * **Colpo Rotante - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina e guadagnare una Paura.
+  * **Frantumatore del Terreno - Azione:** Spendere una Paura per far incrinare la terra al Signore di Guerra con un colpo discendente del suo martello ed effettuare un attacco contro un gruppo entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 4d10+10 danni diretti. L'area diventa terreno accidentato, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla.
 
-**Motives & Tactics:** Compete against rivals, conquer the weak, craft colossal war machines
-**Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8
-**ATK:** +6 | **Maul:** Very Close | 4d10+10 phy
-**Experience:** Tactics +4
-
-## FEATURES
-* **Relentless (2) - Passive:** The Warlord can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
-* **Colossus Crafter - Passive:** Countdown (6). When the Warlord enters the scene, activate the countdown. It ticks down when the Warlord is spotlighted. When it triggers, summon the Gargantuan War Machine, which appears at the edge of the battlefield and immediately takes the spotlight.
-* **Release the Hounds - Action:** Spend a Fear to have the Warlord summon two Demonic Hound Packs, which appear at Close range and immediately take the spotlight.
-* **Spinning Strike - Action:** Mark a Stress to make a standard attack against all targets within Very Close range and gain a Fear.
-* **Ground-Breaking - Action:** Spend a Fear to have the Warlord crack the earth with a downward swing of their maul and make an attack against a group within Close range. Targets the attack succeeds against take 4d10+10 direct damage. The area becomes rough terrain, and a PC must succeed on an Agility Reaction Roll (16) to move through it.
+```statblock
+layout: DaggerHeart Nemici
+name: "Signore di Guerra Titano del Fuoco"
+description: "Un golias fumante e ossessionato dalla battaglia, che indossa un'armatura su misura e impugna un massiccio martello."
+tier: "4"
+ruolo: "Capo"
+difficolta: "21"
+hp: "9"
+stress: "8"
+esperienza: "Tattica +4"
+soglia_danni: "33/66"
+attacchi:
+  - name: "Martello"
+    desc: "**+6** | Molto Vicina | **4d10+10** fisico"
+tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* Il Signore di Guerra può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Fabbricante di Colossi"
+    desc: "*- Passiva:* Conto alla Rovina (6). Quando il Signore di Guerra entra in scena, attiva il conto alla rovina. Si riduce quando il Signore di Guerra viene messo a fuoco. Quando scatta, evoca la Macchina da Guerra Gargantuesca, che appare al bordo del campo di battaglia e viene immediatamente messa a fuoco."
+capacita_speciali:
+  - name: "Scatena i Cani"
+    desc: "*- Azione:* Spendere una Paura per far evocare al Signore di Guerra due Branchi di Cane Demoniaco, che appaiono in portata Vicina e vengono immediatamente messi a fuoco."
+  - name: "Colpo Rotante"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina e guadagnare una Paura."
+  - name: "Frantumatore del Terreno"
+    desc: "*- Azione:* Spendere una Paura per far incrinare la terra al Signore di Guerra con un colpo discendente del suo martello ed effettuare un attacco contro un gruppo entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 4d10+10 danni diretti. L'area diventa terreno accidentato, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla."
+```

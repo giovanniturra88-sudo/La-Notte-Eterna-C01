@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 36
 ---
 
-# Arcticite Shard
+# Scheggia di Articaite
 
-Choose a point within Far range. All targets within Close range of that point must succeed on a Reaction Roll (16) or take 3d6 magic damage and become temporarily Restrained by ice.
+Scegli un punto entro gittata Lontana. Tutti i bersagli entro gittata Vicina da quel punto devono avere successo su un Tiro di Reazione (16) o subiscono 3d6 danni magici e diventano temporaneamente Vincolati dal ghiaccio.

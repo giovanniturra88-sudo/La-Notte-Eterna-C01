@@ -1,6 +1,6 @@
 ---
 type: "[[Consumable]]"
 ---
-# Vial of Moondrip
+# Fiala di Moondrip
 
-When you drink the contents of this vial, you can see in total darkness until your next rest.
+Quando bevi il contenuto di questa fiala, puoi vedere nel buio totale fino al tuo prossimo riposo.

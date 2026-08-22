@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Enlighten Potion
+# Pozione di Illuminazione Maggiore
 
-You gain a +1 bonus to your Knowledge until your next rest.
+Ottieni un bonus di +1 alla tua Conoscenza fino al tuo prossimo riposo.

@@ -4,16 +4,40 @@ type:
   - "[[Standard]]"
 ---
 
-# Cursed Merfolk
-*Tier 3 Standard*
-*A half-fish, half-human creature psychically bound to serve the Deep Dwellers.*
+## Merfolk Maledetto
+* **Descrizione:** Una creatura metà pesce e metà umano, legata psicicamente a servire gli Abitanti delle Profondità.
+* **Tier:** 3 (Standard)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 18/35
+* **Punti Ferita:** 5 | **Stress:** 4
+* **Esperienza:** Acquatico +3
+* **Attacchi:**
+  * **Tridente Catene:** +3 | Lontano | 3d6 fisico
+* **Tratti e Capacità:**
+  * **Coda di Pesce - Passiva:** Il Merfolk è *Vulnerabile* fuori dall'acqua.
+  * **Agguato di Gruppo - Passiva:** Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati.
+  * **"Vieni Qui!" - Reazione:** Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio.
 
-**Motives & Tactics:** Separate enemies, strike from the shadows, use aquatic environment to advantage
-**Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4
-**ATK:** +3 | **Chained Trident:** Far | 3d6 phy
-**Experience:** Aquatic +3
-
-## FEATURES
-* **Fish-Tailed - Passive:** The Merfolk is *Vulnerable* out of the water.
-* **Gang Up - Passive:** The Merfolk gains a +2 bonus to attack rolls against targets within Melee range of one or more allies.
-* **"Get Over Here!" - Reaction:** When the Merfolk makes a successful standard attack against a target beyond Melee range, you can mark a Stress to pull them into Melee range. If you do, you can spend a Fear to make a standard attack with advantage against the target.
+```statblock
+layout: DaggerHeart Nemici
+name: "Merfolk Maledetto"
+description: "Una creatura metà pesce e metà umano, legata psicicamente a servire gli Abitanti delle Profondità."
+tier: "3"
+ruolo: "Standard"
+difficolta: "16"
+hp: "5"
+stress: "4"
+esperienza: "Acquatico +3"
+soglia_danni: "18/35"
+attacchi:
+  - name: "Tridente Catene"
+    desc: "**+3** | Lontano | **3d6** fisico"
+tratti:
+  - name: "Coda di Pesce"
+    desc: "*- Passiva:* Il Merfolk è *Vulnerabile* fuori dall'acqua."
+  - name: "Agguato di Gruppo"
+    desc: "*- Passiva:* Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati."
+capacita_speciali:
+  - name: "Vieni Qui!"
+    desc: "*- Reazione:* Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio."
+```

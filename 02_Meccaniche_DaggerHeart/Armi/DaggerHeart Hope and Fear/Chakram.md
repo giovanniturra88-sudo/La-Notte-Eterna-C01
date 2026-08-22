@@ -12,8 +12,8 @@ tier: 2
 ruolo: "primaria"
 ---
 
-### CHAKRAM
+### Chakram
 
-**_Ricochet: When you throw this weapon, it returns to your hand_**
+**_Rimbalzo: Quando lanci questa arma, torna nella tua mano_**
 
 ---

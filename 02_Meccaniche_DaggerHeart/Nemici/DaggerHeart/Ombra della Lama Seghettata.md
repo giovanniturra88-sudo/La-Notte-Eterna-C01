@@ -1,17 +1,40 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Furtivo]]"
 ---
 
-**_Tier 1 [[Furtivo]]._** _Un vigliacco agile che porta un pugnale feroce e utilizza la magia dell'ombra per isolare le vittime._
+## Ombra della Lama Seghettata
+* **Descrizione:** Un vigliacco agile che porta un pugnale feroce e utilizza la magia dell'ombra per isolare le vittime.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 4/8
+* **Punti Ferita:** 3 | **Stress:** 3
+* **Esperienza:** Intrusione +3
+* **Attacchi:**
+  * **Pugnali:** +1 | Da Vicino | 1d4+4 fisico
+* **Tratti e Capacità:**
+  * **Colpo alle Spalle - Passiva:** Quando l'Ombra ha successo con un attacco standard che ha vantaggio, infligge **1d6+6** danni fisici invece del danno standard.
+  * **Coperto - Azione:** Diventa _Nascosto_ fino alla fine del prossimo attacco dell'Ombra. Gli attacchi effettuati mentre è _Nascosto_ grazie a questa caratteristica hanno vantaggio.
 
-- **Motivi & Tattiche:** Imboscata, nascondersi, dividere, profitto
-- **Difficoltà:** 12 | **Soglie:** 4/8 | **PF:** 3 | **Stresso:** 3
-- **ATT:** +1 | **Pugnali:** Mischia | 1d4+4 fis
-- **Esperienza:** Intrusione +3
-
-### CARATTERISTICHE
-
-**_Colpo alle spalle - Passiva:_** Quando l'Ombra ha successo con un attacco standard che ha vantaggio, infligge **1d6+6** danni fisici invece del danno standard.
-
-**_Coperto - Azione:_** Diventa _Nascosto_ fino alla fine del prossimo attacco dell'Ombra. Gli attacchi effettuati mentre è _Nascosto_ grazie a questa caratteristica hanno vantaggio.
+```statblock
+layout: DaggerHeart Nemici
+name: "Ombra della Lama Seghettata"
+description: "Un vigliacco agile che porta un pugnale feroce e utilizza la magia dell'ombra per isolare le vittime."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "12"
+hp: "3"
+stress: "3"
+esperienza: "Intrusione +3"
+soglia_danni: "4/8"
+attacchi:
+  - name: "Pugnali"
+    desc: "**+1** | Da Vicino | **1d4+4** fisico"
+tratti:
+  - name: "Colpo alle Spalle"
+    desc: "*- Passiva:* Quando l'Ombra ha successo con un attacco standard che ha vantaggio, infligge 1d6+6 danni fisici invece del danno standard."
+capacita_speciali:
+  - name: "Coperto"
+    desc: "*- Azione:* Diventa Nascosto fino alla fine del prossimo attacco dell'Ombra. Gli attacchi effettuati mentre è Nascosto grazie a questa caratteristica hanno vantaggio."
+```

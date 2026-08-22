@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Dripfang Poison
+# Veleno Dripfang
 
-A creature who consumes this poison takes 8d10 direct magic damage.
+Una creatura che assume questo veleno subisce 8d10 danni magici diretti.

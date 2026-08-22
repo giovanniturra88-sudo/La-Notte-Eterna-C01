@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Mirror of Marigold
+# Specchio di Marigold
 
-When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.
+Quando subisci danni, puoi spendere una Speranza per annullare quei danni, dopo di che lo specchio si frantuma.

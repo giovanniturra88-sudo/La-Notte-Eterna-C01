@@ -4,18 +4,40 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Triceratops
-- **Tipo / Ruolo:** Tier 2 Bruiser
-- **Descrizione:** A large dinosaur that has an armored frill and three horns.
-- **Motivi & Tattiche:** Eat ferns, move in herds for protection, patrol the watering hole
-- **Difficoltà:** 15
-- **Soglie (Thresholds):** 14 / 28
-- **Punti Ferita (HP):** 7
-- **Stress:** 5
-- **Attacco:** +2 | Horns: Very Close | 2d10+4 phy
-- **Esperienza:** Defender +3
+## Triceratopo
+* **Descrizione:** Un grande dinosauro, con una frangia corazzata e tre corna.
+* **Tier:** 2 (Picchiatore)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 14/28
+* **Punti Ferita:** 7 | **Stress:** 5
+* **Esperienza:** Difensore +3
+* **Attacchi:**
+  * **Corna:** +2 | Molto Vicina | 2d10+4 fisico
+* **Tratti e Capacità:**
+  * **Pelle Coriacea - Passiva:** Quando il Triceratopo dovrebbe essere costretto a segnare PF, puoi segnare un numero qualsiasi di Stress al posto di un numero uguale di PF.
+  * **Sferzata della Coda - Azione:** Segnare uno Stress per scegliere fino a tre bersagli entro portata Molto Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 5d6 danni fisici. I bersagli che riescono subiscono la metà dei danni.
+  * **Carica del Toro - Azione:** Segnare uno Stress per scegliere un bersaglio entro portata Vicina. Il Triceratopo si muove in portata Da Vicino con il bersaglio ed effettua un attacco. In caso di successo, infliggi 3d10 danni fisici diretti.
 
-**Tratti (Features):**
-* **Leathery Hide - Passive:** When the Triceratops would be forced to mark HP, you can mark any number of Stress instead of an equal number of HP.
-* **Tail Swipe - Action:** Mark a Stress to choose up to three targets within Very Close range. Each target must make an Agility Reaction Roll. Targets who fail take 5d6 physical damage. Targets who succeed take half damage.
-* **Bull Rush - Action:** Mark a Stress to choose a target within Close range. The Triceratops moves into Melee range with the target and makes an attack. On a success, deal 3d10 direct physical damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Triceratopo"
+description: "Un grande dinosauro, con una frangia corazzata e tre corna."
+tier: "2"
+ruolo: "Picchiatore"
+difficolta: "15"
+hp: "7"
+stress: "5"
+esperienza: "Difensore +3"
+soglia_danni: "14/28"
+attacchi:
+  - name: "Corna"
+    desc: "**+2** | Molto Vicina | **2d10+4** fisico"
+tratti:
+  - name: "Pelle Coriacea"
+    desc: "*- Passiva:* Quando il Triceratopo dovrebbe essere costretto a segnare PF, puoi segnare un numero qualsiasi di Stress al posto di un numero uguale di PF."
+capacita_speciali:
+  - name: "Sferzata della Coda"
+    desc: "*- Azione:* Segnare uno Stress per scegliere fino a tre bersagli entro portata Molto Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 5d6 danni fisici. I bersagli che riescono subiscono la metà dei danni."
+  - name: "Carica del Toro"
+    desc: "*- Azione:* Segnare uno Stress per scegliere un bersaglio entro portata Vicina. Il Triceratopo si muove in portata Da Vicino con il bersaglio ed effettua un attacco. In caso di successo, infliggi 3d10 danni fisici diretti."
+```

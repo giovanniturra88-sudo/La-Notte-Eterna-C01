@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Stamina Potion
+# Pozione di Stamina Maggiore
 
-Clear 1d4+2 Stress.
+Elimina 1d4+2 Stress.

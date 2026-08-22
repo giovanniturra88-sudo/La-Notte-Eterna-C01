@@ -4,19 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Cephilith Titan
-*Tier 4 Solo*
-*A transdimensional entity in the form of an impassibly large, winged humanoid with an octopus-shaped head and rows of glowing eyes.*
+## Titano Cephilith
+* **Descrizione:** Un'entità transdimensionale sotto forma di umanoido alato di dimensioni imponenti, con una testa a forma di polpo e file di occhi luminosi.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 38/68
+* **Punti Ferita:** 10 | **Stress:** 10
+* **Esperienza:** Caos +5, Psicico +5
+* **Attacchi:**
+  * **Pseudoclava:** +8 | Vicina | 4d8+10 magico
+* **Tratti e Capacità:**
+  * **Inesorabile (X) - Passiva:** Il Titano può essere messo a fuoco fino a X volte per turno del GM, dove X è pari al numero di PG nella scena. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Terrificante - Passiva:** Quando il Titano effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura.
+  * **Semplicemente una Proiezione - Passiva:** Il Titano appare nel Regno Mortale come una proiezione psicica che approssima la sua vera forma. Ha immunità ai danni fisici e resistenza ai danni magici.
+  * **Urlo Psicico - Azione:** Spendere una Paura per far scatenare al Titano un'ondata sconvolgente di visioni incubo dai Regni Esterni. Ogni PG entro portata Lontana deve effettuare un Tiro di Reazione d'Istinto (22). I bersagli che falliscono subiscono 4d12 danni magici diretti. I bersagli che riescono devono segnare uno Stress.
+  * **Evoca Devoti - Azione:** Spendere una Paura per evocare 1d4 Abomini dei Regni Esterni, che appaiono entro portata Lontana, poi sceglierne uno da mettere immediatamente a fuoco.
+  * **"È Qui..." - Evoluzione:** Quando il Titano ha segnato metà dei suoi PF, si manifesta nella sua forma completa, rimuovendo tutti i PF e perdendo la capacità "Semplicemente una Proiezione". Mentre il Titano è in questa forma, una creatura che segna PF dall'attacco standard del Titano deve segnare un PF aggiuntivo.
 
-**Motives & Tactics:** Call and consume followers, corrupt reality, invade the Mortal Realm, spew forth chaos
-**Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 10 | **Stress:** 10
-**ATK:** +8 | **Pseudoclaw:** Close | 4d8+10 mag
-**Experience:** Chaos +5, Psychic +5
-
-## FEATURES
-* **Relentless (X) - Passive:** The Titan can be spotlighted up to X times per GM turn, where X equals the number of PCs in the scene. Spend Fear as usual to spotlight them.
-* **Terrifying - Passive:** When the Titan makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear.
-* **Merely a Projection - Passive:** The Titan appears in the Mortal Realm as a psychic projection approximating its true form. They have immunity to physical damage and resistance to magic damage.
-* **Psychic Scream - Action:** Spend a Fear to have the Titan unleash a mind-shattering onslaught of nightmarish visions from the Outer Realms. Each PC within Far range must make an Instinct Reaction Roll (22). Targets who fail take 4d12 direct magic damage. Targets who succeed must mark a Stress.
-* **Summon Worshippers - Action:** Spend a Fear to summon 1d4 Outer Realms Abominations, which appear within Far range, then choose one to immediately spotlight.
-* **"It's Here..." - Evolution:** When the Titan has marked half its HP, they manifest in their full form, clearing all HP and losing the "Merely a Projection" feature. While the Titan is in this form, a creature who marks HP from the Titan's standard attack must mark an additional HP.
+```statblock
+layout: DaggerHeart Nemici
+name: "Titano Cephilith"
+description: "Un'entità transdimensionale sotto forma di umanoido alato di dimensioni imponenti, con una testa a forma di polpo e file di occhi luminosi."
+tier: "4"
+ruolo: "Solo"
+difficolta: "20"
+hp: "10"
+stress: "10"
+esperienza: "Caos +5, Psicico +5"
+soglia_danni: "38/68"
+attacchi:
+  - name: "Pseudoclava"
+    desc: "**+8** | Vicina | **4d8+10** magico"
+tratti:
+  - name: "Inesorabile (X)"
+    desc: "*- Passiva:* Il Titano può essere messo a fuoco fino a X volte per turno del GM, dove X è pari al numero di PG nella scena. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Terrificante"
+    desc: "*- Passiva:* Quando il Titano effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura."
+  - name: "Semplicemente una Proiezione"
+    desc: "*- Passiva:* Il Titano appare nel Regno Mortale come una proiezione psicica che approssima la sua vera forma. Ha immunità ai danni fisici e resistenza ai danni magici."
+capacita_speciali:
+  - name: "Urlo Psicico"
+    desc: "*- Azione:* Spendere una Paura per far scatenare al Titano un'ondata sconvolgente di visioni incubo dai Regni Esterni. Ogni PG entro portata Lontana deve effettuare un Tiro di Reazione d'Istinto (22). I bersagli che falliscono subiscono 4d12 danni magici diretti. I bersagli che riescono devono segnare uno Stress."
+  - name: "Evoca Devoti"
+    desc: "*- Azione:* Spendere una Paura per evocare 1d4 Abomini dei Regni Esterni, che appaiono entro portata Lontana, poi sceglierne uno da mettere immediatamente a fuoco."
+  - name: "È Qui..."
+    desc: "*- Evoluzione:* Quando il Titano ha segnato metà dei suoi PF, si manifesta nella sua forma completa, rimuovendo tutti i PF e perdendo la capacità 'Semplicemente una Proiezione'. Mentre il Titano è in questa forma, una creatura che segna PF dall'attacco standard del Titano deve segnare un PF aggiuntivo."
+```

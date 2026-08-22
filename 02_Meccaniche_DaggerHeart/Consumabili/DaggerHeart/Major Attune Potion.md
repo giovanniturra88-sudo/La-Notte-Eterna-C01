@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Attune Potion
+# Pozione di Sintonia Maggiore
 
-You gain a +1 bonus to your Instinct until your next rest.
+Ottieni un bonus di +1 al tuo Istinto fino al tuo prossimo riposo.

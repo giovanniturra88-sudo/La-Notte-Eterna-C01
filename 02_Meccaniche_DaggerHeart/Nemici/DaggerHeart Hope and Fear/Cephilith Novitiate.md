@@ -4,16 +4,37 @@ type:
   - "[[Minion]]"
 ---
 
-# Cephilith Novitiate
-*Tier 4 Minion*
-*A luminary of the Mortal Realm who has given their mind to extradimensional entities in exchange for eldritch abilities.*
+## Cephilith Novizio
+* **Descrizione:** Un luminare del Regno Mortale che ha ceduto la propria mente a entità extradimensionali in cambio di abilità eldritch.
+* **Tier:** 4 (Minion)
+* **Difficoltà:** 16
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Visioni +2
+* **Attacchi:**
+  * **Potere Eldritch:** +2 | Da Vicino | 12 fisico
+* **Tratti e Capacità:**
+  * **Minion (12) - Passiva:** Il Novizio viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Novizio, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Cephilith Novizi entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina questi danni.
+  * **Sacrificio di Sé - Azione:** Spendere una Paura per far caricare il Novizio contro un bersaglio entro portata Lontana e fondersi in esso. Infliggi 12 danni magici diretti al bersaglio e sconfiggi il Novizio.
 
-**Motives & Tactics:** Help others see the Truth, make way for It, seek forbidden knowledge
-**Difficulty:** 16 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-**ATK:** +2 | **Eldritch Might:** Melee | 12 phy
-**Experience:** Visions +2
-
-## FEATURES
-* **Minion (12) - Passive:** The Novitiate is defeated when they take any damage. For every 12 damage a PC deals to the Novitiate, the PC defeats an additional Minion within range the attack would succeed against.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Cephilith Novitiates within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage.
-* **Sacrifice Self - Action:** Spend a Fear to have the Novitiate charge at a target within Far range and melt into them. Deal 12 direct magic damage to the target and defeat the Novitiate.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cephilith Novizio"
+description: "Un luminare del Regno Mortale che ha ceduto la propria mente a entità extradimensionali in cambio di abilità eldritch."
+tier: "4"
+ruolo: "Minion"
+difficolta: "16"
+hp: "1"
+stress: "1"
+esperienza: "Visioni +2"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Potere Eldritch"
+    desc: "**+2** | Da Vicino | **12** fisico"
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Cephilith Novizi entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina questi danni."
+  - name: "Sacrificio di Sé"
+    desc: "*- Azione:* Spendere una Paura per far caricare il Novizio contro un bersaglio entro portata Lontana e fondersi in esso. Infliggi 12 danni magici diretti al bersaglio e sconfiggi il Novizio."
+```

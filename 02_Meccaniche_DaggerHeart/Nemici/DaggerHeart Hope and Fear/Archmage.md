@@ -4,20 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Archmage
-- **Tipo / Ruolo:** Tier 3 Solo
-- **Descrizione:** A seeker of secret knowledge hidden away in a tome-filled tower.
-- **Motivi & Tattiche:** Corrupt, destroy, overwhelm with evil power
-- **Difficoltà:** 18
-- **Soglie (Thresholds):** 24 / 45
-- **Punti Ferita (HP):** 5
-- **Stress:** 8
-- **Attacco:** +5 | Archmage's Greatstaff: Far | 3d10 mag
-- **Esperienza:** Esoterica +4
+## Archmago
+* **Descrizione:** Un cercatore di conoscenza segreta, nascosto in una torre piena di tomi.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 24/45
+* **Punti Ferita:** 5 | **Stress:** 8
+* **Esperienza:** Esoterica +4
+* **Attacchi:**
+  * **Grande Bastone dell'Archmago:** +5 | Lontano | 3d10 magico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** L'Archmago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Aegis Orbitante - Passiva:** Quando l'Archmago appare, evoca sei dischi di energia magica che orbitano attorno a lui. Posiziona un Dado di Aegis d6 su questo statblock con il valore 6 rivolto verso l'alto. Quando un PG effettua un attacco riuscito contro l'Archmago, tira un d6. Se il risultato è uguale o inferiore al valore del Dado di Aegis, riduci il Dado di Aegis e ignora i danni. Un PG può effettuare un Tiro di Conoscenza per ridurre il Dado di Aegis di 1 in caso di successo o di 2 in caso di successo con Speranza.
+  * **Salva di Forza - Azione:** Spendere qualsiasi numero di Paura e tirare altrettanti d4. L'Archmago scaglia un numero di proiettili magici a ricerca di forza pari al risultato totale. Per ogni proiettile, una creatura entro portata Lontana segna un PF. La stessa creatura può essere bersaglio di fino a tre proiettili di forza.
+  * **Pallone di Fuoco - Azione:** Segnare qualsiasi numero di Stress per bersagliare lo stesso numero di PG entro portata Lontana. Ogni bersaglio deve superare un Tiro di Reazione di Agilità o subire 4d10 danni magici.
+  * **Contrincantesimo - Reazione:** Quando un PG riesce su un Tiro di Lancio di Incantesimo, puoi spendere una Paura per far effettuare all'Archmago un tiro di reazione con una Difficoltà pari al risultato del Tiro di Lancio. In caso di successo, il Tiro di Lancio del PG fallisce invece, e posizioni un token su questo statblock. Usare di nuovo questa capacità costa Paura aggiuntiva pari al numero di token su questo statblock. Non puoi contrastare un successo critico.
 
-**Tratti (Features):**
-* **Relentless (3) - Passive:** The Archmage can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Orbiting Aegis - Passive:** When the Archmage appears, they conjure six discs of magical energy that orbit around them. Place a d6 Aegis Die on this stat block with the 6 value facing up. When a PC makes a successful attack against the Archmage, roll a d6. If the result is equal to or less than the value of the Aegis Die, tick the Aegis Die down and ignore the damage. A PC can make a Knowledge Roll to tick down the Aegis Die by 1 on a success or by 2 on a success with Hope.
-* **Force Salvo - Action:** Spend any number of Fear and roll that many d4s. The Archmage unleashes a number of magical homing force bolts equal to the total result. For each bolt, a creature within Far range marks a HP. The same creature can be targeted by up to three force bolts.
-* **Fireball - Action:** Mark any number of Stress to target the same number of PCs within Far range. Each target must succeed on an Agility Reaction Roll or take 4d10 magic damage.
-* **Counterspell - Reaction:** When a PC succeeds on a Spellcast Roll, you can spend a Fear to have the Archmage make a reaction roll with a Difficulty equal to the Spellcast Roll's result. On a success, the PC's Spellcast Roll fails instead, and you place a token on this stat block. Using this feature again costs additional Fear equal to the number of tokens on this stat block. You can't Counterspell a critical success.
+```statblock
+layout: DaggerHeart Nemici
+name: "Archmago"
+description: "Un cercatore di conoscenza segreta, nascosto in una torre piena di tomi."
+tier: "3"
+ruolo: "Solo"
+difficolta: "18"
+hp: "5"
+stress: "8"
+esperienza: "Esoterica +4"
+soglia_danni: "24/45"
+attacchi:
+  - name: "Grande Bastone dell'Archmago"
+    desc: "**+5** | Lontano | **3d10** magico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* L'Archmago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Aegis Orbitante"
+    desc: "*- Passiva:* Quando l'Archmago appare, evoca sei dischi di energia magica che orbitano attorno a lui. Posiziona un Dado di Aegis d6 su questo statblock con il valore 6 rivolto verso l'alto. Quando un PG effettua un attacco riuscito contro l'Archmago, tira un d6. Se il risultato è uguale o inferiore al valore del Dado di Aegis, riduci il Dado di Aegis e ignora i danni. Un PG può effettuare un Tiro di Conoscenza per ridurre il Dado di Aegis di 1 in caso di successo o di 2 in caso di successo con Speranza."
+capacita_speciali:
+  - name: "Salva di Forza"
+    desc: "*- Azione:* Spendere qualsiasi numero di Paura e tirare altrettanti d4. L'Archmago scaglia un numero di proiettili magici a ricerca di forza pari al risultato totale. Per ogni proiettile, una creatura entro portata Lontana segna un PF. La stessa creatura può essere bersaglio di fino a tre proiettili di forza."
+  - name: "Pallone di Fuoco"
+    desc: "*- Azione:* Segnare qualsiasi numero di Stress per bersagliare lo stesso numero di PG entro portata Lontana. Ogni bersaglio deve superare un Tiro di Reazione di Agilità o subire 4d10 danni magici."
+  - name: "Contrincantesimo"
+    desc: "*- Reazione:* Quando un PG riesce su un Tiro di Lancio di Incantesimo, puoi spendere una Paura per far effettuare all'Archmago un tiro di reazione con una Difficoltà pari al risultato del Tiro di Lancio. In caso di successo, il Tiro di Lancio del PG fallisce invece, e posizioni un token su questo statblock. Usare di nuovo questa capacità costa Paura aggiuntiva pari al numero di token su questo statblock. Non puoi contrastare un successo critico."
+```

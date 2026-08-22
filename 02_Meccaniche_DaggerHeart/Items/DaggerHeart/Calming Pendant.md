@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Calming Pendant
+# Ciondolo Calmante
 
 **_Item_**
 
-When you would mark your last Stress, roll a d6. On a result of 5 or higher, don’t mark it.
+Quando stai per segnare il tuo ultimo Stress, tira un d6. Con un risultato di 5 o superiore, non lo segnare.

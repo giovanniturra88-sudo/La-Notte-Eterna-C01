@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Elusive Amulet
+# Amuleto Elusivo
 
 **_Item_**
 
-Once per long rest, you can activate this amulet to become Hidden until you move. While Hidden in this way, you remain unseen even if an adversary moves to where they would normally see you.
+Una volta per riposo lungo, puoi attivare questo amuleto per diventare Nascosto finché non ti muovi. Mentre sei Nascosto in questo modo, rimani invisibile anche se un avversario si muove dove normalmente ti vedrebbe.

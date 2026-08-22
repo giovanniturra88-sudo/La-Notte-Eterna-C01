@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 6
 ---
 
-# Lyrebird Lozenge
+# Pastiglia del Lyrebird
 
-You can dissolve this lozenge in your mouth to perfectly mimic any voice you've heard until the end of the scene.
+Puoi sciogliere questa pastiglia in bocca per imitare perfettamente qualsiasi voce che hai sentito fino alla fine della scena.

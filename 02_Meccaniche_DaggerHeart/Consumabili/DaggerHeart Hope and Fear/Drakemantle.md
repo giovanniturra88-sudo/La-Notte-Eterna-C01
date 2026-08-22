@@ -9,4 +9,4 @@ roll: 56
 
 # Drakemantle
 
-You can use this enchanted ancient dragon hide to gain draconic characteristics until the end of the scene, when the hide falls away in tatters. Until then, you can fly and gain a +5 bonus to your damage thresholds and a +1 bonus to your Proficiency.
+Puoi usare questa antica pelle di drago incantata per ottenere caratteristiche draconiche fino alla fine della scena, quando la pelle si sfalda in brandelli. Fino ad allora, puoi volare e ottenere un bonus di +5 alle tue Soglie di Danno e un bonus di +1 alla tua Competenza.

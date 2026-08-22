@@ -4,21 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Demon Lord Berzug
-*Tier 4 Solo*
-*The ruler of a deep circle in the Circles Below and a huge hybrid beast with a serpent's tail, a lizard's hind legs, a crab's claw arms, and a two-faced wolf's head.*
+## Signore Demone Berzug
+* **Descrizione:** Il sovrano di un cerchio profondo nei Cerchi Sotterranei e un'enorme bestia ibrida con la coda di un serpente, le zampe posteriori di un rettile, le braccia-artiglio di un granchio e la testa di un lupo a due volti.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 35/70
+* **Punti Ferita:** 12 | **Stress:** 8
+* **Esperienza:** Conoscenza Infernale +3
+* **Attacchi:**
+  * **Artigli Abissali:** +8 | Vicina | 4d12+10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Berzug può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Fustigazione del Caos - Azione:** Segnare uno Stress per far sferzare Berzug contro fino a tre PG entro portata Vicina e costringere ogni bersaglio a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d20 danni fisici. I bersagli che riescono subiscono la metà dei danni.
+  * **Sguardo nell'Abisso - Azione:** Spendere una Paura per far fissare Berzug negli occhi di un PG entro portata Lontana. Il bersaglio deve superare un Tiro di Reazione di Presenza o subire una delle seguenti condizioni (tira un d6 e usa il risultato corrispondente):
+    * **1–2: Ipnosato.** Il bersaglio si muove immediatamente in portata Da Vicino di Berzug ed è *Vulnerabile* e *Ristretto* finché non rimuove la condizione con un Tiro d'Istinto riuscito.
+    * **3–4: Confuso.** Il bersaglio deve segnare uno Stress ogni volta che effettua un tiro di azione finché non rimuove la condizione con un Tiro di Conoscenza riuscito.
+    * **5–6: Incantato.** Finché il PG non effettua un Tiro di Presenza riuscito per rimuovere la condizione, puoi metterlo a fuoco durante un turno del GM come se fosse un avversario. Quando lo fai, scegli un bersaglio entro portata Vicina del PG *Incantato*. Il PG *Incantato* si muove in portata Da Vicino del bersaglio ed effettua un attacco con arma contro di esso usando un d20 invece dei Dadi di Dualità.
+  * **Colpo Schiacciante - Reazione:** Quando un PG segna PF dall'attacco standard di Berzug, puoi segnare uno Stress per costringerlo a segnare un numero di Stress pari al numero di PF che ha segnato. Guadagni una Paura.
+  * **Spaventoso - Reazione:** Quando un PG fallisce un attacco contro Berzug, guadagni una Paura.
 
-**Motives & Tactics:** Destroy goodness, sow chaos, unseat rivals
-**Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 12 | **Stress:** 8
-**ATK:** +8 | **Abyssal Claws:** Close | 4d12+10 phy
-**Experience:** Infernal Knowledge +3
-
-## FEATURES
-* **Relentless (3) - Passive:** Berzug can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Chaos Lash - Action:** Mark a Stress to have Berzug lash out at up to three PCs within Close range and force each target to make an Agility Reaction Roll. Targets who fail take 4d20 physical damage. Targets who succeed take half damage.
-* **Gaze Into the Abyss - Action:** Spend a Fear to have Berzug lock eyes with a PC within Far range. The target must succeed on a Presence Reaction Roll or gain one of the following conditions (roll a d6 and use the corresponding result):
-  * **1–2: Mesmerized.** The target immediately moves into Melee range of Berzug and is *Vulnerable* and *Restrained* until they clear the condition with a successful Instinct Roll.
-  * **3–4: Confused.** The target must mark a Stress each time they make an action roll until they clear the condition with a successful Knowledge Roll.
-  * **5–6: Enthralled.** Until the PC makes a successful Presence Roll to clear the condition, you can spotlight them during a GM turn as if they were an adversary. When you do so, choose a target within Close range of the *Enthralled* PC. The *Enthralled* PC moves into Melee range of the target and makes a weapon attack against them using a d20 instead of Duality Dice.
-* **Crushing Strike - Reaction:** When a PC marks HP from Berzug's standard attack, you can mark a Stress to force them to mark a number of Stress equal to the number of HP they marked. You gain a Fear.
-* **Horrifying - Reaction:** When a PC fails an attack against Berzug, you gain a Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Signore Demone Berzug"
+description: "Il sovrano di un cerchio profondo nei Cerchi Sotterranei e un'enorme bestia ibrida con la coda di un serpente, le zampe posteriori di un rettile, le braccia-artiglio di un granchio e la testa di un lupo a due volti."
+tier: "4"
+ruolo: "Solo"
+difficolta: "20"
+hp: "12"
+stress: "8"
+esperienza: "Conoscenza Infernale +3"
+soglia_danni: "35/70"
+attacchi:
+  - name: "Artigli Abissali"
+    desc: "**+8** | Vicina | **4d12+10** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Berzug può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+capacita_speciali:
+  - name: "Fustigazione del Caos"
+    desc: "*- Azione:* Segnare uno Stress per far sferzare Berzug contro fino a tre PG entro portata Vicina e costringere ogni bersaglio a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d20 danni fisici. I bersagli che riescono subiscono la metà dei danni."
+  - name: "Sguardo nell'Abisso"
+    desc: "*- Azione:* Spendere una Paura per far fissare Berzug negli occhi di un PG entro portata Lontana. Il bersaglio deve superare un Tiro di Reazione di Presenza o subire una delle seguenti condizioni (tira un d6 e usa il risultato corrispondente): 1-2 Ipnosato; 3-4 Confuso; 5-6 Incantato."
+  - name: "Colpo Schiacciante"
+    desc: "*- Reazione:* Quando un PG segna PF dall'attacco standard di Berzug, puoi segnare uno Stress per costringerlo a segnare un numero di Stress pari al numero di PF che ha segnato. Guadagni una Paura."
+  - name: "Spaventoso"
+    desc: "*- Reazione:* Quando un PG fallisce un attacco contro Berzug, guadagni una Paura."
+```

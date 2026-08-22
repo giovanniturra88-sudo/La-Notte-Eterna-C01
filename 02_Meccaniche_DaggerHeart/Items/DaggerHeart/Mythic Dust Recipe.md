@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Mythic Dust Recipe
+# Ricetta: Polvere Mistica
 
 **_Item_**
 
-As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.
+Come mossa di tempi morti, puoi usare una manciata di polvere d'oro fine per creare Polvere Mistica.

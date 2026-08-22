@@ -4,17 +4,43 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Cryptimoth
-*Tier 3 Skulk*
-*A large red-eyed moth creature that walks upright and portends mysterious or evil events.*
+## Cryptimoth
+* **Descrizione:** Una grande creatura simile a una falena dagli occhi rossi, che cammina eretta e preannuncia eventi misteriosi o malvagi.
+* **Tier:** 3 (Furtivo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 16/30
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Omen Scuri +3
+* **Attacchi:**
+  * **Artigli:** +2 | Da Vicino | 3d8+5 fisico
+* **Tratti e Capacità:**
+  * **Terrificante - Passiva:** Quando la Cryptimoth effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura.
+  * **Urlo Psicico - Azione:** Spendere 2 Paura per far scatenare alla Cryptimoth un'esplosione di energia psicica che fa subire a ogni PG entro portata Lontana visioni del loro terrificante destino. Ogni bersaglio deve effettuare un Tiro di Reazione di Intuizione (16). I bersagli che falliscono subiscono 3d8 danni magici diretti e diventano *Vulnerabili* finché non effettua il prossimo riposo. I bersagli che riescono devono segnare uno Stress o subire la metà dei danni.
+  * **Sciame d'Ombra - Azione:** Spendere una Paura per far evocare alla Cryptimoth uno sciame di creature d'ombra simili a falene entro portata Lontana. Lo sciame riempie un'area in portata Vicina e blocca la linea di vista. Le creature che non sono Cryptimoth sono *Vulnerabili* mentre sono all'interno di quell'area e devono segnare uno Stress per attraversarla. Un PG può dissipare lo sciame con un Tiro di Lancio di Incantesimo riuscito (12).
+  * **Sguardo Paranoico - Azione:** Spendere una Paura per far fissare la Cryptimoth negli occhi di un PG entro portata Vicina e renderlo *Paranoico*. Mentre è *Paranoico*, il PG è sospettoso verso gli altri PG e non può *Aiutare un Alleato* né partecipare a Tiri di Squadra. Per rimuovere questa condizione, il PG deve superare un Tiro di Intuizione (16) o partecipare alla mossa di tempi morti *Prepara* con uno o più membri del suo gruppo durante un riposo.
 
-**Motives & Tactics:** Echolocate, fly silently, melt into the shadows
-**Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
-**ATK:** +2 | **Claws:** Melee | 3d8+5 phy
-**Experience:** Dark Omens +3
-
-## FEATURES
-* **Terrifying - Passive:** When the Cryptimoth makes a successful attack, all PCs within Close range lose a Hope, and you gain a Fear.
-* **Psychic Screech - Action:** Spend 2 Fear to have the Cryptimoth unleash a burst of psychic energy that causes each PC within Far range to suffer visions of their terrifying fate. Each target must make an Insight Reaction Roll (16). Targets who fail take 3d8 direct magic damage and become *Vulnerable* until their next rest. Targets who succeed must mark a Stress or take half damage.
-* **Shadow Swarm - Action:** Spend a Fear to have the Cryptimoth conjure a swarm of mothlike shadow creatures within Far range. The swarm fills a Close range area and blocks line of sight. Creatures that aren't Cryptimoths are *Vulnerable* while inside that area and must mark a Stress to move through it. A PC can dispel the swarm with a successful Spellcast Roll (12).
-* **Paranoia Glare - Action:** Spend a Fear to have the Cryptimoth gaze into the eyes of a PC within Close range and make them Paranoid. While Paranoid, the PC is suspicious of other PCs and can't Help an Ally or take part in Tag Team Rolls. To clear this condition, the PC must succeed on an Insight Roll (16) or participate in the Prepare downtime move with one or more members of their party during a rest.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cryptimoth"
+description: "Una grande creatura simile a una falena dagli occhi rossi, che cammina eretta e preannuncia eventi misteriosi o malvagi."
+tier: "3"
+ruolo: "Furtivo"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Omen Scuri +3"
+soglia_danni: "16/30"
+attacchi:
+  - name: "Artigli"
+    desc: "**+2** | Da Vicino | **3d8+5** fisico"
+tratti:
+  - name: "Terrificante"
+    desc: "*- Passiva:* Quando la Cryptimoth effettua un attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura."
+capacita_speciali:
+  - name: "Urlo Psicico"
+    desc: "*- Azione:* Spendere 2 Paura per far scatenare alla Cryptimoth un'esplosione di energia psicica che fa subire a ogni PG entro portata Lontana visioni del loro terrificante destino. Ogni bersaglio deve effettuare un Tiro di Reazione di Intuizione (16). I bersagli che falliscono subiscono 3d8 danni magici diretti e diventano *Vulnerabili* finché non effettua il prossimo riposo. I bersagli che riescono devono segnare uno Stress o subire la metà dei danni."
+  - name: "Sciame d'Ombra"
+    desc: "*- Azione:* Spendere una Paura per far evocare alla Cryptimoth uno sciame di creature d'ombra simili a falene entro portata Lontana. Lo sciame riempie un'area in portata Vicina e blocca la linea di vista. Le creature che non sono Cryptimoth sono *Vulnerabili* mentre sono all'interno di quell'area e devono segnare uno Stress per attraversarla. Un PG può dissipare lo sciame con un Tiro di Lancio di Incantesimo riuscito (12)."
+  - name: "Sguardo Paranoico"
+    desc: "*- Azione:* Spendere una Paura per far fissare la Cryptimoth negli occhi di un PG entro portata Vicina e renderlo *Paranoico*. Mentre è *Paranoico*, il PG è sospettoso verso gli altri PG e non può *Aiutare un Alleato* né partecipare a Tiri di Squadra. Per rimuovere questa condizione, il PG deve superare un Tiro di Intuizione (16) o partecipare alla mossa di tempi morti *Prepara* con uno o più membri del suo gruppo durante un riposo."
+```

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Suspended Rod
+# Asta Sospesa
 
 **_Item_**
 
-This flat rod is inscribed with runes. When you activate the rod, it is immediately suspended in place. Until the rod is deactivated, it can't move, doesn't abide by the rules of gravity, and remains in place.
+Questa asta piatta è incisa con rune. Quando attivi l'asta, viene immediatamente sospesa in posizione. Finché l'asta non viene disattivata, non può muoversi, non obbedisce alle regole della gravità e rimane in posizione.

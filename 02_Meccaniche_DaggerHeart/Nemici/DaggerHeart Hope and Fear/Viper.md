@@ -4,20 +4,40 @@ type:
   - "[[Minion]]"
 ---
 
-# Viper
-**Tier 1 Minion**
+## Vipera
+* **Descrizione:** Un piccolo serpente che avvelena la sua preda con zanne a cerniera.
+* **Tier:** 1 (Minion)
+* **Difficoltà:** 11
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Radicato +4
+* **Attacchi:**
+  * **Morso:** +3 | Da Vicino | 1 fisico
+* **Tratti e Capacità:**
+  * **Minion (4) - Passiva:** La Vipera viene sconfitta quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge alla Vipera, il PG sconfigge un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe successo.
+  * **Velenosa - Passiva:** Quando la Vipera effettua un attacco standard riuscito, il bersaglio diventa temporaneamente *Avvelenato*. Mentre è *Avvelenato*, il bersaglio deve segnare uno Stress ogni volta che effettua un tiro d'azione.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Viper entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina questi danni.
 
-*A small serpent that envenomates its prey with hinged fangs.*
-
-* **Motives & Tactics:** Lie in wait, slither, strike
-* **Difficulty:** 11
-* **Thresholds:** None
-* **HP:** 1
-* **Stress:** 1
-* **ATK:** +3 | Bite: Melee | 1 phy
-* **Experience:** Grounded +4
-
-## FEATURES
-* **Minion (4) - Passive:** The Viper is defeated when it takes any damage. For every 4 damage a PC deals to the Viper, the PC defeats an additional Minion within range the attack would succeed against.
-* **Venomous - Passive:** When the Viper makes a successful standard attack, the target becomes temporarily Envenomated. While Envenomated, the target must mark a Stress whenever they make an action roll.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Vipers within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 1 physical damage each. Combine this damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Vipera"
+description: "Un piccolo serpente che avvelena la sua preda con zanne a cerniera."
+tier: "1"
+ruolo: "Minion"
+difficolta: "11"
+hp: "1"
+stress: "1"
+esperienza: "Radicato +4"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Morso"
+    desc: "**+3** | Da Vicino | **1** fisico"
+tratti:
+  - name: "Minion (4)"
+    desc: "*- Passiva:* La Vipera viene sconfitta quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge alla Vipera, il PG sconfigge un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe successo."
+  - name: "Velenosa"
+    desc: "*- Passiva:* Quando la Vipera effettua un attacco standard riuscito, il bersaglio diventa temporaneamente Avvelenato. Mentre è Avvelenato, il bersaglio deve segnare uno Stress ogni volta che effettua un tiro d'azione."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Viper entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina questi danni."
+```

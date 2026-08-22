@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Jar of Lost Voices
+# Barattolo delle Voci Perdute
 
-You can open this jar to release a deafening echo of voices for a number of minutes equal to your Instinct. Creatures within Far range unprepared for the sound take 6d8 magic damage.
+Puoi aprire questo barattolo per rilasciare un eco assordante di voci per un numero di minuti pari al tuo Istinto. Le creature entro gittata Lontana non preparate per il suono subiscono 6d8 danni magici.

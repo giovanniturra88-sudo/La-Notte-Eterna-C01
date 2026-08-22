@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 21
 ---
 
-# Gravity Bomb
+# Bomba di Gravità
 
-You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it.
+Puoi lanciare questa sfera meccanica delle dimensioni di una pesca contro un punto entro gittata Lontana. Essa implode e attira tutte le creature e gli oggetti entro gittata Vicina da quel punto in gittata Mischia con essa.

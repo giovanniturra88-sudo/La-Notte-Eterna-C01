@@ -1,6 +1,6 @@
 ---
 type: Sottoclasse
-classe_associata: "[[Blood Hunter]]"
+classe: "[[Blood Hunter]]"
 Dominio:
   - "[[Sangue]]"
   - "[[Ossa]]"

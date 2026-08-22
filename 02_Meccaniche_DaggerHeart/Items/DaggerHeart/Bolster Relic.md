@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Bolster Relic
+# Reliquia del Rinforzo
 
 **_Item_**
 
-You gain a +1 bonus to your Strength. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Forza. Puoi trasportare una sola reliquia.

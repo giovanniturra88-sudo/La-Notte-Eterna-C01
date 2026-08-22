@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Companion Case
+# Custodia per Compagno
 
 **_Item_**
 
-This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects.
+Questa custodia può contenere un piccolo compagno animale. Mentre il compagno è dentro, l'animale e la custodia sono immuni a tutti i danni e agli effetti dannosi.

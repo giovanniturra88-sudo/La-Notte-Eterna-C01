@@ -1,19 +1,43 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
-**_Livello 1 [[Standard]]._** _Un guerriero fatato ornato di armatura fatta di foglie e corteccia._
+## Soldato Silvano
+* **Descrizione:** Un guerriero fatato ornato di armatura fatta di foglie e corteccia.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 11
+* **Soglie di Danno:** 6/11
+* **Punti Ferita:** 4 | **Stress:** 2
+* **Esperienza:** Raggiungitore +2
+* **Attacchi:**
+  * **Falce:** +0 | Da Vicino | 1d8+1 fisico
+* **Tratti e Capacità:**
+  * **Tattiche di Branco - Passiva:** Se il Soldato effettua un attacco standard e un altro Soldato Silvano è in portata Da Vicino dal bersaglio, infligge **1d8+5** danni fisici invece del danno standard.
+  * **Controllo della Foresta - Azione:** **Spendere una Paura** per far crollare un albero in portata Vicina. Una creatura colpita dall'albero deve superare un Tiro di Reazione di Agilità (15) o subire **1d10** danni fisici.
+  * **Fondersi con l'Ambiente - Reazione:** Quando il Soldato effettua un attacco riuscito, puoi **Segnare uno Stress** per diventare _Nascosto_ fino all'attacco successivo del Soldato o fino a quando un PG non supera un Tiro di Istinto (14) per trovarlo.
 
-- **Motivazioni e Tattiche:** Imboscata, nascondersi, sovrastare, proteggere, inseguire
-- **Difficoltà:** 11 | **Soglie:** 6/11 | **PF:** 4 | **Stress:** 2
-- **ATT:** +0 | **Falce:** Mischia | 1d8+1 fis
-- **Esperienza:** Raggiungitore +2
-
-### CARATTERISTICHE
-
-**_Tattiche di Branco - Passiva:_** Se il Soldato effettua un attacco standard e un altro Soldato Silvan è entro portata di Mischia dal bersaglio, infligge **1d8+5** danni fisici invece del danno standard.
-
-**_Controllo della Foresta - Azione:_** **Spendi un Terrore** per far crollare un albero entro portata Vicina. Una creatura colpita dall'albero deve superare un Tiro Reazionativo di Agilità (15) o subire **1d10** danni fisici.
-
-**_Fondersi con l'Ambiente - Reazione:_** Quando il Soldato effettua un attacco riuscito, puoi **marcare uno Stress** per diventare _Nascosto_ fino all'attacco successivo del Soldato o fino a quando un PG non supera un Tiro di Istinto (14) per trovarlo.
+```statblock
+layout: DaggerHeart Nemici
+name: "Soldato Silvano"
+description: "Un guerriero fatato ornato di armatura fatta di foglie e corteccia."
+tier: "1"
+ruolo: "Standard"
+difficolta: "11"
+hp: "4"
+stress: "2"
+esperienza: "Raggiungitore +2"
+soglia_danni: "6/11"
+attacchi:
+  - name: "Falce"
+    desc: "**+0** | Da Vicino | **1d8+1** fisico"
+tratti:
+  - name: "Tattiche di Branco"
+    desc: "*- Passiva:* Se il Soldato effettua un attacco standard e un altro Soldato Silvano è in portata Da Vicino dal bersaglio, infligge 1d8+5 danni fisici invece del danno standard."
+capacita_speciali:
+  - name: "Controllo della Foresta"
+    desc: "*- Azione:* Spendere una Paura per far crollare un albero in portata Vicina. Una creatura colpita dall'albero deve superare un Tiro di Reazione di Agilità (15) o subire 1d10 danni fisici."
+  - name: "Fondersi con l'Ambiente"
+    desc: "*- Reazione:* Quando il Soldato effettua un attacco riuscito, puoi Segnare uno Stress per diventare Nascosto fino all'attacco successivo del Soldato o fino a quando un PG non supera un Tiro di Istinto (14) per trovarlo."
+```

@@ -3,4 +3,4 @@ type: "[[Consumable]]"
 ---
 # Wingsprout
 
-You gain magic wings that allow you to fly for a number of minutes equal to your level.
+Ottieni ali magiche che ti permettono di volare per un numero di minuti pari al tuo livello.

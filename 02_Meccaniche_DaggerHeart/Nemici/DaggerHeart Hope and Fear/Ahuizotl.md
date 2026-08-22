@@ -4,20 +4,40 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Ahuizotl
-**Tier 1 Skulk**
+## Ahuizotl
+* **Descrizione:** Un predatore d'amboscata simile a un cane, con una mano artigliata alla fine di una lunga coda prensile, che trascina le vittime nei fiumi per annegarle.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 5/9
+* **Punti Ferita:** 4 | **Stress:** 3
+* **Esperienza:** Furtività +2, Nuoto +2
+* **Attacchi:**
+  * **Morso:** +2 | Da Vicino | 1d6+2 fisico
+* **Tratti e Capacità:**
+  * **Attaccante Acquatico - Passiva:** Quando l'Ahuizotl attacca dall'acqua, ha vantaggio sull'attacco e infligge 1d6 danni aggiuntivi.
+  * **Schiaffo della Coda - Azione:** Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi 1d8+2 danni fisici.
+  * **Trascina e Affonda - Azione:** Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Vicina con la coda, trascinarlo in portata Da Vicino e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Ristretti in questo modo.
 
-*A doglike ambush predator that has a clawed hand on the end of a long prehensile tail and drags victims into rivers to drown them.*
-
-* **Motives & Tactics:** Ambush, drown, restrain
-* **Difficulty:** 12
-* **Thresholds:** 5/9
-* **HP:** 4
-* **Stress:** 3
-* **ATK:** +2 | Bite: Melee | 1d6+2 phy
-* **Experience:** Stealth +2, Swimming +2
-
-## FEATURES
-* **Aquatic Attacker - Passive:** When the Ahuizotl attacks from the water, it has advantage on the attack and deals an extra 1d6 damage.
-* **Tail Swat - Action:** Mark a Stress to make an attack against a target within Very Close range. On a success, deal 1d8+2 physical damage.
-* **Drag and Bag - Action:** Spend a Fear to have the Ahuizotl grab a target within Close range with its tail, pull the target into Melee range, and temporarily Restrain them. The Ahuizotl has advantage on attacks against targets Restrained in this way.
+```statblock
+layout: DaggerHeart Nemici
+name: "Ahuizotl"
+description: "Un predatore d'amboscata simile a un cane, con una mano artigliata alla fine di una lunga coda prensile, che trascina le vittime nei fiumi per annegarle."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "12"
+hp: "4"
+stress: "3"
+esperienza: "Furtività +2, Nuoto +2"
+soglia_danni: "5/9"
+attacchi:
+  - name: "Morso"
+    desc: "**+2** | Da Vicino | **1d6+2** fisico"
+tratti:
+  - name: "Attaccante Acquatico"
+    desc: "*- Passiva:* Quando l'Ahuizotl attacca dall'acqua, ha vantaggio sull'attacco e infligge 1d6 danni aggiuntivi."
+capacita_speciali:
+  - name: "Schiaffo della Coda"
+    desc: "*- Azione:* Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi 1d8+2 danni fisici."
+  - name: "Trascina e Affonda"
+    desc: "*- Azione:* Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Vicina con la coda, trascinarlo in portata Da Vicino e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Ristretti in questo modo."
+```

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Bloodstone
+# Pietra del Sangue
 
 **_Item_**
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. Brutal: When you roll the maximum value on a damage die, roll an additional damage die.
+Puoi fissare questa pietra a un'arma che non ha già una caratteristica. L'arma ottiene la seguente caratteristica. Brutale: Quando ottieni il valore massimo su un dado di danno, tira un dado di danno aggiuntivo.

@@ -4,17 +4,36 @@ type:
   - "[[Standard]]"
 ---
 
-# Rust eater
-- **Tipo / Ruolo:** Tier 2 Standard
-- **Descrizione:** A pony-sized cockroach coated in a corrosive chitin that turns metal into rust.
-- **Motivi & Tattiche:** Avoid detection, eat rust, sniff out metal
-- **Difficoltà:** 12
-- **Soglie (Thresholds):** 10 / 18
-- **Punti Ferita (HP):** 5
-- **Stress:** 2
-- **Attacco:** +1 | Bite: Melee | 2d6+4 phy
-- **Esperienza:** Snuffle +3
+## Mangiaruggine
+* **Descrizione:** Un scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine.
+* **Tier:** 2 (Standard)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 10/18
+* **Punti Ferita:** 5 | **Stress:** 2
+* **Esperienza:** Fiuto +3
+* **Attacchi:**
+  * **Morso:** +1 | Da Vicino | 2d6+4 fisico
+* **Tratti e Capacità:**
+  * **Feromoni Opprimenti - Passiva:** Un PG che effettua un tiro d'azione entro portata Molto Vicina del Mangiaruggine deve superare un Tiro di Reazione di Istitinto o segnare uno Stress.
+  * **Tocco della Ruggine - Passiva:** La corazza del Mangiaruggine è rivestita di un acido corrosivo che buca e arrugginisce il metallo. Quando un PG entro portata Da Vicino del Mangiaruggine ha successo su un attacco contro di esso con un'arma metallica, riduci il dado dei danni dell'arma di un passo (ad esempio, da d8 a d6 o da d6 a d4). Se il dado dei danni di un'arma viene ridotto sotto un d4, l'arma si sfalda in ruggine. Il Mangiaruggine divora poi il mucchio di ruggine e rimuove un PF.
 
-**Tratti (Features):**
-* **Stifling Pheromones - Passive:** A PC who makes an action roll within Very Close range of the Rust Eater must succeed on an Instinct Reaction Roll or mark a Stress.
-* **Rust Touch - Passive:** The Rust Eater's carapace is coated in a corrosive acid that pits and rusts metal. When a PC within Melee range of the Rust Eater succeeds on an attack against it with a metal weapon, reduce the weapon's damage die by one step (for example, d8 to d6 or d6 to d4). If a weapon's damage die is reduced below a d4, the weapon crumbles into rust. The Rust Eater then devours the rust pile and clears a HP.
+```statblock
+layout: DaggerHeart Nemici
+name: "Mangiaruggine"
+description: "Un scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine."
+tier: "2"
+ruolo: "Standard"
+difficolta: "12"
+hp: "5"
+stress: "2"
+esperienza: "Fiuto +3"
+soglia_danni: "10/18"
+attacchi:
+  - name: "Morso"
+    desc: "**+1** | Da Vicino | **2d6+4** fisico"
+tratti:
+  - name: "Feromoni Opprimenti"
+    desc: "*- Passiva:* Un PG che effettua un tiro d'azione entro portata Molto Vicina del Mangiaruggine deve superare un Tiro di Reazione di Istitinto o segnare uno Stress."
+  - name: "Tocco della Ruggine"
+    desc: "*- Passiva:* La corazza del Mangiaruggine è rivestita di un acido corrosivo che buca e arrugginisce il metallo. Quando un PG entro portata Da Vicino del Mangiaruggine ha successo su un attacco contro di esso con un'arma metallica, riduci il dado dei danni dell'arma di un passo (ad esempio, da d8 a d6 o da d6 a d4). Se il dado dei danni di un'arma viene ridotto sotto un d4, l'arma si sfalda in ruggine. Il Mangiaruggine divora poi il mucchio di ruggine e rimuove un PF."
+```

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Lorekeeper
+# Custode del Sapere
 
 **_Item_**
 
-You can store the name and details of up to three hostile creatures inside this book. You gain a +1 bonus to action rolls against those creatures.
+Puoi conservare il nome e i dettagli di fino a tre creature ostili all'interno di questo libro. Ottieni un bonus di +1 ai tiri di azione contro quelle creature.

@@ -4,20 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Guahalan Alebrujo
-- **Tipo / Ruolo:** Tier 2 Solo
-- **Descrizione:** A huge, colorful, chimeric beast formed from many animals.
-- **Motivi & Tattiche:** Destroy, give no quarter, ravage
-- **Difficoltà:** 14
-- **Soglie (Thresholds):** 13 / 26
-- **Punti Ferita (HP):** 6
-- **Stress:** 5
-- **Attacco:** +3 | Tooth & Claw: Very Close | 2d10+4 mag
-- **Esperienza:** Brutal +2, Quick +2
+## Guahalan Alebrujo
+* **Descrizione:** Una bestia chimerica enorme e colorata, formata da molti animali.
+* **Tier:** 2 (Solo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 13/26
+* **Punti Ferita:** 6 | **Stress:** 5
+* **Esperienza:** Brutale +2, Veloce +2
+* **Attacchi:**
+  * **Denti e Artigli:** +3 | Molto Vicina | 2d10+4 magico
+* **Tratti e Capacità:**
+  * **La Bestia Scatenata - Passiva:** L'Alebrujo guadagna un bonus ai tiri sui danni pari al numero di Paura che hai.
+  * **Sacrificio Guahalan - Azione:** Spendere una Paura per far divorare all'Alebrujo un Minion entro portata Molto Vicina, poi rimuovere un PF o uno Stress.
+  * **Ululato della Guahala - Azione:** Segnare uno Stress per far emettere all'Alebrujo un ululato. Ogni PG entro portata Lontana deve superare un Tiro di Reazione di Presenza o diventare temporaneamente *In Panico*. Mentre è *In Panico*, un PG deve segnare uno Stress quando viene messo a fuoco.
+  * **Strappare e Sfracellare - Azione:** Spendere una Paura per effettuare un attacco standard con il vantaggio. In caso di successo, puoi segnare uno Stress per effettuare un altro attacco standard contro un bersaglio aggiuntivo entro portata. Puoi continuare a segnare Stress per effettuare attacchi aggiuntivi finché l'Alebrujo non fallisce un tiro d'attacco.
+  * **Spettacolo Brutale - Reazione:** Quando l'Alebrujo infligge danni Gravi, puoi spendere una Paura per costringere tutti i bersagli entro portata Vicina a segnare uno Stress.
 
-**Tratti (Features):**
-* **The Beast Unleashed - Passive:** The Alebrujo gains a bonus to damage rolls equal to the number of Fear you have.
-* **Guahalan Sacrifice - Action:** Spend a Fear to have the Alebrujo devour a Minion within Very Close range, then clear a HP or a Stress.
-* **Howl of the Guahala - Action:** Mark a Stress to have the Alebrujo emit a howl. Each PC within Far range must succeed on a Presence Reaction Roll or become temporarily Panicked. While Panicked, a PC must mark a Stress when they take the spotlight.
-* **Rip & Tear - Action:** Spend a Fear to make a standard attack with advantage. On a success, you can mark a Stress to make another standard attack against an additional target within range. You can continue marking Stress to make additional attacks until the Alebrujo fails an attack roll.
-* **Brutal Spectacle - Reaction:** When the Alebrujo deals Severe damage, you can spend a Fear to force all targets within Close range to mark a Stress.
+```statblock
+layout: DaggerHeart Nemici
+name: "Guahalan Alebrujo"
+description: "Una bestia chimerica enorme e colorata, formata da molti animali."
+tier: "2"
+ruolo: "Solo"
+difficolta: "14"
+hp: "6"
+stress: "5"
+esperienza: "Brutale +2, Veloce +2"
+soglia_danni: "13/26"
+attacchi:
+  - name: "Denti e Artigli"
+    desc: "**+3** | Molto Vicina | **2d10+4** magico"
+tratti:
+  - name: "La Bestia Scatenata"
+    desc: "*- Passiva:* L'Alebrujo guadagna un bonus ai tiri sui danni pari al numero di Paura che hai."
+capacita_speciali:
+  - name: "Sacrificio Guahalan"
+    desc: "*- Azione:* Spendere una Paura per far divorare all'Alebrujo un Minion entro portata Molto Vicina, poi rimuovere un PF o uno Stress."
+  - name: "Ululato della Guahala"
+    desc: "*- Azione:* Segnare uno Stress per far emettere all'Alebrujo un ululato. Ogni PG entro portata Lontana deve superare un Tiro di Reazione di Presenza o diventare temporaneamente *In Panico*. Mentre è *In Panico*, un PG deve segnare uno Stress quando viene messo a fuoco."
+  - name: "Strappare e Sfracellare"
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco standard con il vantaggio. In caso di successo, puoi segnare uno Stress per effettuare un altro attacco standard contro un bersaglio aggiuntivo entro portata. Puoi continuare a segnare Stress per effettuare attacchi aggiuntivi finché l'Alebrujo non fallisce un tiro d'attacco."
+  - name: "Spettacolo Brutale"
+    desc: "*- Reazione:* Quando l'Alebrujo infligge danni Gravi, puoi spendere una Paura per costringere tutti i bersagli entro portata Vicina a segnare uno Stress."
+```

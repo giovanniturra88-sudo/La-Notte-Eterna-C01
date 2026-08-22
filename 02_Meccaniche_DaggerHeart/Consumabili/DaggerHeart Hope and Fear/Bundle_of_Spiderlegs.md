@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 17
 ---
 
-# Bundle of Spiderlegs
+# Fascio di Zampe di Ragno
 
-You can eat these spiderlegs to walk on walls until your next rest.
+Puoi mangiare queste zampe di ragno per camminare sui muri fino al tuo prossimo riposo.

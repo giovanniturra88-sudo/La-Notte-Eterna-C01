@@ -1,21 +1,45 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Capo]]"
 ---
 
-**_[[Capo]] Tier 2._** _Un capo clandestino con un canale diretto verso gli Dei Caduti._
+## Custode dei Segreti
+* **Descrizione:** Un capo clandestino con un canale diretto verso gli Dei Caduti.
+* **Tier:** 2 (Capo)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 13/26
+* **Punti Ferita:** 7 | **Stress:** 4
+* **Esperienza:** Coercizione +2, Conoscenza dei Caduti +2
+* **Attacchi:**
+  * **Bastone Carico di Sigilli:** +3 | Lontana | 2d12 magico
+* **Tratti e Capacità:**
+  * **Sfrutta il Momento - Azione:** **Spendere 2 Paura** per mettere a fuoco **1d4** alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono danni pari alla metà.
+  * **Volontà del nostro Padrone - Reazione:** Quando metti a fuoco un alleato entro portata Lontana, **segnare uno Stress** per guadagnare una Paura.
+  * **Rituali di Evocazione - Reazione: Conto alla Rovina (6):** Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Vicina.
+  * **Cani Demoni - Reazione:** Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi **segnare uno Stress** per evocare una Mandria di Cani Demoni, che appare a portata Vicina e viene immediatamente messa a fuoco.
 
-- **Motivazioni e Tattiche:** Accumulare grande potere, trama, prendere il comando
-- **Difficoltà:** 16 | **Soglie:** 13/26 | **PF:** 7 | **Stress:** 4
-- **ATT:** +3 | **Bastone Carico di Sigilli:** Far | 2d12 mag
-- **Esperienza:** Coercizione +2, Conoscenza dei Caduti +2
-
-### CARATTERISTICHE
-
-**_Sfrutta il Momento - Azione:_** **Spendi 2 Paura** per mettere in risalto **1d4** alleati. Gli attacchi che effettuano mentre sono messi in risalto in questo modo arrecano danni pari alla metà.
-
-**_Volontà del nostro Padrone - Reazione:_** Quando metti in risalto un alleato entro portata Far, **segna uno Stress** per guadagnare una Paura.
-
-**_Rituali di Evocazione - Reazione: Conto alla Rovescia (6):_** Quando il Custode dei Segreti è messo in risalto per la prima volta, attiva il conto alla rovescia. Quando segna PF, fai avanzare il conto alla rovescia del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Vicina.
-
-**_Cani Demoni - Reazione:_** Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi **segnare uno Stress** per evocare una Mandria di Cani Demoni, che appare a portata Vicina e viene immediatamente messo in risalto.
+```statblock
+layout: DaggerHeart Nemici
+name: "Custode dei Segreti"
+description: "Un capo clandestino con un canale diretto verso gli Dei Caduti."
+tier: "2"
+ruolo: "Capo"
+difficolta: "16"
+hp: "7"
+stress: "4"
+esperienza: "Coercizione +2, Conoscenza dei Caduti +2"
+soglia_danni: "13/26"
+attacchi:
+  - name: "Bastone Carico di Sigilli"
+    desc: "**+3** | Lontana | **2d12** magico"
+capacita_speciali:
+  - name: "Sfrutta il Momento"
+    desc: "*- Azione:* Spendere 2 Paura per mettere a fuoco 1d4 alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono danni pari alla metà."
+  - name: "Volontà del nostro Padrone"
+    desc: "*- Reazione:* Quando metti a fuoco un alleato entro portata Lontana, segnare uno Stress per guadagnare una Paura."
+  - name: "Rituali di Evocazione"
+    desc: "*- Reazione: Conto alla Rovina (6):* Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Vicina."
+  - name: "Cani Demoni"
+    desc: "*- Reazione:* Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi segnare uno Stress per evocare una Mandria di Cani Demoni, che appare a portata Vicina e viene immediatamente messa a fuoco."
+```

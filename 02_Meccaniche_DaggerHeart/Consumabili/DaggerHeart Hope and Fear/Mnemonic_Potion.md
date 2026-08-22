@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 27
 ---
 
-# Mnemonic Potion
+# Pozione Mnemonica
 
-You can drink this potion to Utilize an Experience without spending a Hope.
+Puoi bere questa pozione per Utilizzare un'Esperienza senza spendere una Speranza.

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Honing Relic
+# Reliquia di Affilatura
 
 **_Item_**
 
-You gain a +1 bonus to an Experience of your choice. You can only carry one relic.
+Ottieni un bonus di +1 a un'Esperienza di tua scelta. Puoi trasportare una sola reliquia.

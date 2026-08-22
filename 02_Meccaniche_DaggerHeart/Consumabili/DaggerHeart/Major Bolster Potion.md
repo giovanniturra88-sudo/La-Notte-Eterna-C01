@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Bolster Potion
+# Pozione di Rafforzamento Maggiore
 
-You gain a +1 bonus to your Strength until your next rest.
+Ottieni un bonus di +1 alla tua Forza fino al tuo prossimo riposo.

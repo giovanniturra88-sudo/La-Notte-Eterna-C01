@@ -4,22 +4,50 @@ type:
   - "[[Solo]]"
 ---
 
-# Supreme Demiurge Adonix
-*Tier 4 Solo*
-*The four-faced angel from the Hallows Above who manifests in the Mortal Realm as a floating tetrahedron with numerous eyes and multiple sets of metallic feathered wings.*
+## Supremo Demiurgo Adonix
+* **Descrizione:** L'angelo a quattro volti dai Sacri Confini Superiori, che si manifesta nel Regno Mortale come un tetraedro fluttuante con numerosi occhi e molteplici gruppi di ali metalliche piumate.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 35/70
+* **Punti Ferita:** 12 | **Stress:** 10
+* **Esperienza:** Onnipotenza +10, Non Avere Paura +5
+* **Attacchi:**
+  * **Colpo d'Ala:** +8 | Vicina | 4d12+10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (4) - Passiva:** Adonix può essere messo a fuoco fino a quattro volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Arconte Elementale - Azione:** Segnare uno Stress per tirare un d4. Adonix attiva l'effetto corrispondente:
+    1. **Raggio di Fuoco.** Adonix manifesta un raggio di fuoco elementare con una larghezza Molto Vicina da sé al bordo del campo di battaglia. Ogni bersaglio lungo il percorso del raggio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono danni Gravi. I bersagli che riescono subiscono danni Minori.
+    2. **Tuono.** Tutte le creature entro portata Lontana devono segnare uno Stress e diventare *Vulnerabili* finché non hanno successo su un tiro d'attacco o il Demiurgo viene sconfitto.
+    3. **Fulmine.** Effettua un attacco contro un bersaglio entro portata Molto Lontana, infliggendo 4d8 danni magici in caso di successo. Se tutti i risultati sono pari, effettua lo stesso attacco contro un bersaglio diverso, ripetendo il ciclo finché non tiri un risultato dispari o finisci i bersagli.
+    4. **Tempesta di Ghiaccio.** Ogni PG entro portata Vicina deve superare un Tiro di Reazione di Forza o segnare 1d4 Stress e diventare *Ristretto* finché non spende una Speranza per fuggire.
+  * **Alfa a Omega - Evoluzione:** Quando Adonix viene sconfitto, risorge in forma Omega con tutti i PF e lo Stress rimossi. Ogni PG entro portata Molto Lontana deve superare un Tiro di Reazione di Presenza o perdere una Speranza. Guadagni una Paura per ogni Speranza persa in questo modo. Adonix guadagna i seguenti tratti in questa forma:
+    * **Abbandonato - Azione:** Spendere una Paura per scegliere un PG e attivare un Conto alla Rovina dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla Rovina dell'Abbandono attivo alla volta.
+    * **Armageddon - Reazione:** Quando Adonix viene di nuovo sconfitto, scatena una tempesta della realtà che scuote i regni fino alle loro fondamenta. Tira un d6. Su un risultato di 5–6, ogni PG deve effettuare una mossa di morte.
 
-**Motives & Tactics:** Establish dominion, exile from reality, float above it all, speak into being
-**Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 12 | **Stress:** 10
-**ATK:** +8 | **Wing Strike:** Close | 4d12+10 phy
-**Experience:** Omnipotence +10, Be Not Afraid +5
-
-## FEATURES
-* **Relentless (4) - Passive:** Adonix can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
-* **Elemental Archon - Action:** Mark a Stress to roll a d4. Adonix activates the corresponding effect:
-  1. **Fire Beam.** Adonix manifests a beam of elemental fire with a Very Close width from themselves to the edge of the battlefield. Each target in the beam's path must make an Agility Reaction Roll. Targets who fail take Severe damage. Targets who succeed take Minor damage.
-  2. **Thunderclap.** All creatures within Far range must mark a Stress and become *Vulnerable* until they succeed on an attack roll or the Demiurge is defeated.
-  3. **Lightning Bolt.** Make an attack against a target within Very Far range, dealing 4d8 magic damage on a success. If all results are even, make the same attack against a different target, repeating the cycle until you roll an odd result or run out of targets.
-  4. **Ice Storm.** Each PC within Close range must succeed on a Strength Reaction Roll or mark 1d4 Stress and become *Restrained* until they spend a Hope to escape.
-* **Alpha to Omega - Evolution:** When Adonix is defeated, they resurrect in Omega form with all HP and Stress cleared. Each PC within Very Far range must succeed on a Presence Reaction Roll or lose a Hope. You gain a Fear for each Hope lost in this way. Adonix gains the following features in this form:
-  * **Forsaken - Action:** Spend a Fear to choose a PC and activate a Forsaken Countdown (1d8) for them. It ticks down when Adonix is spotlighted. When it triggers, the PC must mark all their HP. The countdown ends if Adonix takes Severe damage. You can have only one Forsaken Countdown active at a time.
-  * **Armageddon - Reaction:** When Adonix is defeated again, they unleash a reality storm that shakes the realms to their foundations. Roll a d6. On a result of 5–6, each PC must make a death move.
+```statblock
+layout: DaggerHeart Nemici
+name: "Supremo Demiurgo Adonix"
+description: "L'angelo a quattro volti dai Sacri Confini Superiori, che si manifesta nel Regno Mortale come un tetraedro fluttuante con numerosi occhi e molteplici gruppi di ali metalliche piumate."
+tier: "4"
+ruolo: "Solo"
+difficolta: "20"
+hp: "12"
+stress: "10"
+esperienza: "Onnipotenza +10, Non Avere Paura +5"
+soglia_danni: "35/70"
+attacchi:
+  - name: "Colpo d'Ala"
+    desc: "**+8** | Vicina | **4d12+10** fisico"
+tratti:
+  - name: "Inesorabile (4)"
+    desc: "*- Passiva:* Adonix può essere messo a fuoco fino a quattro volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+capacita_speciali:
+  - name: "Arconte Elementale"
+    desc: "*- Azione:* Segnare uno Stress per tirare un d4. Adonix attiva l'effetto corrispondente: 1. Raggio di Fuoco. 2. Tuono. 3. Fulmine. 4. Tempesta di Ghiaccio (vedi descrizione completa nel corpo del file)."
+  - name: "Alfa a Omega (Evoluzione)"
+    desc: "*- Evoluzione:* Quando Adonix viene sconfitto, risorge in forma Omega con tutti i PF e lo Stress rimossi. Ogni PG entro portata Molto Lontana deve superare un Tiro di Reazione di Presenza o perdere una Speranza. Guadagni una Paura per ogni Speranza persa. Adonix guadagna i tratti 'Abbandonato' e 'Armageddon'."
+  - name: "Abbandonato"
+    desc: "*- Azione:* Spendere una Paura per scegliere un PG e attivare un Conto alla Rovina dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla Rovina dell'Abbandono attivo alla volta."
+  - name: "Armageddon"
+    desc: "*- Reazione:* Quando Adonix viene di nuovo sconfitto, scatena una tempesta della realtà che scuote i regni fino alle loro fondamenta. Tira un d6. Su un risultato di 5–6, ogni PG deve effettuare una mossa di morte."
+```

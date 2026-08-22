@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 38
 ---
 
-# Demiurge's Draught
+# Bevanda del Demiurgo
 
-You can drink this draught to gain a +1 bonus to your Proficiency for your next successful attack roll.
+Puoi bere questa bevanda per ottenere un bonus di +1 alla tua Competenza per il tuo prossimo tiro di attacco riuscito.

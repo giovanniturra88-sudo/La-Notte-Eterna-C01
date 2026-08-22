@@ -1,16 +1,37 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Standard]]"
 ---
 
-**_Tier 1 [[Standard]]._** _Un cadavere animato che si muove in modo tremante, spinto solo dalla fame._
+## Zombie Barcollante
+* **Descrizione:** Un cadavere animato che si muove in modo tremante, spinto solo dalla fame.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 10
+* **Soglie di Danno:** 4/6
+* **Punti Ferita:** 4 | **Stress:** 1
+* **Attacchi:**
+  * **Morso:** +0 | Da Vicino | 1d6+1 fisico
+* **Tratti e Capacità:**
+  * **Troppi da Gestire - Passiva:** Quando lo Zombie è in portata Da Vicino di una creatura e almeno un altro Zombie è in portata Da Vicino, tutti gli attacchi contro quella creatura hanno vantaggio.
+  * **Orribile - Passiva:** Chi segna PF dagli attacchi dello Zombie deve segnare anche uno Stress.
 
-- **Motivi e Tattiche:** Divorare, affamato, nemico in massa, strappare carne
-- **Difficoltà:** 10 | **Soglie:** 4/6 | **PF:** 4 | **Stress:** 1
-- **ATT:** +0 | **Morso:** Mischia | 1d6+1 fis
-
-### CARATTERISTICHE
-
-**_Troppi da Gestire - Passiva:_** Quando lo Zombie è nella portata di mischia di una creatura e almeno un altro Zombie è nella portata ravvicinata, tutti gli attacchi contro quella creatura hanno vantaggio.
-
-**_Orribile - Passiva:_** Chi segna PF dagli attacchi dello Zombie deve segnare anche uno Stress.
+```statblock
+layout: DaggerHeart Nemici
+name: "Zombie Barcollante"
+description: "Un cadavere animato che si muove in modo tremante, spinto solo dalla fame."
+tier: "1"
+ruolo: "Standard"
+difficolta: "10"
+hp: "4"
+stress: "1"
+soglia_danni: "4/6"
+attacchi:
+  - name: "Morso"
+    desc: "**+0** | Da Vicino | **1d6+1** fisico"
+tratti:
+  - name: "Troppi da Gestire"
+    desc: "*- Passiva:* Quando lo Zombie è in portata Da Vicino di una creatura e almeno un altro Zombie è in portata Da Vicino, tutti gli attacchi contro quella creatura hanno vantaggio."
+  - name: "Orribile"
+    desc: "*- Passiva:* Chi segna PF dagli attacchi dello Zombie deve segnare anche uno Stress."
+```

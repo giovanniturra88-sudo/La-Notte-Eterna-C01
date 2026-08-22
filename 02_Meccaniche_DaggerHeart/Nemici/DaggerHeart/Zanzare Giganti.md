@@ -1,19 +1,43 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Orda]]"
 ---
 
-**_[[Orda]] di Tier 1 (5/HP)._** _Dozzine di zanzare della grandezza di un pugno, che volano insieme per proteggersi._
+## Zanzare Giganti
+* **Descrizione:** Dozzine di zanzare della grandezza di un pugno, che volano insieme per proteggersi.
+* **Tier:** 1 (Orda, 5/PF)
+* **Difficoltà:** 10
+* **Soglie di Danno:** 5/9
+* **Punti Ferita:** 6 | **Stress:** 3
+* **Esperienza:** Camuffamento +2
+* **Attacchi:**
+  * **Proboscide:** -2 | Da Vicino | 1d8+3 fisico
+* **Tratti e Capacità:**
+  * **Orda (1d4+1) - Passiva:** Quando le Mosche hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
+  * **Volante - Passiva:** Mentre volano, le Mosche hanno un bonus di +2 alla loro Difficoltà.
+  * **Sanguisuga - Reazione:** Quando l'attacco delle Mosche causa a un bersaglio di segnare PF, puoi **Segnare uno Stress** per costringere il bersaglio a segnare un PF aggiuntivo.
 
-- **Motivazioni e Tattiche:** Volano via, assediano, rubano sangue
-- **Difficoltà:** 10 | **Soglie:** 5/9 | **PF:** 6 | **Stress:** 3
-- **ATT:** -2 | **Proboscide:** Mischia | 1d8+3 fis
-- **Esperienza:** Camuffamento +2
-
-### CARATTERISTICHE
-
-**_Orda (1d4+1) - Passiva:_** Quando le Mosche hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
-
-**_Volante - Passiva:_** Mentre volano, le Mosche hanno un bonus di +2 alla loro Difficoltà.
-
-**_Sanguisuga - Reaziona:_** Quando l'attacco delle Mosche causa a un bersaglio di segnare PF, puoi **segnare uno Stress** per costringere il bersaglio a segnare un PF aggiuntivo.
+```statblock
+layout: DaggerHeart Nemici
+name: "Zanzare Giganti"
+description: "Dozzine di zanzare della grandezza di un pugno, che volano insieme per proteggersi."
+tier: "1"
+ruolo: "Orda"
+difficolta: "10"
+hp: "6"
+stress: "3"
+esperienza: "Camuffamento +2"
+soglia_danni: "5/9"
+attacchi:
+  - name: "Proboscide"
+    desc: "**-2** | Da Vicino | **1d8+3** fisico"
+tratti:
+  - name: "Orda (1d4+1)"
+    desc: "*- Passiva:* Quando le Mosche hanno segnato metà o più dei loro PF, il loro attacco standard infligge 1d4+1 danni fisici invece."
+  - name: "Volante"
+    desc: "*- Passiva:* Mentre volano, le Mosche hanno un bonus di +2 alla loro Difficoltà."
+capacita_speciali:
+  - name: "Sanguisuga"
+    desc: "*- Reazione:* Quando l'attacco delle Mosche causa a un bersaglio di segnare PF, puoi Segnare uno Stress per costringere il bersaglio a segnare un PF aggiuntivo."
+```

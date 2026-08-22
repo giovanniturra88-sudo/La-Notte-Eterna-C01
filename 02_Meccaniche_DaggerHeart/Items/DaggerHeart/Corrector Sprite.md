@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Corrector Sprite
+# Spiritello Correttore
 
 **_Item_**
 
-This tiny sprite sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you can gain advantage on an attack roll.
+Questo minuscolo spiritello si posiziona nella curva del tuo condotto uditivo e sussurra consigli utili durante il combattimento. Una volta per riposo breve, puoi ottenere vantaggio su un tiro per colpire.

@@ -4,21 +4,49 @@ type:
   - "[[Capo]]"
 ---
 
-# Entombed Empress
-- **Tipo / Ruolo:** Tier 2 Leader
-- **Descrizione:** The undead ruler of a forgotten realm. She's been given blasphemous funeral rites to prevent her soul from moving on.
-- **Motivi & Tattiche:** Command inferiors, curse the invaders
-- **Difficoltà:** 16
-- **Soglie (Thresholds):** 12 / 24
-- **Punti Ferita (HP):** 6
-- **Stress:** 5
-- **Attacco:** +2 | Swipe: Melee | 2d8+2 phy
-- **Esperienza:** Ruler +4, Undead +2
+## Imperatrice Sepolta
+* **Descrizione:** La sovrana non-morto di un regno dimenticato. Le sono stati concessi riti funebri blasfemi per impedire alla sua anima di passare oltre.
+* **Tier:** 2 (Capo)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 12/24
+* **Punti Ferita:** 6 | **Stress:** 5
+* **Esperienza:** Sovrana +4, Non-Morto +2
+* **Attacchi:**
+  * **Sferzata:** +2 | Da Vicino | 2d8+2 fisico
+* **Tratti e Capacità:**
+  * **Guscio Vuoto - Passiva:** L'Imperatrice ha resistenza ai danni fisici.
+  * **Organi Mancanti - Passiva:** Gli organi interni dell'Imperatrice sono stati rimossi e posti in sei contenitori di cristallo nascosti in tutta la sua tomba. Ogni volta che i PG ne trovano e distruggono uno, l'Imperatrice segna un PF.
+  * **Catene Aggrappanti - Azione:** Segnare uno Stress per far bersagliare all'Imperatrice una creatura entro portata Vicina e tentare di legarla telecineticamente con le sue catene funebri. Effettua un attacco contro un bersaglio entro portata Vicina. In caso di successo, l'Imperatrice trascina il bersaglio in portata Da Vicino, infligge 2d8 danni fisici e lo *Ristretta* temporaneamente.
+  * **Obedienza Immortale - Azione:** Fino a tre volte per scena, puoi spendere una Paura per mettere a fuoco qualsiasi numero di alleati entro portata Vicina. Se qualsiasi attacco ha successo contro lo stesso bersaglio, combina i danni.
+  * **Carezza Maledetta - Reazione:** Quando l'Imperatrice effettua un attacco standard riuscito contro un PG, puoi spendere una Paura per attivare un Conto alla Rovina della Morte (1d6+1) per quel PG. Si riduce quando un PG tira con Paura. Quando scatta, il PG segna tutti i PF ed effettua una mossa di morte. Se l'Imperatrice viene sconfitta o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano.
+  * **Trasformazione Finale (Cambio di Fase) - Reazione:** Quando l'Imperatrice segna l'ultimo PF, sostituiscila con la Bestia Gatto Sepolta e mettila immediatamente a fuoco.
 
-**Tratti (Features):**
-* **Empty Husk - Passive:** The Empress has resistance to physical damage.
-* **Missing Organs - Passive:** The Empress's internal organs have been removed and placed into six crystal containers hidden throughout her tomb. Each time the PCs find and destroy one, the Empress marks a HP.
-* **Grasping Chains - Action:** Mark a Stress to have the Empress target a creature within Close range and try to telekinetically bind them with her funeral chains. Make an attack against a target within Close range. On a success, the Empress pulls the target into Melee range, deals 2d8 physical damage, and temporarily Restrains them.
-* **Deathless Obedience - Action:** Up to three times per scene, you can spend a Fear to spotlight any number of allies within Close range. If any attacks succeed against the same target, combine the damage.
-* **Accursed Caress - Reaction:** When the Empress makes a successful standard attack against a PC, you can spend a Fear to activate a Doom Countdown (1d6+1) for that PC. It ticks down when a PC rolls with Fear. When it triggers, the PC marks all HP and makes a death move. If the Empress is defeated or the PCs take a rest, all Doom Countdowns end.
-* **Final Transformation (Phase Change) - Reaction:** When the Empress marks her last HP, replace her with the Entombed Cat Beast and immediately spotlight them.
+```statblock
+layout: DaggerHeart Nemici
+name: "Imperatrice Sepolta"
+description: "La sovrana non-morto di un regno dimenticato. Le sono stati concessi riti funebri blasfemi per impedire alla sua anima di passare oltre."
+tier: "2"
+ruolo: "Capo"
+difficolta: "16"
+hp: "6"
+stress: "5"
+esperienza: "Sovrana +4, Non-Morto +2"
+soglia_danni: "12/24"
+attacchi:
+  - name: "Sferzata"
+    desc: "**+2** | Da Vicino | **2d8+2** fisico"
+tratti:
+  - name: "Guscio Vuoto"
+    desc: "*- Passiva:* L'Imperatrice ha resistenza ai danni fisici."
+  - name: "Organi Mancanti"
+    desc: "*- Passiva:* Gli organi interni dell'Imperatrice sono stati rimossi e posti in sei contenitori di cristallo nascosti in tutta la sua tomba. Ogni volta che i PG ne trovano e distruggono uno, l'Imperatrice segna un PF."
+capacita_speciali:
+  - name: "Catene Aggrappanti"
+    desc: "*- Azione:* Segnare uno Stress per far bersagliare all'Imperatrice una creatura entro portata Vicina e tentare di legarla telecineticamente con le sue catene funebri. Effettua un attacco contro un bersaglio entro portata Vicina. In caso di successo, l'Imperatrice trascina il bersaglio in portata Da Vicino, infligge 2d8 danni fisici e lo *Ristretta* temporaneamente."
+  - name: "Obedienza Immortale"
+    desc: "*- Azione:* Fino a tre volte per scena, puoi spendere una Paura per mettere a fuoco qualsiasi numero di alleati entro portata Vicina. Se qualsiasi attacco ha successo contro lo stesso bersaglio, combina i danni."
+  - name: "Carezza Maledetta"
+    desc: "*- Reazione:* Quando l'Imperatrice effettua un attacco standard riuscito contro un PG, puoi spendere una Paura per attivare un Conto alla Rovina della Morte (1d6+1) per quel PG. Si riduce quando un PG tira con Paura. Quando scatta, il PG segna tutti i PF ed effettua una mossa di morte. Se l'Imperatrice viene sconfitta o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano."
+  - name: "Trasformazione Finale (Cambio di Fase)"
+    desc: "*- Reazione:* Quando l'Imperatrice segna l'ultimo PF, sostituiscila con la Bestia Gatto Sepolta e mettila immediatamente a fuoco."
+```

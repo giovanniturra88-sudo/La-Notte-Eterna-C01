@@ -1,10 +1,10 @@
 ---
-type: 
+type:
   - "[[Item]]"
 ---
 
-# Arcane Prism
+# Prisma Arcano
 
 **_Item_**
 
-Position this prism in a location of your choosing and activate it. All allies within Close range of it gain a +1 bonus to their Spellcast Rolls. While activated, the prism can't be moved. Once the prism is deactivated, it can't be activated again until your next long rest.
+Posiziona questo prisma in un luogo a tua scelta e attivalo. Tutti gli alleati entro gittata Vicina da esso ottengono un bonus di +1 ai loro Tiri di Incantesimo. Mentre è attivo, il prisma non può essere spostato. Una volta disattivato, non può essere riattivato fino al tuo prossimo riposo lungo.

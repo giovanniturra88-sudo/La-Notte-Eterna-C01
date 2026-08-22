@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 5
 ---
 
-# Mossmantle Potion
+# Pozione del Mantello di Muschio
 
-You can drink this tea to perfectly blend into natural environments until your next rest.
+Puoi bere questo tè per fonderti perfettamente negli ambienti naturali fino al tuo prossimo riposo.

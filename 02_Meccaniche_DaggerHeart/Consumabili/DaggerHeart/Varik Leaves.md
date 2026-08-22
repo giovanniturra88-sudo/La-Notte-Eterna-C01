@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Varik Leaves
+# Foglie di Varik
 
-You can eat these paired leaves to immediately gain 2 Hope.
+Puoi mangiare queste foglie in coppia per guadagnare immediatamente 2 Speranza.

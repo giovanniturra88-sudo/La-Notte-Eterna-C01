@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 11
 ---
 
-# Deathseer's Powder
+# Polvere del Veggente della Morte
 
-You can sprinkle this powder over a recently deceased corpse to conjure a spectral reprise of their final minute of life.
+Puoi spargere questa polvere su un cadavere di recente defunto per evocare una ripresa spettrale dell'ultimo minuto della sua vita.

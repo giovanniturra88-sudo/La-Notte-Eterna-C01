@@ -12,8 +12,8 @@ tier: 1
 ruolo: "primaria"
 ---
 
-### SHADOWHUNTER
+### Cacciatore d'Ombra
 
-**_Darkwalker: You can move through solid objects and creatures as if they were difficult terrain_**
+**_Camminatore delle Tenebre: Puoi muoverti attraverso oggetti solidi e creature come se fossero terreno difficile_**
 
 ---

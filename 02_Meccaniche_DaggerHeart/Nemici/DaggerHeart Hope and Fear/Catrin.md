@@ -4,18 +4,40 @@ type:
   - "[[Sociale]]"
 ---
 
-# Catrin
-- **Tipo / Ruolo:** Tier 3 Social
-- **Descrizione:** A lavishly adorned skeleton that has an endless appetite for gold.
-- **Motivi & Tattiche:** Dominate the conversation, seek attention, steal everything
-- **Difficoltà:** 17
-- **Soglie (Thresholds):** 20 / 32
-- **Punti Ferita (HP):** 5
-- **Stress:** 6
-- **Attacco:** +3 | Spirit Flame: Far | 3d8+5 mag
-- **Esperienza:** Opulence +2, Storyteller +2
+## Catrin
+* **Descrizione:** Uno scheletro sontuosamente adornato, con un'appetito insaziabile per l'oro.
+* **Tier:** 3 (Sociale)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 20/32
+* **Punti Ferita:** 5 | **Stress:** 6
+* **Esperienza:** Opulenza +2, Racconto +2
+* **Attacchi:**
+  * **Fiamma Spirituale:** +3 | Lontano | 3d8+5 magico
+* **Tratti e Capacità:**
+  * **Attratta dalla Ricchezza - Passiva:** I PG che portano almeno una borsa d'oro hanno vantaggio sui Tiri di Presenza effettuati per influenzare la Catrin.
+  * **Il Peso dell'Opulenza - Azione:** Spendere una Paura per far volgere lo sguardo della Catrin verso il PG che porta più oro. Il bersaglio deve superare un Tiro di Reazione d'Istinto o perdere una Speranza per ogni borsa d'oro che porta. Se il PG perde l'ultima Speranza o non ne ha da perdere, segna Stress invece.
+  * **Fallimento Costoso - Reazione:** Quando un PG entro portata Da Vicino fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG.
 
-**Tratti (Features):**
-* **Attracted to Wealth - Passive:** PCs carrying at least a bag of gold gain advantage on Presence Rolls made to influence the Catrin.
-* **The Weight of Opulence - Action:** Spend a Fear to turn the Catrin's gaze toward the PC carrying the most gold. The target must succeed on an Instinct Reaction Roll or lose a Hope for each bag of gold they're carrying. If the PC loses their last Hope or has no Hope to lose, they mark Stress instead.
-* **Expensive Failure - Reaction:** When a PC within Melee range fails an action roll, you can mark a Stress to have the Catrin brazenly steal a handful of gold from them.
+```statblock
+layout: DaggerHeart Nemici
+name: "Catrin"
+description: "Uno scheletro sontuosamente adornato, con un'appetito insaziabile per l'oro."
+tier: "3"
+ruolo: "Sociale"
+difficolta: "17"
+hp: "5"
+stress: "6"
+esperienza: "Opulenza +2, Racconto +2"
+soglia_danni: "20/32"
+attacchi:
+  - name: "Fiamma Spirituale"
+    desc: "**+3** | Lontano | **3d8+5** magico"
+tratti:
+  - name: "Attratta dalla Ricchezza"
+    desc: "*- Passiva:* I PG che portano almeno una borsa d'oro hanno vantaggio sui Tiri di Presenza effettuati per influenzare la Catrin."
+capacita_speciali:
+  - name: "Il Peso dell'Opulenza"
+    desc: "*- Azione:* Spendere una Paura per far volgere lo sguardo della Catrin verso il PG che porta più oro. Il bersaglio deve superare un Tiro di Reazione d'Istinto o perdere una Speranza per ogni borsa d'oro che porta. Se il PG perde l'ultima Speranza o non ne ha da perdere, segna Stress invece."
+  - name: "Fallimento Costoso"
+    desc: "*- Reazione:* Quando un PG entro portata Da Vicino fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG."
+```

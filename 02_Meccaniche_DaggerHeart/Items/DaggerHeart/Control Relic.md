@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Control Relic
+# Reliquia di Controllo
 
 **_Item_**
 
-You gain a +1 bonus to your Finesse. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Finezza. Puoi trasportare una sola reliquia.

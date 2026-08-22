@@ -4,18 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Gargantuan War Machine
-*Tier 4 Solo*
-*A 100-foot-tall adamantine construct that has gemstone eyes, powered by a chest crucible of elemental flame.*
+## Macchina da Guerra Gargantuesca
+* **Descrizione:** Un costrutto di adamantio alto 100 piedi, con occhi di gemme, alimentato da un crogiolo pettorale di fiamma elementale.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 48/88
+* **Punti Ferita:** 10 | **Stress:** 6
+* **Esperienza:** Indistruttibile +3
+* **Attacchi:**
+  * **Pugni di Ferro:** +7 | Vicina | 4d12+10 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** La Macchina può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Dimensioni Imponenti - Passiva:** Quando la Macchina entra in campo di battaglia, ogni PG deve o perdere una Speranza o segnare 1d4 Stress.
+  * **Pugno a Razzo - Azione:** Segnare uno Stress per effettuare un attacco contro un PG entro portata Vicina. In caso di successo, il bersaglio subisce 4d12+10 danni fisici diretti e segna 2 Slot di Armatura senza riceverne i benefici.
+  * **Calpestio Frantumatore - Azione:** Spendere una Paura per scegliere un punto entro portata Vicina ed effettuare un tiro d'attacco contro tutti i nemici entro portata Vicina di quel punto. I bersagli contro cui l'attacco ha successo subiscono 4d12 danni fisici diretti e sono *Vulnerabili* finché non vengono messi a fuoco. Inoltre, l'intera area diventa macerie, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla.
+  * **Sovraccarico - Reazione:** Conto alla Rovina (Loop 2d6). Quando la Macchina viene messa a fuoco per la prima volta, attiva il conto alla rovina. Si riduce ogni volta che la Macchina viene messa a fuoco. Quando scatta, posiziona un token su questo statblock mentre il crogiolo pettorale della Macchina si accende di fiamma magica. Per ogni token su questo statblock, la Macchina guadagna un bonus di +1 alla Difficoltà e ai tiri d'attacco, e il suo attacco standard infligge 1d12 danni aggiuntivi. Rimuovi un token quando la Macchina subisce danni Gravi.
 
-**Motives & Tactics:** Crush, destroy
-**Difficulty:** 20 | **Thresholds:** 48/88 | **HP:** 10 | **Stress:** 6
-**ATK:** +7 | **Fists of Iron:** Close | 4d12+10 phy
-**Experience:** Unbreakable +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Machine can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Awesome Size - Passive:** When the Machine enters the battlefield, each PC must either lose a Hope or mark 1d4 Stress.
-* **Rocket Punch - Action:** Mark a Stress to make an attack against a PC within Close range. On a success, the target takes 4d12+10 direct physical damage and marks 2 Armor Slots without gaining their benefits.
-* **Ground-Breaking Stomp - Action:** Spend a Fear to choose a point within Close range and make an attack roll against all enemies within Close range of that point. Targets the attack succeeds against take 4d12 direct physical damage and are *Vulnerable* until they are spotlighted. Additionally, the entire area becomes rubble, and a PC must succeed on an Agility Reaction Roll (16) to move through it.
-* **Supercharged - Reaction:** Countdown (Loop 2d6). When the Machine is spotlighted for the first time, activate the countdown. It ticks down each time the Machine is spotlighted. When it triggers, place a token on this stat block as the Machine's chest crucible flares with magical flame. For each token on this stat block, the Machine gains a +1 bonus to Difficulty and attack rolls, and its standard attack deals an extra 1d12 damage. Remove a token when the Machine takes Severe damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Macchina da Guerra Gargantuesca"
+description: "Un costrutto di adamantio alto 100 piedi, con occhi di gemme, alimentato da un crogiolo pettorale di fiamma elementale."
+tier: "4"
+ruolo: "Solo"
+difficolta: "20"
+hp: "10"
+stress: "6"
+esperienza: "Indistruttibile +3"
+soglia_danni: "48/88"
+attacchi:
+  - name: "Pugni di Ferro"
+    desc: "**+7** | Vicina | **4d12+10** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* La Macchina può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Dimensioni Imponenti"
+    desc: "*- Passiva:* Quando la Macchina entra in campo di battaglia, ogni PG deve o perdere una Speranza o segnare 1d4 Stress."
+capacita_speciali:
+  - name: "Pugno a Razzo"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro un PG entro portata Vicina. In caso di successo, il bersaglio subisce 4d12+10 danni fisici diretti e segna 2 Slot di Armatura senza riceverne i benefici."
+  - name: "Calpestio Frantumatore"
+    desc: "*- Azione:* Spendere una Paura per scegliere un punto entro portata Vicina ed effettuare un tiro d'attacco contro tutti i nemici entro portata Vicina di quel punto. I bersagli contro cui l'attacco ha successo subiscono 4d12 danni fisici diretti e sono *Vulnerabili* finché non vengono messi a fuoco. Inoltre, l'intera area diventa macerie, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla."
+  - name: "Sovraccarico"
+    desc: "*- Reazione:* Conto alla Rovina (Loop 2d6). Quando la Macchina viene messa a fuoco per la prima volta, attiva il conto alla rovina. Si riduce ogni volta che la Macchina viene messa a fuoco. Quando scatta, posiziona un token su questo statblock mentre il crogiolo pettorale della Macchina si accende di fiamma magica. Per ogni token su questo statblock, la Macchina guadagna un bonus di +1 alla Difficoltà e ai tiri d'attacco, e il suo attacco standard infligge 1d12 danni aggiuntivi. Rimuovi un token quando la Macchina subisce danni Gravi."
+```

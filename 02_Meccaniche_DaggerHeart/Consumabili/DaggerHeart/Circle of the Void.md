@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Circle of the Void
+# Cerchio del Vuoto
 
-Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.
+Segna uno Stress per creare un vuoto che si estende fino a gittata Lontana. Nessun incantesimo può essere lanciato all'interno del vuoto, e le creature all'interno del vuoto sono immuni ai danni magici.

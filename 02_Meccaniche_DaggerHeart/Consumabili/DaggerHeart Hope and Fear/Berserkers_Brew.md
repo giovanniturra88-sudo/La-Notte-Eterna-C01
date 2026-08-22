@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 34
 ---
 
-# Berserker's Brew
+# Bevanda del Berserker
 
-When you drink this dram of liquid, you gain a +1 bonus to your Strength and a penalty to your Finesse and Knowledge equal to your Instinct (minimum 1). This effect lasts until you make a death move or until your next rest.
+Quando bevi questa dose di liquido, ottieni un bonus di +1 alla tua Forza e una penalità alla tua Finezza e alla tua Conoscenza pari al tuo Istinto (minimo 1). Questo effetto dura finché non effettui una mossa di morte o fino al tuo prossimo riposo.

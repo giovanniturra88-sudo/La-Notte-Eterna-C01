@@ -1,14 +1,34 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Furtivo]]"
 ---
 
-**_Tier 1 [[Furtivo]]._** _Una piccola montagna mobile di slime rosso traslucido in fiamme_
+## Piccola Melma Rossa
+* **Descrizione:** Una piccola montagna mobile di slime rosso traslucido in fiamme.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 11
+* **Soglie di Danno:** 5/Nessuna
+* **Punti Ferita:** 2 | **Stress:** 1
+* **Attacchi:**
+  * **Appendice Melma:** -1 | Da Vicino | 1d4+2 magico
+* **Tratti e Capacità:**
+  * **Bruciante - Reazione:** Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce **1d6** danni magici diretti.
 
-- **Motivi & Tattiche:** Blaze, Camouflage
-- **Difficoltà:** 11 | **Soglie:** 5/None | **PF:** 2 | **Stress:** 1
-- **ATK:** -1 | **Appendice Pasta:** Mischia | 1d4+2 mag
-
-### CARATTERISTICHE
-
-**_Bruciante - Reazione:_** Quando una creatura entro portata di mischia infligge danni alla Pasta, essa subisce **1d6** danni magici diretti.
+```statblock
+layout: DaggerHeart Nemici
+name: "Piccola Melma Rossa"
+description: "Una piccola montagna mobile di slime rosso traslucido in fiamme."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "11"
+hp: "2"
+stress: "1"
+soglia_danni: "5/Nessuna"
+attacchi:
+  - name: "Appendice Melma"
+    desc: "**-1** | Da Vicino | **1d4+2** magico"
+capacita_speciali:
+  - name: "Bruciante"
+    desc: "*- Reazione:* Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce 1d6 danni magici diretti."
+```

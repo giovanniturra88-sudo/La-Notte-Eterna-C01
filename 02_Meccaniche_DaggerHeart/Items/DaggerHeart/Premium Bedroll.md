@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Premium Bedroll
+# Sacco a pelo Premium
 
 **_Item_**
 
-During downtime, you automatically clear a Stress.
+Durante i tempi morti, elimini automaticamente uno Stress.

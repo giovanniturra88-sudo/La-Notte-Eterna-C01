@@ -4,22 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Rugaru
-**Tier 1 Solo**
+## Rugaru
+* **Descrizione:** Un umanoide con testa di lupo, maledetto dagli dèi a vagare nelle paludi in cerca di sangue.
+* **Tier:** 1 (Solo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 7/14
+* **Punti Ferita:** 8 | **Stress:** 4
+* **Esperienza:** Paludi +3
+* **Attacchi:**
+  * **Mascelle Serrate:** +4 | Da Vicino | 2d8+4 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Rugaru può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Figlio della Notte - Passiva:** Mentre è sotto la luce lunare, il Rugaru guadagna un bonus di +2 alla sua Difficoltà.
+  * **Sanguinario - Passiva:** Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un token a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di token su questo statblock. Rimuovi tutti i token quando il Rugaru subisce danni Gravi.
+  * **Ululato alla Luna - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Presenza (15). I bersagli che falliscono perdono una Speranza. Guadagna una Paura per ogni Speranza persa. Se un PG non ha Speranze, deve segnare uno Stress e diventare *Vulnerabile* finché non tira con Speranza.
+  * **Straziatore di Carne - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, infliggi 1d12+2 danni fisici diretti.
 
-*A wolf-headed humanoid cursed by the gods to prowl the swamps in search of blood.*
-
-* **Motives & Tactics:** Blaspheme, go for the throat, stalk, terrorize
-* **Difficulty:** 14
-* **Thresholds:** 7/14
-* **HP:** 8
-* **Stress:** 4
-* **ATK:** +4 | Snapping Jaws: Melee | 2d8+4 phy
-* **Experience:** Swamps +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Rugaru can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Child of Night - Passive:** While in moonlight, the Rugaru gains a +2 bonus to their Difficulty.
-* **Bloodthirsty - Passive:** When a PC marks HP from the Rugaru's standard attack, add a token to this stat block. The Rugaru gains a bonus to attack rolls equal to the number of tokens on this stat block. Clear all tokens when the Rugaru takes Severe damage.
-* **Howl at the Moon - Action:** Mark a Stress to force each PC within Far range to make a Presence Reaction Roll (15). Targets who fail lose a Hope. Gain a Fear for each Hope lost. If a PC has no Hope, they must mark a Stress and become Vulnerable until they roll with Hope.
-* **Flesh Ripper - Action:** Mark a Stress to make an attack against a target within Melee range. On a success, deal 1d12+2 direct physical damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Rugaru"
+description: "Un umanoide con testa di lupo, maledetto dagli dèi a vagare nelle paludi in cerca di sangue."
+tier: "1"
+ruolo: "Solo"
+difficolta: "14"
+hp: "8"
+stress: "4"
+esperienza: "Paludi +3"
+soglia_danni: "7/14"
+attacchi:
+  - name: "Mascelle Serrate"
+    desc: "**+4** | Da Vicino | **2d8+4** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Rugaru può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Figlio della Notte"
+    desc: "*- Passiva:* Mentre è sotto la luce lunare, il Rugaru guadagna un bonus di +2 alla sua Difficoltà."
+  - name: "Sanguinario"
+    desc: "*- Passiva:* Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un token a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di token su questo statblock. Rimuovi tutti i token quando il Rugaru subisce danni Gravi."
+capacita_speciali:
+  - name: "Ululato alla Luna"
+    desc: "*- Azione:* Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Presenza (15). I bersagli che falliscono perdono una Speranza. Guadagna una Paura per ogni Speranza persa. Se un PG non ha Speranze, deve segnare uno Stress e diventare *Vulnerabile* finché non tira con Speranza."
+  - name: "Straziatore di Carne"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, infliggi 1d12+2 danni fisici diretti."
+```

@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 12
 ---
 
-# Slayer's Salt
+# Sale dell'Uccisore
 
-You can spread this salt in a line along windowsills or thresholds to create a magical barrier that undead creatures can't cross until the line is broken.
+Puoi spargere questo sale in una linea lungo davanzali o soglie per creare una barriera magica che le creature non morte non possono attraversare finché la linea non viene interrotta.

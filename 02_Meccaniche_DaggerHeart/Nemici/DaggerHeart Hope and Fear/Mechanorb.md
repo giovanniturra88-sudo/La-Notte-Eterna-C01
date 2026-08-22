@@ -4,19 +4,36 @@ type:
   - "[[Standard]]"
 ---
 
-# Mechanorb
-**Tier 1 Standard**
+## Mechanorb
+* **Descrizione:** Una sfera a orologeria fluttuante, con arti telescopici, proveniente da un regno di macchine e metallo.
+* **Tier:** 1 (Standard)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 5/10
+* **Punti Ferita:** 4 | **Stress:** 3
+* **Esperienza:** Macchine +2
+* **Attacchi:**
+  * **Ago:** +1 | Da Vicino | 1d10+1 fisico
+* **Tratti e Capacità:**
+  * **Mente Collettiva - Passiva:** Il Mechanorb guadagna un bonus di +1 alla sua Difficoltà per ogni altro Mechanorb entro portata Vicina.
+  * **Tattiche Adattive - Passiva: Pool.** Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un token al Pool Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di token nel Pool Mechanorb. Rimuovi tutti i token quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto.
 
-*A floating clockwork sphere that has telescoping limbs and comes from a realm of machines and metal.*
-
-* **Motives & Tactics:** Coordinate, (dis)assemble, move orthogonally, speak in binary
-* **Difficulty:** 12
-* **Thresholds:** 5/10
-* **HP:** 4
-* **Stress:** 3
-* **ATK:** +1 | Needle: Melee | 1d10+1 phy
-* **Experience:** Machines +2
-
-## FEATURES
-* **Hive Mind - Passive:** The Mechanorb gains a +1 bonus to their Difficulty for each other Mechanorb within Close range.
-* **Adaptive Tactics - Passive: Pool.** When the Mechanorb fails an attack roll, add a token to the Mechanorb Pool. All Mechanorbs in the scene gain a bonus to attack rolls equal to the number of tokens in the Mechanorb Pool. Clear all tokens when any Mechanorb takes Severe damage or is defeated.
+```statblock
+layout: DaggerHeart Nemici
+name: "Mechanorb"
+description: "Una sfera a orologeria fluttuante, con arti telescopici, proveniente da un regno di macchine e metallo."
+tier: "1"
+ruolo: "Standard"
+difficolta: "12"
+hp: "4"
+stress: "3"
+esperienza: "Macchine +2"
+soglia_danni: "5/10"
+attacchi:
+  - name: "Ago"
+    desc: "**+1** | Da Vicino | **1d10+1** fisico"
+tratti:
+  - name: "Mente Collettiva"
+    desc: "*- Passiva:* Il Mechanorb guadagna un bonus di +1 alla sua Difficoltà per ogni altro Mechanorb entro portata Vicina."
+  - name: "Tattiche Adattive"
+    desc: "*- Passiva: Pool.* Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un token al Pool Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di token nel Pool Mechanorb. Rimuovi tutti i token quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto."
+```

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Bag of Ficklesand
+# Sacca di Sabbia Volubile
 
 **_Item_**
 
-You can convince this small bag of sand to be much heavier or lighter with a successful Presence Roll (10). Additionally, on a successful Finesse Roll (10), you can blow a bit of sand into a target’s face to make them temporarily Vulnerable.
+Puoi convincere questa piccola sacca di sabbia a diventare molto più pesante o leggera con un Tiro di Presenza riuscito (10). Inoltre, con un Tiro di Finezza riuscito (10), puoi soffiare un po' di sabbia sul viso di un bersaglio per renderlo temporaneamente Vulnerabile.

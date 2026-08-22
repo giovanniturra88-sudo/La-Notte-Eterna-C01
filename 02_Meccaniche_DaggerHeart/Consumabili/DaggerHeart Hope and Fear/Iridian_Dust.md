@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 2
 ---
 
-# Iridian Dust
+# Polvere Iridiana
 
-This multicolored powder sticks to everything and prevents creatures covered in it from becoming Hidden.
+Questa polvere multicolore si attacca a tutto e impedisce alle creature coperte da essa di diventare Nascoste.

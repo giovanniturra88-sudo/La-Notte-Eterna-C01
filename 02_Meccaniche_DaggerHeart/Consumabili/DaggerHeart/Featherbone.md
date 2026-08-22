@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Featherbone
+# Osso Piumato
 
-You can use this bone to control your falling speed for a number of minutes equal to your level.
+Puoi usare questo osso per controllare la tua velocità di caduta per un numero di minuti pari al tuo livello.

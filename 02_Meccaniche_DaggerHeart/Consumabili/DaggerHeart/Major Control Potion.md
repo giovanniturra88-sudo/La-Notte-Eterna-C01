@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Control Potion
+# Pozione di Controllo Maggiore
 
-You gain a +1 bonus to your Finesse until your next rest.
+Ottieni un bonus di +1 alla tua Finezza fino al tuo prossimo riposo.

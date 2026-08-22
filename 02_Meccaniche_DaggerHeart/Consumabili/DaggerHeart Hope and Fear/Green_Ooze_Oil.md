@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 29
 ---
 
-# Green Ooze Oil
+# Olio di Muco Verde
 
-You can coat your weapon in this oil. The next successful attack you make with this weapon deals an extra 1d8 magic damage and temporarily Corrodes the target. While Corroded, the target gains a −2 penalty to their damage thresholds.
+Puoi rivestire la tua arma con questo olio. Il tuo prossimo attacco riuscito con questa arma infligge 1d8 danni magici extra e Corrode temporaneamente il bersaglio. Mentre è Corroso, il bersaglio ottiene una penalità di −2 alle sue Soglie di Danno.

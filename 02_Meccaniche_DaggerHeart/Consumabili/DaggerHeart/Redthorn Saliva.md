@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Redthorn Saliva
+# Saliva Redthorn
 
-You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon.
+Puoi applicare questa saliva a un'arma che infligge danni fisici per aggiungere un d12 al tuo prossimo tiro di danno con quell'arma.

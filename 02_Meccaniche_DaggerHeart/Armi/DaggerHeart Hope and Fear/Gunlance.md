@@ -12,8 +12,8 @@ tier: 1
 ruolo: "primaria"
 ---
 
-### GUNLANCE
+### Fucilancia
 
-**_Concussive: On a successful attack, you can spend a Hope to knock the target back to Far range_**
+**_Concussivo: Con un attacco riuscito, puoi spendere una Speranza per respingere il bersaglio fino a gittata Lontana_**
 
 ---

@@ -4,15 +4,37 @@ type:
   - "[[Standard]]"
 ---
 
-# Plesiosaurus
-*Tier 3 Standard*
-*A canoe-length marine lizard that has a long neck and four flippers.*
+## Plesiosaurio
+* **Descrizione:** Un rettile marino lungo come una canoa, con un collo lungo e quattro pinne.
+* **Tier:** 3 (Standard)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 18/35
+* **Punti Ferita:** 7 | **Stress:** 5
+* **Esperienza:** Laghi +3
+* **Attacchi:**
+  * **Morso:** +2 | Molto Vicina | 3d8+5 fisico
+* **Tratti e Capacità:**
+  * **Solo una Voce - Passiva:** Mentre è in profondità sott'acqua, il Plesiosaurio non può essere localizzato o bersagliato.
+  * **Parete d'Acqua - Azione:** Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici e essere respinto in portata Lontana.
 
-**Motives & Tactics:** Dive deeper, eat fish, swim peacefully
-**Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 7 | **Stress:** 5
-**ATK:** +2 | **Bite:** Very Close | 3d8+5 phy
-**Experience:** Lochs +3
-
-## FEATURES
-* **Only a Rumor - Passive:** While deep underwater, the Plesiosaurus can't be located or targeted.
-* **Wall of Water - Action:** Mark a Stress to have the Plesiosaurus breach and crash, sending a wall of water from one side of its body. Each PC within Far range on that side of the Plesiosaurus must succeed on an Agility Reaction Roll (18) or take 3d10 physical damage and be pushed back to Far range.
+```statblock
+layout: DaggerHeart Nemici
+name: "Plesiosaurio"
+description: "Un rettile marino lungo come una canoa, con un collo lungo e quattro pinne."
+tier: "3"
+ruolo: "Standard"
+difficolta: "16"
+hp: "7"
+stress: "5"
+esperienza: "Laghi +3"
+soglia_danni: "18/35"
+attacchi:
+  - name: "Morso"
+    desc: "**+2** | Molto Vicina | **3d8+5** fisico"
+tratti:
+  - name: "Solo una Voce"
+    desc: "*- Passiva:* Mentre è in profondità sott'acqua, il Plesiosaurio non può essere localizzato o bersagliato."
+capacita_speciali:
+  - name: "Parete d'Acqua"
+    desc: "*- Azione:* Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici e essere respinto in portata Lontana."
+```

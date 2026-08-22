@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Phoenix Feather
+# Piuma di Fenice
 
 **_Item_**
 
-If you have at least one Phoenix Feather on you when you fall unconscious, you gain a +1 bonus to the roll you make to determine whether you gain a scar.
+Se hai almeno una Piuma di Fenice addosso quando perdi conoscenza, ottieni un bonus di +1 al tiro che effettui per determinare se ottieni una cicatrice.

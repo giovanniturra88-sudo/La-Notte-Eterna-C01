@@ -4,18 +4,46 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Frost Titan
-*Tier 3 Bruiser*
-*A blue-skinned goliath who has rimed hair and wears trophies of past battles.*
+## Titano del Gelo
+* **Descrizione:** Un golias dalla pelle azzurra, con capelli imbiancati e trofei di battaglie passate.
+* **Tier:** 3 (Picchiatore)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 22/40
+* **Punti Ferita:** 10 | **Stress:** 4
+* **Esperienza:** Freddo +3, Guerra +3
+* **Attacchi:**
+  * **Doppie Asce:** +7 | Molto Vicina | 3d10+2 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (2) - Passiva:** Il Titano può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Corno di Guerra - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a superare un Tiro di Reazione di Presenza o segnare uno Stress e diventare *Vulnerabile* finché non subisce il prossimo attacco.
+  * **Carica del Toro - Azione:** Segnare uno Stress per muoversi fino a portata Vicina ed effettuare un tiro d'attacco contro un bersaglio entro portata Da Vicino. In caso di successo, infliggi 4d10+2 danni fisici e respingi il bersaglio in portata Vicina.
+  * **Colpo Tagliente - Reazione:** Quando un PG segna PF dall'attacco standard del Titano, puoi segnare uno Stress per costringere un altro PG entro portata Molto Vicina, contro cui l'attacco avrebbe avuto successo, a segnare lo stesso numero di PF.
+  * **Cacciatore di Trofei - Reazione:** Quando il Titano sconfigge un PG, il Titano prende il possesso più prezioso del PG come trofeo.
 
-**Motives & Tactics:** Claim trophies, raid and pillage, test mettle
-**Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 10 | **Stress:** 4
-**ATK:** +7 | **Dual Axes:** Very Close | 3d10+2 phy
-**Experience:** Cold +3, War +3
-
-## FEATURES
-* **Relentless (2) - Passive:** The Titan can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
-* **War Horn - Action:** Mark a Stress to force each PC within Far range to succeed on a Presence Reaction Roll or mark a Stress and become *Vulnerable* until after the next attack against them.
-* **Bull Rush - Action:** Mark a Stress to move up to Close range and make an attack roll against a target within Melee range. On a success, deal 4d10+2 physical damage and knock the target back to Close range.
-* **Cleaving Strike - Reaction:** When a PC marks HP from the Titan's standard attack, you can mark a Stress to force another PC within Very Close range who the attack would have succeeded against to mark the same number of HP.
-* **Trophy Hunter - Reaction:** When the Titan defeats a PC, the Titan takes the PC's most valuable possession as a trophy.
+```statblock
+layout: DaggerHeart Nemici
+name: "Titano del Gelo"
+description: "Un golias dalla pelle azzurra, con capelli imbiancati e trofei di battaglie passate."
+tier: "3"
+ruolo: "Picchiatore"
+difficolta: "17"
+hp: "10"
+stress: "4"
+esperienza: "Freddo +3, Guerra +3"
+soglia_danni: "22/40"
+attacchi:
+  - name: "Doppie Asce"
+    desc: "**+7** | Molto Vicina | **3d10+2** fisico"
+tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* Il Titano può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+capacita_speciali:
+  - name: "Corno di Guerra"
+    desc: "*- Azione:* Segnare uno Stress per costringere ogni PG entro portata Lontana a superare un Tiro di Reazione di Presenza o segnare uno Stress e diventare *Vulnerabile* finché non subisce il prossimo attacco."
+  - name: "Carica del Toro"
+    desc: "*- Azione:* Segnare uno Stress per muoversi fino a portata Vicina ed effettuare un tiro d'attacco contro un bersaglio entro portata Da Vicino. In caso di successo, infliggi 4d10+2 danni fisici e respingi il bersaglio in portata Vicina."
+  - name: "Colpo Tagliente"
+    desc: "*- Reazione:* Quando un PG segna PF dall'attacco standard del Titano, puoi segnare uno Stress per costringere un altro PG entro portata Molto Vicina, contro cui l'attacco avrebbe avuto successo, a segnare lo stesso numero di PF."
+  - name: "Cacciatore di Trofei"
+    desc: "*- Reazione:* Quando il Titano sconfigge un PG, il Titano prende il possesso più prezioso del PG come trofeo."
+```

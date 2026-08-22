@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Portal Seed
+# Seme del Portale
 
 **_Item_**
 
-You can plant this seed in the ground to grow a portal in that spot. The portal is ready to use in 24 hours. You can use this portal to travel to any other location where you planted a portal seed. A portal can be destroyed by dealing any amount of Magic damage to it.
+Puoi piantare questo seme nel terreno per far crescere un portale in quel punto. Il portale è pronto all'uso in 24 ore. Puoi usare questo portale per viaggiare in qualsiasi altro luogo in cui hai piantato un seme di portale. Un portale può essere distrutto infliggendogli qualsiasi quantità di danni Magici.

@@ -4,19 +4,42 @@ type:
   - "[[Supporto]]"
 ---
 
-# Guahalan Spirit Singer
-- **Tipo / Ruolo:** Tier 2 Support
-- **Descrizione:** A shapeshifting summoner who has animalistic features.
-- **Motivi & Tattiche:** Abjure, bolster, summon
-- **Difficoltà:** 14
-- **Soglie (Thresholds):** 9 / 18
-- **Punti Ferita (HP):** 4
-- **Stress:** 6
-- **Attacco:** +2 | Spirit Flame: Close | 2d6+4 mag
-- **Esperienza:** Ritual +3, Ancient History +2
+## Cantore Spirito Guahalan
+* **Descrizione:** Un evocatore che cambia forma, con tratti animaleschi.
+* **Tier:** 2 (Supporto)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 9/18
+* **Punti Ferita:** 4 | **Stress:** 6
+* **Esperienza:** Rito +3, Storia Antica +2
+* **Attacchi:**
+  * **Fiamma Spirito:** +2 | Vicina | 2d6+4 magico
+* **Tratti e Capacità:**
+  * **Scatenare la Bestia - Azione:** Spendere una Paura per far assumere al Cantore Spirito una forma più bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione.
+  * **Chiamatore di Bestie - Azione:** Spendere una Paura per far evocare al Cantore Spirito 2d4 Bestie Spirito Guahalan entro portata Molto Vicina e mettere immediatamente a fuoco una di esse.
+  * **Furia degli Spiriti - Azione:** Segnare uno Stress per mettere a fuoco un numero qualsiasi di Bestie Spirito Guahalan entro portata Molto Vicina e far muovere ciascuna in portata Da Vicino del PG più vicino ed effettuare un attacco standard. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni.
+  * **Sacrificio Spirituale - Reazione:** Quando il Cantore Spirito dovrebbe subire danni mentre è entro portata Molto Vicina di una Bestia Spirito Guahalan, puoi spendere una Paura per sacrificare la Bestia Spirito e annullare i danni.
 
-**Tratti (Features):**
-* **Unleash the Beast - Action:** Spend a Fear to have the Spirit Singer adopt a more bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action.
-* **Beast-Caller - Action:** Spend a Fear to have the Spirit Singer summon 2d4 Guahalan Spirit Beasts within Very Close range and immediately spotlight one.
-* **Rage of Spirits - Action:** Mark a Stress to spotlight any number of Guahalan Spirit Beasts within Very Close range and have each one move into Melee range with the nearest PC and make a standard attack. If any attacks succeed against the same target, combine their damage.
-* **Spiritual Sacrifice - Reaction:** When the Spirit Singer would take damage while within Very Close range of a Guahalan Spirit Beast, you can spend a Fear to sacrifice the Spirit Beast and negate the damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cantore Spirito Guahalan"
+description: "Un evocatore che cambia forma, con tratti animaleschi."
+tier: "2"
+ruolo: "Supporto"
+difficolta: "14"
+hp: "4"
+stress: "6"
+esperienza: "Rito +3, Storia Antica +2"
+soglia_danni: "9/18"
+attacchi:
+  - name: "Fiamma Spirito"
+    desc: "**+2** | Vicina | **2d6+4** magico"
+tratti:
+  - name: "Scatenare la Bestia"
+    desc: "*- Azione:* Spendere una Paura per far assumere al Cantore Spirito una forma più bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione."
+  - name: "Chiamatore di Bestie"
+    desc: "*- Azione:* Spendere una Paura per far evocare al Cantore Spirito 2d4 Bestie Spirito Guahalan entro portata Molto Vicina e mettere immediatamente a fuoco una di esse."
+  - name: "Furia degli Spiriti"
+    desc: "*- Azione:* Segnare uno Stress per mettere a fuoco un numero qualsiasi di Bestie Spirito Guahalan entro portata Molto Vicina e far muovere ciascuna in portata Da Vicino del PG più vicino ed effettuare un attacco standard. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni."
+  - name: "Sacrificio Spirituale"
+    desc: "*- Reazione:* Quando il Cantore Spirito dovrebbe subire danni mentre è entro portata Molto Vicina di una Bestia Spirito Guahalan, puoi spendere una Paura per sacrificare la Bestia Spirito e annullare i danni."
+```

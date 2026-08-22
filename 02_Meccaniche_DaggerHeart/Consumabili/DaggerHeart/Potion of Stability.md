@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Potion of Stability
+# Pozione di Stabilità
 
-You can drink this potion to choose one additional downtime move.
+Puoi bere questa pozione per scegliere una mossa di tempi morti aggiuntiva.

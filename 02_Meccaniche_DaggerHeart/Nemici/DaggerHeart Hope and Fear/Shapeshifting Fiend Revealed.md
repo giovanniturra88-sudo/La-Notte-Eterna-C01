@@ -4,19 +4,49 @@ type:
   - "[[Solo]]"
 ---
 
-# Shapeshifting Fiend Revealed
-*Tier 3 Solo*
-*A towering humanoid who has an insectile head and multiple sets of glowing red eyes.*
+## Demone Cambiamorfa Svelato
+* **Descrizione:** Un umanoide imponente, con una testa insettoide e molteplici gruppi di occhi rossi luminosi.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 20/32
+* **Punti Ferita:** 10 | **Stress:** 8
+* **Esperienza:** Dannato +3, Immortale +2
+* **Attacchi:**
+  * **Artigli di Mantide:** +3 | Molto Vicina | 3d12+5 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Demone può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Resistenza Demonica - Passiva:** Il Demone ha resistenza ai danni magici e non può essere ingannato da illusioni magiche.
+  * **Furia Demonica - Azione:** Spendere una Paura per effettuare un attacco standard con un bonus al tiro d'attacco pari al numero di Stress che il Demone ha segnato. In caso di successo, l'attacco infligge danni diretti.
+  * **Sala degli Specchi - Azione:** Segnare 2 Stress per far evocare al Demone quattro duplicati illusori e attivare un Conto alla Rovina dei Duplicati (4). Quando il Demone viene bersagliato da un attacco, guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Il conto alla rovina si riduce quando un PG fallisce un attacco contro il Demone. Quando scatta, i duplicati svaniscono.
+  * **Artiglio Lampo - Azione:** Spendere una Paura per far scatenare al Demone un arco di energia magica. Effettua un tiro d'attacco contro tutti i bersagli entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 3d20 danni magici.
+  * **Giochi Mentali - Reazione:** Quando un attacco che bersaglia il Demone da oltre portata Molto Vicina ha successo con Paura, puoi segnare uno Stress per far scambiare istantaneamente il Demone di posto con un PG entro portata Molto Vicina. Il PG subisce i danni al suo posto.
 
-**Motives & Tactics:** Claim souls, confuse and misdirect, escape to the Circles Below, teleport
-**Difficulty:** 17 | **Thresholds:** 20/32 | **HP:** 10 | **Stress:** 8
-**ATK:** +3 | **Mantis Claws:** Very Close | 3d12+5 phy
-**Experience:** Hellbound +3, Immortal +2
-
-## FEATURES
-* **Relentless (3) - Passive:** The Fiend can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Fiendish Resistance - Passive:** The Fiend has resistance to magic damage and can't be fooled by magic illusions.
-* **Demonic Rage - Action:** Spend a Fear to make a standard attack with a bonus to the attack roll equal the amount of Stress the Fiend has marked. On a success, the attack deals direct damage.
-* **Hall of Mirrors - Action:** Mark 2 Stress to have the Fiend summon four illusory duplicates and activate a Duplicate Countdown (4). When the Fiend is targeted by an attack, they gain a bonus to their Difficulty equal to the countdown die's current value. The countdown ticks down when a PC fails an attack against the Fiend. When it triggers, the duplicates vanish.
-* **Flash Claw - Action:** Spend a Fear to have the Fiend unleash an arc of magical energy. Make an attack roll against all targets within Close range. Targets the attack succeeds against take 3d20 magic damage.
-* **Mind Games - Reaction:** When an attack targeting the Fiend from beyond Very Close range succeeds with Fear, you can mark a Stress to have the Fiend instantly switch places with a PC within Very Close range. The PC takes the damage instead.
+```statblock
+layout: DaggerHeart Nemici
+name: "Demone Cambiamorfa Svelato"
+description: "Un umanoide imponente, con una testa insettoide e molteplici gruppi di occhi rossi luminosi."
+tier: "3"
+ruolo: "Solo"
+difficolta: "17"
+hp: "10"
+stress: "8"
+esperienza: "Dannato +3, Immortale +2"
+soglia_danni: "20/32"
+attacchi:
+  - name: "Artigli di Mantide"
+    desc: "**+3** | Molto Vicina | **3d12+5** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Demone può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Resistenza Demonica"
+    desc: "*- Passiva:* Il Demone ha resistenza ai danni magici e non può essere ingannato da illusioni magiche."
+capacita_speciali:
+  - name: "Furia Demonica"
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco standard con un bonus al tiro d'attacco pari al numero di Stress che il Demone ha segnato. In caso di successo, l'attacco infligge danni diretti."
+  - name: "Sala degli Specchi"
+    desc: "*- Azione:* Segnare 2 Stress per far evocare al Demone quattro duplicati illusori e attivare un Conto alla Rovina dei Duplicati (4). Quando il Demone viene bersagliato da un attacco, guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Il conto alla rovina si riduce quando un PG fallisce un attacco contro il Demone. Quando scatta, i duplicati svaniscono."
+  - name: "Artiglio Lampo"
+    desc: "*- Azione:* Spendere una Paura per far scatenare al Demone un arco di energia magica. Effettua un tiro d'attacco contro tutti i bersagli entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 3d20 danni magici."
+  - name: "Giochi Mentali"
+    desc: "*- Reazione:* Quando un attacco che bersaglia il Demone da oltre portata Molto Vicina ha successo con Paura, puoi segnare uno Stress per far scambiare istantaneamente il Demone di posto con un PG entro portata Molto Vicina. Il PG subisce i danni al suo posto."
+```

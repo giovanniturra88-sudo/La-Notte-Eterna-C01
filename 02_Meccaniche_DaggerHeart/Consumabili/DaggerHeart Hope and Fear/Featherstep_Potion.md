@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 60
 ---
 
-# Featherstep Potion
+# Pozione del Passo Piumato
 
-You can drink this potion to sprout small wings from your ankles that give you a bonus to your Evasion equal to your tier until your next rest.
+Puoi bere questa pozione per far crescere piccole ali dalle tue caviglie che ti danno un bonus alla tua Elusione pari al tuo livello fino al tuo prossimo riposo.

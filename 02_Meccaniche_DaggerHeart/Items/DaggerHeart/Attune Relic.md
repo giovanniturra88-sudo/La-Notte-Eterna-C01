@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Attune Relic
+# Reliquia di Sintonia
 
 **_Item_**
 
-You gain a +1 bonus to your Instinct. You can only carry one relic.
+Ottieni un bonus di +1 alla tua Istinto. Puoi trasportare una sola reliquia.

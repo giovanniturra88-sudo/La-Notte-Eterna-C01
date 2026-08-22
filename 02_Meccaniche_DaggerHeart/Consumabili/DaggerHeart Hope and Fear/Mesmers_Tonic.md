@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 46
 ---
 
-# Mesmer's Tonic
+# Tonic dell'Ipnos
 
-When you drink this tonic, the only thing you can hear until your next rest are the surface thoughts of creatures within Very Close range.
+Quando bevi questo tonic, l'unica cosa che puoi sentire fino al tuo prossimo riposo sono i pensieri superficiali delle creature entro gittata Molto Vicina.

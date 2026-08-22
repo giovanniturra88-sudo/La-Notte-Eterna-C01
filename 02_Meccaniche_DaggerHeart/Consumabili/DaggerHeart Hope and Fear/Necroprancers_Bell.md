@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 55
 ---
 
-# Necroprancer's Bell
+# Campana del Necrodanzatore
 
-You can break this rusted, clapperless bell against the ground to summon a skeletal steed that climbs out of the earth and serves you until the next sunrise.
+Puoi rompere questa campana arrugginita, senza battente, contro il terreno per evocare un destriero scheletrico che emerge dalla terra e ti serve fino al prossimo sorgere del sole.

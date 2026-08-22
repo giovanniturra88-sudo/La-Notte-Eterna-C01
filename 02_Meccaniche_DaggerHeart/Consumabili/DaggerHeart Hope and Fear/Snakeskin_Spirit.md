@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 51
 ---
 
-# Snakeskin Spirit
+# Spirito della Pelle di Serpente
 
-You can drink this potion to slough off your outer layer of skin and heal a scar.
+Puoi bere questa pozione per staccare il tuo strato esterno di pelle e curare una cicatrice.

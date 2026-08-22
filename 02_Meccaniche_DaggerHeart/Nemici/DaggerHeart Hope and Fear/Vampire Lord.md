@@ -4,23 +4,55 @@ type:
   - "[[Solo]]"
 ---
 
-# Vampire Lord
-*Tier 3 Solo*
-*A cruel vampire lord from a long-lost age, cursed with immortality.*
+## Signore Vampiro
+* **Descrizione:** Un crudele signore vampiro, da un'era da tempo perduta, maledetto con l'immortalità.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 24/45
+* **Punti Ferita:** 7 | **Stress:** 7
+* **Esperienza:** Male +3, Nobile +3
+* **Attacchi:**
+  * **Artigli:** +5 | Da Vicino | 3d10+2 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Signore Vampiro può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Cuore di Mezzanotte - Passiva:** Conto alla Rovina a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando il Signore Vampiro viene sconfitto, attiva il conto alla rovina. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Vicina del cuore, con tutti i PF e lo Stress rimossi.
+  * **Spaventoso - Passiva:** Quando il Signore Vampiro effettua un tiro d'attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura.
+  * **Scatenare il Fuoco Infernale - Azione:** Segnare uno Stress per far sì che il Signore Vampiro evochi momentaneamente 1d4 fiammate di fuoco infernale entro portata Lontana. Ogni fiammata infligge 3d6 danni magici a ogni bersaglio entro portata Molto Vicina. Se un bersaglio subisce danni da più fiammate, combina i danni.
+  * **Risorgimento - Reazione:** Quando un PG entro portata Molto Vicina tira con Speranza, puoi spendere una Paura per rimuovere un PF o uno Stress.
+  * **Sciogliersi nell'Ombra - Reazione:** Quando un PG dovrebbe infliggere danni al Signore Vampiro, puoi spendere una Paura per tirare un d6. Su un risultato di 5 o superiore, annulla i danni, poi teletrasporta il Signore Vampiro a un punto entro portata Lontana.
+  * **Ala Infernale - Evoluzione:** Quando il Signore Vampiro segna metà dei suoi PF, si trasforma nell'Ala Infernale: una creatura demoniaca a forma di pipistrello, imponente. Guadagna i tratti "Su Ali Cremisi" e "Bagno di Sangue" e sostituisce il suo attacco standard con il seguente:
+    * **Artigli:** Vicina | 3d12+6 fisico
+    * **Su Ali Cremisi - Passiva:** Mentre vola, l'Ala Infernale guadagna un bonus di +1 alla sua Difficoltà.
+    * **Bagno di Sangue - Reazione:** Quando l'Ala Infernale subisce danni Maggiori o superiori, il terreno entro portata Molto Vicina è coperto di sangue, infliggendo 3d10 danni magici a tutte le altre creature nell'area. Quando l'Ala Infernale viene messa a fuoco nei turni del GM successivi, tutte le altre creature in quell'area subiscono 3d6 danni magici.
 
-**Motives & Tactics:** Corrupt, destroy, overwhelm with evil power
-**Difficulty:** 18 | **Thresholds:** 24/45 | **HP:** 7 | **Stress:** 7
-**ATK:** +5 | **Claws:** Melee | 3d10+2 phy
-**Experience:** Evil +3, Noble +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Vampire Lord can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Midnight Heart - Passive:** Long-Term Countdown (6). The Vampire Lord keeps their heart hidden in a safe place. If it's destroyed, the Vampire Lord dies. Otherwise, when the Vampire Lord is defeated, activate the countdown. It ticks down each time the PCs finish a long rest. When it triggers, the Vampire Lord revives within Close range of the heart with all HP and Stress cleared.
-* **Terrifying - Passive:** When the Vampire Lord makes a successful attack roll, all PCs within Close range lose a Hope, and you gain a Fear.
-* **Unleash Hellfire - Action:** Mark a Stress to have the Vampire Lord momentarily conjure 1d4 bursts of hellfire within Far range. Each burst deals 3d6 magic damage to each target within Very Close range. If a target takes damage from multiple bursts, combine the damage.
-* **Resurgence - Reaction:** When a PC within Very Close range rolls with Hope, you can spend a Fear to clear a HP or a Stress.
-* **Melt into Shadow - Reaction:** When a PC would deal damage to the Vampire Lord, you can spend a Fear to roll a d6. On a result of 5 or higher, negate the damage, then teleport the Vampire Lord to a point within Far range.
-* **Hellwing - Evolution:** When the Vampire Lord marks half their HP, they transform into the Hellwing: a towering, demonic bat creature. They gain the "On Crimson Wings" and "Blood Bath" features and replace their standard attack with the following standard attack:
-  * **Claws:** Close | 3d12+6 phy
-  * **On Crimson Wings - Passive:** While flying, the Hellwing gains a +1 bonus to their Difficulty.
-  * **Blood Bath - Reaction:** When the Hellwing takes Major or greater damage, the ground within Very Close range is covered with blood, dealing 3d10 magic damage to all other creatures in the area. When the Hellwing takes the spotlight on subsequent GM turns, all other creatures in that area take 3d6 magic damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Signore Vampiro"
+description: "Un crudele signore vampiro, da un'era da tempo perduta, maledetto con l'immortalità."
+tier: "3"
+ruolo: "Solo"
+difficolta: "18"
+hp: "7"
+stress: "7"
+esperienza: "Male +3, Nobile +3"
+soglia_danni: "24/45"
+attacchi:
+  - name: "Artigli"
+    desc: "**+5** | Da Vicino | **3d10+2** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Signore Vampiro può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Cuore di Mezzanotte"
+    desc: "*- Passiva:* Conto alla Rovina a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando viene sconfitto, attiva il conto alla rovina. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Vicina del cuore, con tutti i PF e lo Stress rimossi."
+  - name: "Spaventoso"
+    desc: "*- Passiva:* Quando il Signore Vampiro effettua un tiro d'attacco riuscito, tutti i PG entro portata Vicina perdono una Speranza, e guadagni una Paura."
+capacita_speciali:
+  - name: "Scatenare il Fuoco Infernale"
+    desc: "*- Azione:* Segnare uno Stress per far sì che il Signore Vampiro evochi momentaneamente 1d4 fiammate di fuoco infernale entro portata Lontana. Ogni fiammata infligge 3d6 danni magici a ogni bersaglio entro portata Molto Vicina. Se un bersaglio subisce danni da più fiammate, combina i danni."
+  - name: "Risorgimento"
+    desc: "*- Reazione:* Quando un PG entro portata Molto Vicina tira con Speranza, puoi spendere una Paura per rimuovere un PF o uno Stress."
+  - name: "Sciogliersi nell'Ombra"
+    desc: "*- Reazione:* Quando un PG dovrebbe infliggere danni al Signore Vampiro, puoi spendere una Paura per tirare un d6. Su un risultato di 5 o superiore, annulla i danni, poi teletrasporta il Signore Vampiro a un punto entro portata Lontana."
+  - name: "Ala Infernale (Evoluzione)"
+    desc: "*- Evoluzione:* Quando il Signore Vampiro segna metà dei suoi PF, si trasforma nell'Ala Infernale: una creatura demoniaca a forma di pipistrello, imponente. Guadagna i tratti 'Su Ali Cremisi' e 'Bagno di Sangue' e sostituisce il suo attacco standard con 'Artigli' (Vicina | 3d12+6 fisico)."
+```

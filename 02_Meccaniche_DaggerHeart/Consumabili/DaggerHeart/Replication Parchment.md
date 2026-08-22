@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Replication Parchment
+# Pergamena di Riproduzione
 
-By touching this piece of parchment to another, you can perfectly copy the second parchment's contents. Once used, this parchment becomes mundane paper.
+Toccando questa pergamena a un'altra, puoi copiare perfettamente il contenuto della seconda pergamena. Una volta usata, questa pergamena diventa carta comune.

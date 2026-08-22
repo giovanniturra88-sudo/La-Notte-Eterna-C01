@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Minor Stamina Potion
+# Pozione di Stamina Minore
 
-Clear 1d4 Stress.
+Elimina 1d4 Stress.

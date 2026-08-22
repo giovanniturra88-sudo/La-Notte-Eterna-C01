@@ -1,6 +1,6 @@
 ---
 type: "[[Consumable]]"
 ---
-# Acidpaste
+# Pasta Corrosiva
 
-This paste eats away walls and other surfaces in bright flashes.
+Questa pasta corrode muri e altre superfici in bagliori accecanti.

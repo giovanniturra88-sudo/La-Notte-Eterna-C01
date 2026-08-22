@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 1
 ---
 
-# Caltrops
+# Triboli
 
-You can spread these caltrops in a Very Close area around you. A creature hastening through that area must mark a Stress.
+Puoi spargere questi triboli in un'area Molto Vicina attorno a te. Una creatura che si affretta attraverso quell'area deve segnare uno Stress.

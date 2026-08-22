@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 50
 ---
 
-# Godling's Pomelo
+# Pomelo del Divinità
 
-You can eat this citrus fruit to clear all Hit Points and Stress.
+Puoi mangiare questo frutto di agrume per eliminare tutti i Punti Ferita e lo Stress.

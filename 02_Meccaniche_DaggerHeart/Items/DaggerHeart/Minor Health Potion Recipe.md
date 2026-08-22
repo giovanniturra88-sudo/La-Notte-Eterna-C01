@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Minor Health Potion Recipe
+# Ricetta: Pozione di Salute Minore
 
 **_Item_**
 
-As a downtime move, you can use a vial of blood to craft a Minor Health Potion.
+Come mossa di tempi morti, puoi usare una fiala di sangue per creare una Pozione di Salute Minore.

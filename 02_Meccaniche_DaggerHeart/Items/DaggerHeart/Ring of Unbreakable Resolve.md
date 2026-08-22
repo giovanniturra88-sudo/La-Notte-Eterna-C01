@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Ring of Unbreakable Resolve
+# Anello di Determinazione Incrollabile
 
 **_Item_**
 
-Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.
+Una volta per sessione, quando il GM spende una Paura, puoi spendere 4 Speranza per annullare gli effetti di quella Paura spesa.

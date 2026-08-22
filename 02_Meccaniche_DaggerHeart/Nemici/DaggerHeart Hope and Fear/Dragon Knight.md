@@ -4,20 +4,40 @@ type:
   - "[[Picchiatore]]"
 ---
 
-# Dragon Knight
-**Tier 2 Bruiser**
+## Cavaliere Drago
+* **Descrizione:** Un cavaliere rivestito di armatura dragoide e un elmo a forma di testa di drago.
+* **Tier:** 2 (Picchiatore)
+* **Difficoltà:** 15
+* **Soglie di Danno:** 15/30
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Tornei +2
+* **Attacchi:**
+  * **Lancia:** +2 | Molto Vicina | 2d12+3 fisico
+* **Tratti e Capacità:**
+  * **Posizione Vantaggiosa - Passiva:** Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui.
+  * **Colpo Saltante - Azione:** Segnare uno Stress per far saltare il Cavaliere in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+  * **Ripresa - Reazione:** Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio.
 
-*A knight clad in dragonplate armor and a helmet in the shape of a dragon's head.*
-
-* **Motives & Tactics:** Exploit an opening, get some distance, knock enemies off-balance, strike from above
-* **Difficulty:** 15
-* **Thresholds:** 15/30
-* **HP:** 5
-* **Stress:** 3
-* **ATK:** +2 | Lance: Very Close | 2d12+3 phy
-* **Experience:** Jousts +2
-
-## FEATURES
-* **High Ground - Passive:** The Knight gains advantage on attacks made against targets below them.
-* **Leaping Strike - Action:** Mark a Stress to have the Knight leap into Melee range of a target within Far range and make a standard attack against them. On a success, the attack deals an extra 1d12 damage, and the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage).
-* **Comeback - Reaction:** When the Knight fails a standard attack, you can spend a Fear to reroll the attack with advantage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cavaliere Drago"
+description: "Un cavaliere rivestito di armatura dragoide e un elmo a forma di testa di drago."
+tier: "2"
+ruolo: "Picchiatore"
+difficolta: "15"
+hp: "5"
+stress: "3"
+esperienza: "Tornei +2"
+soglia_danni: "15/30"
+attacchi:
+  - name: "Lancia"
+    desc: "**+2** | Molto Vicina | **2d12+3** fisico"
+tratti:
+  - name: "Posizione Vantaggiosa"
+    desc: "*- Passiva:* Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui."
+capacita_speciali:
+  - name: "Colpo Saltante"
+    desc: "*- Azione:* Segnare uno Stress per far saltare il Cavaliere in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
+  - name: "Ripresa"
+    desc: "*- Reazione:* Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio."
+```

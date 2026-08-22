@@ -3,6 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-**_Item_**
+# Amuleto della Lame d'Aria
 
-You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range.
+**_Amuleto della Lame d'Aria_**
+
+Puoi fissare questo amuleto a un'arma con il tratto gittata Corpo a Corpo. Tre volte per riposo, puoi attivare l'amuleto per effettuare un attacco a gittata Vicina invece che Corpo a Corpo.

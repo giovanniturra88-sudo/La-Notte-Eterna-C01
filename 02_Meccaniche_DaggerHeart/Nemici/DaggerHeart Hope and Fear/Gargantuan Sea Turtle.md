@@ -4,18 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Gargantuan Sea Turtle
-*Tier 3 Solo*
-*A monstrous sea turtle that has an adamantine shell and beak.*
+## Tartaruga Gargantuesca
+* **Descrizione:** Una tartaruga marina mostruosa, con una corazza e un becco di adamantio.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 21/41
+* **Punti Ferita:** 10 | **Stress:** 6
+* **Esperienza:** Mare Aperto +5
+* **Attacchi:**
+  * **Mascelle Schiaccianti:** +7 | Molto Vicina | 3d12+7 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** La Tartaruga può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Morso Perforante - Passiva:** Quando la Tartaruga effettua un attacco standard riuscito contro un PG, il PG deve o segnare uno Slot di Armatura senza riceverne il beneficio o subire il doppio dei danni.
+  * **Colpo di Coda - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i PG dietro la Tartaruga entro portata Molto Vicina. In caso di successo, un bersaglio subisce 1d12 danni fisici aggiuntivi e viene respinto in portata Vicina dalla Tartaruga.
+  * **Ondata Gigaton - Azione:** Spendere una Paura per far usare alla Tartaruga il suo peso per scatenare una parete d'acqua inarrestabile che bersaglia tutte le creature entro portata Lontana. Ogni PG deve effettuare un Tiro di Reazione di Forza per affrontare la marea. I bersagli che falliscono vengono respinti in portata Vicina dalla Tartaruga, subiscono 4d8 danni fisici e diventano temporaneamente *Vulnerabili*. I bersagli che riescono devono segnare uno Stress. Per ogni bersaglio che è fallito, guadagni una Paura.
+  * **Soffio di Vapore - Azione:** Spendere 2 Paura per far rilasciare alla Tartaruga un getto di vapore surriscaldato che bersaglia tutti i PG davanti a lei entro portata Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d8 danni magici e diventano temporaneamente *Vulnerabili*. I bersagli che riescono devono scegliere di segnare uno Stress o subire la metà dei danni.
 
-**Motives & Tactics:** Acquire riches, capsize trading vessels, lie in wait, use the waves as cover
-**Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6
-**ATK:** +7 | **Crushing Jaws:** Very Close | 3d12+7 phy
-**Experience:** Open Sea +5
-
-## FEATURES
-* **Relentless (3) - Passive:** The Turtle can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Piercing Bite - Passive:** When the Turtle makes a successful standard attack against a PC, the PC must either mark an Armor Slot without receiving its benefit or take double damage.
-* **Tail Bash - Action:** Mark a Stress to make a standard attack against all PCs behind the Turtle within Very Close range. On a success, a target takes an extra 1d12 physical damage and is pushed away from the Turtle to Close range.
-* **Gigaton Splash - Action:** Spend a Fear to have the Turtle use its weight to unleash an unstoppable wall of water that targets all creatures within Far range. Each PC must make a Strength Reaction Roll to navigate the tide. Targets who fail are pushed away from the Turtle to Close range, take 4d8 physical damage, and become temporarily *Vulnerable*. Targets who succeed must mark a Stress. For each target who failed, you gain a Fear.
-* **Steam Breath - Action:** Spend 2 Fear to have the Turtle release a blast of superheated steam targeting all PCs in front of it within Close range. Each target must make an Agility Reaction Roll. Targets who fail take 4d8 magic damage and become temporarily *Vulnerable*. Targets who succeed must choose to either mark a Stress or take half damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Tartaruga Gargantuesca"
+description: "Una tartaruga marina mostruosa, con una corazza e un becco di adamantio."
+tier: "3"
+ruolo: "Solo"
+difficolta: "18"
+hp: "10"
+stress: "6"
+esperienza: "Mare Aperto +5"
+soglia_danni: "21/41"
+attacchi:
+  - name: "Mascelle Schiaccianti"
+    desc: "**+7** | Molto Vicina | **3d12+7** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* La Tartaruga può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Morso Perforante"
+    desc: "*- Passiva:* Quando la Tartaruga effettua un attacco standard riuscito contro un PG, il PG deve o segnare uno Slot di Armatura senza riceverne il beneficio o subire il doppio dei danni."
+capacita_speciali:
+  - name: "Colpo di Coda"
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro tutti i PG dietro la Tartaruga entro portata Molto Vicina. In caso di successo, un bersaglio subisce 1d12 danni fisici aggiuntivi e viene respinto in portata Vicina dalla Tartaruga."
+  - name: "Ondata Gigaton"
+    desc: "*- Azione:* Spendere una Paura per far usare alla Tartaruga il suo peso per scatenare una parete d'acqua inarrestabile che bersaglia tutte le creature entro portata Lontana. Ogni PG deve effettuare un Tiro di Reazione di Forza per affrontare la marea. I bersagli che falliscono vengono respinti in portata Vicina dalla Tartaruga, subiscono 4d8 danni fisici e diventano temporaneamente *Vulnerabili*. I bersagli che riescono devono segnare uno Stress. Per ogni bersaglio che è fallito, guadagni una Paura."
+  - name: "Soffio di Vapore"
+    desc: "*- Azione:* Spendere 2 Paura per far rilasciare alla Tartaruga un getto di vapore surriscaldato che bersaglia tutti i PG davanti a lei entro portata Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d8 danni magici e diventano temporaneamente *Vulnerabili*. I bersagli che riescono devono scegliere di segnare uno Stress o subire la metà dei danni."
+```

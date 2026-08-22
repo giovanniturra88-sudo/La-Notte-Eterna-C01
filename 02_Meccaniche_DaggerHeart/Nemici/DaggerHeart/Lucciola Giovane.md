@@ -1,20 +1,44 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Solo]]"
 ---
 
-**_Tier 2 [[Solo]]._** _Un insetto della grandezza di un cavallo con scaglie iridescenti e ali cristalline che si muove più veloce di quanto l'occhio possa vedere._
+## Lucciola Giovane
+* **Descrizione:** Un insetto della grandezza di un cavallo con scaglie iridescenti e ali cristalline che si muove più veloce di quanto l'occhio possa vedere.
+* **Tier:** 2 (Solo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 13/26
+* **Punti Ferita:** 10 | **Stress:** 5
+* **Attacchi:**
+  * **Colpo d'Ali:** +3 | Molto Vicina | 2d10+4 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** La Lucciola può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterla a fuoco.
+  * **Precisione Superiore - Passiva:** Prima che la Lucciola effettui un attacco, lancia un **d6**. Su un risultato di 4 o più, l'Evasione della vittima è dimezzata contro questo attacco.
+  * **Danza Mentale - Azione:** **Segnare uno Stress** per creare una spettacolare manifestazione magica che afferra le menti dei nemici vicini. Tutte le vittime in portata Vicina devono effettuare un Tiro di Reazione di Istinto. Per ogni vittima fallita, guadagni una Paura e la Lucciola scopre uno dei timori della vittima.
+  * **Respiro Allucinogeno - Reazione: Conto alla Rovina (1d6):** Quando la Lucciola subisce danni per la prima volta, attiva il conto alla rovina. Quando scatta, la Lucciola sospira gas allucinogeno su tutte le vittime davanti a lei fino a portata Lontana. Le vittime devono superare un Tiro di Reazione di Istinto o essere tormentate da allucinazioni paurose. Le vittime che hanno paura note alla Lucciola subiscono svantaggio su questo tiro. Le vittime che falliscono devono segnare uno Stress e perdere una Speranza.
 
-- **Motivazioni e Tattiche:** Raccogli oggetti lucenti, caccia, colpisce in picchiata
-- **Difficoltà:** 14 | **Soglie:** 13/26 | **PF:** 10 | **Stress:** 5
-- **ATT:** +3 | **Colpo d'Ali:** Molto Vicino | 2d10+4 fis
-
-### CARATTERISTICHE
-
-**_Inesorabile (3) - Passiva:_** Il Flickerfly può essere individuato fino a tre volte per turno del GM. Spendi Paura come al solito per individuarlo.
-
-**_Precisione Superiore - Passiva:_** Prima che il Flickerfly effettui un attacco, lancia un **d6**. Se esce 4 o più, l'Evasione della vittima è dimezzata contro questo attacco.
-
-**_Danza Mentale - Azione:_** **Segna uno Stress** per creare una spettacolare manifestazione magica che afferra le menti dei nemici vicini. Tutte le vittime entro portata Vicina devono effettuare un Lancio di Reazione di Istinto. Per ogni vittima fallita, guadagni una Paura e il Flickerfly scopre uno dei timori della vittima.
-
-**_Respiro Allucinogeno - Reazione: Conto alla Rovescia (Ciclo 1d6):_** Quando il Flickerfly subisce danni per la prima volta, attiva il conto alla rovescia. Quando scatta, il Flickerfly sospira gas allucinogeno su tutte le vittime davanti a lui fino a portata Lontana. Le vittime devono superare un Lancio di Reazione di Istinto o essere tormentate da allucinazioni paurose. Le vittime che hanno paura note al Flickerfly subiscono svantaggio su questo lancio. Le vittime che falliscono devono segnare uno Stress e perdere una Speranza.
+```statblock
+layout: DaggerHeart Nemici
+name: "Lucciola Giovane"
+description: "Un insetto della grandezza di un cavallo con scaglie iridescenti e ali cristalline che si muove più veloce di quanto l'occhio possa vedere."
+tier: "2"
+ruolo: "Solo"
+difficolta: "14"
+hp: "10"
+stress: "5"
+soglia_danni: "13/26"
+attacchi:
+  - name: "Colpo d'Ali"
+    desc: "**+3** | Molto Vicina | **2d10+4** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* La Lucciola può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterla a fuoco."
+  - name: "Precisione Superiore"
+    desc: "*- Passiva:* Prima che la Lucciola effettui un attacco, lancia un d6. Su un risultato di 4 o più, l'Evasione della vittima è dimezzata contro questo attacco."
+capacita_speciali:
+  - name: "Danza Mentale"
+    desc: "*- Azione:* Segnare uno Stress per creare una spettacolare manifestazione magica che afferra le menti dei nemici vicini. Tutte le vittime in portata Vicina devono effettuare un Tiro di Reazione di Istinto. Per ogni vittima fallita, guadagni una Paura e la Lucciola scopre uno dei timori della vittima."
+  - name: "Respiro Allucinogeno"
+    desc: "*- Reazione: Conto alla Rovina (1d6):* Quando la Lucciola subisce danni per la prima volta, attiva il conto alla rovina. Quando scatta, la Lucciola sospira gas allucinogeno su tutte le vittime davanti a lei fino a portata Lontana. Le vittime devono superare un Tiro di Reazione di Istinto o essere tormentate da allucinazioni paurose. Le vittime che hanno paura note alla Lucciola subiscono svantaggio su questo tiro. Le vittime che falliscono devono segnare uno Stress e perdere una Speranza."
+```

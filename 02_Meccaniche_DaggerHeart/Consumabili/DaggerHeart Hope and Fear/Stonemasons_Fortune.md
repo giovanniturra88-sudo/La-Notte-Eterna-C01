@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 26
 ---
 
-# Stonemason's Fortune
+# Fortuna del Marmista
 
-When you throw this gray brick on the ground, it immediately grows into a 6-foot-tall, 10-foot-wide, and 2-foot-deep wall of solid stone.
+Quando lanci questo mattone grigio a terra, cresce immediatamente in un muro di pietra solida alto 1,8 m, largo 3 m e spesso 0,6 m.

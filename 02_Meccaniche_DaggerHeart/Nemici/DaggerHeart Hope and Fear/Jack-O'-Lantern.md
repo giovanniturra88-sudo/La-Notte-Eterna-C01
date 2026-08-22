@@ -4,17 +4,38 @@ type:
   - "[[Minion]]"
 ---
 
-# Jack-O'-Lantern
-- **Tipo / Ruolo:** Tier 2 Minion
-- **Descrizione:** A floating pumpkin or other gourd that has a face carved into it. The soul trapped within it emits an eerie glow.
-- **Motivi & Tattiche:** Bite, float, laugh, tell spooky stories
-- **Difficoltà:** 14
-- **Soglie (Thresholds):** None
-- **Punti Ferita (HP):** 1
-- **Stress:** 1
-- **Attacco:** +2 | Chomp: Melee | 6 phy
+## Lampiona
+* **Descrizione:** Una zucca fluttuante o altro frutto a scorza, con un volto inciso. L'anima intrappolata al suo interno emana un bagliore inquietante.
+* **Tier:** 2 (Minion)
+* **Difficoltà:** 14
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Attacchi:**
+  * **Morsicatura:** +2 | Da Vicino | 6 fisico
+* **Tratti e Capacità:**
+  * **Minion (4) - Passiva:** La Lampiona viene sconfitta quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge alla Lampiona, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Lampiona entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina questi danni.
+  * **Risata Gelerante - Reazione:** Quando un PG entro portata Molto Vicina tira con Paura, puoi segnare uno Stress per guadagnare una Paura aggiuntiva.
 
-**Tratti (Features):**
-* **Minion (4) - Passive:** The Jack-o'-Lantern is defeated when it takes any damage. For every 4 damage a PC deals to the Jack-o'-Lantern, the PC defeats an additional Minion within range the attack would succeed against.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Jack-o'-Lanterns within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 6 physical damage each. Combine this damage.
-* **Spine-Chilling Cackle - Reaction:** When a PC within Very Close range rolls with Fear, you can mark a Stress to gain an additional Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Lampiona"
+description: "Una zucca fluttuante o altro frutto a scorza, con un volto inciso. L'anima intrappolata al suo interno emana un bagliore inquietante."
+tier: "2"
+ruolo: "Minion"
+difficolta: "14"
+hp: "1"
+stress: "1"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Morsicatura"
+    desc: "**+2** | Da Vicino | **6** fisico"
+tratti:
+  - name: "Minion (4)"
+    desc: "*- Passiva:* La Lampiona viene sconfitta quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge alla Lampiona, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Lampiona entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina questi danni."
+  - name: "Risata Gelerante"
+    desc: "*- Reazione:* Quando un PG entro portata Molto Vicina tira con Paura, puoi segnare uno Stress per guadagnare una Paura aggiuntiva."
+```

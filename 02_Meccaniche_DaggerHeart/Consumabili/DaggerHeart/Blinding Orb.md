@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Blinding Orb
+# Sfera Accecante
 
-You can activate this orb to create a flash of bright light. All targets within Close range become Vulnerable until they mark HP.
+Puoi attivare questa sfera per creare un bagliore di luce intensa. Tutti i bersagli entro gittata Vicina diventano Vulnerabili finché non segnano un Punto Ferita.

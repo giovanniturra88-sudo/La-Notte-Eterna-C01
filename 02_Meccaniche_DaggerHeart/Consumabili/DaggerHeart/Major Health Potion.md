@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Major Health Potion
+# Pozione di Salute Maggiore
 
-Clear 1d4+2 HP.
+Elimina 1d4+2 Punti Ferita.

@@ -4,21 +4,40 @@ type:
   - "[[Minion]]"
 ---
 
-# Darkweave Crawler
-**Tier 1 Minion**
+## Rastrellatore Darkweave
+* **Descrizione:** Un ragno delle dimensioni di una testa umana, tessuto con seta d'ombra.
+* **Tier:** 1 (Minion)
+* **Difficoltà:** 10
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Oscurità +3
+* **Attacchi:**
+  * **Morso:** -2 | Da Vicino | 2 fisico
+* **Tratti e Capacità:**
+  * **Minion (3) - Passiva:** Il Rastrellatore viene sconfitto quando subisce qualsiasi danno. Per ogni 3 danni che un PG infligge al Rastrellatore, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Pelle Strisciante - Azione:** Spendere una Paura per costringere tutti i PG entro portata Da Vicino del Rastrellatore a segnare uno Stress.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Rastrellatori Darkweave entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina questi danni.
+  * **Veleno Darkweave - Reazione:** Quando il Rastrellatore effettua un attacco riuscito, puoi segnare uno Stress per *Esaurire* il bersaglio finché non riesce su un Tiro di Forza (9). Mentre è *Esaurito*, il bersaglio deve segnare uno Stress ogni volta che effettua un tiro di azione.
 
-*A spider the size of a human head, woven out of shadow-silk.*
-
-* **Motives & Tactics:** Hide in shadow, strike the unwary, wait for an opening
-* **Difficulty:** 10
-* **Thresholds:** None
-* **HP:** 1
-* **Stress:** 1
-* **ATK:** -2 | Bite: Melee | 2 phy
-* **Experience:** Darkness +3
-
-## FEATURES
-* **Minion (3) - Passive:** The Crawler is defeated when it takes any damage. For every 3 damage a PC deals to the Crawler, the PC defeats an additional Minion within range the attack would succeed against.
-* **Skin-Crawling - Action:** Spend a Fear to force all PCs within Melee range of the Crawler to mark a Stress.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Darkweave Crawlers within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
-* **Darkweave Venom - Reaction:** When the Crawler makes a successful attack, you can mark a Stress to Exhaust the target until they succeed on a Strength Roll (9). While Exhausted, the target must mark a Stress each time they make an action roll.
+```statblock
+layout: DaggerHeart Nemici
+name: "Rastrellatore Darkweave"
+description: "Un ragno delle dimensioni di una testa umana, tessuto con seta d'ombra."
+tier: "1"
+ruolo: "Minion"
+difficolta: "10"
+hp: "1"
+stress: "1"
+esperienza: "Oscurità +3"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Morso"
+    desc: "**-2** | Da Vicino | **2** fisico"
+capacita_speciali:
+  - name: "Pelle Strisciante"
+    desc: "*- Azione:* Spendere una Paura per costringere tutti i PG entro portata Da Vicino del Rastrellatore a segnare uno Stress."
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Rastrellatori Darkweave entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina questi danni."
+  - name: "Veleno Darkweave"
+    desc: "*- Reazione:* Quando il Rastrellatore effettua un attacco riuscito, puoi segnare uno Stress per *Esaurire* il bersaglio finché non riesce su un Tiro di Forza (9). Mentre è *Esaurito*, il bersaglio deve segnare uno Stress ogni volta che effettua un tiro di azione."
+```

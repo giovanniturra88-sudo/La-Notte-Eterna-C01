@@ -1,19 +1,43 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Furtivo]]"
 ---
 
-**_Tier 3 [[Furtivo]]._** _Un piccolo vampiro con ali larghe, fedele all'infinito al suo padrone vampiro._
+## Terribile Pipistrello
+* **Descrizione:** Un piccolo vampiro con ali larghe, fedele all'infinito al suo padrone vampiro.
+* **Tier:** 3 (Furtivo)
+* **Difficoltà:** 14
+* **Soglie di Danno:** 16/30
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Esperienza:** Sanguinario +3
+* **Attacchi:**
+  * **Artigli e Denti:** +2 | Da Vicino | 2d6+7 fisico
+* **Tratti e Capacità:**
+  * **Volo - Passiva:** Mentre è in volo, il Pipistrello ottiene un bonus di +3 alla propria Difficoltà.
+  * **Strillo - Azione:** **Segnare uno Stress** per inviare un forte strillo ad alta frequenza verso tutti i bersagli davanti al Pipistrello in portata Lontana. Quei bersagli devono segnare **1d4** Stress.
+  * **Guardiano - Reazione:** Quando un vampiro alleato segna PF, puoi **Segnare uno Stress** per volare in portata Da Vicino verso l'attaccante ed effettuare un attacco con vantaggio contro di lui. In caso di successo, infliggi **2d6+2** danni fisici.
 
-- **Motives & Tactics:** Attacco a picco, nascondersi, proteggere il leader
-- **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
-- **ATK:** +2 | **Artigli e Denti:** Mischia | 2d6+7 phy
-- **Experience:** Sanguinario +3
-
-### CARATTERISTICHE
-
-**_Volo - Passiva:_** Mentre è in volo, il Bat ottiene un bonus di +3 alla propria Difficulty.
-
-**_Strillo - Azione:_** **Segna uno Stress** per inviare un forte strillo ad alta frequenza verso tutti i bersagli davanti al Bat entro la portata Lontana. Quei bersagli devono segnare **1d4** Stress.
-
-**_Guardiano - Reazione:_** Quando un vampiro alleato segna HP, puoi **segnare uno Stress** per volare in range di Mischia verso l'attaccante e effettuare un attacco con vantaggio contro di lui. In caso di successo, infliggi **2d6+2** danni fisici.
+```statblock
+layout: DaggerHeart Nemici
+name: "Terribile Pipistrello"
+description: "Un piccolo vampiro con ali larghe, fedele all'infinito al suo padrone vampiro."
+tier: "3"
+ruolo: "Furtivo"
+difficolta: "14"
+hp: "5"
+stress: "3"
+esperienza: "Sanguinario +3"
+soglia_danni: "16/30"
+attacchi:
+  - name: "Artigli e Denti"
+    desc: "**+2** | Da Vicino | **2d6+7** fisico"
+tratti:
+  - name: "Volo"
+    desc: "*- Passiva:* Mentre è in volo, il Pipistrello ottiene un bonus di +3 alla propria Difficoltà."
+capacita_speciali:
+  - name: "Strillo"
+    desc: "*- Azione:* Segnare uno Stress per inviare un forte strillo ad alta frequenza verso tutti i bersagli davanti al Pipistrello in portata Lontana. Quei bersagli devono segnare 1d4 Stress."
+  - name: "Guardiano"
+    desc: "*- Reazione:* Quando un vampiro alleato segna PF, puoi Segnare uno Stress per volare in portata Da Vicino verso l'attaccante ed effettuare un attacco con vantaggio contro di lui. In caso di successo, infliggi 2d6+2 danni fisici."
+```

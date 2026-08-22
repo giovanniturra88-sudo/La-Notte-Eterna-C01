@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 47
 ---
 
-# Invisibility Potion
+# Pozione di Invisibilità
 
-You are Hidden until you deal damage to another creature or until your next rest.
+Sei Nascosto finché non infliggi danni a un'altra creatura o fino al tuo prossimo riposo.

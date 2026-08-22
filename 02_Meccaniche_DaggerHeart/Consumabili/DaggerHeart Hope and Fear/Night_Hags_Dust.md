@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 24
 ---
 
-# Night Hag's Dust
+# Polvere della Strega Notturna
 
-You can blow this dust in an adversary's face to prevent them from clearing Stress until your next long rest.
+Puoi soffiare questa polvere in faccia a un avversario per impedirgli di eliminare Stress fino al tuo prossimo riposo lungo.

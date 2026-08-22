@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Homing Compasses
+# Bussole Guidanti
 
 **_Item_**
 
-These two compasses point toward each other no matter how far apart they are.
+Queste due bussole puntano l'una verso l'altra, non importa quanto siano distanti.

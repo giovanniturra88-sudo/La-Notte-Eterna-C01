@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Valorstone
+# Pietra del Valore
 
 **_Item_**
 
-You can attach this stone to armor that doesn't already have a feature. The armor gains the following feature. Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+Puoi fissare questa pietra a un'armatura che non ha già una caratteristica. L'armatura ottiene la seguente caratteristica. Resiliente: Prima di segnare il tuo ultimo Slot di Armatura, tira un d6. Con un risultato di 6, riduci la gravità di una soglia senza segnare uno Slot di Armatura.

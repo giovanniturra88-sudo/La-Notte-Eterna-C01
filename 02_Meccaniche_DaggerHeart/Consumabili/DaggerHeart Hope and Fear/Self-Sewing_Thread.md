@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 25
 ---
 
-# Self-Sewing Thread
+# Filo Auto-cuciente
 
-You can use this thread to clear either a Hit Point or 2 Armor Slots.
+Puoi usare questo filo per eliminare un Punto Ferita o 2 Slot Armatura.

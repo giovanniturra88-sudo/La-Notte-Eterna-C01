@@ -1,6 +1,6 @@
 ---
 type: "[[Consumable]]"
 ---
-# Armor Stitcher
+# Sutura dell'Armatura
 
-You can use this stitcher to spend any number of Hope and clear that many Armor Slots.
+Puoi usare questa sutura per spendere un qualsiasi numero di Speranza e eliminare altrettanti Slot Armatura.

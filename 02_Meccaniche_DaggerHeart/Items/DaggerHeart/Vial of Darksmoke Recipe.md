@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Vial of Darksmoke Recipe
+# Ricetta: Fiala di Fumo Oscuro
 
 **_Item_**
 
-As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.
+Come mossa di tempi morti, puoi segnare uno Stress per creare una Fiala di Fumo Oscuro.

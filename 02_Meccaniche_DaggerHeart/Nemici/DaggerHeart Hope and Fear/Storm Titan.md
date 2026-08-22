@@ -4,18 +4,46 @@ type:
   - "[[Solo]]"
 ---
 
-# Storm Titan
-*Tier 3 Solo*
-*An ancient, wise, and temperamental goliath who has hair made of mist and electricity crackling across their skin.*
+## Titano della Tempesta
+* **Descrizione:** Un gigante antico, saggio e irascibile, con capelli fatti di nebbia e elettricità che scintilla sulla sua pelle.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 35/70
+* **Punti Ferita:** 11 | **Stress:** 8
+* **Esperienza:** Potere della Tempesta +3
+* **Attacchi:**
+  * **Fulmine:** +7 | Lontana | 3d20+10 magico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Quantità di Moto - Passiva:** Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura.
+  * **Sfera di Fulmine - Azione:** Spendere una Paura per far evocare al Titano 1d4 sfere di energia elettrica entro portata Vicina. Quando il Titano viene messo a fuoco, può muovere ciascuna sfera fino a portata Vicina. Quando una sfera si muove entro portata Molto Vicina di un PG, il PG subisce 4d6 danni magici e la sfera scompare. Ciascuna sfera ha la stessa Difficoltà del Titano e scompare se una creatura le infligge danni magici.
+  * **Portatore di Tempeste - Azione:** Segnare uno Stress per far evocare al Titano una tempesta furiosa. Ogni PG entro portata Vicina del Titano deve effettuare un Tiro di Reazione di Forza. I bersagli che falliscono subiscono 3d12 danni magici e diventano *Vulnerabili* finché non vengono messi a fuoco. I bersagli che riescono subiscono la metà dei danni.
+  * **Tuono - Azione:** Spendere una Paura per bersagliare fino a tre PG davanti al Titano entro portata Vicina. Ogni bersaglio segna uno Stress e diventa *Vulnerabile* finché non tira con Speranza.
 
-**Motives & Tactics:** Erupt violently, wait, watch
-**Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8
-**ATK:** +7 | **Lightning Bolt:** Far | 3d20+10 mag
-**Experience:** Power of the Storm +3
-
-## FEATURES
-* **Relentless (3) - Passive:** The Titan can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
-* **Momentum - Passive:** When the Titan makes a successful attack against a PC, you gain a Fear.
-* **Ball Lightning - Action:** Spend a Fear to have the Titan conjure 1d4 spheres of electrical energy within Close range. When the Titan is spotlighted, they can move each sphere up to Close range. When a sphere moves within Very Close range of a PC, the PC takes 4d6 magic damage, and the sphere disappears. Each sphere has the same Difficulty as the Titan and disappears if a creature deals magic damage to it.
-* **Storm Bringer - Action:** Mark a Stress to have the Titan conjure a raging storm. Each PC within Close range of the Titan must make a Strength Reaction Roll. Targets who fail take 3d12 magic damage and are *Vulnerable* until they are spotlighted. Targets who succeed take half damage.
-* **Thunderclap - Action:** Spend a Fear to target up to three PCs in front of the Titan within Close range. Each target marks a Stress and becomes *Vulnerable* until they roll with Hope.
+```statblock
+layout: DaggerHeart Nemici
+name: "Titano della Tempesta"
+description: "Un gigante antico, saggio e irascibile, con capelli fatti di nebbia e elettricità che scintilla sulla sua pelle."
+tier: "3"
+ruolo: "Solo"
+difficolta: "20"
+hp: "11"
+stress: "8"
+esperienza: "Potere della Tempesta +3"
+soglia_danni: "35/70"
+attacchi:
+  - name: "Fulmine"
+    desc: "**+7** | Lontana | **3d20+10** magico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Quantità di Moto"
+    desc: "*- Passiva:* Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura."
+capacita_speciali:
+  - name: "Sfera di Fulmine"
+    desc: "*- Azione:* Spendere una Paura per far evocare al Titano 1d4 sfere di energia elettrica entro portata Vicina. Quando il Titano viene messo a fuoco, può muovere ciascuna sfera fino a portata Vicina. Quando una sfera si muove entro portata Molto Vicina di un PG, il PG subisce 4d6 danni magici e la sfera scompare. Ciascuna sfera ha la stessa Difficoltà del Titano e scompare se una creatura le infligge danni magici."
+  - name: "Portatore di Tempeste"
+    desc: "*- Azione:* Segnare uno Stress per far evocare al Titano una tempesta furiosa. Ogni PG entro portata Vicina del Titano deve effettuare un Tiro di Reazione di Forza. I bersagli che falliscono subiscono 3d12 danni magici e diventano *Vulnerabili* finché non vengono messi a fuoco. I bersagli che riescono subiscono la metà dei danni."
+  - name: "Tuono"
+    desc: "*- Azione:* Spendere una Paura per bersagliare fino a tre PG davanti al Titano entro portata Vicina. Ogni bersaglio segna uno Stress e diventa *Vulnerabile* finché non tira con Speranza."
+```

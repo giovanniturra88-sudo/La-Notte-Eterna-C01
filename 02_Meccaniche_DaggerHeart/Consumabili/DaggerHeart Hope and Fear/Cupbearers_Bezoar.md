@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 4
 ---
 
-# Cupbearer's Bezoar
+# Bezoar del Portacoppa
 
-You can swallow this bezoar to become immune to poisons until your next long rest.
+Puoi ingoiare questo bezoar per diventare immune ai veleni fino al tuo prossimo riposo lungo.

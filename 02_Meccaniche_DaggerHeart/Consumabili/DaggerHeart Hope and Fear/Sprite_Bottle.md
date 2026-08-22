@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 20
 ---
 
-# Sprite Bottle
+# Bottiglia dello Sprite
 
-When you mark your last Hit Point, this bottle shatters to release the Sprite inside. The Sprite clears all your Hit Points before fading from the Mortal Realm.
+Quando segni il tuo ultimo Punto Ferita, questa bottiglia si frantuma per rilasciare lo Sprite all'interno. Lo Sprite elimina tutti i tuoi Punti Ferita prima di dissolversi dal Regno Mortale.

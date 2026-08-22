@@ -8,7 +8,7 @@ Hai scelto il percorso del Ladro.
 I ladri sono maestri dell'ombra, del sotterfugio e del crimine. Si muovono nell'oscurità colpendo i punti deboli dei nemici con attacchi furtivi devastanti.
 
 ---
-- **DOMINI -** [[Mezzanotte]] & [[Grazia]]
+- **DOMINI -** [[MezzaNotte]] & [[Grazia]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza

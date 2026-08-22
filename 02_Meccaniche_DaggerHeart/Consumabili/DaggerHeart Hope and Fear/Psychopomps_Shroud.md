@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 44
 ---
 
-# Psychopomp's Shroud
+# Velo del Psicopompo
 
-You can place this shroud over the corpse of a recently deceased creature. The creature's spirit enters the shroud and becomes your spectral assistant until the next sunrise, when they pass through the veil of death and take the shroud with them.
+Puoi posare questo velo sul cadavere di una creatura di recente defunta. Lo spirito della creatura entra nel velo e diventa il tuo assistente spettrale fino al prossimo sorgere del sole, quando passa attraverso il velo della morte e porta con sé il velo.

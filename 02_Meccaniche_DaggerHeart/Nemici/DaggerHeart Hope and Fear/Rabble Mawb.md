@@ -4,19 +4,37 @@ type:
   - "[[Orda]]"
 ---
 
-# Rabble Mawb
-**Tier 1 Horde (3/HP)**
+## Mawb di Rabble
+* **Descrizione:** Queste palle di pelame, arti e denti grandi come gatti viaggiano in un "mawb" di una dozzina.
+* **Tier:** 1 (Orda, 3 PF)
+* **Difficoltà:** 8
+* **Soglie di Danno:** 4/8
+* **Punti Ferita:** 4 | **Stress:** 2
+* **Esperienza:** Sottoterra +2
+* **Attacchi:**
+  * **Morsicatura:** -2 | Da Vicino | 1d6+3 fisico
+* **Tratti e Capacità:**
+  * **Orda (1d4+1) - Passiva:** Quando il Mawb di Rabble ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4+1 danni fisici.
+  * **Tornare Peggio - Reazione:** Quando il Mawb di Rabble viene sconfitto, puoi spendere una Paura per riportarlo in vita, rimuovendo tutti i PF e lo Stress. Il Mawb di Rabble guadagna un bonus a tutti i tiri pari al numero di volte in cui questo tratto è stato usato da questo Mawb di Rabble.
 
-*These cat-sized balls of hair, limbs, and teeth travel in a "mawb" of a dozen.*
-
-* **Motives & Tactics:** Chitter and chew, clump together, roll around
-* **Difficulty:** 8
-* **Thresholds:** 4/8
-* **HP:** 4
-* **Stress:** 2
-* **ATK:** -2 | Chomp: Melee | 1d6+3 phy
-* **Experience:** Underground +2
-
-## FEATURES
-* **Horde (1d4+1) - Passive:** When the Rabble Mawb has marked half or more of its HP, its standard attack deals 1d4+1 physical damage instead.
-* **Come Back Worse - Reaction:** When the Rabble Mawb is defeated, you can spend a Fear to bring it back to life, clearing all HP and Stress. The Rabble Mawb gains a bonus to all rolls equal to the number of times this feature has been used by this Rabble Mawb.
+```statblock
+layout: DaggerHeart Nemici
+name: "Mawb di Rabble"
+description: "Queste palle di pelame, arti e denti grandi come gatti viaggiano in un 'mawb' di una dozzina."
+tier: "1"
+ruolo: "Orda"
+difficolta: "8"
+hp: "4"
+stress: "2"
+esperienza: "Sottoterra +2"
+soglia_danni: "4/8"
+attacchi:
+  - name: "Morsicatura"
+    desc: "**-2** | Da Vicino | **1d6+3** fisico"
+tratti:
+  - name: "Orda (1d4+1)"
+    desc: "*- Passiva:* Quando il Mawb di Rabble ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4+1 danni fisici."
+capacita_speciali:
+  - name: "Tornare Peggio"
+    desc: "*- Reazione:* Quando il Mawb di Rabble viene sconfitto, puoi spendere una Paura per riportarlo in vita, rimuovendo tutti i PF e lo Stress. Il Mawb di Rabble guadagna un bonus a tutti i tiri pari al numero di volte in cui questo tratto è stato usato da questo Mawb di Rabble."
+```

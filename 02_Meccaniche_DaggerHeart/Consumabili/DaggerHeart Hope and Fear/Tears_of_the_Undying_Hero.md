@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 59
 ---
 
-# Tears of the Undying Hero
+# Lacrime dell'Eroe Immortale
 
-When you drink this potion, death can't touch you until your next long rest. When you would mark your last Hit Point, instead of making a death move, you make one final action roll before falling into a dreamless slumber until an ally chooses the Tend to Wounds downtime move to clear your Hit Points.
+Quando bevi questa pozione, la morte non può toccarti fino al tuo prossimo riposo lungo. Quando saresti costretto a segnare il tuo ultimo Punto Ferita, invece di effettuare una mossa di morte, effettui un ultimo tiro d'azione prima di cadere in un sonno senza sogni finché un alleato non sceglie la mossa di tempi morti Cura le Ferite per eliminare i tuoi Punti Ferita.

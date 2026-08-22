@@ -4,15 +4,37 @@ type:
   - "[[Standard]]"
 ---
 
-# Griffin
-*Tier 4 Standard*
-*A large leonine creature that has the head, talons, and wings of an eagle.*
+## Grifone
+* **Descrizione:** Una grande creatura leonina, con la testa, gli artigli e le ali di un'aquila.
+* **Tier:** 4 (Standard)
+* **Difficoltà:** 18
+* **Soglie di Danno:** 30/45
+* **Punti Ferita:** 6 | **Stress:** 4
+* **Esperienza:** Ricchezze +5, Sensi Acuti +3
+* **Attacchi:**
+  * **Becco e Artigli:** +4 | Molto Vicina | 4d8+4 fisico
+* **Tratti e Capacità:**
+  * **Accumulatore di Tesori - Passiva:** Quando un PG dovrebbe segnare un qualsiasi numero di PF dall'attacco del Grifone, il PG può scegliere di dare al Grifone un numero uguale di sacchi d'oro.
+  * **Taglio in Tuffo - Azione:** Muoversi fino a portata Lontana ed effettuare un attacco standard contro un bersaglio lungo il percorso.
 
-**Motives & Tactics:** Hunt, look for an opening, swoop
-**Difficulty:** 18 | **Thresholds:** 30/45 | **HP:** 6 | **Stress:** 4
-**ATK:** +4 | **Beak & Talons:** Very Close | 4d8+4 phy
-**Experience:** Riches +5, Keen Senses +3
-
-## FEATURES
-* **Treasure Hoarder - Passive:** When a PC would mark any number of HP from the Griffin's attack, the PC can choose instead to give the Griffin an equal number of bags of gold.
-* **Swooping Slash - Action:** Move up to Far range and make a standard attack against a target along the way.
+```statblock
+layout: DaggerHeart Nemici
+name: "Grifone"
+description: "Una grande creatura leonina, con la testa, gli artigli e le ali di un'aquila."
+tier: "4"
+ruolo: "Standard"
+difficolta: "18"
+hp: "6"
+stress: "4"
+esperienza: "Ricchezze +5, Sensi Acuti +3"
+soglia_danni: "30/45"
+attacchi:
+  - name: "Becco e Artigli"
+    desc: "**+4** | Molto Vicina | **4d8+4** fisico"
+tratti:
+  - name: "Accumulatore di Tesori"
+    desc: "*- Passiva:* Quando un PG dovrebbe segnare un qualsiasi numero di PF dall'attacco del Grifone, il PG può scegliere di dare al Grifone un numero uguale di sacchi d'oro."
+capacita_speciali:
+  - name: "Taglio in Tuffo"
+    desc: "*- Azione:* Muoversi fino a portata Lontana ed effettuare un attacco standard contro un bersaglio lungo il percorso."
+```

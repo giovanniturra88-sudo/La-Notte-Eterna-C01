@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Fire Jar
+# Barattolo di Fuoco
 
 **_Item_**
 
-You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest.
+Puoi versare lo strano contenuto liquido di questo barattolo per produrre immediatamente fuoco. Il contenuto si rigenera quando effettui un riposo lungo.

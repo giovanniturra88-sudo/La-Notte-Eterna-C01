@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Blood of the Yorgi
+# Sangue degli Yorgi
 
-You can drink this blood to disappear from where you are and immediately reappear at a point you can see within Very Far range.
+Puoi bere questo sangue per scomparire da dove ti trovi e riapparire immediatamente in un punto che puoi vedere entro gittata Molto Lontana.

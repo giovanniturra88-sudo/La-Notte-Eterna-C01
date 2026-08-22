@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 22
 ---
 
-# Gossip Flower
+# Fiore Pettegolo
 
-You can plant this seed in soil. It instantly grows into a small flower that records everything it hears for up to one week. When plucked, the flower recites what it recorded in real time, then withers.
+Puoi piantare questo seme nel terreno. Cresce istantaneamente in un piccolo fiore che registra tutto ciò che sente per fino a una settimana. Quando viene colto, il fiore recita ciò che ha registrato in tempo reale, poi appassisce.

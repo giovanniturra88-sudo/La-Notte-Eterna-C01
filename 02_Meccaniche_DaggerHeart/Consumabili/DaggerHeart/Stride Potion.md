@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Stride Potion
+# Pozione del Passo
 
-You gain a +1 bonus to your next Agility Roll.
+Ottieni un bonus di +1 al tuo prossimo Tiro di Agilità.

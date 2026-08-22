@@ -4,16 +4,40 @@ type:
   - "[[Orda]]"
 ---
 
-# Night Children
-*Tier 3 Horde (2/HP)*
-*A teeming assortment of nocturnal fiends under the thrall of an ancient evil.*
+## Figli della Notte
+* **Descrizione:** Un assortimento brulicante di demoni notturni sotto il giogo di un'antica malvagità.
+* **Tier:** 3 (Orda, 2 PF)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 17/32
+* **Punti Ferita:** 7 | **Stress:** 4
+* **Esperienza:** Terrorizzare +3
+* **Attacchi:**
+  * **Zanne e Artigli:** +1 | Da Vicino | 3d6+8 fisico
+* **Tratti e Capacità:**
+  * **Orda (2d6) - Passiva:** Quando i Figli della Notte hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+2 danni fisici.
+  * **Rinforzare le File - Azione:** Una volta per scena, segnare un numero qualsiasi di Stress per far aprire ai Figli della Notte un portale che riversa rinforzi, ricolmando le file dell'Orda. Rimuovi un numero di PF pari al numero di Stress segnati.
+  * **Schiacciare - Reazione:** Quando i Figli della Notte segnano PF da un attacco entro portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante.
 
-**Motives & Tactics:** Carry victims back to master, overrun settlements, slither through shadow
-**Difficulty:** 16 | **Thresholds:** 17/32 | **HP:** 7 | **Stress:** 4
-**ATK:** +1 | **Fangs & Claws:** Melee | 3d6+8 phy
-**Experience:** Terrorize +3
-
-## FEATURES
-* **Horde (2d6) - Passive:** When the Night Children have marked half or more of their HP, their standard attack deals 2d6+2 physical damage instead.
-* **Swell Ranks - Action:** Once per scene, mark any number of Stress to have the Night Children open a portal that spews forth reinforcements, refilling the Horde's ranks. Clear a number of HP equal to the number of Stress marked.
-* **Overwhelm - Reaction:** When the Night Children mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker.
+```statblock
+layout: DaggerHeart Nemici
+name: "Figli della Notte"
+description: "Un assortimento brulicante di demoni notturni sotto il giogo di un'antica malvagità."
+tier: "3"
+ruolo: "Orda"
+difficolta: "16"
+hp: "7"
+stress: "4"
+esperienza: "Terrorizzare +3"
+soglia_danni: "17/32"
+attacchi:
+  - name: "Zanne e Artigli"
+    desc: "**+1** | Da Vicino | **3d6+8** fisico"
+tratti:
+  - name: "Orda (2d6)"
+    desc: "*- Passiva:* Quando i Figli della Notte hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+2 danni fisici."
+capacita_speciali:
+  - name: "Rinforzare le File"
+    desc: "*- Azione:* Una volta per scena, segnare un numero qualsiasi di Stress per far aprire ai Figli della Notte un portale che riversa rinforzi, ricolmando le file dell'Orda. Rimuovi un numero di PF pari al numero di Stress segnati."
+  - name: "Schiacciare"
+    desc: "*- Reazione:* Quando i Figli della Notte segnano PF da un attacco entro portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante."
+```

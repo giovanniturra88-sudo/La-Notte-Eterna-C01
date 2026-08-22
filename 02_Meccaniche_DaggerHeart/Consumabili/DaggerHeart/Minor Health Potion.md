@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Minor Health Potion
+# Pozione di Salute Minore
 
-Clear 1d4 HP.
+Elimina 1d4 Punti Ferita.

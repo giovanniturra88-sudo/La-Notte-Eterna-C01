@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Feast of Xuria
+# Banchetto di Xuria
 
-You can eat this meal to clear all HP and Stress and gain 1d4 Hope.
+Puoi consumare questo pasto per eliminare tutti i Punti Ferita e lo Stress e guadagnare 1d4 Speranza.

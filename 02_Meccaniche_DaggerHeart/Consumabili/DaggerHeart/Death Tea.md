@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Death Tea
+# Tè della Morte
 
-After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don't critically succeed on an attack before your next long rest, you die.
+Dopo aver bevuto questo tè, uccidi istantaneamente il tuo bersaglio quando ottieni un successo critico su un attacco. Se non ottieni un successo critico su un attacco prima del tuo prossimo riposo lungo, muori.

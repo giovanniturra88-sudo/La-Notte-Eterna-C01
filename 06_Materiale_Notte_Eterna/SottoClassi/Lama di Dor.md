@@ -3,7 +3,7 @@ type: Sottoclasse
 classe:
   - "[[Ranger]]"
   - "[[Warrior]]"
-  - "[[Shadow Hunter]]"
+  - "[[Cacciatore delle Ombre]]"
 spellcast_trait: Istinto (Instinct)
 Dominio:
   - "[[Ossa]]"

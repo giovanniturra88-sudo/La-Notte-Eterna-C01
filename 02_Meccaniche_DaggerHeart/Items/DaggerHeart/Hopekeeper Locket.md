@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Hopekeeper Locket
+# Medaglione del Custode della Speranza
 
 **_Item_**
 
-During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re‑imbued before it can be used this way again.
+Durante un riposo lungo, se hai 6 Speranza, puoi spendere una Speranza per infondere questo medaglione con la tua generosa determinazione. Quando hai 0 Speranza, puoi usare il medaglione per guadagnare immediatamente una Speranza. Il medaglione deve essere re-infuso prima di poter essere usato di nuovo in questo modo.

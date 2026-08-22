@@ -4,16 +4,40 @@ type:
   - "[[Minion]]"
 ---
 
-# Cephilith Hatchling
-*Tier 4 Minion*
-*A squidlike parasite that latches onto their prey's skull, bathing the victim's brain in extradimensional neurotoxins.*
+## Cephilith Giovane
+* **Descrizione:** Un parassita simile a un calamaro che si aggrappa al cranio della preda, inondando il cervello della vittima con neurotossine extradimensionali.
+* **Tier:** 4 (Minion)
+* **Difficoltà:** 18
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Psicico +2
+* **Attacchi:**
+  * **Ventose Spinose:** +3 | Da Vicino | 9 fisico
+* **Tratti e Capacità:**
+  * **Minion (12) - Passiva:** Il Giovane viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Giovane, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+  * **Comatizzare - Azione:** Spendere una Paura per far aggrappare il Giovane alla testa di un PG entro portata Da Vicino. Il PG deve segnare uno Stress mentre il Giovane inietta nel cervello del PG sostanze psico-chimiche, e deve segnare uno Stress aggiuntivo ogni volta che un PG fallisce un tiro con Paura. Il PG può rimuovere il Giovane spendendo un numero di Speranza pari al numero di Stress che ha segnato. Se un PG segna l'ultimo Stress mentre il Giovane è aggrappato, il PG deve effettuare una mossa di morte. Se il PG muore, puoi spendere una Paura per resuscitarlo come Cephilith Novizio.
+  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Cephilith Giovani entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 9 danni fisici ciascuno. Combina questi danni.
 
-**Motives & Tactics:** Climb, feed, hatch, numb, scuttle
-**Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-**ATK:** +3 | **Barbed Suckers:** Melee | 9 phy
-**Experience:** Psychic +2
-
-## FEATURES
-* **Minion (12) - Passive:** The Hatchling is defeated when they take any damage. For every 12 damage a PC deals to the Hatchling, the PC defeats an additional Minion within range the attack would succeed against.
-* **Comatize - Action:** Spend a Fear to have the Hatchling latch onto the head of a PC within Melee range. The PC must mark a Stress as the Hatchling injects the PC's brain with psycho-chemicals, and they must mark an additional Stress each time any PC fails a roll with Fear. The PC can remove the Hatchling by spending a number of Hope equal to the number of Stress they have marked. If a PC marks their last Stress while the Hatchling is latched on, the PC must make a death move. If the PC dies, you can spend a Fear to resurrect them as a Cephilith Novitiate.
-* **Group Attack - Action:** Spend a Fear to choose a target and spotlight all Cephilith Hatchlings within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 9 physical damage each. Combine this damage.
+```statblock
+layout: DaggerHeart Nemici
+name: "Cephilith Giovane"
+description: "Un parassita simile a un calamaro che si aggrappa al cranio della preda, inondando il cervello della vittima con neurotossine extradimensionali."
+tier: "4"
+ruolo: "Minion"
+difficolta: "18"
+hp: "1"
+stress: "1"
+esperienza: "Psicico +2"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Ventose Spinose"
+    desc: "**+3** | Da Vicino | **9** fisico"
+tratti:
+  - name: "Minion (12)"
+    desc: "*- Passiva:* Il Giovane viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Giovane, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo."
+capacita_speciali:
+  - name: "Comatizzare"
+    desc: "*- Azione:* Spendere una Paura per far aggrappare il Giovane alla testa di un PG entro portata Da Vicino. Il PG deve segnare uno Stress mentre il Giovane inietta nel cervello del PG sostanze psico-chimiche, e deve segnare uno Stress aggiuntivo ogni volta che un PG fallisce un tiro con Paura. Il PG può rimuovere il Giovane spendendo un numero di Speranza pari al numero di Stress che ha segnato. Se un PG segna l'ultimo Stress mentre il Giovane è aggrappato, il PG deve effettuare una mossa di morte. Se il PG muore, puoi spendere una Paura per resuscitarlo come Cephilith Novizio."
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Cephilith Giovani entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 9 danni fisici ciascuno. Combina questi danni."
+```

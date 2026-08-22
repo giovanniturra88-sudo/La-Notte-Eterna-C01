@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 45
 ---
 
-# Phial of Deep Ink
+# Fiala di Inchiostro Profondo
 
-You can drink this bottle of ink to transform into a cephalopod of roughly your size for the next hour. You gain rubbery skin, soft bones, the ability to breathe underwater, and new limbs until you have eight total.
+Puoi bere questa bottiglia d'inchiostro per trasformarti in un cefalopodo delle tue dimensioni approssimative per la prossima ora. Ottieni pelle gommosa, ossa morbide, la capacità di respirare sott'acqua e nuovi arti finché non ne hai otto in totale.

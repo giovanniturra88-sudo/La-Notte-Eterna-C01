@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Improved Arcane Shard
+# Scheggia Arcana Migliorata
 
-You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.
+Puoi effettuare un Tiro di Finezza per lanciare questa scheggia contro un gruppo di avversari entro gittata Lontana. I bersagli contro cui hai successo subiscono 2d20 danni magici.

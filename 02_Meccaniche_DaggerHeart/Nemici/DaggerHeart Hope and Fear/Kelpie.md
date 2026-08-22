@@ -4,21 +4,43 @@ type:
   - "[[Furtivo]]"
 ---
 
-# Kelpie
-**Tier 1 Skulk**
+## Kelpie
+* **Descrizione:** Un cambiamorfa che vive nei fiumi, preferisce una forma equina incantevole dentro e fuori dall'acqua.
+* **Tier:** 1 (Furtivo)
+* **Difficoltà:** 12
+* **Soglie di Danno:** 4/8
+* **Punti Ferita:** 3 | **Stress:** 5
+* **Esperienza:** Intralcio +3, Lettore di Menti +3
+* **Attacchi:**
+  * **Zoccoli:** -2 | Molto Vicina | 1d8+2 fisico
+* **Tratti e Capacità:**
+  * **Incantevole - Passiva:** Un PG deve segnare uno Stress per muoversi fuori dalla portata Da Vicino del Kelpie.
+  * **Desiderio del Cuore - Passiva:** Dopo che il Kelpie interagisce con o osserva una creatura per almeno cento battiti di cuore, il Kelpie conosce la forma fisica che quella creatura troverebbe più piacevole o attraente.
+  * **Cambiamorfa - Azione:** Segnare uno Stress per cambiare la forma fisica del Kelpie in qualsiasi creatura o oggetto più piccolo di una carrozza. Una creatura ha lo svantaggio sui tiri contro il Kelpie mentre il Kelpie è in una forma che la creatura trova piacevole o attraente.
+  * **Incanta - Azione:** Spendere una Paura per far *Affascinare* al Kelpie un PG entro portata Vicina. Il PG deve superare un Tiro di Reazione di Istitinto o diventare *Incantato* finché non subisce danni. Mentre è *Incantato*, il PG percepisce il Kelpie come un amico fidato o un alleato e farà ciò che il Kelpie dice, a meno che non contraddica le morali più profondamente radicate del PG.
 
-*A river-dwelling shapeshifter who prefers an enchanting equine form in and out of the water.*
-
-* **Motives & Tactics:** Adopt an attractive or useful shape, drown and devour, entice unwary travelers
-* **Difficulty:** 12
-* **Thresholds:** 4/8
-* **HP:** 3
-* **Stress:** 5
-* **ATK:** -2 | Hooves: Very Close | 1d8+2 phy
-* **Experience:** Entanglement +3, Mind Reader +3
-
-## FEATURES
-* **Captivating - Passive:** A PC must mark a Stress to move out of the Kelpie's Melee range.
-* **Heart's Desire - Passive:** After the Kelpie interacts with or watches a creature for at least a hundred heartbeats, the Kelpie knows the physical form that creature would find most pleasing or alluring.
-* **Shapeshifter - Action:** Mark a Stress to change the Kelpie's physical form into any creature or object smaller than a wagon. A creature has disadvantage on rolls against the Kelpie while the Kelpie is in a form the creature finds pleasing or alluring.
-* **Enchant - Action:** Spend a Fear to have the Kelpie beguile a PC within Close range. The PC must succeed on an Instinct Reaction Roll or become Enchanted until they take damage. While Enchanted, the PC perceives the Kelpie as a trusted friend or ally and will do what the Kelpie says unless it contradicts the PC's most deeply held morals.
+```statblock
+layout: DaggerHeart Nemici
+name: "Kelpie"
+description: "Un cambiamorfa che vive nei fiumi, preferisce una forma equina incantevole dentro e fuori dall'acqua."
+tier: "1"
+ruolo: "Furtivo"
+difficolta: "12"
+hp: "3"
+stress: "5"
+esperienza: "Intralcio +3, Lettore di Menti +3"
+soglia_danni: "4/8"
+attacchi:
+  - name: "Zoccoli"
+    desc: "**-2** | Molto Vicina | **1d8+2** fisico"
+tratti:
+  - name: "Incantevole"
+    desc: "*- Passiva:* Un PG deve segnare uno Stress per muoversi fuori dalla portata Da Vicino del Kelpie."
+  - name: "Desiderio del Cuore"
+    desc: "*- Passiva:* Dopo che il Kelpie interagisce con o osserva una creatura per almeno cento battiti di cuore, il Kelpie conosce la forma fisica che quella creatura troverebbe più piacevole o attraente."
+capacita_speciali:
+  - name: "Cambiamorfa"
+    desc: "*- Azione:* Segnare uno Stress per cambiare la forma fisica del Kelpie in qualsiasi creatura o oggetto più piccolo di una carrozza. Una creatura ha lo svantaggio sui tiri contro il Kelpie mentre il Kelpie è in una forma che la creatura trova piacevole o attraente."
+  - name: "Incanta"
+    desc: "*- Azione:* Spendere una Paura per far *Affascinare* al Kelpie un PG entro portata Vicina. Il PG deve superare un Tiro di Reazione di Istitinto o diventare *Incantato* finché non subisce danni. Mentre è *Incantato*, il PG percepisce il Kelpie come un amico fidato o un alleato e farà ciò che il Kelpie dice, a meno che non contraddica le morali più profondamente radicate del PG."
+```

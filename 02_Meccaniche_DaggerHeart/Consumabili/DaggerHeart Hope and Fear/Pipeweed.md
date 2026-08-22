@@ -9,4 +9,4 @@ roll: 10
 
 # Pipeweed
 
-When you choose the Clear Stress downtime move during a short rest, you can smoke this non-intoxicating leaf to clear an additional Stress. Any other PCs who chose the Clear Stress downtime move also gain this benefit.
+Quando scegli la mossa di tempi morti Elimina Stress durante un riposo breve, puoi fumare questa foglia non inebriante per eliminare uno Stress aggiuntivo. Qualsiasi altro PG che ha scelto la mossa di tempi morti Elimina Stress ottiene anche questo beneficio.

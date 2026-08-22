@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 8
 ---
 
-# Chimeric Saliva
+# Saliva Chimera
 
-You can apply this saliva to a weapon that deals physical damage to change its damage type to magic until your next rest.
+Puoi applicare questa saliva a un'arma che infligge danni fisici per cambiarne il tipo di danno in magico fino al tuo prossimo riposo.

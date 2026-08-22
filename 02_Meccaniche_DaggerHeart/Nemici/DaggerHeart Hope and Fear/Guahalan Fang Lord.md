@@ -4,19 +4,43 @@ type:
   - "[[Capo]]"
 ---
 
-# Guahalan Fang Lord
-- **Tipo / Ruolo:** Tier 2 Leader
-- **Descrizione:** A shapeshifting warlord who leads a group of warriors into battle.
-- **Motivi & Tattiche:** Bolster allies, lead the pack, rally the troops
-- **Difficoltà:** 16
-- **Soglie (Thresholds):** 12 / 24
-- **Punti Ferita (HP):** 6
-- **Stress:** 5
-- **Attacco:** +2 | Spear: Very Close | 2d8+4 phy
-- **Esperienza:** Ancient Knowledge +2, Hunter +2
+## Signore dei Cani Guahalan
+* **Descrizione:** Un signore della guerra che cambia forma e guida un gruppo di guerrieri in battaglia.
+* **Tier:** 2 (Capo)
+* **Difficoltà:** 16
+* **Soglie di Danno:** 12/24
+* **Punti Ferita:** 6 | **Stress:** 5
+* **Esperienza:** Conoscenza Antica +2, Cacciatore +2
+* **Attacchi:**
+  * **Lancia:** +2 | Molto Vicina | 2d8+4 fisico
+* **Tratti e Capacità:**
+  * **Alfa del Branco - Passiva:** Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un token al Pool Guahalan. Quando un alleato Guahalan entro portata Vicina effettua un attacco, puoi spendere un token dal Pool Guahalan per dargli il vantaggio sul tiro.
+  * **Scatenare la Bestia - Azione:** Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione.
+  * **Chiamata della Guahala - Azione:** Spendere 2 Paura per mettere a fuoco tutti i Cambiagui Guahalan entro portata Vicina. Ciascuno effettua un attacco standard contro un bersaglio entro portata. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni.
+  * **Forma Feroce (Cambio di Fase) - Reazione:** Quando il Signore dei Cani segna il suo ultimo PF, sostituiscilo con il Guahalan Alebrujo e mettilo immediatamente a fuoco.
 
-**Tratti (Features):**
-* **Pack Alpha - Passive:** Pool. When the Fang Lord makes a successful attack, add a token to the Guahalan Pool. When a Guahalan ally within Close range makes an attack, you can spend a token from the Guahalan Pool to give them advantage on the roll.
-* **Unleash the Beast - Action:** Spend a Fear to have the Fang Lord adopt a bestial form. While in this form, they gain a bonus to attack and damage rolls equal to the number of Stress they have marked. Additionally, they can move up to Far range instead of Close range before taking an action.
-* **Call of the Guahala - Action:** Spend 2 Fear to spotlight all Guahalan Shifters within Close range. Each one makes a standard attack against a target within range. If any attacks succeed against the same target, combine their damage.
-* **Feral Form (Phase Change) - Reaction:** When the Fang Lord marks their last HP, replace them with the Guahalan Alebrujo and immediately spotlight them.
+```statblock
+layout: DaggerHeart Nemici
+name: "Signore dei Cani Guahalan"
+description: "Un signore della guerra che cambia forma e guida un gruppo di guerrieri in battaglia."
+tier: "2"
+ruolo: "Capo"
+difficolta: "16"
+hp: "6"
+stress: "5"
+esperienza: "Conoscenza Antica +2, Cacciatore +2"
+soglia_danni: "12/24"
+attacchi:
+  - name: "Lancia"
+    desc: "**+2** | Molto Vicina | **2d8+4** fisico"
+tratti:
+  - name: "Alfa del Branco"
+    desc: "*- Passiva:* Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un token al Pool Guahalan. Quando un alleato Guahalan entro portata Vicina effettua un attacco, puoi spendere un token dal Pool Guahalan per dargli il vantaggio sul tiro."
+capacita_speciali:
+  - name: "Scatenare la Bestia"
+    desc: "*- Azione:* Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione."
+  - name: "Chiamata della Guahala"
+    desc: "*- Azione:* Spendere 2 Paura per mettere a fuoco tutti i Cambiagui Guahalan entro portata Vicina. Ciascuno effettua un attacco standard contro un bersaglio entro portata. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni."
+  - name: "Forma Feroce (Cambio di Fase)"
+    desc: "*- Reazione:* Quando il Signore dei Cani segna il suo ultimo PF, sostituiscilo con il Guahalan Alebrujo e mettilo immediatamente a fuoco."
+```

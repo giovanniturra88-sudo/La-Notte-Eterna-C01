@@ -4,16 +4,39 @@ type:
   - "[[Capo]]"
 ---
 
-# Cephilith Priest
-*Tier 4 Leader*
-*A perpetually moist, faceless humanoid from the Outer Realms who has elongated fingers and translucent skin, under which one can see wriggling worms.*
+## Prete Cephilith
+* **Descrizione:** Un umanoido sempre umido e senza volto, proveniente dai Regni Esterni, con dita allungate e pelle traslucida, sotto cui si vedono vermi che si agitano.
+* **Tier:** 4 (Capo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** 37/70
+* **Punti Ferita:** 7 | **Stress:** 5
+* **Esperienza:** Regni Esterni +4
+* **Attacchi:**
+  * **Colpo Psicico:** +8 | Lontano | 4d10+10 magico
+* **Tratti e Capacità:**
+  * **Ondata Psicica - Azione:** Spendere una Paura per scegliere fino a tre PG entro portata Vicina e costringerli a effettuare un Tiro di Reazione di Conoscenza. I bersagli che riescono subiscono 2d10+5 danni magici diretti. I bersagli che falliscono subiscono 4d10+10 danni magici diretti e sono *Vulnerabili* finché non vengono messi a fuoco.
+  * **Incursione Cerebrale - Azione:** Spendere una Paura per scegliere un bersaglio *Vulnerabile* entro portata Da Vicino. Il Prete afferra il bersaglio e inserisce le sue dita allungate nelle orecchie, nel naso e nella bocca del bersaglio. Il bersaglio deve superare un Tiro di Reazione di Forza o segnare 1d6 Stress, e il Prete rimuove lo stesso numero di Stress.
+  * **Presione Telecinetica - Reazione:** Quando il Prete effettua un attacco standard riuscito contro un PG, puoi segnare uno Stress per rendere il bersaglio *Ristretto* finché non spende una Speranza.
 
-**Motives & Tactics:** Break the unbelievers' minds, prepare this world for the Cephilith Titan's arrival, sing its praises
-**Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5
-**ATK:** +8 | **Psychic Strike:** Far | 4d10+10 mag
-**Experience:** Outer Realms +4
-
-## FEATURES
-* **Psychic Blast - Action:** Spend a Fear to choose up to three PCs within Close range and force them to make a Knowledge Reaction Roll. Targets who succeed take 2d10+5 direct magic damage. Targets who fail take 4d10+10 direct magic damage and are *Vulnerable* until spotlighted.
-* **Cerebral Incursion - Action:** Spend a Fear to choose a *Vulnerable* target within Melee range. The Priest grabs the target and inserts their elongated fingers into the target's ears, nose, and mouth. The target must succeed on a Strength Reaction Roll or mark 1d6 Stress, and the Priest clears an equal number of Stress.
-* **Telekinetic Grasp - Reaction:** When the Priest makes a successful standard attack against a PC, you can mark a Stress to *Restrain* the target until they spend a Hope.
+```statblock
+layout: DaggerHeart Nemici
+name: "Prete Cephilith"
+description: "Un umanoido sempre umido e senza volto, proveniente dai Regni Esterni, con dita allungate e pelle traslucida, sotto cui si vedono vermi che si agitano."
+tier: "4"
+ruolo: "Capo"
+difficolta: "20"
+hp: "7"
+stress: "5"
+esperienza: "Regni Esterni +4"
+soglia_danni: "37/70"
+attacchi:
+  - name: "Colpo Psicico"
+    desc: "**+8** | Lontano | **4d10+10** magico"
+capacita_speciali:
+  - name: "Ondata Psicica"
+    desc: "*- Azione:* Spendere una Paura per scegliere fino a tre PG entro portata Vicina e costringerli a effettuare un Tiro di Reazione di Conoscenza. I bersagli che riescono subiscono 2d10+5 danni magici diretti. I bersagli che falliscono subiscono 4d10+10 danni magici diretti e sono *Vulnerabili* finché non vengono messi a fuoco."
+  - name: "Incursione Cerebrale"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio *Vulnerabile* entro portata Da Vicino. Il Prete afferra il bersaglio e inserisce le sue dita allungate nelle orecchie, nel naso e nella bocca del bersaglio. Il bersaglio deve superare un Tiro di Reazione di Forza o segnare 1d6 Stress, e il Prete rimuove lo stesso numero di Stress."
+  - name: "Presione Telecinetica"
+    desc: "*- Reazione:* Quando il Prete effettua un attacco standard riuscito contro un PG, puoi segnare uno Stress per *Ristrettare* il bersaglio finché non spende una Speranza."
+```

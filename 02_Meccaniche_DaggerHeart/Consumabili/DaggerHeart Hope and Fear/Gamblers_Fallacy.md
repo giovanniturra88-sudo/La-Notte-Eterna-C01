@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 57
 ---
 
-# Gambler's Fallacy
+# Fallacia del Giocatore
 
-You can spend any number of handfuls of gold by placing them into this slotted ceramic jar shaped like a pig. When you throw the jar at a point within Far range, it explodes and deals 1d20 magic damage for each handful of gold spent to all creatures within Close range of that point. All gold within the jar is destroyed.
+Puoi spendere un qualsiasi numero di manciate d'oro inserendole in questo barattolo di ceramica con fessura a forma di maiale. Quando lanci il barattolo contro un punto entro gittata Lontana, esso esplode e infligge 1d20 danni magici per ogni manciata d'oro spesa a tutte le creature entro gittata Vicina da quel punto. Tutto l'oro all'interno del barattolo viene distrutto.

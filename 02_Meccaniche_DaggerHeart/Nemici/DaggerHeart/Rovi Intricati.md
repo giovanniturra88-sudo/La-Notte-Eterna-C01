@@ -1,18 +1,41 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
-**_[[Minion]] Tier 1._** _Un roveto vivente che beve il sangue._
+## Rovi Intricati
+* **Descrizione:** Un roveto vivente che beve il sangue.
+* **Tier:** 1 (Minion)
+* **Difficoltà:** 11
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Attacchi:**
+  * **Rompighiaccio:** -1 | Da Vicino | 2 fisico
+* **Tratti e Capacità:**
+  * **Minion (4) - Passiva:** I Rovi Intricati vengono sconfitti quando ricevono qualsiasi danno. Per ogni 4 danni che un PG infligge ai Rovi Intricati, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
+  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Rovi Intricati in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
+  * **Assorbi e Moltiplicati - Reazione:** Quando un attacco dei Rovi Intricati causa al bersaglio di segnare PF e ci sono tre o più Minion Rovi Intricati in portata Vicina, puoi combinare i Minion in una Sciagura di Rovi Intricati. I PF della Sciagura corrispondono al numero di Minion combinati.
 
-- **Motivi e Tattiche:** Combina, assorbi, avvolgi
-- **Difficoltà:** 11 | **Soglie:** Nessuna | **PF:** 1 | **Stress:** 1
-- **ATT:** -1 | **Rompighiaccio:** Mischia | 2 fis
-
-### CARATTERISTICHE
-
-**_Minion (4) - Passiva:_** Il Roveto viene sconfitto quando riceve qualsiasi danno. Per ogni 4 danni che un PG infligge al Roveto Intorto, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
-
-**_Attacco di Gruppo - Azione:_** **Spendi una Paura** per scegliere una bersaglio e mettere a fuoco tutti i Roveti Intorti entro Portata Vicina. Quei Minions si muovono a portata di mischia del bersaglio e effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
-
-**_Assorbi e Moltiplicati - Reazione:_** Quando un attacco del Roveto causa al bersaglio di segnare PF e ci sono tre o più Minions Roveto Intorto entro Portata Vicina, puoi combinare i Minions in una Sciagura di Roveti Intorti. I PF della Sciagura corrispondono al numero di Minions combinati.
+```statblock
+layout: DaggerHeart Nemici
+name: "Rovi Intricati"
+description: "Un roveto vivente che beve il sangue."
+tier: "1"
+ruolo: "Minion"
+difficolta: "11"
+hp: "1"
+stress: "1"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Rompighiaccio"
+    desc: "**-1** | Da Vicino | **2** fisico"
+tratti:
+  - name: "Minion (4)"
+    desc: "*- Passiva:* I Rovi Intricati vengono sconfitti quando ricevono qualsiasi danno. Per ogni 4 danni che un PG infligge ai Rovi Intricati, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Rovi Intricati in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni."
+  - name: "Assorbi e Moltiplicati"
+    desc: "*- Reazione:* Quando un attacco dei Rovi Intricati causa al bersaglio di segnare PF e ci sono tre o più Minion Rovi Intricati in portata Vicina, puoi combinare i Minion in una Sciagura di Rovi Intricati. I PF della Sciagura corrispondono al numero di Minion combinati."
+```

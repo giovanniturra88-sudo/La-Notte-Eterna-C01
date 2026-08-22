@@ -1,16 +1,38 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Minion]]"
 ---
 
-**_[[Minion]] Tier 1._** _Una pianta ambulante che si leva per difendere la propria foresta._
+## Pastore di Alberi Minore
+* **Descrizione:** Una pianta ambulante che si leva per difendere la propria foresta.
+* **Tier:** 1 (Minion)
+* **Difficoltà:** 10
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Attacchi:**
+  * **Ramo Artigliato:** -2 | Da Vicino | 4 fisico
+* **Tratti e Capacità:**
+  * **Minion (5) - Passiva:** Il Pastore di Alberi viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge al Pastore di Alberi, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
+  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Piccoli Pastori di Alberi in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 4 danni fisici ciascuno. Combina i danni.
 
-- **Motivi e Tattiche:** Schiacciare, sovrastare, proteggere
-- **Difficoltà:** 10 | **Soglie:** Nessuna | **PF:** 1 | **Stresso:** 1
-- **ATT:** -2 | **Ramo Artigliato:** Mischia | 4 fis
-
-### CARATTERISTICHE
-
-**_Minion (5) - Passiva:_** Il Treant viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge al Treant, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
-
-**_Attacco di Gruppo - Azione:_** **Spendi una Paura** per scegliere una destinazione e mettere a fuoco tutti i Piccoli Treants entro portata ravvicinata. Quei Minions si muovono a portata di mischia della destinazione e effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 4 danni fisici ciascuno. Combina i danni.
+```statblock
+layout: DaggerHeart Nemici
+name: "Pastore di Alberi Minore"
+description: "Una pianta ambulante che si leva per difendere la propria foresta."
+tier: "1"
+ruolo: "Minion"
+difficolta: "10"
+hp: "1"
+stress: "1"
+soglia_danni: "Nessuna"
+attacchi:
+  - name: "Ramo Artigliato"
+    desc: "**-2** | Da Vicino | **4** fisico"
+tratti:
+  - name: "Minion (5)"
+    desc: "*- Passiva:* Il Pastore di Alberi viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge al Pastore di Alberi, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo."
+capacita_speciali:
+  - name: "Attacco di Gruppo"
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Piccoli Pastori di Alberi in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 4 danni fisici ciascuno. Combina i danni."
+```

@@ -4,18 +4,46 @@ type:
   - "[[Standard]]"
 ---
 
-# Ruby Dragon
-*Tier 4 Standard*
-*A huge winged dragon that has visible flames beneath its glittering, gem-encrusted scales. Its body heat melts stone.*
+## Drago di Rubino
+* **Descrizione:** Un drago alato enorme, con fiamme visibili sotto le sue scintillanti squame incrostate di gemme. Il suo calore corporeo scioglie la pietra.
+* **Tier:** 4 (Standard)
+* **Difficoltà:** 19
+* **Soglie di Danno:** 30/50
+* **Punti Ferita:** 6 | **Stress:** 4
+* **Esperienza:** Montagne +4
+* **Attacchi:**
+  * **Denti e Artigli:** +6 | Vicina | 4d10+8 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (3) - Passiva:** Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+  * **Spaventoso - Passiva:** Quando il Drago ha successo su un attacco contro un PG o un PG entro portata Lontana fallisce un tiro d'azione, guadagni una Paura.
+  * **Soffio Fondevole - Azione:** Segnare uno Stress per far scatenare al Drago un getto di fuoco su tutti i PG davanti a lui entro portata Vicina. Ogni bersaglio deve superare un Tiro di Reazione di Agilità o subire 4d12+10 danni magici e segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+  * **Fessura Vulcanica - Azione:** Spendere una Paura per far sbattere al Drago la coda contro il terreno, aprendo una fessura di lava che scorre sull'area entro portata Vicina. Ogni PG in quell'area deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono si muovono immediatamente fuori dall'area. I bersagli che falliscono subiscono 4d8+5 danni magici. Finché il Drago non viene sconfitto, una creatura che entra nell'area subisce 4d8+5 danni magici.
+  * **Sangue Caldo - Reazione:** Quando una creatura effettua un attacco riuscito contro il Drago entro portata Molto Vicina, il sangue del Drago irrompe dalla ferita e brucia l'attaccante, costringendolo a segnare uno Slot di Armatura. Se non può segnare uno Slot di Armatura, segna 1d4 PF.
 
-**Motives & Tactics:** Crack the earth, melt, protect treasure
-**Difficulty:** 19 | **Thresholds:** 30/50 | **HP:** 6 | **Stress:** 4
-**ATK:** +6 | **Tooth & Claw:** Close | 4d10+8 phy
-**Experience:** Mountains +4
-
-## FEATURES
-* **Relentless (3) - Passive:** The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
-* **Fearsome - Passive:** When the Dragon succeeds on an attack against a PC or a PC within Far range fails an action roll, you gain a Fear.
-* **Melting Breath - Action:** Mark a Stress to have the Dragon unleash a blast of fire on all PCs in front of it within Close range. Each target must succeed on an Agility Reaction Roll or take 4d12+10 magic damage and mark an Armor Slot without gaining its benefits (they can still use armor to reduce the damage).
-* **Volcanic Fissure - Action:** Spend a Fear to have the Dragon snap its tail against the ground, opening a lava rift that flows over the area within Close range. Each PC within that area must make an Agility Reaction Roll. Targets who succeed immediately move out of the area. Targets who fail take 4d8+5 magic damage. Until the Dragon is defeated, a creature who enters the area takes 4d8+5 magic damage.
-* **Hot-Blooded - Reaction:** When a creature makes a successful attack against the Dragon within Very Close range, the Dragon's blood erupts from the wound and burns the attacker, forcing them to mark an Armor Slot. If they can't mark an Armor Slot, they mark 1d4 HP.
+```statblock
+layout: DaggerHeart Nemici
+name: "Drago di Rubino"
+description: "Un drago alato enorme, con fiamme visibili sotto le sue scintillanti squame incrostate di gemme. Il suo calore corporeo scioglie la pietra."
+tier: "4"
+ruolo: "Standard"
+difficolta: "19"
+hp: "6"
+stress: "4"
+esperienza: "Montagne +4"
+soglia_danni: "30/50"
+attacchi:
+  - name: "Denti e Artigli"
+    desc: "**+6** | Vicina | **4d10+8** fisico"
+tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
+  - name: "Spaventoso"
+    desc: "*- Passiva:* Quando il Drago ha successo su un attacco contro un PG o un PG entro portata Lontana fallisce un tiro d'azione, guadagni una Paura."
+capacita_speciali:
+  - name: "Soffio Fondevole"
+    desc: "*- Azione:* Segnare uno Stress per far scatenare al Drago un getto di fuoco su tutti i PG davanti a lui entro portata Vicina. Ogni bersaglio deve superare un Tiro di Reazione di Agilità o subire 4d12+10 danni magici e segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
+  - name: "Fessura Vulcanica"
+    desc: "*- Azione:* Spendere una Paura per far sbattere al Drago la coda contro il terreno, aprendo una fessura di lava che scorre sull'area entro portata Vicina. Ogni PG in quell'area deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono si muovono immediatamente fuori dall'area. I bersagli che falliscono subiscono 4d8+5 danni magici. Finché il Drago non viene sconfitto, una creatura che entra nell'area subisce 4d8+5 danni magici."
+  - name: "Sangue Caldo"
+    desc: "*- Reazione:* Quando una creatura effettua un attacco riuscito contro il Drago entro portata Molto Vicina, il sangue del Drago irrompe dalla ferita e brucia l'attaccante, costringendolo a segnare uno Slot di Armatura. Se non può segnare uno Slot di Armatura, segna 1d4 PF."
+```

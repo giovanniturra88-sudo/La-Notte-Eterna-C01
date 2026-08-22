@@ -7,6 +7,6 @@ original_rarity: "Common"
 roll: 16
 ---
 
-# Instant Camp
+# Campo Istantaneo
 
-You can unfold this small mechanical box into a camping tent large enough to safely house six people. The tent collapses at the end of your next long rest.
+Puoi srotolare questa piccola scatola meccanica in una tenda da campeggio abbastanza grande da ospitare in sicurezza sei persone. La tenda collassa alla fine del tuo prossimo riposo lungo.

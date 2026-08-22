@@ -1,16 +1,38 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Orda]]"
 ---
 
-**_[[Orda]] di Tier 1 (2/HP)._** _Un gruppo di corpi in movimento istintivo e irregolare._
+## Gruppo di Zombie
+* **Descrizione:** Un gruppo di corpi in movimento istintivo e irregolare.
+* **Tier:** 1 (Orda, 2/PF)
+* **Difficoltà:** 8
+* **Soglie di Danno:** 6/12
+* **Punti Ferita:** 6 | **Stress:** 3
+* **Attacchi:**
+  * **Morso:** -1 | Da Vicino | 1d10+2 fisico
+* **Tratti e Capacità:**
+  * **Orda (1d4+2) - Passiva:** Quando i Zombie hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+2** danni fisici invece.
+  * **Sovrastima - Reazione:** Quando i Zombie segnano PF da un attacco entro portata Da Vicino, puoi **segnare uno Stress** per effettuare un attacco standard contro l'aggressore.
 
-- **Motivi & Tattiche:** Consumano carne, fame, schiacciamento
-- **Difficoltà:** 8 | **Soglie:** 6/12 | **PF:** 6 | **Stress:** 3
-- **ATT:** -1 | **Morso:** Mischia | 1d10+2 fis
-
-### CARATTERISTICHE
-
-**_Orda (1d4+2) - Passiva:_** Quando i Zombie hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+2** danni fisici invece.
-
-**_Sovrastima - Reazione:_** Quando i Zombie segnano PF da un attacco entro portata di mischia, puoi **segnare uno Stress** per effettuare un attacco standard contro l'aggressore.
+```statblock
+layout: DaggerHeart Nemici
+name: "Gruppo di Zombie"
+description: "Un gruppo di corpi in movimento istintivo e irregolare."
+tier: "1"
+ruolo: "Orda"
+difficolta: "8"
+hp: "6"
+stress: "3"
+soglia_danni: "6/12"
+attacchi:
+  - name: "Morso"
+    desc: "**-1** | Da Vicino | **1d10+2** fisico"
+tratti:
+  - name: "Orda (1d4+2)"
+    desc: "*- Passiva:* Quando i Zombie hanno segnato metà o più dei loro PF, il loro attacco standard infligge 1d4+2 danni fisici invece."
+capacita_speciali:
+  - name: "Sovrastima"
+    desc: "*- Reazione:* Quando i Zombie segnano PF da un attacco entro portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard contro l'aggressore."
+```

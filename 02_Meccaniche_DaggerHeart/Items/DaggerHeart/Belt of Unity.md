@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Belt of Unity
+# Cintura dell'Unità
 
 **_Item_**
 
-Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.
+Una volta per sessione, puoi spendere 5 Speranza per guidare un Tiro di Squadra con tre PG invece di due.

@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Box of Many Goods
+# Scatola di Molte Cose
 
 **_Item_**
 
-Once per long rest, you can open this small box and roll a d12. On a result of 1-6, it’s empty. On a result of 7-10, it contains one random common consumable. On a result of 11-12, it contains two random common consumables.
+Una volta per riposo lungo, puoi aprire questa piccola scatola e tirare un d12. Con un risultato di 1-6, è vuota. Con un risultato di 7-10, contiene un consumabile comune casuale. Con un risultato di 11-12, contiene due consumabili comuni casuali.

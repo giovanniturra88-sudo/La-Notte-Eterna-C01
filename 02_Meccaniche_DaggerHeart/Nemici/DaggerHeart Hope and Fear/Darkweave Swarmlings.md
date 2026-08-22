@@ -4,19 +4,37 @@ type:
   - "[[Orda]]"
 ---
 
-# Darkweave Swarmlings
-**Tier 1 Horde (8/HP)**
+## Sciame Darkweave
+* **Descrizione:** Uno sciame brulicante di minuscoli ragni tessuti con seta d'ombra.
+* **Tier:** 1 (Orda, 8 PF)
+* **Difficoltà:** 9
+* **Soglie di Danno:** 4/8
+* **Punti Ferita:** 8 | **Stress:** 4
+* **Esperienza:** Arrampicata +2
+* **Attacchi:**
+  * **Mordicchiare:** +0 | Da Vicino | 1d8 fisico
+* **Tratti e Capacità:**
+  * **Orda (1d4) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4 danni fisici.
+  * **"Via di Lì, Via di Lì!" - Reazione:** Quando un attacco dello Sciame fa segnare PF a un bersaglio, puoi segnare uno Stress per rendere il bersaglio temporaneamente *Coperto di Ragni*. Mentre è *Coperto di Ragni*, il bersaglio deve tirare un d6 quando effettua un tiro di azione. Con un risultato di 4 o superiore, deve segnare uno Stress o guadagni una Paura.
 
-*A teeming swarm of tiny spiders woven out of shadow-silk.*
-
-* **Motives & Tactics:** Burst out of holes, climb up legs, crawl into ears, scuttle under clothes
-* **Difficulty:** 9
-* **Thresholds:** 4/8
-* **HP:** 8
-* **Stress:** 4
-* **ATK:** +0 | Nibble: Melee | 1d8 phy
-* **Experience:** Climb +2
-
-## FEATURES
-* **Horde (1d4) - Passive:** When the Swarmlings have marked half or more of their HP, their standard attack deals 1d4 physical damage instead.
-* **"Get 'em Off, Get 'em Off!" - Reaction:** When an attack from the Swarmlings causes a target to mark HP, you can mark a Stress to make the target temporarily Covered in Spiders. While Covered in Spiders, the target must roll a d6 when they make an action roll. On a result of 4 or higher, they must mark a Stress or you gain a Fear.
+```statblock
+layout: DaggerHeart Nemici
+name: "Sciame Darkweave"
+description: "Uno sciame brulicante di minuscoli ragni tessuti con seta d'ombra."
+tier: "1"
+ruolo: "Orda"
+difficolta: "9"
+hp: "8"
+stress: "4"
+esperienza: "Arrampicata +2"
+soglia_danni: "4/8"
+attacchi:
+  - name: "Mordicchiare"
+    desc: "**+0** | Da Vicino | **1d8** fisico"
+tratti:
+  - name: "Orda (1d4)"
+    desc: "*- Passiva:* Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4 danni fisici."
+capacita_speciali:
+  - name: "Via di Lì, Via di Lì!"
+    desc: "*- Reazione:* Quando un attacco dello Sciame fa segnare PF a un bersaglio, puoi segnare uno Stress per rendere il bersaglio temporaneamente *Coperto di Ragni*. Mentre è *Coperto di Ragni*, il bersaglio deve tirare un d6 quando effettua un tiro di azione. Con un risultato di 4 o superiore, deve segnare uno Stress o guadagni una Paura."
+```

@@ -12,8 +12,8 @@ tier: 1
 ruolo: "secondaria"
 ---
 
-### HATCHET
+### Ascia
 
-**_Follow-Up: On a successful attack with your primary weapon within Melee range, you can mark a Stress to gain a +1 bonus to your Proficiency for this attack_**
+**_Seguito: Con un attacco riuscito con la tua arma primaria entro gittata di Mischia, puoi segnare uno Stress per ottenere un bonus di +1 alla tua Competenza per questo attacco_**
 
 ---

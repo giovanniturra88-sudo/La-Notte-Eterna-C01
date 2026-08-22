@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Gem of Sagacity
+# Gemma di Saggezza
 
 **_Item_**
 
-You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon.
+Puoi fissare questa gemma a un'arma, permettendoti di usare la tua Conoscenza quando effettui un attacco con quell'arma.

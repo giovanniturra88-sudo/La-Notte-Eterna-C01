@@ -2,6 +2,6 @@
 type: "[[Consumable]]"
 ---
 
-# Sun Tree Sap
+# Resina dell'Albero del Sole
 
-Consume this sap to roll a d6. On a result of 5-6, clear 2 HP. On a result of 2-4, clear 3 Stress. On a result of 1, see through the veil of death and return changed, gaining one scar.
+Assumi questa resina per tirare un d6. Con un risultato di 5-6, elimina 2 Punti Ferita. Con un risultato di 2-4, elimina 3 Stress. Con un risultato di 1, vedi attraverso il velo della morte e ritorni cambiato, guadagnando una cicatrice.

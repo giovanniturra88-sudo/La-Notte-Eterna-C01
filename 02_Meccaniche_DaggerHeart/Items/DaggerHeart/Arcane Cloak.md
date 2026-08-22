@@ -3,8 +3,8 @@ type:
   - "[[Item]]"
 ---
 
-# Arcane Cloak
+# Mantello Arcano
 
 **_Item_**
 
-A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will.
+Una creatura con il tratto Incantesimo che indossa questo mantello può regolare colore, consistenza e dimensioni a piacimento.

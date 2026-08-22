@@ -1,21 +1,46 @@
 ---
 type:
   - "[[Creatura]]"
+  - "[[Picchiatore]]"
 ---
 
-**_Tier 3 [[Picchiatore]]._** _Un demone corpulento con pugni del размер di massi, spinto da una rabbia senza fine._
+## Demone della Furia
+* **Descrizione:** Un demone corpulento con pugni delle dimensioni di massi, spinto da una rabbia senza fine.
+* **Tier:** 3 (Picchiatore)
+* **Difficoltà:** 17
+* **Soglie di Danno:** 22/40
+* **Punti Ferita:** 7 | **Stress:** 5
+* **Esperienza:** Intimidazione +2
+* **Attacchi:**
+  * **Pugni:** +3 | Molto Vicina | 3d8+1 magico
+* **Tratti e Capacità:**
+  * **Rabbia Ininterrotta - Passiva:** Gli attacchi del Demone infliggono danni diretti.
+  * **Sete di Battaglia - Azione:** **Spendere una Paura** per far bollire il sangue di tutti i PG entro portata Lontana. Usano un d20 come Dado di Paura fino alla fine della scena.
+  * **Rappresaglia - Reazione:** Quando il Demone subisce danni da un attacco entro portata Vicina, puoi **segnare uno Stress** per effettuare un attacco standard contro l'attaccante.
+  * **Sangue e Anime - Reazione: Conto alla Rovina (Ciclo 6):** Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca **1d4** Demoni Minori, che appaiono entro portata Vicina.
 
-- **Motivazioni e Tattiche:** Alimenta la rabbia, impressiona i rivali, causa caos
-- **Difficoltà:** 17 | **Soglie:** 22/40 | **PF:** 7 | **Stress:** 5
-- **ATT:** +3 | **Pugni:** Molto Vicino | 3d8+1 mag
-- **Esperienza:** Intimidazione +2
-
-### CARATTERISTICHE
-
-**_Rabbia Ininterrotta - Passiva:_** Gli attacchi del Demone infliggono danni diretti.
-
-**_Sete di Battaglia - Azione:_** **Spendi un Terrore** per far bollire il sangue di tutti i PG entro portata Lontana. Usano un d20 come dado di Terrore fino alla fine della scena.
-
-**_Rappresaglia - Reazione:_** Quando il Demone subisce danni da un attacco entro portata Vicina, puoi **segnare uno Stress** per effettuare un attacco standard contro l'attaccante.
-
-**_Sangue e Anime - Reazione: Conto alla Rovescia (Ciclo 6):_** Si attiva la prima volta che un attacco viene effettuato alla vista del Demone. Si riduce quando un PG compie un'azione violenta. Quando si attiva, evoca **1d4** Demoni Minori, che appaiono entro portata Vicina.
+```statblock
+layout: DaggerHeart Nemici
+name: "Demone della Furia"
+description: "Un demone corpulento con pugni delle dimensioni di massi, spinto da una rabbia senza fine."
+tier: "3"
+ruolo: "Picchiatore"
+difficolta: "17"
+hp: "7"
+stress: "5"
+esperienza: "Intimidazione +2"
+soglia_danni: "22/40"
+attacchi:
+  - name: "Pugni"
+    desc: "**+3** | Molto Vicina | **3d8+1** magico"
+tratti:
+  - name: "Rabbia Ininterrotta"
+    desc: "*- Passiva:* Gli attacchi del Demone infliggono danni diretti."
+capacita_speciali:
+  - name: "Sete di Battaglia"
+    desc: "*- Azione:* Spendere una Paura per far bollire il sangue di tutti i PG entro portata Lontana. Usano un d20 come Dado di Paura fino alla fine della scena."
+  - name: "Rappresaglia"
+    desc: "*- Reazione:* Quando il Demone subisce danni da un attacco entro portata Vicina, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante."
+  - name: "Sangue e Anime"
+    desc: "*- Reazione: Conto alla Rovina (Ciclo 6):* Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca 1d4 Demoni Minori, che appaiono entro portata Vicina."
+```
