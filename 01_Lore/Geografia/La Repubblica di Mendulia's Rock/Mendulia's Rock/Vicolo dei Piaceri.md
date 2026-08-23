@@ -1,6 +1,5 @@
 ---
-type:
- - "Luogo"
+type: Luogo
 ---
 
 # Vicolo dei Piaceri

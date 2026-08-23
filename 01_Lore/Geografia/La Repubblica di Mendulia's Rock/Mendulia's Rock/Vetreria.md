@@ -1,6 +1,5 @@
 ---
-type:
- - "Luogo"
+type: Luogo
 ---
 
 # Vetreria

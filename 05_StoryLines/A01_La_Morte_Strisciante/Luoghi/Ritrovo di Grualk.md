@@ -1,6 +1,5 @@
 ---
-type:
- - "Luogo"
+type: Luogo
 ---
 
 # Ritrovo di Grualk
