@@ -12,7 +12,7 @@ aliases:
 
 # Drakey
 
-Questa pianta alta fino a due metri e di chiara origine extraplanare. Rara nel sottosuolo e considerata leggendaria in superficie. È caratterizzata da un gambo sottile che sostiene un fogliame di aghi larghi e affilati di colore cangiante.
+Questa pianta è alta fino a due metri ed è di chiara origine extraplanare. Rara nel sottosuolo e considerata leggendaria in superficie. È caratterizzata da un gambo sottile che sostiene un fogliame di aghi larghi e affilati di colore cangiante.
 
 ---
 

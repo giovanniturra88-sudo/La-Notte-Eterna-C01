@@ -5,7 +5,7 @@ type:
 ---
 
 ## Anguille Elettriche
-* **Descrizione:** Un branco di anguille che si avvolgono e scosse elettriche.
+* **Descrizione:** Un branco di anguille che si avvolgono e scatenano scosse elettriche.
 * **Tier:** 2 (Orda)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 10/20
@@ -19,7 +19,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Anguille Elettriche"
-description: "Un branco di anguille che si avvolgono e scosse elettriche."
+description: "Un branco di anguille che si avvolgono e scatenano scosse elettriche."
 tier: "2"
 ruolo: "Orda"
 difficolta: "14"

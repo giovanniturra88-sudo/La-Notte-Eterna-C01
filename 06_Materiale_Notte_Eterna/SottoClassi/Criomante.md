@@ -17,13 +17,13 @@ Chierici araldi del gelo divino di [[Unthamarand]], che traggono vigore dalle bu
 ---
 
 ### Fondazione
-**_Gelo Interiore:_** Ottieni resistenza permanente ai danni da Freddo. Una volta per rest, come azione bonus, crei uno schermo di ghiaccio che ti fornisce punti ferita temporanei pari al tuo modificatore di Incantesimo + il tuo Tier.
+**_Gelo Interiore:_** Ottieni resistenza permanente ai danni da Freddo. Una volta per rest, come azione bonus, crei uno schermo di ghiaccio che ti fornisce Punti Ferita temporanei pari al tuo modificatore di Incantesimo + il tuo Tier.
 
 ---
 
 ### Specializzazione
 **_Canalizzazione del Gelo:_** Quando infliggi danni da Freddo con una magia, puoi spendere 1 Stress per infliggere il massimo dei danni possibili.
-**_Aura di Ghiaccio:_** Finché possiedi punti ferita temporanei attivi, emani un'aura di gelo entro portata Molto Vicina. I nemici che iniziano il turno nell'area subiscono 1d8 danni da Freddo.
+**_Aura di Ghiaccio:_** Finché possiedi Punti Ferita temporanei attivi, emani un'aura di gelo entro portata Molto Vicina. I nemici che iniziano il turno nell'area subiscono 1d8 danni da Freddo.
 
 ---
 

@@ -5,7 +5,7 @@ type:
 ---
 
 ## ArcoNecromante
-* **Descrizione:** Un mago in decomposizione adornato di robbe scure e strappate.
+* **Descrizione:** Un mago in decomposizione adornato di robe scure e strappate.
 * **Tier:** 4 (Capo)
 * **Difficoltà:** 21
 * **Soglie di Danno:** 33/66
@@ -23,7 +23,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "ArcoNecromante"
-description: "Un mago in decomposizione adornato di robbe scure e strappate."
+description: "Un mago in decomposizione adornato di robe scure e strappate."
 tier: "4"
 ruolo: "Capo"
 difficolta: "21"

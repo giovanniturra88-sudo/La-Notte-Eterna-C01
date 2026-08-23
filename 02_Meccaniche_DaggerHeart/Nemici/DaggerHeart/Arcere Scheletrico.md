@@ -5,7 +5,7 @@ type:
 ---
 
 ## Arcere Scheletrico
-* **Descrizione:** Un scheletro fragile con arco corto e frecce.
+* **Descrizione:** Uno scheletro fragile con arco corto e frecce.
 * **Tier:** 1 (a Distanza)
 * **Difficoltà:** 9
 * **Soglie di Danno:** 4/7
@@ -19,7 +19,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Arcere Scheletrico"
-description: "Un scheletro fragile con arco corto e frecce."
+description: "Uno scheletro fragile con arco corto e frecce."
 tier: "1"
 ruolo: "a Distanza"
 difficolta: "9"
