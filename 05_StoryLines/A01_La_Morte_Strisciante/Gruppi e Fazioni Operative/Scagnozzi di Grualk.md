@@ -27,7 +27,7 @@ La loro lealtà è rivolta soprattutto al denaro e alla sopravvivenza personale.
 ## Storia 
 Provengono dai quartieri più degradati dei [[Bassifondi]]. 
 Molti hanno trascorso periodi in carcere o lavorato per bande criminali locali prima di entrare nell'orbita di [[Grualk]]. 
-Nel corso degli eventi de [[La Morte Strisciante]] vengono utilizzati come forza operativa dalla rete criminale che fa capo a [[Silke]]. 
+Nel corso degli eventi di [[La Morte Strisciante]] vengono utilizzati come forza operativa dalla rete criminale che fa capo a [[Silke]]. 
 ## Obiettivi 
 - Guadagnare denaro. 
 - Sopravvivere. 

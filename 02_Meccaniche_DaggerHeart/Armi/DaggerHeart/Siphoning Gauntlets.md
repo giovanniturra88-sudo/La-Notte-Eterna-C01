@@ -1,7 +1,7 @@
 ---
 alias: ["Manopole Sifonanti"]
 categoria: equipaggiamento
-danno: d10+9.
+danno: d10+9
 gittata: mischia
 ingombro: "due mani"
 original_name: "Siphoning Gauntlets"

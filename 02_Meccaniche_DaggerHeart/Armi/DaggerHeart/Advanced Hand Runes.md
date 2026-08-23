@@ -8,7 +8,7 @@ original_name: "Advanced Hand Runes"
 ruolo: -
 tier: 3
 tipo_danno: magica
-tratto: insticnt
+tratto: instinct
 type: 
   - "[[Arma]]"
 ---

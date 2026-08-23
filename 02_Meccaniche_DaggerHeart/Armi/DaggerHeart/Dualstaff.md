@@ -8,7 +8,7 @@ original_name: "Dualstaff"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: insticnt
+tratto: instinct
 type: 
   - "[[Arma]]"
 ---

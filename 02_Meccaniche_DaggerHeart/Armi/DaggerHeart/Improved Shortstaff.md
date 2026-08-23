@@ -8,7 +8,7 @@ original_name: "Improved Shortstaff"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: insticnt
+tratto: instinct
 type: 
   - "[[Arma]]"
 ---

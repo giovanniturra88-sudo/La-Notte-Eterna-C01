@@ -5,7 +5,7 @@ type:
 ---
 
 ## Demone dell'Avarizia
-* **Descrizione:** Una orrenda creatura coperta di mantello con corna circolari adornate di tesori.
+* **Descrizione:** Un'orrenda creatura avvolta in un mantello con corna circolari adornate di tesori.
 * **Tier:** 3 (Supporto)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 15/29
@@ -21,7 +21,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Demone dell'Avarizia"
-description: "Una orrenda creatura coperta di mantello con corna circolari adornate di tesori."
+description: "Un'orrenda creatura avvolta in un mantello con corna circolari adornate di tesori."
 tier: "3"
 ruolo: "Supporto"
 difficolta: "17"

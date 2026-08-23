@@ -1,7 +1,7 @@
 ---
 alias: ["Alabarda Leggendaria"]
 categoria: equipaggiamento
-danno: d10+11_.
+danno: d10+11
 gittata: "molto vicino"
 ingombro: "due mani"
 original_name: "Legendary Halberd"

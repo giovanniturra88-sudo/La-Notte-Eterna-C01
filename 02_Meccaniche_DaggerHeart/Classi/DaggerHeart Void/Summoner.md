@@ -23,7 +23,7 @@ I Summoner sono incantatori occulti che aprono varchi planari per evocare e coma
 **_Aiuto degli Spiriti:_** Spendi 3 Punti Speranza per evocare l'aiuto dell'oltretomba. Distribuisci 2 Punti Speranza tra uno o più altri PG a portata Lontana e tu rimuovi 1 Stress.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Necromancy]] o [[Theurgy]].
+Scegli tra la sottoclasse [[Necromante]] o [[Teurga]].
 
 # Caratteristiche di Classe
 **_Evoca Entità (Summon Entity):_** Puoi evocare entità ultraterrene (Spiriti del Destino o creature della tua sottoclasse). Marca uno Stress per evocare un numero di entità pari al tuo Tier e posizionale sui cerchi di evocazione (massimo totale di entità attive pari al tuo livello).

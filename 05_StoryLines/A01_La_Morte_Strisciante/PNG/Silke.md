@@ -10,7 +10,7 @@ luoghi:
 ---
 ![[Pasted image 20260801180800.png|689]]
 ## Ruolo 
-Antagonista principale de [[La Morte Strisciante]]. 
+Antagonista principale di [[La Morte Strisciante]]. 
 Necromante [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine. 
 ## Descrizione 
 Una [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] di straordinaria bellezza e presenza. 

@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Caricato:_** Segna uno stress per ottenere un bonus +1 alla tua Perizia in un attacco con arma primaria.
+**_Caricato:_** Segna uno Stress per ottenere un bonus +1 alla tua Perizia in un attacco con arma primaria.
 ---

@@ -8,7 +8,7 @@ original_name: "Advanced Dualstaff"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: insticnt
+tratto: instinct
 type: 
   - "[[Arma]]"
 ---

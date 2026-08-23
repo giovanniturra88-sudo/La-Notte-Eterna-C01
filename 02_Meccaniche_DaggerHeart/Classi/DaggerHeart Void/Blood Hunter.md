@@ -23,7 +23,7 @@ I Blood Hunter sono cacciatori oscuri che brandiscono i poteri della magia del s
 **_Maledizione del Sangue:_** Spendi 3 Punti Speranza quando un avversario a portata Vicina mette a segno un attacco per costringerlo a ripetere il tiro con svantaggio.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Order_of_the_Specter]], [[Order_of_the_Mutant]] o [[Order_of_the_Lycan]].
+Scegli tra la sottoclasse [[Ordine dello Spettro]], [[Ordine del Mutante]] o [[Ordine del Licantropo]].
 
 # Caratteristiche di Classe
 **_Rito Cremisi (Crimson Rite):_** Marca 1 HP per infondere un'arma attiva di potere sanguinario fino al prossimo riposo. Quando colpisci con quell'arma, infliggi +1d4 danni magici extra (che aumentano a 2d4 al livello 2, 3d4 al livello 5 e 4d4 al livello 8).

@@ -10,7 +10,7 @@ luoghi:
 ## Ruolo 
 Ufficiale della milizia di [[Mendulia's Rock]]. 
 All'apparenza è l'assistente più fidata del [[Procurator Alexis]] e supervisiona le indagini sugli omicidi dei Bassifondi. 
-In realtà è una delle principali antagoniste de [[La Morte Strisciante]] e lavora segretamente per [[Silke]]. 
+In realtà è una delle principali antagoniste di [[La Morte Strisciante]] e lavora segretamente per [[Silke]]. 
 ## Descrizione 
 Porta i capelli molto corti e adotta un atteggiamento rigido e professionale. 
 Parla con tono deciso e tende a mostrarsi più dura e autoritaria possibile. La sua presenza trasmette disciplina e ambizione. 
