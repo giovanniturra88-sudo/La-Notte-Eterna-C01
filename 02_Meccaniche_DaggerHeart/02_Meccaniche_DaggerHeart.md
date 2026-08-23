@@ -8,7 +8,7 @@ type:
 ## Contenuto della cartella
 ```dataview
 LIST
-FROM ""02_Meccaniche_DaggerHeart""
+FROM "02_Meccaniche_DaggerHeart"
 WHERE file.name != this.file.name
 SORT file.name ASC
 ```
