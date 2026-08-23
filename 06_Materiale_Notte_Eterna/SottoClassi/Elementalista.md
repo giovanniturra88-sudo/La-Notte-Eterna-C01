@@ -17,7 +17,7 @@ Stregoni con una sintonia viscerale verso un elemento naturale (Acido, Veleno, F
 ---
 
 ### Fondazione
-**_Schermo Elementale:_** Scegli un elemento (Acido, Veleno, Fuoco, Freddo, Tuono, Fulmine). Quando subisci danni, usa la tua reazione e spendi 1 Stress per ridurre il danno di un valore pari al tuo modificatore di Incantesimo. L'attaccante subisce lo stesso ammontare di danni dell'elemento scelto.
+**_Schermo Elementale:_** Scegli un elemento (Acido, Veleno, Fuoco, Freddo, Tuono, Fulmine). Quando subisci danni, puoi spendere 1 Stress per ridurre il danno di un valore pari al tuo bonus di Incantesimo. L'attaccante subisce lo stesso ammontare di danni dell'elemento scelto.
 
 ---
 

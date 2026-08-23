@@ -3,16 +3,16 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Ambushers
+# Agguatori
 
-**_Tier 1 Event._** _An ambush is set by the PCs to catch unsuspecting adversaries off-guard._
+**_Evento di Tier 1.**_ _Un'imboscata viene organizzata dai PG per cogliere di sorpresa avversari ignari._
 
-- **Impulses:** Escape, group up, protect the most vulnerable
-- **Difficulty:** Special (see "Relative Strength")
-- **Potential Adversaries:** Any
+- **Impulsi:** Fuggire, riunirsi, proteggere i più vulnerabili
+- **Difficoltà:** Speciale (vedi "Forza Relativa")
+- **Avversari Potenziali:** Qualsiasi
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Relative Strength - Passive:_** The Difficulty of this environment equals that of the adversary with the highest Difficulty. _Which adversary is the least prepared? Which one is the most?_
+**_Forza Relativa - Passiva:_** La Difficoltà di questo ambiente è pari a quella dell'avversario con la Difficoltà più alta. _Quale avversario è il meno preparato? Qual è il più preparato?_
 
-**_Where Did They Come From? - Reaction:_** When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage. _What are the adversaries in the middle of doing when the ambush starts? How does this impact their approach to the fight?_
+**_Da Dove Sono Spuntati? - Reazione:_** Quando un PG dà inizio all'imboscata contro avversari ignari, perdi 2 Paure e il primo tiro d'attacco effettuato da un PG ha vantaggio. _Cosa stanno facendo gli avversari nel momento in cui scatta l'imboscata? In che modo questo influisce sul loro approccio al combattimento?_

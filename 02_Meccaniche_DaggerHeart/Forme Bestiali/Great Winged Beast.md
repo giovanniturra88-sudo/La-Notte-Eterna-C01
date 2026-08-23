@@ -4,17 +4,17 @@ type:
 tier: Tier 3
 ---
 
-# Great Winged Beast
+# Grande Bestia Alata
 
-**_Tier 3_** _(Giant Eagle, Falcon, etc.)_
+**_Tier 3_** _(Aquila Gigante, Falco, ecc.)_
 
-- **Trait Bonus:** Finesse +2
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Finesse d8+6 phy
-- **Advantages:** deceive, distract, locate
+- **Bonus di Tratto:** Finezza +2
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Finezza d8+6 fisici
+- **Vantaggi:** ingannare, distrarre, localizzare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Bird's-Eye View:_** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
+**_Vista dall'Alto:_** Puoi volare a volontà. Una volta per riposo, mentre sei in volo, puoi fare una domanda al GM sulla scena sottostante senza dover tirare. La prima volta che un personaggio effettua un tiro per agire in base a queste informazioni, ottiene vantaggio sul tiro.
 
-**_Carrier:_** You can carry up to two willing allies with you when you move.
+**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.

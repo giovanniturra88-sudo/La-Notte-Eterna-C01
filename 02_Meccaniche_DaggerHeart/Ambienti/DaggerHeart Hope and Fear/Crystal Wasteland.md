@@ -2,22 +2,22 @@
 type:
   - "[[Ambiente]]"
 ---
-# Crystal Wasteland
-*Tier 3 Traversal*
-*A harsh and alien landscape that shines with towers of glittering crystal.*
+# Terra Desolata di Cristallo
+*Tier 3 Attraversamento*
+*Un paesaggio aspro e alieno che brilla di torri di cristallo scintillante.*
 
-**Impulses:** Cut them to their core, fracture their psyches, show their true reflection
-**Difficulty:** 16
-**Potential Adversaries:** Adult Flickerfly, Constructs, Elemental Spark, Vault Guardians, Whisper Wraiths
+**Impulsi:** Colpirli nel profondo, fratturare le loro psiche, mostrare il loro vero riflesso
+**Difficoltà:** 16
+**Avversari Potenziali:** Falena Scintillante Adulta, Costrutti, Scintilla Elementale, Guardiani della Volta, Spettri Sussurranti
 
-## FEATURES
-* **Harmonic Resonance - Passive:** The crystals here reverberate with magical energy. A PC can use a downtime move to try to *Attune* to the environment with a successful Spellcast Roll. While *Attuned*, the PC has advantage on Spellcast Rolls inside the Crystal Wasteland. The condition is cleared when the PC leaves the Crystal Wasteland.
- * *How does attunement to this place alter your sensory experience of it? What sound or song from your childhood does this place conjure?*
-* **Gravitational Anomalies - Action:** Strange, localized phenomena dot the landscape, warping distance and direction. Spend a Fear to alter the gravity at a chosen point. Each target within Close range of that point must make a Knowledge Reaction Roll to calculate their new trajectories. Targets who fail take 3d8+4 physical damage as they are thrown up and away. Targets who succeed must mark a Stress or take half damage.
- * *What does it feel like as your body and mind fight to reestablish equilibrium? Is there any way to use this to your advantage?*
-* **Arcane Reflection - Action:** Spend a Fear to have any number of PCs glimpse a reflection in the crystal of who they once were or might become. Each target must make an Instinct Reaction Roll. Targets who succeed see a vision of their better self and can replace one Experience. Targets who fail see a vision of their dark pastâ€”or an even darker futureâ€”and must mark a Stress. You gain a Fear for each target who failed.
- * *Who do the PCs see on the other side of the crystal? How does it make them feel?*
-* **Razor-Sharp Terrain - Reaction:** When a PC fails a roll to navigate the wasteland, they must make a Finesse Reaction Roll. On a failure, they cut themselves on the sharp edges of the terrain. Shards of magic crystal become embedded in their wound and slowly grow, *Crystallizing* them. Activate a Crystal Countdown (1) for that PC. Until they remove the condition with a successful Knowledge Roll, a *Crystallizing* PC ticks up their Crystal Countdown at the start of each rest and gains a penalty to their Evasion equal to its value. The countdown ends when the condition is cleared.
- * *What does the crystal look like as it grows? What does it feel like?*
-* **Psychic Shuffle - Reaction:** When the PCs take a long rest, you can spend a Fear to swap their psyches. Collect all the players' character sheets, then shuffle and randomly redistribute them. Each character sheet comes with that PC's Domain cards and player aids. A PC can regain their psyche with a successful Knowledge Roll, at which point they trade sheets with the player who has their original character sheet.
- * *How does it feel being in someone else's skin? If you could choose to stay like them in one way, what would it be?*
+## CARATTERISTICHE
+* **Risonanza Armonica - Passiva:** I cristalli qui riverberano di energia magica. Un PG può usare una mossa di downtime per cercare di *Sintonizzarsi* con l'ambiente con un Tiro per Lanciare Incantesimi riuscito. Mentre è *Sintonizzato*, il PG ha vantaggio sui Tiri per Lanciare Incantesimi all'interno della Terra Desolata di Cristallo. La condizione viene rimossa quando il PG lascia la Terra Desolata di Cristallo.
+ * *In che modo la sintonizzazione con questo luogo altera la tua esperienza sensoriale? Quale suono o canzone della tua infanzia evoca questo luogo?*
+* **Anomalie Gravitazionali - Azione:** Strani fenomeni localizzati punteggiano il paesaggio, distorcendo distanza e direzione. Spendi una Paura per alterare la gravità in un punto scelto. Ogni bersaglio entro portata Vicina da quel punto deve effettuare un Tiro di Reazione di Conoscenza per calcolare le proprie nuove traiettorie. I bersagli che falliscono subiscono 3d8+4 danni fisici mentre vengono scagliati in alto e lontano. I bersagli che riescono devono segnare uno Stress o subire metà danno.
+ * *Cosa si prova mentre il tuo corpo e la tua mente lottano per ristabilire l'equilibrio? C'è un modo per volgere tutto ciò a tuo vantaggio?*
+* **Riflesso Arcano - Azione:** Spendi una Paura per far scorgere a un numero qualsiasi di PG un riflesso nel cristallo di ciò che erano un tempo o di ciò che potrebbero diventare. Ogni bersaglio deve effettuare un Tiro di Reazione di Istinto. I bersagli che riescono vedono una visione del loro sé migliore e possono sostituire un'Esperienza. I bersagli che falliscono vedono una visione del loro oscuro passato — o di un futuro ancora più oscuro — e devono segnare uno Stress. Ottieni una Paura per ogni bersaglio che ha fallito.
+ * *Chi vedono i PG dall'altra parte del cristallo? Come li fa sentire?*
+* **Terreno Tagliente come Rasoio - Reazione:** Quando un PG fallisce un tiro per orientarsi nella terra desolata, deve effettuare un Tiro di Reazione di Finezza. Su un fallimento, si taglia con i bordi affilati del terreno. Frammenti di cristallo magico si conficcano nella ferita e crescono lentamente, *Cristallizzandolo*. Attiva un Conto alla Rovescia di Cristallo (1) per quel PG. Finché non rimuove la condizione con un Tiro di Conoscenza riuscito, un PG che si sta *Cristallizzando* fa avanzare il suo Conto alla Rovescia di Cristallo all'inizio di ogni riposo e subisce una penalità alla propria Evasione pari al suo valore. Il conto alla rovescia termina quando la condizione viene rimossa.
+ * *Che aspetto ha il cristallo mentre cresce? Cosa si prova?*
+* **Rimescolamento Psichico - Reazione:** Quando i PG effettuano un riposo lungo, puoi spendere una Paura per scambiare le loro psiche. Raccogli tutte le schede dei personaggi dei giocatori, poi mescolale e ridistribuiscile a caso. Ogni scheda del personaggio include le carte Dominio e gli ausili per il giocatore di quel PG. Un PG può recuperare la propria psiche con un Tiro di Conoscenza riuscito, a quel punto scambia le schede con il giocatore che ha la sua scheda originale.
+ * *Cosa si prova a essere nella pelle di qualcun altro? Se potessi scegliere di restare come loro sotto un aspetto, quale sarebbe?*

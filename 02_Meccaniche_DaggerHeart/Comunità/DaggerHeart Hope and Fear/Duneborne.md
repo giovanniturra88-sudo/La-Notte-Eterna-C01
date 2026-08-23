@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Duneborne
 
-Being part of a duneborne community means you're accustomed to life in vast, scorching deserts and arid wastelands. Your people have mastered survival in the harshest environments, relying on careful resource management, ancient knowledge of water sources, and the ability to navigate treacherous sand seas. Duneborne communities are often nomadic or live in fortified oases, their cultures shaped by the relentless sun and shifting dunes. Members of a duneborne community are resilient, resourceful, and deeply connected to the rhythms of desert life.
+Far parte di una comunità duneborne significa essere abituati alla vita in vasti deserti roventi e terre selvagge aride. La tua gente ha padroneggiato la sopravvivenza negli ambienti più ostili, affidandosi a un'attenta gestione delle risorse, all'antica conoscenza delle fonti d'acqua e alla capacità di attraversare insidiosi mari di sabbia. Le comunità duneborne sono spesso nomadi o vivono in oasi fortificate, con culture plasmate dal sole implacabile e dalle dune in continuo movimento. I membri di una comunità duneborne sono resilienti, intraprendenti e profondamente legati ai ritmi della vita nel deserto.
 
-_Duneborne are often resilient, resourceful, patient, pious, pragmatic, and stoic._
+_I Duneborne sono spesso resilienti, intraprendenti, pazienti, devoti, pragmatici e stoici._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Desert Adaptation:_** You have advantage on rolls to survive in arid environments, find water and shelter, and navigate deserts or other harsh landscapes.
+**_Adattamento al Deserto:_** Hai vantaggio sui tiri per sopravvivere in ambienti aridi, trovare acqua e riparo e orientarti nei deserti o in altri paesaggi ostili.

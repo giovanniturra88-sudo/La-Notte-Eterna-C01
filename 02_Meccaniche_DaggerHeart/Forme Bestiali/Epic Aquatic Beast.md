@@ -4,17 +4,17 @@ type:
 tier: Tier 4
 ---
 
-# Epic Aquatic Beast
+# Bestia Acquatica Epica
 
-**_Tier 4_** _(Giant Squid, Whale, etc.)_
+**_Tier 4_** _(Calamaro Gigante, Balena, ecc.)_
 
-- **Trait Bonus:** Agility +3
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Agility d10+10 phy
-- **Advantages:** locate, protect, scare, track
+- **Bonus di Tratto:** Agilità +3
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Agilità d10+10 fisici
+- **Vantaggi:** localizzare, proteggere, spaventare, rintracciare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Ocean Master:_** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily _Restrain_ them.
+**_Signore degli Oceani:_** Puoi respirare e muoverti naturalmente sott'acqua. Quando ottieni successo su un attacco contro un bersaglio entro portata di mischia, puoi _Trattenerlo_ temporaneamente.
 
-**_Unyielding:_** When you would mark an Armor Slot, roll a **d6.** On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+**_Inflessibile:_** Quando stai per segnare uno Slot di Armatura, tira un **d6.** Con un risultato di 5 o superiore, riduci la gravità di una soglia senza segnare uno Slot di Armatura.

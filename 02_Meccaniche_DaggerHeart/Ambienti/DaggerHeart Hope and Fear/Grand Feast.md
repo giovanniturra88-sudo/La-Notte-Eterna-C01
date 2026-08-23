@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Grand Feast
+# Gran Banchetto
 
-**_Tier 1 Social._** _A community-wide celebration featuring way too much drink, food, and fun._
+**_Tier 1 Sociale.** _Una celebrazione che coinvolge tutta la comunità, con fin troppo da bere, da mangiare e allegria._
 
-- **Impulses:** Bring everyone together, celebrate a momentous occasion, encourage revelrous abandon
-- **Difficulty:** 11
-- **Potential Adversaries:** Apprentice Assassin, Guard, Merchant, Petty Noble, Sellsword, Spy
+- **Impulsi:** Riunire tutti, celebrare un'occasione memorabile, incoraggiare l'abbandono festaiolo
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Apprendista Assassino, Guardia, Mercante, Nobile Minore, Spada Mercenaria, Spia
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Loose Lips & Fast Friends - Passive:_** Everyone is here to have a good time. PCs have advantage on Presence Rolls to socialize with other revelers. _What is everyone celebrating? Where's the party? Who's footing the bill?_
+**_Bocche Sciolte e Amici Veri - Passiva:** Tutti sono qui per divertirsi. I PG hanno vantaggio sui Tiri di Presenza per socializzare con gli altri festaioli. _Cosa sta festeggiando tutti? Dov'è la festa? Chi paga il conto?_
 
-**_The Evening's Entertainment - Action:_** The host of the feast kicks off the entertainment portion of the evening. Each PC can make an action roll to initiate a performance, competition, or other lighthearted diversion. A PC who succeeds becomes an *Honored Guest*. Until the feast ends, an *Honored Guest* can claim a gift from the host, then clear the condition. _What does the host want to see or hear more than anything else? What can they offer the PCs in return?_
+**_L'Intrattenimento della Serata - Azione:** L'ospite del banchetto dà il via alla parte di intrattenimento della serata. Ogni PG può effettuare un tiro d'azione per dare inizio a un'esibizione, una competizione o un'altra distrazione spensierata. Un PG che riesce diventa un *Ospite d'Onore*. Finché il banchetto non termina, un *Ospite d'Onore* può reclamare un regalo dall'ospite e poi rimuovere la condizione. _Cosa vuole vedere o sentire l'ospite più di ogni altra cosa? Cosa possono offrire in cambio ai PG?_
 
-**_"There's Always That One..." - Action:_** Spend a Fear to *Trap* a PC in conversation with the most unpleasant person at the party until the PC succeeds on an action roll to extricate himself from this social black hole. While *Trapped*, a PC can't make action rolls except to try to clear this condition. When a *Trapped* PC fails an action roll, they must mark a Stress. _What makes this dud so unpleasant? What's something the PC cares about that the dud constantly diminishes or dismisses? What boring or awful thing can the dud not shut up about?_
+**_"C'è Sempre Quello..." - Azione:** Spendi una Paura per *Intrappolare* un PG in una conversazione con la persona più sgradevole della festa finché il PG non riesce in un tiro d'azione per sottrarsi a questo buco nero sociale. Mentre è *Intrappolato*, un PG non può effettuare tiri d'azione se non per cercare di rimuovere questa condizione. Quando un PG *Intrappolato* fallisce un tiro d'azione, deve segnare uno Stress. _Cosa rende così sgradevole questo musone? Cosa c'è di importante per il PG che il musone sminuisce o liquida costantemente? Di quale cosa noiosa o orribile non riesce a smettere di parlare il musone?_
 
-**_Last Call - Reaction:_** After a long night, the partygoers start filtering out. When the feast concludes, all PCs who participated in the festivities clear all Stress and gain a Hope. Additionally, each *Honored Guest* clears all HP and gains an additional Hope, then clears the condition. Each PC who overindulged must succeed on a Strength Reaction Roll or become *Hungover* until their next rest. While *Hungover*, a PC gains a -1 penalty to action rolls. _What crazy stories do the PCs share with one another as they leave the party? Who do the PCs see unexpectedly canoodling afterward?_
+**_Ultimo Giro - Reazione:** Dopo una lunga nottata, i festaioli cominciano a defluire. Quando il banchetto si conclude, tutti i PG che hanno partecipato ai festeggiamenti rimuovono tutto lo Stress e ottengono una Speranza. Inoltre, ogni *Ospite d'Onore* recupera tutti i PF e ottiene una Speranza aggiuntiva, poi rimuove la condizione. Ogni PG che ha esagerato deve superare un Tiro di Reazione di Forza o diventare *Sborniato* fino al suo prossimo riposo. Mentre è *Sborniato*, un PG subisce una penalità di -1 ai tiri d'azione. _Quali storie folli si raccontano i PG a vicenda mentre lasciano la festa? Chi vedono i PG scambiarsi effusioni inaspettate, dopo?_

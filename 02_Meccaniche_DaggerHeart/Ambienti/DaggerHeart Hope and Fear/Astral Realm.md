@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Astral Realm
+# Regno Astrale
 
-**_Tier 3 Traversal._** _A psychic realm of energy and emotion, where the strong in spirit can reshape the rules of reality._
+**_Tier 3 Attraversamento.** _Un reame psichico di energia ed emozione, dove i forti di spirito possono rimodellare le regole della realtà._
 
-- **Impulses:** Attack their psyches, summon their subconscious fears, warp their perceptions
-- **Difficulty:** 16
-- **Potential Adversaries:** Demon of Despair, Elemental Spark, Pain Priest, Psychic Vampires (*Head Vampire, Night Children*)
+- **Impulsi:** Attaccare le loro psiche, evocare le loro paure inconsce, distorcere le loro percezioni
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Demone della Disperazione, Scintilla Elementale, Sacerdote del Dolore, Vampiri Psichici (*Vampiro Capo, Figli della Notte*)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Out-of-Body Experience - Passive:_** Because the party isn't physically in this realm, Strength, Agility, and Finesse Rolls automatically fail. Additionally, when a character would mark a HP, they must lose a Hope or mark a Stress instead. If a character can't mark a Stress, they must make a death move. _How does the projection of your mental self-image differ from your physical appearance? Which one do you consider the "real" you?_
+**_Esperienza Fuori dal Corpo - Passiva:** Poiché il gruppo non è fisicamente in questo reame, i Tiri di Forza, Agilità e Finezza falliscono automaticamente. Inoltre, quando un personaggio dovrebbe segnare un PF, deve invece perdere una Speranza o segnare uno Stress. Se un personaggio non può segnare Stress, deve effettuare una mossa di morte. _In che modo la proiezione della tua immagine mentale di te stesso differisce dal tuo aspetto fisico? Quale consideri il "vero" te?_
 
-**_Mental Manifestations - Passive:_** With a successful Knowledge Roll, PCs can alter the psychic environment, such as by inverting gravity or conjuring a rapidly self-assembling staircase. A PC can use a mental manifestation once per scene to gain advantage on a roll to navigate the Astral Realm. _Is the construct you manifest a memory from real life or a figment of your own imagination? What key detail do you focus on to make it more stable?_
+**_Manifestazioni Mentali - Passiva:** Con un Tiro di Conoscenza riuscito, i PG possono alterare l'ambiente psichico, come invertire la gravità o evocare una scala che si assembla rapidamente da sola. Un PG può usare una manifestazione mentale una volta per scena per ottenere vantaggio su un tiro per attraversare il Regno Astrale. _La costruzione che manifesti è un ricordo della vita reale o un prodotto della tua stessa immaginazione? Su quale dettaglio chiave ti concentri per renderla più stabile?_
 
-**_Matter Is Illusion - Passive:_** Countdown (10). Time and distance are relative here, and simply moving through the space requires an act of will. To cross the Astral Realm, the party must complete the countdown using only Knowledge, Instinct, or Presence Rolls. On a failure with Fear, a PC takes 3d8 direct magic damage. _Do you think or feel your way through this place? What difference does it make here?_
+**_La Materia è Illusione - Passiva:** Conto alla Rovescia (10). Qui tempo e distanza sono relativi, e semplicemente muoversi nello spazio richiede un atto di volontà. Per attraversare il Regno Astrale, il gruppo deve completare il conto alla rovescia usando solo Tiri di Conoscenza, Istinto o Presenza. Su un fallimento con Paura, un PG subisce 3d8 danni magici diretti. _Pensi o senti la tua strada attraverso questo luogo? Che differenza fa qui?_
 
-**_Astral Adversaries - Passive:_** Adversaries in the Astral Realm are immune to physical damage, as they are psychic projections instead of flesh and blood. _How does an adversary's astral form differ from their physical form? Why are these psychic projections drawn to the PCs?_
+**_Avversari Astrali - Passiva:** Gli avversari nel Regno Astrale sono immuni ai danni fisici, poiché sono proiezioni psichiche invece che carne e sangue. _In che modo la forma astrale di un avversario differisce dalla sua forma fisica? Perché queste proiezioni psichiche sono attratte dai PG?_

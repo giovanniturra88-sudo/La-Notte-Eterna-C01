@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Slyborne
 
-Being part of a slyborne community means you come from a group that operates outside the law, including all manner of criminals, grifters, and con artists. Members of slyborne communities are brought together by their disreputable goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruans with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
+Far parte di una comunità slyborne significa provenire da un gruppo che opera al di fuori della legge, incluse ogni sorta di criminali, truffatori e imbroglioni. I membri delle comunità slyborne sono uniti dai loro obiettivi riprovevoli e dai loro mezzi astuti per raggiungerli. Molte persone in queste comunità possiedono un'ampia gamma di abilità senza scrupoli: falsificazione, furto, contrabbando e violenza. Persone di ogni classe sociale possono essere Slyborne, da coloro che hanno accumulato vaste ricchezze e influenza a coloro che non possiedono nemmeno una moneta. Agli occhi esterni, gli Slyborne possono sembrare ruan senza lealtà, ma queste comunità possiedono alcuni dei codici d'onore più rigidi che, se infranti, possono condurre a una fine terrificante per chi li trasgredisce.
 
-_Slyborne are often calculating, clever, formidable, perceptive, shrewd, and tenacious._
+_Gli Slyborne sono spesso calcolatori, astuti, formidabili, perspicaci, scaltri e tenaci._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Scoundrel:_** You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.
+**_Furfante:_** Hai vantaggio sui tiri per negoziare con i criminali, smascherare le bugie o trovare un luogo sicuro dove nasconderti.

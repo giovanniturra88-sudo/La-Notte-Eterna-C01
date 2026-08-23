@@ -3,23 +3,23 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Castle Siege
+# Assedio al Castello
 
-**_Tier 3 Event._** _An active siege with an attacking force fighting to gain entry to a fortified castle._
+**_Evento di Tier 3.**_ _Un assedio in corso, con una forza d'attacco che combatte per fare breccia in un castello fortificato._
 
-- **Impulses:** Bleed out the will to fight, breach the walls, build tension
-- **Difficulty:** 17
-- **Potential Adversaries:** Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
+- **Impulsi:** Sanguinare la volontà di combattere, fare breccia nelle mura, creare tensione
+- **Difficoltà:** 17
+- **Avversari Potenziali:** Mercenari (Devastatore, Mercenario, Lama Incantata, Maestro delle Armi), Forze Nobili (Squadrone di Arceri, Coscritto, Soldato d'Elite, Cavaliere della Corona)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Secret Entrance - Passive:_** A PC can find or recall a secret way into the castle with a successful Instinct or Knowledge Roll. _How do they get in without revealing the pathway to the attackers? Are any of the defenders monitoring this path?_
+**_Ingresso Segreto - Passiva:_** Un PG può trovare o ricordare un passaggio segreto per entrare nel castello con un Tiro di Istinto o di Conoscenza riuscito. _Come entrano senza rivelare il passaggio agli attaccanti? Qualcuno dei difensori sorveglia questo percorso?_
 
-**_Siege Weapons (Environment Change) - Action:_** _Consequence Countdown (6)._ The attacking force deploys siege weapons to try to raze the defenders' fortifications. Activate the countdown when the siege begins (for a protracted siege, make this a long-term countdown instead). When it triggers, the defenders' fortifications have been breached and the attackers flood inside. You gain 2 Fear, then shift to the Pitched Battle environment and spotlight it. _What siege weapons are being deployed? Are they magical, mundane, or a mixture of both? What defenses must the characters overcome to storm the castle?_
+**_Armi d'Assedio (Cambiamento d'Ambiente) - Azione:_** _Conto alla Rovescia di Conseguenza (6)._ La forza d'attacco schiera armi d'assedio per tentare di radere al suolo le fortificazioni dei difensori. Attiva il conto alla rovescia quando inizia l'assedio (per un assedio prolungato, trasformalo invece in un conto alla rovescia a lungo termine). Quando si attiva, le fortificazioni dei difensori sono state violate e gli attaccanti irrompono all'interno. Ottieni 2 Paure, poi passa all'ambiente Battaglia Campale e mettilo sotto i riflettori. _Quali armi d'assedio vengono schierate? Sono magiche, comuni o un misto di entrambe? Quali difese devono superare i personaggi per espugnare il castello?_
 
-**_Reinforcements! - Action:_** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight. _Who are they targeting first? What formation do they take?_
+**_Rinforzi! - Azione:_** Evoca come rinforzi un Cavaliere della Corona, un numero di Minion di Tier 3 pari al numero di PG e due avversari a tua scelta entro portata Lontana da un PG scelto. Il Cavaliere della Corona finisce immediatamente sotto i riflettori. _Qual è il loro primo bersaglio? Che formazione assumono?_
 
-**_Collateral Damage - Reaction:_** When an adversary is defeated, you can **spend a Fear** to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll. _What debris is scattered by the attack? What is broken by the strike that can't be easily mended?_
+**_Danni Collaterali - Reazione:_** Quando un avversario viene sconfitto, puoi **spendere una Paura** per far sì che un colpo vagante di un'arma d'assedio colpisca un punto del campo di battaglia. Tutti i bersagli entro portata Molto Vicina da quel punto devono effettuare un Tiro di Reazione di Agilità. _Quali detriti vengono sparsi dall'attacco? Cosa viene rotto dal colpo che non può essere riparato facilmente?_
 
-- Targets who fail take **3d8+3** physical or magic damage and must mark a Stress.
-- Targets who succeed must mark a Stress.
+- I bersagli che falliscono subiscono **3d8+3** danni fisici o magici e devono segnare uno Stress.
+- I bersagli che riescono devono segnare uno Stress.

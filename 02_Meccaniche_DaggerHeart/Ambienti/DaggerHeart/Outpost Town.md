@@ -3,27 +3,27 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Outpost Town
+# Città di Avamposto
 
-**_Tier 1 Social._** _A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations._
+**_Sociale di Tier 1.**_ _Una piccola città ai margini di una nazione o di una regione, vicina a segrete, tombe o altre destinazioni da avventurieri._
 
-- **Impulses:** Drive the desperate to certain doom, profit off of ragged hope
-- **Difficulty:** 12
-- **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
+- **Impulsi:** Spingere i disperati verso una fine certa, trarre profitto dalla speranza logora
+- **Difficoltà:** 12
+- **Avversari Potenziali:** Banditi della Lama Seghettata (Mago della Lama Seghettata, SpezzaGinocchia della Lama Seghettata, Seguace della Lama Seghettata, Tenente della Lama Seghettata, Ombra della Lama Seghettata, Cecchino della Lama Seghettata), Ladro Mascherato, Mercante
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Rumors Abound - Passive:_** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria. _What news do the PCs have that they could pass along to curious travelers? What do the locals think about these events?_
+**_Voci Ovunque - Passiva:_** I pettegolezzi sono la valuta che viaggia più in fretta nel regno. Un PG può informarsi sugli eventi principali effettuando un Tiro di Presenza. Ciò che apprende dipende dall'esito del tiro, secondo i seguenti criteri. _Quali notizie hanno i PG che potrebbero condividere con i viaggiatori curiosi? Cosa pensano i locali di questi eventi?_
 
-- **Critical Success:** Learn about two major events. The PC can ask one follow-up question about one of the rumors and get a truthful (if not always complete) answer.
-- **Success with Hope:** Learn about two events, at least one of which is relevant to the character's background.
-- **Success with Fear:** Learn an alarming rumor related to the character's background.
-- **Any Failure:** The locals respond poorly to their inquiries. The PC must mark a Stress to learn one relevant rumor.
+- **Successo Critico:** apprendi informazioni su due eventi principali. Il PG può porre una domanda di approfondimento su una delle voci e ottenere una risposta sincera (anche se non sempre completa).
+- **Successo con Speranza:** apprendi informazioni su due eventi, almeno uno dei quali pertinente al background del personaggio.
+- **Successo con Paura:** apprendi una voce allarmante legata al background del personaggio.
+- **Qualsiasi Fallimento:** i locali rispondono male alle domande. Il PG deve segnare uno Stress per apprendere una voce pertinente.
 
-**_Society of the Broken Compass - Passive:_** An adventuring society maintains a chapterhouse here, where heroes trade boasts and rumors, drink to their imagined successes, and scheme to undermine their rivals. _What boasts do the adventurers here make, and which do you think are true?_
+**_La Società della Bussola Spezzata - Passiva:_** Una società di avventurieri mantiene qui una sede locale, dove gli eroi si scambiano vanti e voci, brindano ai loro successi immaginari e tramano per minare i rivali. _Quali vanti si fanno gli avventurieri di qui e quali pensi siano veri?_
 
-**_Rival Party - Passive:_** Another adventuring party is here, seeking the same treasure or leads as the PCs. _Which PC has a connection to one of the rival party members? Do they approach the PC first or do they wait for the PC to move?_
+**_Gruppo Rivale - Passiva:_** Un altro gruppo di avventurieri è qui, alla ricerca dello stesso tesoro o degli stessi indizi dei PG. _Quale PG ha un legame con uno dei membri del gruppo rivale? Si avvicina per primo al PG o aspetta che sia il PG a muoversi?_
 
-**_It'd Be a Shame If Something Happened to Your Store - Action:_** The PCs witness as agents of a local crime boss shake down a general goods store. _What trouble does it cause if the PCs intervene?_
+**_Sarebbe un Peccato se Succedesse Qualcosa al Tuo Negozio - Azione:_** I PG assistono mentre gli scagnozzi di un boss del crimine locale estorcono denaro a un negozio di generi vari. _Che guai provoca l'intervento dei PG?_
 
-**_Wrong Place, Wrong Time - Reaction:_** At night, or when the party is alone in a back alley, you can **spend a Fear** to introduce a group of thieves who try to rob them. The thieves appear at Close range of a chosen PC and include a Jagged Knife Kneebreaker, as many Lackeys as there are PCs, and a Lieutenant. For a larger party, add a Hexer or Sniper. _What details show the party that these people are desperate former adventurers?_
+**_Posto Sbagliato, Momento Sbagliato - Reazione:_** Di notte, o quando il gruppo è solo in un vicolo appartato, puoi **spendere una Paura** per introdurre un gruppo di ladri che tenta di derubarli. I ladri appaiono a portata Vicina da un PG scelto e includono uno SpezzaGinocchia della Lama Seghettata, tanti Seguaci della Lama Seghettata quanti sono i PG e un Tenente della Lama Seghettata. Per un gruppo più numeroso, aggiungi un Mago o un Cecchino della Lama Seghettata. _Quali dettagli mostrano al gruppo che queste persone sono ex avventurieri disperati?_

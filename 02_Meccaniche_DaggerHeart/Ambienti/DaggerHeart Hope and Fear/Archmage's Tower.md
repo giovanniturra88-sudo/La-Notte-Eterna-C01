@@ -3,18 +3,18 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Archmage's Tower
+# Torre dell'Archimago
 
-**_Tier 3 Exploration._** _An impossibly tall spire that pierces the heavens and resonates with immense power._
+**_Tier 3 Esplorazione.** _Una guglia impossibilmente alta che squarcia i cieli e risuona di un potere immenso._
 
-- **Impulses:** Collect magical energy, exhaust intruders, reveal the unknown, unleash bursts of magical power
-- **Difficulty:** 16
-- **Potential Adversaries:** Alchemical Creations (*Chimera, Lamia, Manticore*), Archmage
+- **Impulsi:** Accumulare energia magica, stancare gli intrusi, rivelare l'ignoto, scatenare ondate di potere magico
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Creazioni Alchemiche (*Chimera, Lamia, Manticora*), Archimago
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Mystical Defenses - Passive:_** Countdown (12). To climb the tower, the PCs must complete the countdown. On a failure or a roll with Fear, they trigger one of the archmage's many arcane traps and hazards, taking 3d10 magic damage. On a failure with Fear, the damage dealt gains a bonus equal to the PC's level. _What do the designs of the archmage's defenses tell you about their specific area of expertise? What signature style or flourish do the traps and hazards all share?_
+**_Difese Mistiche - Passiva:** Conto alla Rovescia (12). Per salire la torre, i PG devono completare il conto alla rovescia. Su un fallimento o un tiro con Paura, innescano una delle numerose trappole e insidie arcane dell'archimago, subendo 3d10 danni magici. Su un fallimento con Paura, il danno inflitto ottiene un bonus pari al livello del PG. _Cosa ti rivelano i progetti delle difese dell'archimago sul suo specifico campo di specializzazione? Quale stile o tocco distintivo accomuna tutte le trappole e le insidie?_
 
-**_Archmage's Aerie - Passive:_** The top floor of the tower is a many-chambered laboratory, library, and workshop containing everything needed to study magic in its highest forms. A PC with a Spellcast Trait can make a Knowledge Roll to partake in the archmage's research. On a success, they gain a +1 bonus to their Spellcast Rolls until their next long rest. On a failure, their investigation goes wrong, and they take 3d8+4 magic damage. _What part of the aerie calls to you? What do the archmage's notes reveal to you?_
+**_Nido dell'Archimago - Passiva:** L'ultimo piano della torre è un laboratorio, una biblioteca e un'officina pieni di stanze, contenente tutto il necessario per studiare la magia nelle sue forme più elevate. Un PG con un Tratto Incantesimo può effettuare un Tiro di Conoscenza per prendere parte alle ricerche dell'archimago. Su un successo, ottiene un bonus di +1 ai suoi Tiri per Lanciare Incantesimi fino al suo prossimo riposo lungo. Su un fallimento, la sua investigazione va storta e subisce 3d8+4 danni magici. _Quale parte del nido ti chiama a sé? Cosa ti rivelano gli appunti dell'archimago?_
 
-**_Amalgamated Adversaries - Reaction:_** **Spend a Fear** to summon two adversaries within Close range of a PC. Each adversary can use the other's features as if they were their own. _Which creatures has the archmage chosen to combine? What do they hope to learn in doing so?_
+**_Avversari Amalgamati - Reazione:** **Spendi una Paura** per evocare due avversari entro portata Vicina da un PG. Ogni avversario può usare le caratteristiche dell'altro come se fossero proprie. _Quali creature ha scelto di combinare l'archimago? Cosa spera di imparare facendolo?_

@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Abandoned Grove
+# Bosco Abbandonato
 
-**_Tier 1 Exploration._** _A forgotten sacred grove reclaimed by nature, where ancient stones stand twisted among overgrown roots, wildflowers whisper with residual magic, and the air hums with forgotten prayers._
+**_Tier 1 Esplorazione.** _Un sacro bosco dimenticato, reclamato dalla natura, dove antiche pietre si ergono contorte tra radici rigogliose, i fiori selvatici sussurrano di magia residua e l'aria vibra di preghiere dimenticate._
 
-- **Impulses:** Nurture what's left, reveal the beauty in decay, tempt with forgotten power, awaken what sleeps
-- **Difficulty:** 11
-- **Potential Adversaries:** Tangle Bramble (*Entangled Guardian*), Dryad (*Twisted Growth_), Corrupted Treant (d4 combat stats), Moth Man Swarm, Brown Lady
+- **Impulsi:** Nutrire ciò che resta, rivelare la bellezza nel decadimento, tentare con il potere dimenticato, risvegliare ciò che dorme
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Roveto Intricato (*Guardiano Avviluppato*), Driade (*Crescita Contorta*), Trent Corrotto (statistiche da combattimento d4), Sciame di Uomo Falena, Dama Bruna
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Sacred Remnants - Passive:_** Scattered among the grove are weathered stones arranged in a circle, each carved with faded runes of protection and healing. When a PC makes a rest within the grove, they can succeed on a Presence or Instinct Reaction Roll to reduce the Stress marked by their highest die by 1 step (dice decrease as normal). _Who built this grove, and what deity or force did they worship? What happens if someone defaces the sacred stones?_
+**_Reliquie Sacre - Passiva:** Tra il bosco sono disseminate pietre erose dal tempo disposte in cerchio, ciascuna scolpita con rune sbiadite di protezione e guarigione. Quando un PG effettua un riposo nel bosco, può superare un Tiro di Reazione di Presenza o Istinto per ridurre di 1 gradino lo Stress segnato dal suo dado più alto (i dadi diminuiscono come di consueto). _Chi ha costruito questo bosco, e quale divinità o forza veneravano? Cosa succede se qualcuno deturpa le pietre sacre?_
 
-**_Whispering Wildflowers - Passive:_** The overgrown flowers emit a faint luminescence at dusk, their petals trembling with an otherworldly breeze. On a successful Instinct Roll, a PC can hear fragmented whispers—echoes of conversations from long ago. These whispers can provide clues or foreshadowing if the GM deems them relevant. _What kind of memories do the flowers carry? Are they echoes of joy, sorrow, or warning?_
+**_Fiori Selvatici Sussurranti - Passiva:** I fiori rigogliosi emettono una debole luminescenza al crepuscolo, i loro petali tremanti per una brezza ultraterrena. Con un Tiro di Istinto riuscito, un PG può udire sussurri frammentati — echi di conversazioni di molto tempo fa. Questi sussurri possono fornire indizi o presagi se il GM li ritiene pertinenti. _Che tipo di ricordi custodiscono i fiori? Sono echi di gioia, dolore o monito?_
 
-**_Rooted Snare - Action:_** Spend a Fear to have thick roots burst from the earth beneath a target within Close range. The target must succeed on an Agility or Strength Reaction Roll or become _Restrained_ until the end of the scene. A restrained target can use a downtime action to make an Agility roll to break free, gaining advantage on the roll. _Are the roots alive, sentient, or merely reacting to the grove's lingering magic? What sounds do they make when they move—cracking, sighing, or something worse?_
+**_Trappola Radicata - Azione:** Spendi una Paura per far erompere dal terreno sotto un bersaglio entro portata Vicina spesse radici. Il bersaglio deve superare un Tiro di Reazione di Agilità o Forza o diventare _Ristretto_ fino alla fine della scena. Un bersaglio Ristretto può usare un'azione di downtime per effettuare un Tiro di Agilità e liberarsi, ottenendo vantaggio sul tiro. _Le radici sono vive, senzienti o semplicemente reagiscono alla magia persistente del bosco? Che suoni emettono quando si muovono — crepitii, sospiri o qualcosa di peggio?_
 
-**_Ancient Bloom - Action:_** Spend a Fear to cause a massive, otherworldly flower to bloom at the center of the grove. Each PC within Far range can choose to inhale its spores. Roll a d6 for each PC who does: on a 4-6, they regain a number of HP equal to their d6 maximum; on a 3, nothing happens; on a 1-2, the flower releases toxic pollen instead, and the PC takes 1d6+3 poison damage. _What does the bloom look like? What does it smell like—sweet, metallic, or something unsettlingly familiar?_
+**_Fioritura Antica - Azione:** Spendi una Paura per far sbocciare al centro del bosco un enorme fiore ultraterreno. Ogni PG entro portata Lontana può scegliere di inalarne le spore. Tira un d6 per ogni PG che lo fa: su un risultato di 4-6, recuperano un numero di PF pari al massimo del loro d6; su un 3, non succede nulla; su un 1-2, il fiore rilascia invece polline tossico e il PG subisce 1d6+3 danni da veleno. _Che aspetto ha il fiore? Che profumo ha — dolce, metallico o qualcosa di inquietantemente familiare?_
 
-**_The Grove Remembers - Reaction:_** When a PC is reduced to 0 HP or fewer in the grove, roll a d6. On a result of 5 or 6, the grove intervenes—the PC falls into a magical slumber instead and is stabilized, their body cradled by gentle roots. At the start of the next rest, they awaken with 1 HP. The grove's mercy comes with a cost: the awakened PC must succeed on an Instinct Roll or gain a d4 Frightened Die, facing the 1 value. _What does the PC see in their dream? What message or warning was left for them to find later?_
+**_Il Bosco Ricorda - Reazione:** Quando un PG viene ridotto a 0 PF o meno nel bosco, tira un d6. Su un risultato di 5 o 6, il bosco interviene — il PG cade invece in un sonno magico e viene stabilizzato, il suo corpo cullato da radici gentili. All'inizio del riposo successivo, si risveglia con 1 PF. La misericordia del bosco ha un costo: il PG risvegliato deve superare un Tiro di Istinto o ottenere un Dado di Spavento d4, affrontando il valore 1. _Cosa vede il PG nel suo sogno? Quale messaggio o monito gli è stato lasciato da scoprire in seguito?_

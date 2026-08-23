@@ -43,7 +43,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i tiri d'attacco compiuti contro la creatura marchiata beneficiano di **Vantaggio** e l'obiettivo subisce **+d10 Danni Radiosi Extra** da qualsiasi fonte. Se la creatura fallisce la prova di *Volontà* a fine turno, subisce `2d10` Danni Radiosi + `2d10` Danni Necrotici. Se la creatura muore, il marchio può essere liberamente spostato su un nuovo bersaglio.
 
 ### Reale Miraggio di Sagister
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 6 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Incantatore (Zona Ravvicinata / Cubo)
@@ -61,7 +61,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 ---
 
 ### Superba Infusione Arcana
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 6 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 1 settimana (Rituale)
 * **Gittata:** Contatto

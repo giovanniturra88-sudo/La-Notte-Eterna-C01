@@ -3,24 +3,24 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Divine Usurpation
+# Usurpazione Divina
 
-**_Tier 4 Event._** _A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves._
+**_Evento di Tier 4.**_ _Un rituale imponente progettato per sfondare le porte dei Sacri Cieli e spodestare gli stessi Nuovi Dei._
 
-- **Impulses:** Collect power, overawe, silence dissent
-- **Difficulty:** 20
-- **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
+- **Impulsi:** Accumulare potere, incutere soggezione, mettere a tacere il dissenso
+- **Difficoltà:** 20
+- **Avversari Potenziali:** ArcoNecromante, Soldati d'Assalto Caduti, Cacciatore Mortale, Oracolo del Destino, Zombie Perfezionato
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Final Preparations - Passive:_** When the environment first takes the spotlight, designate one adversary as the Usurper seeking to overthrow the gods. Activate a Long-Term Countdown (8) as the Usurper assembles what they need to conduct the ritual. When it triggers, spotlight this environment to use the "Beginning of the End" feature. While this environment remains in play, you can hold up to 15 Fear. _What does the Usurper still require: The heart of a High Seraph? The lodestone of an ancient waygate? The loyalty of two archenemies? The heartbroken tears of a pure soul?_
+**_Preparativi Finali - Passiva:_** Quando l'ambiente finisce per la prima volta sotto i riflettori, designa un avversario come l'Usurpatore che cerca di rovesciare gli dèi. Attiva un Conto alla Rovescia a Lungo Termine (8) mentre l'Usurpatore raduna ciò che gli serve per condurre il rituale. Quando si attiva, metti questo ambiente sotto i riflettori per usare la caratteristica "L'Inizio della Fine". Finché questo ambiente resta in gioco, puoi trattenere fino a 15 Paure. _Cosa manca ancora all'Usurpatore: il cuore di un Alto Serafino? La calamita di un antico portale? La lealtà di due acerrimi nemici? Le lacrime straziate di un'anima pura?_
 
-**_Divine Blessing - Passive:_** When a PC critically succeeds, they can spend 2 Hope to refresh an ability normally limited by uses (such as once per rest, once per session). _What god favors you as you fight against this usurpation? How does your renewed power reflect their influence?_
+**_Benedizione Divina - Passiva:_** Quando un PG ottiene un successo critico, può spendere 2 Speranze per ripristinare un'abilità normalmente limitata da un numero di usi (come una volta per riposo o una volta per sessione). _Quale dio ti concede il suo favore mentre combatti contro questa usurpazione? In che modo il tuo potere rinnovato riflette la sua influenza?_
 
-**_Defilers Abound - Action:_** **Spend 2 Fear** to summon **1d4+2** Fallen Shock Troops that appear within Close range of the Usurper to assist their divine siege. Immediately spotlight the Shock Troops to use a "Group Attack" action. _Which High Fallen do these troops serve? Which god's flesh do they wish to feast upon?_
+**_Profanatori Ovunque - Azione:_** **Spendi 2 Paure** per evocare **1d4+2** Soldati d'Assalto Caduti che appaiono entro portata Vicina dall'Usurpatore per assistere al suo assedio divino. Metti immediatamente i Soldati d'Assalto sotto i riflettori per usare l'azione "Attacco di Gruppo". _Quale Alto Caduto servono queste truppe? Della carne di quale dio vogliono cibarsi?_
 
-**_Godslayer - Action:_** If the Divine Siege Countdown (see "Beginning of the End") has triggered, you can **spend 3 Fear** to describe the Usurper slaying one of the gods of the Hallows Above, feasting upon their power and growing stronger. The Usurper clears 2 HP. Increase their Difficulty, damage, attack modifier, or give them a new feature from the slain god. _Which god meets their end? What are their last words? How does the Usurper's new stolen power manifest?_
+**_Uccisore di Dei - Azione:_** Se il Conto alla Rovescia dell'Assedio Divino (vedi "L'Inizio della Fine") si è attivato, puoi **spendere 3 Paure** per descrivere l'Usurpatore che uccide uno degli dèi dei Sacri Cieli, cibandosi del loro potere e diventando più forte. L'Usurpatore recupera 2 Punti Ferita. Aumenta la sua Difficoltà, i suoi danni o il suo modificatore d'attacco, oppure dagli una nuova caratteristica tratta dal dio ucciso. _Quale dio trova la sua fine? Quali sono le sue ultime parole? Come si manifesta il nuovo potere rubato dall'Usurpatore?_
 
-**_Beginning of the End - Reaction:_** When the "Final Preparations" long-term countdown triggers, the Usurper begins hammering on the gates of the Hallows themselves. Activate a Divine Siege Countdown (10). Spotlight the Usurper to describe the Usurper's assault and tick down this countdown by 1. If the Usurper takes Major or greater damage, tick up the countdown by 1. When it triggers, the Usurper shatters the barrier between the Mortal Realm and the Hallows Above to slay the gods and take their place. You gain a Fear for each unmarked HP the Usurper has. You can immediately use the "Godslayer" feature without spending Fear to make an additional GM move. _How does the Mortal Realm writhe as the natural order is violated? What mortals witness this blasphemy from afar?_
+**_L'Inizio della Fine - Reazione:_** Quando il conto alla rovescia a lungo termine "Preparativi Finali" si attiva, l'Usurpatore inizia a martellare le porte degli stessi Sacri Cieli. Attiva un Conto alla Rovescia dell'Assedio Divino (10). Metti l'Usurpatore sotto i riflettori per descrivere il suo assalto e fai scendere questo conto alla rovescia di 1. Se l'Usurpatore subisce danno Maggiore o superiore, fai salire il conto alla rovescia di 1. Quando si attiva, l'Usurpatore infrange la barriera tra il Regno Mortale e i Sacri Cieli per uccidere gli dèi e prendere il loro posto. Ottieni una Paura per ogni Punto Ferita non marcato dell'Usurpatore. Puoi immediatamente usare la caratteristica "Uccisore di Dei" senza spendere Paure per effettuare una mossa del GM aggiuntiva. _Come si contorce il Regno Mortale mentre l'ordine naturale viene violato? Quali mortali assistono da lontano a questa blasfemia?_
 
-**_Ritual Nexus - Reaction:_** On any failure with Fear against the Usurper, the PC must mark **1d4** Stress from the backlash of magical power. _What visions of failures past torment you as your eff orts fall short? How are these memories twisted by the Usurper?_
+**_Nesso Rituale - Reazione:_** Con qualsiasi fallimento con Paura contro l'Usurpatore, il PG deve segnare **1d4** Stress a causa del contraccolpo del potere magico. _Quali visioni di fallimenti passati ti tormentano mentre i tuoi sforzi non bastano? Come vengono distorti questi ricordi dall'Usurpatore?_

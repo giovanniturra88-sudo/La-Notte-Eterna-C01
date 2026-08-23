@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Frostborne
 
-Being part of a frostborne community means you're accustomed to life in frozen wastelands, icy tundra, and regions perpetually shrouded in winter's grasp. Your people have adapted to endure bitter cold, scarcity, and the crushing weight of snow and ice. Frostborne communities are tightly-knit, surviving through cooperation, shared labor, and deep respect for those who can brave the harsh elements. Members of a frostborne community possess an inner resilience that allows them to withstand not only physical hardship but also the psychological toll of endless cold and darkness.
+Far parte di una comunità frostborne significa essere abituati alla vita in terre selvagge ghiacciate, tundre gelide e regioni perennemente avvolte dalla morsa dell'inverno. La tua gente si è adattata a sopportare il freddo pungente, la scarsità e il peso schiacciante di neve e ghiaccio. Le comunità frostborne sono molto unite e sopravvivono grazie alla cooperazione, al lavoro condiviso e al profondo rispetto per coloro che sanno affrontare gli elementi più duri. I membri di una comunità frostborne possiedono una resilienza interiore che consente loro di resistere non solo alle difficoltà fisiche, ma anche al tributo psicologico del freddo e dell'oscurità senza fine.
 
-_Frostborne are often enduring, grim, disciplined, loyal, austere, and resolute._
+_I Frostborne sono spesso tenaci, cupi, disciplinati, leali, austeri e risoluti._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Cold Resistance:_** You have advantage on rolls to resist extreme cold effects, survive in frozen environments, and endure conditions that would overwhelm the unprepared.
+**_Resistenza al Freddo:_** Hai vantaggio sui tiri per resistere agli effetti del freddo estremo, sopravvivere in ambienti ghiacciati e sopportare condizioni che sopraffarebbero gli impreparati.

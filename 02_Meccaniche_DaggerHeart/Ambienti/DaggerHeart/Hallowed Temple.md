@@ -3,25 +3,25 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Hallowed Temple
+# Tempio Consacrato
 
-**_Tier 2 Social._** _A bustling but well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph._
+**_Sociale di Tier 2.**_ _Un tempio vivace ma ben tenuto che offre guarigioni e ospita funzioni regolari, sorvegliato da un sacerdote o da un serafino._
 
-- **Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
-- **Difficulty:** 13
-- **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
+- **Impulsi:** Connettere il Regno Mortale con i Sacri Cieli, mostrare il potere del divino, offrire aiuto e conforto ai fedeli
+- **Difficoltà:** 13
+- **Avversari Potenziali:** Guardie (Guardia Arciere, Guardia con Lama, Capo delle Guardie)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_A Place of Healing - Passive:_** A PC who takes a rest in the Hallowed Temple automatically clears all HP. _What does the incense smell like? What kinds of songs do the acolytes sing?_
+**_Un Luogo di Guarigione - Passiva:_** Un PG che riposa nel Tempio Consacrato recupera automaticamente tutti i Punti Ferita. _Che profumo ha l'incenso? Che tipo di canti intonano gli accoliti?_
 
-**_Divine Guidance - Passive:_** A PC who prays to a deity while in the Hallowed Temple can make an Instinct Roll to receive answers. If the god they beseech isn't welcome in this temple, the roll is made with disadvantage. _What does it feel like as you are touched by this vision? What feeling lingers after the images have passed?_
+**_Guida Divina - Passiva:_** Un PG che prega una divinità mentre si trova nel Tempio Consacrato può effettuare un Tiro di Istinto per ricevere risposte. Se la divinità a cui si rivolgono non è gradita in questo tempio, il tiro viene effettuato con svantaggio. _Cosa provi quando questa visione ti tocca? Quale sensazione rimane dopo che le immagini sono svanite?_
 
-- **Critical Success:** The PC gains clear information. Additionally, they gain **1d4** Hope, which can be distributed between the party if they share the vision and guidance they received.
-- **Success with Hope:** The PC receives clear information.
-- **Success with Fear:** The PC receives brief flashes of insight and an emotional impression conveying an answer.
-- **Any Failure:** The PC receives only vague flashes. They can mark a Stress to receive one clear image without context.
+- **Successo Critico:** il PG ottiene informazioni chiare. Inoltre, ottiene **1d4** Speranze, che possono essere distribuite tra il gruppo se condivide la visione e la guida ricevute.
+- **Successo con Speranza:** il PG riceve informazioni chiare.
+- **Successo con Paura:** il PG riceve brevi lampi di intuizione e un'impressione emotiva che trasmette una risposta.
+- **Qualsiasi Fallimento:** il PG riceve solo vaghi lampi. Può segnare uno Stress per ricevere un'immagine nitida priva di contesto.
 
-**_Relentless Hope - Reaction:_** Once per scene, each PC can mark a Stress to turn a result with Fear into a result with Hope. _What emotions or memories do you connect with when fear presses in?_
+**_Speranza Incessante - Reazione:_** Una volta per scena, ogni PG può segnare uno Stress per trasformare un risultato con Paura in un risultato con Speranza. _A quali emozioni o ricordi ti colleghi quando la paura incalza?_
 
-**_Divine Censure - Reaction:_** When the PCs have trespassed, blasphemed, or off ended the clergy, you can **spend a Fear** to summon a High Seraph and **1d4** Bladed Guards within Close range of the senior priest to reinforce their will. _What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?_
+**_Censura Divina - Reazione:_** Quando i PG hanno violato il tempio, bestemmiato o offeso il clero, puoi **spendere una Paura** per evocare un Alto Serafino e **1d4** Guardie con Lama entro portata Vicina dal sacerdote anziano per imporre la loro volontà. _Quali simboli o icone portano a segnalare che sono agenti consacrati della divinità? Chi guida il gruppo e cosa l'ha portato a questa vocazione?_

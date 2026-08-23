@@ -3,7 +3,7 @@
 ---
 
 ### Benedizione del Devastatore
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** 10 minuti (Preparazione)
 * **Gittata:** Contatto
@@ -21,7 +21,7 @@ Preparti un elisir titanico. Quando una creatura beva il composto, subisce una t
 ---
 
 ### Circolo di Stelle
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 10 minuti
 * **Gittata:** Zona Lontana
@@ -37,7 +37,7 @@ Evochi un numero di stelle fluttuanti pari al tuo valore di **Conoscenza** o **P
 ---
 
 ### Esplosione di Morte
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 4 Speranza
 * **Tempo di Esecuzione:** 16 ore (Rituale oscuro)
 * **Gittata:** Zona Molto Lontana (Vasta Area)

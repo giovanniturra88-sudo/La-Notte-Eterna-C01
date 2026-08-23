@@ -33,7 +33,7 @@ Quando sconfiggi un nemico di taglia Grande o superiore, o un avversario partico
 ## Caratteristiche di Maestria
 
 ### Capitano del Gonfalone Azzurro
-La tua autorità protegge l'equipaggio nel mezzo della tempesta. Come reazione, quando un alleato entro portata Vicina sta per subire danni fisici o magici che lo porterebbero a marcare uno o più Punti Ferita, puoi spendere **2 Gettoni Marea o 1 Speranza** per frapporti fisicamente. Assorbi il colpo al suo posto, dimezzando il danno finale prima di applicarvi la tua Armatura Attiva.
+La tua autorità protegge l'equipaggio nel mezzo della tempesta. Quando un alleato entro portata Vicina sta per subire danni fisici o magici che lo porterebbero a marcare uno o più Punti Ferita, puoi spendere **2 Gettoni Marea o 1 Speranza** per frapporti fisicamente. Assorbi il colpo al suo posto, dimezzando il danno finale prima di applicarvi il tuo Punteggio Armatura.
 
 ---
 

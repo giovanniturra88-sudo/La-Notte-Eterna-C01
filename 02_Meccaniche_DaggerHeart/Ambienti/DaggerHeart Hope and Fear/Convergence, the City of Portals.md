@@ -3,26 +3,26 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Convergence, the City of Portals
+# Convergenza, la Città dei Portali
 
-**_Tier 4 Social._** _A sprawling metropolis at the nexus of creation, where influential figures from across the realms gather._
+**_Tier 4 Sociale.** _Una metropoli sconfinata al crocevia della creazione, dove si radunano figure influenti provenienti da tutti i reami._
 
-- **Impulses:** Confront them with alien customs, dazzle them with infinite variety, tempt them with the impossible
-- **Difficulty:** 20
-- **Potential Adversaries:** Power Players (Arch-Necromancer, Demon Lord Berzug, Fire Titan Warlord, High Seraph, Monarch, Oracle of Doom, Vampire Lord), Travelers and Residents (Any)
+- **Impulsi:** Metterli di fronte a costumi alieni, abbagliarli con una varietà infinita, tentarli con l'impossibile
+- **Difficoltà:** 20
+- **Avversari Potenziali:** Grandi Manovratori (Archi-Necromante, Signore Demone Berzug, Signore della Guerra Titano del Fuoco, Alto Serafino, Monarca, Oracolo della Sventura, Signore Vampiro), Viaggiatori e Residenti (Qualsiasi)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Impossibilities Abound - Passive:_** Convergence is a nexus of gods, monsters, aliens, and all manner of dimension-hoppers. Because mortal life is generally beneath these beings' concern, PCs have disadvantage on action rolls to influence them unless they have leverage against them or know what the NPC cares about. _What manner of being currently holds sway in the city? What strange customs do they practice? Which PC is most confused or offended by them, and which PC adopts these customs as their own?_
+**_Impossibilità Ovunque - Passiva:** Convergenza è un crocevia di dei, mostri, alieni e ogni sorta di saltatore di dimensioni. Poiché la vita mortale è generalmente al di sotto dell'interesse di questi esseri, i PG subiscono svantaggio sui tiri d'azione per influenzarli, a meno che non abbiano una leva su di loro o non sappiano ciò a cui il PNG tiene. _Che tipo di essere detiene attualmente il potere in città? Quali strani costumi praticano? Quale PG è più confuso o offeso da essi, e quale PG fa propri questi costumi?_
 
-**_Into the Multiverse - Passive:_** The city of Convergence has a portal or door to every realm of existence. _Where (or when) does the party want to go? Where is that portal located, and who controls that area?_
+**_Nel Multiverso - Passiva:** La città di Convergenza ha un portale o una porta verso ogni reame dell'esistenza. _Dove (o quando) vuole andare il gruppo? Dove si trova quel portale, e chi controlla quella zona?_
 
-**_Infinite Inventory - Passive:_** This city has the solution to any problem, if you can find it. A PC seeking a particular item with wondrous properties can make an Instinct or Presence Roll to find it in the city's pandemonium marketplace.
-- **Critical Success:** The PC finds the perfect item, and the merchant who has it only wants something the PC considers inconsequential in exchange.
-- **Success with Hope:** The PC finds the perfect item and can exchange something of equal value for it.
-- **Success with Fear:** The PC finds the perfect item, but the merchant who has it will only exchange it for something the party can't give them... yet.
-- **Any Failure:** The PC must mark a Stress as they go on a wild goose chase but come up empty-handed. The PC can mark an additional Stress to change this result into a success with Fear. _Who has the item the party needs? What do they want in return?_
+**_Inventario Infinito - Passiva:** Questa città ha la soluzione a qualsiasi problema, se riesci a trovarla. Un PG in cerca di un particolare oggetto dalle proprietà meravigliose può effettuare un Tiro di Istinto o Presenza per trovarlo nel pandemonio del mercato cittadino.
+- **Successo Critico:** Il PG trova l'oggetto perfetto, e il mercante che lo possiede vuole in cambio solo qualcosa che il PG considera di poco conto.
+- **Successo con Speranza:** Il PG trova l'oggetto perfetto e può scambiarlo con qualcosa di pari valore.
+- **Successo con Paura:** Il PG trova l'oggetto perfetto, ma il mercante che lo possiede lo scambierà solo con qualcosa che il gruppo non può dargli... per ora.
+- **Qualsiasi Fallimento:** Il PG deve segnare uno Stress mentre va a caccia di un'oca selvatica per poi tornare a mani vuote. Il PG può segnare uno Stress aggiuntivo per trasformare questo risultato in un successo con Paura. _Chi ha l'oggetto di cui il gruppo ha bisogno? Cosa vogliono in cambio?_
 
-**_Don't Make Waves - Passive:_** Countdown (6). Because anything is possible in Convergence, the city maintains a labyrinthine bureaucracy that issues and enforces ordinances regarding all exchanges and interactions between the realms. When the party arrives in Convergence, activate the countdown. It ticks down when a PC does something that upsets the city's delicate political equilibrium. When it triggers, the PCs become _Wanted_ until they clear their names with the authorities. When a _Wanted_ PC rolls with Fear, you can summon 1d4 Temporal Enforcers who appear within Very Close range, immediately take the spotlight, and try to apprehend the party. _What has the party done (or what do they plan to do) that draws the attention and ire of the city officials? How can they fix the problem they caused?_
+**_Non Fare Onde - Passiva:** Conto alla Rovescia (6). Poiché a Convergenza tutto è possibile, la città mantiene una burocrazia labirintica che emana e fa rispettare ordinanze riguardanti tutti gli scambi e le interazioni tra i reami. Quando il gruppo arriva a Convergenza, attiva il conto alla rovescia. Scorre quando un PG fa qualcosa che sconvolge il delicato equilibrio politico della città. Quando scatta, i PG diventano *Ricercati* finché non riabilitano il proprio nome presso le autorità. Quando un PG *Ricercato* tira con Paura, puoi evocare 1d4 Agenti Temporali che compaiono entro portata Molto Vicina, prendono immediatamente i riflettori e cercano di arrestare il gruppo. _Cosa ha fatto il gruppo (o cosa progetta di fare) che attira l'attenzione e le ire dei funzionari cittadini? Come possono rimediare al problema che hanno causato?_
 
-**_An Offer You Can't Refuse - Action:_** Convergence is home to a tenuous network of rival factions. Spend a Fear to have one of them present the party with an easy solution to a difficult problem in exchange for their allegiance. If the party refuses, each PC must mark a Stress, and they can't turn to that faction for help in the future. _Which faction offers the party their support? Who do they want the party to act against?_
+**_Un'Offerta che Non Puoi Rifiutare - Azione:** Convergenza ospita una rete precaria di fazioni rivali. Spendi una Paura per far sì che una di esse presenti al gruppo una soluzione facile a un problema difficile in cambio della loro alleanza. Se il gruppo rifiuta, ogni PG deve segnare uno Stress e non potrà rivolgersi a quella fazione per chiedere aiuto in futuro. _Quale fazione offre il proprio sostegno al gruppo? Contro chi vogliono che il gruppo agisca?_

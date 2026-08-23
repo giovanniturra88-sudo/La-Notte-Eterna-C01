@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Time Court
+# Corte del Tempo
 
-**_Tier 4 Event._** _One or more PCs are forcibly plucked from the timeline and put on trial for crimes against continuity._
+**_Tier 4 Evento.** _Uno o più PG vengono strappati con la forza dalla linea temporale e messi sotto processo per crimini contro la continuità._
 
-- **Impulses:** Find the truth, mete out justice, nullify their powers
-- **Difficulty:** 20
-- **Potential Adversaries:** Judge (Monarch), Jury (Hallowed Choir), Executioners (Temporal Enforcers)
+- **Impulsi:** Trovare la verità, amministrare la giustizia, annullare i loro poteri
+- **Difficoltà:** 20
+- **Avversari Potenziali:** Giudice (Monarca), Giuria (Coro Sacro), Boia (Agenti Temporali)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Out of Time - Passive:_** The trial takes place in a pocket dimension that exists beyond the influence of the other realms. While here, PCs can't use their features and abilities. Each player must put their Domain cards in their vault. _What besides the courtroom resides in this pocket dimension? What powers maintain the universal barrier protecting this place?_
+**_Fuori dal Tempo - Passiva:** Il processo si svolge in una dimensione tascabile che esiste al di là dell'influenza degli altri reami. Mentre si trovano qui, i PG non possono usare le loro caratteristiche e capacità. Ogni giocatore deve mettere le proprie carte Dominio nel proprio vault. _Cosa altro risiede in questa dimensione tascabile oltre all'aula? Quali poteri mantengono la barriera universale che protegge questo luogo?_
 
-**_Trial by Jury - Passive:_** At the end of the proceedings, a jury votes whether to acquit or convict the party. When the court is called to order, have the prosecution present its case against the PCs and start a Countdown (9). It ticks down when a PC makes an action roll. When it triggers, the PCs and GM roll their Judgment Dice. If the party's total result meets or exceeds the GM's, the jury acquits them. _Which PCs are put on trial? What are they accused of? What potential penalties would a guilty verdict bring?_
+**_Processo con Giuria - Passiva:** Alla fine del dibattimento, una giuria vota se assolvere o condannare il gruppo. Quando la corte viene dichiarata in seduta, fai presentare all'accusa il suo caso contro i PG e avvia un Conto alla Rovescia (9). Scorre quando un PG effettua un tiro d'azione. Quando scatta, i PG e il GM tirano i loro Dadi di Giudizio. Se il risultato totale del gruppo è pari o superiore a quello del GM, la giuria li assolve. _Quali PG vengono messi sotto processo? Di cosa sono accusati? Quali potenziali penalità comporterebbe una sentenza di colpevolezza?_
 
-**_Counsel for the Defense - Passive:_** A PC can make an action roll to argue for their innocence (such as a Knowledge Roll to interpret the letter of the law, a Presence Roll to play on the jury's emotions, or an Instinct Roll to point out holes in the prosecution's case). On a success, the party gains a d6 Judgment Die. On a critical success, they gain two. On a failure, the prosecution rebuts the PC's argument, and you gain a d6 Judgment Die. _What is the weakest part of the prosecution's case? What is the strongest part of the party's defense?_
+**_La Difesa - Passiva:** Un PG può effettuare un tiro d'azione per perorare la propria innocenza (come un Tiro di Conoscenza per interpretare la lettera della legge, un Tiro di Presenza per giocare sulle emozioni della giuria o un Tiro di Istinto per evidenziare le falle del caso dell'accusa). Su un successo, il gruppo ottiene un Dado di Giudizio d6. Su un successo critico, ne ottiene due. Su un fallimento, l'accusa confuta l'argomentazione del PG e ottieni un Dado di Giudizio d6. _Qual è il punto più debole del caso dell'accusa? Qual è il punto più forte della difesa del gruppo?_
 
-**_Counsel for the Prosecution - Action:_** The prosecution introduces a damning piece of evidence (such as an eyewitness testimony, test results, or a physical exhibit taken from the scene of the crime), and you gain a d6 Judgment Die. A PC can mark a Stress to attempt a rebuttal of the evidence with a Knowledge, Instinct, or Presence Reaction Roll. On a success, the party gains the Judgment Die instead of you. On a failure, you gain an additional d6 Judgment Die. _Who leads the prosecution, and what is their relationship to the Time Council? What magic or technology does this court rely on to present and record evidence?_
+**_L'Accusa - Azione:** L'accusa presenta un elemento di prova dannoso (come la testimonianza di un testimone oculare, i risultati di un test o un reperto fisico prelevato dalla scena del crimine) e ottieni un Dado di Giudizio d6. Un PG può segnare uno Stress per tentare una confutazione delle prove con un Tiro di Reazione di Conoscenza, Istinto o Presenza. Su un successo, il gruppo ottiene il Dado di Giudizio al posto tuo. Su un fallimento, ottieni un Dado di Giudizio d6 aggiuntivo. _Chi guida l'accusa, e qual è il suo rapporto con il Consiglio Temporale? Quale magia o tecnologia usa questa corte per presentare e registrare le prove?_
 
-**_"Order in the Court!" - Reaction:_** When the PCs attempt to escape or end the trial through force, summon a number of Temporal Enforcers equal to the number of PCs in the scene within Close range and immediately spotlight one. _Is this court's authority worthy of respect? What besides the might of the Time Council and its enforcers justifies their control over the timeline?_
+**_"Ordine in Aula!" - Reazione:** Quando i PG tentano di fuggire o porre fine al processo con la forza, evoca un numero di Agenti Temporali pari al numero di PG nella scena entro portata Vicina e mettine immediatamente uno sotto i riflettori. _L'autorità di questa corte merita rispetto? Cosa, oltre alla potenza del Consiglio Temporale e dei suoi agenti, giustifica il loro controllo sulla linea temporale?_

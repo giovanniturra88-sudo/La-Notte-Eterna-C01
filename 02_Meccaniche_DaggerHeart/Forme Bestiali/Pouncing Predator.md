@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Pouncing Predator
+# Predatore Balzante
 
-**_Tier 2_** _(Cheetah, Lion, Panther, etc.)_
+**_Tier 2_** _(Ghepardo, Leone, Pantera, ecc.)_
 
-- **Trait Bonus:** Instinct +1
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Instinct d8+6 phy
-- **Advantages:** attack, climb, sneak
+- **Bonus di Tratto:** Istinto +1
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Istinto d8+6 fisici
+- **Vantaggi:** attaccare, arrampicarsi, intrufolarsi
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Fleet:_** **Spend a Hope** to move up to Far range without rolling.
+**_Scatto:_** **Spendi una Speranza** per spostarti fino a portata Lontana senza tirare.
 
-**_Takedown:_** **Mark a Stress** to move into Melee range of a target and make an attack roll against them. On a success, you gain a +2 bonus to your Proficiency for this attack and the target must mark a Stress.
+**_Atterramento:_** **Segna uno Stress** per spostarti in portata di mischia di un bersaglio ed effettuare un tiro di attacco contro di esso. In caso di successo, ottieni un bonus di +2 alla tua Competenza per questo attacco e il bersaglio deve segnare uno Stress.

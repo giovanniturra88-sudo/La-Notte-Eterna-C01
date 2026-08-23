@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Wanderborne
 
-Being part of a wanderborne community means you've lived as a nomad, forgoing a permanent home and experiencing a wide variety of cultures. Unlike many communities that are defined by their locale, wanderborne are defined by their traveling lifestyle. Because of their frequent migration, wanderborne put less value on the accumulation of material possessions in favor of acquiring information, skills, and connections. While some wanderborne are allied by a common ethos, such as a religion or a set of political or economic values, others come together after shared tragedy, such as the loss of their home or land. No matter the reason, the dangers posed by life on the road and the choice to continue down that road together mean that wanderborne are known for their unwavering loyalty.
+Far parte di una comunità wanderborne significa aver vissuto da nomade, rinunciando a una casa permanente e facendo esperienza di un'ampia varietà di culture. A differenza di molte comunità definite dal loro territorio, i Wanderborne sono definiti dal loro stile di vita itinerante. A causa delle loro frequenti migrazioni, i Wanderborne attribuiscono meno valore all'accumulo di beni materiali, prediligendo l'acquisizione di informazioni, abilità e relazioni. Mentre alcuni Wanderborne sono uniti da un ethos comune, come una religione o un insieme di valori politici o economici, altri si riuniscono dopo una tragedia condivisa, come la perdita della propria casa o della propria terra. Qualunque sia la ragione, i pericoli della vita sulla strada e la scelta di continuare su quella strada insieme fanno sì che i Wanderborne siano noti per la loro lealtà incrollabile.
 
-_Wanderborne are often inscrutable, magnanimous, mirthful, reliable, savvy, and unorthodox._
+_I Wanderborne sono spesso imperscrutabili, magnanimi, gioviali, affidabili, accorti e anticonformisti._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Nomadic Pack:_** Add a Nomadic Pack to your inventory. Once per session, you can **spend a Hope** to reach into this pack and pull out a mundane item that's useful to your situation. Work with the GM to figure out what item you take out.
+**_Zaino Nomade:_** Aggiungi uno Zaino Nomade al tuo inventario. Una volta per sessione, puoi **spendere una Speranza** per frugare in questo zaino ed estrarre un oggetto comune utile alla tua situazione. Concorda con il GM quale oggetto estrai.

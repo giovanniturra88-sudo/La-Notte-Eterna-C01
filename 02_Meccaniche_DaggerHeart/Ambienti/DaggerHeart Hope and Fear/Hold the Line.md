@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Hold the Line
+# Mantenete la Linea
 
-**_Tier 1 Event._** _The party must fend off multiple waves of enemies long enough for an ally to complete an important objective._
+**_Tier 1 Evento.** _Il gruppo deve respingere più ondate di nemici per tutto il tempo necessario a un alleato per completare un obiettivo importante._
 
-- **Impulses:** Crash waves of enemies upon the party's shores, never let them breathe, target their charge
-- **Difficulty:** 11
-- **Potential Adversaries:** Guards, Jagged Knives, Pirates, Skeletons, Zombies
+- **Impulsi:** Scagliare ondate di nemici contro le rive del gruppo, non lasciarli mai respirare, prendere di mira il loro protetto
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Guardie, Coltelli Frastagliati, Pirati, Scheletri, Zombie
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Bodyguards - Passive:_** The PCs must protect an NPC (their "Charge") long enough for the Charge to complete a task, such as finishing a magical ritual or repairing a mechanical device. At the start of the scene, activate a Task Countdown with a value equal to the number of PCs in the scene. It ticks down when the PCs defeat a wave of adversaries. When it triggers, the Charge completes their task. _Who are the PCs protecting, and what is the Charge trying to do? Who wants to stop them? What will happen if the Charge isn't able to complete their task?_
+**_Guardie del Corpo - Passiva:** I PG devono proteggere un PNG (il loro "Protetto") per tutto il tempo necessario al Protetto per completare un compito, come portare a termine un rituale magico o riparare un congegno meccanico. All'inizio della scena, attiva un Conto alla Rovescia del Compito con un valore pari al numero di PG nella scena. Scorre quando i PG sconfiggono un'ondata di avversari. Quando scatta, il Protetto completa il suo compito. _Chi stanno proteggendo i PG, e cosa sta cercando di fare il Protetto? Chi vuole fermarli? Cosa succederà se il Protetto non riesce a completare il suo compito?_
 
-**_"I Must Not Fail!" - Passive:_** When the first wave of adversaries appears, place a Resolve Countdown next to the Charge with a value equal to the number of PCs in the scene. When an adversary makes an attack against the Charge, the attack automatically succeeds and ticks down the Resolve Countdown. When it triggers, the Charge either flees, dies, or becomes incapacitated. _Why is this task so important to the Charge? What has the power to break their resolve?_
+**_"Non Devo Fallire!" - Passiva:** Quando appare la prima ondata di avversari, posiziona un Conto alla Rovescia della Determinazione accanto al Protetto con un valore pari al numero di PG nella scena. Quando un avversario effettua un attacco contro il Protetto, l'attacco riesce automaticamente e fa scorrere il Conto alla Rovescia della Determinazione. Quando scatta, il Protetto fugge, muore o viene incapacitato. _Perché questo compito è così importante per il Protetto? Cosa ha il potere di spezzare la sua determinazione?_
 
-**_Swarming Multitudes - Passive:_** All adversaries gain the "Relentless (2)" feature: They can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _Where does these foes' newfound power come from? Is there any way to cut them off from it?_
+**_Moltitudini Sciamanti - Passiva:** Tutti gli avversari ottengono la caratteristica "Implacabile (2)": possono essere messi sotto i riflettori fino a due volte per turno del GM. Spendi Paura come di consueto per metterli sotto i riflettori. _Da dove viene il nuovo potere di questi nemici? C'è un modo per tagliarli fuori da esso?_
 
-**_Waves upon Waves - Reaction:_** When there are no adversaries in the scene, summon a wave of adversaries at Far range from the Charge. Each wave comprises two Tier 1 Minions for each PC in the scene. _Where do these adversaries come from? Who leads them from the shadows?_
+**_Onde su Onde - Reazione:** Quando non ci sono avversari nella scena, evoca un'ondata di avversari a portata Lontana dal Protetto. Ogni ondata è composta da due Minion di Tier 1 per ogni PG nella scena. _Da dove vengono questi avversari? Chi li guida dalle ombre?_

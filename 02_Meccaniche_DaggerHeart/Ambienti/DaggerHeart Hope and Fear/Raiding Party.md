@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Raiding Party
+# Incursione dei Pirati
 
-**_Tier 1 Event._** _A pirate ship disgorges its crew into a port town or shoreline village to loot and plunder._
+**_Tier 1 Evento.** _Una nave pirata riversa il suo equipaggio in una città portuale o in un villaggio costiero per saccheggiare e depredare._
 
-- **Impulses:** Light it on fire, overwhelm with speed and numbers, take everything that isn't nailed down
-- **Difficulty:** 11
-- **Potential Adversaries:** Ship's Crew (Pirate Captain, Pirate Raiders, Pirate Tough)
+- **Impulsi:** Appiccare il fuoco, sopraffare con velocità e numero, portare via tutto ciò che non è inchiodato
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Equipaggio della Nave (Capitano Pirata, Predoni Pirati, Pirata Duro)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Rally the Locals - Passive:_** Progress Countdown (5). When the pirates first appear, activate the countdown. It ticks down when a PC succeeds on an action roll to stem the chaos and destruction of the pirate raid. When it triggers, the locals become inspired by the party's actions and join the fight against the pirates. Each PC gains a d6 Morale Die, which they can spend to add to an action, reaction, or damage roll. _How do the pirates threaten or endanger the town besides attacking its inhabitants? What defenses can the PCs take advantage of?_
+**_Raduna i Locali - Passiva:** Conto alla Rovescia di Progresso (5). Quando i pirati compaiono per la prima volta, attiva il conto alla rovescia. Scorre quando un PG riesce in un tiro d'azione per arginare il caos e la distruzione dell'incursione piratesca. Quando scatta, i locali vengono ispirati dalle azioni del gruppo e si uniscono alla lotta contro i pirati. Ogni PG ottiene un Dado del Morale d6, che può spendere per aggiungersi a un tiro d'azione, di reazione o di danno. _In che modo i pirati minacciano o mettono in pericolo la città oltre ad attaccare i suoi abitanti? Di quali difese possono approfittare i PG?_
 
-**_Parley - Passive:_** On a successful Knowledge Roll, a PC knows enough pirate law to demand a parley with the Pirate Captain. Once the parley is issued, the captain pauses the combat to allow a PC to sue for peace or negotiate the terms of surrender with a Presence Roll. _Why do these pirates respect this captain enough to follow them? What do they care about more than ill-gotten booty?_
+**_Trattativa - Passiva:** Su un Tiro di Conoscenza riuscito, un PG conosce abbastanza il codice dei pirati da poter esigere una trattativa con il Capitano Pirata. Una volta richiesta la trattativa, il capitano sospende il combattimento per permettere a un PG di chiedere la pace o negoziare le condizioni di resa con un Tiro di Presenza. _Perché questi pirati rispettano abbastanza questo capitano da seguirlo? A cosa tengono più che al bottino mal acquistato?_
 
-**_"Fire the Cannons!" - Action:_** **Spend up to 3 Fear** to have the pirate ship fire its cannons into the combat. For each Fear spent, choose a point anywhere on the battlefield. Each PC within Close range of one or more of those points must make an Agility Reaction Roll. Targets who fail take 1d8+3 physical damage. Targets who succeed must mark a Stress or take half damage. _What collateral damage do these cannonballs cause? Whose lives do they wantonly endanger?_
+**_"Fuoco con i Cannoni!" - Azione:** **Spendi fino a 3 Paura** per far sì che la nave pirata faccia fuoco con i suoi cannoni sul combattimento. Per ogni Paura spesa, scegli un punto in qualsiasi posto sul campo di battaglia. Ogni PG entro portata Vicina da uno o più di quei punti deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 1d8+3 danni fisici. I bersagli che riescono devono segnare uno Stress o subire metà danno. _Quali danni collaterali causano queste palle di cannone? Quali vite mettono sconsideratamente in pericolo?_
 
-**_Take Captives - Reaction:_** When a number of pirates equal to the number of PCs in the scene are defeated, roll a d6. On a result of 5 or 6, the pirates change tactics, capturing locals and retreating to the ship so they can ransom the captives later. Activate a Consequence Countdown (4). It ticks down when a PC makes an action roll. When it triggers, the pirates sail away with their victims. _Who do the pirates deem the best captives, and why? What do they want in exchange for the captives' return?_
+**_Cattura dei Prigionieri - Reazione:** Quando vengono sconfitti un numero di pirati pari al numero di PG nella scena, tira un d6. Su un risultato di 5 o 6, i pirati cambiano tattica, catturano dei locali e si ritirano sulla nave per poter riscattare in seguito i prigionieri. Attiva un Conto alla Rovescia di Conseguenza (4). Scorre quando un PG effettua un tiro d'azione. Quando scatta, i pirati salpano con le loro vittime. _Chi ritengono i pirati i migliori prigionieri, e perché? Cosa vogliono in cambio della restituzione dei prigionieri?_

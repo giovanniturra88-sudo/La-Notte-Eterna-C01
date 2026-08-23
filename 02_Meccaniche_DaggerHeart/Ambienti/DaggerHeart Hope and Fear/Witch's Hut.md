@@ -3,23 +3,23 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Witch's Hut
+# Capanna della Strega
 
-**_Tier 2 Exploration._** _A rustic, windowless hut sitting atop two huge chicken legs._
+**_Tier 2 Esplorazione.** _Una capanna rustica senza finestre, in equilibrio su due enormi zampe di gallina._
 
-- **Impulses:** Creep them out, delay them until the witch's return, lock them inside, move to a different location, tempt them with magical oddities
-- **Difficulty:** 14
-- **Potential Adversaries:** Chicken-Foot Hut, Enchanted Defenses (Grotesque, Ravenous Mockery, Scarecrow), Valdenhax, The Witch's Victims (Jack-o'-Lanterns, Redcap Biters)
+- **Impulsi:** Mettere i brividi, trattenerli fino al ritorno della strega, chiuderli dentro, spostarsi in un luogo diverso, tentarli con stranezze magiche
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Capanna dai Piedi di Pollo, Difese Incantate (Grottesco, Beffa Vorace, Spaventapasseri), Valdenhax, Vittime della Strega (Zucche Lanterne, Morditori dal Berretto Rosso)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Bigger on the Inside - Passive:_** Though the hut's exterior is a rustic single-room cottage, the interior is an ever-shifting estate of haunting splendor replete with numerous bedrooms, libraries, and indoor gardens, among other mysterious installations. _Is there any pattern to the way the hut rearranges itself? What is the most surprising location the PCs could find here?_
+**_Più Grande Dentro - Passiva:** Sebbene l'esterno della capanna sia un rustico cottage di una sola stanza, l'interno è una tenuta in continua metamorfosi di splendore inquietante, piena di numerose camere da letto, biblioteche e giardini interni, tra le altre misteriose installazioni. _C'è uno schema nel modo in cui la capanna si riorganizza? Qual è il luogo più sorprendente che i PG potrebbero trovare qui?_
 
-**_Creepy Doll Collection - Passive:_** Countdown (5). Throughout the hut, the PCs can see many, many porcelain or wooden dolls with strangely lifelike eyes. When the party first enters a doll's line of sight, activate the countdown. It ticks down when a PC fails a roll or rolls with Fear. When it triggers, the dolls come to life and attack. Summon a number of living dolls (Redcap Biters) equal to twice the number of PCs. _Who were these dolls before? Is there any way to free them from their imprisonment?_
+**_Collezione di Bambole Inquietanti - Passiva:** Conto alla Rovescia (5). In tutta la capanna, i PG possono vedere moltissime bambole di porcellana o di legno con occhi stranamente realistici. Quando il gruppo entra per la prima volta nella linea visiva di una bambola, attiva il conto alla rovescia. Scorre quando un PG fallisce un tiro o tira con Paura. Quando scatta, le bambole prendono vita e attaccano. Evoca un numero di bambole viventi (Morditori dal Berretto Rosso) pari al doppio del numero di PG. _Chi erano queste bambole prima? C'è un modo per liberarle dalla loro prigionia?_
 
-**_Witches' Brew - Passive:_** The hut contains a workshop with every tool or component a witch could need, including a large iron cauldron set atop a smoldering fire. A PC who wants to use the workshop can make a Spellcast Roll to craft a magic potion or poison from the Consumables table.
-- **Any Failure:** The experiment blows up in their faceâ€”literally. The PC takes 2d10+2 magic damage.
-- **Any Success:** The PC rolls a number of d12s equal to 1 + their tier, adds the results together, and gains the consumable that matches that value on the Consumables table. If they critically succeeded, they can reroll any d12s showing a result of 1.
-_What sorts of concoctions does the witch who owns this hut specialize in? What would the witch do if they found the PCs using their things?_
+**_Intruglio della Strega - Passiva:** La capanna contiene un laboratorio con ogni strumento o componente di cui una strega potrebbe avere bisogno, incluso un grande calderone di ferro posto su un fuoco fumante. Un PG che vuole usare il laboratorio può effettuare un Tiro per Lanciare Incantesimi per fabbricare una pozione magica o un veleno dalla tabella Consumabili.
+- **Qualsiasi Fallimento:** L'esperimento esplode in loro faccia — letteralmente. Il PG subisce 2d10+2 danni magici.
+- **Qualsiasi Successo:** Il PG tira un numero di d12 pari a 1 + il loro Tier, somma i risultati e ottiene il consumabile che corrisponde a quel valore sulla tabella Consumabili. Se ha ottenuto un successo critico, può rilanciare i d12 che mostrano un risultato di 1.
+_Quali tipi di intrugli prepara di solito la strega proprietaria di questa capanna? Cosa farebbe la strega se trovasse i PG a usare le sue cose?_
 
-**_Dislocated - Reaction:_** Time moves differently inside the Witch's Hut. When the door to the hut is closed, roll a d6. On a result of 4 or higher, the hut moves to a differentâ€”often impossibly farâ€”location that's only revealed to the PCs when they open the hut's door again. _Why does the hut move so often? Where does it wish to bring the PCs? Is there any way to aim it at a specific location?_
+**_Dislocata - Reazione:** Il tempo scorre in modo diverso nella Capanna della Strega. Quando la porta della capanna viene chiusa, tira un d6. Su un risultato di 4 o superiore, la capanna si sposta in un luogo diverso — spesso incredibilmente lontano — che viene rivelato ai PG solo quando riaprono la porta della capanna. _Perché la capanna si sposta così spesso? Dove desidera portare i PG? C'è un modo per puntarla verso un luogo specifico?_

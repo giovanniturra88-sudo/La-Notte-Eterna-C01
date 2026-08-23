@@ -29,7 +29,7 @@ Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti
 ---
 
 ### Maestria
-**_Aura del Martirio:_** Come reazione quando un alleato entro portata Vicina sta per marcare uno o più Punti Ferita, puoi spendere 1 Stress per deviare l'attacco su di te. Tu subisci i Punti Ferita di danno al suo posto, riducibili tramite la tua Armatura.
+**_Aura del Martirio:_** Quando un alleato entro portata Vicina sta per marcare uno o più Punti Ferita, puoi spendere 1 Stress per deviare l'attacco su di te. Tu subisci i Punti Ferita di danno al suo posto, riducibili tramite il tuo Punteggio Armatura.
 
 ---
 

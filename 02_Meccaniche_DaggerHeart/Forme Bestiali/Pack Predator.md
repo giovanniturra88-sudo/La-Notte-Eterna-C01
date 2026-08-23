@@ -4,17 +4,17 @@ type:
 tier: Tier 1
 ---
 
-# Pack Predator
+# Predatore da Branco
 
-**_Tier 1_** _(Coyote, Hyena, Wolf, etc.)_
+**_Tier 1_** _(Coyote, Iena, Lupo, ecc.)_
 
-- **Trait Bonus:** Strength +2
-- **Evasion Bonus:** Evasion +1
-- **Attack:** Melee Strength d8+2 phy
-- **Advantages:** attack, sprint, track
+- **Bonus di Tratto:** Forza +2
+- **Bonus di Evasione:** Evasione +1
+- **Attacco:** Mischia Forza d8+2 fisici
+- **Vantaggi:** attaccare, scattare, rintracciare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Hobbling Strike:_** When you succeed on an attack against a target within Melee range, you can **mark a Stress** to make the target temporarily _Vulnerable_.
+**_Colpo Azzoppante:_** Quando ottieni successo su un attacco contro un bersaglio entro portata di mischia, puoi **segnare uno Stress** per rendere il bersaglio temporaneamente _Vulnerabile_.
 
-**_Pack Hunting:_** When you succeed on an attack against the same target as an ally who acts immediately before you, add a **d8** to your damage roll.
+**_Caccia in Branco:_** Quando ottieni successo su un attacco contro lo stesso bersaglio di un alleato che agisce immediatamente prima di te, aggiungi un **d8** al tuo tiro per i danni.

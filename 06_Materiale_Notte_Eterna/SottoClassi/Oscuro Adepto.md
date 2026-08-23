@@ -18,12 +18,12 @@ Chierici e cultisti devoti del semidio [[Tenebris]], che stringono patti inferna
 ---
 
 ### Fondazione
-**_Protezione Infernale:_** Ottieni resistenza permanente ai danni da Fuoco e da Veleno. Come reazione quando vieni colpito da un attacco, puoi spendere 1 Stress per essere ammantato da ombre deformi che ti concedono resistenza a tutti i danni di quell'attacco.
+**_Protezione Infernale:_** Ottieni resistenza permanente ai danni da Fuoco e da Veleno. Quando vieni colpito da un attacco, puoi spendere 1 Stress per essere ammantato da ombre deformi che ti concedono resistenza a tutti i danni di quell'attacco.
 
 ---
 
 ### Specializzazione
-**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Vicina. Devono effettuare un Tiro di Reazione di Forza contro la tua Difficoltà di Incantesimo; in caso di fallimento, sono considerati Ristretti (*Restrained*) da catene di acciaio bollente per 1 round.
+**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Vicina. Devono superare un Tiro di Reazione di Forza contro la tua Difficoltà di Incantesimo; in caso di fallimento, sono considerati Ristretti (*Restrained*) da catene di acciaio bollente per 1 round.
 **_Aguzzino Competente:_** Ottieni vantaggio permanente su tutte le prove di Intimidire.
 
 ---

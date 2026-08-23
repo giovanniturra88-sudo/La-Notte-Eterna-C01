@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Underborne
 
-Being part of an underborne community means you're from a subterranean society. Many underborne live right beneath the cities and villages of other collectives, while some live much deeper. These communities range from small family groups in burrows to massive metropolises in caverns of stone. In many locales, underborne are recognized for their incredible boldness and skill that enable great feats of architecture and engineering. Underborne are regularly hired for their bravery, as even the least daring among them has likely encountered formidable belowground beasts, and learning to dispatch such creatures is common practice amongst these societies. Because of the dangers of their environment, many underborne communities develop unique nonverbal languages that prove equally useful on the surface.
+Far parte di una comunità underborne significa provenire da una società sotterranea. Molti Underborne vivono proprio sotto le città e i villaggi di altri collettivi, mentre alcuni vivono molto più in profondità. Queste comunità spaziano da piccoli gruppi familiari in tane a immense metropoli in caverne di pietra. In molti luoghi, gli Underborne sono riconosciuti per la loro incredibile audacia e abilità, che rendono possibili grandi imprese di architettura e ingegneria. Gli Underborne sono assunti regolarmente per il loro coraggio, poiché anche i meno audaci tra loro hanno probabilmente incontrato formidabili bestie sotterranee, e imparare a sconfiggere tali creature è pratica comune in queste società. A causa dei pericoli del loro ambiente, molte comunità underborne sviluppano linguaggi non verbali unici che si rivelano ugualmente utili in superficie.
 
-_Underborne are often composed, elusive, indomitable, innovative, resourceful, and unpretentious._
+_Gli Underborne sono spesso composti, elusivi, indomabili, innovativi, ingegnosi e senza pretese._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Low-Light Living:_** When you're in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area.
+**_Vita nella Penombra:_** Quando ti trovi in un'area con poca luce o ombre profonde, hai vantaggio sui tiri per nasconderti, indagare o percepire i dettagli all'interno di quell'area.

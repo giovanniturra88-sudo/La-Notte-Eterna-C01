@@ -4,17 +4,17 @@ type:
 tier: Tier 1
 ---
 
-# Household Friend
+# Amico di Casa
 
-**_Tier 1_** _(Cat, Dog, Rabbit, etc.)_
+**_Tier 1_** _(Gatto, Cane, Coniglio, ecc.)_
 
-- **Trait Bonus:** Instinct +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Instinct d6 phy
-- **Advantages:** climb, locate, protect
+- **Bonus di Tratto:** Istinto +1
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Istinto d6 fisici
+- **Vantaggi:** arrampicarsi, localizzare, proteggere
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Companion:_** When you Help an Ally, you can roll a **d8** as your advantage die.
+**_Compagno:_** Quando Aiuti un Alleato, puoi tirare un **d8** come tuo dado di vantaggio.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+**_Fragile:_** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.

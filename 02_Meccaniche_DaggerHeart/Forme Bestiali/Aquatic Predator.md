@@ -4,17 +4,17 @@ type:
 tier: Tier 3
 ---
 
-# Aquatic Predator
+# Predatore Acquatico
 
-**_Tier 3_** _(Dolphin, Orca, Shark, etc.)_
+**_Tier 3_** _(Delfino, Orca, Squalo, ecc.)_
 
-- **Trait Bonus:** Agility +2
-- **Evasion Bonus:** Evasion +4
-- **Attack:** Melee Agility d10+6 phy
-- **Advantages:** attack, swim, track
+- **Bonus di Tratto:** Agilità +2
+- **Bonus di Evasione:** Evasione +4
+- **Attacco:** Mischia Agilità d10+6 fisici
+- **Vantaggi:** attaccare, nuotare, rintracciare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Aquatic:_** You can breathe and move naturally underwater.
+**_Acquatico:_** Puoi respirare e muoverti naturalmente sott'acqua.
 
-**_Vicious Maul:_** When you succeed on an attack against a target, you can **spend a Hope** to make them _Vulnerable_ and gain a +1 bonus to your Proficiency for this attack.
+**_Zannata Feroce:_** Quando ottieni successo su un attacco contro un bersaglio, puoi **spendere una Speranza** per renderlo _Vulnerabile_ e ottenere un bonus di +1 alla tua Competenza per questo attacco.

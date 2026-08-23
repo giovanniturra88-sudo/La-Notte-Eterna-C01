@@ -2,23 +2,23 @@
 type:
   - "[[Ambiente]]"
 ---
-# Local Festival
-*Tier 1 Social*
-*Commoners and nobles alike gather from the surrounding area for a weeklong celebration.*
+# Festival Locale
+*Tier 1 Sociale*
+*Popolani e nobili si radunano dalle zone circostanti per una celebrazione che dura una settimana.*
 
-**Impulses:** Express local culture and history, forge new relationships, reinforce community
-**Difficulty:** 11
-**Potential Adversaries:** Festival Security (*Bladed Guard, Head Guard*), Local Luminaries (*Commoner, Merchant, Petty Noble*), Sundry Ne'er-Do-Wells (*Jagged Knife Bandit, Lackey*)
+**Impulsi:** Esprimere la cultura e la storia locale, forgiare nuove relazioni, rafforzare la comunità
+**Difficoltà:** 11
+**Avversari Potenziali:** Sicurezza del Festival (*Guardia Armata di Lame, Capo delle Guardie*), Celebrità Locali (*Popolano, Mercante, Nobile Minore*), Svariati Fannulloni (*Bandito del Coltello Frastagliato, Tirapiedi*)
 
-## FEATURES
-* **Remember, Remember - Passive:** This time of year marks an important anniversary or astronomical event, such as the founding of the town or the summer solstice. On a successful Knowledge Roll, a PC can answer one of the questions below (or two, if they critically succeed). On a failure, they answer one question, but you decide which part of their answer is inaccurate and gain a Fear.
- * The festival celebrates a crop or export that is critical to the economy here. What is it?
- * Why didn't the festival happen last year?
- * This festival is similar to another one held in a neighboring region. What makes them different?
- * *What are the locals celebrating? What is the festival famous for? How did the PCs first hear about it?*
-* **Political Machinations - Passive:** While everyone is gathered in one place, the locals take the opportunity to quash feuds, drum up new business, and navigate local politics. A PC can stick their nose in the goings-on by making a Presence Roll. On a success, they make a connection to a local luminary who can give them a job, share important information, or make useful introductions. On a failure, they must mark a Stress.
- * *What new crisis is on everyone's lips? Why can't this community solve the problem on its own? What reward can they offer the PCs in exchange for their aid?*
-* **"Let the Games Begin!" - Action:** One of the festival's signature events is a sporting competition or series of games. If one or more PCs throw their hat into the ring, introduce rival competitors for them to face off against. To claim victory, the PCs must complete a Progress Countdown (5) to win events or score points before their rivals complete a Consequence Countdown (5).
- * *What skills or abilities does this competition test? What does the victor win? Why is failure not an option for the PCs or their rivals?*
-* **Legendary Local - Action:** The festival culminates in the arrival of a figure from local folklore who performs special duties for the local community, such as giving treats to children, heckling the gentry, or blessing next year's crops. If the PCs show this figure the proper deference and respect, they gain an appropriate blessing, such as a cryptic prophecy or a magical trinket, and gain 1d4 Hope to distribute among the party. If they insult the figure, they take 1d6+2 magic damage as the figure curses them, and you gain a Fear.
- * *Is this a singular entity or a mantle passed from person to person? What distinctive form do they possess? What is the source of their power to grant boons and banes?*
+## CARATTERISTICHE
+* **Ricorda, Ricorda - Passiva:** Questo periodo dell'anno segna un importante anniversario o evento astronomico, come la fondazione della città o il solstizio d'estate. Su un Tiro di Conoscenza riuscito, un PG può rispondere a una delle domande qui sotto (o a due, se ottiene un successo critico). Su un fallimento, risponde a una domanda, ma decidi tu quale parte della sua risposta è inaccurata e ottieni una Paura.
+ * Il festival celebra un raccolto o un prodotto d'esportazione cruciale per l'economia locale. Qual è?
+ * Perché il festival non si è tenuto l'anno scorso?
+ * Questo festival è simile a un altro celebrato in una regione vicina. Cosa li rende diversi?
+ * *Cosa celebrano i locali? Per cosa è famoso il festival? Come ne hanno sentito parlare per la prima volta i PG?*
+* **Macchinazioni Politiche - Passiva:** Mentre tutti sono riuniti in un unico luogo, i locali ne approfittano per sedare faide, promuovere nuovi affari e destreggiarsi nella politica locale. Un PG può intromettersi nelle faccende in corso effettuando un Tiro di Presenza. Su un successo, stringe un contatto con una celebrità locale che può dargli un lavoro, condividere informazioni importanti o fare presentazioni utili. Su un fallimento, deve segnare uno Stress.
+ * *Quale nuova crisi è sulla bocca di tutti? Perché questa comunità non riesce a risolvere il problema da sola? Quale ricompensa possono offrire ai PG in cambio del loro aiuto?*
+* **"Che i Giochi Abbiano Inizio!" - Azione:** Uno degli eventi distintivi del festival è una competizione sportiva o una serie di giochi. Se uno o più PG gettano il guanto di sfida, introdurrai concorrenti rivali contro cui misurarsi. Per rivendicare la vittoria, i PG devono completare un Conto alla Rovescia di Progresso (5) vincendo eventi o accumulando punti prima che i loro rivali completino un Conto alla Rovescia di Conseguenza (5).
+ * *Quali abilità o capacità mette alla prova questa competizione? Cosa vince il vincitore? Perché il fallimento non è un'opzione per i PG o per i loro rivali?*
+* **Leggenda Locale - Azione:** Il festival culmina con l'arrivo di una figura del folklore locale che svolge compiti speciali per la comunità, come distribuire dolcetti ai bambini, prendere in giro i nobili o benedire i raccolti dell'anno successivo. Se i PG mostrano a questa figura la dovuta deferenza e il dovuto rispetto, ottengono una benedizione appropriata, come una profezia criptica o un ninnolo magico, e ottengono 1d4 Speranza da distribuire tra il gruppo. Se insultano la figura, subiscono 1d6+2 danni magici mentre la figura li maledice, e ottieni una Paura.
+ * *È un'entità singola o un manto che passa di persona in persona? Che forma distintiva possiede? Qual è la fonte del suo potere di concedere favori e maledizioni?*

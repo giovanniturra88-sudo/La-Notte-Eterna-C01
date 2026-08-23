@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Armored Sentry
+# Sentinella Corazzata
 
-**_Tier 2_** _(Armadillo, Pangolin, Turtle, etc.)_
+**_Tier 2_** _(Armadillo, Pangolino, Tartaruga, ecc.)_
 
-- **Trait Bonus:** Strength +1
-- **Evasion Bonus:** Evasion +1
-- **Attack:** Melee Strength d8+2 phy
-- **Advantages:** dig, locate, protect
+- **Bonus di Tratto:** Forza +1
+- **Bonus di Evasione:** Evasione +1
+- **Attacco:** Mischia Forza d8+2 fisici
+- **Vantaggi:** scavare, localizzare, proteggere
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Armored Shell:_** Your hardened exterior gives you resistance to physical damage. Additionally, **mark an Armor Slot** to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can't perform other actions without leaving this form.
+**_Guscio Corazzato:_** Il tuo esterno indurito ti concede resistenza ai danni fisici. Inoltre, **segna uno Slot di Armatura** per ritrarti nel tuo guscio. Mentre sei nel tuo guscio, i danni fisici sono ridotti di un numero pari al tuo Punteggio Armatura (dopo aver applicato la resistenza), ma non puoi compiere altre azioni senza lasciare questa forma.
 
-**_Cannonball:_** **Mark a Stress** to allow an ally to throw or launch you at an adversary. To do so, the ally makes an attack roll using Agility or Strength (their choice) against a target within Close range. On a success, the adversary takes **d12+2** physical damage using the thrower's Proficiency. You can **spend a Hope** to target an additional adversary within Very Close range of the first. The second target takes half the damage dealt to the first target.
+**_Palla di Cannone:_** **Segna uno Stress** per permettere a un alleato di lanciarti o scagliarti contro un avversario. Per farlo, l'alleato effettua un tiro di attacco usando Agilità o Forza (a sua scelta) contro un bersaglio entro portata Vicina. In caso di successo, l'avversario subisce **d12+2** danni fisici usando la Competenza del lanciatore. Puoi **spendere una Speranza** per bersagliare un avversario aggiuntivo a portata Molto Vicina dal primo. Il secondo bersaglio subisce la metà dei danni inflitti al primo bersaglio.

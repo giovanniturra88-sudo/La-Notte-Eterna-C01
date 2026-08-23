@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Orderborne
 
-Being part of an orderborne community means you're from a collective that focuses on discipline or faith, and you uphold a set of principles that reflect your experience there. Orderborne are frequently some of the most powerful among the surrounding communities. By aligning the members of their society around a common value or goal, such as a god, doctrine, ethos, or even a shared business or trade, the ruling bodies of these enclaves can mobilize larger populations with less effort. While orderborne communities take a variety of forms—some even profoundly pacifistic—perhaps the most feared are those that structure themselves around military prowess. In such a case, it's not uncommon for orderborne to provide soldiers for hire to other cities or countries.
+Far parte di una comunità orderborne significa provenire da un collettivo incentrato sulla disciplina o sulla fede, sostenendo una serie di principi che riflettono la tua esperienza in quel luogo. Gli Orderborne sono spesso tra i più potenti delle comunità circostanti. Allineando i membri della loro società attorno a un valore o a un obiettivo comune—come un dio, una dottrina, un ethos o persino un'attività o un commercio condivisi—gli organi di governo di questi insediamenti possono mobilitare popolazioni più vaste con meno sforzo. Sebbene le comunità orderborne assumano forme diverse—alcune persino profondamente pacifiste—forse le più temute sono quelle che si strutturano attorno alla potenza militare. In tal caso, non è raro che gli Orderborne forniscano soldati a pagamento ad altre città o nazioni.
 
-_Orderborne are often ambitious, benevolent, pensive, prudent, sardonic, and stoic._
+_Gli Orderborne sono spesso ambiziosi, benevoli, riflessivi, prudenti, sardonici e stoici._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Dedicated:_** Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you're embodying one of these principles through your current action, you can roll a **d20** as your Hope Die.
+**_Dedicato:_** Annota tre detti o valori che la tua educazione ti ha instillato. Una volta per riposo, quando descrivi come stai incarnando uno di questi principi attraverso la tua azione attuale, puoi tirare un **d20** come tuo Dado di Speranza.

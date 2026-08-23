@@ -3,25 +3,25 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Haunted City
+# Città Infestata
 
-**_Tier 2 Exploration._** _An abandoned city populated by the restless spirits of eras past._
+**_Esplorazione di Tier 2.**_ _Una città abbandonata popolata dagli spiriti inquieti di epoche passate._
 
-- **Impulses:** Misdirect and disorient, replay apocalypses both public and personal
-- **Difficulty:** 14
-- **Potential Adversaries:** Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), ghostly versions of other adversaries (see "Ghostly Form")
+- **Impulsi:** Sviare e disorientare, rivivere apocalissi pubbliche e personali
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Fantasmi (Arciere Spettrale, Capitano Spettrale, Guardiano Spettrale), versioni spettrali di altri avversari (vedi "Forma Spettrale")
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Buried Knowledge - Passive:_** The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot. _What greater secrets does the city contain? Why have so many ghosts lingered here? What doomed adventurers have met a bad fate here already?_
+**_Conoscenza Sepolta - Passiva:_** La città custodisce innumerevoli misteri da svelare. Un PG che cerca conoscenze sulla città caduta può effettuare un Tiro di Istinto o di Conoscenza per apprendere informazioni su questo luogo e scoprire bottino (potenzialmente infestato). _Quali segreti più grandi custodisce la città? Perché così tanti fantasmi sono rimasti qui? Quali avventurieri condannati hanno già incontrato un triste destino in questo luogo?_
 
-- **Critical Success:** Gain valuable information and a related useful item.
-- **Success with Hope:** Gain valuable information.
-- **Success with Fear:** Uncover vague or incomplete information.
-- **Any Failure:** Mark a Stress to find a lead after an exhaustive search.
+- **Successo Critico:** ottieni informazioni preziose e un oggetto utile correlato.
+- **Successo con Speranza:** ottieni informazioni preziose.
+- **Successo con Paura:** scoperte informazioni vaghe o incomplete.
+- **Qualsiasi Fallimento:** segna uno Stress per trovare un indizio dopo una ricerca estenuante.
 
-**_Ghostly Form - Passive:_** Adversaries who appear here are of a ghostly form. They have resistance to physical damage and can **mark a Stress** to move up to Close range through solid objects. _What injuries to their physical form speak to their cause of death? What unfulfilled purpose holds them in the Mortal Plane?_
+**_Forma Spettrale - Passiva:_** Gli avversari che compaiono qui hanno una forma spettrale. Hanno resistenza ai danni fisici e possono **segnare uno Stress** per muoversi fino a portata Vicina attraverso gli oggetti solidi. _Quali ferite della loro forma fisica raccontano la loro causa di morte? Quale scopo incompiuto li trattiene nel Piano Mortale?_
 
-**_Dead Ends - Action:_** The ghosts of an earlier era manifest scenes from their bygone era, such as a street festival, a revolution, or a heist. These hauntings change the layout of the city around the PCs, blocking the way behind them, forcing a detour, or presenting them with a challenge, such as mistaking them for rival thieves during the heist. _What do the ghosts want from you? What do you need from them?_
+**_Vicoli Ciechi - Azione:_** I fantasmi di un'epoca passata materializzano scene della loro epoca scomparsa, come un festival di strada, una rivoluzione o una rapina. Queste apparizioni modificano l'assetto della città attorno ai PG, bloccando la via alle loro spalle, costringendoli a una deviazione o presentando loro una sfida, come scambiarli per ladri rivali durante la rapina. _Cosa vogliono i fantasmi da voi? Cosa vi serve da loro?_
 
-**_Apocalypse Then - Action:_** **Spend a Fear** to manifest the echo of a past disaster that ravaged the city. Activate a Progress Countdown (5) as the disaster replays around the PCs. To complete the countdown and escape the catastrophe, the PCs must overcome threats such as rampaging fires, stampeding civilians, collapsing buildings, or crumbling streets, while recalling history and finding clues to escape the inevitable. _Is this the disaster that led the city to be abandoned? What is known about this disaster, and how could that help the PCs escape?_
+**_Apocalisse Passata - Azione:_** **Spendi una Paura** per materializzare l'eco di un disastro passato che ha devastato la città. Attiva un Conto alla Rovescia di Avanzamento (5) mentre il disastro si ripete attorno ai PG. Per completare il conto alla rovescia e sfuggire alla catastrofe, i PG devono superare minacce come incendi dilaganti, civili in fuga precipitosa, edifici che crollano o strade che franano, mentre ricostruiscono la storia e trovano indizi per sfuggire all'inevitabile. _È questo il disastro che ha portato all'abbandono della città? Cosa si sa di questo disastro e in che modo potrebbe aiutare i PG a fuggire?_

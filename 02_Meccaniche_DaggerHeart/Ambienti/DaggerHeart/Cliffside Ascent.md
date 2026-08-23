@@ -3,26 +3,26 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Cliffside Ascent
+# Ascesa della Scogliera
 
-**_Tier 1 Traversal._** _A steep, rocky cliff side tall enough to make traversal dangerous._
+**_Attraversamento di Tier 1.**_ _Una parete rocciosa scoscesa, alta abbastanza da rendere pericolosa la traversata._
 
-- **Impulses:** Cast the unready down to a rocky doom, draw people in with promise of what lies at the top
-- **Difficulty:** 12
-- **Potential Adversaries:** Construct, Deeproot Defender, Giant Scorpion, Glass Snake
+- **Impulsi:** Scagliare gli impreparati verso una fine rocciosa, attirare la gente con la promessa di ciò che si cela in cima
+- **Difficoltà:** 12
+- **Avversari Potenziali:** Costrutto, Difensore dalle Radici Profonde, Scorpione Gigante, Serpente di Vetro
 
-### FEATURES
+### CARATTERISTICHE
 
-**_The Climb - Passive:_** Climbing up the cliff side uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
+**_La Salita - Passiva:_** Arrampicarsi lungo la parete richiede un Conto alla Rovescia di Avanzamento (12). Scende secondo i seguenti criteri quando i PG effettuano un tiro d'azione per arrampicarsi:
 
-- **Critical Success:** Tick down 3
-- **Success with Hope:** Tick down 2
-- **Success with Fear:** Tick down 1
-- **Failure with Hope:** No advancement
-- **Failure with Fear:** Tick up 1
+- **Successo Critico:** scende di 3
+- **Successo con Speranza:** scende di 2
+- **Successo con Paura:** scende di 1
+- **Fallimento con Speranza:** nessun avanzamento
+- **Fallimento con Paura:** sale di 1
 
-When the countdown triggers, the party has made it to the top of the cliff. _What strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?_
+Quando il conto alla rovescia si attiva, il gruppo è arrivato in cima alla scogliera. _In quali strane formazioni sono disposte le pietre? Quali sinistri avvertimenti hanno lasciato gli avventurieri precedenti?_
 
-**_Pitons Left Behind - Passive:_** Previous climbers left behind large metal rods that climbers can use to aid their ascent. If a PC using the pitons fails an action roll to climb, they can mark a Stress instead of ticking the countdown up. _What do the shape and material of these pitons tell you about the previous climbers? How far apart are they from one another?_
+**_Aste Lasciate Indietro - Passiva:_** I precedenti scalatori hanno lasciato grandi aste di metallo che chi si arrampica può usare per aiutarsi nella salita. Se un PG che usa le aste fallisce un tiro d'azione per arrampicarsi, può segnare uno Stress invece di far salire il conto alla rovescia. _Cosa ti dicono forma e materiale di queste aste sui precedenti scalatori? Quanto sono distanti l'una dall'altra?_
 
-**_Fall - Action:_** **Spend a Fear** to have a PC's handhold fail, plummeting them toward the ground. If they aren't saved on the next action, they hit the ground and tick up the countdown by 2. The PC takes **1d12** physical damage if the countdown is between 8 and 12, **2d12** between 4 and 7, and **3d12** at 3 or lower. _How can you tell many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?_
+**_Caduta - Azione:_** **Spendi una Paura** per far cedere la presa a un PG, facendolo precipitare verso il suolo. Se non viene salvato alla prossima azione, tocca terra e il conto alla rovescia sale di 2. Il PG subisce **1d12** danni fisici se il conto alla rovescia è tra 8 e 12, **2d12** tra 4 e 7 e **3d12** a 3 o meno. _Come fai a capire che molti altri sono caduti qui prima d'ora? Cosa vive in queste pareti e potrebbe cercare di spaventare gli avventurieri facendoli cadere per un pasto facile?_

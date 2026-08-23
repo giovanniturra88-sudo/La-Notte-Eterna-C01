@@ -3,18 +3,18 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Volcanic Eruption
+# Eruzione Vulcanica
 
-**_Tier 3 Event._** _An explosion of heat and molten rock that leaves behind only charred desolation._
+**_Tier 3 Evento.** _Un'esplosione di calore e roccia fusa che lascia dietro di sé solo desolazione carbonizzata._
 
-- **Impulses:** Create panic all around, cut off the exits, isolate, make them scramble for safety, split the party
-- **Difficulty:** 16
-- **Potential Adversaries:** Elemental Spark, Lava Elemental (Greater Earth Elemental), Volcanic Dragon
+- **Impulsi:** Creare panico ovunque, tagliare le vie di fuga, isolare, farli correre al riparo, dividere il gruppo
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Scintilla Elementale, Elementale di Lava (Elementale della Terra Superiore), Drago Vulcanico
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Unstable Ground - Passive:_** The ground here is uneven, prone to collapse, and constantly shifting. PCs who fail an Agility Roll to move must mark a HP and are temporarily _Restrained._ _What strange shapes and colors do the PCs see in the cooled lava? How do the people who live nearby keep their footing on the slick, shiny surface?_
+**_Terreno Instabile - Passiva:** Il terreno qui è irregolare, soggetto a cedimenti e in continuo movimento. I PG che falliscono un Tiro di Agilità per muoversi devono segnare un PF e sono temporaneamente _Ristretti_. _Quali strane forme e colori vedono i PG nella lava raffreddata? Come fanno le persone che vivono nelle vicinanze a mantenere l'equilibrio sulla superficie scivolosa e lucida?_
 
-**_Violent Eruption - Action:_** Spend a Fear to have the ground erupt at a point of your choice, spewing lava into the air and spreading it along the ground. All targets within Very Close range of that point lose a Hope and take 3d8+3 physical damage. The area within Very Close range of the eruption point becomes lava until the end of the scene. A creature who moves into or through the lava takes 3d8+3 physical damage. Until the end of the scene, you can spend a Fear to expand the lava area by one step (such as Very Close to Close or Close to Far). _What makes the lava seem alive? How can the PCs predict its behavior?_
+**_Eruzione Violenta - Azione:** Spendi una Paura per far eruttare il terreno in un punto a tua scelta, sputando lava in aria e spargendola sul terreno. Tutti i bersagli entro portata Molto Vicina da quel punto perdono una Speranza e subiscono 3d8+3 danni fisici. L'area entro portata Molto Vicina dal punto dell'eruzione diventa lava fino alla fine della scena. Una creatura che si muove nella o attraverso la lava subisce 3d8+3 danni fisici. Fino alla fine della scena, puoi spendere una Paura per espandere l'area di lava di un gradino (per esempio da Molto Vicina a Vicina o da Vicina a Lontana). _Cosa fa sembrare viva la lava? Come possono i PG prevederne il comportamento?_
 
-**_Vent Toxic Gas - Action:_** Spend a Fear to open a fissure that belches out toxic gas at a point of your choice, creating a cloud that blankets everything within Far range. While inside the cloud, a PC must track their air supply with an Air Supply Countdown. Its starting value is equal to 3 + their tier, and it ticks down when they take an action. If a PC fails an action roll or rolls with Fear, you can use a GM move to tick down their countdown an additional time. If the roll is a failure with Fear, you can tick it down twice instead. Once the countdown ends, a PC must mark a Stress whenever they take an action within the gas until they escape the cloud. _What signs do you see to indicate the presence of toxic gas? What taste lingers in the mouths of the PCs who inhale the gas?_
+**_Sfogo di Gas Tossico - Azione:** Spendi una Paura per aprire una fenditura che erutta gas tossico in un punto a tua scelta, creando una nube che avvolge tutto ciò che si trova entro portata Lontana. Mentre si trova nella nube, un PG deve tracciare la propria riserva d'aria con un Conto alla Rovescia della Riserva d'Aria. Il suo valore iniziale è pari a 3 + il loro Tier, e scorre quando effettuano un'azione. Se un PG fallisce un tiro d'azione o tira con Paura, puoi usare una mossa del GM per far scorrere il suo conto alla rovescia un'ulteriore volta. Se il tiro è un fallimento con Paura, puoi farlo scorrere due volte invece. Una volta che il conto alla rovescia termina, un PG deve segnare uno Stress ogni volta che effettua un'azione nel gas finché non fugge dalla nube. _Quali segni vedi che indicano la presenza di gas tossico? Che sapore resta in bocca ai PG che inalano il gas?_

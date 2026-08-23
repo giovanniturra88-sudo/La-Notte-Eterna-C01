@@ -4,17 +4,17 @@ type:
 tier: Tier 3
 ---
 
-# Great Predator
+# Grande Predatore
 
-**_Tier 3_** _(Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)_
+**_Tier 3_** _(Lupo Feroce, Velociraptor, Tigre dai Denti a Sciabola, ecc.)_
 
-- **Trait Bonus:** Strength +2
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Strength d12+8 phy
-- **Advantages:** attack, sneak, sprint
+- **Bonus di Tratto:** Forza +2
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Forza d12+8 fisici
+- **Vantaggi:** attaccare, intrufolarsi, scattare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Carrier:_** You can carry up to two willing allies with you when you move.
+**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.
 
-**_Vicious Maul:_** When you succeed on an attack against a target, you can **spend a Hope** to make them temporarily _Vulnerable_ and gain a +1 bonus to your Proficiency for this attack.
+**_Zannata Feroce:_** Quando ottieni successo su un attacco contro un bersaglio, puoi **spendere una Speranza** per renderlo temporaneamente _Vulnerabile_ e ottenere un bonus di +1 alla tua Competenza per questo attacco.

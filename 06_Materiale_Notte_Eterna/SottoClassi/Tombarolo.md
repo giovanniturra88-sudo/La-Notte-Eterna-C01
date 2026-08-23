@@ -22,13 +22,13 @@ Ladri specializzati nell'esplorazione e nel saccheggio di antiche necropoli, cap
 ---
 
 ### Specializzazione
-**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi HP. Come reazione quando stai per subire danni da un attacco e il tuo aiutante è entro portata Molto Vicina, puoi far sì che l'attacco colpisca e distrugga il tuo aiutante al tuo posto.
-**_Esploratore di Catacombe:_** Ottieni vantaggio raddoppiato su tutte le prove per individuare trappole e passaggi segreti.
+**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi Punti Ferita. Quando stai per subire danni da un attacco e il tuo aiutante è entro portata Molto Vicina, puoi far sì che l'attacco colpisca e distrugga il tuo aiutante al tuo posto.
+**_Esploratore di Catacombe:_** Ottieni vantaggio su tutte le prove per individuare trappole e passaggi segreti.
 
 ---
 
 ### Maestria
-**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Vicina deve effettuare un TS Destrezza; in caso di fallimento, subisce 4d10 danni necrotici ed è avvelenata per 1 minuto.
+**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Vicina deve superare un Tiro di Reazione di Agilità; in caso di fallimento, subisce 4d10 danni magici necrotici ed è avvelenata per 1 minuto.
 
 ---
 

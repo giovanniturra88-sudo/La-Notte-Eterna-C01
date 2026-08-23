@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Dragon's Lair
+# Tana del Drago
 
-**_Tier 3 Exploration._** _A collection of gold, jewels, and artifacts in the heart of an active volcano._
+**_Tier 3 Esplorazione.** _Una collezione di oro, gioielli e manufatti nel cuore di un vulcano attivo._
 
-- **Impulses:** Lure into the levels below, make escape impossible, tempt with treasure, wake the dragon
-- **Difficulty:** 16
-- **Potential Adversaries:** The Dragon's Minions (*Drake*, *Wyvern*), Young Fire Dragon
+- **Impulsi:** Attirarli nei livelli sottostanti, rendere la fuga impossibile, tentare con il tesoro, svegliare il drago
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Servitori del Drago (*Drago Minore*, *Viverna*), Giovane Drago del Fuoco
 
-### FEATURES
+### CARATTERISTICHE
 
-**_The Dragon Wakes - Passive:_** Consequence Countdown (8). The dragon that amassed this treasure lies sleeping somewhere on, under, or near the hoard. When the PCs enter the lair, activate the countdown. When it triggers, the dragon awakens and each PC must succeed on a Presence Reaction Roll or mark a Stress. You gain a Fear for each Stress marked this way. _Where does this dragon slumber? What does it dream about?_
+**_Il Drago Si Risveglia - Passiva:** Conto alla Rovescia di Conseguenza (8). Il drago che ha accumulato questo tesoro dorme da qualche parte sopra, sotto o vicino al mucchio. Quando i PG entrano nella tana, attiva il conto alla rovescia. Quando scatta, il drago si risveglia e ogni PG deve superare un Tiro di Reazione di Presenza o segnare uno Stress. Ottieni una Paura per ogni Stress segnato in questo modo. _Dove dorme questo drago? Cosa sogna?_
 
-**_Treasure Hoard - Passive:_** At the heart of the lair sits a mountain of treasure. If the party wishes to locate the treasure, they must complete a Progress Countdown (12). When it triggers, the party can tick down the Consequence Countdown to search through the treasure mound by rolling a number of d12s equal to 1 + their tier on the Item or Consumable table (their choice). _How did the party learn of this collection? What do they hope to find here?_
+**_Mucchio di Tesori - Passiva:** Al cuore della tana sorge una montagna di tesoro. Se il gruppo desidera individuare il tesoro, deve completare un Conto alla Rovescia di Progresso (12). Quando scatta, il gruppo può far scorrere il Conto alla Rovescia di Conseguenza per frugare nel mucchio di tesoro tirando un numero di d12 pari a 1 + il loro Tier sulla tabella Oggetti o Consumabili (a loro scelta). _Come ha saputo il gruppo di questa collezione? Cosa sperano di trovare qui?_
 
-**_Volcanic Activity - Action:_** Spend a Fear to trigger a volcanic eruption. Each character must make an Agility Reaction Roll. Targets who fail are burned by gouts of lava and flame as the earth breaks around them and take 3d8+5 physical damage. Targets who succeed take half damage. _What paths of egress are blocked by the volcano's shifting configuration? How do the PCs protect themselves from the stifling heat?_
+**_Attività Vulcanica - Azione:** Spendi una Paura per innescare un'eruzione vulcanica. Ogni personaggio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono vengono ustionati da getti di lava e fiamme mentre la terra si spacca intorno a loro e subiscono 3d8+5 danni fisici. I bersagli che riescono subiscono metà danno. _Quali vie di fuga vengono bloccate dalla mutevole conformazione del vulcano? Come si proteggono i PG dal calore soffocante?_
 
-**_Watchdogs - Reaction:_** When a PC fails a roll to navigate the lair, you can spend a Fear to summon 1d6 Drakes and up to two Wyverns, who appear within Close range of a PC and are immediately spotlighted. _Why do these creatures serve the slumbering dragon? What signs does the party find that foreshadow their presence?_
+**_Cani da Guardia - Reazione:** Quando un PG fallisce un tiro per orientarsi nella tana, puoi spendere una Paura per evocare 1d6 Draghi Minori e fino a due Viverne, che compaiono entro portata Vicina da un PG e finiscono immediatamente sotto i riflettori. _Perché queste creature servono il drago dormiente? Quali segni trova il gruppo che preannunciano la loro presenza?_

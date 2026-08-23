@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Necromancer's Ossuary
+# Ossario del Necromante
 
-**_Tier 4 Exploration._** _A dusty crypt with a library, twisting corridors, and abundant sarcophagi, spattered with the blood of ill-fated invaders._
+**_Esplorazione di Tier 4.**_ _Una cripta polverosa con una biblioteca, corridoi tortuosi e numerosi sarcofagi, cosparsa del sangue di invasori sfortunati._
 
-- **Impulses:** Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead
-- **Difficulty:** 19
-- **Potential Adversaries:** Arch-Necromancer's Host (Perfected Zombie, Zombie Legion)
+- **Impulsi:** Disorientare gli intrusi, scavare in segreti che sarebbe meglio lasciare sepolti, manifestare la non-morte, scatenare un'ondata di non morti
+- **Difficoltà:** 19
+- **Avversari Potenziali:** Schiera dell'ArcoNecromante (Zombie Perfezionato, Legione Zombie)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_No Place for the Living - Passive:_** A feature or action that clears HP requires spending a Hope to use. If it already costs Hope, a PC must spend an additional Hope. _What does it feel like to try to heal in a place so antithetical to life?_
+**_Nessun Posto per i Vivi - Passiva:_** Una caratteristica o un'azione che recupera Punti Ferita richiede di spendere una Speranza per essere usata. Se costa già una Speranza, un PG deve spendere una Speranza aggiuntiva. _Cosa si prova a tentare di guarire in un luogo così antitetico alla vita?_
 
-**_Centuries of Knowledge - Passive:_** A PC can investigate the library and laboratory and make a Knowledge Roll to learn information related to arcana, local history, and the Necromancer's plans. _What are the names of the tomes? What project is the necromancer working on and what does it communicate about their plans?_
+**_Secoli di Conoscenza - Passiva:_** Un PG può esplorare la biblioteca e il laboratorio ed effettuare un Tiro di Conoscenza per apprendere informazioni relative agli arcani, alla storia locale e ai piani del Necromante. _Come si chiamano i tomi? A quale progetto sta lavorando il necromante e cosa rivela delle sue intenzioni?_
 
-**_Skeletal Burst - Action:_** All targets within Close range of a point you choose in this environment must succeed on an Agility Reaction Roll or take **4d8+8** physical damage from skeletal shrapnel as part of the ossuary detonates around them. _What ancient skeletal architecture is destroyed? What bones stick in your armor?_
+**_Esplosione Scheletrica - Azione:_** Tutti i bersagli entro portata Vicina da un punto che scegli in questo ambiente devono superare un Tiro di Reazione di Agilità o subire **4d8+8** danni fisici da schegge ossee mentre parte dell'ossario esplode intorno a loro. _Quale antica architettura scheletrica viene distrutta? Quali ossa restano conficcate nella tua armatura?_
 
-**_Aura of Death - Action:_** Once per scene, roll a **d4**. Each undead within Far range of the Necromancer can clear HP and Stress equal to the result rolled. The undead can choose how that number is divided between HP and Stress. _How does their renewed vigor manifest? Do they look more lifelike or, paradoxically, are they more decayed but vigorous?_
+**_Aura di Morte - Azione:_** Una volta per scena, tira un **d4**. Ogni non morto entro portata Lontana dal Necromante può recuperare Punti Ferita e Stress pari al risultato ottenuto. I non morti possono scegliere come dividere quel numero tra Punti Ferita e Stress. _Come si manifesta il loro rinnovato vigore? Sembrano più vivi o, paradossalmente, sono più decomposti ma pieni di energia?_
 
-**_They Just Keep Coming! - Action:_** **Spend a Fear** to summon **1d6** Rotted Zombies, two Perfected Zombies, or a Zombie Legion, who appear at Close range of a chosen PC. _Who were these people before they became the necromancer's pawns? What vestiges of those lives remain for the heroes to see?_
+**_Continuano ad Arrivare! - Azione:_** **Spendi una Paura** per evocare **1d6** Zombie Marci, due Zombie Perfezionati o una Legione Zombie, che appaiono a portata Vicina da un PG scelto. _Chi erano queste persone prima di diventare le pedine del necromante? Quali vestigia di quelle vite restano visibili agli eroi?_

@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Highborne
 
-Being part of a highborne community means you're accustomed to a life of elegance, opulence, and prestige within the upper echelons of society. Traditionally, members of a highborne community possess incredible material wealth. While this can take a variety of forms depending on the community—including gold and other minerals, land, or controlling the means of production—this status always comes with power and influence. Highborne place great value on titles and possessions, and there is little social mobility within their ranks. Members of a highborne community often control the political and economic status of the areas in which they live due to their ability to influence people and the economy with their substantial wealth. The health and safety of the less affuent people who live in these locations often hinges on the ability of this highborne ruling class to prioritize the well-being of their subjects over profit.
+Far parte di una comunità highborne significa essere abituati a una vita di eleganza, opulenza e prestigio ai vertici della società. Tradizionalmente, i membri di una comunità highborne possiedono un'incredibile ricchezza materiale. Sebbene questa possa assumere forme diverse a seconda della comunità—inclusi oro e altri minerali, terre o il controllo dei mezzi di produzione—tale status comporta sempre potere e influenza. Gli Highborne attribuiscono grande valore a titoli e possedimenti, e la mobilità sociale all'interno dei loro ranghi è minima. I membri di una comunità highborne controllano spesso lo status politico ed economico delle aree in cui vivono, grazie alla loro capacità di influenzare persone ed economia con la loro ingente ricchezza. La salute e la sicurezza delle persone meno abbienti che vivono in questi luoghi dipendono spesso dalla capacità della classe dirigente highborne di anteporre il benessere dei propri sudditi al profitto.
 
-_Highborne are often amiable, candid, conniving, enterprising, ostentatious, and unflappable._
+_Gli Highborne sono spesso affabili, franchi, intriganti, intraprendenti, ostentatori e imperturbabili._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Privilege:_** You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.
+**_Privilegio:_** Hai vantaggio sui tiri per frequentare i nobili, negoziare i prezzi o sfruttare la tua reputazione per ottenere ciò che vuoi.

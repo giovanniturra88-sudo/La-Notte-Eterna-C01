@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Heathborne
 
-Being part of a heathborne community means you're accustomed to life on windswept moors, open grasslands, and untamed countryside. Your people have lived in harmony with the natural world, their lives governed by the changing seasons and the rhythms of the land. Heathborne communities are often small, close-knit villages where everyone knows each other, bound together by shared labor and a deep spiritual connection to the earth. Members of a heathborne community are skilled in herblore, animal husbandry, and reading the signs of nature.
+Far parte di una comunità heathborne significa essere abituati alla vita su brughiere battute dal vento, praterie aperte e campagne incontaminate. La tua gente ha vissuto in armonia con il mondo naturale, con le proprie vite scandite dal succedersi delle stagioni e dai ritmi della terra. Le comunità heathborne sono spesso piccoli villaggi molto uniti in cui tutti si conoscono, legati dal lavoro condiviso e da una profonda connessione spirituale con la terra. I membri di una comunità heathborne sono abili nell'erboristeria, nell'allevamento e nel leggere i segni della natura.
 
-_Heathborne are often grounded, intuitive, superstitious, hardy, communal, and wary._
+_Gli Heathborne sono spesso radicati, intuitivi, superstiziosi, resistenti, comunitari e guardinghi._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Natural Affinity:_** You have advantage on rolls to forage for food and herbs, track creatures through natural terrain, and identify plants or minerals based on your familiarity with the land.
+**_Affinità Naturale:_** Hai vantaggio sui tiri per procurarti cibo ed erbe, seguire le tracce delle creature attraverso terreni naturali e identificare piante o minerali grazie alla tua familiarità con la terra.

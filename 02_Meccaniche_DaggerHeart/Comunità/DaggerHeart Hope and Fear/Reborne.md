@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Reborne
 
-Being part of a reborne community means you're accustomed to life among the dead, whether as gravekeepers, death priests, or those who make their homes near necropolises and burial grounds. Your people have made peace with mortality, viewing death not as an end but as a transition. Reborne communities are often found in ancient cities with vast cemeteries, cliff-side tombs, or along sacred rivers used for funeral rites. Members of a reborne community possess an uncanny comfort with death-related matters and may have insights into necromantic energies that others fear.
+Far parte di una comunità reborne significa essere abituati alla vita tra i morti, sia come custodi di tombe o sacerdoti della morte, sia come coloro che hanno la propria casa vicino a necropoli e luoghi di sepoltura. La tua gente ha fatto pace con la mortalità, considerando la morte non come una fine ma come una transizione. Le comunità reborne si trovano spesso in antiche città con vasti cimiteri, tombe scavate nelle scogliere o lungo fiumi sacri usati per i riti funebri. I membri di una comunità reborne possiedono un'insolita dimestichezza con le questioni legate alla morte e possono avere intuizioni sulle energie necromantiche che altri temono.
 
-_Reborne are often contemplative, patient, reverent, pragmatic, enigmatic, and calm._
+_I Reborne sono spesso contemplativi, pazienti, reverenti, pragmatici, enigmatici e calmi._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Death Knowledge:_** You have advantage on rolls to identify remains, perform funeral rites properly, resist fear when confronted with undead or death-related phenomena, and perceive the intent of creatures connected to necromantic energies.
+**_Conoscenza della Morte:_** Hai vantaggio sui tiri per identificare i resti, eseguire correttamente i riti funebri, resistere alla paura quando ti trovi di fronte a non morti o a fenomeni legati alla morte e percepire le intenzioni delle creature connesse alle energie necromantiche.

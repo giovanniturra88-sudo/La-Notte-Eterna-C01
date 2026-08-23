@@ -3,27 +3,27 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Deadly Dungeon
+# Dungeon Mortale
 
-**_Tier 2 Exploration._** _A dimly lit subterranean network of tunnels and chambers filled with monsters, traps, and treasure._
+**_Tier 2 Esplorazione.** _Una rete sotterranea di gallerie e stanze debolmente illuminate, piena di mostri, trappole e tesori._
 
-- **Impulses:** Devour the party's resources, spring the trap, tempt them with treasure, throw monsters at them, turn them around
-- **Difficulty:** 14
-- **Potential Adversaries:** Dungeon Denizens (*Gobstalker*, *Green Ooze*, *Ravenous Mockery*, *Rust Eater*), Rival Adventurers (*Giant Brawler*, *Masked Thief*, *War Wizard*)
+- **Impulsi:** Divorare le risorse del gruppo, far scattare la trappola, tentarli con il tesoro, scagliare loro contro i mostri, farli smarrire
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Abitanti del Dungeon (*Cacciatore di Goblin*, *Melma Verde*, *Beffa Vorace*, *Mangia Ruggine*), Avventurieri Rivali (*Rissoso Gigante*, *Ladro Mascherato*, *Mago da Guerra*)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Twists and Turns - Passive:_** Countdown (6). When the party enters the dungeon, activate the countdown. It ticks down when a PC succeeds on an action roll to navigate the passages. When it triggers, the PCs reach the deepest, darkest, best-defended part of the dungeon. _What reward lies at the heart of the maze? Who built this labyrinth to protect it?_
+**_Giri e Rigiri - Passiva:** Conto alla Rovescia (6). Quando il gruppo entra nel dungeon, attiva il conto alla rovescia. Scorre quando un PG riesce in un tiro d'azione per orientarsi nei corridoi. Quando scatta, i PG raggiungono la parte più profonda, buia e meglio difesa del dungeon. _Quale ricompensa si trova nel cuore del labirinto? Chi ha costruito questo labirinto per proteggerla?_
 
-**_Deep Pockets - Passive:_** Once per rest, the PCs can find a cache of treasure inside the dungeon, either on the corpses of previous delvers or behind hidden doors. On a successful roll to navigate the dungeon, a PC can spend up to 5 Hope to roll that number of d6s. Each result rolled gains the party the following loot or equipment:
-1. Loose gemstones, jewelry, baubles, or coins equal to a handful of gold
-2. A common item or consumable
-3. An uncommon item or consumable
-4. A rare item or consumable
-5. A legendary item or consumable
-6. A weapon or an armor from the party's tier
-_Were the previous owners like? How do the PCs plan to get their purloined items out of the dungeon?_
+**_Tasche Profonde - Passiva:** Una volta per riposo, i PG possono trovare una riserva di tesoro nel dungeon, sia sui cadaveri di precedenti esploratori sia dietro porte nascoste. Su un tiro riuscito per orientarsi nel dungeon, un PG può spendere fino a 5 Speranza per tirare altrettanti d6. Ogni risultato ottenuto regala al gruppo il seguente bottino o equipaggiamento:
+1. Gemme sfuse, gioielli, ninnoli o monete pari a una manciata d'oro
+2. Un oggetto o consumabile comune
+3. Un oggetto o consumabile non comune
+4. Un oggetto o consumabile raro
+5. Un oggetto o consumabile leggendario
+6. Un'arma o un'armatura del Tier del gruppo
+_Com'erano i proprietari precedenti? Come pensano i PG di portare fuori dal dungeon gli oggetti sottratti?_
 
-**_Wandering Monster - Reaction:_** When the party enters a new area of the dungeon, you can spend a Fear to summon 1d4 adversaries at or below the party's tier within Far range and roll a d6. On a result of 1 or 2, the PCs notice warning signs and can prepare for the encounter; the first PC to make an action roll gains advantage on it. On a result of 3 or 4, the combat occurs as usual. On a result of 5 or 6, the adversaries get the drop on the PCs and immediately take the spotlight, and you gain a Fear. _How did these creatures come to be here? What were they doing when the PCs encountered them?_
+**_Mostro Errante - Reazione:** Quando il gruppo entra in una nuova area del dungeon, puoi spendere una Paura per evocare 1d4 avversari di Tier pari o inferiore a quello del gruppo entro portata Lontana e tirare un d6. Su un risultato di 1 o 2, i PG notano i segnali di pericolo e possono prepararsi allo scontro; il primo PG che effettua un tiro d'azione ottiene vantaggio su di esso. Su un risultato di 3 o 4, il combattimento si svolge come al solito. Su un risultato di 5 o 6, gli avversari sorprendono i PG e prendono immediatamente i riflettori, e ottieni una Paura. _Come sono arrivate queste creature fin qui? Cosa stavano facendo quando i PG le hanno incontrate?_
 
-**_Booby Traps - Reaction:_** When a PC fails an action roll to navigate the dungeon, activate a trap or hazard such as a spike pit, gauntlet of swinging blades, or locked room slowly filling with water. The party must succeed on a group action roll to deactivate, disarm, or escape it. On a failure, each PC involved in the group action roll takes 2d6+3 physical or magic damage (GM's choice). _What kinds of traps and hazards fill this dungeon? What does their construction tell you about whoever designed them? Have any of them been triggered prior to the party's arrival?_
+**_Trappole Esplosive - Reazione:** Quando un PG fallisce un tiro d'azione per orientarsi nel dungeon, attiva una trappola o un pericolo come una fossa di spuntoni, un corridoio di lame oscillanti o una stanza chiusa che si riempie lentamente d'acqua. Il gruppo deve superare un tiro d'azione di gruppo per disattivarla, neutralizzarla o fuggirne. Su un fallimento, ogni PG coinvolto nel tiro d'azione di gruppo subisce 2d6+3 danni fisici o magici (scelta del GM). _Che tipo di trappole e pericoli riempiono questo dungeon? Cosa ti dice la loro costruzione su chi le ha progettate? Qualcuna è già scattata prima dell'arrivo del gruppo?_

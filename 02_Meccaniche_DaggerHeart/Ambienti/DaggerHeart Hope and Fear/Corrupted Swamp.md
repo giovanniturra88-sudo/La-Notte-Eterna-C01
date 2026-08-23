@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Corrupted Swamp
+# Palude Corrotta
 
-**_Tier 1 Traversal._** _A wretched stretch of slimy water, toxic creatures, and decay._
+**_Tier 1 Attraversamento.** _Un miserabile tratto di acqua melmosa, creature tossiche e decadenza._
 
-- **Impulses:** Corrupt, emphasize putrescence, reveal the twisted and unnatural, sicken
-- **Difficulty:** 11
-- **Potential Adversaries:** Any Undead (Skeleton, Zombie, Spectral Guardian), Giant Rat, Green Ooze, Tangle Bramble
+- **Impulsi:** Corrompere, sottolineare il putrefatto, rivelare il contorto e l'innaturale, far ammalare
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Qualsiasi Non Morto (Scheletro, Zombie, Guardiano Spettrale), Ratto Gigante, Melma Verde, Roveto Intricato
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Swamp Sickness - Passive:_** At the end of a long rest, each PC must succeed on a Strength Reaction Roll or gain a d4 Sickened Die, starting with the 1 value facing up. If a PC fails this roll and already has a Sickened Die, they increase the value by 1, to a maximum value of 4. A PC with a Sickened Die gains a penalty to their action rolls equal to its value. When a PC with a Sickened Die would clear a HP, they can decrease the value of their Sickened Die by 1 instead. When the die's value would fall to 0, remove it. _Is the swamp teeming with life, filled with decay, or both? What force blighted this swamp, and what signs of its origins remain?_
+**_Malattia della Palude - Passiva:** Alla fine di un riposo lungo, ogni PG deve superare un Tiro di Reazione di Forza o ottenere un Dado di Malattia d4, partendo dal valore 1 rivolto verso l'alto. Se un PG fallisce questo tiro e ha già un Dado di Malattia, aumenta il valore di 1, fino a un valore massimo di 4. Un PG con un Dado di Malattia subisce una penalità ai suoi tiri d'azione pari al suo valore. Quando un PG con un Dado di Malattia dovrebbe rimuovere un PF, può invece ridurre di 1 il valore del suo Dado di Malattia. Quando il valore del dado dovrebbe scendere a 0, rimuovilo. _La palude brulica di vita, è piena di decadenza, o entrambe le cose? Quale forza ha corrotto questa palude, e quali segni delle sue origini rimangono?_
 
-**_Soggy and Slogging It - Passive:_** When a PC moves as part of an action, they can only move up to Very Close range. Action rolls made to move farther than Very Close range have disadvantage. Before rolling, a PC can mark a Stress to remove this disadvantage. _What creatures, living or otherwise, lurk beneath the water's murky surface? Where or how do the PCs find relief from the stinking water?_
+**_Fradici e Impantanati - Passiva:** Quando un PG si muove come parte di un'azione, può muoversi solo fino a portata Molto Vicina. I tiri d'azione per muoversi oltre la portata Molto Vicina subiscono svantaggio. Prima di tirare, un PG può segnare uno Stress per rimuovere questo svantaggio. _Quali creature, vive o meno, si nascondono sotto la superficie torbida dell'acqua? Dove o come trovano i PG sollievo dall'acqua maleodorante?_
 
-**_Rotbloom - Action:_** Spend a Fear to dust an area within Far range in noxious pollen. Each target in that area must succeed on a Strength or Instinct Reaction Roll or take 1d6+3 magic damage and become _Vulnerable_ until the end of the scene. _How can you tell the plants that emit this pollen are carnivorous? What nightmares or dreamscapes does the pollen's scent conjure?_
+**_Fioritura del Marciume - Azione:** Spendi una Paura per cospargere di polline nocivo un'area entro portata Lontana. Ogni bersaglio in quell'area deve superare un Tiro di Reazione di Forza o Istinto o subire 1d6+3 danni magici e diventare _Vulnerabile_ fino alla fine della scena. _Come capisci che le piante che emettono questo polline sono carnivore? Quali incubi o paesaggi onirici evoca l'odore del polline?_
 
-**_Dancing Lights - Action:_** At the start of a rest, you can spend a Fear to have floating orbs enthrall the weary and lure a PC deeper into the swamp. A different PC can use a downtime move to make an action roll to search for them. On a success, both PCs return to camp and can choose downtime moves as normal. On a failureâ€”or if no one searches for themâ€”the lost PC returns hours later, covered in mud and worse, and can't choose downtime moves until their next rest. _What does the lost PC see in the lights that draws them into the darkness? What other glimpses of surprising beauty do the PCs encounter here?_
+**_Luci Danzanti - Azione:** All'inizio di un riposo, puoi spendere una Paura per far sì che sfere fluttuanti ammalino i più stanchi e attirino un PG più in profondità nella palude. Un altro PG può usare una mossa di downtime per effettuare un tiro d'azione e cercarli. Su un successo, entrambi i PG tornano all'accampamento e possono scegliere mosse di downtime come al solito. Su un fallimento — o se nessuno li cerca — il PG disperso fa ritorno ore dopo, coperto di fango e peggio, e non può scegliere mosse di downtime fino al suo prossimo riposo. _Cosa vede il PG disperso nelle luci che lo attirano nell'oscurità? Quali altri scorci di sorprendente bellezza incontrano qui i PG?_

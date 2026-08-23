@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Cursed Graveyard
+# Cimitero Maledetto
 
-**_Tier 1 Exploration._** _A sprawling cemetery filled with crumbling headstones, twisted trees possessed by the dead, and crypts overgrown with moss and ivy._
+**_Tier 1 Esplorazione.** _Un cimitero sconfinato pieno di lapidi in frantumi, alberi contorti posseduti dai morti e cripte ricoperte di muschio ed edera._
 
-- **Impulses:** Bury them six feet deep, choke with fog, lure with promises of entombed treasure, unleash the restless dead
-- **Difficulty:** 11
-- **Potential Adversaries:** Corrupted Spirits (*Deeproot Defender*, *Phantom*), Living Dead (*Skeleton Warrior*, *Zombie Pack*, *Patchwork Zombie Hulk*)
+- **Impulsi:** Seppellirli a sei piedi sotto terra, soffocarli con la nebbia, attirarli con promesse di tesori sepolti, scatenare i morti inquieti
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Spiriti Corrotti (*Difensore delle Radici Profonde*, *Fantasma*), Non Morti Viventi (*Guerriero Scheletro*, *Branco di Zombie*, *Colosso Zombie di Pezze*)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Room for One More - Passive:_** If a PC marks their last HP while in the graveyard, they become a _Specter_ instead of making a death move. While a _Specter_, a PC can communicate with the living but can't interact with the physical world, and they must stay within Close range of their corpse or cross through the veil of death. This condition is cleared when the PC clears a HP. _What new information or experience does a PC gain from becoming a specter? How can the party reunite the PC's spirit with their flesh? What happens if their ritual goes wrong?_
+**_C'è Posto per un Altro - Passiva:** Se un PG segna il suo ultimo PF mentre si trova nel cimitero, diventa uno _Spettro_ invece di effettuare una mossa di morte. Mentre è uno _Spettro_, un PG può comunicare con i vivi ma non può interagire con il mondo fisico, e deve restare entro portata Vicina dal proprio cadavere o oltrepassare il velo della morte. Questa condizione viene rimossa quando il PG rimuove un PF. _Quali nuove informazioni o esperienze ottiene un PG diventando uno spettro? Come può il gruppo ricongiungere lo spirito del PG alla sua carne? Cosa succede se il loro rituale va storto?_
 
-**_Hallowed Ground - Passive:_** At the center of the graveyard is a seemingly undisturbed chapel. On a successful Instinct Roll, a PC can discover this structure is sanctified against the cemetery's denizens. While inside the chapel, the PCs have advantage on action rolls to fight or drive off spirits and undead. _Who sanctified this place, and what happened to them? What holy relics can be found here?_
+**_Terreno Sacro - Passiva:** Al centro del cimitero c'è una cappella apparentemente intatta. Con un Tiro di Istinto riuscito, un PG può scoprire che questa struttura è consacrata contro gli abitanti del cimitero. Mentre si trovano nella cappella, i PG hanno vantaggio sui tiri d'azione per combattere o scacciare spiriti e non morti. _Chi ha consacrato questo luogo, e cosa gli è successo? Quali reliquie sacre si possono trovare qui?_
 
-**_Misty Miasma - Action:_** Spend a Fear to fill an area within Far range with a low-lying ectoplasmic fog that seeps up through the soggy earth. When a PC rolls with Fear while in the miasma, they must mark a Stress. _What horrors do the PCs see in the fog? What disorienting smell does the miasma emit?_
+**_Miasma Nebbioso - Azione:** Spendi una Paura per riempire un'area entro portata Lontana con una nebbia ectoplasmatica bassa che filtra attraverso la terra fradicia. Quando un PG tira con Paura mentre si trova nel miasma, deve segnare uno Stress. _Quali orrori vedono i PG nella nebbia? Quale odore disorientante emana il miasma?_
 
-**_The Dead Arise - Action:_** Spend a Fear to have undead hands burst forth from the ground beneath a PC. The target must succeed on an Agility or Presence Reaction Roll or mark a Stress and become temporarily _Restrained_ as hands grasp them. _Who were these people in life? Why were they buried here? Why won't they stay dead?_
+**_I Morti Risorgono - Azione:** Spendi una Paura per far sì che mani di non morti erompano dal terreno sotto un PG. Il bersaglio deve superare un Tiro di Reazione di Agilità o Presenza o segnare uno Stress e diventare temporaneamente _Ristretto_ mentre le mani lo afferrano. _Chi erano queste persone in vita? Perché sono state sepolte qui? Perché non restano morte?_
 
-**_The Dead Don't Die Easy - Reaction:_** When an adversary would mark their last HP, roll a d6. On a result of 5 or 6, the adversary doesn't mark it. _Who commanded this land to reject death? How do the dead come back different here?_
+**_I Morti Non Muoiono Facilmente - Reazione:** Quando un avversario dovrebbe segnare il suo ultimo PF, tira un d6. Su un risultato di 5 o 6, l'avversario non lo segna. _Chi ha ordinato a questa terra di rifiutare la morte? Come tornano i morti in modo diverso qui?_

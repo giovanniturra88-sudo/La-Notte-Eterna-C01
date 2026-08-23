@@ -23,18 +23,18 @@ Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'
 ---
 
 ### Fondazione
-**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di capacità magica invece di Forza, infliggendo 1d10 danni da Forza. Puoi farla scomparire e ricomparire come azione gratuita.
+**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di capacità magica invece di Forza, infliggendo 1d10 danni magici. Puoi farla scomparire e ricomparire senza spendere un'azione.
 
 ---
 
 ### Specializzazione
 **_Arcano della Preveggenza:_** Se non indossi armature, la tua Evasione aumenta di +2. Inoltre, ottieni vantaggio ai tiri di Iniziativa (il GM decide chi agisce per primo; se usi questo vantaggio, puoi chiedere di agire prima nella scena).
-**_Arcano del Tempo:_** Una volta per riposo lungo, come reazione quando tu o un alleato entro portata Vicina subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
+**_Arcano del Tempo:_** Una volta per riposo lungo, quando tu o un alleato entro portata Vicina subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
 
 ---
 
 ### Maestria
-**_Maestro del Fuoco Segreto:_** La tua lama di forza ignora qualsiasi resistenza o immunità al danno dei nemici. I tuoi attacchi riusciti con l'Arcano della Lama infliggono +1d10 danni da Forza extra.
+**_Maestro del Fuoco Segreto:_** La tua lama di forza ignora qualsiasi resistenza o immunità al danno dei nemici. I tuoi attacchi riusciti con l'Arcano della Lama infliggono +1d10 danni magici extra.
 
 ---
 

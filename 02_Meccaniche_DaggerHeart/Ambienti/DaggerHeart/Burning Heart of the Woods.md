@@ -3,26 +3,26 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Burning Heart of the Woods
+# Cuore in Fiamme dei Boschi
 
-**_Tier 3 Exploration._** _Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue._
+**_Esplorazione di Tier 3.**_ _Una densa cenere indaco riempie l'aria attorno a un albero imponente ricoperto di muschio che brucia in eterno con fiamme di un blu malaticcio._
 
-- **Impulses:** Beat out an uncanny rhythm for all to follow, corrupt the woods
-- **Difficulty:** 16
-- **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
+- **Impulsi:** Battere un ritmo inquietante da seguire per tutti, corrompere i boschi
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Bestie (Orso, Serpente di Vetro), Elementali (Scintilla Elementale), Difensori Silvani (Driade, Pastore di Alberi Quercia, Cavaliere del Cervo)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Chaos Magic Locus - Passive:_** When a PC makes a Spellcast Roll, they must roll two Fear Dice and take the higher result. _What does it feel like to work magic in this chaos-touched place? What do you fear will happen if you lose control of the spell?_
+**_Focolare di Magia del Caos - Passiva:_** Quando un PG effettua un Tiro per Lanciare Incantesimi, deve tirare due Dadi di Paura e tenere il risultato più alto. _Che sensazione dà usare la magia in questo luogo toccato dal caos? Cosa temi che accada se perdi il controllo dell'incantesimo?_
 
-**_The Indigo Flame - Passive:_** PCs who approach the central tree can make a Knowledge Roll to try to identify the magic that consumed this environment. _What Fallen cult corrupted these woods? What have they already done with the cursed wood and sap from this tree?_
+**_La Fiamma Indaco - Passiva:_** I PG che si avvicinano all'albero centrale possono effettuare un Tiro di Conoscenza per tentare di identificare la magia che ha consumato questo ambiente. _Quale setta dei Caduti ha corrotto questi boschi? Cosa hanno già fatto con il legno maledetto e la linfa di questo albero?_
 
-- **On a success**: They learn three of the below details. On a success with Fear, they learn two.
-- **On a failure**: They can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment.
-- **Details:** This is a result of Fallen magic. The corruption is spread through the ashen moss. It can be cleansed only by a ritual of nature magic with a Progress Countdown (8).
+- **Con un successo:** apprendono tre dei dettagli seguenti. Con un successo con Paura, ne apprendono due.
+- **Con un fallimento:** possono segnare uno Stress per apprenderne uno e ottenere vantaggio sul prossimo tiro d'azione per investigare questo ambiente.
+- **Dettagli:** È il risultato della magia dei Caduti. La corruzione si diffonde attraverso il muschio cinereo. Può essere purificata solo con un rituale di magia della natura con un Conto alla Rovescia di Avanzamento (8).
 
-**_Grasping Vines - Action:_** Animate vines bristling with thorns whip out from the underbrush to ensnare the PCs. A target must succeed on an Agility Reaction Roll or become _Restrained_ and _Vulnerable_ until they break free, clearing both conditions, with a successful Finesse or Strength Roll or by dealing 10 damage to the vines. When the target makes a roll to escape, they take **1d8+4** physical damage and lose a Hope. _What painful memories do the vines bring to the surface as they pierce flesh?_
+**_Viti Avvinghianti - Azione:_** Viti animate irte di spine si lanciano fuori dal sottobosco per catturare i PG. Un bersaglio deve superare un Tiro di Reazione di Agilità o diventare _Trattenuto_ e _Vulnerabile_ finché non si libera, eliminando entrambe le condizioni, con un Tiro di Finezza o di Forza riuscito o infliggendo 10 danni alle viti. Quando il bersaglio effettua un tiro per fuggire, subisce **1d8+4** danni fisici e perde una Speranza. _Quali ricordi dolorosi riportano a galla le viti mentre trafiggono la carne?_
 
-**_Charcoal Constructs - Action:_** Warped animals wreathed in indigo flame trample through a point of your choice. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take **3d12+3** physical damage. Targets who succeed take half damage instead. _Are these real animals consumed by the flame or merely constructs of the corrupting magic?_
+**_Costrutti di Carbone - Azione:_** Animali deformi avvolti da fiamme indaco calpestano un punto a tua scelta. Tutti i bersagli entro portata Vicina da quel punto devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono **3d12+3** danni fisici. I bersagli che riescono subiscono invece la metà dei danni. _Sono veri animali consumati dalle fiamme o semplici costrutti della magia corruttrice?_
 
-**_Choking Ash - Reaction: Countdown (Loop 6):_** When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take **4d6+5** direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll. _What hallucinations does the ash induce? What incongruous taste does it possess?_
+**_Cenere Soffocante - Reazione: Conto alla Rovescia (Ciclo 6):_** Quando i PG entrano nel Cuore in Fiamme dei Boschi, attiva il conto alla rovescia. Quando si attiva, tutti i personaggi devono effettuare un Tiro di Reazione di Forza o di Istinto. I bersagli che falliscono subiscono **4d6+5** danni fisici diretti. I bersagli che riescono subiscono la metà dei danni. Maschere o vestiti protettivi conferiscono vantaggio sul tiro di reazione. _Quali allucinazioni induce la cenere? Che sapore incongruo possiede?_

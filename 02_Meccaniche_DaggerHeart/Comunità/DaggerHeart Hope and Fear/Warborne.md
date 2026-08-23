@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Warborne
 
-Being part of a warborne community means you're accustomed to life shaped by conflict, conquest, or the constant threat of violence. Your people have survived through martial prowess, strategic thinking, and unwavering discipline. Warborne communities are often found in frontier settlements, military strongholds, or regions caught in perpetual territorial disputes. Members of a warborne community carry themselves with the confidence of those who have faced danger and lived to tell the tale, their daily lives punctuated by the necessities of defense and readiness for battle.
+Far parte di una comunità warborne significa essere abituati a una vita plasmata dal conflitto, dalla conquista o dalla costante minaccia della violenza. La tua gente è sopravvissuta grazie alla potenza marziale, al pensiero strategico e a una disciplina incrollabile. Le comunità warborne si trovano spesso in insediamenti di frontiera, roccaforti militari o regioni teatro di perpetue dispute territoriali. I membri di una comunità warborne si comportano con la sicurezza di chi ha affrontato il pericolo ed è rimasto vivo per raccontarlo, con le proprie giornate scandite dalle necessità della difesa e dalla prontezza alla battaglia.
 
-_Warborne are often bold, aggressive, disciplined, loyal, pragmatic, and proud._
+_I Warborne sono spesso audaci, aggressivi, disciplinati, leali, pragmatici e orgogliosi._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Warfare Expertise:_** You have advantage on rolls to intimidate foes, lead groups in combat situations, assess battlefield conditions, and recognize military formations or tactical setups.
+**_Esperienza di Guerra:_** Hai vantaggio sui tiri per intimidire i nemici, guidare gruppi in situazioni di combattimento, valutare le condizioni del campo di battaglia e riconoscere formazioni militari o schieramenti tattici.

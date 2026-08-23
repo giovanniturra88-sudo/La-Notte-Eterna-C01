@@ -4,20 +4,20 @@ type:
 tier: Tier 4
 ---
 
-# Mythic Beast
+# Bestia Mitica
 
-**_Tier 4_** _(Upgraded Tier 1 or Tier 2 Options)_
+**_Tier 4_** _(Opzioni di Tier 1 o Tier 2 Potenziate)_
 
-- **Trait Bonus:** <no value>
-- **Evasion Bonus:** <no value>
-- **Attack:** <no value>
-- **Advantages:** <no value>
+- **Bonus di Tratto:** <no value>
+- **Bonus di Evasione:** <no value>
+- **Attacco:** <no value>
+- **Vantaggi:** <no value>
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Evolved:_** Pick a Tier 1 or Tier 2 Beastform option and become a larger, more powerful version of that creature. While you're in this form, you retain all traits and features from the original form and gain the following bonuses:
+**_Evoluto:_** Scegli un'opzione di Forma Bestiale di Tier 1 o Tier 2 e diventa una versione più grande e potente di quella creatura. Mentre sei in questa forma, mantieni tutti i tratti e le caratteristiche della forma originale e ottieni i seguenti bonus:
 
-- A +9 bonus to damage rolls
-- A +2 bonus to the trait used by this form
-- A +3 bonus to Evasion
-- Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)
+- Un bonus di +9 ai tiri per i danni
+- Un bonus di +2 al tratto usato da questa forma
+- Un bonus di +3 all'Evasione
+- Il tuo dado di danno aumenta di una taglia (d6 diventa d8, d8 diventa d10, ecc.)

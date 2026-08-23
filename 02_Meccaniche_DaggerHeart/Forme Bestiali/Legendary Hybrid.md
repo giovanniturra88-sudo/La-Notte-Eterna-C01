@@ -4,15 +4,15 @@ type:
 tier: Tier 3
 ---
 
-# Legendary Hybrid
+# Ibrido Leggendario
 
-**_Tier 3_** _(Griffon, Sphinx, etc.)_
+**_Tier 3_** _(Grifone, Sfinge, ecc.)_
 
-- **Trait Bonus:** Strength +2
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Strength d10+8 phy
-- **Advantages:** <no value>
+- **Bonus di Tratto:** Forza +2
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Forza d10+8 fisici
+- **Vantaggi:** <no value>
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Hybrid Features:_** To transform into this creature, **mark an additional Stress.** Choose any two Beastform options from Tiers 1-2. Choose a total of four advantages and two features from those options.
+**_Caratteristiche Ibride:_** Per trasformarti in questa creatura, **segna uno Stress aggiuntivo.** Scegli due opzioni di Forma Bestiale qualsiasi dai Tier 1-2. Scegli un totale di quattro vantaggi e due caratteristiche da quelle opzioni.

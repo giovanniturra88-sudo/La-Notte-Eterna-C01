@@ -3,24 +3,24 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Cult Ritual
+# Rituale della Setta
 
-**_Tier 2 Event._** _A Fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green._
+**_Evento di Tier 2.**_ _Una setta dei Caduti si raduna attorno a un sigillo degli dèi sconfitti e a un falò che arde di un verde malaticcio._
 
-- **Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
-- **Difficulty:** 14
-- **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
+- **Impulsi:** Profanare la terra, unire il Regno Mortale ai Cerchi Sotto
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Setta dei Caduti (Adepto Cultista, Zanna Cultista, Iniziato Cultista, Custode dei Segreti)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Desecrated Ground - Passive:_** Cultists dedicated this place to the Fallen Gods, and their foul influence seeps into it. Reduce the PCs' Hope Die to a **d10** while in this environment. The desecration can be removed with a Progress Countdown (6). _How do the PCs first notice that something is wrong about this place? What fears resurface while hope is kept at bay?_
+**_Terreno Dissacrato - Passiva:_** I cultisti hanno dedicato questo luogo agli Dei Caduti e la loro influenza infame vi si infiltra. Riduci il Dado di Speranza dei PG a un **d10** finché si trovano in questo ambiente. La dissacrazione può essere rimossa con un Conto alla Rovescia di Avanzamento (6). _Come si accorgono i PG che qualcosa non va in questo luogo? Quali paure riaffiorano mentre la speranza viene tenuta a bada?_
 
-**_Blasphemous Might - Action:_** A portion of the ritual's power is diverted into a cult member to fight off interlopers. Choose one adversary to become _Imbued_ with terrible magic until the scene ends or they're defeated. An _Imbued_ adversary immediately takes the spotlight and gains one of the following benefits, or all three if you **spend a Fear**:
+**_Potere Blasfemo - Azione:_** Una parte del potere del rituale viene deviata in un membro del culto per respingere gli intrusi. Scegli un avversario che diventi _Infuso_ di magia terribile fino alla fine della scena o alla sua sconfitta. Un avversario _Infuso_ finisce immediatamente sotto i riflettori e ottiene uno dei seguenti benefici, o tutti e tre se **spendi una Paura**:
 
-- They gain advantage on all attacks.
-- They deal an extra **1d10** damage on a successful attack.
-- They gain the following feature: _Relentless (2) - Passive:_ This adversary can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them. _How does the enemy change in appearance? What fears do their blows bring to the surface?_
+- Ottiene vantaggio su tutti gli attacchi.
+- Infligge **1d10** danni extra con un attacco riuscito.
+- Ottiene la seguente caratteristica: _Implacabile (2) - Passiva:_ questo avversario può essere messo sotto i riflettori fino a due volte per turno del GM. Spendi Paure come al solito per metterlo sotto i riflettori. _Come cambia l'aspetto del nemico? Quali paure riportano a galla i suoi colpi?_
 
-**_The Summoning - Reaction: Countdown (6):_** When the PCs enter the scene or the cult begins the ritual to summon a demon, activate the countdown. Designate one adversary to lead the ritual. The countdown ticks down when a PC rolls with Fear. When it triggers, summon a Minor Demon within Very Close range of the ritual's leader. If the leader is defeated, the countdown ends with no effect as the ritual fails. _What will the cult do with this leashed demon if they succeed? What will they try to summon next?_
+**_L'Evocazione - Reazione: Conto alla Rovescia (6):_** Quando i PG entrano in scena o il culto inizia il rituale per evocare un demone, attiva il conto alla rovescia. Designa un avversario per condurre il rituale. Il conto alla rovescia scende quando un PG tira con Paura. Quando si attiva, evoca un Demone Minore entro portata Molto Vicina dal conduttore del rituale. Se il conduttore viene sconfitto, il conto alla rovescia termina senza effetti, poiché il rituale fallisce. _Cosa farà il culto con questo demone al guinzaglio se ci riesce? Cosa cercheranno di evocare dopo?_
 
-**_Complete the Ritual - Reaction:_** If the ritual's leader is targeted by an attack or spell, an ally within Very Close range of them can **mark a Stress** to be targeted by that attack or spell instead. _What does it feel like to see such devotion turned to the pursuit of fear and domination?_
+**_Completa il Rituale - Reazione:_** Se il conduttore del rituale viene preso di mira da un attacco o da un incantesimo, un alleato entro portata Molto Vicina da lui può **segnare uno Stress** per essere preso di mira da quell'attacco o incantesimo al suo posto. _Cosa si prova a vedere una devozione simile votata alla ricerca della paura e del dominio?_

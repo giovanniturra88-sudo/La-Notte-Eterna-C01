@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Freeborne
 
-Being part of a freeborne community means you're accustomed to life without strict laws, hierarchies, or appointed rulers. Your people value personal freedom above all else, living by their own code rather than the dictates of distant authorities. Freeborne communities are often found in frontier lands, wilderness settlements, or nomadic camps where individual autonomy is respected. Members of a freeborne community trust in personal bonds and mutual aid over formal institutions, and they resist any attempts to control or govern them by others.
+Far parte di una comunità freeborne significa essere abituati a una vita senza leggi rigide, gerarchie o governanti imposti. La tua gente valorizza la libertà personale al di sopra di ogni cosa, vivendo secondo il proprio codice piuttosto che secondo i dettami di autorità lontane. Le comunità freeborne si trovano spesso in terre di frontiera, insediamenti selvaggi o accampamenti nomadi in cui l'autonomia individuale è rispettata. I membri di una comunità freeborne confidano nei legami personali e nell'aiuto reciproco più che nelle istituzioni formali, e resistono a qualsiasi tentativo di essere controllati o governati da altri.
 
-_Freeborne are often independent, candid, rebellious, straightforward, trustworthy, and defiant._
+_I Freeborne sono spesso indipendenti, franchi, ribelli, schietti, affidabili e sfidanti._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Freedom of Movement:_** You have advantage on rolls to avoid being restrained, captured, or confined, and to navigate complex terrain where stealth and mobility are essential.
+**_Libertà di Movimento:_** Hai vantaggio sui tiri per evitare di essere trattenuto, catturato o rinchiuso e per districarti in terreni complessi dove furtività e mobilità sono essenziali.

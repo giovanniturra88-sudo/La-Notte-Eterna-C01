@@ -3,26 +3,26 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Abandoned Mine
+# Miniera Abbandonata
 
-**_Tier 1 Traversal._** _A twisting warren of disused tunnels carved out of the bedrock by a doomed mining outfit._
+**_Tier 1 Attraversamento.** _Un tortuoso intrico di gallerie in disuso scavato nella roccia da una compagnia mineraria condannata._
 
-- **Impulses:** Poison the party with deadly gasses, rumble and collapse, split the party, turn them around
-- **Difficulty:** 11
-- **Potential Adversaries:** Darkweave Spiders (*Darkweave Crawler, Darkweave Spinner, Darkweave Swarmlings*), Miner Ghosts (*Poltergeist, Will-o'-the-Wisps*)
+- **Impulsi:** Avvelenare il gruppo con gas letali, tremare e crollare, dividere il gruppo, farli smarrire
+- **Difficoltà:** 11
+- **Avversari Potenziali:** Ragni di Tessuto Oscuro (*Ragno Strisciante di Tessuto Oscuro, Ragno Tessitore di Tessuto Oscuro, Ragnetti di Sciame di Tessuto Oscuro*), Fantasmi dei Minatori (*Poltergeist, Fuochi Fatui*)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Pitch Black - Passive:_** There is no light, natural or otherwise, in these underground mining tunnels. Ask the PCs what they use for light or how they otherwise find their way in the dark. PCs without a reliable source of light make action and reaction rolls with disadvantage. _What fuel does the party's light source use, and how long will it last? What unwanted attention does the light attract?_
+**_Buio Pestoso - Passiva:** Non c'è luce, naturale o di altro tipo, in queste gallerie minerarie sotterranee. Chiedi ai PG cosa usano per illuminarsi o come si orientano altrimenti nell'oscurità. I PG senza una fonte di luce affidabile effettuano tiri d'azione e di reazione con svantaggio. _Che combustibile usa la fonte di luce del gruppo, e quanto durerà? Che attenzioni indesiderate attira la luce?_
 
-**_Labyrinth - Passive:_** The party must complete a Progress Countdown (4) to find their way through the mines. Each time a PC rolls with Hope while finding their way through, they discover one of the curiosities below:
-- An unmined vein of precious metals or gemstones
-- Various mining tools, including a broken (but mendable) mine cart made of adamantine
-- Psychic echoes of the miners' tragic end
-- The desiccated corpses of miners who lost their way in the tunnels
-- Tattered remnants of darkweave spider silk
-_Help: _What did miners previously extract here? Who in the party knows how to navigate below ground? What are the PCs most afraid might happen to them down here?_
+**_Labirinto - Passiva:** Il gruppo deve completare un Conto alla Rovescia di Progresso (4) per trovare la strada attraverso la miniera. Ogni volta che un PG tira con Speranza mentre trova la strada, scopre una delle curiosità qui sotto:
+- Un filone non ancora estratto di metalli preziosi o gemme
+- Vari attrezzi minerari, tra cui un carrello da miniera rotto (ma riparabile) di adamantio
+- Echi psichici della tragica fine dei minatori
+- I cadaveri essiccati dei minatori che persero la strada nelle gallerie
+- Resti a brandelli di seta di ragno di tessuto oscuro
+_Aiuto: _Cosa estraevano qui i minatori? Chi nel gruppo sa orientarsi sottoterra? Cosa temono di più i PG che possa accadere loro quaggiù?_
 
-**_Into the Spider's Web - Action:_** **Spend a Fear** to summon a Darkweave Queen inside her gossamer-strewn lair. She drops from the ceiling within Close range of a PC and immediately takes the spotlight. _How does the Darkweave Queen use her lair to her advantage? What remnants of her past meals can the party find here?_
+**_Nella Tela del Ragno - Azione:** **Spendi una Paura** per evocare una Regina di Tessuto Oscuro nella sua tana costellata di fili di seta. Cala dal soffitto entro portata Vicina da un PG e prende immediatamente i riflettori. _Come sfrutta la Regina di Tessuto Oscuro la sua tana a proprio vantaggio? Quali resti dei suoi pasti passati può trovare il gruppo qui?_
 
-**_Impending Collapse - Reaction:_** Countdown (2). The first time the PCs roll with Fear, describe how the ground subtly vibrates as rocks shift overhead and activate the countdown. It ticks down when a PC rolls with Fear. When it triggers, each PC must succeed on an Agility Reaction Roll or take 1d8+3 physical damage and become temporarily *Restrained* by the rubble. _What other signs of instability does the mine offer the party? What new dangers does the tunnel system's new configuration expose the party to?_
+**_Collasso Imminente - Reazione:** Conto alla Rovescia (2). La prima volta che i PG tirano con Paura, descrivi come il terreno vibra sottilmente mentre le rocce si spostano in alto e attiva il conto alla rovescia. Scorre quando un PG tira con Paura. Quando scatta, ogni PG deve superare un Tiro di Reazione di Agilità o subire 1d8+3 danni fisici e diventare temporaneamente *Ristretto* dalle macerie. _Quali altri segni di instabilità offre la miniera al gruppo? A quali nuovi pericoli espone il gruppo la nuova conformazione del sistema di gallerie?_

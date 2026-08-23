@@ -4,19 +4,19 @@ type:
 tier: Tier 4
 ---
 
-# Massive Behemoth
+# Colosso Massiccio
 
-**_Tier 4_** _(Elephant, Mammoth, Rhinoceros, etc.)_
+**_Tier 4_** _(Elefante, Mammut, Rinoceronte, ecc.)_
 
-- **Trait Bonus:** Strength +3
-- **Evasion Bonus:** Evasion +1
-- **Attack:** Melee Strength d12+12 phy
-- **Advantages:** locate, protect, scare, sprint
+- **Bonus di Tratto:** Forza +3
+- **Bonus di Evasione:** Evasione +1
+- **Attacco:** Mischia Forza d12+12 fisici
+- **Vantaggi:** localizzare, proteggere, spaventare, scattare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Carrier:_** You can carry up to four willing allies with you when you move.
+**_Trasporto:_** Puoi trasportare fino a quattro alleati disposti con te quando ti muovi.
 
-**_Demolish:_** **Spend a Hope** to move up to Far range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+10** physical damage using your Proficiency and are temporarily _Vulnerable._
+**_Demolire:_** **Spendi una Speranza** per spostarti fino a portata Lontana in linea retta ed effettuare un attacco contro tutti i bersagli entro portata di mischia dalla linea. I bersagli contro cui riesci subiscono **d8+10** danni fisici usando la tua Competenza e sono temporaneamente _Vulnerabili._
 
-**_Undaunted:_** You gain a +2 bonus to all your damage thresholds.
+**_Impavido:_** Ottieni un bonus di +2 a tutte le tue soglie di danno.

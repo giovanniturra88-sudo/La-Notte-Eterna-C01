@@ -17,7 +17,7 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Fondazione
-**_Recuperare Energie Migliorato:_** Puoi utilizzare la tua caratteristica di classe per recuperare HP o Stress come reazione quando subisci danni. Se la cura supera il tuo valore massimo di HP, i punti in eccesso diventano Punti Ferita temporanei.
+**_Recuperare Energie Migliorato:_** Puoi utilizzare la tua caratteristica di classe per recuperare Punti Ferita o Stress quando subisci danni. Se la cura supera il tuo valore massimo di Punti Ferita, i punti in eccesso diventano Punti Ferita temporanei.
 
 ---
 

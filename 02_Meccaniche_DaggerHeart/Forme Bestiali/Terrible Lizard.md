@@ -4,17 +4,17 @@ type:
 tier: Tier 4
 ---
 
-# Terrible Lizard
+# Lucertola Terribile
 
-**_Tier 4_** _(Brachiosaurus, Tyrannosaurus, etc.)_
+**_Tier 4_** _(Brachiosauro, Tirannosauro, ecc.)_
 
-- **Trait Bonus:** Strength +3
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Strength d12+10 phy
-- **Advantages:** attack, deceive, scare, track
+- **Bonus di Tratto:** Forza +3
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Forza d12+10 fisici
+- **Vantaggi:** attaccare, ingannare, spaventare, rintracciare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Devastating Strikes:_** When you deal Severe damage to a target within Melee range, you can **mark a Stress** to force them to mark an additional Hit Point.
+**_Colpi Devastanti:_** Quando infliggi danni Gravi a un bersaglio entro portata di mischia, puoi **segnare uno Stress** per costringerlo a segnare un Punto Ferita aggiuntivo.
 
-**_Massive Stride:_** You can move up to Far range without rolling. You ignore rough terain (at the GM's discretion) due to your size.
+**_Passo Colossale:_** Puoi spostarti fino a portata Lontana senza tirare. Ignori il terreno accidentato (a discrezione del GM) grazie alla tua stazza.

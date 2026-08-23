@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Masquerade Ball
+# Ballo in Maschera
 
-**_Tier 2 Event._** _A high society gala where masked revelers trade secrets and favors._
+**_Tier 2 Evento.** _Un galà dell'alta società in cui festaioli mascherati scambiano segreti e favori._
 
-- **Impulses:** Dance the night away, eat and be merry, make secret deals, trade valuable information
-- **Difficulty:** 14
-- **Potential Adversaries:** Operatives (Masked Thief, Master Assassin, Spy), Revelers (Courtesan, Merchant Baron, Royal Advisor)
+- **Impulsi:** Ballare fino a notte fonda, mangiare e gioire, stringere accordi segreti, scambiare informazioni preziose
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Operativi (Ladro Mascherato, Maestro Assassino, Spia), Festaioli (Cortigiana, Barone Mercante, Consigliere Reale)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Costumes Required - Passive:_** Everyone at the ball is expected to arrive in costume. PCs have advantage on Presence Rolls to convince others they are someoneâ€”or somethingâ€”they're not. _What do the PCs come dressed as? What do their costumes reveal about their true selves?_
+**_Costumi Obbligatori - Passiva:** Tutti al ballo sono tenuti ad arrivare in costume. I PG hanno vantaggio sui Tiri di Presenza per convincere gli altri di essere qualcuno — o qualcosa — che non sono. _Come si presentano i PG in costume? Cosa rivelano i loro costumi del loro vero io?_
 
-**_"Care to Dance?" - Passive:_** While dancing, a PC can make an Agility Roll instead of a Presence Roll to influence others. _What's notable or unique about the dances that are in fashion here? Where did the PCs learn how to perform them?_
+**_"Vuoi Ballare?" - Passiva:** Mentre balla, un PG può effettuare un Tiro di Agilità invece di un Tiro di Presenza per influenzare gli altri. _Cosa c'è di notevole o unico nei balli di moda qui? Dove hanno imparato a eseguirli i PG?_
 
-**_Mistaken Identity - Action:_** A very important person confuses a PC with an even more important person. The target can make a Presence Reaction Roll. On a success, the PC can ask the VIP to perform a favor, relay a key piece of information, or make an introduction. On a failure, the PC marks a Stress as their true identity is discovered, and they are threatened with ejection from the party. _Who does the VIP mistake them for? What doors does their mistake open? What dangers does it bring?_
+**_Identità Scambiata - Azione:** Un personaggio molto importante confonde un PG con una persona ancora più importante. Il bersaglio può effettuare un Tiro di Reazione di Presenza. Su un successo, il PG può chiedere al VIP di fare un favore, riferire un'informazione chiave o fare una presentazione. Su un fallimento, il PG segna uno Stress mentre la sua vera identità viene scoperta, e viene minacciato di allontanamento dalla festa. _Per chi scambia il VIP il PG? Quali porte apre il loro errore? Quali pericoli porta con sé?_
 
-**_Cloak and Dagger - Action:_** **Spend a Fear** to have an operative try to steal something valuable or assassinate someone important. A PC can make an Instinct Roll to try to notice them before they achieve their objective. On a success, the PC gains the opportunity to intervene. On a failure with Fear, the PC is erroneously implicated in the crime. _Who does the operative work for? Why did they send them to the masquerade?_
+**_Mantello e Pugnale - Azione:** **Spendi una Paura** per far sì che un operativo tenti di rubare qualcosa di prezioso o assassinare qualcuno di importante. Un PG può effettuare un Tiro di Istinto per cercare di notarli prima che raggiungano il loro obiettivo. Su un successo, il PG ha l'opportunità di intervenire. Su un fallimento con Paura, il PG viene erroneamente implicato nel crimine. _Per chi lavora l'operativo? Perché li hanno mandati al ballo in maschera?_

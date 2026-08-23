@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Imperial Court
+# Corte Imperiale
 
-**_Tier 4 Social._** _The majestic domain of a powerful empire, lavishly appointed with stolen treasures._
+**_Sociale di Tier 4.**_ _Il maestoso dominio di un potente impero, sfarzosamente arredato con tesori rubati._
 
-- **Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
-- **Difficulty:** 20
-- **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
+- **Impulsi:** Giustificare e perpetuare il dominio imperiale, sedurre i rivali con promesse di potere e benessere
+- **Difficoltà:** 20
+- **Avversari Potenziali:** Guardia con Lama, Cortigiana, Cavaliere della Corona, Monarca, Spia
 
-### FEATURES
+### CARATTERISTICHE
 
-**_All Roads Lead Here - Passive:_** While in the Imperial Court, a PC has disadvantage on Presence Rolls made to take actions that don't fit the imperial way of life or support the empire's dominance. _How does the way language is used make even discussing alternative ways of living difficult? What obvious benefits for loyalty create friction when you try to discuss alternatives?_
+**_Tutte le Strade Portano Qui - Passiva:_** Mentre si trova nella Corte Imperiale, un PG ha svantaggio sui Tiri di Presenza effettuati per compiere azioni che non si confanno al modo di vivere imperiale o che non sostengono il dominio dell'impero. _In che modo l'uso del linguaggio rende difficile persino discutere stili di vita alternativi? Quali evidenti benefici legati alla lealtà creano attrito quando provi a parlare di alternative?_
 
-**_Rival Vassals - Passive:_** The PCs can find imperial subjects, vassals, and supplicants in the court, each vying for favor, seeking proximity to power, exchanging favors for loyalty, and elevating their status above others'. Some might be desperate to undermine their rivals, while others might even be open to discussions that verge on sedition. _How do they benefit from vassalage, and what has it cost them? What exploitation drives them to consider opposing the unstoppable?_
+**_Vassalli Rivali - Passiva:_** I PG possono trovare sudditi imperiali, vassalli e supplici a corte, tutti in gara per il favore, in cerca di vicinanza al potere, che scambiano favori per lealtà e innalzano il proprio status sopra quello degli altri. Alcuni potrebbero essere disperati di minare i propri rivali, mentre altri potrebbero persino essere aperti a discussioni che rasentano la sedizione. _Come traggono beneficio dal vassallaggio e cosa è costato loro? Quale sfruttamento li spinge a prendere in considerazione l'idea di opporsi a ciò che è inarrestabile?_
 
-**_The Gravity of Empire - Action:_** **Spend a Fear** to present a PC with a golden opportunity or offer to satisfy a major goal in exchange for obeying or supporting the empire. The target must make a Presence Reaction Roll. On a failure, they must mark all their Stress or accept the offer. If they have already marked all their Stress, they must accept the offer or exile themselves from the empire. On a success, they must mark **1d4** Stress as they're taxed by temptation. _What do the PCs want so desperately they might consider throwing in with this ruthless power? How did imperial agents learn the PC's greatest desires?_
+**_La Gravità dell'Impero - Azione:_** **Spendi una Paura** per offrire a un PG un'occasione d'oro o la promessa di soddisfare un obiettivo importante in cambio dell'obbedienza o del sostegno all'impero. Il bersaglio deve effettuare un Tiro di Reazione di Presenza. Con un fallimento, deve segnare tutto il suo Stress o accettare l'offerta. Se ha già segnato tutto il suo Stress, deve accettare l'offerta o autoesiliarsi dall'impero. Con un successo, deve segnare **1d4** Stress, messo alla prova dalla tentazione. _Cosa desiderano così disperatamente i PG da prendere in considerazione l'idea di schierarsi con questo potere spietato? Come hanno scoperto i desideri più profondi dei PG gli agenti imperiali?_
 
-**_Imperial Decree - Action:_** **Spend a Fear** to tick down a long-term countdown related to the empire's agenda by **1d4**. If this triggers the countdown, a proclamation related to the agenda is announced at court as the plan is executed. _What display of power or transfer of wealth was needed to expedite this plan? Whose lives were disrupted or upended to make this happen?_
+**_Decreto Imperiale - Azione:_** **Spendi una Paura** per far scendere di **1d4** un conto alla rovescia a lungo termine legato all'agenda dell'impero. Se questo attiva il conto alla rovescia, un proclama legato all'agenda viene annunciato a corte mentre il piano viene eseguito. _Quale dimostrazione di potere o trasferimento di ricchezze è stato necessario per accelerare questo piano? La vita di chi è stata sconvolta o stravolta perché tutto questo accadesse?_
 
-**_Eyes Everywhere - Reaction:_** On a result with Fear, you can **spend a Fear** to have someone loyal to the empire overhear seditious talk within the court. A PC must succeed on an Instinct Reaction Roll to notice that the group has been overheard so they can try to intercept the witness before the PCs are exposed. _How has the empire compromised this witness? Why is their first impulse to protect the empire, even if doesn't treat them well?_
+**_Occhi Ovunque - Reazione:_** Con un risultato con Paura, puoi **spendere una Paura** per far sì che qualcuno fedele all'impero origli un discorso sovversivo a corte. Un PG deve superare un Tiro di Reazione di Istinto per accorgersi che il gruppo è stato origliato, così da poter tentare di intercettare il testimone prima che i PG vengano smascherati. _Come ha compromesso l'impero questo testimone? Perché il suo primo istinto è proteggere l'impero, anche se non lo tratta bene?_

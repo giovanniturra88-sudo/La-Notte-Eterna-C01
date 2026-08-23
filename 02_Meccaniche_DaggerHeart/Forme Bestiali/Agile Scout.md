@@ -4,17 +4,17 @@ type:
 tier: Tier 1
 ---
 
-# Agile Scout
+# Esploratore Agile
 
-**_Tier 1_** _(Fox, Mouse, Weasel, etc.)_
+**_Tier 1_** _(Volpe, Topo, Donnola, ecc.)_
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Agility d4 phy
-- **Advantages:** deceive, locate, sneak
+- **Bonus di Tratto:** Agilità +1
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Agilità d4 fisici
+- **Vantaggi:** ingannare, localizzare, intrufolarsi
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Agile:_** Your movement is silent, and you can **spend a Hope** to move up to Far range without rolling.
+**_Agile:_** Il tuo movimento è silenzioso e puoi **spendere una Speranza** per spostarti fino a portata Lontana senza tirare.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+**_Fragile:_** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.

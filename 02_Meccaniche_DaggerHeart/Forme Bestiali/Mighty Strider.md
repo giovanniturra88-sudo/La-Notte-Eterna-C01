@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Mighty Strider
+# Corridore Possente
 
-**_Tier 2_** _(Camel, Horse, Zebra, etc.)_
+**_Tier 2_** _(Cammello, Cavallo, Zebra, ecc.)_
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Agility d8+1 phy
-- **Advantages:** leap, navigate, sprint
+- **Bonus di Tratto:** Agilità +1
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Agilità d8+1 fisici
+- **Vantaggi:** saltare, orientarsi, scattare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Carrier:_** You can carry up to two willing allies with you when you move.
+**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.
 
-**_Trample:_** **Mark a Stress** to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take **d8+1** physical damage using your Proficiency and are temporarily _Vulnerable_.
+**_Calpestio:_** **Segna uno Stress** per spostarti fino a portata Vicina in linea retta ed effettuare un attacco contro tutti i bersagli entro portata di mischia dalla linea. I bersagli contro cui riesci subiscono **d8+1** danni fisici usando la tua Competenza e sono temporaneamente _Vulnerabili_.

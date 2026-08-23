@@ -3,7 +3,7 @@
 ---
 
 ### Circolo di Potere: Dolore
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 10 minuti (Rituale)
 * **Gittata:** Zona Ravvicinata (Raggio)
@@ -20,7 +20,7 @@ Puoi incantare un numero di oggetti/chiodi pari al tuo valore di **Presenza**. C
 ---
 
 ### Circolo Lunare
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 2 ore
 * **Gittata:** Zona Lontana (Raggio)
@@ -33,7 +33,7 @@ Quando evochi il circolo, puoi designare le creature alleate che saranno immuni.
 ---
 
 ### Flagello Naturale di Fahrn
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Zona Molto Lontana
@@ -47,7 +47,7 @@ Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero
 ---
 
 ### Lascito di Kurash
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** Rituale (7 giorni)
 * **Gittata:** Personale / Zona Ravvicinata
@@ -64,7 +64,7 @@ Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vit
 ---
 
 ### Nube di Stelle
-* **Dominio / Tipo:** Spell (Vera Magia)
+* **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 10 minuti
 * **Gittata:** Zona Lontana (Raggio)

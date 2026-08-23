@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Striking Serpent
+# Serpente Colpente
 
-**_Tier 2_** _(Cobra, Rattlesnake, Viper, etc.)_
+**_Tier 2_** _(Cobra, Serpente a Sonagli, Vipera, ecc.)_
 
-- **Trait Bonus:** Finesse +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Very Close Finesse d8+4 phy
-- **Advantages:** climb, deceive, sprint
+- **Bonus di Tratto:** Finezza +1
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Molto Vicino Finezza d8+4 fisici
+- **Vantaggi:** arrampicarsi, ingannare, scattare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Venomous Strike:_** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily _Poisoned_. A _Poisoned_ creature takes **1d10** direct physical damage each time they act.
+**_Colpo Velenoso:_** Effettua un attacco contro un qualsiasi numero di bersagli entro portata Molto Vicina. In caso di successo, un bersaglio è temporaneamente _Avvelenato_. Una creatura _Avvelenata_ subisce **1d10** danni fisici diretti ogni volta che agisce.
 
-**_Warning Hiss:_** **Mark a Stress** to force any number of targets within Melee range to move back to Very Close range.
+**_Sibilo di Avvertimento:_** **Segna uno Stress** per costringere un qualsiasi numero di bersagli entro portata di mischia a indietreggiare fino a portata Molto Vicina.

@@ -3,27 +3,27 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Vast Desert
+# Vasto Deserto
 
-**_Tier 2 Traversal._** _A parched expanse of sandy dunes, desolate salt flats, and windblown rock formations._
+**_Tier 2 Attraversamento.** _Una distesa riarsa di dune sabbiose, saline desolate e formazioni rocciose scolpite dal vento._
 
-- **Impulses:** Dehydrate, show desolate beauty, threaten danger on the horizon
-- **Difficulty:** 14
-- **Potential Adversaries:** Acid Burrower, Desert Raiders (Jagged Knife Bandits), Landshark, Sandwyrm
+- **Impulsi:** Disidratare, mostrare una bellezza desolata, minacciare con pericoli all'orizzonte
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Scavatore Acido, Predoni del Deserto (Banditi del Coltello Frastagliato), Squalo di Terra, Verme delle Sabbie
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Endless Sands - Passive:_** Start a Countdown (8). To cross the desert, the party must complete the countdown. It ticks down whenever a PC succeeds on an action roll to navigate the seemingly endless expanse. _How do the PCs travel through the desert? What beyond the extreme distance and lack of water makes this area difficult to cross?_
+**_Sabbie Infinite - Passiva:** Avvia un Conto alla Rovescia (8). Per attraversare il deserto, il gruppo deve completare il conto alla rovescia. Scorre ogni volta che un PG riesce in un tiro d'azione per orientarsi in questa distesa apparentemente infinita. _Come viaggiano i PG attraverso il deserto? Cosa, oltre all'estrema distanza e alla mancanza d'acqua, rende difficile attraversare questa zona?_
 
-**_Water Supply - Passive:_** When the party starts their journey, place a number of tokens on this stat block equal to 1 + the number of PCs in the scene. Remove a token at the end of each long rest or when a PC fails an action roll to navigate the desert. When a token would be removed but there are none left, each PC must mark a HP and a Stress. A PC can add a token to this stat block by using a downtime move and making a successful Knowledge Roll to hunt for water. _What sorts of water-preserving flora or terrain features have the PCs heard might be found in this desert? How do the PCs collect and carry the water they find?_
+**_Riserva d'Acqua - Passiva:** Quando il gruppo inizia il suo viaggio, posiziona su questo statblock un numero di token pari a 1 + il numero di PG nella scena. Rimuovi un token alla fine di ogni riposo lungo o quando un PG fallisce un tiro d'azione per orientarsi nel deserto. Quando un token dovrebbe essere rimosso ma non ce ne sono più, ogni PG deve segnare un PF e uno Stress. Un PG può aggiungere un token a questo statblock usando una mossa di downtime ed effettuando un Tiro di Conoscenza riuscito per cercare acqua. _Quali tipi di flora che conserva l'acqua o di caratteristiche del terreno hanno sentito dire i PG che si potrebbero trovare in questo deserto? Come raccolgono e trasportano i PG l'acqua che trovano?_
 
-**_Shifting Sands - Passive:_** The ever-shifting dunes and the whipping wind make trailing creatures through this environment difficult. Action rolls to track creatures through the desert are made with disadvantage. _How do the dunes and landscape shift whenever the heroes rest? What is covered or uncovered by the wind?_
+**_Sabbie Mobili - Passiva:** Le dune in continuo movimento e il vento che frusta rendono difficile seguire le tracce delle creature in questo ambiente. I tiri d'azione per seguire le tracce delle creature nel deserto vengono effettuati con svantaggio. _Come cambiano le dune e il paesaggio ogni volta che gli eroi si riposano? Cosa viene coperto o scoperto dal vento?_
 
-**_Thunderstorm - Action:_** Spend a Fear to have a torrential downpour soak the land. Each PC must either seek shelter from the storm or collect rainwater. Each PC who seeks shelter marks a Stress. The PCs who collect rainwater make a group action roll.
-- On a success with Hope, add 1d4 tokens to the Water Supply.
-- On a success with Fear, add 1 token to the Water Supply.
-- On a failure with Hope, each PC who took part in the group action roll marks a Stress.
-- On a failure with Fear, each PC who took part in the group action roll marks a Stress, and the PC who rolled the lowest takes 2d8+4 physical damage from the storm.
-_How does the storm look to the heroes as it rolls in from miles away? Is the storm natural or unnatural? How can you tell?_
+**_Temporale - Azione:** Spendi una Paura per far sì che un acquazzone torrenziale inzuppi la terra. Ogni PG deve cercare riparo dalla tempesta o raccogliere l'acqua piovana. Ogni PG che cerca riparo segna uno Stress. I PG che raccolgono l'acqua piovana effettuano un tiro d'azione di gruppo.
+- Su un successo con Speranza, aggiungi 1d4 token alla Riserva d'Acqua.
+- Su un successo con Paura, aggiungi 1 token alla Riserva d'Acqua.
+- Su un fallimento con Speranza, ogni PG che ha preso parte al tiro d'azione di gruppo segna uno Stress.
+- Su un fallimento con Paura, ogni PG che ha preso parte al tiro d'azione di gruppo segna uno Stress, e il PG che ha tirato il risultato più basso subisce 2d8+4 danni fisici dalla tempesta.
+_Come appare la tempesta agli eroi mentre si avvicina da miglia di distanza? La tempesta è naturale o innaturale? Come puoi capirlo?_
 
-**_Sandstorm - Action:_** Spend a Fear to summon a sandstorm that disorients and harries travelers. Each PC takes 2d6+3 physical damage. Until the sandstorm dissipates, a PC who makes an action roll must succeed on an Agility Reaction Roll to avoid the swirl of rocks and debris or take 2d6+3 physical damage. _What do the dwellers of this desert wear to weather the sandstorms? How are the dwelling places the party finds here designed to withstand the winds?_
+**_Tempesta di Sabbia - Azione:** Spendi una Paura per evocare una tempesta di sabbia che disorienta e assilla i viaggiatori. Ogni PG subisce 2d6+3 danni fisici. Finché la tempesta di sabbia non si dissipa, un PG che effettua un tiro d'azione deve superare un Tiro di Reazione di Agilità per evitare il turbine di rocce e detriti o subire 2d6+3 danni fisici. _Cosa indossano gli abitanti di questo deserto per affrontare le tempeste di sabbia? Come sono progettate le abitazioni che il gruppo trova qui per resistere ai venti?_

@@ -4,17 +4,17 @@ type:
 tier: Tier 1
 ---
 
-# Aquatic Scout
+# Esploratore Acquatico
 
-**_Tier 1_** _(Eel, Fish, Octopus, etc.)_
+**_Tier 1_** _(Anguilla, Pesce, Polpo, ecc.)_
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +2
-- **Attack:** Melee Agility d4 phy
-- **Advantages:** navigate, sneak, swim
+- **Bonus di Tratto:** Agilità +1
+- **Bonus di Evasione:** Evasione +2
+- **Attacco:** Mischia Agilità d4 fisici
+- **Vantaggi:** orientarsi, intrufolarsi, nuotare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Aquatic:_** You can breathe and move naturally underwater.
+**_Acquatico:_** Puoi respirare e muoverti naturalmente sott'acqua.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+**_Fragile:_** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.

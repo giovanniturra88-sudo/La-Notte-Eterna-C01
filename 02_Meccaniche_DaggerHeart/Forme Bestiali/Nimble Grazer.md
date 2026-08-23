@@ -4,17 +4,17 @@ type:
 tier: Tier 1
 ---
 
-# Nimble Grazer
+# Erbivoro Agile
 
-**_Tier 1_** _(Deer, Gazelle, Goat, etc.)_
+**_Tier 1_** _(Cervo, Gazzella, Capra, ecc.)_
 
-- **Trait Bonus:** Agility +1
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Agility d6 phy
-- **Advantages:** leap, sneak, sprint
+- **Bonus di Tratto:** Agilità +1
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Agilità d6 fisici
+- **Vantaggi:** saltare, intrufolarsi, scattare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Elusive Prey:_** When an attack roll against you would succeed, you can **mark a Stress** and roll a **d4.** Add the result to your Evasion against this attack.
+**_Presa Elusiva:_** Quando un tiro di attacco contro di te starebbe per avere successo, puoi **segnare uno Stress** e tirare un **d4.** Aggiungi il risultato alla tua Evasione contro questo attacco.
 
-**_Fragile:_** When you take Major or greater damage, you drop out of Beastform.
+**_Fragile:_** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.

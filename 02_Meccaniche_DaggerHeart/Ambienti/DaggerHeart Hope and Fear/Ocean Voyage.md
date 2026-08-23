@@ -3,22 +3,22 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Ocean Voyage
+# Viaggio per Mare
 
-**_Tier 2 Traversal._** _The PCs gain passage to a far-off destination by offering their labor in exchange._
+**_Tier 2 Attraversamento.** _I PG ottengono il passaggio verso una destinazione lontana offrendo in cambio il loro lavoro._
 
-- **Impulses:** Reveal what lurks beneath the waves, send them in the wrong direction, sink the ship, use up their resources
-- **Difficulty:** 14
-- **Potential Adversaries:** Deep Sea Denizens (Electric Eels, Kraken, Shark, Siren), Pirates (Pirate Captain, Pirate Raiders)
+- **Impulsi:** Rivelare ciò che si nasconde sotto le onde, mandarli nella direzione sbagliata, affondare la nave, consumare le loro risorse
+- **Difficoltà:** 14
+- **Avversari Potenziali:** Abitanti degli Abissi (Anguille Elettriche, Kraken, Squalo, Sirena), Pirati (Capitano Pirata, Predoni Pirati)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Open Water - Passive:_** Countdown (8). Reaching their destination requires the party to complete the Open Water Countdown. It ticks down when a PC succeeds on an action roll to aid the ship's journey. _Where is the ship headed? What dangers along the route do the crew speak about in hushed tones?_
+**_Acque Aperte - Passiva:** Conto alla Rovescia (8). Raggiungere la destinazione richiede che il gruppo completi il Conto alla Rovescia di Mare Aperto. Scorre quando un PG riesce in un tiro d'azione per aiutare il viaggio della nave. _Dove è diretta la nave? Di quali pericoli lungo la rotta parla l'equipaggio a bassa voce?_
 
-**_Rations Run Low - Passive:_** The first time a PC rolls a failure with Fear on this journey, the crew discovers that the food and fresh water in the ship's hold have been befouled by pests and mold. Until the party reaches its destination, a PC who makes an action roll to advance the Open Water Countdown must succeed on a Strength Reaction Roll or mark 1d4 Stress. _What happened to the rations? What drastic measures does the crew take to ensure they don't all die of hunger and thirst?_
+**_Le Razioni Scarseggiano - Passiva:** La prima volta che un PG ottiene un fallimento con Paura durante questo viaggio, l'equipaggio scopre che il cibo e l'acqua dolce nella stiva della nave sono stati contaminati da parassiti e muffa. Finché il gruppo non raggiunge la destinazione, un PG che effettua un tiro d'azione per far avanzare il Conto alla Rovescia di Mare Aperto deve superare un Tiro di Reazione di Forza o segnare 1d4 Stress. _Cosa è successo alle razioni? Quali misure drastiche prende l'equipaggio per assicurarsi che non muoiano tutti di fame e di sete?_
 
-**_"Pirates!" - Action:_** **Spend a Fear** to have a crewmember in the crow's nest spy black sails on the horizon! Start a Consequence Countdown (4). If it triggers before the party reaches their destination, the pirates catch up to the ship and board it. Gain a Fear, then summon one Pirate Captain and three Hordes of Pirate Raiders within Close range of the party. _Does the captain recognize the ship that's giving chase? What ungentlemanly practices are the pirates in this area famous for?_
+**_"Pirati!" - Azione:** **Spendi una Paura** per far sì che un membro dell'equipaggio nella coffa avvisti vele nere all'orizzonte! Avvia un Conto alla Rovescia di Conseguenza (4). Se scatta prima che il gruppo raggiunga la destinazione, i pirati raggiungono la nave e vi salgono a bordo. Ottieni una Paura, poi evoca un Capitano Pirata e tre Orde di Predoni Pirati entro portata Vicina dal gruppo. _Il capitano riconosce la nave che lo insegue? Quali pratiche poco cavalleresche rendono famosi i pirati di questa zona?_
 
-**_Foul Weather - Reaction:_** When the Open Water Countdown ticks down to an odd number, roll a d6. On a result of 4 or higher, the ship runs into a patch of foul weather, such as a fog bank that makes navigation difficult or a squall that threatens to capsize the ship. Each PC must succeed on a reaction roll using a relevant trait chosen by the GM or mark 1d4 Stress. _What makes this weather different from anything the PCs have experienced before? How do they coordinate with the crew to find their way through this hazard?_
+**_Maltempo - Reazione:** Quando il Conto alla Rovescia di Mare Aperto scorre fino a un numero dispari, tira un d6. Su un risultato di 4 o superiore, la nave incontra una zona di maltempo, come un banco di nebbia che rende difficile la navigazione o una bufera che minaccia di far capovolgere la nave. Ogni PG deve superare un tiro di reazione usando un tratto pertinente scelto dal GM o segnare 1d4 Stress. _Cosa rende questo tempo diverso da qualsiasi cosa i PG abbiano mai vissuto? Come si coordinano con l'equipaggio per farsi strada attraverso questo pericolo?_
 
-**_Here There Be Monsters - Reaction:_** When the Open Water Countdown ticks down to an even number, roll a d6. On a result of 4 or higher, summon 1d4 Deep Sea Denizens. _What attracts these creatures to the ship? Is there any way to drive them off without combat?_
+**_Qui Ci Sono Mostri - Reazione:** Quando il Conto alla Rovescia di Mare Aperto scorre fino a un numero pari, tira un d6. Su un risultato di 4 o superiore, evoca 1d4 Abitanti degli Abissi. _Cosa attira queste creature verso la nave? C'è un modo per scacciarle senza combattere?_

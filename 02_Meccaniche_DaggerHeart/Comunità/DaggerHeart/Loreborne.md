@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Loreborne
 
-Being part of a loreborne community means you're from a society that favors strong academic or political prowess. Loreborne communities highly value knowledge, frequently in the form of historical preservation, political advancement, scientific study, skill development, or lore and mythology compilation. Most members of these communities research in institutions built in bastions of civilization, while some eclectic few thrive in gathering information from the natural world. Some may be isolationists, operating in smaller enclaves, schools, or guilds and following their own unique ethos. Others still wield their knowledge on a larger scale, making deft political maneuvers across governmental landscapes.
+Far parte di una comunità loreborne significa provenire da una società che predilige una grande abilità accademica o politica. Le comunità loreborne tengono in grande considerazione la conoscenza, spesso sotto forma di preservazione storica, avanzamento politico, studio scientifico, sviluppo di competenze o raccolta di racconti e mitologie. La maggior parte dei membri di queste comunità svolge le proprie ricerche in istituzioni sorte nei baluardi della civiltà, mentre alcuni pochi eclettici prosperano raccogliendo informazioni dal mondo naturale. Alcuni possono essere isolazionisti, operando in piccoli insediamenti, scuole o gilde e seguendo un proprio ethos unico. Altri ancora esercitano la propria conoscenza su scala più ampia, compiendo abili manovre politiche attraverso il panorama governativo.
 
-_Loreborne are often direct, eloquent, inquisitive, patient, rhapsodic, and witty._
+_Gli Loreborne sono spesso diretti, eloquenti, curiosi, pazienti, entusiasti e arguti._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Well-Read:_** You have advantage on rolls that involve the history, culture, or politics of a prominent person or place.
+**_Erudito:_** Hai vantaggio sui tiri che riguardano la storia, la cultura o la politica di una persona o di un luogo di spicco.

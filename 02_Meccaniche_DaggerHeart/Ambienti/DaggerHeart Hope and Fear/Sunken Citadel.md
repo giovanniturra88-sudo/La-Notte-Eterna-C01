@@ -3,20 +3,20 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Sunken Citadel
+# Cittadella Sommersa
 
-**_Tier 3 Exploration._** _The sunken ruins of a long-lost civilization filled with ancient technology and dark magic._
+**_Tier 3 Esplorazione.** _Le rovine sommerse di una civiltà da lungo tempo perduta, piene di antica tecnologia e magia oscura._
 
-- **Impulses:** Draw them deep, drown them, reveal ancient wonders
-- **Difficulty:** 16
-- **Potential Adversaries:** Cursed Merfolk, Deep Dweller, Plesiosaurus
+- **Impulsi:** Attirarli in profondità, annegarli, rivelare antiche meraviglie
+- **Difficoltà:** 16
+- **Avversari Potenziali:** Uomini Pesce Maledetti, Abitante degli Abissi, Plesiosauro
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Underwater Environment - Passive:_** This environment is underwater (see the "Moving and Fighting Underwater" rules on page 168 of the core rulebook). In addition to those rules, a creature who breathes air tracks their supply with an Air Supply Countdown. Its starting value is equal to 3 + their tier, and it ticks down when they take an action. If a PC fails an action roll or rolls with Fear, you can use a GM move to tick down their countdown an additional time. If the roll is a failure with Fear, you can tick it down twice instead. Once their countdown triggers, a PC must mark a Stress whenever they take an action underwater until they resurface. _Have you ever known anyone who drowned? What do you think about to keep calm and stretch your air supply?_
+**_Ambiente Subacqueo - Passiva:** Questo ambiente è sott'acqua (vedi le regole "Muoversi e Combattere Sott'Acqua" a pagina 168 del manuale base). Oltre a queste regole, una creatura che respira aria traccia la propria riserva con un Conto alla Rovescia della Riserva d'Aria. Il suo valore iniziale è pari a 3 + il loro Tier, e scorre quando effettuano un'azione. Se un PG fallisce un tiro d'azione o tira con Paura, puoi usare una mossa del GM per far scorrere il suo conto alla rovescia un'ulteriore volta. Se il tiro è un fallimento con Paura, puoi farlo scorrere due volte invece. Una volta che il loro conto alla rovescia scatta, un PG deve segnare uno Stress ogni volta che effettua un'azione sott'acqua finché non riemerge. _Hai mai conosciuto qualcuno che è annegato? A cosa pensi per mantenere la calma e prolungare la tua riserva d'aria?_
 
-**_Air Pockets - Passive:_** A PC can reset their Air Supply Countdown to its starting value by locating a pocket of air with a successful Knowledge or Instinct Roll. _What signs or structures do you look for? What does it feel like to know this might be the last breath you take?_
+**_Sacche d'Aria - Passiva:** Un PG può azzerare il proprio Conto alla Rovescia della Riserva d'Aria al suo valore iniziale individuando una sacca d'aria con un Tiro di Conoscenza o Istinto riuscito. _Quali segni o strutture cerchi? Cosa si prova a sapere che questo potrebbe essere l'ultimo respiro che fai?_
 
-**_Lost Technology - Passive:_** The ruins are carved with strange magical runes and littered with lost technology. A PC can make a Knowledge Roll to learn useful information about this lost civilization from any runes or devices they come across. _Who once called this place home? How did their technology work? Why were they ultimately destroyed and cast down into the depths?_
+**_Tecnologia Perduta - Passiva:** Le rovine sono scolpite con strane rune magiche e cosparse di tecnologia perduta. Un PG può effettuare un Tiro di Conoscenza per apprendere informazioni utili su questa civiltà perduta dalle rune o dai dispositivi che incontra. _Chi chiamava questo luogo casa? Come funzionava la loro tecnologia? Perché alla fine sono stati distrutti e precipitati negli abissi?_
 
-**_Deepwater Denizens - Action:_** Spend a Fear to summon up to two Deep Dwellers and 1d6 Cursed Merfolk who try to bind the PCs to their will. These adversaries appear at Close range of a PC, then one immediately takes the spotlight. _Why do these creatures stay here among the ruins? Are they unwilling or unable to resurrect this once-prosperous civilization?_
+**_Abitanti delle Acque Profonde - Azione:** Spendi una Paura per evocare fino a due Abitanti degli Abissi e 1d6 Uomini Pesce Maledetti che cercano di piegare i PG alla loro volontà. Questi avversari compaiono a portata Vicina da un PG, poi uno prende immediatamente i riflettori. _Perché queste creature restano qui tra le rovine? Non vogliono o non possono risorgere questa civiltà un tempo prospera?_

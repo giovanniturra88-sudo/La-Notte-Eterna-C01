@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Powerful Beast
+# Bestia Potente
 
-**_Tier 2_** _(Bear, Bull, Moose, etc.)_
+**_Tier 2_** _(Orso, Toro, Alce, ecc.)_
 
-- **Trait Bonus:** Strength +3
-- **Evasion Bonus:** Evasion +1
-- **Attack:** Melee Strength d10+4 phy
-- **Advantages:** navigate, protect, scare
+- **Bonus di Tratto:** Forza +3
+- **Bonus di Evasione:** Evasione +1
+- **Attacco:** Mischia Forza d10+4 fisici
+- **Vantaggi:** orientarsi, proteggere, spaventare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Rampage:_** When you roll a 1 on a damage die, you can roll a **d10** and add the result to the damage roll. Additionally, before you make an attack roll, you can **mark a Stress** to gain a +1 bonus to your Proficiency for that attack.
+**_Furia:_** Quando ottieni 1 su un dado di danno, puoi tirare un **d10** e aggiungere il risultato al tiro per i danni. Inoltre, prima di effettuare un tiro di attacco, puoi **segnare uno Stress** per ottenere un bonus di +1 alla tua Competenza per quell'attacco.
 
-**_Thick Hide:_** You gain a +2 bonus to your damage thresholds.
+**_Pelle Spessa:_** Ottieni un bonus di +2 alle tue soglie di danno.

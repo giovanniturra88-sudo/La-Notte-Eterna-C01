@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Ridgeborne
 
-Being part of a ridgeborne community means you've called the rocky peaks and sharp cliffs of the mountainside home. Those who've lived in the mountains often consider themselves hardier than most because they've thrived among the most dangerous terrain many continents have to offer. These groups are adept at adaptation, developing unique technologies and equipment to move both people and products across dicult terrain. As such, ridgeborne grow up scrambling and climbing, making them sturdy and strong-willed. Ridgeborne localities appear in a variety of forms—some cities carve out entire cliff faces, others construct castles of stone, and still more live in small homes on windblown peaks. Outside forces often struggle to attack ridgeborne groups, as the small militias and large military forces of the mountains are adept at utilizing their high-ground advantage.
+Far parte di una comunità ridgeborne significa aver chiamato casa le cime rocciose e le scogliere scoscese del fianco della montagna. Coloro che hanno vissuto tra le montagne spesso si considerano più resistenti degli altri, perché sono prosperati tra i terreni più pericolosi che molti continenti abbiano da offrire. Questi gruppi sono abili nell'adattamento, sviluppando tecnologie ed equipaggiamenti unici per trasportare persone e merci attraverso terreni difficili. Di conseguenza, i Ridgeborne crescono arrampicandosi e scalando, diventando così robusti e volitivi. Le località ridgeborne si presentano in forme diverse—alcune città scavano intere pareti rocciose, altre costruiscono castelli di pietra e altre ancora vivono in piccole case su vette battute dal vento. Le forze esterne faticano spesso ad attaccare i gruppi ridgeborne, poiché le piccole milizie e le grandi forze militari delle montagne sono abili nello sfruttare il vantaggio del terreno sopraelevato.
 
-_Ridgeborne are often bold, hardy, indomitable, loyal, reserved, and stubborn._
+_I Ridgeborne sono spesso audaci, tenaci, indomabili, leali, riservati e testardi._
 
-### COMMUNITY FEATURE
+### TRATTO DI COMUNITÀ
 
-**_Steady:_** You have advantage on rolls to traverse dangerous cliffs and ledges, navigate harsh environments, and use your survival knowledge.
+**_Saldo:_** Hai vantaggio sui tiri per attraversare scogliere e cenge pericolose, districarti in ambienti ostili e usare la tua conoscenza della sopravvivenza.

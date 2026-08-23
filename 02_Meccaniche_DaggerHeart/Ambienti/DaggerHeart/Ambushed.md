@@ -3,16 +3,16 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Ambushed
+# Imboscata
 
-**_Tier 1 Event._** _An ambush is set to catch an unsuspecting party off-guard._
+**_Evento di Tier 1.**_ _Un'imboscata è pronta a cogliere di sorpresa un gruppo ignaro._
 
-- **Impulses:** Overwhelm, scatter, surround
-- **Difficulty:** Special (see "Relative Strength")
-- **Potential Adversaries:** Any
+- **Impulsi:** Sopraffare, disperdere, circondare
+- **Difficoltà:** Speciale (vedi "Forza Relativa")
+- **Avversari Potenziali:** Qualsiasi
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Relative Strength - Passive:_** The Difficulty of this environment equals that of the adversary with the highest Difficulty. _Who cues the ambush? What makes it clear they're in charge?_
+**_Forza Relativa - Passiva:_** La Difficoltà di questo ambiente è pari a quella dell'avversario con la Difficoltà più alta. _Chi dà il via all'imboscata? Cosa rende chiaro che è lui a comandare?_
 
-**_Surprise! - Action:_** The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries. _What do the ambushers want from the party? How do their tactics in the ambush reflect that?_
+**_Sorpresa! - Azione:_** Gli aggressori si rivelano al gruppo, ottieni 2 Paure e i riflettori si spostano immediatamente su uno degli avversari che tendono l'imboscata. _Cosa vogliono gli aggressori dal gruppo? In che modo le loro tattiche durante l'imboscata lo riflettono?_

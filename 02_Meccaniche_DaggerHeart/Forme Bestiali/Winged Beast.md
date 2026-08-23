@@ -4,17 +4,17 @@ type:
 tier: Tier 2
 ---
 
-# Winged Beast
+# Bestia Alata
 
-**_Tier 2_** _(Hawk, Owl, Raven, etc.)_
+**_Tier 2_** _(Falco, Gufo, Corvo, ecc.)_
 
-- **Trait Bonus:** Finesse +1
-- **Evasion Bonus:** Evasion +3
-- **Attack:** Melee Finesse d4+2 phy
-- **Advantages:** deceive, locate, scare
+- **Bonus di Tratto:** Finezza +1
+- **Bonus di Evasione:** Evasione +3
+- **Attacco:** Mischia Finezza d4+2 fisici
+- **Vantaggi:** ingannare, localizzare, spaventare
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Bird's-Eye View:_** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
+**_Vista dall'Alto:_** Puoi volare a volontà. Una volta per riposo, mentre sei in volo, puoi fare una domanda al GM sulla scena sottostante senza dover tirare. La prima volta che un personaggio effettua un tiro per agire in base a queste informazioni, ottiene vantaggio sul tiro.
 
-**_Hollow Bones:_** You gain a -2 penalty to your damage thresholds.
+**_Ossa Cave:_** Ottieni una penalità di -2 alle tue soglie di danno.

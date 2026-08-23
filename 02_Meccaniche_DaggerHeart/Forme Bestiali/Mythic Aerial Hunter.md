@@ -4,17 +4,17 @@ type:
 tier: Tier 4
 ---
 
-# Mythic Aerial Hunter
+# Cacciatore Alato Mitico
 
-**_Tier 4_** _(Dragon, Pterodactyl, Roc, Wyvern, etc.)_
+**_Tier 4_** _(Drago, Pterodattilo, Roc, Viverna, ecc.)_
 
-- **Trait Bonus:** Finesse +3
-- **Evasion Bonus:** Evasion +4
-- **Attack:** Melee Finesse d10+11 phy
-- **Advantages:** attack, deceive, locate, navigate
+- **Bonus di Tratto:** Finezza +3
+- **Bonus di Evasione:** Evasione +4
+- **Attacco:** Mischia Finezza d10+11 fisici
+- **Vantaggi:** attaccare, ingannare, localizzare, orientarsi
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Carrier:_** You can carry up to three willing allies with you when you move.
+**_Trasporto:_** Puoi trasportare fino a tre alleati disposti con te quando ti muovi.
 
-**_Deadly Raptor:_** You can fly at will and move up to Far range as part of your action. When you move in a straight line into Melee range of a target from at least Close range and make an attack against that target in the same action, you can reroll all damage dice that rolled a result lower than your Proficiency.
+**_Rapace Letale:_** Puoi volare a volontà e spostarti fino a portata Lontana come parte della tua azione. Quando ti sposti in linea retta fino in portata di mischia di un bersaglio partendo da almeno portata Vicina ed effettui un attacco contro quel bersaglio nella stessa azione, puoi ritirare tutti i dadi di danno che hanno ottenuto un risultato inferiore alla tua Competenza.

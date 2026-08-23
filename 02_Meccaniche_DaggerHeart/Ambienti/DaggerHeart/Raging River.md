@@ -3,18 +3,18 @@ type:
   - "[[Ambiente]]"
 ---
 
-# Raging River
+# Fiume Impetuoso
 
-**_Tier 1 Traversal._** _A swift-moving river without a bridge crossing, deep enough to sweep away most people._
+**_Attraversamento di Tier 1.**_ _Un fiume dalle acque rapide senza un ponte che lo attraversi, abbastanza profondo da trascinare via la maggior parte delle persone._
 
-- **Impulses:** Bar crossing, carry away the unready, divide the land
-- **Difficulty:** 10
-- **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
+- **Impulsi:** Ostacolare l'attraversamento, trascinare via gli impreparati, dividere la terra
+- **Difficoltà:** 10
+- **Avversari Potenziali:** Bestie (Orso, Serpente di Vetro), Banditi della Lama Seghettata (Mago della Lama Seghettata, SpezzaGinocchia della Lama Seghettata, Seguace della Lama Seghettata, Tenente della Lama Seghettata, Ombra della Lama Seghettata, Cecchino della Lama Seghettata)
 
-### FEATURES
+### CARATTERISTICHE
 
-**_Dangerous Crossing - Passive:_** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the "Undertow" action without requiring a Fear to be spent on the feature. _Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?_
+**_Attraversamento Pericoloso - Passiva:_** Attraversare il fiume richiede al gruppo di completare un Conto alla Rovescia di Avanzamento (4). Un PG che ottiene un fallimento con Paura viene immediatamente preso di mira dall'azione "Risucchio", senza che sia necessario spendere una Paura per la caratteristica. _Qualcuno dei PG ha già guadato fiumi come questo? Qualcuno di loro ha paura di annegare?_
 
-**_Undertow - Action:_** **Spend a Fear** to catch a PC in the undertow. They must make an Agility Reaction Roll. On a failure, they take **1d6+1** physical damage and are moved a Close distance down the river, becoming _Vulnerable_ until they get out of the river. On a success, they must mark a Stress. _What trinkets and baubles lie along the bottom of the riverbed? Do predators swim these rivers?_
+**_Risucchio - Azione:_** **Spendi una Paura** per far finire un PG nel risucchio. Deve effettuare un Tiro di Reazione di Agilità. Con un fallimento, subisce **1d6+1** danni fisici e viene trascinato per una portata Vicina lungo il fiume, diventando _Vulnerabile_ finché non esce dall'acqua. Con un successo, deve segnare uno Stress. _Quali cianfrusaglie e gingilli giacciono sul fondo del letto del fiume? Ci sono predatori che nuotano in questi fiumi?_
 
-**_Patient Hunter - Action:_** **Spend a Fear** to summon a Glass Snake within Close range of a chosen PC. The Snake appears in or near the river and immediately takes the spotlight to use their "Spinning Serpent" action. _What treasures does the beast have in their burrow? What travelers have already fallen victim to this predator?_
+**_Cacciatore Paziente - Azione:_** **Spendi una Paura** per evocare un Serpente di Vetro entro portata Vicina da un PG scelto. Il Serpente appare nel fiume o nei suoi pressi e finisce immediatamente sotto i riflettori per usare la sua azione "Serpente Rotante". _Quali tesori ha la bestia nella sua tana? Quali viaggiatori sono già caduti vittima di questo predatore?_
