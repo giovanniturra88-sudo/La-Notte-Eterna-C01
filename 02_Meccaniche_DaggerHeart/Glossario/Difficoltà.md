@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Difficoltà
 
-Il numero soglia dei tiri Daggerheart: un tiro è un successo se almeno un dado della Dualità supera la Difficoltà. Le Difficoltà tipiche per Tier sono 11-14-17-20.
+Il numero soglia dei tiri Daggerheart: un tiro è un successo se almeno un dado della Dualità supera la Difficoltà. Le Difficoltà tipiche per rango sono 11-14-17-20.
 
 ## Voci correlate
-- [[Dadi della Dualità]]
+- [[Dadi Dualità]]
 - [[Tiro di Reazione]]
 
 ## Citata da

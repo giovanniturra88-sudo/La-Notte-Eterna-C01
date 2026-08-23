@@ -8,8 +8,7 @@ original_name: "Cutlass"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

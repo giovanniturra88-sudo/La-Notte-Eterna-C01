@@ -9,4 +9,4 @@ roll: 35
 
 # Scheggia di Emberite
 
-Scegli un punto entro gittata Lontana. Tutti i bersagli entro gittata Vicina da quel punto devono avere successo su un Tiro di Reazione (16) o subiscono 3d6 danni magici e diventano temporaneamente In Fiamme. Mentre è In Fiamme, una creatura deve tirare un d4 ogni volta che effettua un tiro d'azione. Con un risultato di 1, segna un Punto Ferita. Con un risultato di 4, elimina la condizione In Fiamme.
+Scegli un punto entro gittata Lontana. Tutti i bersagli entro gittata Ravvicinata da quel punto devono avere successo su un Tiro di Reazione (16) o subiscono 3d6 danni magici e diventano temporaneamente Incendiato. Mentre è Incendiato, una creatura deve tirare un d4 ogni volta che effettua un tiro d'azione. Con un risultato di 1, segna un Punto Ferita. Con un risultato di 4, elimina la condizione Incendiato.

@@ -10,7 +10,7 @@ alias: ["Armatura Morbida Tyris"]
 **Livello 2** _Armatura_
 
 - **Soglie di Danno:** 8 / 18
-- **Punteggio Armatura:** 5
+- **Punteggio di Armatura:** 5
 
 ### TRATTO DELL'ARMATURA
 

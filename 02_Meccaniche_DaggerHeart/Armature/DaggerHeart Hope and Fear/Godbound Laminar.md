@@ -3,7 +3,7 @@ type:
   - "[[Armatura]]"
 original_name: "Godbound Laminar"
 alias: ["Lamina Divinlegata"]
-tier: "Tier 4"
+tier: 4
 ---
 
 # Lamina Divinlegata
@@ -11,6 +11,6 @@ tier: "Tier 4"
 **Livello 8–10** _Armatura_
 
 - **Soglie di Danno:** 13 / 36
-- **Punteggio Armatura:** 6
+- **Punteggio di Armatura:** 6
 
 > Divino: Quando segni uno slot Armatura, ottieni una Speranza.

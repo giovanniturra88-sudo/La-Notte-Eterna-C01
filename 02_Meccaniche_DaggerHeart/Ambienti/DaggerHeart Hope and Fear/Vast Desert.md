@@ -5,7 +5,7 @@ type:
 
 # Vasto Deserto
 
-**_Tier 2 Attraversamento.** _Una distesa riarsa di dune sabbiose, saline desolate e formazioni rocciose scolpite dal vento._
+**_Rango 2 Attraversamento.** _Una distesa riarsa di dune sabbiose, saline desolate e formazioni rocciose scolpite dal vento._
 
 - **Impulsi:** Disidratare, mostrare una bellezza desolata, minacciare con pericoli all'orizzonte
 - **Difficoltà:** 14

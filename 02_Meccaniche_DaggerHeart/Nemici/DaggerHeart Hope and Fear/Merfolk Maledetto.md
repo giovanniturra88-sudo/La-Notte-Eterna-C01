@@ -8,7 +8,7 @@ aliases:
 
 ## Merfolk Maledetto
 * **Descrizione:** Una creatura metà pesce e metà umano, legata psicicamente a servire gli Abitanti delle Profondità.
-* **Tier:** 3 (Standard)
+* **Rango:** 3 (Standard)
 * **Difficoltà:** 16
 * **Soglie di Danno:** 18/35
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -17,8 +17,8 @@ aliases:
  * **Tridente Catene:** +3 | Lontano | 3d6 fisico
 * **Tratti e Capacità:**
  * **Coda di Pesce - Passiva:** Il Merfolk è *Vulnerabile* fuori dall'acqua.
- * **Agguato di Gruppo - Passiva:** Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati.
- * **"Vieni Qui!" - Reazione:** Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio.
+ * **Agguato di Gruppo - Passiva:** Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Ravvicinata di uno o più alleati.
+ * **"Vieni Qui!" - Reazione:** Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Ravvicinata, puoi segnare uno Stress per trarlo in portata Ravvicinata. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,8 +38,8 @@ tratti:
   - name: "Coda di Pesce"
     desc: "*- Passiva:* Il Merfolk è *Vulnerabile* fuori dall'acqua."
   - name: "Agguato di Gruppo"
-    desc: "*- Passiva:* Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati."
+    desc: "*- Passiva:* Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Ravvicinata di uno o più alleati."
 capacita_speciali:
   - name: "Vieni Qui!"
-    desc: "*- Reazione:* Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio."
+    desc: "*- Reazione:* Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Ravvicinata, puoi segnare uno Stress per trarlo in portata Ravvicinata. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio."
 ```

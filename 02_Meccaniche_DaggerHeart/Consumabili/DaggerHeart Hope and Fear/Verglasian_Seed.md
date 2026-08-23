@@ -9,4 +9,4 @@ roll: 3
 
 # Seme Verglasiano
 
-Puoi usare questa scheggia di ghiaccio per congelare istantaneamente un'area d'acqua fino a gittata Vicina.
+Puoi usare questa scheggia di ghiaccio per congelare istantaneamente un'area d'acqua fino a gittata Ravvicinata.

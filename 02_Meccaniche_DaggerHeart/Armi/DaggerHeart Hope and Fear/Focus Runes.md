@@ -14,6 +14,6 @@ ruolo: "secondaria"
 
 ### Rune di Foco
 
-**_Focalizzato: +1 ai danni dell'arma primaria contro bersagli entro gittata Molto Vicina_**
+**_Focalizzato: +1 ai danni dell'arma primaria contro bersagli entro gittata Prossima_**
 
 ---

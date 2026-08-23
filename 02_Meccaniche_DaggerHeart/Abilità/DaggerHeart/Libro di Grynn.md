@@ -8,7 +8,7 @@ Titolo Inglese:
 ---
 
 ## Deflessione Arcana
-Una volta per riposo lungo, **spendi una Speranza** per annullare il danno di un attacco che colpisce te o un alleato entro portata Molto Vicina.
+Una volta per riposo lungo, **spendi una Speranza** per annullare il danno di un attacco che colpisce te o un alleato entro portata Prossima.
 ## Blocco Temporale
 Scegli un oggetto entro portata Lontana. Quell'oggetto si ferma nel tempo e nello spazio esattamente dove si trova fino al tuo prossimo riposo. Se una creatura cerca di muoverlo, effettua un **Tiro di Lancio Incantesimo** contro di essa per mantenere questo incantesimo.
 ## Muro di Fiamme

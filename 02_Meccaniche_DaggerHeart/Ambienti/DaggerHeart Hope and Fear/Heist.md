@@ -5,7 +5,7 @@ type:
 
 # Il Colpo
 
-**_Tier 2 Evento.** _Il gruppo deve ottenere l'accesso a un luogo nascosto o ben protetto per recuperare le informazioni o gli oggetti custoditi al suo interno._
+**_Rango 2 Evento.** _Il gruppo deve ottenere l'accesso a un luogo nascosto o ben protetto per recuperare le informazioni o gli oggetti custoditi al suo interno._
 
 - **Impulsi:** Far preparare il gruppo, dividerlo, frapporre ostacoli, intrappolarlo dentro, consumare le sue risorse
 - **Difficoltà:** 14
@@ -21,4 +21,4 @@ type:
 
 **_Esfiltrazione - Reazione:** Quando il Conto alla Rovescia di Progresso scatta, il gruppo entra in possesso dell'oggetto del Colpo e deve superare un tiro d'azione di gruppo per fuggire senza essere catturato. Su un fallimento, ogni PG subisce 2d12 danni fisici diretti e deve segnare uno Stress. _Cosa rende l'uscita ancora più pericolosa dell'entrata? Quali sviluppi imprevisti ostacolano il piano di fuga originale del gruppo?_
 
-**_Date l'Allarme - Reazione:** Quando il Conto alla Rovescia di Conseguenza scatta, il gruppo viene scoperto e il luogo entra in *Allerta Massima*. Evoca un numero di avversari di Tier 2 pari al numero di PG nella scena e mettine immediatamente uno sotto i riflettori. Finché questo ambiente è in *Allerta Massima*, tutti gli avversari ottengono un bonus di +1 alla loro Difficoltà. _Cosa rende questi avversari particolarmente adatti a sorvegliare questo luogo? Cosa sanno di questo posto che dà loro un vantaggio?_
+**_Date l'Allarme - Reazione:** Quando il Conto alla Rovescia di Conseguenza scatta, il gruppo viene scoperto e il luogo entra in *Allerta Massima*. Evoca un numero di avversari di Rango 2 pari al numero di PG nella scena e mettine immediatamente uno sotto i riflettori. Finché questo ambiente è in *Allerta Massima*, tutti gli avversari ottengono un bonus di +1 alla loro Difficoltà. _Cosa rende questi avversari particolarmente adatti a sorvegliare questo luogo? Cosa sanno di questo posto che dà loro un vantaggio?_

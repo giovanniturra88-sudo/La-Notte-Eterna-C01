@@ -5,7 +5,7 @@ type:
 
 # Gran Banchetto
 
-**_Tier 1 Sociale.** _Una celebrazione che coinvolge tutta la comunità, con fin troppo da bere, da mangiare e allegria._
+**_Rango 1 Sociale.** _Una celebrazione che coinvolge tutta la comunità, con fin troppo da bere, da mangiare e allegria._
 
 - **Impulsi:** Riunire tutti, celebrare un'occasione memorabile, incoraggiare l'abbandono festaiolo
 - **Difficoltà:** 11

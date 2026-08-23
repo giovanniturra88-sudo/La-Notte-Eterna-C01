@@ -10,7 +10,7 @@ alias: ["Armatura Completa"]
 **_Livello 1_** _Armatura_
 
 - **Soglie di Danno Base:** 8 / 17
-- **Punteggio Armatura Base:** 4
+- **Punteggio di Armatura Base:** 4
 
 ### TRATTO DELL'ARMATURA
 

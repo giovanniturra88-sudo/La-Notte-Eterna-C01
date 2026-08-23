@@ -8,12 +8,11 @@ original_name: "Improved Tower Shield"
 ruolo: ""
 tier: 2
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Barriera:_** +3 al Punteggio Armatura; -1 all'Evasione
+**_Barriera:_** +3 al Punteggio di Armatura; -1 all'Evasione
 ---

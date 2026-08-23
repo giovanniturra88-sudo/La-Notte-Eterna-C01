@@ -7,4 +7,4 @@ Tipologia Carta: "[[Magia]]"
 Titolo Inglese: Healing Strike
 ---
 
-Quando infliggi danni ad un avversario, puoi spendere 2 [[Speranza]] per rimuovere un Punto [[Ferita]] a un alleato entro [[Vicino]].
+Quando infliggi danni ad un avversario, puoi spendere 2 [[Speranza]] per rimuovere un Punto [[Ferita]] a un alleato entro [[Ravvicinato]].

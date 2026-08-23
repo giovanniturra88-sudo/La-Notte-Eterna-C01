@@ -8,12 +8,11 @@ original_name: "Legendary Round Shield"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Protettivo:_** +4 al Punteggio Armatura
+**_Protettivo:_** +4 al Punteggio di Armatura
 ---

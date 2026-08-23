@@ -5,7 +5,7 @@ type:
 
 # Reame dei Morti
 
-**_Tier 4 Attraversamento.** _Una distesa apparentemente infinita di acqua ferma, senza colore né risate._
+**_Rango 4 Attraversamento.** _Una distesa apparentemente infinita di acqua ferma, senza colore né risate._
 
 - **Impulsi:** Annegare nella disperazione, prosciugare la vita, tentare con un sonno senza fine
 - **Difficoltà:** 20

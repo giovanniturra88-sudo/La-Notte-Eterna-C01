@@ -5,7 +5,7 @@ type:
 
 # Casino di Lusso
 
-**_Tier 3 Evento.** _Oltrepassi le porte ed entri in un casinò sontuoso e lussuoso dove le poste alte sono la norma._
+**_Rango 3 Evento.** _Oltrepassi le porte ed entri in un casinò sontuoso e lussuoso dove le poste alte sono la norma._
 
 - **Impulsi:** Dare loro esattamente ciò che vogliono, offrire un accordo allettante, rivelare i loro debiti verso la casa
 - **Difficoltà:** 16

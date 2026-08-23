@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 2
+tier: 2
 ---
 
 # Predatore Balzante
 
-**_Tier 2_** _(Ghepardo, Leone, Pantera, ecc.)_
+**_Rango 2_** _(Ghepardo, Leone, Pantera, ecc.)_
 
 - **Bonus di Tratto:** Istinto +1
 - **Bonus di Evasione:** Evasione +3

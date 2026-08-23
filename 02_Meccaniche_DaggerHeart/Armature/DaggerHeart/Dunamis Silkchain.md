@@ -10,7 +10,7 @@ alias: ["Silkchain di Dunamis"]
 **_Livello 4_** _Armatura_
 
 - **Soglie di Danno Base:** 13 / 36
-- **Punteggio Armatura Base:** 7
+- **Punteggio di Armatura Base:** 7
 
 ### TRATTO DELL'ARMATURA
 

@@ -6,13 +6,13 @@ type:
 
 ## Lama Incantata
 * **Descrizione:** Un mercenario che combina spada e magia con effetto mortale.
-* **Tier:** 1 (Capo)
+* **Rango:** 1 (Capo)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 8/14
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Conoscenza Magica +2
 * **Attacchi:**
- * **Spada Lunga Potenziata:** +3 | Da Vicino | 1d8+4 fisico/magico
+ * **Spada Lunga Potenziata:** +3 | Ravvicinata | 1d8+4 fisico/magico
 * **Tratti e Capacità:**
  * **Acciaio Arcano - Passiva:** Il danno inflitto dall'attacco standard della Lama Incantata è considerato sia fisico che magico.
  * **Esplosione Repressiva - Azione:** **Segnare uno Stress** e colpire un gruppo in portata Lontana. Tutti i bersagli devono superare un Tiro di Reazione di Agilità o subire **1d8+2** danni magici. Ogni bersaglio colpito da questo attacco ti concede una Paura.
@@ -32,7 +32,7 @@ esperienza: "Conoscenza Magica +2"
 soglia_danni: "8/14"
 attacchi:
   - name: "Spada Lunga Potenziata"
-    desc: "**+3** | Da Vicino | **1d8+4** fisico/magico"
+    desc: "**+3** | Ravvicinata | **1d8+4** fisico/magico"
 tratti:
   - name: "Acciaio Arcano"
     desc: "*- Passiva:* Il danno inflitto dall'attacco standard della Lama Incantata è considerato sia fisico che magico."

@@ -5,7 +5,7 @@ type:
 
 # Tempio Consacrato
 
-**_Sociale di Tier 2.**_ _Un tempio vivace ma ben tenuto che offre guarigioni e ospita funzioni regolari, sorvegliato da un sacerdote o da un serafino._
+**_Sociale di Rango 2.**_ _Un tempio vivace ma ben tenuto che offre guarigioni e ospita funzioni regolari, sorvegliato da un sacerdote o da un serafino._
 
 - **Impulsi:** Connettere il Regno Mortale con i Sacri Cieli, mostrare il potere del divino, offrire aiuto e conforto ai fedeli
 - **Difficoltà:** 13
@@ -24,4 +24,4 @@ type:
 
 **_Speranza Incessante - Reazione:_** Una volta per scena, ogni PG può segnare uno Stress per trasformare un risultato con Paura in un risultato con Speranza. _A quali emozioni o ricordi ti colleghi quando la paura incalza?_
 
-**_Censura Divina - Reazione:_** Quando i PG hanno violato il tempio, bestemmiato o offeso il clero, puoi **spendere una Paura** per evocare un Alto Serafino e **1d4** Guardie con Lama entro portata Vicina dal sacerdote anziano per imporre la loro volontà. _Quali simboli o icone portano a segnalare che sono agenti consacrati della divinità? Chi guida il gruppo e cosa l'ha portato a questa vocazione?_
+**_Censura Divina - Reazione:_** Quando i PG hanno violato il tempio, bestemmiato o offeso il clero, puoi **spendere una Paura** per evocare un Alto Serafino e **1d4** Guardie con Lama entro portata Ravvicinata dal sacerdote anziano per imporre la loro volontà. _Quali simboli o icone portano a segnalare che sono agenti consacrati della divinità? Chi guida il gruppo e cosa l'ha portato a questa vocazione?_

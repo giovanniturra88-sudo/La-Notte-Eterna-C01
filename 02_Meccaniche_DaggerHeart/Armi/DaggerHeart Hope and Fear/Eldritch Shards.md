@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Schegge Eldritch
 
-**_Frammentato: Puoi dividere i danni tra più bersagli entro gittata Molto Vicina_**
+**_Frammentato: Puoi dividere i danni tra più bersagli entro gittata Prossima_**
 
 ---

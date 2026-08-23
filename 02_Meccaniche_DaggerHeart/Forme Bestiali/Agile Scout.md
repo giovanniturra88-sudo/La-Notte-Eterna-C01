@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 1
+tier: 1
 ---
 
 # Esploratore Agile
 
-**_Tier 1_** _(Volpe, Topo, Donnola, ecc.)_
+**_Rango 1_** _(Volpe, Topo, Donnola, ecc.)_
 
 - **Bonus di Tratto:** Agilità +1
 - **Bonus di Evasione:** Evasione +2

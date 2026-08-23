@@ -10,7 +10,7 @@ alias: ["Gambeson"]
 **_Livello 1_** _Armatura_
 
 - **Soglie di Danno Base:** 5 / 11
-- **Punteggio Armatura Base:** 3
+- **Punteggio di Armatura Base:** 3
 
 ### TRATTO DELL'ARMATURA
 

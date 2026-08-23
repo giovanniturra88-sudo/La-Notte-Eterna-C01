@@ -8,7 +8,7 @@ aliases:
 
 ## Necro-prete Sepolto
 * **Descrizione:** Un necromante incaricato di preservare la vita dell'imperatrice oltre la morte.
-* **Tier:** 2 (Supporto)
+* **Rango:** 2 (Supporto)
 * **Difficoltà:** 13
 * **Soglie di Danno:** 8/16
 * **Punti Ferita:** 3 | **Stress:** 7
@@ -17,8 +17,8 @@ aliases:
  * **Proiettile della Morte:** +2 | Lontano | 2d6+2 magico
 * **Tratti e Capacità:**
  * **Rinvigorire - Azione:** Segnare uno Stress per scegliere fino a tre alleati entro portata Lontana. Ciascuno di essi guadagna vantaggio sul suo prossimo tiro d'attacco.
- * **Ultima Presa - Azione:** Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Ristretto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Ristretto* in questo modo spende Speranza, guadagni una Paura.
- * **Tocco Gelo - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura.
+ * **Ultima Presa - Azione:** Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Trattenuto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Trattenuto* in questo modo spende Speranza, guadagni una Paura.
+ * **Tocco Gelo - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,7 +38,7 @@ capacita_speciali:
   - name: "Rinvigorire"
     desc: "*- Azione:* Segnare uno Stress per scegliere fino a tre alleati entro portata Lontana. Ciascuno di essi guadagna vantaggio sul suo prossimo tiro d'attacco."
   - name: "Ultima Presa"
-    desc: "*- Azione:* Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Ristretto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Ristretto* in questo modo spende Speranza, guadagni una Paura."
+    desc: "*- Azione:* Spendere una Paura per scegliere un PG entro portata Lontana. Mani scheletriche spuntano dal terreno ai piedi del PG e lo rendono *Trattenuto* finché non si libera con un Tiro di Forza riuscito. Quando un bersaglio *Trattenuto* in questo modo spende Speranza, guadagni una Paura."
   - name: "Tocco Gelo"
-    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura."
+    desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce danni standard e deve segnare 1d4 Stress. Se il bersaglio segna l'ultimo Stress da questo attacco, guadagni una Paura."
 ```

@@ -6,7 +6,7 @@ type:
 
 ## Custode dei Segreti
 * **Descrizione:** Un capo clandestino con un canale diretto verso gli Dei Caduti.
-* **Tier:** 2 (Capo)
+* **Rango:** 2 (Capo)
 * **Difficoltà:** 16
 * **Soglie di Danno:** 13/26
 * **Punti Ferita:** 7 | **Stress:** 4
@@ -16,8 +16,8 @@ type:
 * **Tratti e Capacità:**
  * **Sfrutta il Momento - Azione:** **Spendere 2 Paura** per mettere a fuoco **1d4** alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono danni pari alla metà.
  * **Volontà del nostro Padrone - Reazione:** Quando metti a fuoco un alleato entro portata Lontana, **segnare uno Stress** per guadagnare una Paura.
- * **Rituali di Evocazione - Reazione: Conto alla Rovina (6):** Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Vicina.
- * **Cani Demoni - Reazione:** Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi **segnare uno Stress** per evocare una Mandria di Cani Demoni, che appare a portata Vicina e viene immediatamente messa a fuoco.
+ * **Rituali di Evocazione - Reazione: Conto alla Rovina (6):** Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Ravvicinata.
+ * **Cani Demoni - Reazione:** Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi **segnare uno Stress** per evocare una Mandria di Cani Demoni, che appare a portata Ravvicinata e viene immediatamente messa a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -39,7 +39,7 @@ capacita_speciali:
   - name: "Volontà del nostro Padrone"
     desc: "*- Reazione:* Quando metti a fuoco un alleato entro portata Lontana, segnare uno Stress per guadagnare una Paura."
   - name: "Rituali di Evocazione"
-    desc: "*- Reazione: Conto alla Rovina (6):* Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Vicina."
+    desc: "*- Reazione: Conto alla Rovina (6):* Quando il Custode dei Segreti viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando segna PF, fai avanzare il conto alla rovina del numero di PF segnati. Quando scatta, evoca un Demone Minore che appare a portata Ravvicinata."
   - name: "Cani Demoni"
-    desc: "*- Reazione:* Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi segnare uno Stress per evocare una Mandria di Cani Demoni, che appare a portata Vicina e viene immediatamente messa a fuoco."
+    desc: "*- Reazione:* Una volta per scena, quando il Custode dei Segreti segna 2 o più PF, puoi segnare uno Stress per evocare una Mandria di Cani Demoni, che appare a portata Ravvicinata e viene immediatamente messa a fuoco."
 ```

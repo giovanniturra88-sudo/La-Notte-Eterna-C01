@@ -5,7 +5,7 @@ type:
 
 # Palude Corrotta
 
-**_Tier 1 Attraversamento.** _Un miserabile tratto di acqua melmosa, creature tossiche e decadenza._
+**_Rango 1 Attraversamento.** _Un miserabile tratto di acqua melmosa, creature tossiche e decadenza._
 
 - **Impulsi:** Corrompere, sottolineare il putrefatto, rivelare il contorto e l'innaturale, far ammalare
 - **Difficoltà:** 11
@@ -15,7 +15,7 @@ type:
 
 **_Malattia della Palude - Passiva:** Alla fine di un riposo lungo, ogni PG deve superare un Tiro di Reazione di Forza o ottenere un Dado di Malattia d4, partendo dal valore 1 rivolto verso l'alto. Se un PG fallisce questo tiro e ha già un Dado di Malattia, aumenta il valore di 1, fino a un valore massimo di 4. Un PG con un Dado di Malattia subisce una penalità ai suoi tiri d'azione pari al suo valore. Quando un PG con un Dado di Malattia dovrebbe rimuovere un PF, può invece ridurre di 1 il valore del suo Dado di Malattia. Quando il valore del dado dovrebbe scendere a 0, rimuovilo. _La palude brulica di vita, è piena di decadenza, o entrambe le cose? Quale forza ha corrotto questa palude, e quali segni delle sue origini rimangono?_
 
-**_Fradici e Impantanati - Passiva:** Quando un PG si muove come parte di un'azione, può muoversi solo fino a portata Molto Vicina. I tiri d'azione per muoversi oltre la portata Molto Vicina subiscono svantaggio. Prima di tirare, un PG può segnare uno Stress per rimuovere questo svantaggio. _Quali creature, vive o meno, si nascondono sotto la superficie torbida dell'acqua? Dove o come trovano i PG sollievo dall'acqua maleodorante?_
+**_Fradici e Impantanati - Passiva:** Quando un PG si muove come parte di un'azione, può muoversi solo fino a portata Prossima. I tiri d'azione per muoversi oltre la portata Prossima subiscono svantaggio. Prima di tirare, un PG può segnare uno Stress per rimuovere questo svantaggio. _Quali creature, vive o meno, si nascondono sotto la superficie torbida dell'acqua? Dove o come trovano i PG sollievo dall'acqua maleodorante?_
 
 **_Fioritura del Marciume - Azione:** Spendi una Paura per cospargere di polline nocivo un'area entro portata Lontana. Ogni bersaglio in quell'area deve superare un Tiro di Reazione di Forza o Istinto o subire 1d6+3 danni magici e diventare _Vulnerabile_ fino alla fine della scena. _Come capisci che le piante che emettono questo polline sono carnivore? Quali incubi o paesaggi onirici evoca l'odore del polline?_
 

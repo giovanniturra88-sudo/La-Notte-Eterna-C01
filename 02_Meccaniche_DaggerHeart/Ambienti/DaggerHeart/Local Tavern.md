@@ -5,7 +5,7 @@ type:
 
 # Taverna Locale
 
-**_Sociale di Tier 1.**_ _Una taverna vivace che funge da centro sociale per la sua città._
+**_Sociale di Rango 1.**_ _Una taverna vivace che funge da centro sociale per la sua città._
 
 - **Impulsi:** Offrire opportunità agli avventurieri, alimentare la comunità
 - **Difficoltà:** 10

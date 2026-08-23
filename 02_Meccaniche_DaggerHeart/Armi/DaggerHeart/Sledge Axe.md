@@ -8,12 +8,11 @@ original_name: "Sledge Axe"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Distruttivo:_** -1 alla Destrezza; in caso di attacco andato a segno, tutti gli avversari entro Portata Molto Vicina devono segnare uno Stress.
+**_Distruttivo:_** -1 alla Destrezza; in caso di attacco andato a segno, tutti gli avversari entro Portata Prossima devono segnare uno Stress.
 ---

@@ -14,14 +14,14 @@ I serafini sono guerrieri celesti imbevuti di potere divino, scelti dalle divini
 - **TRATTI SUGGERITI -** +0 Agilità, +2 Forza, +0 Finesse, +1 Istinto, +1 Presenza, -1 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Ascia Consacrata (Forza Mischia, d8+1 magici, Una Mano)
 - **ARMA SECONDARIA SUGGERITA -** Scudo Rotondo (Forza Mischia, d4 fisici, Una Mano - Protettivo: +1 al punteggio di Armatura)
-- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio Armatura 4 - Pesante: -1 all'Evasione)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio di Armatura 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un fascio di offerte o un sigillo del tuo dio
 ---
 
 # Speranza
 
 ## Caratteristica Speranza
-**_Supporto Vitale:_** Spendi 3 Punti Speranza per curare 1 Punto Ferita a un alleato entro portata Vicina.
+**_Supporto Vitale:_** Spendi 3 Punti Speranza per curare 1 Punto Ferita a un alleato entro portata Ravvicinata.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Campione Divino]] o [[Sentinella Alata]].

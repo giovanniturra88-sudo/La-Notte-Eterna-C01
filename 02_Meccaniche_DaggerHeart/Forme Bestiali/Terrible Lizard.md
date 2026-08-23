@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 4
+tier: 4
 ---
 
 # Lucertola Terribile
 
-**_Tier 4_** _(Brachiosauro, Tirannosauro, ecc.)_
+**_Rango 4_** _(Brachiosauro, Tirannosauro, ecc.)_
 
 - **Bonus di Tratto:** Forza +3
 - **Bonus di Evasione:** Evasione +2

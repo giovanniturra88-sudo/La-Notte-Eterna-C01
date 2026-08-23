@@ -10,7 +10,7 @@ alias: ["Plastrone dell'Albero di Ferro"]
 **_Grado 2_** _Armatura_
 
 - **Soglie di Danno di Base:** 9 / 20
-- **Punteggio Armatura di Base:** 4
+- **Punteggio di Armatura di Base:** 4
 
 ### TRATTO DELL'ARMATURA
 

@@ -8,8 +8,7 @@ original_name: "Advanced Scepter"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

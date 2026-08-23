@@ -8,12 +8,11 @@ original_name: "Advanced Round Shield"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Protettivo:_** +3 al Punteggio Armatura
+**_Protettivo:_** +3 al Punteggio di Armatura
 ---

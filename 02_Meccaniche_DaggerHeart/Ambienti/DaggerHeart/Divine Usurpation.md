@@ -5,7 +5,7 @@ type:
 
 # Usurpazione Divina
 
-**_Evento di Tier 4.**_ _Un rituale imponente progettato per sfondare le porte dei Sacri Cieli e spodestare gli stessi Nuovi Dei._
+**_Evento di Rango 4.**_ _Un rituale imponente progettato per sfondare le porte dei Sacri Cieli e spodestare gli stessi Nuovi Dei._
 
 - **Impulsi:** Accumulare potere, incutere soggezione, mettere a tacere il dissenso
 - **Difficoltà:** 20
@@ -17,7 +17,7 @@ type:
 
 **_Benedizione Divina - Passiva:_** Quando un PG ottiene un successo critico, può spendere 2 Speranze per ripristinare un'abilità normalmente limitata da un numero di usi (come una volta per riposo o una volta per sessione). _Quale dio ti concede il suo favore mentre combatti contro questa usurpazione? In che modo il tuo potere rinnovato riflette la sua influenza?_
 
-**_Profanatori Ovunque - Azione:_** **Spendi 2 Paure** per evocare **1d4+2** Soldati d'Assalto Caduti che appaiono entro portata Vicina dall'Usurpatore per assistere al suo assedio divino. Metti immediatamente i Soldati d'Assalto sotto i riflettori per usare l'azione "Attacco di Gruppo". _Quale Alto Caduto servono queste truppe? Della carne di quale dio vogliono cibarsi?_
+**_Profanatori Ovunque - Azione:_** **Spendi 2 Paure** per evocare **1d4+2** Soldati d'Assalto Caduti che appaiono entro portata Ravvicinata dall'Usurpatore per assistere al suo assedio divino. Metti immediatamente i Soldati d'Assalto sotto i riflettori per usare l'azione "Attacco di Gruppo". _Quale Alto Caduto servono queste truppe? Della carne di quale dio vogliono cibarsi?_
 
 **_Uccisore di Dei - Azione:_** Se il Conto alla Rovescia dell'Assedio Divino (vedi "L'Inizio della Fine") si è attivato, puoi **spendere 3 Paure** per descrivere l'Usurpatore che uccide uno degli dèi dei Sacri Cieli, cibandosi del loro potere e diventando più forte. L'Usurpatore recupera 2 Punti Ferita. Aumenta la sua Difficoltà, i suoi danni o il suo modificatore d'attacco, oppure dagli una nuova caratteristica tratta dal dio ucciso. _Quale dio trova la sua fine? Quali sono le sue ultime parole? Come si manifesta il nuovo potere rubato dall'Usurpatore?_
 

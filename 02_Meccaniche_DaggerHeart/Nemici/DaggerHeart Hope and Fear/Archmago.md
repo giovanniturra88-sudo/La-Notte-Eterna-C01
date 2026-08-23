@@ -8,7 +8,7 @@ aliases:
 
 ## Archmago
 * **Descrizione:** Un cercatore di conoscenza segreta, nascosto in una torre piena di tomi.
-* **Tier:** 3 (Solo)
+* **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** 24/45
 * **Punti Ferita:** 5 | **Stress:** 8

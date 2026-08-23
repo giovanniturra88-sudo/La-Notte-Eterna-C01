@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 3
+tier: 3
 ---
 
 # Predatore Acquatico
 
-**_Tier 3_** _(Delfino, Orca, Squalo, ecc.)_
+**_Rango 3_** _(Delfino, Orca, Squalo, ecc.)_
 
 - **Bonus di Tratto:** Agilità +2
 - **Bonus di Evasione:** Evasione +4

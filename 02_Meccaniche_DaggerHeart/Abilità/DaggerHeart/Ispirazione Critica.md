@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Una volta per riposo, quando ottieni un successo critico su un attacco, tutti gli alleati entro portata Molto Vicina possono eliminare uno Stress o guadagnare una Speranza.
+Una volta per riposo, quando ottieni un successo critico su un attacco, tutti gli alleati entro portata Prossima possono eliminare uno Stress o guadagnare una Speranza.

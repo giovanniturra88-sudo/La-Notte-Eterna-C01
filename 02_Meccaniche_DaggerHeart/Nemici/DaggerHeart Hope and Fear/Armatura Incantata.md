@@ -8,13 +8,13 @@ aliases:
 
 ## Armatura Incantata
 * **Descrizione:** Un'armatura di piastre vuota, che brilla con una debole corona di luce spettrale.
-* **Tier:** 1 (Picchiatore)
+* **Rango:** 1 (Picchiatore)
 * **Difficoltà:** 10
 * **Soglie di Danno:** 9/17
 * **Punti Ferita:** 6 | **Stress:** Nessuno
 * **Esperienza:** Guardiano +2
 * **Attacchi:**
- * **Zweihander:** +0 | Molto Vicina | 1d10+1 fisico
+ * **Zweihander:** +0 | Prossima | 1d10+1 fisico
 * **Tratti e Capacità:**
  * **Inaffaticabile - Passiva:** L'Armatura non può essere costretta a segnare Stress. Quando un effetto dovrebbe farle segnare Stress, l'Armatura ignora quella parte dell'effetto.
  * **Sbattere e Ricomporre - Reazione:** Una volta per scena quando l'Armatura viene sconfitta, puoi spendere una Paura per riattivarla. Rimuovi 2 PF e mettila immediatamente a fuoco.
@@ -32,7 +32,7 @@ esperienza: "Guardiano +2"
 soglia_danni: "9/17"
 attacchi:
   - name: "Zweihander"
-    desc: "**+0** | Molto Vicina | **1d10+1** fisico"
+    desc: "**+0** | Prossima | **1d10+1** fisico"
 tratti:
   - name: "Inaffaticabile"
     desc: "*- Passiva:* L'Armatura non può essere costretta a segnare Stress. Quando un effetto dovrebbe farle segnare Stress, l'Armatura ignora quella parte dell'effetto."

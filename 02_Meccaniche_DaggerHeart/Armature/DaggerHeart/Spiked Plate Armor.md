@@ -10,7 +10,7 @@ alias: ["Armatura a Piastre Spuntonate"]
 **_Livello 3_** _Armatura_
 
 - **Soglie di Danno:** 10 / 25
-- **Punteggio Armatura:** 5
+- **Punteggio di Armatura:** 5
 
 ### TRATTO DELL'ARMATURA
 

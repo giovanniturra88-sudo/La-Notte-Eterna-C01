@@ -6,13 +6,13 @@ type:
 
 ## Sprite
 * **Descrizione:** Un minuscolo guerriero alato che attacca gli intrusi con frecce avvelenate.
-* **Tier:** 2 (Minion)
+* **Rango:** 2 (Minion)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Esperienza:** Furtività +2, Vendetta +2
 * **Attacchi:**
- * **Frecce Affilate come Aghi:** +0 | Vicina | 5 fisico
+ * **Frecce Affilate come Aghi:** +0 | Ravvicinata | 5 fisico
 * **Tratti e Capacità:**
  * **Minion (5) - Passiva:** Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
  * **Arte dell'Invisibilità - Azione:** Spendere una Paura per rendere lo Sprite *Nascosto* finché non attacca.
@@ -31,7 +31,7 @@ esperienza: "Furtività +2, Vendetta +2"
 soglia_danni: "Nessuna"
 attacchi:
   - name: "Frecce Affilate come Aghi"
-    desc: "**+0** | Vicina | **5** fisico"
+    desc: "**+0** | Ravvicinata | **5** fisico"
 tratti:
   - name: "Minion (5)"
     desc: "*- Passiva:* Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo."

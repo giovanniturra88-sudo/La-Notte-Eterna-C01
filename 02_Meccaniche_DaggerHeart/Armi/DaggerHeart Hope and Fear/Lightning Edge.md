@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama del Fulmine
 
-**_Conduttivo: Con un attacco riuscito, il fulmine si scarica su una creatura vicina entro gittata Molto Vicina_**
+**_Conduttivo: Con un attacco riuscito, il fulmine si scarica su una creatura vicina entro gittata Prossima_**
 
 ---

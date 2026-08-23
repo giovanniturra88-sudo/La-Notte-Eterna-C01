@@ -10,7 +10,7 @@ alias: ["Armatura delle Ossa Strazianti"]
 **_Livello 2_** _Armatura_
 
 - **Soglie di Danno Base:** 9 / 21
-- **Punteggio Armatura Base:** 4
+- **Punteggio di Armatura Base:** 4
 
 ### TRATTO DELL'ARMATURA
 

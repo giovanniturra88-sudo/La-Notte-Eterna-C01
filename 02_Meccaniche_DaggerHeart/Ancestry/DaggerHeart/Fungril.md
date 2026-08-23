@@ -12,7 +12,7 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Spore del Velo**: Puoi rilasciare una nube di spore invisibili in un'area vicina. Questo ti permette di percepire ogni movimento all'interno di quell'area per la durata di una scena.
-- **Corpo di Sottobosco**: Puoi attraversare spazi stretti o fessure come se fossi un liquido, rendendoti immune alle condizioni di *Terreno Difficile* o *Ristretto*.
+- **Corpo di Sottobosco**: Puoi attraversare spazi stretti o fessure come se fossi un liquido, rendendoti immune alle condizioni di *Terreno Difficile* o *Trattenuto*.
 - **Rigenerazione Miceliale**: Puoi recuperare 1 punto *Stress* consumando detriti organici o corruzione ambientale; tuttavia, questo processo rilascia una scia di energia che genera 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa

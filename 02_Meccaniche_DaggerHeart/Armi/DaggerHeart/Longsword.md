@@ -8,8 +8,7 @@ original_name: "Longsword"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

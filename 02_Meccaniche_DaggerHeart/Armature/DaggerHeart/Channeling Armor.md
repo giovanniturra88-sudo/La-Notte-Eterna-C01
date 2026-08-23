@@ -10,7 +10,7 @@ alias: ["Armatura Canalizzante"]
 **_Grado 4_** _Armatura_
 
 - **Soglie di Danno Base:** 13 / 36
-- **Punteggio Armatura Base:** 5
+- **Punteggio di Armatura Base:** 5
 
 ### TRATTO DELL'ARMATURA
 

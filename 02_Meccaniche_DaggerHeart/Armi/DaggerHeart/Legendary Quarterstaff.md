@@ -8,8 +8,7 @@ original_name: "Legendary Quarterstaff"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: instinct
-type: 
+tratto: istintotype: 
   - "[[Arma]]"
 ---
 

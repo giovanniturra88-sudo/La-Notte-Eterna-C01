@@ -8,12 +8,11 @@ original_name: "Hammer of Exota"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: instinct
-type: 
+tratto: istintotype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Eruttivo:_** Quando colpisci con successo un bersaglio entro portata Corpo a Corpo, tutti gli altri avversari entro portata Molto Ravvicinata devono superare un tiro di reazione (14) oppure subire metà del danno.
+**_Eruttivo:_** Quando colpisci con successo un bersaglio entro portata Corpo a Corpo, tutti gli altri avversari entro portata Prossima devono superare un tiro di reazione (14) oppure subire metà del danno.
 ---

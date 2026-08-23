@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait: Finesse
 ---
 
-# Sindacato (Syndicate)
+# Ladro (Syndicate)
 
 *Sottoclasse della classe:* [[Rogue]]
 *Caratteristica di Spellcast:* **Finezza (Finesse)**

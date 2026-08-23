@@ -10,7 +10,7 @@ alias: ["Armatura Completa Avanzata"]
 **_Grado 3_** _Armatura_
 
 - **Soglie di Danno Base:** 15 / 35
-- **Punteggio Armatura Base:** 6
+- **Punteggio di Armatura Base:** 6
 
 ### TRATTO DELL'ARMATURA
 

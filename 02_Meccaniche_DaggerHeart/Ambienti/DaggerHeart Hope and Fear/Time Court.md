@@ -5,7 +5,7 @@ type:
 
 # Corte del Tempo
 
-**_Tier 4 Evento.** _Uno o più PG vengono strappati con la forza dalla linea temporale e messi sotto processo per crimini contro la continuità._
+**_Rango 4 Evento.** _Uno o più PG vengono strappati con la forza dalla linea temporale e messi sotto processo per crimini contro la continuità._
 
 - **Impulsi:** Trovare la verità, amministrare la giustizia, annullare i loro poteri
 - **Difficoltà:** 20
@@ -21,4 +21,4 @@ type:
 
 **_L'Accusa - Azione:** L'accusa presenta un elemento di prova dannoso (come la testimonianza di un testimone oculare, i risultati di un test o un reperto fisico prelevato dalla scena del crimine) e ottieni un Dado di Giudizio d6. Un PG può segnare uno Stress per tentare una confutazione delle prove con un Tiro di Reazione di Conoscenza, Istinto o Presenza. Su un successo, il gruppo ottiene il Dado di Giudizio al posto tuo. Su un fallimento, ottieni un Dado di Giudizio d6 aggiuntivo. _Chi guida l'accusa, e qual è il suo rapporto con il Consiglio Temporale? Quale magia o tecnologia usa questa corte per presentare e registrare le prove?_
 
-**_"Ordine in Aula!" - Reazione:** Quando i PG tentano di fuggire o porre fine al processo con la forza, evoca un numero di Agenti Temporali pari al numero di PG nella scena entro portata Vicina e mettine immediatamente uno sotto i riflettori. _L'autorità di questa corte merita rispetto? Cosa, oltre alla potenza del Consiglio Temporale e dei suoi agenti, giustifica il loro controllo sulla linea temporale?_
+**_"Ordine in Aula!" - Reazione:** Quando i PG tentano di fuggire o porre fine al processo con la forza, evoca un numero di Agenti Temporali pari al numero di PG nella scena entro portata Ravvicinata e mettine immediatamente uno sotto i riflettori. _L'autorità di questa corte merita rispetto? Cosa, oltre alla potenza del Consiglio Temporale e dei suoi agenti, giustifica il loro controllo sulla linea temporale?_

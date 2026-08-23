@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Armatura
 
-Equipaggiamento difensivo. Ogni armatura ha un Punteggio Armatura (riduce i danni subiti) e può avere Soglie di Danno specifiche. I tipi base sono Armatura Leggera, Media e Pesante.
+Equipaggiamento difensivo. Ogni armatura ha un Punteggio di Armatura (riduce i danni subiti) e può avere Soglie di Danno specifiche. I tipi base sono Armatura Leggera, Media e Pesante.
 
 ## Voci correlate
 - [[Arma]]

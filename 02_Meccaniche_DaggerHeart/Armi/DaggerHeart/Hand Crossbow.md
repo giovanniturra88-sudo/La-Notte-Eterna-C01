@@ -8,8 +8,7 @@ original_name: "Hand Crossbow"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

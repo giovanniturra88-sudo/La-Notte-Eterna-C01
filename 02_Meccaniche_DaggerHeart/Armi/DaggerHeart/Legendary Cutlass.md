@@ -8,8 +8,7 @@ original_name: "Legendary Cutlass"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

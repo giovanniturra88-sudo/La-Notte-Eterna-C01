@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 2
+tier: 2
 ---
 
 # Bestia Alata
 
-**_Tier 2_** _(Falco, Gufo, Corvo, ecc.)_
+**_Rango 2_** _(Falco, Gufo, Corvo, ecc.)_
 
 - **Bonus di Tratto:** Finezza +1
 - **Bonus di Evasione:** Evasione +3

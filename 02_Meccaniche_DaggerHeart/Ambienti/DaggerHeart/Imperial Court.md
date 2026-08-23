@@ -5,7 +5,7 @@ type:
 
 # Corte Imperiale
 
-**_Sociale di Tier 4.**_ _Il maestoso dominio di un potente impero, sfarzosamente arredato con tesori rubati._
+**_Sociale di Rango 4.**_ _Il maestoso dominio di un potente impero, sfarzosamente arredato con tesori rubati._
 
 - **Impulsi:** Giustificare e perpetuare il dominio imperiale, sedurre i rivali con promesse di potere e benessere
 - **Difficoltà:** 20

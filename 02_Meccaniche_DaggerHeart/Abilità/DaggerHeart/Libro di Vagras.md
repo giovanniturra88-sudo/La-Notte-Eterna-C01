@@ -12,4 +12,4 @@ Fai un **Tiro di Lancio di Magia (15)** su un oggetto che stai toccando e che po
 ## Portale Arcano
 Quando non hai avversari entro portata di mischia, fai un **Tiro di Lancio di Magia (13)**. In caso di successo, **spendi una Speranza** per creare un portale dal punto in cui ti trovi fino a un punto entro portata Lontana che puoi vedere. Il portale si chiude una volta che una creatura vi è passata attraverso.
 ## Rivela
-Fai un **Tiro di Lancio di Magia**. Se c'è qualcosa di nascosto magicamente entro portata Vicina, viene rivelato.
+Fai un **Tiro di Lancio di Magia**. Se c'è qualcosa di nascosto magicamente entro portata Ravvicinata, viene rivelato.

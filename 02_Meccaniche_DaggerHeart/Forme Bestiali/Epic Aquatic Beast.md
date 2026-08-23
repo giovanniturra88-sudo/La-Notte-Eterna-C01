@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 4
+tier: 4
 ---
 
 # Bestia Acquatica Epica
 
-**_Tier 4_** _(Calamaro Gigante, Balena, ecc.)_
+**_Rango 4_** _(Calamaro Gigante, Balena, ecc.)_
 
 - **Bonus di Tratto:** Agilità +3
 - **Bonus di Evasione:** Evasione +3

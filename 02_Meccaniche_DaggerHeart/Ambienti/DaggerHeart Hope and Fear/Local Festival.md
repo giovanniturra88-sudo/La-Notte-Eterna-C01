@@ -3,7 +3,7 @@ type:
   - "[[Ambiente]]"
 ---
 # Festival Locale
-*Tier 1 Sociale*
+*Rango 1 Sociale*
 *Popolani e nobili si radunano dalle zone circostanti per una celebrazione che dura una settimana.*
 
 **Impulsi:** Esprimere la cultura e la storia locale, forgiare nuove relazioni, rafforzare la comunità

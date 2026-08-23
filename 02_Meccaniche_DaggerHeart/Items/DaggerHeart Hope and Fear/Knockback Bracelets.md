@@ -9,4 +9,4 @@ roll: 44
 
 # Bracciali del Contraccolpo
 
-Con un attacco con arma riuscito, puoi respingere il tuo bersaglio fino a gittata Vicina dalla sua posizione.
+Con un attacco con arma riuscito, puoi respingere il tuo bersaglio fino a gittata Ravvicinata dalla sua posizione.

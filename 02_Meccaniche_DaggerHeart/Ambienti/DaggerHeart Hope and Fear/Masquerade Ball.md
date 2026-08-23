@@ -5,7 +5,7 @@ type:
 
 # Ballo in Maschera
 
-**_Tier 2 Evento.** _Un galà dell'alta società in cui festaioli mascherati scambiano segreti e favori._
+**_Rango 2 Evento.** _Un galà dell'alta società in cui festaioli mascherati scambiano segreti e favori._
 
 - **Impulsi:** Ballare fino a notte fonda, mangiare e gioire, stringere accordi segreti, scambiare informazioni preziose
 - **Difficoltà:** 14

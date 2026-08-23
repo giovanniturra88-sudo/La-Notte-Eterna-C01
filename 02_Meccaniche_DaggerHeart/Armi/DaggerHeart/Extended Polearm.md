@@ -8,8 +8,7 @@ original_name: "Extended Polearm"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

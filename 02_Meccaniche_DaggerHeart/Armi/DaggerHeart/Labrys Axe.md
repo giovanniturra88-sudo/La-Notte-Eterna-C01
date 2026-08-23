@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Protettivo:_** +1 al Punteggio Armatura
+**_Protettivo:_** +1 al Punteggio di Armatura
 ---

@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Mazza Frantumossa
 
-**_Distruttivo: −1 a Forza; con un attacco riuscito, tutti gli avversari entro gittata Molto Vicina devono segnare uno Stress_**
+**_Distruttivo: −1 a Forza; con un attacco riuscito, tutti gli avversari entro gittata Prossima devono segnare uno Stress_**
 
 ---

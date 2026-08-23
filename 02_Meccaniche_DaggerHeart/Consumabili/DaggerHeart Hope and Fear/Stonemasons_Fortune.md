@@ -2,8 +2,7 @@
 type:
   - "[[Consumabile]]"
 alias: ["Stonemasons_Fortune"]
-rarity: "Discreto"
-original_rarity: "Uncommon"
+rarity: "Non Comune"original_rarity: "Uncommon"
 roll: 26
 ---
 

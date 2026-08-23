@@ -7,12 +7,12 @@ type:
 
 ## Abominio dei Regni Esterni
 * **Descrizione:** Una presa caotica della vita, costantemente in mutamento.
-* **Tier:** 4 (Picchiatore)
+* **Rango:** 4 (Picchiatore)
 * **Difficoltà:** 19
 * **Soglie di Danno:** 35/71
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Attacchi:**
- * **Pseudopode Massiccio:** +2d4 | Molto Vicina | 4d6+13 magico
+ * **Pseudopode Massiccio:** +2d4 | Prossima | 4d6+13 magico
 * **Tratti e Capacità:**
  * **Forma Caotica - Passiva:** Quando l'Abominio attacca, lanciare **2d4** e usare il risultato come modificatore d'attacco.
  * **Presenza Disorientante - Passiva:** Quando un bersaglio subisce danni dall'Abominio, deve effettuare un Tiro di Reazione di Istinto. In caso di fallimento, ottiene svantaggio sul suo prossimo tiro d'azione e tu guadagni una Paura.
@@ -31,7 +31,7 @@ stress: "5"
 soglia_danni: "35/71"
 attacchi:
   - name: "Pseudopode Massiccio"
-    desc: "**+2d4** | Molto Vicina | **4d6+13** magico"
+    desc: "**+2d4** | Prossima | **4d6+13** magico"
 tratti:
   - name: "Forma Caotica"
     desc: "*- Passiva:* Quando l'Abominio attacca, lanciare 2d4 e usare il risultato come modificatore d'attacco."

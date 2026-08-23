@@ -8,12 +8,11 @@ original_name: "Whip"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Stordente:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata Contatto a rientrare in portata Vicina.
+**_Stordente:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata Contatto a rientrare in portata Ravvicinata.
 ---

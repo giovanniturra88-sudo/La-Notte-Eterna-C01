@@ -11,7 +11,7 @@ source: DaggerHeart Hope and Fear
 
 ## Tratti Ancestrali (Meccaniche Daggerheart)
 
-- **Pelle di Pietra (Stoneskin)**: Ottieni un bonus permanente di +1 al tuo *Punteggio Armatura* e soglie di danno alla creazione del personaggio.
+- **Pelle di Pietra (Stoneskin)**: Ottieni un bonus permanente di +1 al tuo *Punteggio di Armatura* e soglie di danno alla creazione del personaggio.
   
 - **Immobilità (Immovable)**: Mentre sei a contatto con il terreno, non puoi essere sollevato o spostato contro la tua volontà.
 

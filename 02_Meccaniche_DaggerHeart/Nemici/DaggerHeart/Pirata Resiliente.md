@@ -6,16 +6,16 @@ type:
 
 ## Pirata Resiliente
 * **Descrizione:** Un pirata massiccio e tatuato con pugni della grandezza di una melone.
-* **Tier:** 1 (Picchiatore)
+* **Rango:** 1 (Picchiatore)
 * **Difficoltà:** 13
 * **Soglie di Danno:** 8/15
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Marinaro +2
 * **Attacchi:**
- * **Pugni Giganti:** +1 | Da Vicino | 2d6 fisico
+ * **Pugni Giganti:** +1 | Ravvicinata | 2d6 fisico
 * **Tratti e Capacità:**
- * **Schianto - Passiva:** Quando il Resiliente segna 2 o meno PF da un attacco in portata Da Vicino, l'attaccante deve segnare uno Stress.
- * **Svuota la Deck - Azione:** Effettua un attacco contro un bersaglio in portata Molto Vicina. In caso di successo, **Segnare uno Stress** per spostarti in portata Da Vicino del bersaglio, infliggendo **3d4** danni fisici e spingendo il bersaglio indietro a portata Vicina.
+ * **Schianto - Passiva:** Quando il Resiliente segna 2 o meno PF da un attacco in portata Ravvicinata, l'attaccante deve segnare uno Stress.
+ * **Svuota la Deck - Azione:** Effettua un attacco contro un bersaglio in portata Prossima. In caso di successo, **Segnare uno Stress** per spostarti in portata Ravvicinata del bersaglio, infliggendo **3d4** danni fisici e spingendo il bersaglio indietro a portata Ravvicinata.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -30,11 +30,11 @@ esperienza: "Marinaro +2"
 soglia_danni: "8/15"
 attacchi:
   - name: "Pugni Giganti"
-    desc: "**+1** | Da Vicino | **2d6** fisico"
+    desc: "**+1** | Ravvicinata | **2d6** fisico"
 tratti:
   - name: "Schianto"
-    desc: "*- Passiva:* Quando il Resiliente segna 2 o meno PF da un attacco in portata Da Vicino, l'attaccante deve segnare uno Stress."
+    desc: "*- Passiva:* Quando il Resiliente segna 2 o meno PF da un attacco in portata Ravvicinata, l'attaccante deve segnare uno Stress."
 capacita_speciali:
   - name: "Svuota la Deck"
-    desc: "*- Azione:* Effettua un attacco contro un bersaglio in portata Molto Vicina. In caso di successo, Segnare uno Stress per spostarti in portata Da Vicino del bersaglio, infliggendo 3d4 danni fisici e spingendo il bersaglio indietro a portata Vicina."
+    desc: "*- Azione:* Effettua un attacco contro un bersaglio in portata Prossima. In caso di successo, Segnare uno Stress per spostarti in portata Ravvicinata del bersaglio, infliggendo 3d4 danni fisici e spingendo il bersaglio indietro a portata Ravvicinata."
 ```

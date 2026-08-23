@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche Daggerheart)
 
 - **Fortuna del Caso**: Una volta per sessione, quando fallisci una prova o un tiro di attacco, puoi marcare 1 *Stress* per ritirare il dado e sommare il valore ottenuto al precedente risultato. La fortuna non è naturale, ma un'anomalia che attira la sorte benevola tra le pieghe del Vuoto.
-- **Passo Leggero**: La tua taglia minuta e la tua agilità ti permettono di ignorare i movimenti ostacolati. Puoi muoverti attraverso lo spazio occupato da una creatura di taglia superiore alla tua senza subire attacchi di opportunità. Inoltre, ottieni vantaggio nelle prove di *Agilità* per nasconderti o evitare di essere individuato in spazi ristretti.
+- **Passo Leggero**: La tua taglia minuta e la tua agilità ti permettono di ignorare i movimenti ostacolati. Puoi muoverti attraverso lo spazio occupato da una creatura di taglia superiore alla tua senza subire attacchi di opportunità. Inoltre, ottieni vantaggio nelle prove di *Agilità* per nasconderti o evitare di essere individuato in spazi trattenuti.
 - **Cuore Impavido**: Puoi utilizzare un'azione di reazione per rimuovere una condizione negativa minore (come *Prono* o *Slowed*) da un alleato entro gittata *vicina*. Questo atto di coraggio richiede una concentrazione magica che emette un debole impulso luminoso, rivelando la vostra posizione e generando 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa

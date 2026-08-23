@@ -10,7 +10,7 @@ alias: ["Gambeson Leggendario"]
 **_Livello 4_** _Armatura_
 
 - **Soglie di Danno Base:** 11 / 32
-- **Punteggio Armatura Base:** 6
+- **Punteggio di Armatura Base:** 6
 
 ### TRATTO DELL'ARMATURA
 

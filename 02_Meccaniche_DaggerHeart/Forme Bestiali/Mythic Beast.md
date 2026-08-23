@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 4
+tier: 4
 ---
 
 # Bestia Mitica
 
-**_Tier 4_** _(Opzioni di Tier 1 o Tier 2 Potenziate)_
+**_Rango 4_** _(Opzioni di Rango 1 o Rango 2 Potenziate)_
 
 - **Bonus di Tratto:** <no value>
 - **Bonus di Evasione:** <no value>
@@ -15,7 +15,7 @@ tier: Tier 4
 
 ### CARATTERISTICHE
 
-**_Evoluto:_** Scegli un'opzione di Forma Bestiale di Tier 1 o Tier 2 e diventa una versione più grande e potente di quella creatura. Mentre sei in questa forma, mantieni tutti i tratti e le caratteristiche della forma originale e ottieni i seguenti bonus:
+**_Evoluto:_** Scegli un'opzione di Forma Bestiale di Rango 1 o Rango 2 e diventa una versione più grande e potente di quella creatura. Mentre sei in questa forma, mantieni tutti i tratti e le caratteristiche della forma originale e ottieni i seguenti bonus:
 
 - Un bonus di +9 ai tiri per i danni
 - Un bonus di +2 al tratto usato da questa forma

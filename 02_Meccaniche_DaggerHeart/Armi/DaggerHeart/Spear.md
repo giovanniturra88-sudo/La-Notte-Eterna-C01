@@ -8,8 +8,7 @@ original_name: "Spear"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

@@ -8,8 +8,7 @@ original_name: "Aantari Bow"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

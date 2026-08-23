@@ -8,12 +8,11 @@ original_name: "Round Shield"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Protettivo:_** +1 al Punteggio Armatura
+**_Protettivo:_** +1 al Punteggio di Armatura
 ---

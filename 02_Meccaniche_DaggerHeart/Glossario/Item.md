@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Item
 
-Oggetto generico utilizzabile dai personaggi: oggetti comuni, oggetti magici, reliquie e artefatti. Gli oggetti di Tier superiore hanno effetti più potenti.
+Oggetto generico utilizzabile dai personaggi: oggetti comuni, oggetti magici, reliquie e artefatti. Gli oggetti di rango superiore hanno effetti più potenti.
 
 ## Voci correlate
 - [[Consumabile]]

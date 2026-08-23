@@ -14,6 +14,6 @@ ruolo: "secondaria"
 
 ### Filo di Rasoi
 
-**_Intrappolante: Con un attacco riuscito con la tua arma primaria contro un bersaglio entro gittata Molto Vicina, puoi spendere una Speranza per rendere il bersaglio temporaneamente Vulnerabile_**
+**_Intrappolante: Con un attacco riuscito con la tua arma primaria contro un bersaglio entro gittata Prossima, puoi spendere una Speranza per rendere il bersaglio temporaneamente Vulnerabile_**
 
 ---

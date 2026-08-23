@@ -13,7 +13,7 @@ Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre n
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Finesse, +2 Istinto, +1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Doppio (Istinto Lontano, d6+3 magici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio Armatura 3 - Flessibile: +1 all'Evasione)
+- **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio di Armatura 3 - Flessibile: +1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un'orb sussurrante o un cimelio di famiglia
 ---
 
@@ -23,11 +23,11 @@ Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre n
 **_Magia Volatile:_** Spendi 3 Punti Speranza per ripetere qualsiasi numero di dadi di danno su un attacco che infligge danno magico.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Origine Elementale]] o [[Origine Primordiale]].
+Scegli tra la sottoclasse [[Potere Elementale]] o [[Potere Primordiale]].
 
 # Caratteristiche di Classe
-**_Senso Arcano (Arcane Sense):_** Puoi percepire la presenza di oggetti e creature magiche entro portata Vicina.
-**_Illusione Minore (Minor Illusion):_** Effettua un tiro di Incantesimo (10). In caso di successo, crei un'illusione visiva non più grande di te entro portata Vicina.
+**_Senso Arcano (Arcane Sense):_** Puoi percepire la presenza di oggetti e creature magiche entro portata Ravvicinata.
+**_Illusione Minore (Minor Illusion):_** Effettua un Tiro Incantesimo (10). In caso di successo, crei un'illusione visiva non più grande di te entro portata Ravvicinata.
 **_Incanalare Potere Grezzo (Channel Raw Power):_** Una volta per riposo lungo, puoi mettere una carta dominio dal loadout nella vault per ottenere Speranza pari al livello della carta o raddoppiare il livello della carta come bonus al danno di una magia.
 
 # Domande di Sfondo

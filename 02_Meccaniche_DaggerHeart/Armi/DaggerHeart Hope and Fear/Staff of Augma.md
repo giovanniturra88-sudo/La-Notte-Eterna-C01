@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Bastone di Augma
 
-**_Catalitico: Con un attacco riuscito, puoi segnare uno Stress per concedere a un alleato entro gittata Vicina un bonus di +3 al suo prossimo tiro di attacco_**
+**_Catalitico: Con un attacco riuscito, puoi segnare uno Stress per concedere a un alleato entro gittata Ravvicinata un bonus di +3 al suo prossimo tiro di attacco_**
 
 ---

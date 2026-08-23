@@ -6,10 +6,10 @@ source: DaggerHeart
 
 # Lontano
 
-Banda di portata Lontana (~36 m): distanza per armi a gittata, incantesimi e attacchi a distanza.
+Banda di portata Lontana (~9-30 m; Far): distanza per armi a gittata, incantesimi e attacchi a distanza.
 
 ## Voci correlate
-- [[Vicino]]
+- [[Ravvicinato]]
 
 ## Citata da
 ```dataview

@@ -7,5 +7,5 @@ Tipologia Carta: "[[Magia]]"
 Titolo Inglese: Healing Field
 ---
 
-Una volta per [[Riposo Lungo|riposo lungo]], puoi evocare un campo di piante guaritrici intorno a te. Ovunque entro [[Vicino]] si risveglia una natura vibrante, permettendo a te e a tutti gli alleati nella zona di recuperare un Punto [[Ferita]].
+Una volta per [[Riposo Lungo|riposo lungo]], puoi evocare un campo di piante guaritrici intorno a te. Ovunque entro [[Ravvicinato]] si risveglia una natura vibrante, permettendo a te e a tutti gli alleati nella zona di recuperare un Punto [[Ferita]].
 Spendi 2 [[Speranza|speranza]] per permettere a te e a tutti gli alleati di recuperare 2 Punti [[Ferita]] invece.

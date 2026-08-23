@@ -9,7 +9,7 @@ source: DaggerHeart
 Il tratto caratteristica (Conoscenza, Istinto, Presenza...) usato per i Tiri per Lanciare Incantesimi della classe.
 
 ## Voci correlate
-- [[Tiro per Lanciare Incantesimi]]
+- [[Tiro Incantesimo]]
 
 ## Citata da
 ```dataview

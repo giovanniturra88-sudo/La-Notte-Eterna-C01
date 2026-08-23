@@ -5,7 +5,7 @@ type:
 
 # Bosco Abbandonato
 
-**_Tier 1 Esplorazione.** _Un sacro bosco dimenticato, reclamato dalla natura, dove antiche pietre si ergono contorte tra radici rigogliose, i fiori selvatici sussurrano di magia residua e l'aria vibra di preghiere dimenticate._
+**_Rango 1 Esplorazione.** _Un sacro bosco dimenticato, reclamato dalla natura, dove antiche pietre si ergono contorte tra radici rigogliose, i fiori selvatici sussurrano di magia residua e l'aria vibra di preghiere dimenticate._
 
 - **Impulsi:** Nutrire ciò che resta, rivelare la bellezza nel decadimento, tentare con il potere dimenticato, risvegliare ciò che dorme
 - **Difficoltà:** 11
@@ -17,7 +17,7 @@ type:
 
 **_Fiori Selvatici Sussurranti - Passiva:** I fiori rigogliosi emettono una debole luminescenza al crepuscolo, i loro petali tremanti per una brezza ultraterrena. Con un Tiro di Istinto riuscito, un PG può udire sussurri frammentati — echi di conversazioni di molto tempo fa. Questi sussurri possono fornire indizi o presagi se il GM li ritiene pertinenti. _Che tipo di ricordi custodiscono i fiori? Sono echi di gioia, dolore o monito?_
 
-**_Trappola Radicata - Azione:** Spendi una Paura per far erompere dal terreno sotto un bersaglio entro portata Vicina spesse radici. Il bersaglio deve superare un Tiro di Reazione di Agilità o Forza o diventare _Ristretto_ fino alla fine della scena. Un bersaglio Ristretto può usare un'azione di downtime per effettuare un Tiro di Agilità e liberarsi, ottenendo vantaggio sul tiro. _Le radici sono vive, senzienti o semplicemente reagiscono alla magia persistente del bosco? Che suoni emettono quando si muovono — crepitii, sospiri o qualcosa di peggio?_
+**_Trappola Radicata - Azione:** Spendi una Paura per far erompere dal terreno sotto un bersaglio entro portata Ravvicinata spesse radici. Il bersaglio deve superare un Tiro di Reazione di Agilità o Forza o diventare _Trattenuto_ fino alla fine della scena. Un bersaglio Trattenuto può usare un'azione di downtime per effettuare un Tiro di Agilità e liberarsi, ottenendo vantaggio sul tiro. _Le radici sono vive, senzienti o semplicemente reagiscono alla magia persistente del bosco? Che suoni emettono quando si muovono — crepitii, sospiri o qualcosa di peggio?_
 
 **_Fioritura Antica - Azione:** Spendi una Paura per far sbocciare al centro del bosco un enorme fiore ultraterreno. Ogni PG entro portata Lontana può scegliere di inalarne le spore. Tira un d6 per ogni PG che lo fa: su un risultato di 4-6, recuperano un numero di PF pari al massimo del loro d6; su un 3, non succede nulla; su un 1-2, il fiore rilascia invece polline tossico e il PG subisce 1d6+3 danni da veleno. _Che aspetto ha il fiore? Che profumo ha — dolce, metallico o qualcosa di inquietantemente familiare?_
 

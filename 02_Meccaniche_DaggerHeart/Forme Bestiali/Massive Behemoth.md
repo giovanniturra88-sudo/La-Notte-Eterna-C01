@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 4
+tier: 4
 ---
 
 # Colosso Massiccio
 
-**_Tier 4_** _(Elefante, Mammut, Rinoceronte, ecc.)_
+**_Rango 4_** _(Elefante, Mammut, Rinoceronte, ecc.)_
 
 - **Bonus di Tratto:** Forza +3
 - **Bonus di Evasione:** Evasione +1

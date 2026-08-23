@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 1
+tier: 1
 ---
 
 # Amico di Casa
 
-**_Tier 1_** _(Gatto, Cane, Coniglio, ecc.)_
+**_Rango 1_** _(Gatto, Cane, Coniglio, ecc.)_
 
 - **Bonus di Tratto:** Istinto +1
 - **Bonus di Evasione:** Evasione +2

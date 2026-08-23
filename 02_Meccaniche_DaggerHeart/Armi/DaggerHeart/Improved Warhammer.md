@@ -8,8 +8,7 @@ original_name: "Improved Warhammer"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

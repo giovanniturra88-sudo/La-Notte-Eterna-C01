@@ -8,8 +8,7 @@ original_name: "Advanced Warhammer"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

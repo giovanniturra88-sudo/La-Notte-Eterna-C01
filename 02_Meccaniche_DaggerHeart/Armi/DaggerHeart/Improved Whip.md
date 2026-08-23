@@ -8,12 +8,11 @@ original_name: "Improved Whip"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Sbalorditivo:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata Vicinissima a tornare a portata Molto Vicina.
+**_Sbalorditivo:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata Vicinissima a tornare a portata Prossima.
 ---

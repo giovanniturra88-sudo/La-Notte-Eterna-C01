@@ -9,4 +9,4 @@ roll: 19
 
 # Seme di Snapthorn
 
-Puoi lanciare questo seme contro un punto che puoi vedere. Esplode in un groviglio di viticci vincolanti che Vincolano temporaneamente tutte le creature entro gittata Vicina da quel punto.
+Puoi lanciare questo seme contro un punto che puoi vedere. Esplode in un groviglio di viticci vincolanti che Vincolano temporaneamente tutte le creature entro gittata Ravvicinata da quel punto.

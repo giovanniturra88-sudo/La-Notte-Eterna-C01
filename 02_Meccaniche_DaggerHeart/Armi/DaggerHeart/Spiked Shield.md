@@ -8,12 +8,11 @@ original_name: "Spiked Shield"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Doppia Funzione:_** +1 al Punteggio Armatura; +1 al danno dell'arma primaria entro portata Corpo a Corpo
+**_Doppia Funzione:_** +1 al Punteggio di Armatura; +1 al danno dell'arma primaria entro portata Corpo a Corpo
 ---

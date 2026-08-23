@@ -8,8 +8,7 @@ original_name: "Advanced Hallowed Axe"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

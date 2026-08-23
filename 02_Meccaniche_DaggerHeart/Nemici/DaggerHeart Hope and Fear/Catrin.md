@@ -6,7 +6,7 @@ type:
 
 ## Catrin
 * **Descrizione:** Uno scheletro sontuosamente adornato, con un'appetito insaziabile per l'oro.
-* **Tier:** 3 (Sociale)
+* **Rango:** 3 (Sociale)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 20/32
 * **Punti Ferita:** 5 | **Stress:** 6
@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Attratta dalla Ricchezza - Passiva:** I PG che portano almeno una borsa d'oro hanno vantaggio sui Tiri di Presenza effettuati per influenzare la Catrin.
  * **Il Peso dell'Opulenza - Azione:** Spendere una Paura per far volgere lo sguardo della Catrin verso il PG che porta più oro. Il bersaglio deve superare un Tiro di Reazione d'Istinto o perdere una Speranza per ogni borsa d'oro che porta. Se il PG perde l'ultima Speranza o non ne ha da perdere, segna Stress invece.
- * **Fallimento Costoso - Reazione:** Quando un PG entro portata Da Vicino fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG.
+ * **Fallimento Costoso - Reazione:** Quando un PG entro portata Ravvicinata fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -39,5 +39,5 @@ capacita_speciali:
   - name: "Il Peso dell'Opulenza"
     desc: "*- Azione:* Spendere una Paura per far volgere lo sguardo della Catrin verso il PG che porta più oro. Il bersaglio deve superare un Tiro di Reazione d'Istinto o perdere una Speranza per ogni borsa d'oro che porta. Se il PG perde l'ultima Speranza o non ne ha da perdere, segna Stress invece."
   - name: "Fallimento Costoso"
-    desc: "*- Reazione:* Quando un PG entro portata Da Vicino fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG."
+    desc: "*- Reazione:* Quando un PG entro portata Ravvicinata fallisce un tiro di azione, puoi segnare uno Stress per far rubare alla Catrin, con spudoratezza, un pugno d'oro al PG."
 ```

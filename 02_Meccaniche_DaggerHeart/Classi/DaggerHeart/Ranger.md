@@ -13,7 +13,7 @@ I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selv
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +2 Agilità, +0 Forza, +1 Finesse, +1 Istinto, -1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Arco Corto (Agilità Lontano, d6+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Un trofeo della tua prima uccisione o una bussola apparentemente rotta
 ---
 
@@ -23,7 +23,7 @@ I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selv
 **_Tenerli a Bada:_** Spendi 3 Punti Speranza quando metti a segno un attacco con arma per applicare lo stesso risultato di attacco contro due avversari aggiuntivi entro la gittata dell'arma.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Legato alla Bestia]] o [[Esploratore]].
+Scegli tra la sottoclasse [[Ferale]] o [[Esploratore]].
 
 # Caratteristiche di Classe
 **_Focus del Ranger (Ranger's Focus):_** Spendi 1 Speranza ed effettua un attacco contro un bersaglio. In caso di successo, infliggi danno normale e rendi temporaneamente il bersaglio il tuo Focus. Ottieni vantaggi letali contro il tuo Focus, costringendolo a marcare Stress quando subisce danno.

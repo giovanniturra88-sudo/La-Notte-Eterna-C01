@@ -8,8 +8,7 @@ original_name: "Legendary Greatsword"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

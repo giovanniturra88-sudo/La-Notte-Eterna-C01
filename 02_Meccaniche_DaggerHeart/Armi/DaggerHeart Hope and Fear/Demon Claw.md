@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Zanna del Demone
 
-**_Incendiario: −1 a Agilità; con un attacco riuscito, tutte le creature entro gittata Molto Vicina del bersaglio devono segnare un Punto Ferita_**
+**_Incendiario: −1 a Agilità; con un attacco riuscito, tutte le creature entro gittata Prossima del bersaglio devono segnare un Punto Ferita_**
 
 ---

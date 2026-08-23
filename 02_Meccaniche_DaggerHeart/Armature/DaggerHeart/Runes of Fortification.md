@@ -10,7 +10,7 @@ alias: ["Runes di Fortificazione"]
 **_Grado 3_** _Armatura_
 
 - **Soglie di Danno:** 17 / 43
-- **Punteggio Armatura:** 6
+- **Punteggio di Armatura:** 6
 
 ### TRATTO DELL'ARMATURA
 

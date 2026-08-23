@@ -6,17 +6,17 @@ type:
 
 ## Legione Zombie
 * **Descrizione:** Un grande branco di non morti, ancora potente nonostante la loro carne in putrefazione.
-* **Tier:** 4 (Orda, 3/PF)
+* **Rango:** 4 (Orda, 3/PF)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 25/45
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Attacchi:**
- * **Mani Non Morti:** +2 | Da Vicino | 4d6+10 fisico
+ * **Mani Non Morti:** +2 | Ravvicinata | 4d6+10 fisico
 * **Tratti e Capacità:**
  * **Orda (2d6+5) - Passiva:** Quando la Legione ha segnato metà o più dei propri PF, il loro attacco standard infligge **2d6+5** danni fisici invece.
  * **Inesorabile - Passiva:** La Legione ha resistenza ai danni fisici.
  * **Inflessibile (2) - Passiva:** La Legione può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come al solito per metterla a fuoco.
- * **Schiacciamento - Reazione:** Quando la Legione subisce danni Minori da un attacco in portata Da Vicino, puoi **segnare uno Stress** per effettuare un attacco standard con vantaggio contro l'attaccante.
+ * **Schiacciamento - Reazione:** Quando la Legione subisce danni Minori da un attacco in portata Ravvicinata, puoi **segnare uno Stress** per effettuare un attacco standard con vantaggio contro l'attaccante.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -30,7 +30,7 @@ stress: "5"
 soglia_danni: "25/45"
 attacchi:
   - name: "Mani Non Morti"
-    desc: "**+2** | Da Vicino | **4d6+10** fisico"
+    desc: "**+2** | Ravvicinata | **4d6+10** fisico"
 tratti:
   - name: "Orda (2d6+5)"
     desc: "*- Passiva:* Quando la Legione ha segnato metà o più dei propri PF, il loro attacco standard infligge 2d6+5 danni fisici invece."
@@ -40,5 +40,5 @@ tratti:
     desc: "*- Passiva:* La Legione può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come al solito per metterla a fuoco."
 capacita_speciali:
   - name: "Schiacciamento"
-    desc: "*- Reazione:* Quando la Legione subisce danni Minori da un attacco in portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante."
+    desc: "*- Reazione:* Quando la Legione subisce danni Minori da un attacco in portata Ravvicinata, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante."
 ```

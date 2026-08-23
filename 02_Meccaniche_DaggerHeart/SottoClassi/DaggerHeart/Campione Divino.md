@@ -18,7 +18,7 @@ Impugnare un'arma sacra leggendaria e colpire i nemici scagliandola a distanza.
 
 ## Caratteristica di Fondazione (Foundation)
 **Arma dello Spirito (Spirit Weapon):**
-Quando impugni un'arma con portata di Mischia o Molto Vicina, questa può volare dalla tua mano per attaccare un avversario entro portata Vicina e poi ritornare da te. Puoi marcare uno Stress to prendere come bersaglio un avversario aggiuntivo con lo stesso tiro d'attacco.
+Quando impugni un'arma con portata di Mischia o Prossima, questa può volare dalla tua mano per attaccare un avversario entro portata Ravvicinata e poi ritornare da te. Puoi marcare uno Stress to prendere come bersaglio un avversario aggiuntivo con lo stesso tiro d'attacco.
 
 **Tocco di Risparmio (Sparing Touch):**
 Una volta per riposo lungo, tocca una creatura e cura/cancella 2 Punti Ferita o 2 Stress.

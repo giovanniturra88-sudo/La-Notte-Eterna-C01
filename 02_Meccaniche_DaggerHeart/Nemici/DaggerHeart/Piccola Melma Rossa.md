@@ -6,14 +6,14 @@ type:
 
 ## Piccola Melma Rossa
 * **Descrizione:** Una piccola montagna mobile di slime rosso traslucido in fiamme.
-* **Tier:** 1 (Furtivo)
+* **Rango:** 1 (Furtivo)
 * **Difficoltà:** 11
 * **Soglie di Danno:** 5/Nessuna
 * **Punti Ferita:** 2 | **Stress:** 1
 * **Attacchi:**
- * **Appendice Melma:** -1 | Da Vicino | 1d4+2 magico
+ * **Appendice Melma:** -1 | Ravvicinata | 1d4+2 magico
 * **Tratti e Capacità:**
- * **Bruciante - Reazione:** Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce **1d6** danni magici diretti.
+ * **Bruciante - Reazione:** Quando una creatura in portata Ravvicinata infligge danni alla Melma, essa subisce **1d6** danni magici diretti.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -27,8 +27,8 @@ stress: "1"
 soglia_danni: "5/Nessuna"
 attacchi:
   - name: "Appendice Melma"
-    desc: "**-1** | Da Vicino | **1d4+2** magico"
+    desc: "**-1** | Ravvicinata | **1d4+2** magico"
 capacita_speciali:
   - name: "Bruciante"
-    desc: "*- Reazione:* Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce 1d6 danni magici diretti."
+    desc: "*- Reazione:* Quando una creatura in portata Ravvicinata infligge danni alla Melma, essa subisce 1d6 danni magici diretti."
 ```

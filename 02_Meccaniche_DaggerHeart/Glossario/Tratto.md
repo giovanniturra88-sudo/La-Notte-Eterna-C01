@@ -9,7 +9,7 @@ source: DaggerHeart
 Le sei caratteristiche di Daggerheart: Agilità, Conoscenza, Forza, Finezza, Istinto, Presenza. I tiri usano un tratto + dadi della Dualità.
 
 ## Voci correlate
-- [[Dadi della Dualità]]
+- [[Dadi Dualità]]
 
 ## Citata da
 ```dataview

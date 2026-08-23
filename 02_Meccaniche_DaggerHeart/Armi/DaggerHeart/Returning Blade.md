@@ -2,14 +2,12 @@
 alias: ["Lama Ritornante"]
 categoria: arma
 danno: d8
-gittata: vicino
-ingombro: "una mano"
+gittata: ravvicinatoingombro: "una mano"
 original_name: "Returning Blade"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

@@ -8,8 +8,7 @@ original_name: "Ego Blade"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

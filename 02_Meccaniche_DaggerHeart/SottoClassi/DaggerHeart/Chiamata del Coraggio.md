@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait:
 ---
 
-# Chiamata dei Coraggiosi (Call of the Brave)
+# Chiamata del Coraggio (Call of the Brave)
 
 *Sottoclasse della classe:* [[Warrior]]
 *Caratteristica di Spellcast:* **Nessuno (No Spellcast)**

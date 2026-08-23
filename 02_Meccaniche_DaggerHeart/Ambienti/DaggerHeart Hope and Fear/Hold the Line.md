@@ -5,7 +5,7 @@ type:
 
 # Mantenete la Linea
 
-**_Tier 1 Evento.** _Il gruppo deve respingere più ondate di nemici per tutto il tempo necessario a un alleato per completare un obiettivo importante._
+**_Rango 1 Evento.** _Il gruppo deve respingere più ondate di nemici per tutto il tempo necessario a un alleato per completare un obiettivo importante._
 
 - **Impulsi:** Scagliare ondate di nemici contro le rive del gruppo, non lasciarli mai respirare, prendere di mira il loro protetto
 - **Difficoltà:** 11
@@ -19,4 +19,4 @@ type:
 
 **_Moltitudini Sciamanti - Passiva:** Tutti gli avversari ottengono la caratteristica "Implacabile (2)": possono essere messi sotto i riflettori fino a due volte per turno del GM. Spendi Paura come di consueto per metterli sotto i riflettori. _Da dove viene il nuovo potere di questi nemici? C'è un modo per tagliarli fuori da esso?_
 
-**_Onde su Onde - Reazione:** Quando non ci sono avversari nella scena, evoca un'ondata di avversari a portata Lontana dal Protetto. Ogni ondata è composta da due Minion di Tier 1 per ogni PG nella scena. _Da dove vengono questi avversari? Chi li guida dalle ombre?_
+**_Onde su Onde - Reazione:** Quando non ci sono avversari nella scena, evoca un'ondata di avversari a portata Lontana dal Protetto. Ogni ondata è composta da due Minion di Rango 1 per ogni PG nella scena. _Da dove vengono questi avversari? Chi li guida dalle ombre?_

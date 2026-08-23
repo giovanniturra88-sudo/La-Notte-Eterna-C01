@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Arco Lungo Elfico
 
-**_Silenzioso: Puoi effettuare attacchi con questa arma senza allertare le creature entro gittata Vicina_**
+**_Silenzioso: Puoi effettuare attacchi con questa arma senza allertare le creature entro gittata Ravvicinata_**
 
 ---

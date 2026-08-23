@@ -9,7 +9,7 @@ source: DaggerHeart
 Banda di portata Media (~18 m): oltre la mischia, entro il raggio di molte armi a distanza.
 
 ## Voci correlate
-- [[Vicino]]
+- [[Ravvicinato]]
 - [[Lontano]]
 
 ## Citata da

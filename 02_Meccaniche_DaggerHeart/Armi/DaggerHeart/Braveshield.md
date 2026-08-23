@@ -8,12 +8,11 @@ original_name: "Braveshield"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Rifugio:_** Quando segni uno Slot Armatura, riduci il danno per te e per tutti gli alleati entro Portata Corpo a Corpo da te che hanno subito lo stesso danno.
+**_Rifugio:_** Quando segni uno Caselle Armatura, riduci il danno per te e per tutti gli alleati entro Portata Corpo a Corpo da te che hanno subito lo stesso danno.
 ---

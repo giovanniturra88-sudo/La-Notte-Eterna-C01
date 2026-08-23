@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Solo
 
-Ruolo (Solo): avversario progettato per combattere da solo contro l'intero gruppo; statistiche al vertice del Tier.
+Ruolo (Solo): avversario progettato per combattere da solo contro l'intero gruppo; statistiche al vertice del rango.
 
 ## Voci correlate
 - [[Ruolo]]

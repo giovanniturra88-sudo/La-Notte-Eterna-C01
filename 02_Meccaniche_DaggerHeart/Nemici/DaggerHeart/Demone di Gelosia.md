@@ -6,7 +6,7 @@ type:
 
 ## Demone di Gelosia
 * **Descrizione:** Una creatura capricciosa di arti esili e desideri insaziabili.
-* **Tier:** 3 (a Distanza)
+* **Rango:** 3 (a Distanza)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 17/30
 * **Punti Ferita:** 6 | **Stress:** 6
@@ -16,8 +16,8 @@ type:
 * **Tratti e Capacità:**
  * **Mente Non Protetta - Passiva:** L'attacco standard del Demone infligge danni diretti.
  * **È Il Mio Turno - Reazione:** Quando il Demone segna PF da un attacco, **spendere una quantità di Paura pari ai PF segnati dal Demone** per costringere l'attaccante a segnare lo stesso numero di PF.
- * **Rivalità - Reazione:** Quando una creatura entro portata Vicina subisce danni da un avversario diverso, puoi **segnare uno Stress** per aggiungere un **d4** al lancio dei danni.
- * **Quello Che È Tuo È Mio - Reazione:** Quando un PG subisce danni Gravi entro portata Molto Vicina al Demone, puoi **spendere una Paura** per costringere la vittima a effettuare un Tiro di Reazione di Finezza. In caso di fallimento, il Demone si impossessa di un oggetto o consumabile a scelta dall'inventario della vittima.
+ * **Rivalità - Reazione:** Quando una creatura entro portata Ravvicinata subisce danni da un avversario diverso, puoi **segnare uno Stress** per aggiungere un **d4** al lancio dei danni.
+ * **Quello Che È Tuo È Mio - Reazione:** Quando un PG subisce danni Gravi entro portata Prossima al Demone, puoi **spendere una Paura** per costringere la vittima a effettuare un Tiro di Reazione di Finezza. In caso di fallimento, il Demone si impossessa di un oggetto o consumabile a scelta dall'inventario della vittima.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -40,7 +40,7 @@ capacita_speciali:
   - name: "È Il Mio Turno"
     desc: "*- Reazione:* Quando il Demone segna PF da un attacco, spendere una quantità di Paura pari ai PF segnati dal Demone per costringere l'attaccante a segnare lo stesso numero di PF."
   - name: "Rivalità"
-    desc: "*- Reazione:* Quando una creatura entro portata Vicina subisce danni da un avversario diverso, puoi segnare uno Stress per aggiungere un d4 al lancio dei danni."
+    desc: "*- Reazione:* Quando una creatura entro portata Ravvicinata subisce danni da un avversario diverso, puoi segnare uno Stress per aggiungere un d4 al lancio dei danni."
   - name: "Quello Che È Tuo È Mio"
-    desc: "*- Reazione:* Quando un PG subisce danni Gravi entro portata Molto Vicina al Demone, puoi spendere una Paura per costringere la vittima a effettuare un Tiro di Reazione di Finezza. In caso di fallimento, il Demone si impossessa di un oggetto o consumabile a scelta dall'inventario della vittima."
+    desc: "*- Reazione:* Quando un PG subisce danni Gravi entro portata Prossima al Demone, puoi spendere una Paura per costringere la vittima a effettuare un Tiro di Reazione di Finezza. In caso di fallimento, il Demone si impossessa di un oggetto o consumabile a scelta dall'inventario della vittima."
 ```

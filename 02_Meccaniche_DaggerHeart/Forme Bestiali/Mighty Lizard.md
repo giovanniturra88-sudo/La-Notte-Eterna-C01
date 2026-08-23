@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 3
+tier: 3
 ---
 
 # Lucertola Possente
 
-**_Tier 3_** _(Alligatore, Coccodrillo, Mostro di Gila, ecc.)_
+**_Rango 3_** _(Alligatore, Coccodrillo, Mostro di Gila, ecc.)_
 
 - **Bonus di Tratto:** Istinto +2
 - **Bonus di Evasione:** Evasione +1

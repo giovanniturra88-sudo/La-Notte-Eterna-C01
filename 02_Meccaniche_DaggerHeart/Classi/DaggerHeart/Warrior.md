@@ -13,7 +13,7 @@ I guerrieri dedicano la vita allo studio e alla maestria delle armi da mischia. 
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +2 Agilità, +1 Forza, +0 Finesse, +1 Istinto, -1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Spada Lunga (Agilità Mischia, d10+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio Armatura 4 - Pesante: -1 all'Evasione)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio di Armatura 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Il disegno di un amante o una pietra per affilare
 ---
 
@@ -23,7 +23,7 @@ I guerrieri dedicano la vita allo studio e alla maestria delle armi da mischia. 
 **_Nessuna Pietà:_** Spendi 3 Punti Speranza per ottenere un bonus di +1 ai tiri di attacco fino al prossimo riposo.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Chiamata dei Coraggiosi]] o [[Chiamata dello Sterminatore]].
+Scegli tra la sottoclasse [[Chiamata del Coraggio]] o [[Chiamata dello Sterminatore]].
 
 # Caratteristiche di Classe
 **_Attacco di Opportunità:_** Se un nemico tenta di fuggire dalla portata di mischia, effettua un tiro di reazione. Al successo, infliggi danno o blocchi il suo movimento.

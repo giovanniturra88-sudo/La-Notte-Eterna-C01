@@ -8,8 +8,7 @@ original_name: "Legendary Hand Crossbow"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

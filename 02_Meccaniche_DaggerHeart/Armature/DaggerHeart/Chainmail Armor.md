@@ -10,7 +10,7 @@ alias: ["Cotta di Maglia"]
 **_Livello 1_** _Armatura_
 
 - **_Soglie di Danno:_** 7 / 15
-- **_Punteggio Armatura:_** 4
+- **_Punteggio di Armatura:_** 4
 
 ### TRATTO DELL'ARMATURA
 

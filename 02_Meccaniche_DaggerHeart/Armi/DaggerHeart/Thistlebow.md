@@ -8,8 +8,7 @@ original_name: "Thistlebow"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: instinct
-type: 
+tratto: istintotype: 
   - "[[Arma]]"
 ---
 

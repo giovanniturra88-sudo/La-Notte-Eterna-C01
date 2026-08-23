@@ -6,7 +6,7 @@ type:
 
 ## Arciere Maledetto
 * **Descrizione:** Soldati dello spirito con archi santificati.
-* **Tier:** 4 (a Distanza)
+* **Rango:** 4 (a Distanza)
 * **Difficoltà:** 19
 * **Soglie di Danno:** 25/45
 * **Punti Ferita:** 3 | **Stress:** 2

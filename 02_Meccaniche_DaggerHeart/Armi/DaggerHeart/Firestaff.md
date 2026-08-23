@@ -8,8 +8,7 @@ original_name: "Firestaff"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

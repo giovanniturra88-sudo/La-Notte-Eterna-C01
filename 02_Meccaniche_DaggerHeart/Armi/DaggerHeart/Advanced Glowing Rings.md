@@ -8,8 +8,7 @@ original_name: "Advanced Glowing Rings"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

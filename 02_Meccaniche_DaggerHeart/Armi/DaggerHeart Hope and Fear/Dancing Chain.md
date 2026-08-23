@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Catena Danzante
 
-**_Estendibile: Puoi aumentare la gittata di questa arma fino a Molto Lontana. Ottieni una penalità di −1 ai tiri di attacco per ogni passo che aumenti_**
+**_Estendibile: Puoi aumentare la gittata di questa arma fino a Remota. Ottieni una penalità di −1 ai tiri di attacco per ogni passo che aumenti_**
 
 ---

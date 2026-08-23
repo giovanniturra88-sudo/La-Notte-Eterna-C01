@@ -6,7 +6,7 @@ type:
 
 ## Cecchino della Lama Seghettata
 * **Descrizione:** Un bandito agile che colpisce dal riparo con un arco corto.
-* **Tier:** 1 (a Distanza)
+* **Rango:** 1 (a Distanza)
 * **Difficoltà:** 13
 * **Soglie di Danno:** 4/7
 * **Punti Ferita:** 3 | **Stress:** 2

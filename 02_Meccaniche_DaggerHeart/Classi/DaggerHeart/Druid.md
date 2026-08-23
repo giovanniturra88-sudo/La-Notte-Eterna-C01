@@ -12,9 +12,9 @@ I druidi proteggono la natura selvaggia e ne traggono un potere magico immenso, 
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +1 Agilità, +0 Forza, +1 Finesse, +2 Istinto, -1 Presenza, +0 Conoscenza
-- **ARMA PRIMARIA SUGGERITA -** Bastone Corto (Istinto Vicino, d8+1 magici, Una Mano)
+- **ARMA PRIMARIA SUGGERITA -** Bastone Corto (Istinto Ravvicinato, d8+1 magici, Una Mano)
 - **ARMA SECONDARIA SUGGERITA -** Scudo Rotondo (Forza Mischia, d4 fisici, Una Mano - Protettivo: +1 al punteggio di Armatura)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Un sacchetto di pietre e ossa o uno strano pendaglio trovato nel fango
 ---
 

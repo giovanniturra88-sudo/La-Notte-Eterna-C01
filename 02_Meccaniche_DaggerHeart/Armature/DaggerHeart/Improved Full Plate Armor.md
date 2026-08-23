@@ -10,7 +10,7 @@ alias: ["Armatura Completa Migliorata"]
 **_Livello 2_** _Armatura_
 
 - **Soglie di Danno:** 13 / 28
-- **Punteggio Armatura:** 5
+- **Punteggio di Armatura:** 5
 
 ### TRATTO DELL'ARMATURA
 

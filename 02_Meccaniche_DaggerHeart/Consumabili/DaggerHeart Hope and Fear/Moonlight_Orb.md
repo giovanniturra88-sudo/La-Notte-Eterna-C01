@@ -9,4 +9,4 @@ roll: 31
 
 # Sfera di Luna
 
-Puoi frantumare questa sfera per far sì che l'area entro gittata Molto Lontana appaia come una notte illuminata dalla luna per le prossime 24 ore.
+Puoi frantumare questa sfera per far sì che l'area entro gittata Remota appaia come una notte illuminata dalla luna per le prossime 24 ore.

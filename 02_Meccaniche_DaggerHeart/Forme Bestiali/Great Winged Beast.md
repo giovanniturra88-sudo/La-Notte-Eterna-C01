@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 3
+tier: 3
 ---
 
 # Grande Bestia Alata
 
-**_Tier 3_** _(Aquila Gigante, Falco, ecc.)_
+**_Rango 3_** _(Aquila Gigante, Falco, ecc.)_
 
 - **Bonus di Tratto:** Finezza +2
 - **Bonus di Evasione:** Evasione +3

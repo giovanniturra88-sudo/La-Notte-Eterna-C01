@@ -2,8 +2,7 @@
 alias: ["Aggrappatore Leggendario"]
 categoria: equipaggiamento
 danno: d6+6
-gittata: vicino
-ingombro: "una mano"
+gittata: ravvicinatoingombro: "una mano"
 original_name: "Legendary Grappler"
 ruolo: secondaria
 tier: 4

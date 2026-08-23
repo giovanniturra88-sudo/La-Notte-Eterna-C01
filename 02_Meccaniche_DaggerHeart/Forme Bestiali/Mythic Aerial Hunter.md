@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 4
+tier: 4
 ---
 
 # Cacciatore Alato Mitico
 
-**_Tier 4_** _(Drago, Pterodattilo, Roc, Viverna, ecc.)_
+**_Rango 4_** _(Drago, Pterodattilo, Roc, Viverna, ecc.)_
 
 - **Bonus di Tratto:** Finezza +3
 - **Bonus di Evasione:** Evasione +4
@@ -17,4 +17,4 @@ tier: Tier 4
 
 **_Trasporto:_** Puoi trasportare fino a tre alleati disposti con te quando ti muovi.
 
-**_Rapace Letale:_** Puoi volare a volontà e spostarti fino a portata Lontana come parte della tua azione. Quando ti sposti in linea retta fino in portata di mischia di un bersaglio partendo da almeno portata Vicina ed effettui un attacco contro quel bersaglio nella stessa azione, puoi ritirare tutti i dadi di danno che hanno ottenuto un risultato inferiore alla tua Competenza.
+**_Rapace Letale:_** Puoi volare a volontà e spostarti fino a portata Lontana come parte della tua azione. Quando ti sposti in linea retta fino in portata di mischia di un bersaglio partendo da almeno portata Ravvicinata ed effettui un attacco contro quel bersaglio nella stessa azione, puoi ritirare tutti i dadi di danno che hanno ottenuto un risultato inferiore alla tua Competenza.

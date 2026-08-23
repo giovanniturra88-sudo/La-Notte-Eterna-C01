@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 2
+tier: 2
 ---
 
 # Bestia Potente
 
-**_Tier 2_** _(Orso, Toro, Alce, ecc.)_
+**_Rango 2_** _(Orso, Toro, Alce, ecc.)_
 
 - **Bonus di Tratto:** Forza +3
 - **Bonus di Evasione:** Evasione +1

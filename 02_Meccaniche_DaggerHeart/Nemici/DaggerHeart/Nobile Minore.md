@@ -6,13 +6,13 @@ type:
 
 ## Nobile Minore
 * **Descrizione:** Un aristocratico riccamente vestito e ornato pieno di superbia.
-* **Tier:** 1 (Sociale)
+* **Rango:** 1 (Sociale)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 6/10
 * **Punti Ferita:** 3 | **Stress:** 5
 * **Esperienza:** Aristocratico +3
 * **Attacchi:**
- * **Rapiera:** -3 | Da Vicino | 1d6+1 fisico
+ * **Rapiera:** -3 | Ravvicinata | 1d6+1 fisico
 * **Tratti e Capacità:**
  * **La Mia Terra, Le Mie Regole - Passiva:** Tutte le azioni sociali effettuate contro il Nobile sulla sua terra hanno svantaggio.
  * **Guardie, Catturati! - Azione:** Una volta per scena, **Segnare uno Stress** per evocare **1d4** Guardie, che appaiono in portata Lontana per far rispettare la volontà del Nobile.
@@ -31,7 +31,7 @@ esperienza: "Aristocratico +3"
 soglia_danni: "6/10"
 attacchi:
   - name: "Rapiera"
-    desc: "**-3** | Da Vicino | **1d6+1** fisico"
+    desc: "**-3** | Ravvicinata | **1d6+1** fisico"
 tratti:
   - name: "La Mia Terra, Le Mie Regole"
     desc: "*- Passiva:* Tutte le azioni sociali effettuate contro il Nobile sulla sua terra hanno svantaggio."

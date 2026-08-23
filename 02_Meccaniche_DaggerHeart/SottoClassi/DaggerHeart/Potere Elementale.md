@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait: Istinto
 ---
 
-# Origine Elementale (Elemental Origin)
+# Potere Elementale (Elemental Origin)
 
 *Sottoclasse della classe:* [[Sorcerer]]
 *Caratteristica di Spellcast:* **Istinto (Instinct)**

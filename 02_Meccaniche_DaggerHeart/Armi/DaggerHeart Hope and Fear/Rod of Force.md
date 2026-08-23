@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Asta della Forza
 
-**_Forzuto: Con un attacco riuscito, puoi spendere una Speranza per spingere il bersaglio indietro fino a gittata Molto Vicina_**
+**_Forzuto: Con un attacco riuscito, puoi spendere una Speranza per spingere il bersaglio indietro fino a gittata Prossima_**
 
 ---

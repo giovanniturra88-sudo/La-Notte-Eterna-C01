@@ -6,7 +6,7 @@ type:
 
 ## Guardia Arciere
 * **Descrizione:** Una guardia alta che porta un arco lungo e una faretra con frecce dei colori della colonia.
-* **Tier:** 1 (a Distanza)
+* **Rango:** 1 (a Distanza)
 * **Difficoltà:** 10
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 3 | **Stress:** 2

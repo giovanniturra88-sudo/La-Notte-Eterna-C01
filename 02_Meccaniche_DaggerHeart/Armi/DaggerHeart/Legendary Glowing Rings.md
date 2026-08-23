@@ -8,8 +8,7 @@ original_name: "Legendary Glowing Rings"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

@@ -8,8 +8,7 @@ original_name: "Advanced Greatstaff"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: knowledge
-type: 
+tratto: conoscenzatype: 
   - "[[Arma]]"
 ---
 

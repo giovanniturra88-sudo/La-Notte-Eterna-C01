@@ -8,8 +8,7 @@ original_name: "Finehair Bow"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

@@ -6,13 +6,13 @@ type:
 
 ## Cavaliere della Corona
 * **Descrizione:** Un soldato decorato con armatura pesante e un potente destriero.
-* **Tier:** 2 (Capo)
+* **Rango:** 2 (Capo)
 * **Difficoltà:** 15
 * **Soglie di Danno:** 13/26
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Conoscenza Antica +3, Alta Società +2, Tattiche +2
 * **Attacchi:**
- * **Spada Lunga:** +4 | Da Vicino | 2d10+4 fisico
+ * **Spada Lunga:** +4 | Ravvicinata | 2d10+4 fisico
 * **Tratti e Capacità:**
  * **Chevalier - Passiva:** Mentre il Cavaliere è in sella, ottiene un bonus di +2 alla propria Difficoltà. Quando subisce danni Gravi, viene gettato dalla sua montura e perde questo vantaggio fino a quando non viene nuovamente messo a fuoco.
  * **Pesantemente Armato - Passiva:** Quando il Cavaliere subisce danni fisici, ridurli di 3.
@@ -32,7 +32,7 @@ esperienza: "Conoscenza Antica +3, Alta Società +2, Tattiche +2"
 soglia_danni: "13/26"
 attacchi:
   - name: "Spada Lunga"
-    desc: "**+4** | Da Vicino | **2d10+4** fisico"
+    desc: "**+4** | Ravvicinata | **2d10+4** fisico"
 tratti:
   - name: "Chevalier"
     desc: "*- Passiva:* Mentre il Cavaliere è in sella, ottiene un bonus di +2 alla propria Difficoltà. Quando subisce danni Gravi, viene gettato dalla sua montura e perde questo vantaggio fino a quando non viene nuovamente messo a fuoco."

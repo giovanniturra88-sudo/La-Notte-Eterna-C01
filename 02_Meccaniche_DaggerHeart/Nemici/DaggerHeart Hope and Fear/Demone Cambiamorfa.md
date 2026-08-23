@@ -8,13 +8,13 @@ aliases:
 
 ## Demone Cambiamorfa
 * **Descrizione:** Un'entità malvagia che impersona una figura degna di fiducia.
-* **Tier:** 3 (Sociale)
+* **Rango:** 3 (Sociale)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 20/32
 * **Punti Ferita:** 4 | **Stress:** 8
 * **Esperienza:** Manipolazione +3, Mimica +2
 * **Attacchi:**
- * **Lama Nascosta:** +3 | Da Vicino | 3d8+3 fisico
+ * **Lama Nascosta:** +3 | Ravvicinata | 3d8+3 fisico
 * **Tratti e Capacità:**
  * **Natura Demonica - Passiva:** Il Demone ha resistenza ai danni magici e non può essere ingannato da illusioni magiche.
  * **Impersonare - Azione:** Spendere una Paura per far trasformare magicamente il Demone in un umanoide con cui ha precedentemente interagito. Un PG che bersaglia il Demone mentre è nella forma di una persona a cui il PG tiene deve superare un Tiro di Reazione di Istitinto o l'attacco fallisce e il PG deve segnare uno Stress.
@@ -35,7 +35,7 @@ esperienza: "Manipolazione +3, Mimica +2"
 soglia_danni: "20/32"
 attacchi:
   - name: "Lama Nascosta"
-    desc: "**+3** | Da Vicino | **3d8+3** fisico"
+    desc: "**+3** | Ravvicinata | **3d8+3** fisico"
 tratti:
   - name: "Natura Demonica"
     desc: "*- Passiva:* Il Demone ha resistenza ai danni magici e non può essere ingannato da illusioni magiche."

@@ -6,12 +6,12 @@ type:
 
 ## Guerriero Scheletrico
 * **Descrizione:** Uno scheletro coperto di terra armato di una spada arrugginita.
-* **Tier:** 1 (Standard)
+* **Rango:** 1 (Standard)
 * **Difficoltà:** 10
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
- * **Spada:** +0 | Da Vicino | 1d6+2 fisico
+ * **Spada:** +0 | Ravvicinata | 1d6+2 fisico
 * **Tratti e Capacità:**
  * **Solo Ossa - Passiva:** Il Guerriero è resistente ai danni fisici.
  * **Non Resta Morto - Reazione:** Quando il Guerriero viene sconfitto, puoi metterlo a fuoco e lanciare un **d6**. Su un risultato di 6, se ci sono altri avversari sul campo di battaglia, il Guerriero si riforma senza PF segnati.
@@ -28,7 +28,7 @@ stress: "2"
 soglia_danni: "4/8"
 attacchi:
   - name: "Spada"
-    desc: "**+0** | Da Vicino | **1d6+2** fisico"
+    desc: "**+0** | Ravvicinata | **1d6+2** fisico"
 tratti:
   - name: "Solo Ossa"
     desc: "*- Passiva:* Il Guerriero è resistente ai danni fisici."

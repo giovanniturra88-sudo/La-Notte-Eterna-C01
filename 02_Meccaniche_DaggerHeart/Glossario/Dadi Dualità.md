@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-# Dadi della Dualità
+# Dadi Dualità
 
 Il tiro base di Daggerheart: 2d20 + dadi di vantaggio. Ogni dado che supera la Difficoltà è un successo; col risultato si genera Speranza o Paura.
 

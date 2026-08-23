@@ -12,4 +12,4 @@ Effettua un **Tiro di Lancio di Magia** contro un bersaglio entro portata ravvic
 - Stringi il bersaglio e costringilo a segnare 2 Punti di Stress.
 - Tutti i nemici tra te e il bersaglio devono ottenere un Successo in un Tiro di Reazione (13) oppure essere colpiti da liane, prendendo **3d6+2** danni fisici.
 
-In caso di successo, le liane si allungano dalle tue mani, causando l'effetto scelto e _Ristretto_ temporaneamente il bersaglio.
+In caso di successo, le liane si allungano dalle tue mani, causando l'effetto scelto e _Trattenuto_ temporaneamente il bersaglio.

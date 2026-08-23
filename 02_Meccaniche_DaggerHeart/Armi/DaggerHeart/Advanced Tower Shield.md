@@ -8,12 +8,11 @@ original_name: "Advanced Tower Shield"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Barriera:_** +4 al Punteggio Armatura; -1 alla Penalità all'Evasione
+**_Barriera:_** +4 al Punteggio di Armatura; -1 alla Penalità all'Evasione
 ---

@@ -41,7 +41,7 @@ Quando non ci sono gettoni su questa carta, effettui tiri d'azione con **Svantag
 ### Vampiro Skykin
 *(Variant available - specific features detailed in source)*
 
-### Vampiro Faerie
+### Vampiro Fatato
 *(Variant available - specific features detailed in source)*
 
 ---

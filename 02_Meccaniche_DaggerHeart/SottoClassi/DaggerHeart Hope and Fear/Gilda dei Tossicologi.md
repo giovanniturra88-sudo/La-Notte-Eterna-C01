@@ -16,7 +16,7 @@ I membri della Gilda dei Tossicologi (o degli Avvelenatori) preferiscono indebol
 
 - **CARATTERISTICA DA INCANTESIMO -** Conoscenza (Intelligenza)
 
-## Caratteristiche di Fondazione (Tier 1)
+## Caratteristiche di Fondazione (Rango 1)
 
 ### Miscele Tossiche (Toxic Concoctions)
 Marca uno Stress per posizionare **1d4+1 segnalini** su questa carta. Quando metti a segno un attacco con arma con successo, puoi spendere un segnalino per affliggere il bersaglio con un veleno a tua scelta tra quelli che conosci:
@@ -26,7 +26,7 @@ Marca uno Stress per posizionare **1d4+1 segnalini** su questa carta. Quando met
 
 Elimina tutti i segnalini rimasti su questa carta quando effettui un riposo lungo.
 
-## Caratteristiche di Specializzazione (Tier 2)
+## Caratteristiche di Specializzazione (Rango 2)
 
 ### Compendio dei Veleni (Poison Compendium)
 Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteristica _Miscele Tossiche_:
@@ -36,7 +36,7 @@ Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteri
 ### Zanna Gemella (Twin Fang)
 Quando applichi un veleno a un bersaglio attualmente _Marchiato per la Morte_, puoi spendere un segnalino addizionale per infliggergli contemporaneamente **l'effetto di un secondo veleno** che conosci.
 
-## Caratteristiche di Maestria (Tier 3)
+## Caratteristiche di Maestria (Rango 3)
 
 ### Maestro dei Veleni (Venomancer)
 Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteristica _Miscele Tossiche_:

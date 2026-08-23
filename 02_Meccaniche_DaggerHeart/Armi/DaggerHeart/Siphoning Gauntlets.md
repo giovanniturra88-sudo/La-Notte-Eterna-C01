@@ -8,8 +8,7 @@ original_name: "Siphoning Gauntlets"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

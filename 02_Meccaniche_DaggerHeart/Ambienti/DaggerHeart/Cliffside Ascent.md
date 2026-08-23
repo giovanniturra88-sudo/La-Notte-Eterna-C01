@@ -5,7 +5,7 @@ type:
 
 # Ascesa della Scogliera
 
-**_Attraversamento di Tier 1.**_ _Una parete rocciosa scoscesa, alta abbastanza da rendere pericolosa la traversata._
+**_Attraversamento di Rango 1.**_ _Una parete rocciosa scoscesa, alta abbastanza da rendere pericolosa la traversata._
 
 - **Impulsi:** Scagliare gli impreparati verso una fine rocciosa, attirare la gente con la promessa di ciò che si cela in cima
 - **Difficoltà:** 12

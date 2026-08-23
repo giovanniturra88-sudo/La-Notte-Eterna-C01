@@ -8,8 +8,7 @@ original_name: "Improved Cutlass"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama del Demone
 
-**_Disturbante: Quando sconfiggi una creatura con questa arma, tutti gli avversari entro gittata Vicina devono segnare uno Stress_**
+**_Disturbante: Quando sconfiggi una creatura con questa arma, tutti gli avversari entro gittata Ravvicinata devono segnare uno Stress_**
 
 ---

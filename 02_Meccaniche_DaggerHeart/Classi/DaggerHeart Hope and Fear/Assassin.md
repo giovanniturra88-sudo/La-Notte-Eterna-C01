@@ -14,7 +14,7 @@ Gli assassini sono professionisti della morte. Usano la furtività assoluta, i v
 - **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +1 Istinto, +0 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Pugnale (Finesse Mischia, d8+1 fisici, Una Mano)
 - **ARMA SECONDARIA SUGGERITA -** Balestra a Mano (Finesse Lontano, d6+1 fisici, Una Mano)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Una lista di nomi con diversi bersagli sbarrati o una lama arrugginita con un'insegna di gilda
 ---
 
@@ -27,7 +27,7 @@ Gli assassini sono professionisti della morte. Usano la furtività assoluta, i v
 Scegli tra la sottoclasse [[Gilda dei Sicari]] o [[Gilda dei Tossicologi]].
 
 # Caratteristiche di Classe
-**_Contrassegnato per la Morte (Marked for Death):_** Su un attacco con arma riuscito, marca uno Stress per rendere il bersaglio Contrassegnato per la Morte. Quando infliggi danno a quel bersaglio, aggiungi un numero di d4 pari al tuo Tier al tiro di danno. Massimo un bersaglio contrassegnato alla volta.
+**_Contrassegnato per la Morte (Marked for Death):_** Su un attacco con arma riuscito, marca uno Stress per rendere il bersaglio Contrassegnato per la Morte. Quando infliggi danno a quel bersaglio, aggiungi un numero di d4 pari al tuo rango al tiro di danno. Massimo un bersaglio contrassegnato alla volta.
 **_Entrare e Uscire (Get In & Get Out):_** Spendi 1 Speranza per chiedere al GM una via veloce o invisibile per entrare o uscire da un luogo visibile. Il prossimo tiro basato su questa informazione ha vantaggio.
 
 # Domande di Sfondo

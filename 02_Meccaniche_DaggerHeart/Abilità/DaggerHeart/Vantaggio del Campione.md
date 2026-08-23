@@ -9,6 +9,6 @@ Titolo Inglese:
 
 Quando colpisci con successo in modo critico, puoi **spendere fino a 3 Speranza** e scegliere una delle seguenti opzioni per ogni Speranza spesa:
 - Rimuovi un Punto Ferita.
-- Rimuovi una Slot Armatura.
+- Rimuovi una Caselle Armatura.
 - Il target deve segnare un Punto Ferita aggiuntivo.
 Non puoi scegliere la stessa opzione più di una volta.

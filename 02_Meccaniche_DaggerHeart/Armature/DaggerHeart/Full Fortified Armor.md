@@ -10,7 +10,7 @@ alias: ["Armatura Completa Rinforzata"]
 **_Livello 4_** _Armatura_
 
 - **Soglie di Danno Base:** 15 / 40
-- **Punteggio Armatura Base:** 4
+- **Punteggio di Armatura Base:** 4
 
 ### TRATTO
 

@@ -10,7 +10,7 @@ Successo critico: entrambi i dadi della Dualità superano la Difficoltà → eff
 
 ## Voci correlate
 - [[Successo]]
-- [[Dadi della Dualità]]
+- [[Dadi Dualità]]
 
 ## Citata da
 ```dataview

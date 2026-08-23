@@ -7,10 +7,10 @@ alias: ["Armatura Completa Leggendaria"]
 
 # Armatura Completa Leggendaria
 
-**_Tier 4_** _Armatura_
+**_Rango 4_** _Armatura_
 
 - **Soglie di Danno Base:** 17 / 44
-- **Punteggio Armatura Base:** 7
+- **Punteggio di Armatura Base:** 7
 
 ### TRATTO DELL'ARMATURA
 

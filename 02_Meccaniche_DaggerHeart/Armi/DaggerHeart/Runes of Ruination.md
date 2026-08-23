@@ -8,8 +8,7 @@ original_name: "Runes of Ruination"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: knowledge
-type: 
+tratto: conoscenzatype: 
   - "[[Arma]]"
 ---
 

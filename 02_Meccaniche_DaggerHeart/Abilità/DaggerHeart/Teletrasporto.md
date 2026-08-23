@@ -7,7 +7,7 @@ Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 
-Una volta per breve riposo, puoi teletrasportarti istantaneamente insieme a qualsiasi numero di target volenterosi entro portata Vicina in un luogo che hai già visitato. Scegli una delle seguenti opzioni, quindi effettua un **Tiro di Lancio Incantesimo (16)**:
+Una volta per breve riposo, puoi teletrasportarti istantaneamente insieme a qualsiasi numero di target volenterosi entro portata Ravvicinata in un luogo che hai già visitato. Scegli una delle seguenti opzioni, quindi effettua un **Tiro di Lancio Incantesimo (16)**:
 - Se conosci bene il luogo, ottieni un bonus di +3.
 - Se hai frequentemente visitato il luogo, ottieni un bonus di +1.
 - Se hai visitato raramente il luogo, non ottieni alcun modificatore.

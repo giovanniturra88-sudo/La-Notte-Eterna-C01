@@ -8,8 +8,7 @@ original_name: "Improved Hallowed Axe"
 ruolo: ""
 tier: 2
 tipo_danno: magica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

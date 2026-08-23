@@ -11,7 +11,7 @@ alias:
 **_Livello 3_** _Armatura_
 
 - **Soglie di Danno Base:** 9 / 23
-- **Punteggio Armatura Base:** 5
+- **Punteggio di Armatura Base:** 5
 
 ### TRATTO DELL'ARMATURA
 

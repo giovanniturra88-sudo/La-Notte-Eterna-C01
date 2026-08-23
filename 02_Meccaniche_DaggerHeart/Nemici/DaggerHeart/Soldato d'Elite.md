@@ -6,15 +6,15 @@ type:
 
 ## Soldato d'Elite
 * **Descrizione:** Un squadrone corazzato o un comune abitante esperto che cerca di avanzare.
-* **Tier:** 2 (Standard)
+* **Rango:** 2 (Standard)
 * **Difficoltà:** 15
 * **Soglie di Danno:** 9/18
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Attacchi:**
- * **Lancia:** +1 | Molto Vicina | 2d8+4 fisico
+ * **Lancia:** +1 | Prossima | 2d8+4 fisico
 * **Tratti e Capacità:**
- * **Rafforzare - Azione:** **Segnare uno Stress** per muoversi in portata Da Vicino di un alleato ed effettuare un attacco standard contro un bersaglio in portata Molto Vicina. In caso di successo, infliggi **2d10+2** danni fisici e l'alleato può eliminare uno Stress.
- * **Fedeltà del Vassallo - Reazione:** Quando il Soldato si trova in portata Molto Vicina di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi **Segnare uno Stress** per muoversi in portata Da Vicino e subire il danno al posto loro.
+ * **Rafforzare - Azione:** **Segnare uno Stress** per muoversi in portata Ravvicinata di un alleato ed effettuare un attacco standard contro un bersaglio in portata Prossima. In caso di successo, infliggi **2d10+2** danni fisici e l'alleato può eliminare uno Stress.
+ * **Fedeltà del Vassallo - Reazione:** Quando il Soldato si trova in portata Prossima di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi **Segnare uno Stress** per muoversi in portata Ravvicinata e subire il danno al posto loro.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -28,10 +28,10 @@ stress: "3"
 soglia_danni: "9/18"
 attacchi:
   - name: "Lancia"
-    desc: "**+1** | Molto Vicina | **2d8+4** fisico"
+    desc: "**+1** | Prossima | **2d8+4** fisico"
 capacita_speciali:
   - name: "Rafforzare"
-    desc: "*- Azione:* Segnare uno Stress per muoversi in portata Da Vicino di un alleato ed effettuare un attacco standard contro un bersaglio in portata Molto Vicina. In caso di successo, infliggi 2d10+2 danni fisici e l'alleato può eliminare uno Stress."
+    desc: "*- Azione:* Segnare uno Stress per muoversi in portata Ravvicinata di un alleato ed effettuare un attacco standard contro un bersaglio in portata Prossima. In caso di successo, infliggi 2d10+2 danni fisici e l'alleato può eliminare uno Stress."
   - name: "Fedeltà del Vassallo"
-    desc: "*- Reazione:* Quando il Soldato si trova in portata Molto Vicina di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi Segnare uno Stress per muoversi in portata Da Vicino e subire il danno al posto loro."
+    desc: "*- Reazione:* Quando il Soldato si trova in portata Prossima di un cavaliere o di un'altra nobiltà che subirebbe danno, puoi Segnare uno Stress per muoversi in portata Ravvicinata e subire il danno al posto loro."
 ```

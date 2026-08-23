@@ -16,7 +16,7 @@ La Gilda degli Esecutori raccoglie quegli assassini che dedicano se stessi alla 
 
 - **CARATTERISTICA DA INCANTESIMO -** Agilità
 
-## Caratteristiche di Fondazione (Tier 1)
+## Caratteristiche di Fondazione (Rango 1)
 
 ### Primo Colpo (First Strike)
 La prima volta in una scena che metti a segno un attacco con successo, infliggi **danni raddoppiati** (raddoppia il totale del danno prima di confrontarlo con le soglie del bersaglio).
@@ -24,7 +24,7 @@ La prima volta in una scena che metti a segno un attacco con successo, infliggi 
 ### Agguato (Ambush)
 La tua caratteristica di classe _Marchiato per la Morte_ (Marked for Death) utilizza d6 invece di d4 per i dadi di danno extra.
 
-## Caratteristiche di Specializzazione (Tier 2)
+## Caratteristiche di Specializzazione (Rango 2)
 
 ### Colpo Mortale (Death Strike)
 Quando infliggi danni Gravi (Severe) o superiori a una creatura, puoi marcare uno Stress per costringerla a marcare **un Punto Ferita (HP) addizionale**.
@@ -32,7 +32,7 @@ Quando infliggi danni Gravi (Severe) o superiori a una creatura, puoi marcare un
 ### Portamento dello Scorpione (Scorpion's Poise)
 Guadagni un bonus di **+2 alla tua Evasione** contro tutti gli attacchi effettuati da una creatura che hai attualmente _Marchiata per la Morte_.
 
-## Caratteristiche di Maestria (Tier 3)
+## Caratteristiche di Maestria (Rango 3)
 
 ### Colpo Sicuro (True Strike)
 Una volta per riposo lungo, quando fallisci un attacco, puoi spendere una Speranza per trasformarlo invece in un **successo** con Paura.

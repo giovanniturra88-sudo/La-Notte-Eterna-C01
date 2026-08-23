@@ -8,8 +8,7 @@ original_name: "Improved Quarterstaff"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: instinct
-type: 
+tratto: istintotype: 
   - "[[Arma]]"
 ---
 

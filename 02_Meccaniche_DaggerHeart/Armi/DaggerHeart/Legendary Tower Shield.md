@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Barriera:_** +5 al Punteggio Armatura; -1 alla Penale di Evasione.
+**_Barriera:_** +5 al Punteggio di Armatura; -1 alla Penale di Evasione.
 ---

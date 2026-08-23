@@ -5,7 +5,7 @@ type:
 
 # Convergenza, la Città dei Portali
 
-**_Tier 4 Sociale.** _Una metropoli sconfinata al crocevia della creazione, dove si radunano figure influenti provenienti da tutti i reami._
+**_Rango 4 Sociale.** _Una metropoli sconfinata al crocevia della creazione, dove si radunano figure influenti provenienti da tutti i reami._
 
 - **Impulsi:** Metterli di fronte a costumi alieni, abbagliarli con una varietà infinita, tentarli con l'impossibile
 - **Difficoltà:** 20
@@ -23,6 +23,6 @@ type:
 - **Successo con Paura:** Il PG trova l'oggetto perfetto, ma il mercante che lo possiede lo scambierà solo con qualcosa che il gruppo non può dargli... per ora.
 - **Qualsiasi Fallimento:** Il PG deve segnare uno Stress mentre va a caccia di un'oca selvatica per poi tornare a mani vuote. Il PG può segnare uno Stress aggiuntivo per trasformare questo risultato in un successo con Paura. _Chi ha l'oggetto di cui il gruppo ha bisogno? Cosa vogliono in cambio?_
 
-**_Non Fare Onde - Passiva:** Conto alla Rovescia (6). Poiché a Convergenza tutto è possibile, la città mantiene una burocrazia labirintica che emana e fa rispettare ordinanze riguardanti tutti gli scambi e le interazioni tra i reami. Quando il gruppo arriva a Convergenza, attiva il conto alla rovescia. Scorre quando un PG fa qualcosa che sconvolge il delicato equilibrio politico della città. Quando scatta, i PG diventano *Ricercati* finché non riabilitano il proprio nome presso le autorità. Quando un PG *Ricercato* tira con Paura, puoi evocare 1d4 Agenti Temporali che compaiono entro portata Molto Vicina, prendono immediatamente i riflettori e cercano di arrestare il gruppo. _Cosa ha fatto il gruppo (o cosa progetta di fare) che attira l'attenzione e le ire dei funzionari cittadini? Come possono rimediare al problema che hanno causato?_
+**_Non Fare Onde - Passiva:** Conto alla Rovescia (6). Poiché a Convergenza tutto è possibile, la città mantiene una burocrazia labirintica che emana e fa rispettare ordinanze riguardanti tutti gli scambi e le interazioni tra i reami. Quando il gruppo arriva a Convergenza, attiva il conto alla rovescia. Scorre quando un PG fa qualcosa che sconvolge il delicato equilibrio politico della città. Quando scatta, i PG diventano *Ricercati* finché non riabilitano il proprio nome presso le autorità. Quando un PG *Ricercato* tira con Paura, puoi evocare 1d4 Agenti Temporali che compaiono entro portata Prossima, prendono immediatamente i riflettori e cercano di arrestare il gruppo. _Cosa ha fatto il gruppo (o cosa progetta di fare) che attira l'attenzione e le ire dei funzionari cittadini? Come possono rimediare al problema che hanno causato?_
 
 **_Un'Offerta che Non Puoi Rifiutare - Azione:** Convergenza ospita una rete precaria di fazioni rivali. Spendi una Paura per far sì che una di esse presenti al gruppo una soluzione facile a un problema difficile in cambio della loro alleanza. Se il gruppo rifiuta, ogni PG deve segnare uno Stress e non potrà rivolgersi a quella fazione per chiedere aiuto in futuro. _Quale fazione offre il proprio sostegno al gruppo? Contro chi vogliono che il gruppo agisca?_

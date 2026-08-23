@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait: Istinto
 ---
 
-# Origine Primordiale (Primal Origin)
+# Potere Primordiale (Primal Origin)
 
 *Sottoclasse della classe:* [[Sorcerer]]
 *Caratteristica di Spellcast:* **Istinto (Instinct)**
@@ -27,7 +27,7 @@ La tua origine primordiale ti consente di modificare la struttura stessa della m
 
 ## Caratteristica di Specializzazione (Specialization)
 **Aiuto Incantato (Enchanted Aid):**
-Puoi potenziare la magia altrui con la tua essenza. Quando offri l'azione Aiutare un Alleato in un tiro di Incantesimo, puoi tirare un **d8** come dado di vantaggio. Inoltre, una volta per riposo lungo, dopo che un alleato ha effettuato un tiro di Incantesimo con il tuo aiuto, puoi scambiare i risultati dei suoi Dadi della Dualità.
+Puoi potenziare la magia altrui con la tua essenza. Quando offri l'azione Aiutare un Alleato in un Tiro Incantesimo, puoi tirare un **d8** come dado di vantaggio. Inoltre, una volta per riposo lungo, dopo che un alleato ha effettuato un Tiro Incantesimo con il tuo aiuto, puoi scambiare i risultati dei suoi Dadi Dualità.
 
 ## Caratteristica di Maestria (Mastery)
 **Carica Arcana (Arcane Charge):**

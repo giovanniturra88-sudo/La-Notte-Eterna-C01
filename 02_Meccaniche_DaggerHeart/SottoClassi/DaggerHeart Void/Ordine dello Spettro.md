@@ -23,7 +23,7 @@ Questo ordine raccoglie i Blood Hunter che scivolano tra il regno dei vivi e que
 Quando ottieni un successo su un Tiro d'Azione con Timore (Fear), puoi spendere **1 Speranza** per eliminare **1 Stress**.
 
 #### Veilwalker (Passo del Velo)
-Puoi scivolare brevemente nel regno tra i vivi e i morti. **Segna 1 Stress** per muoverti fino a portata **Vicina** attraverso creature e oggetti solidi.
+Puoi scivolare brevemente nel regno tra i vivi e i morti. **Segna 1 Stress** per muoverti fino a portata **Ravvicinata** attraverso creature e oggetti solidi.
 
 ---
 

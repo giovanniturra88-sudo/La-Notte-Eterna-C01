@@ -2,14 +2,12 @@
 alias: ["Pendente di Widogast"]
 categoria: equipaggiamento
 danno: d10+5
-gittata: vicino
-ingombro: "una mano"
+gittata: ravvicinatoingombro: "una mano"
 original_name: "Widogast Pendant"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: knowledge
-type: 
+tratto: conoscenzatype: 
   - "[[Arma]]"
 ---
 

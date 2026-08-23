@@ -10,7 +10,7 @@ alias: ["Armatura in Maglia Avanzata"]
 **_Livello 3_** _Armatura_
 
 - **Soglie di Danno:** 13 / 31
-- **Punteggio Armatura:** 6
+- **Punteggio di Armatura:** 6
 
 ### TRATTO DELL'ARMATURA
 

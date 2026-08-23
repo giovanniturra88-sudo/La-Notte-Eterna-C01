@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait: Presenza
 ---
 
-# Fabbro di Parole (Wordsmith)
+# Oratore (Wordsmith)
 
 *Sottoclasse della classe:* [[Bard]]
 *Caratteristica di Spellcast:* **Presenza (Presence)**
@@ -33,4 +33,4 @@ Le tue parole commoventi sollevano il morale. Una volta per sessione, quando inc
 
 ## Caratteristica di Maestria (Mastery)
 **Poesia Epica (Epic Poetry):**
-Il tuo **Dado di Adunata** aumenta a un **d10**. Inoltre, quando utilizzi l'azione Aiutare un Alleato, puoi narrare il momento come se stessi scrivendo la storia del suo eroismo nelle tue memorie. Quando lo fai, tira un **d10** come dado di vantaggio.
+Il tuo **Dado A Raccolta** aumenta a un **d10**. Inoltre, quando utilizzi l'azione Aiutare un Alleato, puoi narrare il momento come se stessi scrivendo la storia del suo eroismo nelle tue memorie. Quando lo fai, tira un **d10** come dado di vantaggio.

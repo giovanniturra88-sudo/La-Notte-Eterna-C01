@@ -8,8 +8,7 @@ original_name: "Devouring Dagger"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

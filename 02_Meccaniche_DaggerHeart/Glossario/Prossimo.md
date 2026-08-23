@@ -4,12 +4,12 @@ type:
 source: DaggerHeart
 ---
 
-# Molto Vicino
+# Prossimo
 
-Banda di portata Molto Vicina (~1,5-3 m): contatto, mischia e corpo a corpo.
+Banda di portata Prossima (~1,5-3 m; Very Close): la distanza di uno o due passi, appena oltre il contatto diretto.
 
 ## Voci correlate
-- [[Vicino]]
+- [[Ravvicinato]]
 
 ## Citata da
 ```dataview

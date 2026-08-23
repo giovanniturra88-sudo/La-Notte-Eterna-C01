@@ -10,7 +10,7 @@ alias: ["Gambeson Migliorato"]
 **_Livello 2_** _Armatura_
 
 - **Soglie di Danno:** 7 / 16
-- **Punteggio Armatura:** 4
+- **Punteggio di Armatura:** 4
 
 ### TRATTO DELL'ARMATURA
 

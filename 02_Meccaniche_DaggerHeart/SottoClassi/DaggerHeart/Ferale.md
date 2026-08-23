@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait: Agilità
 ---
 
-# Legato alla Bestia (Beastbound)
+# Ferale (Beastbound)
 
 *Sottoclasse della classe:* [[Ranger]]
 *Caratteristica di Spellcast:* **Agilità (Agility)**
@@ -33,4 +33,4 @@ Quando un avversario effettua un attacco contro di te mentre si trova entro la p
 Scegli due opzioni di avanzamento aggiuntive per il tuo compagno animale dalla sua scheda.
 
 **Amico Leale (Loyal Friend):**
-Once per riposo lungo, quando il danno di un attacco sta per marcare l'ultimo Stress del tuo compagno o il tuo ultimo Punto Ferita, e vi trovate entro portata Vicina l'uno dall'altro, uno di voi può scattare al fianco dell'altro e subire quel danno al suo posto.
+Once per riposo lungo, quando il danno di un attacco sta per marcare l'ultimo Stress del tuo compagno o il tuo ultimo Punto Ferita, e vi trovate entro portata Ravvicinata l'uno dall'altro, uno di voi può scattare al fianco dell'altro e subire quel danno al suo posto.

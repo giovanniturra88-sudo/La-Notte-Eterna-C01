@@ -23,7 +23,7 @@ La Necromanzia consente al Summoner di rianimare e controllare spiriti e corpi d
 Puoi evocare i *Cadaveri Rianimati* (Shambling Corpses) utilizzando il tuo **Secondo Cerchio** di evocazione.
 
 #### Hunger of the Grave (Fame della Tomba)
-Effettua un tiro di Incantesimo contro un bersaglio entro portata Lontana (Far). In caso di successo, i tuoi *Cadaveri Rianimati* si muovono per attaccare il bersaglio, infliggendo **5 danni fisici** per ciascun Cadavere Rianimato attivo, prima di ritornare da te. Successivamente, un *Cadavere Rianimato* scompare.
+Effettua un Tiro Incantesimo contro un bersaglio entro portata Lontana (Far). In caso di successo, i tuoi *Cadaveri Rianimati* si muovono per attaccare il bersaglio, infliggendo **5 danni fisici** per ciascun Cadavere Rianimato attivo, prima di ritornare da te. Successivamente, un *Cadavere Rianimato* scompare.
 
 #### Macabre Harvest (Raccolta Macabra)
 Quando un avversario entro portata Lontana segna il suo ultimo Punto Ferita (viene sconfitto), puoi immediatamente evocare un *Cadavere Rianimato* nel tuo Secondo Cerchio senza dover segnare alcuno Stress.
@@ -48,5 +48,5 @@ Puoi evocare un singolo *Cavaliere della Morte* (Death Knight) alla volta utiliz
 #### Deathly Warrior (Guerriero Mortale)
 Quando ottieni un successo su un tiro d'attacco con Speranza, puoi scegliere invece di considerarlo un successo con Timore (Fear) per comandare al tuo *Cavaliere della Morte* di caricare il bersaglio, aggiungendo **2d12** ai danni dell'attacco, per poi tornare da te.
 
-#### Knightly Bulwark (Baluardo del Cavaliere)
+#### Knightly Bulwark (Valoroso del Cavaliere)
 Quando subisci danno Grave (Severe) o superiore, il tuo *Cavaliere della Morte* assorbe **1 Punto Ferita** al tuo posto e poi scompare.

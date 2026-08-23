@@ -16,10 +16,10 @@ Le streghe della Congrega della Luna (Moon Coven) traggono il proprio potere dal
 
 - **CARATTERISTICA DA INCANTESIMO -** Istinto
 
-## Caratteristiche di Fondazione (Tier 1)
+## Caratteristiche di Fondazione (Rango 1)
 
 ### Fascino della Notte (Night's Glamour)
-Effettua un tiro di Incantesimo (13) per ammantarti di una presenza ammaliante. Finché sei sotto questo effetto (Glamoured), hai **vantaggio** su tutti i tiri che sfruttano la tua presenza illusoria. Inoltre, gli avversari entro portata Vicina (Close range) devono marcare **uno Stress** per poterti attaccare. A meno che tu non marchi uno Stress per mantenerlo attivo, l'effetto svanisce se marchi un Punto Ferita o infliggi danni.
+Effettua un Tiro Incantesimo (13) per ammantarti di una presenza ammaliante. Finché sei sotto questo effetto (Glamoured), hai **vantaggio** su tutti i tiri che sfruttano la tua presenza illusoria. Inoltre, gli avversari entro portata Ravvicinata (Close range) devono marcare **uno Stress** per poterti attaccare. A meno che tu non marchi uno Stress per mantenerlo attivo, l'effetto svanisce se marchi un Punto Ferita o infliggi danni.
 
 ### Fasi Lunari (Moon Phase)
 All'inizio di ogni sessione o di un riposo lungo, tira un dado (d6) per determinare la tua Fase Lunare attuale, che ti concede un beneficio unico:
@@ -30,8 +30,8 @@ All'inizio di ogni sessione o di un riposo lungo, tira un dado (d6) per determin
 
 Una volta per rest, puoi spendere una Speranza per **aumentare il valore di questo dado di uno** (un 6 diventa un 1).
 
-## Caratteristiche di Specializzazione (Tier 2)
+## Caratteristiche di Specializzazione (Rango 2)
 Le streghe lunari ottengono una profonda sintonia con le ombre celesti, potendo sbloccare e preparare incantesimi della luna e del crepuscolo e manipolare la mente dei propri avversari attraverso visioni e sogni.
 
-## Caratteristiche di Maestria (Tier 3)
+## Caratteristiche di Maestria (Rango 3)
 La strega lunare raggiunge la totale trascendenza celeste, potendo risuonare simultaneamente con gli effetti di più fasi lunari e manifestare la forma gloriosa ed eterea degli spiriti stellari.

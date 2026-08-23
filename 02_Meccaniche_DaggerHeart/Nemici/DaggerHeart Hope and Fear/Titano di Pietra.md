@@ -8,13 +8,13 @@ aliases:
 
 ## Titano di Pietra
 * **Descrizione:** Un gigante dalla pelle grigia che vive sottoterra e si specializza nella creazione di oggetti potenti incastonati con rune magiche.
-* **Tier:** 2 (Solo)
+* **Rango:** 2 (Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 17/32
 * **Punti Ferita:** 5 | **Stress:** 5
 * **Esperienza:** Artigianato +3, Rune +3
 * **Attacchi:**
- * **Martello di Pietra:** +3 | Molto Vicina | 3d6+8 fisico
+ * **Martello di Pietra:** +3 | Prossima | 3d6+8 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Colpo Abile - Passiva:** Prima che il Titano effettui un attacco, puoi segnare uno Stress e tirare un d6. Su un risultato di 3 o superiore, l'Evasione del bersaglio è dimezzata contro questo attacco.
@@ -34,7 +34,7 @@ esperienza: "Artigianato +3, Rune +3"
 soglia_danni: "17/32"
 attacchi:
   - name: "Martello di Pietra"
-    desc: "**+3** | Molto Vicina | **3d6+8** fisico"
+    desc: "**+3** | Prossima | **3d6+8** fisico"
 tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."

@@ -8,8 +8,7 @@ original_name: "Greatstaff"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: knowledge
-type: 
+tratto: conoscenzatype: 
   - "[[Arma]]"
 ---
 

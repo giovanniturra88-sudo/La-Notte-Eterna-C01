@@ -8,8 +8,7 @@ original_name: "Advanced Quarterstaff"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

@@ -6,12 +6,12 @@ type:
 
 ## Idra
 * **Descrizione:** Una bestia a quattro zampe ricoperta di squame con più teste lunghe, ciascuna piena di terrificanti zanne.
-* **Tier:** 3 (Solo)
+* **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** 19/35
 * **Punti Ferita:** 10 | **Stress:** 5
 * **Attacchi:**
- * **Morso:** +3 | Da Vicino | 2d12+2 fisico
+ * **Morso:** +3 | Ravvicinata | 2d12+2 fisico
 * **Tratti e Capacità:**
  * **Minaccia a Teste Multiple - Passiva:** L'Idra inizia con tre teste e ne può avere fino a cinque. Quando l'Idra subisce danni Gravi o maggiori, perde una testa.
  * **Inesorabile (X) - Passiva:** L'Idra può essere messa a fuoco X volte per turno del GM, dove X è il numero di teste dell'Idra. Spendere Paura normalmente per metterla a fuoco.
@@ -31,7 +31,7 @@ stress: "5"
 soglia_danni: "19/35"
 attacchi:
   - name: "Morso"
-    desc: "**+3** | Da Vicino | **2d12+2** fisico"
+    desc: "**+3** | Ravvicinata | **2d12+2** fisico"
 tratti:
   - name: "Minaccia a Teste Multiple"
     desc: "*- Passiva:* L'Idra inizia con tre teste e ne può avere fino a cinque. Quando l'Idra subisce danni Gravi o maggiori, perde una testa."

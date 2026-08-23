@@ -5,7 +5,7 @@ type:
 
 # Miniera Abbandonata
 
-**_Tier 1 Attraversamento.** _Un tortuoso intrico di gallerie in disuso scavato nella roccia da una compagnia mineraria condannata._
+**_Rango 1 Attraversamento.** _Un tortuoso intrico di gallerie in disuso scavato nella roccia da una compagnia mineraria condannata._
 
 - **Impulsi:** Avvelenare il gruppo con gas letali, tremare e crollare, dividere il gruppo, farli smarrire
 - **Difficoltà:** 11
@@ -23,6 +23,6 @@ type:
 - Resti a brandelli di seta di ragno di tessuto oscuro
 _Aiuto: _Cosa estraevano qui i minatori? Chi nel gruppo sa orientarsi sottoterra? Cosa temono di più i PG che possa accadere loro quaggiù?_
 
-**_Nella Tela del Ragno - Azione:** **Spendi una Paura** per evocare una Regina di Tessuto Oscuro nella sua tana costellata di fili di seta. Cala dal soffitto entro portata Vicina da un PG e prende immediatamente i riflettori. _Come sfrutta la Regina di Tessuto Oscuro la sua tana a proprio vantaggio? Quali resti dei suoi pasti passati può trovare il gruppo qui?_
+**_Nella Tela del Ragno - Azione:** **Spendi una Paura** per evocare una Regina di Tessuto Oscuro nella sua tana costellata di fili di seta. Cala dal soffitto entro portata Ravvicinata da un PG e prende immediatamente i riflettori. _Come sfrutta la Regina di Tessuto Oscuro la sua tana a proprio vantaggio? Quali resti dei suoi pasti passati può trovare il gruppo qui?_
 
-**_Collasso Imminente - Reazione:** Conto alla Rovescia (2). La prima volta che i PG tirano con Paura, descrivi come il terreno vibra sottilmente mentre le rocce si spostano in alto e attiva il conto alla rovescia. Scorre quando un PG tira con Paura. Quando scatta, ogni PG deve superare un Tiro di Reazione di Agilità o subire 1d8+3 danni fisici e diventare temporaneamente *Ristretto* dalle macerie. _Quali altri segni di instabilità offre la miniera al gruppo? A quali nuovi pericoli espone il gruppo la nuova conformazione del sistema di gallerie?_
+**_Collasso Imminente - Reazione:** Conto alla Rovescia (2). La prima volta che i PG tirano con Paura, descrivi come il terreno vibra sottilmente mentre le rocce si spostano in alto e attiva il conto alla rovescia. Scorre quando un PG tira con Paura. Quando scatta, ogni PG deve superare un Tiro di Reazione di Agilità o subire 1d8+3 danni fisici e diventare temporaneamente *Trattenuto* dalle macerie. _Quali altri segni di instabilità offre la miniera al gruppo? A quali nuovi pericoli espone il gruppo la nuova conformazione del sistema di gallerie?_

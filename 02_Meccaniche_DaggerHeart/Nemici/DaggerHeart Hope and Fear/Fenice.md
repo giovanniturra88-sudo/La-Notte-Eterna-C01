@@ -8,16 +8,16 @@ aliases:
 
 ## Fenice
 * **Descrizione:** Un'aquila enorme fatta di fiamma magica, impossibile da uccidere e cacciata per il suo piumaggio curativo.
-* **Tier:** 3 (a Distanza)
+* **Rango:** 3 (a Distanza)
 * **Difficoltà:** 18
 * **Soglie di Danno:** 19/30
 * **Punti Ferita:** 6 | **Stress:** 6
 * **Esperienza:** Luminosa +4, Leggendaria +3
 * **Attacchi:**
- * **Proiettile di Fuoco:** +4 | Molto Lontana | 3d10+3 magico
+ * **Proiettile di Fuoco:** +4 | Remota | 3d10+3 magico
 * **Tratti e Capacità:**
- * **Aurea Purificatrice - Passiva:** Qualsiasi PG che compie un'azione entro portata Da Vicino della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni.
- * **Seme di Fuoco - Reazione:** La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Molto Vicina.
+ * **Aurea Purificatrice - Passiva:** Qualsiasi PG che compie un'azione entro portata Ravvicinata della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni.
+ * **Seme di Fuoco - Reazione:** La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Prossima.
  * **Resurrezione - Evoluzione:** Quando la Fenice viene sconfitta, diventa una nuvola di cenere che si disperde rivelando un Uovo Bruciante. L'Uovo ha immunità a tutti i danni e ha un'aurea di calore che infligge 3d4 danni magici diretti a chiunque lo tocchi. L'Uovo si schiude in una nuova Fenice, con tutti i PF e lo Stress rimossi, in 7 giorni.
 
 ```statblock
@@ -33,12 +33,12 @@ esperienza: "Luminosa +4, Leggendaria +3"
 soglia_danni: "19/30"
 attacchi:
   - name: "Proiettile di Fuoco"
-    desc: "**+4** | Molto Lontana | **3d10+3** magico"
+    desc: "**+4** | Remota | **3d10+3** magico"
 tratti:
   - name: "Aurea Purificatrice"
-    desc: "*- Passiva:* Qualsiasi PG che compie un'azione entro portata Da Vicino della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni."
+    desc: "*- Passiva:* Qualsiasi PG che compie un'azione entro portata Ravvicinata della Fenice può spendere una Speranza per purificarsi nel suo calore curativo, rimuovendo un PF o uno Stress e tutte le condizioni."
   - name: "Seme di Fuoco"
-    desc: "*- Reazione:* La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Molto Vicina."
+    desc: "*- Reazione:* La Fenice sanguina fuoco magico. Quando la Fenice segna un PF, evoca un Elementale del Fuoco Minore entro portata Prossima."
   - name: "Resurrezione"
     desc: "*- Evoluzione:* Quando la Fenice viene sconfitta, diventa una nuvola di cenere che si disperde rivelando un Uovo Bruciante. L'Uovo ha immunità a tutti i danni e ha un'aurea di calore che infligge 3d4 danni magici diretti a chiunque lo tocchi. L'Uovo si schiude in una nuova Fenice, con tutti i PF e lo Stress rimossi, in 7 giorni."
 ```

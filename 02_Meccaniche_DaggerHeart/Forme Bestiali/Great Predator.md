@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 3
+tier: 3
 ---
 
 # Grande Predatore
 
-**_Tier 3_** _(Lupo Feroce, Velociraptor, Tigre dai Denti a Sciabola, ecc.)_
+**_Rango 3_** _(Lupo Feroce, Velociraptor, Tigre dai Denti a Sciabola, ecc.)_
 
 - **Bonus di Tratto:** Forza +2
 - **Bonus di Evasione:** Evasione +2

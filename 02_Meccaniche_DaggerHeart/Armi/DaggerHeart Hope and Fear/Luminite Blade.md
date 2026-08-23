@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama di Luminite
 
-**_Illuminante: Questa arma emette luce brillante entro gittata di Mischia e luce fioca per gittata Molto Vicina_**
+**_Illuminante: Questa arma emette luce brillante entro gittata di Mischia e luce fioca per gittata Prossima_**
 
 ---

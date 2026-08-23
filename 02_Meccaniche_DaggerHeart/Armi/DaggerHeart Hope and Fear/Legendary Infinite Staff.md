@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Bastone Infinito Leggendario
 
-**_Estendibile: Puoi aumentare la gittata di questa arma fino a Molto Lontana. Ottieni una penalità di −1 ai tiri di attacco per ogni passo_**
+**_Estendibile: Puoi aumentare la gittata di questa arma fino a Remota. Ottieni una penalità di −1 ai tiri di attacco per ogni passo_**
 
 ---

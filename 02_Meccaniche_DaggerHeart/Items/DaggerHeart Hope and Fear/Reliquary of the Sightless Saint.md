@@ -2,8 +2,7 @@
 type:
   - "[[Item]]"
 alias: ["Reliquary_of_the_Sightless_Saint"]
-rarity: "Discreto"
-original_rarity: "Uncommon"
+rarity: "Non Comune"original_rarity: "Uncommon"
 roll: 30
 ---
 

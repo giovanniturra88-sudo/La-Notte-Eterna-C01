@@ -2,14 +2,12 @@
 alias: ["Gancio"]
 categoria: equipaggiamento
 danno: d6
-gittata: vicino
-ingombro: "una mano"
+gittata: ravvicinatoingombro: "una mano"
 original_name: "Grappler"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

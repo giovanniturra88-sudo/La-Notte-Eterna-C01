@@ -2,14 +2,12 @@
 alias: ["Grappler Migliorato"]
 categoria: equipaggiamento
 danno: d6+2
-gittata: vicino
-ingombro: "una mano"
+gittata: ravvicinatoingombro: "una mano"
 original_name: "Improved Grappler"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

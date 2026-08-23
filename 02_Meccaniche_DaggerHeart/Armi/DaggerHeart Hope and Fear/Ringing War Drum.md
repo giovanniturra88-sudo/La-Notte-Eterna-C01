@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Tamburo di Guerra Risonante
 
-**_Ispirante: Gli alleati entro gittata Vicina ottengono +1 ai tiri di danno mentre tieni questa arma_**
+**_Ispirante: Gli alleati entro gittata Ravvicinata ottengono +1 ai tiri di danno mentre tieni questa arma_**
 
 ---

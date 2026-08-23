@@ -7,10 +7,10 @@ alias: ["Armatura Fluttuante di Runetan"]
 
 # Armatura Fluttuante di Runetan
 
-**_Tier 2_** _Armatura_
+**_Rango 2_** _Armatura_
 
 - **Soglie di Danno Base:** 9 / 20
-- **Punteggio Armatura Base:** 4
+- **Punteggio di Armatura Base:** 4
 
 ### TRATTO DELL'ARMATURA
 

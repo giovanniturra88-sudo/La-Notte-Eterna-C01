@@ -8,8 +8,7 @@ original_name: "Bladed Whip"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

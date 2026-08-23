@@ -5,7 +5,7 @@ type:
 
 # Imboscata
 
-**_Evento di Tier 1.**_ _Un'imboscata è pronta a cogliere di sorpresa un gruppo ignaro._
+**_Evento di Rango 1.**_ _Un'imboscata è pronta a cogliere di sorpresa un gruppo ignaro._
 
 - **Impulsi:** Sopraffare, disperdere, circondare
 - **Difficoltà:** Speciale (vedi "Forza Relativa")

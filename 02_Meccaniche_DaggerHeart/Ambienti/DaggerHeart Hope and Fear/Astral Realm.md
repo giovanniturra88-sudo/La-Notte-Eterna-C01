@@ -5,7 +5,7 @@ type:
 
 # Regno Astrale
 
-**_Tier 3 Attraversamento.** _Un reame psichico di energia ed emozione, dove i forti di spirito possono rimodellare le regole della realtà._
+**_Rango 3 Attraversamento.** _Un reame psichico di energia ed emozione, dove i forti di spirito possono rimodellare le regole della realtà._
 
 - **Impulsi:** Attaccare le loro psiche, evocare le loro paure inconsce, distorcere le loro percezioni
 - **Difficoltà:** 16

@@ -8,8 +8,7 @@ original_name: "Arcane Gauntlets"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

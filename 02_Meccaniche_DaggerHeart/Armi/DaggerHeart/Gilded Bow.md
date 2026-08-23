@@ -8,8 +8,7 @@ original_name: "Gilded Bow"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

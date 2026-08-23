@@ -6,13 +6,13 @@ type:
 
 ## Maestro Assassino
 * **Descrizione:** Un killer esperto con una voce minacciosa e una lama mortale.
-* **Tier:** 2 (Capo)
+* **Rango:** 2 (Capo)
 * **Difficoltà:** 15
 * **Soglie di Danno:** 12/25
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Comando +3, Infiltrazione +3
 * **Attacchi:**
- * **Pugnale Serrato:** +5 | Vicina | 2d10+2 fisico
+ * **Pugnale Serrato:** +5 | Ravvicinata | 2d10+2 fisico
 * **Tratti e Capacità:**
  * **Non Se Ne Renderà Conto - Passiva:** L'Assassino infligge danni diretti mentre è _Nascosto_.
  * **Colpire come Uno - Azione:** **Segnare uno Stress** per mettere a fuoco un numero di altri Assassini pari allo Stress non segnato dell'Assassino.
@@ -32,7 +32,7 @@ esperienza: "Comando +3, Infiltrazione +3"
 soglia_danni: "12/25"
 attacchi:
   - name: "Pugnale Serrato"
-    desc: "**+5** | Vicina | **2d10+2** fisico"
+    desc: "**+5** | Ravvicinata | **2d10+2** fisico"
 tratti:
   - name: "Non Se Ne Renderà Conto"
     desc: "*- Passiva:* L'Assassino infligge danni diretti mentre è Nascosto."

@@ -12,4 +12,4 @@ Fai un **Tiro Magia** contro fino a tre avversari entro portata di mischia. I be
 ## Mano Magica
 Evochi una mano magica della stessa grandezza e forza della tua, entro portata Lontana.
 ## Nebbia Misteriosa
-Fai un **Tiro Magia (13)** per lanciare una foschia temporanea densa che si raccolga in una zona ferma entro portata Molto Vicina. La foschia oscura pesantemente questa area e tutto ciò che contiene.
+Fai un **Tiro Magia (13)** per lanciare una foschia temporanea densa che si raccolga in una zona ferma entro portata Prossima. La foschia oscura pesantemente questa area e tutto ciò che contiene.

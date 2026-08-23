@@ -5,7 +5,7 @@ type:
 
 # Città di Avamposto
 
-**_Sociale di Tier 1.**_ _Una piccola città ai margini di una nazione o di una regione, vicina a segrete, tombe o altre destinazioni da avventurieri._
+**_Sociale di Rango 1.**_ _Una piccola città ai margini di una nazione o di una regione, vicina a segrete, tombe o altre destinazioni da avventurieri._
 
 - **Impulsi:** Spingere i disperati verso una fine certa, trarre profitto dalla speranza logora
 - **Difficoltà:** 12
@@ -26,4 +26,4 @@ type:
 
 **_Sarebbe un Peccato se Succedesse Qualcosa al Tuo Negozio - Azione:_** I PG assistono mentre gli scagnozzi di un boss del crimine locale estorcono denaro a un negozio di generi vari. _Che guai provoca l'intervento dei PG?_
 
-**_Posto Sbagliato, Momento Sbagliato - Reazione:_** Di notte, o quando il gruppo è solo in un vicolo appartato, puoi **spendere una Paura** per introdurre un gruppo di ladri che tenta di derubarli. I ladri appaiono a portata Vicina da un PG scelto e includono uno SpezzaGinocchia della Lama Seghettata, tanti Seguaci della Lama Seghettata quanti sono i PG e un Tenente della Lama Seghettata. Per un gruppo più numeroso, aggiungi un Mago o un Cecchino della Lama Seghettata. _Quali dettagli mostrano al gruppo che queste persone sono ex avventurieri disperati?_
+**_Posto Sbagliato, Momento Sbagliato - Reazione:_** Di notte, o quando il gruppo è solo in un vicolo appartato, puoi **spendere una Paura** per introdurre un gruppo di ladri che tenta di derubarli. I ladri appaiono a portata Ravvicinata da un PG scelto e includono uno SpezzaGinocchia della Lama Seghettata, tanti Seguaci della Lama Seghettata quanti sono i PG e un Tenente della Lama Seghettata. Per un gruppo più numeroso, aggiungi un Mago o un Cecchino della Lama Seghettata. _Quali dettagli mostrano al gruppo che queste persone sono ex avventurieri disperati?_

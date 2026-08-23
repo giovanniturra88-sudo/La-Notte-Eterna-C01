@@ -13,7 +13,7 @@ I guardiani sono formidabili difensori, pronti a lanciarsi nel pericolo per asso
 - **PUNTI FERITA INIZIALI -** 7
 - **TRATTI SUGGERITI -** +1 Agilità, +2 Forza, -1 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Ascia da Battaglia (Forza Mischia, d10+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio Armatura 4 - Pesante: -1 all'Evasione)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio di Armatura 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un totem del tuo mentore o una chiave segreta
 ---
 
@@ -23,7 +23,7 @@ I guardiani sono formidabili difensori, pronti a lanciarsi nel pericolo per asso
 **_Difensore di Prima Linea:_** Spendi 3 Punti Speranza per liberare/ripristinare 2 slot Armatura marcati.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Baluardo]] o [[Vendicatore]].
+Scegli tra la sottoclasse [[Valoroso]] o [[Vendicatore]].
 
 # Caratteristiche di Classe
 **_Inarrestabile (Unstoppable):_** Una volta per riposo lungo, puoi attivare l'Inarrestabilità piazzando un Dado Inarrestabile (d4 al livello 1, d6 al livello 5) sulla tua scheda col valore 1 rivolto verso l'alto. Ogni volta che effettui un tiro di danno che infligge almeno 1 PF a un bersaglio, aumenta il valore del dado di uno. Ottieni resistenza ai danni fisici e benefici passivi.

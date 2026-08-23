@@ -5,7 +5,7 @@ type:
 
 # Duello
 
-**_Tier 2 Evento.** _Un avversario sfida uno dei PG a un combattimento singolo mentre il resto del gruppo lo assiste dalla linea laterale._
+**_Rango 2 Evento.** _Un avversario sfida uno dei PG a un combattimento singolo mentre il resto del gruppo lo assiste dalla linea laterale._
 
 - **Impulsi:** Concentrarsi su un solo PG, istigarlo a esporsi troppo, infliggere una sconfitta imbarazzante, tenere in panchina il resto del gruppo
 - **Difficoltà:** Speciale (vedi "Forza Relativa")

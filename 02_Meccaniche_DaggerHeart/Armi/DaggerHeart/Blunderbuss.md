@@ -2,14 +2,12 @@
 alias: ["Bastarda"]
 categoria: arma
 danno: d8+6
-gittata: vicino
-ingombro: "due mani"
+gittata: ravvicinatoingombro: "due mani"
 original_name: "Blunderbuss"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

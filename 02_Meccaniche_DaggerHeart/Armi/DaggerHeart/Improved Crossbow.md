@@ -8,8 +8,7 @@ original_name: "Improved Crossbow"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: finesse
-type: 
+tratto: astuziatype: 
   - "[[Arma]]"
 ---
 

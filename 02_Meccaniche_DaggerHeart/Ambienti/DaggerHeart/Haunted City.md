@@ -5,7 +5,7 @@ type:
 
 # Città Infestata
 
-**_Esplorazione di Tier 2.**_ _Una città abbandonata popolata dagli spiriti inquieti di epoche passate._
+**_Esplorazione di Rango 2.**_ _Una città abbandonata popolata dagli spiriti inquieti di epoche passate._
 
 - **Impulsi:** Sviare e disorientare, rivivere apocalissi pubbliche e personali
 - **Difficoltà:** 14
@@ -20,7 +20,7 @@ type:
 - **Successo con Paura:** scoperte informazioni vaghe o incomplete.
 - **Qualsiasi Fallimento:** segna uno Stress per trovare un indizio dopo una ricerca estenuante.
 
-**_Forma Spettrale - Passiva:_** Gli avversari che compaiono qui hanno una forma spettrale. Hanno resistenza ai danni fisici e possono **segnare uno Stress** per muoversi fino a portata Vicina attraverso gli oggetti solidi. _Quali ferite della loro forma fisica raccontano la loro causa di morte? Quale scopo incompiuto li trattiene nel Piano Mortale?_
+**_Forma Spettrale - Passiva:_** Gli avversari che compaiono qui hanno una forma spettrale. Hanno resistenza ai danni fisici e possono **segnare uno Stress** per muoversi fino a portata Ravvicinata attraverso gli oggetti solidi. _Quali ferite della loro forma fisica raccontano la loro causa di morte? Quale scopo incompiuto li trattiene nel Piano Mortale?_
 
 **_Vicoli Ciechi - Azione:_** I fantasmi di un'epoca passata materializzano scene della loro epoca scomparsa, come un festival di strada, una rivoluzione o una rapina. Queste apparizioni modificano l'assetto della città attorno ai PG, bloccando la via alle loro spalle, costringendoli a una deviazione o presentando loro una sfida, come scambiarli per ladri rivali durante la rapina. _Cosa vogliono i fantasmi da voi? Cosa vi serve da loro?_
 

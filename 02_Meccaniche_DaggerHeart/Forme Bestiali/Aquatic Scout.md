@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 1
+tier: 1
 ---
 
 # Esploratore Acquatico
 
-**_Tier 1_** _(Anguilla, Pesce, Polpo, ecc.)_
+**_Rango 1_** _(Anguilla, Pesce, Polpo, ecc.)_
 
 - **Bonus di Tratto:** Agilità +1
 - **Bonus di Evasione:** Evasione +2

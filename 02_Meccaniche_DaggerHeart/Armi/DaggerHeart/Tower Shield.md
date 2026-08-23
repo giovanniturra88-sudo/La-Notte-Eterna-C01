@@ -8,8 +8,7 @@ original_name: "Tower Shield"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

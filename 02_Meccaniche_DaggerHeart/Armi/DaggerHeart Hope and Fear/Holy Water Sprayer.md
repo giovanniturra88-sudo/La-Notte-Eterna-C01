@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Spray di Acqua Santa
 
-**_Bruciante: I bersagli entro gittata Molto Vicina dell'impatto devono segnare uno Stress o prendere fuoco, segnando 2 PF_**
+**_Bruciante: I bersagli entro gittata Prossima dell'impatto devono segnare uno Stress o prendere fuoco, segnando 2 PF_**
 
 ---

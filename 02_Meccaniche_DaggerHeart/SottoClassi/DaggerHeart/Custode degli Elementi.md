@@ -22,15 +22,15 @@ Incarnare gli elementi naturali delle terre selvagge per scatenare fiamme, tempe
 Marca uno Stress per Incanalare (*Channel*) uno dei seguenti elementi finché non subisci danni Gravi o fino al tuo prossimo riposo:
 * **Fuoco:** Quando un avversario entro portata di Mischia ti infligge danni, subisce 1d10 danni magici.
 * **Terra:** Ottieni un bonus alle deine soglie di danno pari alla tua Competenza.
-* **Acqua:** Quando infliggi danni a un avversario entro portata di Mischia, tutti gli altri avversari entro portata Molto Vicina devono marcare uno Stress.
+* **Acqua:** Quando infliggi danni a un avversario entro portata di Mischia, tutti gli altri avversari entro portata Prossima devono marcare uno Stress.
 * **Aria:** Puoi fluttuare a mezz'aria, ottenendo vantaggio sui tiri di Agilità.
 
 ## Caratteristica di Specializzazione (Specialization)
 **Aura Elementale (Elemental Aura):**
-Una volta per riposo mentre stai Incanalando, puoi assumere un'aura corrispondente al tuo elemento. L'aura influenza i bersagli entro portata Vicina finché non termina l'Incanalamento:
+Una volta per riposo mentre stai Incanalando, puoi assumere un'aura corrispondente al tuo elemento. L'aura influenza i bersagli entro portata Ravvicinata finché non termina l'Incanalamento:
 * **Fuoco:** Quando un avversario marca 1 o più Punti Ferita, deve anche marcare uno Stress.
 * **Terra:** I tuoi alleati ottengono un bonus di +1 alla Forza.
-* **Acqua:** Quando un avversario ti infligge danni, puoi marcare uno Stress per spostarlo in un punto qualsiasi a portata Molto Vicina rispetto a dove si trova.
+* **Acqua:** Quando un avversario ti infligge danni, puoi marcare uno Stress per spostarlo in un punto qualsiasi a portata Prossima rispetto a dove si trova.
 * **Aria:** Quando tu o un alleato subite danni da un attacco oltre la portata di Mischia, riducete il danno di 1d8.
 
 ## Caratteristica di Maestria (Mastery)

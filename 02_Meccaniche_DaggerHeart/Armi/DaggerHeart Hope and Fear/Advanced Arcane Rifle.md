@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Fucile Arcano Avanzato
 
-**_Mira: Il tuo attacco ha svantaggio se il bersaglio è entro gittata Molto Vicina da te_**
+**_Mira: Il tuo attacco ha svantaggio se il bersaglio è entro gittata Prossima da te_**
 
 ---

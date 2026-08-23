@@ -10,7 +10,7 @@ alias: ["Armatura di Opale Veritas"]
 **_Grado 4_** _Armatura_
 
 - **Soglie di Danno:** 13 / 36
-- **Punteggio Armatura:** 6
+- **Punteggio di Armatura:** 6
 
 ### TRATTO DELL'ARMATURA
 

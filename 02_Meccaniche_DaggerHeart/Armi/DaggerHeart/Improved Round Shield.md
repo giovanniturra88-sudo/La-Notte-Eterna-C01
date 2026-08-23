@@ -8,8 +8,7 @@ original_name: "Improved Round Shield"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

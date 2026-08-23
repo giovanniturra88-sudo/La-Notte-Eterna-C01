@@ -6,12 +6,12 @@ source: DaggerHeart
 
 # Gittata
 
-Le bande di portata di Daggerheart: Molto Vicina (~1,5-3 m), Vicina (~6 m), Media (~18 m), Lontana (~36 m), Molto Lontana (~90 m).
+Le bande di portata di Daggerheart: Mischia (a contatto), Prossima (~1,5-3 m), Ravvicinata (~3-9 m), Lontana (~9-30 m), Remota (~30-90 m), Fuori Portata (oltre).
 
 ## Voci correlate
-- [[Vicino]]
+- [[Ravvicinato]]
 - [[Lontano]]
-- [[Molto Vicino]]
+- [[Prossimo]]
 
 ## Citata da
 ```dataview

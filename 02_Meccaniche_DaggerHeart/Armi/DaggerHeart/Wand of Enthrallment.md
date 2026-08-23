@@ -8,8 +8,7 @@ original_name: "Wand of Enthrallment"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

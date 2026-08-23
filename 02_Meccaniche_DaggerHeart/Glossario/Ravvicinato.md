@@ -4,9 +4,9 @@ type:
 source: DaggerHeart
 ---
 
-# Vicino
+# Ravvicinato
 
-Banda di portata Vicina (~6 m): la distanza tipica del combattimento ravvicinato e degli attacchi alla portata.
+Banda di portata Ravvicinata (~3-9 m; Close): la distanza tipica del combattimento ravvicinato e degli attacchi alla portata.
 
 ## Voci correlate
 - [[Lontano]]

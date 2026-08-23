@@ -7,4 +7,4 @@ Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 
-Effettua un **Tiro di Lancio dell'Incantesimo** contro tutti i nemici entro portata Molto Vicina. I bersagli contro cui riesci a colpire vengono temporaneamente _Trattenuti_, poiché la loro ombra li lega sul posto.
+Effettua un **Tiro di Lancio dell'Incantesimo** contro tutti i nemici entro portata Prossima. I bersagli contro cui riesci a colpire vengono temporaneamente _Trattenuti_, poiché la loro ombra li lega sul posto.

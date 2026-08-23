@@ -1,12 +1,12 @@
 ---
 type:
   - "[[Forme Bestiali]]"
-tier: Tier 1
+tier: 1
 ---
 
 # Predatore da Branco
 
-**_Tier 1_** _(Coyote, Iena, Lupo, ecc.)_
+**_Rango 1_** _(Coyote, Iena, Lupo, ecc.)_
 
 - **Bonus di Tratto:** Forza +2
 - **Bonus di Evasione:** Evasione +1

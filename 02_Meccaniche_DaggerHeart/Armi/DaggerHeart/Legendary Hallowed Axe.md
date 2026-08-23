@@ -8,8 +8,7 @@ original_name: "Legendary Hallowed Axe"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: strength
-type: 
+tratto: forzatype: 
   - "[[Arma]]"
 ---
 

@@ -7,10 +7,10 @@ alias: ["Catena del Salvatore"]
 
 # Catena del Salvatore
 
-**_Tier 4_** _Armatura_
+**_Rango 4_** _Armatura_
 
 - **Soglie di Danno Base:** 18 / 48
-- **Punteggio Armatura Base:** 8
+- **Punteggio di Armatura Base:** 8
 
 ### TRATTO DELL'ARMATURA
 

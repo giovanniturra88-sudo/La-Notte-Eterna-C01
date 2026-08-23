@@ -5,7 +5,7 @@ type:
 
 # Regno del Caos
 
-**_Attraversamento di Tier 4.**_ _Uno spazio ultraterreno dove le leggi della realtà sono instabili e pericolose._
+**_Attraversamento di Rango 4.**_ _Uno spazio ultraterreno dove le leggi della realtà sono instabili e pericolose._
 
 - **Impulsi:** Annientare la certezza, consumare il potere, sfidare la logica
 - **Difficoltà:** 20
@@ -19,6 +19,6 @@ type:
 
 **_Disfacimento - Azione:_** **Spendi una Paura** per costringere un PG a effettuare un Tiro di Reazione di Forza. Con un fallimento, subisce **4d10** danni magici diretti. Con un successo, deve segnare uno Stress. _Che scorcio di altri mondi intravedi mentre questo luogo cerca di disfarti? Quale aspetto fondamentale della tua personalità il disfacimento cerca di cancellare?_
 
-**_Predatori dei Regni Esterni - Azione:_** **Spendi una Paura** per evocare un Abominio dei Regni Esterni, un Corruttore dei Regni Esterni e **2d6** Servi dei Regni Esterni, che appaiono a portata Vicina da un PG scelto, sfidando logica e causalità. Metti immediatamente uno di questi avversari sotto i riflettori e puoi **spendere una Paura aggiuntiva** per far riuscire automaticamente l'attacco standard di quell'avversario. _Quali resti a metà divorati del mondo in frantumi queste mostruosità scartano nell'inseguire carne viva? Quali frastagliati riflessi della loro passata identità cogli tra un momento e l'altro di malevolenza incondizionata?_
+**_Predatori dei Regni Esterni - Azione:_** **Spendi una Paura** per evocare un Abominio dei Regni Esterni, un Corruttore dei Regni Esterni e **2d6** Servi dei Regni Esterni, che appaiono a portata Ravvicinata da un PG scelto, sfidando logica e causalità. Metti immediatamente uno di questi avversari sotto i riflettori e puoi **spendere una Paura aggiuntiva** per far riuscire automaticamente l'attacco standard di quell'avversario. _Quali resti a metà divorati del mondo in frantumi queste mostruosità scartano nell'inseguire carne viva? Quali frastagliati riflessi della loro passata identità cogli tra un momento e l'altro di malevolenza incondizionata?_
 
 **_Realtà Disorientante - Reazione:_** Con un risultato con Paura, puoi chiedere al PG di descrivere quale delle sue paure il Regno del Caos evoca mentre una visione della realtà si disfa e si ricostituisce davanti a lui. Il PG perde una Speranza. Se è la sua ultima Speranza, ottieni una Paura. _Che momento vedono? Se è un ricordo, come viene distorto da questo luogo? Quanto sarà difficile aggrapparsi al vero ricordo?_ _Che momento vedono? Quanto sarà difficile aggrapparsi al vero ricordo?_

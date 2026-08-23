@@ -5,7 +5,7 @@ type:
 
 # Giorno al Mare
 
-**_Tier 2 Sociale.** _Il gruppo prende una pausa dall'avventura per un po' di riposo e relax in un insediamento sul mare._
+**_Rango 2 Sociale.** _Il gruppo prende una pausa dall'avventura per un po' di riposo e relax in un insediamento sul mare._
 
 - **Impulsi:** Evocare immagini di sabbia e di onde, dare loro un momento di respiro, prepararli al conflitto che verrà
 - **Difficoltà:** 14

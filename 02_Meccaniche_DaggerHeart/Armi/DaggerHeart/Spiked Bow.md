@@ -8,8 +8,7 @@ original_name: "Spiked Bow"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: agility
-type: 
+tratto: agilitàtype: 
   - "[[Arma]]"
 ---
 

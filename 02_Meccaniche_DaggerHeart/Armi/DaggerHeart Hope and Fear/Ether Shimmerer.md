@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Luccichio dell'Etere
 
-**_Spostamento di Fase: Con un attacco riuscito, puoi spendere una Speranza per teletrasportarti fino a gittata Molto Vicina_**
+**_Spostamento di Fase: Con un attacco riuscito, puoi spendere una Speranza per teletrasportarti fino a gittata Prossima_**
 
 ---

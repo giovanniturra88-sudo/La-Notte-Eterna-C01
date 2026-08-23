@@ -8,8 +8,7 @@ original_name: "Improved Rapier"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: presence
-type: 
+tratto: presenzatype: 
   - "[[Arma]]"
 ---
 

@@ -5,7 +5,7 @@ type:
 
 # Agguatori
 
-**_Evento di Tier 1.**_ _Un'imboscata viene organizzata dai PG per cogliere di sorpresa avversari ignari._
+**_Evento di Rango 1.**_ _Un'imboscata viene organizzata dai PG per cogliere di sorpresa avversari ignari._
 
 - **Impulsi:** Fuggire, riunirsi, proteggere i più vulnerabili
 - **Difficoltà:** Speciale (vedi "Forza Relativa")

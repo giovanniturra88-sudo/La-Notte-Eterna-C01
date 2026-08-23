@@ -13,14 +13,14 @@ I Blood Hunter sono cacciatori oscuri che brandiscono i poteri della magia del s
 - **PUNTI FERITA INIZIALI -** 7
 - **TRATTI SUGGERITI -** +1 Istinto, 0 Presenza, 0 Conoscenza (Inoltre: Mutante/Spettro +2 Agilità, -1 Forza, +1 Finesse | Licantropo +1 Agilità, +2 Forza, -1 Finesse)
 - **ARMA PRIMARIA SUGGERITA -** Mutante/Spettro: Spada Lunga (Agilità Mischia, d10+3 fisici, Due Mani) | Licantropo: Ascia da Battaglia (Forza Mischia, d10+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Un oggetto insanguinato che simboleggia uno dei loro crimini
 ---
 
 # Speranza
 
 ## Caratteristica Speranza
-**_Maledizione del Sangue:_** Spendi 3 Punti Speranza quando un avversario a portata Vicina mette a segno un attacco per costringerlo a ripetere il tiro con svantaggio.
+**_Maledizione del Sangue:_** Spendi 3 Punti Speranza quando un avversario a portata Ravvicinata mette a segno un attacco per costringerlo a ripetere il tiro con svantaggio.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Ordine dello Spettro]], [[Ordine del Mutante]] o [[Ordine del Licantropo]].

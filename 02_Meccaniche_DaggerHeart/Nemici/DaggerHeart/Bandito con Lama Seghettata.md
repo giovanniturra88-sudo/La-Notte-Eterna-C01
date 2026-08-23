@@ -6,13 +6,13 @@ type:
 
 ## Bandito con Lama Seghettata
 * **Descrizione:** Un criminale astuto in un mantello che porta uno dei coltelli iconici della banda.
-* **Tier:** 1 (Standard)
+* **Rango:** 1 (Standard)
 * **Difficoltà:** 12
 * **Soglie di Danno:** 8/14
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Ladro +2
 * **Attacchi:**
- * **Pugnali:** +1 | Da Vicino | 1d8+1 fisico
+ * **Pugnali:** +1 | Ravvicinata | 1d8+1 fisico
 * **Tratti e Capacità:**
  * **Arrampicatore - Passiva:** Il Bandito si arrampica con la stessa facilità con cui corre.
  * **Dal Di Sopra - Passiva:** Quando il Bandito ha successo con un attacco standard dall'alto su una vittima, infligge **1d10+1** danni fisici invece dei danni standard.
@@ -30,7 +30,7 @@ esperienza: "Ladro +2"
 soglia_danni: "8/14"
 attacchi:
   - name: "Pugnali"
-    desc: "**+1** | Da Vicino | **1d8+1** fisico"
+    desc: "**+1** | Ravvicinata | **1d8+1** fisico"
 tratti:
   - name: "Arrampicatore"
     desc: "*- Passiva:* Il Bandito si arrampica con la stessa facilità con cui corre."

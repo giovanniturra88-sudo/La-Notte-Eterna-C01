@@ -5,7 +5,7 @@ type:
 
 # Regno della Luna
 
-**_Tier 4 Esplorazione.** _Le misteriose, luminose e isolate rovine di un regno lunare da lungo tempo perduto, che echeggiano di magia dimenticata e antica tecnologia._
+**_Rango 4 Esplorazione.** _Le misteriose, luminose e isolate rovine di un regno lunare da lungo tempo perduto, che echeggiano di magia dimenticata e antica tecnologia._
 
 - **Impulsi:** Sfumare la linea tra sogno e realtà, lasciare che la coscienza fluisca e rifluisca come la marea, sussurrare echi di antico splendore
 - **Difficoltà:** 20
