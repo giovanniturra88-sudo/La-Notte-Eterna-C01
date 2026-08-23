@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Korath della Gemma è originario della [[Verde Foresta]]. La sua tribù fu tra le poche a lasciare le montagne prima dell'impatto della meteora. Per gli orchi che restarono non ci fu scampo: i loro corpi vennero polverizzati e le loro anime irretite da una fitta e insuperabile trama magica. Una volta imprigionati si manifestarono in sogno allo sciamano del Clan, che riferì ogni cosa a Korath:

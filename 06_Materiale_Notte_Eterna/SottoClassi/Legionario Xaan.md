@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Warrior]]"
+ - "[[Warrior]]"
 Dominio:
-  - "[[Lama]]"
-  - "[[Ossa]]"
+ - "[[Lama]]"
+ - "[[Ossa]]"
 spellcast_trait: Forza
 source: La Notte Eterna
 location:
-  - "[[Pianure di Xanesh]]"
+ - "[[Pianure di Xanesh]]"
 ---
 # Sottoclasse: Legionario Xaan
 
@@ -17,7 +17,7 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Fondazione
-**_Recuperare Energie Migliorato:_** Puoi utilizzare la tua caratteristica di classe per recuperare HP o Stress come reazione quando subisci danni. Se la cura supera il tuo valore massimo di HP, i punti in eccesso diventano punti ferita temporanei.
+**_Recuperare Energie Migliorato:_** Puoi utilizzare la tua caratteristica di classe per recuperare HP o Stress come reazione quando subisci danni. Se la cura supera il tuo valore massimo di HP, i punti in eccesso diventano Punti Ferita temporanei.
 
 ---
 

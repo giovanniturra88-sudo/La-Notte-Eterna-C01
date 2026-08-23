@@ -2,8 +2,8 @@
 type: Campagna
 sistema: DaggerHeart
 ambientazione:
-  - "[[Neir]]"
-  - "[[Mendulia's Rock]]"
+ - "[[Neir]]"
+ - "[[Mendulia's Rock]]"
 status: In corso
 ---
 

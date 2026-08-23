@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Witch]]"
+ - "[[Witch]]"
 spellcast_trait: Conoscenza
 Dominio:
-  - "[[Saggio]]"
-  - "[[Terrore]]"
+ - "[[Saggio]]"
+ - "[[Terrore]]"
 source: La Notte Eterna
 location:
-  - "[[Valli dei Giganti]]"
+ - "[[Valli dei Giganti]]"
 ---
 # Sottoclasse: Criomante
 
@@ -17,7 +17,7 @@ Chierici araldi del gelo divino di [[Unthamarand]], che traggono vigore dalle bu
 ---
 
 ### Fondazione
-**_Gelo Interiore:_** Ottieni resistenza permanente ai danni da Freddo. Una volta per rest, come azione bonus, crei uno schermo di ghiaccio che ti fornisce Punti Ferita temporanei pari al tuo modificatore di Incantesimo + il tuo Tier.
+**_Gelo Interiore:_** Ottieni resistenza permanente ai danni da Freddo. Una volta per rest, come , crei uno schermo di ghiaccio che ti fornisce Punti Ferita temporanei pari al tuo modificatore di Incantesimo + il tuo Tier.
 
 ---
 

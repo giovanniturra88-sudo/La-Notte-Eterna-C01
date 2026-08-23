@@ -1,7 +1,7 @@
 ---
 type: Artefatto
 aliases:
-  - Il Senza Memoria
+ - Il Senza Memoria
 ---
 ![[Pasted image 20260712141553.png]]
 

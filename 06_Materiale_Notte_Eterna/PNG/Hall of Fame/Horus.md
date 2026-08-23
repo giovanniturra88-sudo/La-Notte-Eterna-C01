@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Horus è il saggio e potente leader del suo popolo. La sua capacità di pattugliare i cieli e comandare gli elementi naturali gli è valso il rispetto della tribù di [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Urakian]]-falchi.

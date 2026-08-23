@@ -10,7 +10,7 @@ tier: 4
 tipo_danno: magica
 tratto: agility
 type: 
-  - "[[Arma]]"
+ - "[[Arma]]"
 ---
 
 ### EFFETTO

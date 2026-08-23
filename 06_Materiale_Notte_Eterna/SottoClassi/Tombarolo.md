@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Rogue]]"
+ - "[[Rogue]]"
 Dominio:
-  - "[[MezzaNotte]]"
-  - "[[Grazia]]"
+ - "[[MezzaNotte]]"
+ - "[[Grazia]]"
 spellcast_trait: Finesse
 source: La Notte Eterna
 location:
-  - "[[Favoleggiate Rovine di Gundazar]]"
+ - "[[Favoleggiate Rovine di Gundazar]]"
 ---
 # Sottoclasse: Tombarolo
 

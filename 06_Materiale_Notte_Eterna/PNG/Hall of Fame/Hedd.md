@@ -1,8 +1,8 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 aliases:
-  - Hedd il Folle
+ - Hedd il Folle
 ---
 ![[Pasted image 20260804014346.png|700]]
 

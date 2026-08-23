@@ -1,7 +1,7 @@
 ---
 type:
-  - "[[Creatura]]"
-  - "[[Supporto]]"
+ - "[[Creatura]]"
+ - "[[Supporto]]"
 ---
 ## Elementale del Buio
 * **Descrizione:** Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla.
@@ -10,11 +10,11 @@ type:
 * **Soglie di Danno:** Minore: 9 | Maggiore: 18 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
-  * **Sferzata d'Ombra:** +3 | Da Vicino | 2d8+4 Necrotico
-  * **Buio Terrificante:** +3 | Area Vicina | 2d10 Necrotico + Stato Spaventato
+ * **Sferzata d'Ombra:** +3 | Da Vicino | 2d8+4 Necrotico
+ * **Buio Terrificante:** +3 | Area Vicina | 2d10 Necrotico + Stato Spaventato
 * **Tratti e Capacità:**
-  * **Forma d'Ombra:** Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti.
-  * **Lanciare il Buio (1 Stress):** Avvolge l'area nell'oscurità totale rendendo i nemici privi di vista.
+ * **Forma d'Ombra:** Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti.
+ * **Lanciare il Buio (1 Stress):** Avvolge l'area nell'oscurità totale rendendo i nemici privi di vista.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -28,13 +28,13 @@ stress: "4"
 esperienza: "+3"
 soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 28"
 attacchi:
-  - name: "Sferzata d'Ombra"
-    desc: "**+3** | Da Vicino | **2d8+4** Necrotico"
-  - name: "Buio Terrificante"
-    desc: "**+3** | Area Vicina | **2d10** Necrotico + Stato Spaventato"
+ - name: "Sferzata d'Ombra"
+ desc: "**+3** | Da Vicino | **2d8+4** Necrotico"
+ - name: "Buio Terrificante"
+ desc: "**+3** | Area Vicina | **2d10** Necrotico + Stato Spaventato"
 tratti:
-  - name: "Forma d'Ombra"
-    desc: "Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti."
-  - name: "Lanciare il Buio"
-    desc: "*(Costo: 1 Stress)* Avvolge l'area nell'oscurità totale rendendo i nemici privi di vista."
+ - name: "Forma d'Ombra"
+ desc: "Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti."
+ - name: "Lanciare il Buio"
+ desc: "*(Costo: 1 Stress)* Avvolge l'area nell'oscurità totale rendendo i nemici privi di vista."
 ```

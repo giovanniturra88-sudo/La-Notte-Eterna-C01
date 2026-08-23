@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Item]]"
+ - "[[Item]]"
 ---
 
 **_Palchetto del Placido Sonno_**

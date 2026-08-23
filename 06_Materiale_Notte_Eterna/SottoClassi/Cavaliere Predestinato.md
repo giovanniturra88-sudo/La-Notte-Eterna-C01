@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Seraph]]"
+ - "[[Seraph]]"
 spellcast_trait: Presenza
 Dominio:
-  - "[[Splendore]]"
-  - "[[Valore]]"
+ - "[[Splendore]]"
+ - "[[Valore]]"
 source: La Notte Eterna
 location:
-  - "[[Ducato di Öuin]]"
+ - "[[Ducato di Öuin]]"
 ---
 # Sottoclasse: Cavaliere Predestinato
 
@@ -17,7 +17,7 @@ Paladini votati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da 
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Come azione bonus, spendi 1 Speranza per marchiare un avversario entro portata Vicina. I tuoi attacchi contro di esso infliggono +1d6 danni radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
+**_Marchio di Laon:_** Come , spendi 1 Speranza per marchiare un avversario entro portata Vicina. I tuoi attacchi contro di esso infliggono +1d6 danni radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
 
 ---
 

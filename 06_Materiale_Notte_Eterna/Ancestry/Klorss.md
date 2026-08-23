@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Ancestry]]"
+ - "[[Ancestry]]"
 source: La Notte Eterna
 ---
 

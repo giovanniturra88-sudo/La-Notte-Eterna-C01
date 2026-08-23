@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Ranger]]"
+ - "[[Ranger]]"
 Dominio:
-  - "[[Ossa]]"
-  - "[[Saggio]]"
+ - "[[Ossa]]"
+ - "[[Saggio]]"
 spellcast_trait: Istinto
 source: La Notte Eterna
 location:
-  - "[[Ducato di Öuin]]"
-  - "[[Landa di Edeber]]"
+ - "[[Ducato di Öuin]]"
+ - "[[Landa di Edeber]]"
 ---
 # Sottoclasse: Cavaliere dei Passi
 
@@ -24,7 +24,7 @@ Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di correre in
 
 ### Specializzazione
 **_Passo Schivo:_** Tutti gli attacchi di opportunità effettuati contro di te subiscono svantaggio.
-**_Passo Fuorviante:_** Come azione bonus, spendi 1 Speranza per confondere un avversario visibile. I suoi attacchi contro di te hanno svantaggio finché non ti colpisce o finché la scena non termina.
+**_Passo Fuorviante:_** Come , spendi 1 Speranza per confondere un avversario visibile. I suoi attacchi contro di te hanno svantaggio finché non ti colpisce o finché la scena non termina.
 
 ---
 

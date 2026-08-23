@@ -1,16 +1,16 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Druid]]"
+ - "[[Druid]]"
 spellcast_trait: Istinto
 Dominio:
-  - "[[Saggio]]"
-  - "[[Arcana]]"
+ - "[[Saggio]]"
+ - "[[Arcana]]"
 source: La Notte Eterna
 location:
-  - "[[Landa di Edeber]]"
-  - "[[Verde Foresta]]"
-  - "[[Giungla di Erth]]"
+ - "[[Landa di Edeber]]"
+ - "[[Verde Foresta]]"
+ - "[[Giungla di Erth]]"
 ---
 # Sottoclasse: Custode dei Segreti
 

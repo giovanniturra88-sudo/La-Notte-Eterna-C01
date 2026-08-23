@@ -10,7 +10,7 @@ tier: 2
 tipo_danno: magica
 tratto: presence
 type: 
-  - "[[Arma]]"
+ - "[[Arma]]"
 ---
 
 ### EFFETTO

@@ -1,9 +1,9 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-4
-  - daggerheart
+ - incantesimi
+ - vera-magia
+ - livello-4
+ - daggerheart
 ---
 
 # Vera Magia - Livello 4
@@ -23,7 +23,7 @@ Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce autom
 * **Livello:** 4
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al momento dell'evocazione viene spinto all'esterno e subisce `3d10` Danni Magici. La sfera genera un'aura attorno a sé: le creature che vi iniziano il turno subiscono `2d8` danni e subiscono effetti secondari a seconda della Luna (Radiosi se Luna Piena, Necrotici se Luna Nuova).
@@ -34,7 +34,7 @@ Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al mome
 * **Livello:** 4
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Istinto/Conoscenza)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Linea Retta fino a Lontano (Far)
 
 Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devono superare un tiro di *Agilità*: se falliscono subiscono `4d10` Danni da Fuoco (se superano, metà danno). Con una mossa nel tuo turno puoi riorientare il raggio.
@@ -45,7 +45,7 @@ Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devon
 * **Livello:** 4
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Presenza/Conoscenza)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Lontano (Far)
 
 Crea un globo violaceo opaco. Le creature all'interno della sfera devono superare un tiro di *Volontà/Conoscenza* o subire `3d8` Danni Psichici ed essere **Stordite** (impossibilitate ad agire nel turno successivo). Puoi muovere la sfera di una gittata *Vicina* ad ogni turno.

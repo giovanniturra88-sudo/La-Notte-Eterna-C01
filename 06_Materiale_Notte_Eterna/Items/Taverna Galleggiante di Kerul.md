@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Item]]"
+ - "[[Item]]"
 ---
 
 **_Taverna Galleggiante di Kerul_**

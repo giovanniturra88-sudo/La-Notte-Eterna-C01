@@ -1,8 +1,8 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 aliases:
-  - Matrona di Sangue
+ - Matrona di Sangue
 ---
 ![[namass'rya_pic.png|700]]
 

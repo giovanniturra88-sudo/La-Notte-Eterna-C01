@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Bard]]"
+ - "[[Bard]]"
 spellcast_trait: Presenza (Presence)
 Dominio:
-  - "[[Terrore]]"
-  - "[[Grazia]]"
+ - "[[Terrore]]"
+ - "[[Grazia]]"
 source: La Notte Eterna
 location:
-  - "[[Azkabel]]"
-  - "[[Principato di Darkflame]]"
+ - "[[Azkabel]]"
+ - "[[Principato di Darkflame]]"
 ---
 
 # Sottoclasse: Danse Macabre
@@ -19,7 +19,7 @@ La musica proibita non è scritta su nessun spartito accademico, ma viene sussur
 ---
 
 ### Fondazione
-**_Melodia dell'Oltretomba:_** La tua musica risuona della fredda indifferenza della morte. Ottieni competenza nell'esperienza *Musica Proibita (+2)* (o la utilizzi con vantaggio nelle prove che coinvolgono l'interazione con i defunti). Inoltre, quando lanci un incantesimo del dominio del **Terrore** o rianimi un servitore, puoi spendere **1 Speranza** per far sì che un avversario entro portata Vicina debba effettuare un tiro salvezza su Costituzione o essere colto da tremori raggelanti, subendo la condizione **Spaventato** finché non marca uno Stress.
+**_Melodia dell'Oltretomba:_** La tua musica risuona della fredda indifferenza della morte. Ottieni competenza nell'esperienza *Musica Proibita (+2)* (o la utilizzi con vantaggio nelle prove che coinvolgono l'interazione con i defunti). Inoltre, quando lanci un capacità magica del dominio del **Terrore** o rianimi un servitore, puoi spendere **1 Speranza** per far sì che un avversario entro portata Vicina debba effettuare un Tiro di Reazione di Forza o essere colto da tremori raggelanti, subendo la condizione **Spaventato** finché non marca uno Stress.
 
 **_Canto della Carne Morta:_** Sei in grado di far muovere i corpi come burattini biologici. Quando una creatura umanoide muore entro portata Lontana da te, puoi spendere **1 Stress** e lanciare il tuo *Dado del Patrono* per rianimarla all'istante come **Zombi Marionetta** per la durata della scena. Lo Zombi si muove ed esegue un singolo attacco nel tuo turno, utilizzando il risultato del tuo Dado del Patrono come bonus aggiuntivo al tiro d'attacco o per assorbire un colpo diretto a un alleato vicino.
 
@@ -33,7 +33,7 @@ La musica proibita non è scritta su nessun spartito accademico, ma viene sussur
 ---
 
 ### Maestria
-**_Alzati e Cammina:_** Il tuo controllo sulla morte è assoluto. Quando metti a segno un *Successo Critico* con un attacco o sconfiggi personalmente un avversario rilevante, puoi spendere **3 Speranza** per consumare completamente la sua forza vitale. Il suo corpo si rianima immediatamente sotto forma di **Scheletro d'Élite** sotto il tuo controllo permanente (fino a un massimo di 4 scheletri contemporaneamente). Nel tuo turno, puoi spendere un'azione bonus per comandare mentalmente a tutti i tuoi scheletri attivi di attaccare o spostarsi. Inoltre, quando subisci danno Maggiore o superiore, puoi spendere la tua reazione per far sì che uno dei tuoi scheletri si frapponga, distruggendosi ma riducendo il danno subito a zero.
+**_Alzati e Cammina:_** Il tuo controllo sulla morte è assoluto. Quando metti a segno un *Successo Critico* con un attacco o sconfiggi personalmente un avversario rilevante, puoi spendere **3 Speranza** per consumare completamente la sua forza vitale. Il suo corpo si rianima immediatamente sotto forma di **Scheletro d'Élite** sotto il tuo controllo permanente (fino a un massimo di 4 scheletri contemporaneamente). Nel tuo turno, puoi spendere un' per comandare mentalmente a tutti i tuoi scheletri attivi di attaccare o spostarsi. Inoltre, quando subisci danno Maggiore o superiore, puoi spendere la tua reazione per far sì che uno dei tuoi scheletri si frapponga, distruggendosi ma riducendo il danno subito a zero.
 
 ---
 

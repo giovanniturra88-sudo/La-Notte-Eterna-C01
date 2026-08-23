@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 # LUAAR DELLE NUVOLE NERE
 *La Tempesta Vivente*
@@ -13,23 +13,23 @@ Luaar è un possente sciamano ed elemento di congiunzione tra le forze della nat
 
 ### **STATISTICHE E CAPACITÀ (5e)**
 
-**LUAAR DELLE NUVOLE NERE**  
-*Umanoide (Urakian-Falco), Caotico Neutrale*  
+**LUAAR DELLE NUVOLE NERE** 
+*Umanoide (Urakian-Falco), Caotico Neutrale* 
 
-- **Classe Armatura:** 16 (Pelle di Tempesta)  
-- **Punti Ferita:** 130 (16d8 + 58)  
-- **Velocità:** 9 m, volare 18 m  
+- **Evasione:** 16 (Pelle di Tempesta) 
+- **Punti Ferita:** 130 (16d8 + 58) 
+- **Velocità:** 9 m, volare 18 m 
 
 | FOR | DES | COS | INT | SAG | CAR |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 14 (+2) | 18 (+4) | 16 (+3) | 12 (+1) | 20 (+5) | 11 (+0) |
 
-- **Tiri Salvezza:** Destrezza +8, Saggezza +9  
-- **Abilità:** Percezione +9, Natura +9, Addestrare Animali +9  
+- **Tiri Salvezza:** Destrezza +8, Saggezza +9 
+- **Abilità:** Percezione +9, Natura +9, Addestrare Animali +9 
 - **Immunità al Danno / Condizioni:** Fulmine, Tuono
-- **Sensi:** Scurovisione 36 m, Percezione Passiva 19  
-- **Linguaggi:** Comune, Auran, Urakian  
-- **Grado Sfida:** 11 (7.200 PE)  
+- **Sensi:** Scurovisione 36 m, Percezione Passiva 19 
+- **Linguaggi:** Comune, Auran, Urakian 
+- **Grado Sfida:** 11 (7.200 PE) 
 
 ---
 
@@ -40,7 +40,7 @@ Luaar è un possente sciamano ed elemento di congiunzione tra le forze della nat
 #### **AZIONI**
 - **Multiattacco:** Luaar effettua due attacchi con il Lancia-Fulmini o usa Richiamare la Tempesta.
 - **Lancia-Fulmini:** Attacco con Arma da Mischia o a Distanza: +8 al tiro per colpire, portata 1,5 m o gittata 24/72 m, un bersaglio. Colpito: 11 (1d8 + 4) danni perforanti più 14 (4d6) danni da fulmine.
-- **Invocare il Lampo (Ricarica 5-6):** Luaar scatena un fulmine devastante in una linea di 18 m. Le creature nell'area devono superare un tiro salvezza su Destrezza CD 17 o subire 45 (10d8) danni da fulmine e 18 (4d8) danni da tuono.
+- **Invocare il Lampo (Ricarica 5-6):** Luaar scatena un fulmine devastante in una linea di 18 m. Le creature nell'area devono superare un Tiro di Reazione di Agilità Difficoltà 17 o subire 45 (10d8) danni da fulmine e 18 (4d8) danni da tuono.
 
 #### **REAZIONI**
 - **Scudo di Vento:** Quando Luaar viene bersagliato da un attacco a distanza, crea una barriera di vento aumentando la propria CA di 4 contro quell'attacco.

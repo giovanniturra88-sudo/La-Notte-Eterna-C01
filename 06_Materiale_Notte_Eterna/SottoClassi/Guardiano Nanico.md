@@ -1,11 +1,11 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Ranger]]"
+ - "[[Ranger]]"
 spellcast_trait: Istinto (Instinct)
 Dominio:
-  - "[[Ossa]]"
-  - "[[Saggio]]"
+ - "[[Ossa]]"
+ - "[[Saggio]]"
 location: "[[Valle Nuvolosa]]"
 source: La Notte Eterna
 ---

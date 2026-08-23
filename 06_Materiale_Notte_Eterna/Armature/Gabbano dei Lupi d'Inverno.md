@@ -4,7 +4,7 @@ categoria: equipaggiamento
 original_name: "Gabbano dei Lupi d'Inverno"
 tier: 2
 type: 
-  - "[[Armatura]]"
+ - "[[Armatura]]"
 ---
 
 # Gabbano dei Lupi d'Inverno

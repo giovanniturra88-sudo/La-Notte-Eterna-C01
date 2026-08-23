@@ -1,9 +1,9 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-6
-  - daggerheart
+ - incantesimi
+ - vera-magia
+ - livello-6
+ - daggerheart
 ---
 
 # Vera Magia - Livello 6
@@ -37,7 +37,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 * **Livello:** 6
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i tiri d'attacco compiuti contro la creatura marchiata beneficiano di **Vantaggio** e l'obiettivo subisce **+d10 Danni Radiosi Extra** da qualsiasi fonte. Se la creatura fallisce la prova di *Volontà* a fine turno, subisce `2d10` Danni Radiosi + `2d10` Danni Necrotici. Se la creatura muore, il marchio può essere liberamente spostato su un nuovo bersaglio.
@@ -56,7 +56,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 * **Terreno Pericoloso Finto:** Se una creatura interagisce con un rischio illusorio che non esiste nella realtà, deve superare un **Tiro di Reazione su Conoscenza/Istinto (Difficoltà 15)** o subire **5d10 Danni Psichici** e scoprire la natura dell'illusione.
 * **Terreno Pericoloso Reale Nascosto:** Se un rischio reale viene nascosto dall'illusione, chi vi entra subisce gli effetti del terreno con **Svantaggio** alla prova per evitarlo.
 * **Indagare l'Illusione:** Una creatura può spendere un'Azione per esaminare il miraggio superando una prova di *Conoscenza* o *Istinto* contro la tua Difficoltà Magica. In caso di successo, vede attraverso l'illusione, ma le cose rese invisibili rimangono tali per lei.
-* **Estensione:** Prima che l'incantesimo termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.
+* **Estensione:** Prima che l'capacità magica termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.
 
 ---
 

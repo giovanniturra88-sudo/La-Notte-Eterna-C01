@@ -1,7 +1,7 @@
 ---
 type: Artefatto
 aliases:
-  - Eneli
+ - Eneli
 ---
 ![[Pasted image 20260712122123.png|354]]
 

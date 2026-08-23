@@ -1,9 +1,9 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-2
-  - daggerheart
+ - incantesimi
+ - vera-magia
+ - livello-2
+ - daggerheart
 ---
 
 # Vera Magia - Livello 2
@@ -16,7 +16,7 @@ tags:
 * **Gittata:** Contatto
 
 Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumirne uno:
-- **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `2d6` PF se usate le regole opzionali sui punti ferita).
+- **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `2d6` PF se usate le regole opzionali sui Punti Ferita).
 - **Uso Disintossicante:** Rimuove lo stato **Avvelenato** o **Infezione**.
 
 ---
@@ -39,7 +39,7 @@ Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai Tiri d'
 * **Livello:** 2
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Conoscenza/Presenza)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Personale
 
 La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e il tuo punteggio di Armatura base viene considerato almeno 15. Quando un nemico in gittata **Molto Vicina** ti colpisce con un attacco fisico, subisce immediatamente `d6` Danni Magici di ritorsione.
@@ -50,7 +50,7 @@ La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumen
 * **Livello:** 2
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Grazia o Presenza)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `2d8` Danni da Fuoco (Magici). Con una mossa bonus nei turni successivi puoi spostare la ruota; il terreno attraversato rimane in fiamme, infliggendo `d6` danni da fuoco a chiunque lo attraversi.

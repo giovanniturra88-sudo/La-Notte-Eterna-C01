@@ -1,7 +1,7 @@
 ---
 type: StorylineScene
 storyline:
-  - "[[La Morte Strisciante]]"
+ - "[[La Morte Strisciante]]"
 ---
 # Contatto Iniziale
 

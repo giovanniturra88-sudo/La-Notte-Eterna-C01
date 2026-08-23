@@ -1,16 +1,16 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Guardian]]"
-  - "[[Warrior]]"
+ - "[[Guardian]]"
+ - "[[Warrior]]"
 spellcast_trait: Forza
 Dominio:
-  - "[[Lama]]"
-  - "[[Ossa]]"
-  - "[[Valore]]"
+ - "[[Lama]]"
+ - "[[Ossa]]"
+ - "[[Valore]]"
 source: La Notte Eterna
 location:
-  - "[[Ducato di Öuin]]"
+ - "[[Ducato di Öuin]]"
 ---
 # Sottoclasse: Cavaliere Pesante
 
@@ -24,7 +24,7 @@ Resistenti combattenti specializzati nella pura forza fisica, nell'uso di pesant
 ---
 
 ### Specializzazione
-**_Resilienza del Veterano:_** Come azione bonus, spendi 1 Speranza per focalizzarti su un avversario. Ottieni resistenza ai danni fisici (contundenti, perforanti, taglienti) inflitti da quell'avversario fino alla fine della scena.
+**_Resilienza del Veterano:_** Come , spendi 1 Speranza per focalizzarti su un avversario. Ottieni resistenza ai danni fisici (contundenti, perforanti, taglienti) inflitti da quell'avversario fino alla fine della scena.
 **_Nella Polvere:_** Quando colpisci un bersaglio con un attacco di opportunità, il bersaglio è immediatamente buttato prono.
 
 ---

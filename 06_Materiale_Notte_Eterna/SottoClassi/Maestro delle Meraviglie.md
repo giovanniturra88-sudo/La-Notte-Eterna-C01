@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Wizard]]"
+ - "[[Wizard]]"
 Dominio:
-  - "[[Codice]]"
-  - "[[Splendore]]"
+ - "[[Codice]]"
+ - "[[Splendore]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
 location:
-  - "[[Daragoss]]"
+ - "[[Daragoss]]"
 ---
 # Sottoclasse: Maestro delle Meraviglie
 
@@ -27,7 +27,7 @@ Mago d'accademia rinomato per l'identificazione, l'uso e l'affinità assoluta co
 ---
 
 ### Maestria
-**_Manipolatore di Meraviglie:_** Una volta per riposo lungo, puoi drenare l'energia dell'oggetto vincolato per recuperare immediatamente 2 slot incantesimo spenti. Inoltre, puoi ora vincolare e trarre beneficio da due oggetti magici contemporaneamente.
+**_Manipolatore di Meraviglie:_** Una volta per riposo lungo, puoi drenare l'energia dell'oggetto vincolato per recuperare immediatamente 2 costo di magia spenti. Inoltre, puoi ora vincolare e trarre beneficio da due oggetti magici contemporaneamente.
 
 ---
 

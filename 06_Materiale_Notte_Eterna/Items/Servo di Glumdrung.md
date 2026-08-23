@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Item]]"
+ - "[[Item]]"
 ---
 
 **_Servo di Glumdrung_**

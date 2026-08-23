@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Item]]"
+ - "[[Item]]"
 ---
 
 **_Fuoco Zeyd_**

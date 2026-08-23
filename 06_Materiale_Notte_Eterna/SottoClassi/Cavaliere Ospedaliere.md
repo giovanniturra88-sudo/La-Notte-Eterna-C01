@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Seraph]]"
+ - "[[Seraph]]"
 Dominio:
-  - "[[Valore]]"
-  - "[[Splendore]]"
+ - "[[Valore]]"
+ - "[[Splendore]]"
 spellcast_trait: Presenza
 source: La Notte Eterna
 location:
-  - "[[Ducato di Öuin]]"
-  - "[[Repubblica di Mendulia’s Rock]]"
+ - "[[Ducato di Öuin]]"
+ - "[[Repubblica di Mendulia’s Rock]]"
 ---
 # Sottoclasse: Cavaliere Ospedaliere
 

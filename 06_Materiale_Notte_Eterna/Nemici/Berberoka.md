@@ -1,7 +1,7 @@
 ---
 type:
-  - "[[Creatura]]"
-  - "[[Standard]]"
+ - "[[Creatura]]"
+ - "[[Standard]]"
 ---
 ## Berberoka
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.
@@ -10,11 +10,11 @@ type:
 * **Soglie di Danno:** Minore: 9 | Maggiore: 18 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
-  * **Frusta di Alghe:** +3 | Reach (A portata) | 2d6+5 Tagliente (Trascina il bersaglio)
-  * **Bomba d'Acqua:** +2 | Media | 1d10+4 Contundente
+ * **Frusta di Alghe:** +3 | Reach (A portata) | 2d6+5 Tagliente (Trascina il bersaglio)
+ * **Bomba d'Acqua:** +2 | Media | 1d10+4 Contundente
 * **Tratti e Capacità:**
-  * **Falso Aspetto:** Indistinguibile da comune vegetazione acquatica finché rimane immobile.
-  * **Groviglio Trattenente (1 Paura):** Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge 1d6 danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto.
+ * **Falso Aspetto:** Indistinguibile da comune vegetazione acquatica finché rimane immobile.
+ * **Groviglio Trattenente (1 Paura):** Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge 1d6 danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -28,12 +28,12 @@ stress: "4"
 esperienza: "+3"
 soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 28"
 attacchi:
-  - name: "Frusta di Alghe"
-    desc: "**+3** | Reach (A portata) | **2d6+5** Tagliente *(Trascina il bersaglio)*"
-  - name: "Bomba d'Acqua"
-    desc: "**+2** | Media | **1d10+4** Contundente"
+ - name: "Frusta di Alghe"
+ desc: "**+3** | Reach (A portata) | **2d6+5** Tagliente *(Trascina il bersaglio)*"
+ - name: "Bomba d'Acqua"
+ desc: "**+2** | Media | **1d10+4** Contundente"
 tratti:
-  - name: "Falso Aspetto"
-    desc: "Indistinguibile da comune vegetazione acquatica finché rimane immobile."
-  - name: "Groviglio Trattenente"
-    desc: "*(Costo: 1 Paura)* Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge **1d6** danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto."
+ - name: "Falso Aspetto"
+ desc: "Indistinguibile da comune vegetazione acquatica finché rimane immobile."
+ - name: "Groviglio Trattenente"
+ desc: "*(Costo: 1 Paura)* Fatti crescere grovigli di alghe in un'area vicina. Diventa terreno difficile e infligge **1d6** danni a chiunque vi si muova dentro, con rischio di rimanere Trattenuto."

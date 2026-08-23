@@ -1,12 +1,12 @@
 ---
 tags:
-  - lore
-  - magia
-  - vera-magia
-  - nebvarasa
+ - lore
+ - magia
+ - vera-magia
+ - nebvarasa
 aliases:
-  - Vera Magia
-  - Il Fuoco Segreto
+ - Vera Magia
+ - Il Fuoco Segreto
 ---
 # Vera Magia (Adattamento Daggerheart)
 
@@ -39,11 +39,11 @@ I draghi sono legati a doppio filo alla Vera Magia: quando uno di essi muore, la
 Gli incantesimi della Vera Magia sono trattati come **Incantesimi Speciali / Dominio Segreto del Fuoco Segreto**. Qualsiasi personaggio dotato di un Tratto Incantatore (*Conoscenza, Istinto, Presenza, Grazia, ecc.*) può tentare di impararli.
 
 ### Requisiti di Apprendimento:
-Per apprendere un Incantesimo di Vera Magia è necessario uno studio/addestramento continuativo di **4 ore al giorno** per un numero di settimane pari al **Livello dell'Incantesimo x 2** (es. Livello 1 = 2 settimane; Livello 6 = 12 settimane).
+Per apprendere un capacità magica di Vera Magia è necessario uno studio/addestramento continuativo di **4 ore al giorno** per un numero di settimane pari al **Livello dell'Incantesimo x 2** (es. Livello 1 = 2 settimane; Livello 6 = 12 settimane).
 
 ### Regola del Cast (Costo in Speranza e Paura):
 Lanciare la Vera Magia richiede un tributo di energia vitale e mentale:
-* **Costo Standard:** Spendere **1 Speranza** per attivare un incantesimo di Livello 1-3; **2 Speranza** per un incantesimo di Livello 4-6.
+* **Costo Standard:** Spendere **1 Speranza** per attivare un capacità magica di Livello 1-3; **2 Speranza** per un capacità magica di Livello 4-6.
 * **Fallimento o Tiro con Paura:** Se il Tiro di Magia fallisce o viene effettuato con **Paura**, il GM ottiene **1 Paura** addizionale oltre alla risoluzione standard della mossa.
 
 ---

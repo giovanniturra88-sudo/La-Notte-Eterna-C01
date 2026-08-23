@@ -1,16 +1,16 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Ranger]]"
-  - "[[Warrior]]"
+ - "[[Ranger]]"
+ - "[[Warrior]]"
 Dominio:
-  - "[[Saggio]]"
-  - "[[Ossa]]"
+ - "[[Saggio]]"
+ - "[[Ossa]]"
 spellcast_trait: Istinto
 source: La Notte Eterna
 location:
-  - "[[Mendulia's Rock]]"
-  - "[[Baia di Redoro]]"
+ - "[[Mendulia's Rock]]"
+ - "[[Baia di Redoro]]"
 ---
 
 # Il Mare Andante

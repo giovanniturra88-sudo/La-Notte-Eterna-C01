@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Brawler]]"
+ - "[[Brawler]]"
 Dominio:
-  - "[[Valore]]"
-  - "[[Ossa]]"
+ - "[[Valore]]"
+ - "[[Ossa]]"
 spellcast_trait: Forza
 source: La Notte Eterna
 location:
-  - "[[Valli dei Giganti]]"
+ - "[[Valli dei Giganti]]"
 ---
 # Sottoclasse: Lupo del Nord
 
@@ -23,7 +23,7 @@ Barbaro e guerriero nativo delle gelide tundre delle Valli dei Giganti, temprato
 
 ### Specializzazione
 **_Lama di Ghiaccio:_** Quando colpisci con un attacco d'arma da mischia, spendi 1 Stress per infondere il colpo di gelo. L'attacco infligge +1d6 danni da Freddo extra (che aumentano a +1d10 al livello 5).
-**_Valanga:_** Come azione bonus, puoi effettuare una prova di Forza (CD 14) per spingere o far cadere prono un avversario entro portata Molto Vicina.
+**_Valanga:_** Come , puoi effettuare una prova di Forza (Difficoltà 14) per spingere o far cadere prono un avversario entro portata Molto Vicina.
 
 ---
 

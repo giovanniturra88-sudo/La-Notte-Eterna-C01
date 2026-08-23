@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Rowzrugu non era che un cucciolo di lupo invernale quando, vagando in cerca di cibo tra le gelide steppe delle Valli, si imbatté nei resti di un demone caduto dal cielo. Affamato ne divorò la carcassa ancora fumante, assorbendo inconsapevolmente l'oscuro potere dell'immondo che gli conferì abilità straordinarie.

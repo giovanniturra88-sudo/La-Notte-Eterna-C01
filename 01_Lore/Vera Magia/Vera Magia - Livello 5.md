@@ -1,9 +1,9 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-5
-  - daggerheart
+ - incantesimi
+ - vera-magia
+ - livello-5
+ - daggerheart
 ---
 
 # Vera Magia - Livello 5
@@ -23,13 +23,13 @@ Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta 
 * **Livello:** 5
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro d'Attacco Magico
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Vicino / Medio
 
 Cree una frusta d'energia arcana che infligge `3d8` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
 - **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `2d6` danni da urto).
 - **Bloccare:** La creatura viene **Trattenuta** e subisce danni continui.
-- **Scarica Arcana:** Consumi l'incantesimo per l'ultimo colpo devastante che infligge `6d8` danni Magici.
+- **Scarica Arcana:** Consumi l'capacità magica per l'ultimo colpo devastante che infligge `6d8` danni Magici.
 
 ---
 
@@ -59,7 +59,7 @@ Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene
 * **Livello:** 5
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Evochi un raggio di luce scura. Le creature colpite devono superare una prova di *Costituzione* o subire `4d10` Danni Necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.

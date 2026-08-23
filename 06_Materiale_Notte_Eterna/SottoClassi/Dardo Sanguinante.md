@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Rogue]]"
+ - "[[Rogue]]"
 Dominio:
-  - "[[MezzaNotte]]"
-  - "[[Grazia]]"
+ - "[[MezzaNotte]]"
+ - "[[Grazia]]"
 spellcast_trait: Finesse
 source: La Notte Eterna
 location:
-  - "[[Mendulia's Rock]]"
+ - "[[Mendulia's Rock]]"
 ---
 # I Dardi Sanguinanti
 

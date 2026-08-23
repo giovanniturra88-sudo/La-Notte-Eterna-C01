@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 ![[nelen_pic.png|700]]

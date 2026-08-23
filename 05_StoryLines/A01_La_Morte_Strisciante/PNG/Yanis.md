@@ -1,29 +1,29 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 storyline:
-  - "[[La Morte Strisciante]]"
+ - "[[La Morte Strisciante]]"
 luoghi:
-  - "[[Vetreria]]"
-  - "[[Mendulia's Rock]]"
+ - "[[Vetreria]]"
+ - "[[Mendulia's Rock]]"
 ---
-# Yanis  
-## Ruolo  
-Proprietario della [[Vetreria]] dei Bassifondi.  
-È uno dei principali testimoni dell'indagine e un importante collegamento tra gli omicidi, [[Grualk]] e la rete criminale costruita da [[Silke]].  
-## Descrizione  
-Anziano artigiano specializzato nella lavorazione del vetro.  
-Agli occhi dei cittadini appare come un rispettabile imprenditore che offre lavoro ai ragazzi di strada. Dietro questa facciata si nasconde però un individuo crudele e manipolatore.  
-## Personalità  
-- Infido  
-- Opportunista  
-- Codardo  
-- Calcolatore  
-- Egoista  
-Yanis tende a presentarsi come una persona rispettabile e utile alla comunità, ma è pronto a mentire e sfruttare chiunque per proteggere sé stesso.  
-## Storia  
-Da anni accoglie giovani trovatelli presso la propria attività, sostenendo di voler offrire loro un futuro migliore.  
-In realtà sfrutta la propria posizione per abusare del potere che esercita sui ragazzi che lavorano e vivono nella vetreria.  
+# Yanis 
+## Ruolo 
+Proprietario della [[Vetreria]] dei Bassifondi. 
+È uno dei principali testimoni dell'indagine e un importante collegamento tra gli omicidi, [[Grualk]] e la rete criminale costruita da [[Silke]]. 
+## Descrizione 
+Anziano artigiano specializzato nella lavorazione del vetro. 
+Agli occhi dei cittadini appare come un rispettabile imprenditore che offre lavoro ai ragazzi di strada. Dietro questa facciata si nasconde però un individuo crudele e manipolatore. 
+## Personalità 
+- Infido 
+- Opportunista 
+- Codardo 
+- Calcolatore 
+- Egoista 
+Yanis tende a presentarsi come una persona rispettabile e utile alla comunità, ma è pronto a mentire e sfruttare chiunque per proteggere sé stesso. 
+## Storia 
+Da anni accoglie giovani trovatelli presso la propria attività, sostenendo di voler offrire loro un futuro migliore. 
+In realtà sfrutta la propria posizione per abusare del potere che esercita sui ragazzi che lavorano e vivono nella vetreria. 
 Quando questi fatti rischiarono di essere scoperti, [[Zakara]] intervenne.
 Invece di denunciarlo, decise di sfruttare il segreto come strumento di ricatto.
 Da quel momento Yanis è diventato un collaboratore involontario della rete criminale che ruota attorno a [[Silke]].

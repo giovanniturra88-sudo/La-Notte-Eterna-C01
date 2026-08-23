@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Non lasciarti ingannare dall'apparenza vistosa di Hulbert; sotto i suoi abiti costosi si nasconde un abile spadaccino, sempre pronto a difendere l'onore della sua famiglia e a proteggere ciò che è in gioco, se la via diplomatica dovesse fallire. A differenza degli altri regnanti xaan che praticano la guerra come sport, il legittimo erede della Baronia di Mubunash, preferisce risolvere le divergenze con la parola invece della lama.

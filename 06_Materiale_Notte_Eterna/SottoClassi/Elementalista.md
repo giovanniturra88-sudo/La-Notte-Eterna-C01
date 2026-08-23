@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Sorcerer]]"
+ - "[[Sorcerer]]"
 spellcast_trait: Istinto (Instinct)
 Dominio:
-  - "[[Arcana]]"
-  - "[[MezzaNotte]]"
+ - "[[Arcana]]"
+ - "[[MezzaNotte]]"
 source: La Notte Eterna
 location:
-  - "[[Cenere di Lanie]]"
+ - "[[Cenere di Lanie]]"
 ---
 # Sottoclasse: Elementalista
 

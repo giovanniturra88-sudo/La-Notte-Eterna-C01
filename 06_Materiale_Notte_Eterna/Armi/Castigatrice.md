@@ -10,7 +10,7 @@ tier: 3
 tipo_danno: fisica
 tratto: strength
 type: 
-  - "[[Arma]]"
+ - "[[Arma]]"
 ---
 
 ### EFFETTO

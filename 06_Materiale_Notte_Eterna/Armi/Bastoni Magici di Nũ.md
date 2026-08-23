@@ -10,7 +10,7 @@ tier: 2
 tipo_danno: magica
 tratto: instinct
 type: 
-  - "[[Arma]]"
+ - "[[Arma]]"
 ---
 
 ### EFFETTO

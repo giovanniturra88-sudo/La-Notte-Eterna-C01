@@ -14,4 +14,4 @@ L'obiettivo di Moth Alghert, il leggendario investigatore intrappolato in questo
 
 - Una volta al giorno, il personaggio che indossa l'amuleto può ripetere un tiro su Investigare se sta analizzando una scena del crimine o sta cercando qualcuno o qualcosa seguendone le tracce. Il nuovo risultato deve essere mantenuto anche se è inferiore a quello precedente. 
 - Una volta al giorno, il personaggio che indossa l'amuleto può ripetere un tiro su Intuizione se sta parlando con qualcuno o qualcosa di sospetto o che suppone stia mentendo. Il nuovo risultato deve essere mantenuto anche se è inferiore a quello precedente.
-- La lente che compone l'amuleto è dotata dell'incantesimo Comprensione dei Linguaggi con la differenza che funziona solo sui testi scritti. La traduzione viene recitata a voce da Moth Algerth e viene udita solo dal possessore dell'amuleto.
+- La lente che compone l'amuleto è dotata dell'capacità magica Comprensione dei Linguaggi con la differenza che funziona solo sui testi scritti. La traduzione viene recitata a voce da Moth Algerth e viene udita solo dal possessore dell'amuleto.

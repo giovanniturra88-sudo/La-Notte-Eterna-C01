@@ -4,7 +4,7 @@ categoria: equipaggiamento
 original_name: "Corazza di Sputaveleno"
 tier: 3
 type: 
-  - "[[Armatura]]"
+ - "[[Armatura]]"
 ---
 
 # Corazza di Sputaveleno

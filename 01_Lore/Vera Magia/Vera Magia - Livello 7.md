@@ -58,8 +58,8 @@ Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vit
 **Benefici del Lascito:**
 * **Attacco di Fuoco:** Puoi effettuare un attacco magico (*Conoscenza* o *Presenza*) su un bersaglio a Zona Ravvicinata/Lontana. In caso di successo, infliggi **4d12 + Caratteristica** danni da Fuoco.
 * **Resistenza:** Ottieni **Resistenza** ai danni da Fuoco.
-* **Padronanza Piromantica:** Quando lanci un incantesimo che infligge danni da Fuoco, puoi ritirare un qualsiasi numero di dadi di danno (prendendo il secondo risultato). Inoltre, i tuoi attacchi di fuoco ignorano le Resistenze del bersaglio e dimezzano l'Immunità al Fuoco.
-* **Concentrazione Imperturbabile:** Non devi effettuare tiri di Reazione per mantenere la Concentrazione sugli incantesimi di fuoco quando subisci danni.
+* **Padronanza Piromantica:** Quando lanci un capacità magica che infligge danni da Fuoco, puoi ritirare un qualsiasi numero di dadi di danno (prendendo il secondo risultato). Inoltre, i tuoi attacchi di fuoco ignorano le Resistenze del bersaglio e dimezzano l'Immunità al Fuoco.
+* **mantenimento dell'effetto Imperturbabile:** Non devi effettuare tiri di Reazione per mantenere la mantenimento dell'effetto sugli incantesimi di fuoco quando subisci danni.
 
 ---
 

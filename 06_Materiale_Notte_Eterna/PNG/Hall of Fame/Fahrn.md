@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Fahrn non è sempre stato un druido votato al mantenimento dell'equilibrio naturale ad ogni costo.

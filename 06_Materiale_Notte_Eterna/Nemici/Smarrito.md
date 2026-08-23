@@ -1,7 +1,7 @@
 ---
 type:
-  - "[[Creatura]]"
-  - "[[Minion]]"
+ - "[[Creatura]]"
+ - "[[Minion]]"
 ---
 ## Smarrito
 * **Descrizione:** Anima errante di un viaggiatore perso nelle tenebre perpetue di Neir, ora guscio vuoto e spettrale.
@@ -10,7 +10,7 @@ type:
 * **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 12
 * **Punti Ferita:** 2 | **Stress:** 3
 * **Attacchi:**
-  * **Tocco Desolato:** +2 | Da Vicino | 1d6+2 Psichico
+ * **Tocco Desolato:** +2 | Da Vicino | 1d6+2 Psichico
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -24,5 +24,5 @@ stress: "3"
 esperienza: "+2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 12"
 attacchi:
-  - name: "Tocco Desolato"
-    desc: "**+2** | Da Vicino | **1d6+2** Psichico"
+ - name: "Tocco Desolato"
+ desc: "**+2** | Da Vicino | **1d6+2** Psichico"

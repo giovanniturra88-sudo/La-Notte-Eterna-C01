@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Rakilia è una gnoma dalla corporatura tonica e scattante. suoi capelli castano chiari sono legati in sottili trecce e i suoi occhi castani sono leggermente

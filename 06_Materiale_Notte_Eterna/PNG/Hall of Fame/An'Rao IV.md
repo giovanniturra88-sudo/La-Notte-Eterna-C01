@@ -1,8 +1,8 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 aliases:
-  - An'Rao
+ - An'Rao
 ---
 ![[an'rao_pic.png|700]]
 

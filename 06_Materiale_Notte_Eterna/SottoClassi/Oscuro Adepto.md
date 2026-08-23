@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Warlock]]"
+ - "[[Warlock]]"
 Dominio:
-  - "[[Terrore]]"
-  - "[[Grazia]]"
+ - "[[Terrore]]"
+ - "[[Grazia]]"
 spellcast_trait: Presenza (Presence)
 source: La Notte Eterna
 location:
-  - "[[Pianure di Xanesh]]"
-  - "[[Mubunash]]"
+ - "[[Pianure di Xanesh]]"
+ - "[[Mubunash]]"
 ---
 # Sottoclasse: Oscuro Adepto
 

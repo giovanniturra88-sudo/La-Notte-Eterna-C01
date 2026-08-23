@@ -1,8 +1,8 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-1
+ - incantesimi
+ - vera-magia
+ - livello-1
 ---
 
 # Vera Magia - Livello 1
@@ -11,7 +11,7 @@ tags:
 * **Livello:** 1
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Istinto o Conoscenza)
-* **Durata:** Scena / Fino a quando mantieni la Concentrazione
+* **Durata:** Scena / Fino a quando mantieni la mantenimento dell'effetto
 * **Gittata:** Vicino (Melee / Very Close / Close)
 
 Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zona a gittata **Molto Vicina**. Quando un avversario entra nell'area o vi inizia il proprio turno, effettua una prova contro la sua Soglia: infliggi `d8` danni Magici e la creatura subisce lo stato **Vulnerabile** finché rimane nella bruma.
@@ -25,7 +25,7 @@ Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zo
 * **Durata:** Istantaneo
 * **Gittata:** Lontano (Far)
 
-Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana** che colpisce automaticamente infliggendo `d10+4` danni Magici. Inoltre, l'impatto genera un'esplosione in un raggio **Molto Vicino**: le creature adiacenti devono superare un Tiro Salvezza su Agilità (Difficoltà 12) o subire `d6` danni Magici da forza.
+Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana** che colpisce automaticamente infliggendo `d10+4` danni Magici. Inoltre, l'impatto genera un'esplosione in un raggio **Molto Vicino**: le creature adiacenti devono superare un Tiro di Reazione di Agilità (Difficoltà 12) o subire `d6` danni Magici da forza.
 
 ---
 
@@ -44,7 +44,7 @@ Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la
 * **Livello:** 1
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Presenza o Istinto)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare una prova di *Presenza/Volontà* o subire `d6` danni da Stress e subire **Svantaggio** ai tiri per colpire nel suo prossimo turno.

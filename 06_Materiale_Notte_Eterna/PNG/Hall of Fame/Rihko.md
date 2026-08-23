@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Un cacciatore così abile tra i coboldi non si era mai visto prima della nascita di Rihko. Arciere letale e insidioso, Rihko sfrutta la propria conoscenza del territorio per tendere trappole e imboscate. 

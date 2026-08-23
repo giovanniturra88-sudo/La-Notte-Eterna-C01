@@ -1,18 +1,18 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Ranger]]"
-  - "[[Warrior]]"
-  - "[[Cacciatore delle Ombre]]"
+ - "[[Ranger]]"
+ - "[[Warrior]]"
+ - "[[Cacciatore delle Ombre]]"
 spellcast_trait: Istinto (Instinct)
 Dominio:
-  - "[[Ossa]]"
-  - "[[Saggio]]"
-  - "[[Lama]]"
+ - "[[Ossa]]"
+ - "[[Saggio]]"
+ - "[[Lama]]"
 source: La Notte Eterna
 location:
-  - "[[Landa di Edeber]]"
-  - "[[Azkabel]]"
+ - "[[Landa di Edeber]]"
+ - "[[Azkabel]]"
 ---
 
 # Sottoclasse: Lama di Dor
@@ -27,13 +27,13 @@ Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri
 ---
 
 ### Specializzazione
-**_Veloce come il Vento:_** Puoi effettuare l'azione di Scatto o Disingaggio utilizzando la tua azione bonus. Inoltre, la tua velocità di movimento aumenta permanentemente di +3 metri.
+**_Veloce come il Vento:_** Puoi effettuare l'azione di Scatto o Disingaggio utilizzando la tua. Inoltre, la tua velocità di movimento aumenta permanentemente di +3 metri.
 **_Cappa d'Ombra:_** Ottieni vantaggio raddoppiato su tutte le prove di Furtività.
 
 ---
 
 ### Maestria
-**_Campione degli Elfi:_** Quando effettui un'azione di Scatto o Disingaggio come azione bonus, puoi effettuare una singola weapon attack gratuita come parte dello stesso movimento. I tuoi colpi riusciti infliggono danni aggiuntivi pari al tuo modificatore di Istinto.
+**_Campione degli Elfi:_** Quando effettui un'azione di Scatto o Disingaggio come , puoi effettuare una singola weapon attack gratuita come parte dello stesso movimento. I tuoi colpi riusciti infliggono danni aggiuntivi pari al tuo modificatore di Istinto.
 
 ---
 

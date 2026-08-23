@@ -1,9 +1,9 @@
 ---
 tags:
-  - incantesimi
-  - vera-magia
-  - livello-3
-  - daggerheart
+ - incantesimi
+ - vera-magia
+ - livello-3
+ - daggerheart
 ---
 
 # Vera Magia - Livello 3
@@ -25,7 +25,7 @@ Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come
 * **Livello:** 3
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Istinto)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
 Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesantemente oscurata. Chiunque vi si trovi o vi entri deve superare una prova di *Forza/Costituzione* o subire `2d8` Danni da Freddo e subire lo stato **Bloccato/Immobilizzato** dalle lastre di ghiaccio fino a quando non impiega un'azione per liberarsi o subisce danni da fuoco.
@@ -58,7 +58,7 @@ Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro git
 * **Livello:** 3
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Conoscenza)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 * **Gittata:** Area Vicina (Close)
 
 Un'aura necromantica fa spuntare mani scheletriche dal terreno in un'area attorno a te. Chiunque non sia designato da te ed entri nell'area deve superare un tiro di *Agilità*: se fallisce subisce `2d10` Danni Necrotici ed è **Trattenuto**. All'inizio del proprio turno, una creatura trattenuta subisce nuovamente `2d10` Danni Necrotici.

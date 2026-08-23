@@ -1,8 +1,8 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 aliases:
-  - Énuas
+ - Énuas
 ---
 ![[Pasted image 20260712154847.png|700]]
 

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 # EDEBER L'ESPLORATORE
 *Il Guardiano delle Lande Oscure*
@@ -13,23 +13,23 @@ Edeber è un ranger impavido che ha dedicato la sua vita a mappare le infide Ter
 
 ### **STATISTICHE E CAPACITÀ (5e)**
 
-**EDEBER L'ESPLORATORE**  
-*Umanoide (Elfo), Caotico Buono*  
+**EDEBER L'ESPLORATORE** 
+*Umanoide (Elfo), Caotico Buono* 
 
-- **Classe Armatura:** 17 (Corazza di Cuoio Bugnato, Destrezza)  
-- **Punti Ferita:** 110 (14d10 + 33)  
-- **Velocità:** 10,5 m  
+- **Evasione:** 17 (Corazza di Cuoio Bugnato, Destrezza) 
+- **Punti Ferita:** 110 (14d10 + 33) 
+- **Velocità:** 10,5 m 
 
 | FOR | DES | COS | INT | SAG | CAR |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 14 (+2) | 20 (+5) | 15 (+2) | 14 (+2) | 18 (+4) | 10 (+0) |
 
-- **Tiri Salvezza:** Destrezza +9, Saggezza +8  
-- **Abilità:** Furtività +13, Percezione +12, Sopravvivenza +12, Natura +6  
+- **Tiri Salvezza:** Destrezza +9, Saggezza +8 
+- **Abilità:** Furtività +13, Percezione +12, Sopravvivenza +12, Natura +6 
 - **Resistenze al Danno:** Veleno
-- **Sensi:** Scurovisione 36 m, Percezione Passiva 22  
-- **Linguaggi:** Comune, Elfico, Silvano, Utente dei Segni  
-- **Grado Sfida:** 10 (5.900 PE)  
+- **Sensi:** Scurovisione 36 m, Percezione Passiva 22 
+- **Linguaggi:** Comune, Elfico, Silvano, Utente dei Segni 
+- **Grado Sfida:** 10 (5.900 PE) 
 
 ---
 

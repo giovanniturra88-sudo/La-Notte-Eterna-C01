@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 # MENDULIA
 *La Sacerdotessa della Luce Perduta*
@@ -13,23 +13,23 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota devota all'anti
 
 ### **STATISTICHE E CAPACITÀ (5e)**
 
-**MENDULIA**  
-*Umanoide (Umano), Legale Buono*  
+**MENDULIA** 
+*Umanoide (Umano), Legale Buono* 
 
-- **Classe Armatura:** 18 (Corazza di Piastre Radiosa)  
-- **Punti Ferita:** 117 (18d8 + 36)  
-- **Velocità:** 9 m  
+- **Evasione:** 18 (Corazza di Piastre Radiosa) 
+- **Punti Ferita:** 117 (18d8 + 36) 
+- **Velocità:** 9 m 
 
 | FOR | DES | COS | INT | SAG | CAR |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 12 (+1) | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 18 (+4) |
 
-- **Tiri Salvezza:** Saggezza +9, Carisma +8  
-- **Abilità:** Medicina +9, Religione +5, Persuasione +8  
+- **Tiri Salvezza:** Saggezza +9, Carisma +8 
+- **Abilità:** Medicina +9, Religione +5, Persuasione +8 
 - **Immunità al Danno / Condizioni:** Radiante
-- **Sensi:** Percezione Passiva 15  
-- **Linguaggi:** Comune, Celestiale  
-- **Grado Sfida:** 10 (5.900 PE)  
+- **Sensi:** Percezione Passiva 15 
+- **Linguaggi:** Comune, Celestiale 
+- **Grado Sfida:** 10 (5.900 PE) 
 
 ---
 
@@ -39,7 +39,7 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota devota all'anti
 
 #### **AZIONI**
 - **Mazza Radiosa:** Attacco con Arma da Mischia: +5 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 4 (1d6 + 1) danni contundenti più 11 (3d6) danni radianti.
-- **Scacciare Abomini (3/Giorno):** Mendulia mostra il suo simbolo sacro. Ogni non morto o immondo entro 9 m deve superare un tiro salvezza su Saggezza CD 17 o essere scacciato o distrutto se con GS pari o inferiore a 2.
+- **Scacciare Abomini (3/Giorno):** Mendulia mostra il suo simbolo sacro. Ogni non morto o immondo entro 9 m deve superare un Tiro di Reazione di Istinto Difficoltà 17 o essere scacciato o distrutto se con Tier pari o inferiore a 2.
 
 #### **REAZIONI**
 - **Intercessione Divina:** Quando un alleato entro 9 m subisce danni, Mendulia riduce quel danno di 15 (3d10) ponendosi come scudo spirituale.

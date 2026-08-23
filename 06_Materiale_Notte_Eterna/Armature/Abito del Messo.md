@@ -1,11 +1,11 @@
 ---
 alias:
-  - Abito del Messo
+ - Abito del Messo
 categoria: equipaggiamento
 original_name: Abito del Messo
 tier: 2
 type:
-  - "[[Armatura]]"
+ - "[[Armatura]]"
 ---
 
 # Abito del Messo

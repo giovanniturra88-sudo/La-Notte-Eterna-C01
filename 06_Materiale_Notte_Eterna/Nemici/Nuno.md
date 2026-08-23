@@ -1,7 +1,7 @@
 ---
 type:
-  - "[[Creatura]]"
-  - "[[Supporto]]"
+ - "[[Creatura]]"
+ - "[[Supporto]]"
 ---
 ## Nuno
 * **Descrizione:** Piccolo e burbero spirito della terra che dimora nei monticoli e punisce chi calpesta la sua dimora senza rispetto.
@@ -10,9 +10,9 @@ type:
 * **Soglie di Danno:** Minore: 5 | Maggiore: 10 | Grave: 16
 * **Punti Ferita:** 3 | **Stress:** 4
 * **Attacchi:**
-  * **Scossa di Terra:** +2 | Da Vicino | 1d8+3 Contundente
+ * **Scossa di Terra:** +2 | Da Vicino | 1d8+3 Contundente
 * **Tratti e Capacità:**
-  * **Fattura del Nuno (1 Stress):** Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato.
+ * **Fattura del Nuno (1 Stress):** Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -26,9 +26,9 @@ stress: "4"
 esperienza: "+3"
 soglia_danni: "Minore: 5 | Maggiore: 10 | Grave: 16"
 attacchi:
-  - name: "Scossa di Terra"
-    desc: "**+2** | Da Vicino | **1d8+3** Contundente"
+ - name: "Scossa di Terra"
+ desc: "**+2** | Da Vicino | **1d8+3** Contundente"
 tratti:
-  - name: "Fattura del Nuno"
-    desc: "Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato (1 Stress)."
+ - name: "Fattura del Nuno"
+ desc: "Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato (1 Stress)."
 ```

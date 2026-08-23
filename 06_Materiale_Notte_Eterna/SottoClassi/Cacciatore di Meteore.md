@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Sorcerer]]"
+ - "[[Sorcerer]]"
 Dominio:
-  - "[[Arcana]]"
-  - "[[MezzaNotte]]"
+ - "[[Arcana]]"
+ - "[[MezzaNotte]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
 location:
-  - "[[Cenere di Lanie]]"
-  - "[[Cratere di Lava]]"
+ - "[[Cenere di Lanie]]"
+ - "[[Cratere di Lava]]"
 ---
 
 # I Cacciatori di Meteore
@@ -19,7 +19,7 @@ I Cacciatori di Meteore sono studiosi, esploratori e astronomi ossessionati dall
 ## Caratteristiche di Fondazione
 
 ### Sintonia Celeste
-Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando lanci un incantesimo dello Stregone che infligge danni magici, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso o Forza**. Quando lo fai, aggiungi al danno un dado extra pari al valore del tuo dado di **Proficienza**.
+Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando lanci un capacità magica dello Stregone che infligge danni magici, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso o Forza**. Quando lo fai, aggiungi al danno un dado extra pari al valore del tuo dado di **Proficienza**.
 
 ## Caratteristiche di Specializzazione
 

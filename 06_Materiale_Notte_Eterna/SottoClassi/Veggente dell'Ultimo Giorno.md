@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Cacciatore delle Ombre]]"
+ - "[[Cacciatore delle Ombre]]"
 Dominio:
-  - "[[MezzaNotte]]"
-  - "[[Saggio]]"
+ - "[[MezzaNotte]]"
+ - "[[Saggio]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
 location:
-  - "[[Oasi di Zey]]"
+ - "[[Oasi di Zey]]"
 ---
 
 # Sottoclasse: Veggente dell'Ultimo Giorno
@@ -24,7 +24,7 @@ Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marzia
 
 ### Specializzazione
 **_Previsione Accurata:_** Quando utilizzi un Dado del Destino, puoi scegliere di fornire vantaggio a un tiro che effettuerai nelle prossime 24 ore.
-**_Futuro Malleabile:_** Come azione bonus, spendi un Dado del Destino per imporre svantaggio a tutti i tiri per colpire effettuati contro di te fino alla fine del tuo prossimo turno.
+**_Futuro Malleabile:_** Come , spendi un Dado del Destino per imporre svantaggio a tutti i tiri per colpire effettuati contro di te fino alla fine del tuo prossimo turno.
 
 ---
 

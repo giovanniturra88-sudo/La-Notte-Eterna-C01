@@ -1,19 +1,19 @@
 ---
 type:
-  - Sottoclasse
+ - Sottoclasse
 classe:
-  - "[[Wizard]]"
+ - "[[Wizard]]"
 spellcast_trait: Conoscenza
 Dominio:
-  - "[[Codice]]"
-  - "[[Lama]]"
-  - "[[Ossa]]"
-  - "[[Splendore]]"
+ - "[[Codice]]"
+ - "[[Lama]]"
+ - "[[Ossa]]"
+ - "[[Splendore]]"
 source: La Notte Eterna
 location:
-  - "[[Mubunash]]"
-  - "[[Ducato di Öuin]]"
-  - "[[Vetta delle Anime]]"
+ - "[[Mubunash]]"
+ - "[[Ducato di Öuin]]"
+ - "[[Vetta delle Anime]]"
 ---
 
 # Sottoclasse: Cavaliere di Kurash
@@ -23,7 +23,7 @@ Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'
 ---
 
 ### Fondazione
-**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di Incantesimo invece di Forza, infliggendo 1d10 danni da Forza. Puoi farla scomparire e ricomparire come azione gratuita.
+**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di capacità magica invece di Forza, infliggendo 1d10 danni da Forza. Puoi farla scomparire e ricomparire come azione gratuita.
 
 ---
 

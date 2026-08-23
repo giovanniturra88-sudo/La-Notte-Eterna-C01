@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 
 Le persone che hanno visto Sagister in volto si contano sulla punta delle dita: sua madre ormai decrepita e un suo allievo troppo ambizioso che da anni langue in una prigione illusoria e nella quale ha perduto il lume della ragione.

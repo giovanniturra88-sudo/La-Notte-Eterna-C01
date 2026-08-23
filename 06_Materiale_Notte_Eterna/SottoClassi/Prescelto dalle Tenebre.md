@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Assassin]]"
+ - "[[Assassin]]"
 Dominio:
-  - "[[Lama]]"
-  - "[[MezzaNotte]]"
+ - "[[Lama]]"
+ - "[[MezzaNotte]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
 location:
-  - "[[Gloriosa Ezakran|Ezakran]]"
-  - "[[Impero delle Terre Nascoste]]"
+ - "[[Gloriosa Ezakran|Ezakran]]"
+ - "[[Impero delle Terre Nascoste]]"
 ---
 # Sottoclasse: Prescelto dalle Tenebre
 

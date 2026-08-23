@@ -2,13 +2,13 @@
 type: Sottoclasse
 classe: "[[Blood Hunter]]"
 Dominio:
-  - "[[Sangue]]"
-  - "[[Ossa]]"
+ - "[[Sangue]]"
+ - "[[Ossa]]"
 spellcast_trait: Presenza (Presence) o Istinto (Instinct)
 source: La Notte Eterna
 location:
-  - "[[I Bianchi Sepolcri]]"
-  - "[[Principato di Darkflame]]"
+ - "[[I Bianchi Sepolcri]]"
+ - "[[Principato di Darkflame]]"
 ---
 # Sottoclasse: Triste Mietitore
 

@@ -1,15 +1,15 @@
 ---
 type: Sottoclasse
 classe:
-  - "[[Wizard]]"
-  - "[[Bard]]"
+ - "[[Wizard]]"
+ - "[[Bard]]"
 Dominio:
-  - "[[Codice]]"
-  - "[[Splendore]]"
+ - "[[Codice]]"
+ - "[[Splendore]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
 location:
-  - "[[Mubunash]]"
+ - "[[Mubunash]]"
 ---
 # Gli Archivisti di Mubunash
 

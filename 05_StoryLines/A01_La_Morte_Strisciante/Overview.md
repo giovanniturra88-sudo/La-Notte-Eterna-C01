@@ -3,7 +3,7 @@ type: Storyline
 status: Canonica
 livello_consigliato: 1-3
 ambientazione:
-  - "[[Mendulia's Rock]]"
+ - "[[Mendulia's Rock]]"
 ---
 
 # La Morte Strisciante
@@ -34,8 +34,8 @@ Una serie di omicidi apparentemente scollegati sconvolge i Bassifondi di [[Mendu
 - [[S07 - Sezione LVI e Manicomio]]
 - [[S08 - Covo di Silke]]
 
-## Epilogo  
-Dopo la sconfitta di [[Silke]] e la scoperta del tradimento di [[Zakara]], gli avventurieri ricevono la ricompensa promessa dal [[Procurator Alexis]].  
-Alexis, profondamente colpito dagli eventi, decide di ritirarsi dal servizio e lasciare [[Mendulia's Rock]].  
-Le prove recuperate nel covo della necromante rivelano inoltre possibili collegamenti tra [[Wonderrod]] e infiltrazioni necromantiche nei Bassifondi.  
+## Epilogo 
+Dopo la sconfitta di [[Silke]] e la scoperta del tradimento di [[Zakara]], gli avventurieri ricevono la ricompensa promessa dal [[Procurator Alexis]]. 
+Alexis, profondamente colpito dagli eventi, decide di ritirarsi dal servizio e lasciare [[Mendulia's Rock]]. 
+Le prove recuperate nel covo della necromante rivelano inoltre possibili collegamenti tra [[Wonderrod]] e infiltrazioni necromantiche nei Bassifondi. 
 Questi eventi aprono la strada a nuove indagini e future storyline.

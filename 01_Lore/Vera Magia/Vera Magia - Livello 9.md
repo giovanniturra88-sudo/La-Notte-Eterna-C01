@@ -9,12 +9,12 @@
 * **Gittata:** Regione / Mappa Intera
 * **Durata:** Istantanea
 
-Il rituale supremo della distruzione. Reciti l'incantesimo da una pergamena antica per un mese ininterrotto. Al completamento, il cielo si oscura e una pioggia di meteoriti catastrofica si abbatte sull'area.
+Il rituale supremo della distruzione. Reciti l'capacità magica da una pergamena antica per un mese ininterrotto. Al completamento, il cielo si oscura e una pioggia di meteoriti catastrofica si abbatte sull'area.
 
-* **Convocazione:** L'incantesimo evoca **3d12 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
+* **Convocazione:** L'capacità magica evoca **3d12 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
 * **Prezzo della Magia:** Al termine del lancio, effettua un **Tiro di Reazione su Vigore con Difficoltà 20**:
-  * **Successo:** Subisci **5 punti Stress** ed entri nello stato **Vulnerabile**.
-  * **Fallimento:** Il tuo corpo non regge il potere arcano: subisci la **Morte Istantanea** (o vai direttamente al Tiro di Morte con Svantaggio).
+ * **Successo:** Subisci **5 Punti Stress** ed entri nello stato **Vulnerabile**.
+ * **Fallimento:** Il tuo corpo non regge il potere arcano: subisci la **Morte Istantanea** (o vai direttamente al Tiro di Morte con Svantaggio).
 
 ---
 
@@ -61,7 +61,7 @@ Sigilli la tua anima e la tua forza vitale all'interno di un reliquiario, anello
 
 * **Eternità:** Smetti di invecchiare, sei del tutto immune a Malattie e Veleni, e non puoi morire a causa dell'accumulo di Stress o Ferite standard.
 * **Tenacia Infrangibile:** Quando i tuoi Slot Ferita si riempiono completamente (arrivi a 0 HP), **non svieni e non muori**. Continui ad agire normalmente, ma tutti i tuoi tiri hanno **Svantaggio** finché non segni almeno un recupero.
-* **Vulnerabilità dell'Ancora:** Se l'oggetto/luogo che contiene il tuo sigillo viene distrutto, muori all'istante ovunque tu ti trovi. Subire un ammontare di danni massiccio in un singolo colpo (pari al doppio dei tuoi punti ferita massimi) distrugge la forma fisica uccidendoti definitivamente.
+* **Vulnerabilità dell'Ancora:** Se l'oggetto/luogo che contiene il tuo sigillo viene distrutto, muori all'istante ovunque tu ti trovi. Subire un ammontare di danni massiccio in un singolo colpo (pari al doppio dei tuoi Punti Ferita massimi) distrugge la forma fisica uccidendoti definitivamente.
 
 ---
 
@@ -70,10 +70,10 @@ Sigilli la tua anima e la tua forza vitale all'interno di un reliquiario, anello
 * **Requisiti:** Livello 9 | Costo: 4 Speranza
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Regione intera (3 km)
-* **Durata:** Concentrazione
+* **Durata:** mantenimento dell'effetto
 
 Evochi una tempesta catastrofica di vento, pioggia e fulmini che copre un'intera area geografica.
 
 * **Effetto d'Ambiente:** Le creature a terra vedono il loro Movimento dimezzato. Il volo non magico è impossibile. Tutti gli attacchi a distanza e le prove di Percezione subiscono **Svantaggio**.
-* **Raffica Devastante (Azione Bonus):** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione su Vigore (Difficoltà 18)** o essere spinta indietro e cadere **Prona**. Se impatta un ostacolo, subisce **6d6 Danni Fisici**.
-* **Invocare il Fulmine (Azione Bonus, 1/Scena o Turno):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione su Agilità (Difficoltà 18)** o subire **10d6 Danni da Fulmine** (metà danno se superano la prova).
+* **Raffica Devastante ():** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione su Vigore (Difficoltà 18)** o essere spinta indietro e cadere **Prona**. Se impatta un ostacolo, subisce **6d6 Danni Fisici**.
+* **Invocare il Fulmine (, 1/Scena o Turno):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione su Agilità (Difficoltà 18)** o subire **10d6 Danni da Fulmine** (metà danno se superano la prova).

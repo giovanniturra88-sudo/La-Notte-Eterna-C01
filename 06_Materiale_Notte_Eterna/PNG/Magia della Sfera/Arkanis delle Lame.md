@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[PNG]]"
+ - "[[PNG]]"
 ---
 # ARKANIS DELLE LAME
 *Eroe Leggendario di Neir*
@@ -13,24 +13,24 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 
 ### **STATISTICHE E CAPACITÀ (5e)**
 
-**ARKANIS DELLE LAME**  
-*Umanoide (Umano), Legale Buono*  
+**ARKANIS DELLE LAME** 
+*Umanoide (Umano), Legale Buono* 
 
-- **Classe Armatura:** 19 (Giaco di Maglia Perfetto, Maestro del Duello)  
-- **Punti Ferita:** 142 (15d10 + 60)  
-- **Velocità:** 9 m  
+- **Evasione:** 19 (Giaco di Maglia Perfetto, Maestro del Duello) 
+- **Punti Ferita:** 142 (15d10 + 60) 
+- **Velocità:** 9 m 
 
 | FOR | DES | COS | INT | SAG | CAR |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 16 (+3) | 20 (+5) | 18 (+4) | 12 (+1) | 14 (+2) | 15 (+2) |
 
-- **Tiri Salvezza:** Destrezza +9, Costituzione +8, Saggezza +6  
-- **Abilità:** Acrobazia +9, Atletica +7, Intimidire +6, Percezione +6  
+- **Tiri Salvezza:** Destrezza +9, Costituzione +8, Saggezza +6 
+- **Abilità:** Acrobazia +9, Atletica +7, Intimidire +6, Percezione +6 
 - **Resistenze al Danno:** Danni contundenti, perforanti e taglienti da armi non magiche
 - **Immunità al Danno / Condizioni:** Spaventato
-- **Sensi:** Scurovisione 18 m, Percezione Passiva 16  
-- **Linguaggi:** Comune, Elfico, Nanico  
-- **Grado Sfida:** 12 (8.400 PE)  
+- **Sensi:** Scurovisione 18 m, Percezione Passiva 16 
+- **Linguaggi:** Comune, Elfico, Nanico 
+- **Grado Sfida:** 12 (8.400 PE) 
 
 ---
 
@@ -41,7 +41,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 #### **AZIONI**
 - **Multiattacco:** Arkanis effettua tre attacchi con le sue Lame Dancanti.
 - **Lama Danzante:** Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 11 (1d8 + 7) danni taglienti più 4 (1d8) danni radianti.
-- **Furia di Lame (Ricarica 5-6):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m da lui deve effettuare un tiro salvezza su Destrezza con CD 17, subendo 36 (8d8) danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
+- **Furia di Lame (Ricarica 5-6):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m da lui deve effettuare un Tiro di Reazione di Agilità con Difficoltà 17, subendo 36 (8d8) danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
 
 #### **REAZIONI**
 - **Parata:** Arkanis aggiunge 4 alla sua CA contro un attacco da mischia che lo colpirebbe. Per farlo, deve vedere l'attaccante e impugnare un'arma da mischia.

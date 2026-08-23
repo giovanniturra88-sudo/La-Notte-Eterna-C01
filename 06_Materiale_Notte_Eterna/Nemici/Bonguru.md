@@ -1,7 +1,7 @@
 ---
 type:
-  - "[[Creatura]]"
-  - "[[Picchiatore]]"
+ - "[[Creatura]]"
+ - "[[Picchiatore]]"
 ---
 ## Bonguru
 * **Descrizione:** Cinghiale deformato dalla magia della meteora, con tre teste sovrapposte, funghi tossici sul dorso e nidi di calabroni giganti tra le piaghe.
@@ -10,11 +10,11 @@ type:
 * **Soglie di Danno:** Minore: 11 | Maggiore: 22 | Grave: 34
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Attacchi:**
-  * **Zanne Feroci:** +4 | Da Vicino | 2d8+6 Tagliente
-  * **Pestone Sanguinario:** +3 | Da Vicino | 2d6+5 Contundente
+ * **Zanne Feroci:** +4 | Da Vicino | 2d8+6 Tagliente
+ * **Pestone Sanguinario:** +3 | Da Vicino | 2d6+5 Contundente
 * **Tratti e Capacità:**
-  * **Alone di Insetti (1 Stress):** Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce 1d8 danni da Veleno automatici.
-  * **Tenacia Mortale:** Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere.
+ * **Alone di Insetti (1 Stress):** Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce 1d8 danni da Veleno automatici.
+ * **Tenacia Mortale:** Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -28,13 +28,13 @@ stress: "4"
 esperienza: "+3"
 soglia_danni: "Minore: 11 | Maggiore: 22 | Grave: 34"
 attacchi:
-  - name: "Zanne Feroci"
-    desc: "**+4** | Da Vicino | **2d8+6** Tagliente"
-  - name: "Pestone Sanguinario"
-    desc: "**+3** | Da Vicino | **2d6+5** Contundente"
+ - name: "Zanne Feroci"
+ desc: "**+4** | Da Vicino | **2d8+6** Tagliente"
+ - name: "Pestone Sanguinario"
+ desc: "**+3** | Da Vicino | **2d6+5** Contundente"
 tratti:
-  - name: "Alone di Insetti"
-    desc: "*(Costo: 1 Stress)* Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce **1d8** danni da Veleno automatici."
-  - name: "Tenacia Mortale"
-    desc: "Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere."
+ - name: "Alone di Insetti"
+ desc: "*(Costo: 1 Stress)* Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce **1d8** danni da Veleno automatici."
+ - name: "Tenacia Mortale"
+ desc: "Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere."
 ```
