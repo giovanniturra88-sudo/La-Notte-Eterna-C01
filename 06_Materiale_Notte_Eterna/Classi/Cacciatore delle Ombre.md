@@ -33,7 +33,7 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 Spendi un punto Speranza ed effettua un attacco contro un bersaglio che si trova in condizioni di luce fioca o oscurità. In caso di successo, infliggi il danno normale dell'arma e rendi temporaneamente quel bersaglio il tuo **Focus**. 
 Finché questa caratteristica rimane attiva o finché non marchi un altro Focus, ottieni i seguenti benefici:
 * **Sguardo Penetrante:** Conosci sempre l'esatta posizione del tuo Focus, anche se si nasconde dietro coperture totali, muri o se diventa invisibile.
-* **Tormento del Fato:** Ogni volta che infliggi danno al tuo Focus, questi deve marcare immediatamente **1 Stress** a causa del terrore psicologico che gli incuti.
+* **Tormento del Fato:** Una volta per turno, quando infliggi danno al tuo Focus, questi deve marcare immediatamente **1 Stress** a causa del terrore psicologico che gli incuti.
 * **Ineluttabilità:** Se fallisci un tiro di attacco contro il tuo Focus, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi della Dualità.
 
 ## Passo Silenzioso (Shadow Stride)

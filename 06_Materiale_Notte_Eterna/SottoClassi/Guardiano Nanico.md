@@ -17,9 +17,9 @@ Ranger nani specializzati nel depistaggio non letale e nell'uso di illusioni mon
 
 ### Fondazione
 **_Munizioni di Depistaggio:_** Durante un riposo breve o lungo, puoi preparare 3 frecce speciali. Quando attacchi, spendi una freccia per scatenare un effetto (non infligge danni):
-- **Spettrale**: Bersagli entro portata Molto Vicina devono superare un TS Istinto o essere Spaventati.
-- **Luminosa**: Bersagli entro Close range devono superare un TS Costituzione o essere Accecati.
-- **Stordente**: Bersagli entro Close range devono superare un TS Costituzione o essere Assordati.
+- **Spettrale**: Bersagli entro portata Molto Vicina devono superare un TS Istinto o essere Spaventati per 1 round.
+- **Luminosa**: Bersagli entro Close range devono superare un TS Costituzione o essere Accecati per 1 round.
+- **Stordente**: Bersagli entro Close range devono superare un TS Costituzione o essere Assordati per 1 round.
 
 ---
 

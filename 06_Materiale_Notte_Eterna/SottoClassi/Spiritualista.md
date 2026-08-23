@@ -23,7 +23,7 @@ Necromanti sopravvissuti a potenti ed empi esperimenti necromantici, in grado di
 ---
 
 ### Specializzazione
-**_Unione con i Morti:_** Come azione, spendi 2 Punti Spirito per diventare temporaneamente incorporeo per 1 round. Puoi passare attraverso i muri e ottieni resistenza totale a tutti i danni fisici.
+**_Unione con i Morti:_** Come azione, spendi 2 Punti Spirito per diventare temporaneamente incorporeo per 1 round. Puoi passare attraverso i muri e ottieni resistenza a tutti i danni fisici.
 **_Medium:_** Hai vantaggio permanente su tutte le prove di abilità o conoscenza in cui non sei addestrato.
 
 ---

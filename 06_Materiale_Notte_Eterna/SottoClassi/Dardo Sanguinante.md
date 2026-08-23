@@ -17,7 +17,7 @@ I Dardi Sanguinanti sono la più potente e temuta gilda malavitosa che estende i
 ## Caratteristiche di Fondazione
 
 ### Tatuaggio di Sangue
-La ferita rituale della gilda pulsa di un'energia magica e viscerale. Quando metti a segno un **Attacco Furtivo (Sneak Attack)** con successo, puoi scegliere di spendere **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni suo turno, una creatura Sanguinante subisce 1d6 danni fisici diretti per Tier finché essa o un alleato entro portata di mischia non spendono un'azione per tamponare e medicare la ferita.
+La ferita rituale della gilda pulsa di un'energia magica e viscerale. Quando metti a segno un **Attacco Furtivo (Sneak Attack)** con successo, puoi scegliere di spendere **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni suo turno, una creatura Sanguinante subisce 1d6 danni fisici diretti finché essa o un alleato entro portata di mischia non spendono un'azione per tamponare e medicare la ferita.
 
 ## Caratteristiche di Specializzazione
 

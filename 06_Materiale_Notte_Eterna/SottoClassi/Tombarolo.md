@@ -28,7 +28,7 @@ Ladri specializzati nell'esplorazione e nel saccheggio di antiche necropoli, cap
 ---
 
 ### Maestria
-**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Vicina deve effettuare un TS Destrezza; in caso di fallimento, subisce 6d10 danni necrotici ed è avvelenata per 1 minuto.
+**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Vicina deve effettuare un TS Destrezza; in caso di fallimento, subisce 4d10 danni necrotici ed è avvelenata per 1 minuto.
 
 ---
 

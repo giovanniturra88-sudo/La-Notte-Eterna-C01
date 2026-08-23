@@ -33,7 +33,7 @@ La musica proibita non è scritta su nessun spartito accademico, ma viene sussur
 ---
 
 ### Maestria
-**_Alzati e Cammina:_** Il tuo controllo sulla morte è assoluto. Quando metti a segno un *Successo Critico* con un attacco o sconfiggi personalmente un avversario rilevante, puoi spendere **3 Speranza** per consumare completamente la sua forza vitale. Il suo corpo si rianima immediatamente sotto forma di **Scheletro d'Élite** sotto il tuo controllo permanente (fino a un massimo di 4 scheletri contemporaneamente). Nel tuo turno, puoi spendere un'azione per comandare mentalmente a tutti i tuoi scheletri attivi di attaccare o spostarsi. Inoltre, quando subisci danno Maggiore o superiore, puoi spendere la tua reazione per far sì che uno dei tuoi scheletri si frapponga, distruggendosi ma riducendo il danno subito a zero.
+**_Alzati e Cammina:_** Il tuo controllo sulla morte è assoluto. Quando metti a segno un *Successo Critico* con un attacco o sconfiggi personalmente un avversario rilevante, puoi spendere **3 Speranza** per consumare completamente la sua forza vitale. Il suo corpo si rianima immediatamente sotto forma di **Scheletro d'Élite** sotto il tuo controllo permanente (fino a un massimo di 4 scheletri contemporaneamente). Nel tuo turno, puoi spendere un'azione per comandare mentalmente a tutti i tuoi scheletri attivi di attaccare o spostarsi. Inoltre, quando subisci danno Maggiore o superiore, puoi spendere la tua reazione per far sì che uno dei tuoi scheletri si frapponga, distruggendosi ma riducendo di 1 il numero di Punti Ferita marcati.
 
 ---
 
