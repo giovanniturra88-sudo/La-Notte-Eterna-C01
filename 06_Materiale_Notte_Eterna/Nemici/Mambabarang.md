@@ -27,11 +27,11 @@ stress: "6"
 esperienza: "+4"
 soglia_danni: "Minore: 10 | Maggiore: 20 | Grave: 32"
 attacchi:
- - name: "Bastone Maledetto"
- desc: "**+3** | Da Vicino | **2d6+4** Necrotico"
- - name: "Sciame di Insetti"
- desc: "**+4** | Media | **3d6+5** Veleno"
+  - name: "Bastone Maledetto"
+    desc: "**+3** | Da Vicino | **2d6+4** Necrotico"
+  - name: "Sciame di Insetti"
+    desc: "**+4** | Media | **3d6+5** Veleno"
 tratti:
- - name: "Maledizione dei Parassiti"
- desc: "Il bersaglio subisce danni prolungati e lo stato Indebolito (1 Paura)."
+  - name: "Maledizione dei Parassiti"
+    desc: "Il bersaglio subisce danni prolungati e lo stato Indebolito (1 Paura)."
 ```

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Vial_of_Featherfall"]
 rarity: "Comune"
 original_rarity: "Common"

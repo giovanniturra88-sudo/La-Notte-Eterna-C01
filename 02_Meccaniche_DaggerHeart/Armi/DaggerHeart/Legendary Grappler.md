@@ -8,7 +8,7 @@ original_name: "Legendary Grappler"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

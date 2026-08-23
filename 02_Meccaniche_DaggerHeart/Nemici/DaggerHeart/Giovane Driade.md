@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 2
 * **Esperienza:** Comando +3
 * **Attacchi:**
-  * **Falce:** +0 | Da Vicino | 1d8+5 fisico
+ * **Falce:** +0 | Da Vicino | 1d8+5 fisico
 * **Tratti e Capacità:**
-  * **Voce della Foresta - Azione:** **Segnare uno Stress** per mettere a fuoco **1d4** alleati entro portata di un bersaglio che possono attaccare senza muoversi. In caso di successo, i loro attacchi infliggono danni dimezzati.
-  * **Gabbia di Spine - Azione:** **Spendere una Paura** per formare una gabbia intorno a un bersaglio entro portata Molto Vicina e renderlo _Ristretto_ fino a quando non si libera con un successo in un Tiro di Forza. Quando una creatura effettua un tiro d'azione contro la gabbia, deve segnare uno Stress.
-  * **Impeto - Reazione:** Quando la Driade effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Voce della Foresta - Azione:** **Segnare uno Stress** per mettere a fuoco **1d4** alleati entro portata di un bersaglio che possono attaccare senza muoversi. In caso di successo, i loro attacchi infliggono danni dimezzati.
+ * **Gabbia di Spine - Azione:** **Spendere una Paura** per formare una gabbia intorno a un bersaglio entro portata Molto Vicina e renderlo _Ristretto_ fino a quando non si libera con un successo in un Tiro di Forza. Quando una creatura effettua un tiro d'azione contro la gabbia, deve segnare uno Stress.
+ * **Impeto - Reazione:** Quando la Driade effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

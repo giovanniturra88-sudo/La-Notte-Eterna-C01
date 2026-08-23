@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Conoscenza Locale +2
 * **Attacchi:**
-  * **Giavellotto:** +2 | Vicina | 1d8+3 fisico
+ * **Giavellotto:** +2 | Vicina | 1d8+3 fisico
 * **Tratti e Capacità:**
-  * **Tattico - Azione:** Quando metti a fuoco il Tenente, **Segnare uno Stress** per mettere a fuoco anche due alleati in portata Vicina.
-  * **Altri Come Lui - Azione:** Evoca tre Servitori della Lama Seghettata, che appaiono in portata Lontana.
-  * **Colpo di Grazia - Azione:** **Spendere una Paura** per effettuare un attacco contro un bersaglio _Vulnerabile_ in portata Vicina. In caso di successo, infliggi **2d6+12** danni fisici e il bersaglio deve segnare uno Stress.
-  * **Impulso - Reazione:** Quando il Tenente effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Tattico - Azione:** Quando metti a fuoco il Tenente, **Segnare uno Stress** per mettere a fuoco anche due alleati in portata Vicina.
+ * **Altri Come Lui - Azione:** Evoca tre Servitori della Lama Seghettata, che appaiono in portata Lontana.
+ * **Colpo di Grazia - Azione:** **Spendere una Paura** per effettuare un attacco contro un bersaglio _Vulnerabile_ in portata Vicina. In caso di successo, infliggi **2d6+12** danni fisici e il bersaglio deve segnare uno Stress.
+ * **Impulso - Reazione:** Quando il Tenente effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

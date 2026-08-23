@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Capo]]"
+aliases:
+ - "Berserker Alpha"
 ---
 
 ## Berserker Alfa
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Caccia +3, Senso Acuto +2
 * **Attacchi:**
-  * **Denti e Artigli:** +3 | Da Vicino | 2d10+2 fisico
+ * **Denti e Artigli:** +3 | Da Vicino | 2d10+2 fisico
 * **Tratti e Capacità:**
-  * **Furia del Branco - Passiva:** L'Alfa guadagna un bonus di +1 ai tiri d'attacco per ogni alleato entro portata Molto Vicina del bersaglio del suo attacco.
-  * **Ululare alla Luna - Azione:** Una volta per scena, spendere una Paura per far rimuovere a ogni alleato entro portata Vicina dell'Alfa un PF e uno Stress.
-  * **Furia del Berserker - Reazione:** La prima volta in una scena in cui l'Alfa segna l'ultimo Stress, guadagna un bonus di +6 ai tiri di danno.
+ * **Furia del Branco - Passiva:** L'Alfa guadagna un bonus di +1 ai tiri d'attacco per ogni alleato entro portata Molto Vicina del bersaglio del suo attacco.
+ * **Ululare alla Luna - Azione:** Una volta per scena, spendere una Paura per far rimuovere a ogni alleato entro portata Vicina dell'Alfa un PF e uno Stress.
+ * **Furia del Berserker - Reazione:** La prima volta in una scena in cui l'Alfa segna l'ultimo Stress, guadagna un bonus di +6 ai tiri di danno.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Phial_of_Deep_Ink"]
 rarity: "Raro"
 original_rarity: "Rare"

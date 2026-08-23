@@ -1,5 +1,5 @@
 ---
-type: "[[Consumable]]"
+type: "[[Consumabile]]"
 ---
 
 # Seme del Ponte

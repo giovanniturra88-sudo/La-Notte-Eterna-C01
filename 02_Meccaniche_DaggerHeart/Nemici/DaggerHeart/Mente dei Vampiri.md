@@ -12,13 +12,13 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 6
 * **Esperienza:** Aristocratico +3
 * **Attacchi:**
-  * **Rapiera:** +5 | Da Vicino | 2d20+4 fisico
+ * **Rapiera:** +5 | Da Vicino | 2d20+4 fisico
 * **Tratti e Capacità:**
-  * **Terrificante - Passiva:** Quando il Vampiro effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
-  * **Guarda nei Miei Occhi - Passiva:** Una creatura che si sposta in portata Da Vicino del Vampiro deve effettuare un Tiro di Reazione di Istinto. Se fallisce, guadagni **1d4** Paura.
-  * **Sanguinare i Seguaci - Azione:** Quando il Vampiro è in portata Da Vicino di un alleato, può far segnare un PF all'alleato. Il Vampiro poi elimina un PF.
-  * **La Caccia È Iniziata - Azione:** **Spendere 2 Paura** per evocare **1d4** Vampiri, che appaiono in portata Lontana e vengono subito messi a fuoco.
-  * **Assorbimento Vitale - Reazione:** Quando il Vampiro è messo a fuoco, tira un **d8**. Su un risultato di 6 o superiore, tutti i bersagli in portata Molto Vicina devono segnare un PF.
+ * **Terrificante - Passiva:** Quando il Vampiro effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
+ * **Guarda nei Miei Occhi - Passiva:** Una creatura che si sposta in portata Da Vicino del Vampiro deve effettuare un Tiro di Reazione di Istinto. Se fallisce, guadagni **1d4** Paura.
+ * **Sanguinare i Seguaci - Azione:** Quando il Vampiro è in portata Da Vicino di un alleato, può far segnare un PF all'alleato. Il Vampiro poi elimina un PF.
+ * **La Caccia È Iniziata - Azione:** **Spendere 2 Paura** per evocare **1d4** Vampiri, che appaiono in portata Lontana e vengono subito messi a fuoco.
+ * **Assorbimento Vitale - Reazione:** Quando il Vampiro è messo a fuoco, tira un **d8**. Su un risultato di 6 o superiore, tutti i bersagli in portata Molto Vicina devono segnare un PF.
 
 ```statblock
 layout: DaggerHeart Nemici

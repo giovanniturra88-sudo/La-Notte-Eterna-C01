@@ -24,7 +24,7 @@ Gli assassini sono professionisti della morte. Usano la furtività assoluta, i v
 **_Determinazione Letale:_** Spendi 3 Punti Speranza per rimuovere 2 Stress.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Executioners_Guild]] o [[Poisoners_Guild]].
+Scegli tra la sottoclasse [[Gilda dei Sicari]] o [[Gilda dei Tossicologi]].
 
 # Caratteristiche di Classe
 **_Contrassegnato per la Morte (Marked for Death):_** Su un attacco con arma riuscito, marca uno Stress per rendere il bersaglio Contrassegnato per la Morte. Quando infliggi danno a quel bersaglio, aggiungi un numero di d4 pari al tuo Tier al tiro di danno. Massimo un bersaglio contrassegnato alla volta.

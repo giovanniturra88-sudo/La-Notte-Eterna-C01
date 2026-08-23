@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Ghastly Legion"
 ---
 
 ## Legione Spettrale
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Tattica +2
 * **Attacchi:**
-  * **Armamenti Spettrali:** +2 | Vicina | 4d6+10 magico
+ * **Armamenti Spettrali:** +2 | Vicina | 4d6+10 magico
 * **Tratti e Capacità:**
-  * **Orda (2d6+5) - Passiva:** Quando la Legione ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6+5 danni magici.
-  * **Necroplasmica - Passiva:** La Legione ha immunità ai danni fisici e subisce il doppio dei danni magici.
-  * **Atto Finale - Reazione:** Quando la Legione viene sconfitta, effettua un attacco standard contro tutti i bersagli entro portata Vicina prima di essere dissipata.
+ * **Orda (2d6+5) - Passiva:** Quando la Legione ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6+5 danni magici.
+ * **Necroplasmica - Passiva:** La Legione ha immunità ai danni fisici e subisce il doppio dei danni magici.
+ * **Atto Finale - Reazione:** Quando la Legione viene sconfitta, effettua un attacco standard contro tutti i bersagli entro portata Vicina prima di essere dissipata.
 
 ```statblock
 layout: DaggerHeart Nemici

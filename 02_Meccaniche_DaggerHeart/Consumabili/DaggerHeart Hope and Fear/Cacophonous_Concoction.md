@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Cacophonous_Concoction"]
 rarity: "Raro"
 original_rarity: "Rare"

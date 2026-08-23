@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Solo]]"
+aliases:
+ - "Darkweave Queen"
 ---
 
 ## Regina Darkweave
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 9 | **Stress:** 4
 * **Esperienza:** Dimensioni Gigantesche +3, Cacciatore +3
 * **Attacchi:**
-  * **Morso del Ragno:** +3 | Molto Vicina | 1d12+4 fisico
+ * **Morso del Ragno:** +3 | Molto Vicina | 1d12+4 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (3) - Passiva:** La Regina può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
-  * **Madre del Tana - Azione:** Una volta per scena, spendere 2 Paura per evocare fino a due avversari Darkweave (diversi dalle Regine Darkweave), che appaiono in portata Vicina e vengono immediatamente messi a fuoco.
-  * **Più Veloce di Quanto Sembra - Azione:** Spendere una Paura per muoversi fino a portata Lontana ed effettuare un attacco standard con vantaggio.
-  * **Avvelenamento Darkfang - Reazione:** Quando la Regina riesce su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Vulnerabile* e *Ristretto* finché non riesce su un Tiro di Forza (12) o non effettua un riposo.
-  * **Terrificante - Reazione:** Quando un PG fallisce un tiro d'attacco contro la Regina, guadagni una Paura.
+ * **Inesorabile (3) - Passiva:** La Regina può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+ * **Madre del Tana - Azione:** Una volta per scena, spendere 2 Paura per evocare fino a due avversari Darkweave (diversi dalle Regine Darkweave), che appaiono in portata Vicina e vengono immediatamente messi a fuoco.
+ * **Più Veloce di Quanto Sembra - Azione:** Spendere una Paura per muoversi fino a portata Lontana ed effettuare un attacco standard con vantaggio.
+ * **Avvelenamento Darkfang - Reazione:** Quando la Regina riesce su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Vulnerabile* e *Ristretto* finché non riesce su un Tiro di Forza (12) o non effettua un riposo.
+ * **Terrificante - Reazione:** Quando un PG fallisce un tiro d'attacco contro la Regina, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

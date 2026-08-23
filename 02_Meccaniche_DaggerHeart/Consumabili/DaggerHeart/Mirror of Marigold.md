@@ -1,5 +1,5 @@
 ---
-type: "[[Consumable]]"
+type: "[[Consumabile]]"
 ---
 
 # Specchio di Marigold

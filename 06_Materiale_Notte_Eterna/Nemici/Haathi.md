@@ -27,11 +27,11 @@ stress: "3"
 esperienza: "+4"
 soglia_danni: "Minore: 18 | Maggiore: 36 | Grave: 56"
 attacchi:
- - name: "Zannata Imponente"
- desc: "**+5** | Da Vicino | **3d10+8** Perforante"
- - name: "Calpestamento"
- desc: "**+4** | Da Vicino | **3d8+8** Contundente"
+  - name: "Zannata Imponente"
+    desc: "**+5** | Da Vicino | **3d10+8** Perforante"
+  - name: "Calpestamento"
+    desc: "**+4** | Da Vicino | **3d8+8** Contundente"
 tratti:
- - name: "Carica Devastante"
- desc: "Travolge tutte le creature sulla sua traiettoria infliggendo danni e abbattendole."
+  - name: "Carica Devastante"
+    desc: "Travolge tutte le creature sulla sua traiettoria infliggendo danni e abbattendole."
 ```

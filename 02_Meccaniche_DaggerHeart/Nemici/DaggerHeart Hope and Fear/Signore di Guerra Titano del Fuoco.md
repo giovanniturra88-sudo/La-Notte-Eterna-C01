@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Capo]]"
+aliases:
+ - "Fire Titan Warlord"
 ---
 
 ## Signore di Guerra Titano del Fuoco
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 9 | **Stress:** 8
 * **Esperienza:** Tattica +4
 * **Attacchi:**
-  * **Martello:** +6 | Molto Vicina | 4d10+10 fisico
+ * **Martello:** +6 | Molto Vicina | 4d10+10 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (2) - Passiva:** Il Signore di Guerra può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Fabbricante di Colossi - Passiva:** Conto alla Rovina (6). Quando il Signore di Guerra entra in scena, attiva il conto alla rovina. Si riduce quando il Signore di Guerra viene messo a fuoco. Quando scatta, evoca la Macchina da Guerra Gargantuesca, che appare al bordo del campo di battaglia e viene immediatamente messa a fuoco.
-  * **Scatena i Cani - Azione:** Spendere una Paura per far evocare al Signore di Guerra due Branchi di Cane Demoniaco, che appaiono in portata Vicina e vengono immediatamente messi a fuoco.
-  * **Colpo Rotante - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina e guadagnare una Paura.
-  * **Frantumatore del Terreno - Azione:** Spendere una Paura per far incrinare la terra al Signore di Guerra con un colpo discendente del suo martello ed effettuare un attacco contro un gruppo entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 4d10+10 danni diretti. L'area diventa terreno accidentato, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla.
+ * **Inesorabile (2) - Passiva:** Il Signore di Guerra può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Fabbricante di Colossi - Passiva:** Conto alla Rovina (6). Quando il Signore di Guerra entra in scena, attiva il conto alla rovina. Si riduce quando il Signore di Guerra viene messo a fuoco. Quando scatta, evoca la Macchina da Guerra Gargantuesca, che appare al bordo del campo di battaglia e viene immediatamente messa a fuoco.
+ * **Scatena i Cani - Azione:** Spendere una Paura per far evocare al Signore di Guerra due Branchi di Cane Demoniaco, che appaiono in portata Vicina e vengono immediatamente messi a fuoco.
+ * **Colpo Rotante - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina e guadagnare una Paura.
+ * **Frantumatore del Terreno - Azione:** Spendere una Paura per far incrinare la terra al Signore di Guerra con un colpo discendente del suo martello ed effettuare un attacco contro un gruppo entro portata Vicina. I bersagli contro cui l'attacco ha successo subiscono 4d10+10 danni diretti. L'area diventa terreno accidentato, e un PG deve superare un Tiro di Reazione di Agilità (16) per attraversarla.
 
 ```statblock
 layout: DaggerHeart Nemici

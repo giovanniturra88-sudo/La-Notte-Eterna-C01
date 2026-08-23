@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Environment]]"
+  - "[[Ambiente]]"
 ---
 
 # Moon Kingdom
@@ -19,10 +19,10 @@ type:
 
 **_Lunar Astrologum - Passive:_** Atop the highest tower in the capital city sits a crystal dream machine that can replay history. A PC who succeeds on a Knowledge Roll can repair the machine. Once the machine is repaired, a PC who succeeds on a Presence Roll can operate it to learn the history of the Moon Kingdom's rise and fall.
 
-  - **Critical Success:** The PC receives clear information about key events and figures in the Moon Kingdom's history and gains 1d4 Hope, which they can distribute among PCs they share their visions with.
-  - **Success:** The PC receives clear information about key events and figures in the Moon Kingdom's history.
-  - **Any roll with Fear:** The PC receives brief flashes and sensations related to the kingdom's cataclysmic end. If the roll was a failure, the PC takes 4d10+5 magic damage as the visions assault their psyche.
+ - **Critical Success:** The PC receives clear information about key events and figures in the Moon Kingdom's history and gains 1d4 Hope, which they can distribute among PCs they share their visions with.
+ - **Success:** The PC receives clear information about key events and figures in the Moon Kingdom's history.
+ - **Any roll with Fear:** The PC receives brief flashes and sensations related to the kingdom's cataclysmic end. If the roll was a failure, the PC takes 4d10+5 magic damage as the visions assault their psyche.
 
-  _What does this machinery look like, and how does it work? What do the PCs learn about the Moon Kingdom's history?_
+ _What does this machinery look like, and how does it work? What do the PCs learn about the Moon Kingdom's history?_
 
 **_The Moon Queen's Tomb - Reaction:_** The Moon Kingdom's final ruler has been preserved in a selenite coffin deep within the citadel. On a roll with Fear to investigate her chamber, her baleful shade awakens and attacks the party. Summon the Moon Queen's Spirit (Arch-Necromancer) next to her coffin and immediately spotlight her. _Who buried her here, and why? Can she be resurrected, or is destroying her spirit the only path forward?_

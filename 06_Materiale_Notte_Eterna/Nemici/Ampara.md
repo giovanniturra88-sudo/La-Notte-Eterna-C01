@@ -12,7 +12,7 @@ type:
 * **Attacchi:**
  * **Piccolo Morso:** +0 | Da Vicino | 1d4 Fisico
 * **Tratti e Capacità:**
- * **Mimetismo Fluviale:** Vantaggio sulle prove di Furtività quando si trova immerse tra sassi e corsi d'acqua.
+ * **Mimetismo Fluviale:** Vantaggio sulle prove di Furtività quando si trova immersa tra sassi e corsi d'acqua.
 * **Guscio Resistente:** Aumenta la Difficoltà di +3 quando si ritira completamente all'interno del guscio.
 
 ```statblock
@@ -27,10 +27,11 @@ stress: "2"
 esperienza: "+0"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
- - name: "Piccolo Morso"
- desc: "**+0** | Da Vicino | **1d4** Fisico"
+  - name: "Piccolo Morso"
+    desc: "**+0** | Da Vicino | **1d4** Fisico"
 tratti:
- - name: "Mimetismo Fluviale"
- desc: "Vantaggio sulle prove di Furtività quando si trova immerse tra sassi e corsi d'acqua."
- - name: "Guscio Resistente"
- desc: "Aumenta la Difficoltà di +3 quando si ritira completamente all'interno del guscio."
+  - name: "Mimetismo Fluviale"
+    desc: "Vantaggio sulle prove di Furtività quando si trova immersa tra sassi e corsi d'acqua."
+  - name: "Guscio Resistente"
+    desc: "Aumenta la Difficoltà di +3 quando si ritira completamente all'interno del guscio."
+```

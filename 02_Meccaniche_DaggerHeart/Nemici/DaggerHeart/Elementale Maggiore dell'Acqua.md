@@ -11,11 +11,11 @@ type:
 * **Soglie di Danno:** 17/34
 * **Punti Ferita:** 5 | **Stress:** 5
 * **Attacchi:**
-  * **Onda Schiantante:** +3 | Molto Vicina | 3d4+1 magico
+ * **Onda Schiantante:** +3 | Molto Vicina | 3d4+1 magico
 * **Tratti e Capacità:**
-  * **Getto d'Acqua - Azione:** **Segnare uno Stress** per attaccare un bersaglio a portata Molto Vicina. In caso di successo, infliggi **2d4+7** danni fisici e l'azione successiva del bersaglio ha svantaggio. In caso di fallimento, il bersaglio deve segnare uno Stress.
-  * **Abbraccio dell'Annegamento - Azione:** **Spendere una Paura** per effettuare un attacco contro tutti i bersagli a portata Molto Vicina. I bersagli colpiti diventano _Ristretti_ e _Vulnerabili_ mentre iniziano ad affogare. Un bersaglio può liberarsi, terminando entrambe le condizioni, con un tiro di Forza o Istinto riuscito.
-  * **Marea Alta - Reazione:** Quando l'Elementale effettua un attacco standard riuscito, puoi **segnare uno Stress** per spingere il bersaglio indietro a portata Vicina.
+ * **Getto d'Acqua - Azione:** **Segnare uno Stress** per attaccare un bersaglio a portata Molto Vicina. In caso di successo, infliggi **2d4+7** danni fisici e l'azione successiva del bersaglio ha svantaggio. In caso di fallimento, il bersaglio deve segnare uno Stress.
+ * **Abbraccio dell'Annegamento - Azione:** **Spendere una Paura** per effettuare un attacco contro tutti i bersagli a portata Molto Vicina. I bersagli colpiti diventano _Ristretti_ e _Vulnerabili_ mentre iniziano ad affogare. Un bersaglio può liberarsi, terminando entrambe le condizioni, con un tiro di Forza o Istinto riuscito.
+ * **Marea Alta - Reazione:** Quando l'Elementale effettua un attacco standard riuscito, puoi **segnare uno Stress** per spingere il bersaglio indietro a portata Vicina.
 
 ```statblock
 layout: DaggerHeart Nemici

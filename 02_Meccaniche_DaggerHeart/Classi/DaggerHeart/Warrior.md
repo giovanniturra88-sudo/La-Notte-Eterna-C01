@@ -23,7 +23,7 @@ I guerrieri dedicano la vita allo studio e alla maestria delle armi da mischia. 
 **_Nessuna Pietà:_** Spendi 3 Punti Speranza per ottenere un bonus di +1 ai tiri di attacco fino al prossimo riposo.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[Chiamata dei Coraggiosi]] o [[02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/# Chiamata dello Sterminatore]].
+Scegli tra la sottoclasse [[Chiamata dei Coraggiosi]] o [[Chiamata dello Sterminatore]].
 
 # Caratteristiche di Classe
 **_Attacco di Opportunità:_** Se un nemico tenta di fuggire dalla portata di mischia, effettua un tiro di reazione. Al successo, infliggi danno o blocchi il suo movimento.

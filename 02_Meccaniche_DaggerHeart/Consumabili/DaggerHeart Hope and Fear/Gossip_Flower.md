@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Gossip_Flower"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

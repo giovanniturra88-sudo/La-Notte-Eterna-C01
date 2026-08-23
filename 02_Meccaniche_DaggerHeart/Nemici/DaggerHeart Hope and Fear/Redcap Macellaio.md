@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Redcap Butcher"
 ---
 
 ## Redcap Macellaio
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Scatto +2
 * **Attacchi:**
-  * **Coltello da Macello:** +1 | Da Vicino | 1d8+1 fisico
+ * **Coltello da Macello:** +1 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Felice di Tagliare - Azione:** Segnare uno Stress per effettuare un attacco standard contro fino a tre bersagli. Per ogni bersaglio che segna PF, guadagni una Paura.
-  * **Lanciatore di Coltelli - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Lontana. Se il Macellaio è *Nascosto*, effettua l'attacco con il vantaggio.
+ * **Felice di Tagliare - Azione:** Segnare uno Stress per effettuare un attacco standard contro fino a tre bersagli. Per ogni bersaglio che segna PF, guadagni una Paura.
+ * **Lanciatore di Coltelli - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Lontana. Se il Macellaio è *Nascosto*, effettua l'attacco con il vantaggio.
 
 ```statblock
 layout: DaggerHeart Nemici

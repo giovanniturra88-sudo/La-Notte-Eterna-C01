@@ -23,7 +23,7 @@ La Necromanzia consente al Summoner di rianimare e controllare spiriti e corpi d
 Puoi evocare i *Cadaveri Rianimati* (Shambling Corpses) utilizzando il tuo **Secondo Cerchio** di evocazione.
 
 #### Hunger of the Grave (Fame della Tomba)
-Effettua un tiro di Incantesimo contro un bersaglio entro portata Lontana (Far) . In caso di successo, i tuoi *Cadaveri Rianimati* si muovono per attaccare il bersaglio, infliggendo **5 danni fisici** per ciascun Cadavere Rianimato attivo, prima di ritornare da te. Successivamente, un *Cadavere Rianimato* scompare.
+Effettua un tiro di Incantesimo contro un bersaglio entro portata Lontana (Far). In caso di successo, i tuoi *Cadaveri Rianimati* si muovono per attaccare il bersaglio, infliggendo **5 danni fisici** per ciascun Cadavere Rianimato attivo, prima di ritornare da te. Successivamente, un *Cadavere Rianimato* scompare.
 
 #### Macabre Harvest (Raccolta Macabra)
 Quando un avversario entro portata Lontana segna il suo ultimo Punto Ferita (viene sconfitto), puoi immediatamente evocare un *Cadavere Rianimato* nel tuo Secondo Cerchio senza dover segnare alcuno Stress.

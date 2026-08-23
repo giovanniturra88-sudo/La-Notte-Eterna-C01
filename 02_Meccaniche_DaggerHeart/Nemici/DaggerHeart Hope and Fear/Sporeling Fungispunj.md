@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Minion]]"
+aliases:
+ - "Fungispunj Sporeling"
 ---
 
 ## Sporeling Fungispunj
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Esperienza:** Oscurità +3
 * **Attacchi:**
-  * **Spore Neurotossiche:** -1 | Molto Vicina | 4 magico
+ * **Spore Neurotossiche:** -1 | Molto Vicina | 4 magico
 * **Tratti e Capacità:**
-  * **Minion (6) - Passiva:** Lo Sporeling viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge allo Sporeling, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
-  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti gli Sporeling Fungispunj entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 4 danni magici ciascuno. Combina questi danni.
-  * **Formarsi - Azione:** Spendere una Paura per combinare tre Sporeling in un'area Vicina e sostituirli con un Sporoforo Fungispunj.
+ * **Minion (6) - Passiva:** Lo Sporeling viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge allo Sporeling, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+ * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti gli Sporeling Fungispunj entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 4 danni magici ciascuno. Combina questi danni.
+ * **Formarsi - Azione:** Spendere una Paura per combinare tre Sporeling in un'area Vicina e sostituirli con un Sporoforo Fungispunj.
 
 ```statblock
 layout: DaggerHeart Nemici

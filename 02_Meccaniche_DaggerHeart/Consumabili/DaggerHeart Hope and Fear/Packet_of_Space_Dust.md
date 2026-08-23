@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Packet_of_Space_Dust"]
 rarity: "Comune"
 original_rarity: "Common"

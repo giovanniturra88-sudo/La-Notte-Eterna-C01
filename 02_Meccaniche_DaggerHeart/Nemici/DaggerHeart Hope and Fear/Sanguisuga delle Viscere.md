@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Viscera Sucker"
 ---
 
 ## Sanguisuga delle Viscere
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Volo +3
 * **Attacchi:**
-  * **Unghie Lunghe:** +2 | Da Vicino | 2d6+7 fisico
+ * **Unghie Lunghe:** +2 | Da Vicino | 2d6+7 fisico
 * **Tratti e Capacità:**
-  * **Unirsi o Morire - Passiva:** La Sanguisuga delle Viscere muore se non ha ricollegato le sue metà superiore e inferiore entro l'alba.
-  * **Viscere Intrappolanti - Azione:** Spendere una Paura per far sì che la Sanguisuga delle Viscere si aggrappi a un bersaglio entro portata Molto Vicina, rendendolo *Ristretto* finché non ne sfugge con un tiro di Forza riuscito (16).
-  * **Sanguisugamento - Azione:** Segnare uno Stress per far sì che la Sanguisuga delle Viscere beva sangue da un bersaglio *Ristretto* entro portata Da Vicino. Il bersaglio segna un PF, e la Sanguisuga delle Viscere rimuove un PF.
+ * **Unirsi o Morire - Passiva:** La Sanguisuga delle Viscere muore se non ha ricollegato le sue metà superiore e inferiore entro l'alba.
+ * **Viscere Intrappolanti - Azione:** Spendere una Paura per far sì che la Sanguisuga delle Viscere si aggrappi a un bersaglio entro portata Molto Vicina, rendendolo *Ristretto* finché non ne sfugge con un tiro di Forza riuscito (16).
+ * **Sanguisugamento - Azione:** Segnare uno Stress per far sì che la Sanguisuga delle Viscere beva sangue da un bersaglio *Ristretto* entro portata Da Vicino. Il bersaglio segna un PF, e la Sanguisuga delle Viscere rimuove un PF.
 
 ```statblock
 layout: DaggerHeart Nemici

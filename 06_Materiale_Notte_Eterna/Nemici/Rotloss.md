@@ -24,5 +24,6 @@ stress: "2"
 esperienza: "+2"
 soglia_danni: "Minore: 5 | Maggiore: 10 | Grave: 15"
 attacchi:
- - name: "Artigli Marci"
- desc: "**+2** | Da Vicino | **1d8+2** Necrotico"
+  - name: "Artigli Marci"
+    desc: "**+2** | Da Vicino | **1d8+2** Necrotico"
+```

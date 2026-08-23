@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Lamplight Beguiler"
 ---
 
 ## Seduttore della Luce
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Charm +3, Segreti +3
 * **Attacchi:**
-  * **Mascelle:** +3 | Da Vicino | 3d8+2 fisico
+ * **Mascelle:** +3 | Da Vicino | 3d8+2 fisico
 * **Tratti e Capacità:**
-  * **Doppio Pendolo - Azione:** Il grappolo membranoso alla fine dello stelo cefalico del Seduttore può cambiare forma in qualsiasi forma umanoide. Segnare uno Stress per scegliere un PG entro portata Vicina. Il loro giocatore deve dirti chi il loro PG troverebbe più degno di fiducia. Lo stelo cefalico del Seduttore si trasforma in quella persona e guadagna la capacità di parlare con la sua voce.
-  * **Tentare - Azione:** Spendere una Paura per far fare al Seduttore un'offerta allettante a un PG entro portata Vicina. Il PG deve superare un Tiro di Reazione di Presenza (18) o muoversi in portata Da Vicino con il Seduttore. Se lo stelo cefalico del Seduttore è trasformato in una persona che il PG troverebbe degna di fiducia, ha lo svantaggio sul tiro di reazione.
-  * **Ingollare - Reazione:** Quando un PG si muove in portata Da Vicino, puoi spendere una Paura per effettuare un tiro d'attacco contro di lui. In caso di attacco riuscito, il bersaglio subisce 3d6 danni fisici e diventa *Ingoiato*. Mentre è *Ingoiato*, il bersaglio è *Ristretto* e subisce 3d6 danni fisici quando il Seduttore viene messo a fuoco. Il Seduttore sputa tutte le creature *Ingoiate* quando subisce danni Maggiori o Gravi.
+ * **Doppio Pendolo - Azione:** Il grappolo membranoso alla fine dello stelo cefalico del Seduttore può cambiare forma in qualsiasi forma umanoide. Segnare uno Stress per scegliere un PG entro portata Vicina. Il loro giocatore deve dirti chi il loro PG troverebbe più degno di fiducia. Lo stelo cefalico del Seduttore si trasforma in quella persona e guadagna la capacità di parlare con la sua voce.
+ * **Tentare - Azione:** Spendere una Paura per far fare al Seduttore un'offerta allettante a un PG entro portata Vicina. Il PG deve superare un Tiro di Reazione di Presenza (18) o muoversi in portata Da Vicino con il Seduttore. Se lo stelo cefalico del Seduttore è trasformato in una persona che il PG troverebbe degna di fiducia, ha lo svantaggio sul tiro di reazione.
+ * **Ingollare - Reazione:** Quando un PG si muove in portata Da Vicino, puoi spendere una Paura per effettuare un tiro d'attacco contro di lui. In caso di attacco riuscito, il bersaglio subisce 3d6 danni fisici e diventa *Ingoiato*. Mentre è *Ingoiato*, il bersaglio è *Ristretto* e subisce 3d6 danni fisici quando il Seduttore viene messo a fuoco. Il Seduttore sputa tutte le creature *Ingoiate* quando subisce danni Maggiori o Gravi.
 
 ```statblock
 layout: DaggerHeart Nemici

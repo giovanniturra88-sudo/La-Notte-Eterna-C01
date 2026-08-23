@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Esperienza:** Cacciatore Notturno +3
 * **Attacchi:**
-  * **Rapiera:** +3 | Da Vicino | 3d8 fisico
+ * **Rapiera:** +3 | Da Vicino | 3d8 fisico
 * **Tratti e Capacità:**
-  * **Morso Sanguinario - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **5d4** danni fisici. Un bersaglio che subisce PF da questo attacco perde una Speranza e deve segnare uno Stress. Il Vampiro poi elimina un PF.
-  * **Forma Nebbia - Reazione:** Quando il Vampiro subisce danni fisici, puoi **Spendere una Paura** per subire metà dei danni.
+ * **Morso Sanguinario - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **5d4** danni fisici. Un bersaglio che subisce PF da questo attacco perde una Speranza e deve segnare uno Stress. Il Vampiro poi elimina un PF.
+ * **Forma Nebbia - Reazione:** Quando il Vampiro subisce danni fisici, puoi **Spendere una Paura** per subire metà dei danni.
 
 ```statblock
 layout: DaggerHeart Nemici

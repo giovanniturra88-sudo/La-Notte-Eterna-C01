@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Sociale]]"
+aliases:
+ - "Cloud Titan"
 ---
 
 ## Titano delle Nuvole
@@ -12,14 +14,14 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Lusso +3, Nobiltà +3
 * **Attacchi:**
-  * **Lama Incrostata di Gioielli:** +3 | Molto Vicina | 4d6+8 fisico
+ * **Lama Incrostata di Gioielli:** +3 | Molto Vicina | 4d6+8 fisico
 * **Tratti e Capacità:**
-  * **Colpo di Fulmine - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Lontana. In caso di successo, infliggi 4d10+14 danni magici e tira un d6. Con un risultato di 4 o superiore, il fulmine rimbalza, e il Titano effettua questo attacco contro un bersaglio diverso entro portata Molto Vicina del bersaglio precedente. Ogni volta che il fulmine rimbalza, riduci i danni che infligge di 1d10.
-  * **Tessitore di Nebbia - Azione:** Spendere una Paura e scegliere un punto entro portata Lontana. Il Titano evoca una nebbia fitta sull'area entro portata Vicina di quel punto. Il Titano è *Nascosto* per i nemici all'interno e dall'altra parte della nebbia e ha vantaggio sugli attacchi contro le creature al suo interno. La nebbia dura finché il Titano non segna PF.
-  * **Trasformazione Nebbiosa - Azione:** Segnare uno Stress per far trasformare il Titano in una nuvola di nebbia che riempie un'area Molto Vicina. Mentre è in questa forma, il Titano subisce il doppio dei danni magici e ha immunità ai danni fisici. Questa forma dura finché il Titano non sceglie di uscirne o non subisce danni Gravi.
-  * **Scatena la Menagerie - Azione:** Una volta per scena, segnare qualsiasi numero di Stress per evocare lo stesso numero di Grifoni, che appaiono in portata Vicina.
-  * **Manipolatore del Vento - Azione:** Spendere una Paura per far scagliare al Titano vento contro un bersaglio entro portata Vicina. Il bersaglio subisce 4d6+8 danni fisici e viene respinto in portata Lontana dalla sua posizione attuale.
-  * **Tutto o Niente - Reazione:** Quando guadagneresti una Paura da un attacco contro il Titano, puoi tirare un d6. Con un risultato dispari, non guadagni la Paura. Con un risultato pari, guadagni 2 Paura invece di 1.
+ * **Colpo di Fulmine - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Lontana. In caso di successo, infliggi 4d10+14 danni magici e tira un d6. Con un risultato di 4 o superiore, il fulmine rimbalza, e il Titano effettua questo attacco contro un bersaglio diverso entro portata Molto Vicina del bersaglio precedente. Ogni volta che il fulmine rimbalza, riduci i danni che infligge di 1d10.
+ * **Tessitore di Nebbia - Azione:** Spendere una Paura e scegliere un punto entro portata Lontana. Il Titano evoca una nebbia fitta sull'area entro portata Vicina di quel punto. Il Titano è *Nascosto* per i nemici all'interno e dall'altra parte della nebbia e ha vantaggio sugli attacchi contro le creature al suo interno. La nebbia dura finché il Titano non segna PF.
+ * **Trasformazione Nebbiosa - Azione:** Segnare uno Stress per far trasformare il Titano in una nuvola di nebbia che riempie un'area Molto Vicina. Mentre è in questa forma, il Titano subisce il doppio dei danni magici e ha immunità ai danni fisici. Questa forma dura finché il Titano non sceglie di uscirne o non subisce danni Gravi.
+ * **Scatena la Menagerie - Azione:** Una volta per scena, segnare qualsiasi numero di Stress per evocare lo stesso numero di Grifoni, che appaiono in portata Vicina.
+ * **Manipolatore del Vento - Azione:** Spendere una Paura per far scagliare al Titano vento contro un bersaglio entro portata Vicina. Il bersaglio subisce 4d6+8 danni fisici e viene respinto in portata Lontana dalla sua posizione attuale.
+ * **Tutto o Niente - Reazione:** Quando guadagneresti una Paura da un attacco contro il Titano, puoi tirare un d6. Con un risultato dispari, non guadagni la Paura. Con un risultato pari, guadagni 2 Paura invece di 1.
 
 ```statblock
 layout: DaggerHeart Nemici

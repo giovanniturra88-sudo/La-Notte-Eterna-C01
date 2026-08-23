@@ -26,9 +26,9 @@ stress: "6"
 esperienza: "+3"
 soglia_danni: "Minore: 7 | Maggiore: 14 | Grave: 22"
 attacchi:
- - name: "Sguardo di Discordia"
- desc: "**+3** | Media | **2d6** Psichico"
+  - name: "Sguardo di Discordia"
+    desc: "**+3** | Media | **2d6** Psichico"
 tratti:
- - name: "Istigare Violenza"
- desc: "Costringe un eroe ad attaccare il proprio alleato più vicino (1 Paura)."
+  - name: "Istigare Violenza"
+    desc: "Costringe un eroe ad attaccare il proprio alleato più vicino (1 Paura)."
 ```

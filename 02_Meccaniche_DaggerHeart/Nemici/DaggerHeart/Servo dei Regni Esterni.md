@@ -5,21 +5,21 @@ type:
 ---
 
 ## Servo dei Regni Esterni
-* **Descrizione:** Una forma umanoidiatica vagamente umana, privata di memoria e identità.
+* **Descrizione:** Una forma umanoide vagamente umana, privata di memoria e identità.
 * **Tier:** 4 (Minion)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Attacchi:**
-  * **Artigli e Denti:** +3 | Molto Vicina | 11 fisico
+ * **Artigli e Denti:** +3 | Molto Vicina | 11 fisico
 * **Tratti e Capacità:**
-  * **Minion (13) - Passiva:** Il Servo è sconfitto quando subisce qualsiasi danno. Per ogni 13 danni che un PG infligge al Servo, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Servi dei Regni Esterni in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 11 danni fisici ciascuno. Combina i danni.
+ * **Minion (13) - Passiva:** Il Servo è sconfitto quando subisce qualsiasi danno. Per ogni 13 danni che un PG infligge al Servo, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Servi dei Regni Esterni in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 11 danni fisici ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici
 name: "Servo dei Regni Esterni"
-description: "Una forma umanoidiatica vagamente umana, privata di memoria e identità."
+description: "Una forma umanoide vagamente umana, privata di memoria e identità."
 tier: "4"
 ruolo: "Minion"
 difficolta: "17"

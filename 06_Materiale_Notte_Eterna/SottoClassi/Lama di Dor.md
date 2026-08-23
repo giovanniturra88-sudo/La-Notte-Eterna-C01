@@ -33,7 +33,7 @@ Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri
 ---
 
 ### Maestria
-**_Campione degli Elfi:_** Quando effettui un'azione di Scatto o Disingaggio , puoi effettuare un attacco con arma gratuito come parte dello stesso movimento. I tuoi colpi riusciti infliggono danni aggiuntivi pari al tuo modificatore di Istinto.
+**_Campione degli Elfi:_** Quando effettui un'azione di Scatto o Disingaggio, puoi effettuare un attacco con arma gratuito come parte dello stesso movimento. I tuoi colpi riusciti infliggono danni aggiuntivi pari al tuo modificatore di Istinto.
 
 ---
 

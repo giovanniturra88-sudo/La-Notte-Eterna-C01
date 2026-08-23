@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 4
 * **Esperienza:** Intrusione +2
 * **Attacchi:**
-  * **Daga Lanciata Avvelenata:** +3 | Vicina | 2d8+1 fisico
+ * **Daga Lanciata Avvelenata:** +3 | Vicina | 2d8+1 fisico
 * **Tratti e Capacità:**
-  * **Veleno di Grindletooth - Passiva:** I bersagli che segnano PF dagli attacchi dell'Assassino sono _Vulnerabili_ fino a quando non eliminano il segno.
-  * **Fuori dal Niente - Passiva:** L'Assassino ha vantaggio sugli attacchi se è _Nascosto_.
-  * **Fumigazione - Azione:** Lascia cadere una bomba fumogena che riempie l'aria entro portata Vicina di fumo, rendendo _Confusi_ tutti i bersagli in quell'area. I bersagli _Confusi_ subiscono svantaggio sul loro prossimo tiro d'azione, poi eliminano questa condizione.
+ * **Veleno di Grindletooth - Passiva:** I bersagli che segnano PF dagli attacchi dell'Assassino sono _Vulnerabili_ fino a quando non eliminano il segno.
+ * **Fuori dal Niente - Passiva:** L'Assassino ha vantaggio sugli attacchi se è _Nascosto_.
+ * **Fumigazione - Azione:** Lascia cadere una bomba fumogena che riempie l'aria entro portata Vicina di fumo, rendendo _Confusi_ tutti i bersagli in quell'area. I bersagli _Confusi_ subiscono svantaggio sul loro prossimo tiro d'azione, poi eliminano questa condizione.
 
 ```statblock
 layout: DaggerHeart Nemici

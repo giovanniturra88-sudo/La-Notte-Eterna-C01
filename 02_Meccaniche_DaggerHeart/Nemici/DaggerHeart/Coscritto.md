@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Attacchi:**
-  * **Lance:** +0 | Molto Vicina | 6 fisico
+ * **Lance:** +0 | Molto Vicina | 6 fisico
 * **Tratti e Capacità:**
-  * **Minion (6) - Passiva:** Il Coscritto viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge al Coscritto, sconfiggi un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe avuto successo.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Coscritti entro portata Vicina. Quei Minion si muovono in portata Da Vicino verso il bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina i danni.
+ * **Minion (6) - Passiva:** Il Coscritto viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge al Coscritto, sconfiggi un Minion aggiuntivo entro la portata contro cui l'attacco avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Coscritti entro portata Vicina. Quei Minion si muovono in portata Da Vicino verso il bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici

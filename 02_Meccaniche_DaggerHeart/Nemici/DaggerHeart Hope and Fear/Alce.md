@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Elk"
 ---
 
 ## Alce
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Esperienza:** Senso Acuto +3, Corsa +3
 * **Attacchi:**
-  * **Corna:** +0 | Da Vicino | 1d8+1 fisico
+ * **Corna:** +0 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Testata - Passiva:** Quando l'Alce si muove da portata Vicina o oltre prima di effettuare un attacco standard, infligge 1d12+2 danni fisici invece dei suoi danni standard.
-  * **Scatto - Reazione:** Quando l'Alce segna un PF o uno Stress, deve superare un Tiro di Reazione (10) o fuggire dalla scena.
+ * **Testata - Passiva:** Quando l'Alce si muove da portata Vicina o oltre prima di effettuare un attacco standard, infligge 1d12+2 danni fisici invece dei suoi danni standard.
+ * **Scatto - Reazione:** Quando l'Alce segna un PF o uno Stress, deve superare un Tiro di Reazione (10) o fuggire dalla scena.
 
 ```statblock
 layout: DaggerHeart Nemici

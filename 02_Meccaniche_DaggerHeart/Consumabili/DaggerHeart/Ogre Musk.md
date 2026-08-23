@@ -1,5 +1,5 @@
 ---
-type: "[[Consumable]]"
+type: "[[Consumabile]]"
 ---
 
 # Muschio dell'Orco

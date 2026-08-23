@@ -6,9 +6,9 @@ type:
 # NEFERTIRI DELLE OMBRE
 *La Danzatrice del Crepuscolo*
 
-> «Non temere l'oscurità. Temici ciò che si nasconde al suo interno... me.»
+> «Non temere l'oscurità. Temi ciò che si nasconde al suo interno... me.»
 
-Nefertiri è una maestra assassina ed spia senza pari, capace di fondersi letteralmente con le ombre. Muovendosi invisibile nella notte eterna di Neir, colpisce i suoi bersagli con letale precisione prima di scomparire nel nulla.
+Nefertiri è una maestra assassina e spia senza pari, capace di fondersi letteralmente con le ombre. Muovendosi invisibile nella notte eterna di Neir, colpisce i suoi bersagli con letale precisione prima di scomparire nel nulla.
 
 ---
 

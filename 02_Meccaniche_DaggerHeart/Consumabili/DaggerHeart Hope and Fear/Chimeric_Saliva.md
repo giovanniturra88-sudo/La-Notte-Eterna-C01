@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Chimeric_Saliva"]
 rarity: "Comune"
 original_rarity: "Common"

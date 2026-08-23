@@ -26,9 +26,9 @@ stress: "3"
 esperienza: "+3"
 soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 27"
 attacchi:
- - name: "Artigli della Cenere"
- desc: "**+3** | Da Vicino | **2d8+5** Tagliente"
+  - name: "Artigli della Cenere"
+    desc: "**+3** | Da Vicino | **2d8+5** Tagliente"
 tratti:
- - name: "Scatto Predatorio"
- desc: "Può coprire la distanza Media in un istante per cogliere la preda di sorpresa."
+  - name: "Scatto Predatorio"
+    desc: "Può coprire la distanza Media in un istante per cogliere la preda di sorpresa."
 ```

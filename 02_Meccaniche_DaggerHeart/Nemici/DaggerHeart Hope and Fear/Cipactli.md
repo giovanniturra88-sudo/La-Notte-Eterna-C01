@@ -12,14 +12,14 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Affamato +3, Primordiale +3
 * **Attacchi:**
-  * **Morso:** +8 | Vicina | 4d8+12 fisico
+ * **Morso:** +8 | Vicina | 4d8+12 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (3) - Passiva:** Il Cipactli può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Molte Bocche - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina. I bersagli contro cui il Cipactli ha successo devono anche segnare uno Stress.
-  * **Pasciuta Frenetica - Azione:** Spendere una Paura per costringere tutti i PG entro portata Vicina a superare un Tiro di Reazione d'Istinto o subire 4d6 danni fisici diretti. Il Cipactli rimuove un PF per ogni creatura che ha subito danni Gravi da questo attacco.
-  * **Passi Sconvolgenti - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono devono segnare 2 Stress e sono *Vulnerabili* finché non subiscono danni. I bersagli che riescono devono segnare uno Stress.
-  * **Sangue della Vita - Reazione:** Quando il Cipactli subisce danni Gravi, il suo sangue schizza a terra e istantaneamente si trasforma in una giungla. Tutte le creature entro portata Vicina sono temporaneamente *Ristrette*.
-  * **Esplosione Verdeggente - Reazione:** Quando il Cipactli segna l'ultimo PF, il suo corpo esplode in vegetazione fitta che invade il paesaggio.
+ * **Inesorabile (3) - Passiva:** Il Cipactli può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Molte Bocche - Azione:** Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina. I bersagli contro cui il Cipactli ha successo devono anche segnare uno Stress.
+ * **Pasciuta Frenetica - Azione:** Spendere una Paura per costringere tutti i PG entro portata Vicina a superare un Tiro di Reazione d'Istinto o subire 4d6 danni fisici diretti. Il Cipactli rimuove un PF per ogni creatura che ha subito danni Gravi da questo attacco.
+ * **Passi Sconvolgenti - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono devono segnare 2 Stress e sono *Vulnerabili* finché non subiscono danni. I bersagli che riescono devono segnare uno Stress.
+ * **Sangue della Vita - Reazione:** Quando il Cipactli subisce danni Gravi, il suo sangue schizza a terra e istantaneamente si trasforma in una giungla. Tutte le creature entro portata Vicina sono temporaneamente *Ristrette*.
+ * **Esplosione Verdeggente - Reazione:** Quando il Cipactli segna l'ultimo PF, il suo corpo esplode in vegetazione fitta che invade il paesaggio.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Negoziatore Esperto +3
 * **Attacchi:**
-  * **Club:** -4 | Da Vicino | 1d4+1 fisico
+ * **Club:** -4 | Da Vicino | 1d4+1 fisico
 * **Tratti e Capacità:**
-  * **Trattamento Preferenziale - Passiva:** Un PG che supera un Tiro di Presenza contro il Mercante ottiene uno sconto sugli acquisti. Un PG che fallisce un Tiro di Presenza contro il Mercante deve pagare di più e ha svantaggio sui futuri Tiri di Presenza contro il Mercante.
-  * **L'Imbroglio - Passiva:** Quando un PG tira 14 o meno su un Tiro di Presenza effettuato contro il Mercante, deve segnare uno Stress.
+ * **Trattamento Preferenziale - Passiva:** Un PG che supera un Tiro di Presenza contro il Mercante ottiene uno sconto sugli acquisti. Un PG che fallisce un Tiro di Presenza contro il Mercante deve pagare di più e ha svantaggio sui futuri Tiri di Presenza contro il Mercante.
+ * **L'Imbroglio - Passiva:** Quando un PG tira 14 o meno su un Tiro di Presenza effettuato contro il Mercante, deve segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

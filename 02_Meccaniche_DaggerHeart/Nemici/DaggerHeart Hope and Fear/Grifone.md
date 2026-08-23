@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Griffin"
 ---
 
 ## Grifone
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Ricchezze +5, Sensi Acuti +3
 * **Attacchi:**
-  * **Becco e Artigli:** +4 | Molto Vicina | 4d8+4 fisico
+ * **Becco e Artigli:** +4 | Molto Vicina | 4d8+4 fisico
 * **Tratti e Capacità:**
-  * **Accumulatore di Tesori - Passiva:** Quando un PG dovrebbe segnare un qualsiasi numero di PF dall'attacco del Grifone, il PG può scegliere di dare al Grifone un numero uguale di sacchi d'oro.
-  * **Taglio in Tuffo - Azione:** Muoversi fino a portata Lontana ed effettuare un attacco standard contro un bersaglio lungo il percorso.
+ * **Accumulatore di Tesori - Passiva:** Quando un PG dovrebbe segnare un qualsiasi numero di PF dall'attacco del Grifone, il PG può scegliere di dare al Grifone un numero uguale di sacchi d'oro.
+ * **Taglio in Tuffo - Azione:** Muoversi fino a portata Lontana ed effettuare un attacco standard contro un bersaglio lungo il percorso.
 
 ```statblock
 layout: DaggerHeart Nemici

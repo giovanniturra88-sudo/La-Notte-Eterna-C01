@@ -11,13 +11,13 @@ type:
 * **Soglie di Danno:** 19/35
 * **Punti Ferita:** 10 | **Stress:** 5
 * **Attacchi:**
-  * **Morso:** +3 | Da Vicino | 2d12+2 fisico
+ * **Morso:** +3 | Da Vicino | 2d12+2 fisico
 * **Tratti e Capacità:**
-  * **Minaccia a Teste Multiple - Passiva:** L'Idra inizia con tre teste e ne può avere fino a cinque. Quando l'Idra subisce danni Gravi o maggiori, perde una testa.
-  * **Inesorabile (X) - Passiva:** L'Idra può essere messa a fuoco X volte per turno del GM, dove X è il numero di teste dell'Idra. Spendere Paura normalmente per metterla a fuoco.
-  * **Rigenerazione - Azione:** Se l'Idra ha dei PF segnati, **Spendere una Paura** per rimuovere un PF e farne crescere due.
-  * **Coro Terrificante - Azione:** Tutti i PG in portata Lontana perdono 2 Speranza.
-  * **Debolezza Magica - Reazione:** Quando l'Idra subisce danni magici, diventa _Confusa_ fino al prossimo tiro con Paura. Mentre è _Confusa_, non può usare la sua azione di Rigenerazione ma è immune ai danni magici.
+ * **Minaccia a Teste Multiple - Passiva:** L'Idra inizia con tre teste e ne può avere fino a cinque. Quando l'Idra subisce danni Gravi o maggiori, perde una testa.
+ * **Inesorabile (X) - Passiva:** L'Idra può essere messa a fuoco X volte per turno del GM, dove X è il numero di teste dell'Idra. Spendere Paura normalmente per metterla a fuoco.
+ * **Rigenerazione - Azione:** Se l'Idra ha dei PF segnati, **Spendere una Paura** per rimuovere un PF e farne crescere due.
+ * **Coro Terrificante - Azione:** Tutti i PG in portata Lontana perdono 2 Speranza.
+ * **Debolezza Magica - Reazione:** Quando l'Idra subisce danni magici, diventa _Confusa_ fino al prossimo tiro con Paura. Mentre è _Confusa_, non può usare la sua azione di Rigenerazione ma è immune ai danni magici.
 
 ```statblock
 layout: DaggerHeart Nemici

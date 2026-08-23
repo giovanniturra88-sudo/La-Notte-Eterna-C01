@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Hive Walker"
 ---
 
 ## Passeggiatore dell'Alveare
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Mangiatore di Carne +2
 * **Attacchi:**
-  * **Pugno Putrido:** +1 | Da Vicino | 2d6+3 fisico
+ * **Pugno Putrido:** +1 | Da Vicino | 2d6+3 fisico
 * **Tratti e Capacità:**
-  * **Miele di Sangue - Azione:** Il Passeggiatore sputa miele rosso scuro e denso su tutti i bersagli tra sé e un punto entro portata Vicina. Ogni bersaglio in quella linea deve superare un Tiro di Reazione di Agilità o subire 2d8 danni magici e diventare temporaneamente *Ristretto* mentre il miele si indurisce su di esso.
-  * **Eruzione di Api - Reazione:** Quando il Passeggiatore segna PF, api vendicative irrompono dal suo corpo per proteggerlo. Ogni bersaglio entro portata Molto Vicina deve superare un Tiro di Reazione di Istitinto o subire 1d8 danni fisici diretti per ogni PF che il Passeggiatore dell'Alveare ha segnato. I bersagli *Ristretti* falliscono automaticamente il tiro di reazione.
+ * **Miele di Sangue - Azione:** Il Passeggiatore sputa miele rosso scuro e denso su tutti i bersagli tra sé e un punto entro portata Vicina. Ogni bersaglio in quella linea deve superare un Tiro di Reazione di Agilità o subire 2d8 danni magici e diventare temporaneamente *Ristretto* mentre il miele si indurisce su di esso.
+ * **Eruzione di Api - Reazione:** Quando il Passeggiatore segna PF, api vendicative irrompono dal suo corpo per proteggerlo. Ogni bersaglio entro portata Molto Vicina deve superare un Tiro di Reazione di Istitinto o subire 1d8 danni fisici diretti per ogni PF che il Passeggiatore dell'Alveare ha segnato. I bersagli *Ristretti* falliscono automaticamente il tiro di reazione.
 
 ```statblock
 layout: DaggerHeart Nemici

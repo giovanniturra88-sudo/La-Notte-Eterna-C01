@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Night Children"
 ---
 
 ## Figli della Notte
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Esperienza:** Terrorizzare +3
 * **Attacchi:**
-  * **Zanne e Artigli:** +1 | Da Vicino | 3d6+8 fisico
+ * **Zanne e Artigli:** +1 | Da Vicino | 3d6+8 fisico
 * **Tratti e Capacità:**
-  * **Orda (2d6) - Passiva:** Quando i Figli della Notte hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+2 danni fisici.
-  * **Rinforzare le File - Azione:** Una volta per scena, segnare un numero qualsiasi di Stress per far aprire ai Figli della Notte un portale che riversa rinforzi, ricolmando le file dell'Orda. Rimuovi un numero di PF pari al numero di Stress segnati.
-  * **Schiacciare - Reazione:** Quando i Figli della Notte segnano PF da un attacco entro portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante.
+ * **Orda (2d6) - Passiva:** Quando i Figli della Notte hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+2 danni fisici.
+ * **Rinforzare le File - Azione:** Una volta per scena, segnare un numero qualsiasi di Stress per far aprire ai Figli della Notte un portale che riversa rinforzi, ricolmando le file dell'Orda. Rimuovi un numero di PF pari al numero di Stress segnati.
+ * **Schiacciare - Reazione:** Quando i Figli della Notte segnano PF da un attacco entro portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante.
 
 ```statblock
 layout: DaggerHeart Nemici

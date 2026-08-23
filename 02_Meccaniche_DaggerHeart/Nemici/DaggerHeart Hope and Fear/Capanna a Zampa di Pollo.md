@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Chicken-Foot Hut"
 ---
 
 ## Capanna a Zampa di Pollo
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 2
 * **Esperienza:** Foreste +2
 * **Attacchi:**
-  * **Piedi Artigliati:** +2 | Molto Vicina | 2d10+3 fisico
+ * **Piedi Artigliati:** +2 | Molto Vicina | 2d10+3 fisico
 * **Tratti e Capacità:**
-  * **Veloce - Passiva:** La Capanna può muoversi fino a portata Lontana quando è messa a fuoco.
-  * **Doppio Colpo - Azione:** Segnare uno Stress per effettuare due attacchi standard. Se entrambi gli attacchi riescono contro lo stesso bersaglio, combina i danni.
-  * **Fissare - Reazione:** Quando la Capanna effettua un attacco standard riuscito, puoi segnare uno Stress per rendere il bersaglio *Ristretto* temporaneamente. La Capanna trascina il bersaglio Ristretto quando si muove.
+ * **Veloce - Passiva:** La Capanna può muoversi fino a portata Lontana quando è messa a fuoco.
+ * **Doppio Colpo - Azione:** Segnare uno Stress per effettuare due attacchi standard. Se entrambi gli attacchi riescono contro lo stesso bersaglio, combina i danni.
+ * **Fissare - Reazione:** Quando la Capanna effettua un attacco standard riuscito, puoi segnare uno Stress per rendere il bersaglio *Ristretto* temporaneamente. La Capanna trascina il bersaglio Ristretto quando si muove.
 
 ```statblock
 layout: DaggerHeart Nemici

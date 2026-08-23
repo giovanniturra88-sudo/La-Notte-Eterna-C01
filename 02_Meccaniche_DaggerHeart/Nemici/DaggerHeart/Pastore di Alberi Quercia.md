@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Esperienza:** Conoscenza della Foresta +3
 * **Attacchi:**
-  * **Ramo:** +2 | Molto Vicina | 3d8+2 fisico
+ * **Ramo:** +2 | Molto Vicina | 3d8+2 fisico
 * **Tratti e Capacità:**
-  * **Solo un Albero - Passiva:** Prima di effettuare il loro primo attacco in un combattimento o dopo che diventano _Nascosti_, i Pastori di Alberi non sono distinguibili dagli altri alberi fino a quando non agiscono nuovamente o un PG supera un Tiro d'Intuito per identificarli.
-  * **Barrage di Semi - Azione:** **Segnare uno Stress** ed effettuare un attacco contro fino a tre bersagli in portata Vicina, colpendoli con gigantesche ghiande. I bersagli colpiti subiscono **2d10+5** danni fisici.
-  * **Radicarsi - Azione:** **Segnare uno Stress** per _Radicare_ il Pastore di Alberi sul posto. Il Pastore di Alberi è _Ristretto_ mentre è _Radicato_, e può terminare questo effetto invece di muoversi quando è messo a fuoco. Mentre è Radicato, il Pastore di Alberi ha resistenza ai danni fisici.
+ * **Solo un Albero - Passiva:** Prima di effettuare il loro primo attacco in un combattimento o dopo che diventano _Nascosti_, i Pastori di Alberi non sono distinguibili dagli altri alberi fino a quando non agiscono nuovamente o un PG supera un Tiro d'Intuito per identificarli.
+ * **Barrage di Semi - Azione:** **Segnare uno Stress** ed effettuare un attacco contro fino a tre bersagli in portata Vicina, colpendoli con gigantesche ghiande. I bersagli colpiti subiscono **2d10+5** danni fisici.
+ * **Radicarsi - Azione:** **Segnare uno Stress** per _Radicare_ il Pastore di Alberi sul posto. Il Pastore di Alberi è _Ristretto_ mentre è _Radicato_, e può terminare questo effetto invece di muoversi quando è messo a fuoco. Mentre è Radicato, il Pastore di Alberi ha resistenza ai danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

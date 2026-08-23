@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Segna uno [[Stress]] per ottenere [[vantaggio]] su un [[attacco]].
+Segna uno [[Stress]] per ottenere [[Vantaggio|vantaggio]] su un [[Attacco|attacco]].

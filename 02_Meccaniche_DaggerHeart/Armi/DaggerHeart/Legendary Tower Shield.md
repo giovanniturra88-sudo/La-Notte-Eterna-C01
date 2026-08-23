@@ -5,10 +5,10 @@ danno: d6+6
 gittata: mischia
 ingombro: "una mano"
 original_name: "Legendary Tower Shield"
-ruolo: -
+ruolo: ""
 tier: 4
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Yakamel_Milk"]
 rarity: "Comune"
 original_rarity: "Common"

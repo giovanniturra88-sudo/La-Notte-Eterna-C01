@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Dragon Knight"
 ---
 
 ## Cavaliere Drago
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Tornei +2
 * **Attacchi:**
-  * **Lancia:** +2 | Molto Vicina | 2d12+3 fisico
+ * **Lancia:** +2 | Molto Vicina | 2d12+3 fisico
 * **Tratti e Capacità:**
-  * **Posizione Vantaggiosa - Passiva:** Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui.
-  * **Colpo Saltante - Azione:** Segnare uno Stress per far saltare il Cavaliere in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
-  * **Ripresa - Reazione:** Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio.
+ * **Posizione Vantaggiosa - Passiva:** Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui.
+ * **Colpo Saltante - Azione:** Segnare uno Stress per far saltare il Cavaliere in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+ * **Ripresa - Reazione:** Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio.
 
 ```statblock
 layout: DaggerHeart Nemici

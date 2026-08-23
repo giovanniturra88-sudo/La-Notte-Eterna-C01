@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Solo]]"
+aliases:
+ - "Hill Titan"
 ---
 
 ## Titano della Collina
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 10 | **Stress:** 5
 * **Esperienza:** Sopravvivenza +3, Vendicativo +3
 * **Attacchi:**
-  * **Tronco d'Albero:** +3 | Molto Vicina | 2d10+4 fisico
+ * **Tronco d'Albero:** +3 | Molto Vicina | 2d10+4 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Credulone - Passiva:** I PG hanno il vantaggio sui tiri d'azione per ingannare o manipolare emotivamente il Titano.
-  * **Sciame di Insetti - Passiva:** I PG sono *Vulnerabili* mentre sono entro portata Molto Vicina.
-  * **Sferzata Potente - Azione:** Spendere una Paura per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina.
-  * **Quantità di Moto - Reazione:** Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Credulone - Passiva:** I PG hanno il vantaggio sui tiri d'azione per ingannare o manipolare emotivamente il Titano.
+ * **Sciame di Insetti - Passiva:** I PG sono *Vulnerabili* mentre sono entro portata Molto Vicina.
+ * **Sferzata Potente - Azione:** Spendere una Paura per effettuare un attacco standard contro tutti i bersagli entro portata Molto Vicina.
+ * **Quantità di Moto - Reazione:** Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

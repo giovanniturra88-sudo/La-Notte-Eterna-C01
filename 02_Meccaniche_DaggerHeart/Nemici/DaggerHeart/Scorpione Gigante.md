@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Camuffamento +2
 * **Attacchi:**
-  * **Pinzette:** +1 | Da Vicino | 1d12+2 fisico
+ * **Pinzette:** +1 | Da Vicino | 1d12+2 fisico
 * **Tratti e Capacità:**
-  * **Doppio Colpo - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro due bersagli in portata Da Vicino.
-  * **Veleno - Azione:** Effettua un attacco contro un bersaglio in portata Molto Vicina. In caso di successo, **Spendere una Paura** per infliggere **1d4+4** danni fisici e _Avvelenarlo_ fino al loro prossimo riposo o finché non riescono a superare un Tiro di Conoscenza (16). Mentre è _Avvelenato_, il bersaglio deve lanciare un **d6** prima di effettuare un tiro d'azione. Su un risultato pari o inferiore a 4, deve segnare uno Stress.
-  * **Impeto - Reazione:** Quando lo Scorpione infligge un attacco riuscito contro un PG, guadagni una Paura.
+ * **Doppio Colpo - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro due bersagli in portata Da Vicino.
+ * **Veleno - Azione:** Effettua un attacco contro un bersaglio in portata Molto Vicina. In caso di successo, **Spendere una Paura** per infliggere **1d4+4** danni fisici e _Avvelenarlo_ fino al loro prossimo riposo o finché non riescono a superare un Tiro di Conoscenza (16). Mentre è _Avvelenato_, il bersaglio deve lanciare un **d6** prima di effettuare un tiro d'azione. Su un risultato pari o inferiore a 4, deve segnare uno Stress.
+ * **Impeto - Reazione:** Quando lo Scorpione infligge un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

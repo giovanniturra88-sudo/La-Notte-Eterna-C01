@@ -26,9 +26,9 @@ stress: "3"
 esperienza: "+2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
- - name: "Bisturi / Stiletto"
- desc: "**+3** | Da Vicino | **1d6+3** Tagliente"
+  - name: "Bisturi / Stiletto"
+    desc: "**+3** | Da Vicino | **1d6+3** Tagliente"
 tratti:
- - name: "Falsa Innocenza"
- desc: "Risulta indistinguibile da un oggetto inanimato finché non colpisce."
+  - name: "Falsa Innocenza"
+    desc: "Risulta indistinguibile da un oggetto inanimato finché non colpisce."
 ```

@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Intrusione +3
 * **Attacchi:**
-  * **Pugnali:** +1 | Da Vicino | 1d4+4 fisico
+ * **Pugnali:** +1 | Da Vicino | 1d4+4 fisico
 * **Tratti e Capacità:**
-  * **Colpo alle Spalle - Passiva:** Quando l'Ombra ha successo con un attacco standard che ha vantaggio, infligge **1d6+6** danni fisici invece del danno standard.
-  * **Coperto - Azione:** Diventa _Nascosto_ fino alla fine del prossimo attacco dell'Ombra. Gli attacchi effettuati mentre è _Nascosto_ grazie a questa caratteristica hanno vantaggio.
+ * **Colpo alle Spalle - Passiva:** Quando l'Ombra ha successo con un attacco standard che ha vantaggio, infligge **1d6+6** danni fisici invece del danno standard.
+ * **Coperto - Azione:** Diventa _Nascosto_ fino alla fine del prossimo attacco dell'Ombra. Gli attacchi effettuati mentre è _Nascosto_ grazie a questa caratteristica hanno vantaggio.
 
 ```statblock
 layout: DaggerHeart Nemici

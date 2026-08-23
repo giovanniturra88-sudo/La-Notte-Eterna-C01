@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Cursed Merfolk"
 ---
 
 ## Merfolk Maledetto
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Esperienza:** Acquatico +3
 * **Attacchi:**
-  * **Tridente Catene:** +3 | Lontano | 3d6 fisico
+ * **Tridente Catene:** +3 | Lontano | 3d6 fisico
 * **Tratti e Capacità:**
-  * **Coda di Pesce - Passiva:** Il Merfolk è *Vulnerabile* fuori dall'acqua.
-  * **Agguato di Gruppo - Passiva:** Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati.
-  * **"Vieni Qui!" - Reazione:** Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio.
+ * **Coda di Pesce - Passiva:** Il Merfolk è *Vulnerabile* fuori dall'acqua.
+ * **Agguato di Gruppo - Passiva:** Il Merfolk guadagna un bonus di +2 ai tiri d'attacco contro bersagli entro portata Da Vicino di uno o più alleati.
+ * **"Vieni Qui!" - Reazione:** Quando il Merfolk effettua un attacco standard riuscito contro un bersaglio oltre portata Da Vicino, puoi segnare uno Stress per trarlo in portata Da Vicino. Se lo fai, puoi spendere una Paura per effettuare un attacco standard con vantaggio contro il bersaglio.
 
 ```statblock
 layout: DaggerHeart Nemici

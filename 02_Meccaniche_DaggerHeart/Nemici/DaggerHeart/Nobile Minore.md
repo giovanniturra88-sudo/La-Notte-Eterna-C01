@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 5
 * **Esperienza:** Aristocratico +3
 * **Attacchi:**
-  * **Rapiera:** -3 | Da Vicino | 1d6+1 fisico
+ * **Rapiera:** -3 | Da Vicino | 1d6+1 fisico
 * **Tratti e Capacità:**
-  * **La Mia Terra, Le Mie Regole - Passiva:** Tutte le azioni sociali effettuate contro il Nobile sulla sua terra hanno svantaggio.
-  * **Guardie, Catturati! - Azione:** Una volta per scena, **Segnare uno Stress** per evocare **1d4** Guardie, che appaiono in portata Lontana per far rispettare la volontà del Nobile.
-  * **Esilio - Azione:** **Spendere una Paura** e scegliere un PG. Il Nobile proclama che il bersaglio e i suoi alleati sono esiliati dal territorio nobiliare. Mentre sono esiliati, il bersaglio e i suoi alleati hanno svantaggio durante le situazioni sociali all'interno del dominio del Nobile.
+ * **La Mia Terra, Le Mie Regole - Passiva:** Tutte le azioni sociali effettuate contro il Nobile sulla sua terra hanno svantaggio.
+ * **Guardie, Catturati! - Azione:** Una volta per scena, **Segnare uno Stress** per evocare **1d4** Guardie, che appaiono in portata Lontana per far rispettare la volontà del Nobile.
+ * **Esilio - Azione:** **Spendere una Paura** e scegliere un PG. Il Nobile proclama che il bersaglio e i suoi alleati sono esiliati dal territorio nobiliare. Mentre sono esiliati, il bersaglio e i suoi alleati hanno svantaggio durante le situazioni sociali all'interno del dominio del Nobile.
 
 ```statblock
 layout: DaggerHeart Nemici

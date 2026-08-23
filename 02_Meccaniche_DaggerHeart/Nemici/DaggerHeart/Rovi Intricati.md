@@ -11,11 +11,11 @@ type:
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Attacchi:**
-  * **Rompighiaccio:** -1 | Da Vicino | 2 fisico
+ * **Rompighiaccio:** -1 | Da Vicino | 2 fisico
 * **Tratti e Capacità:**
-  * **Minion (4) - Passiva:** I Rovi Intricati vengono sconfitti quando ricevono qualsiasi danno. Per ogni 4 danni che un PG infligge ai Rovi Intricati, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Rovi Intricati in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
-  * **Assorbi e Moltiplicati - Reazione:** Quando un attacco dei Rovi Intricati causa al bersaglio di segnare PF e ci sono tre o più Minion Rovi Intricati in portata Vicina, puoi combinare i Minion in una Sciagura di Rovi Intricati. I PF della Sciagura corrispondono al numero di Minion combinati.
+ * **Minion (4) - Passiva:** I Rovi Intricati vengono sconfitti quando ricevono qualsiasi danno. Per ogni 4 danni che un PG infligge ai Rovi Intricati, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Rovi Intricati in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
+ * **Assorbi e Moltiplicati - Reazione:** Quando un attacco dei Rovi Intricati causa al bersaglio di segnare PF e ci sono tre o più Minion Rovi Intricati in portata Vicina, puoi combinare i Minion in una Sciagura di Rovi Intricati. I PF della Sciagura corrispondono al numero di Minion combinati.
 
 ```statblock
 layout: DaggerHeart Nemici

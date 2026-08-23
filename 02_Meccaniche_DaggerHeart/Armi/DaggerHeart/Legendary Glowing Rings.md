@@ -2,7 +2,7 @@
 alias: ["Anelli Luminosi Leggendari"]
 categoria: equipaggiamento
 danno: d10+11
-gittata: -
+gittata: ""
 ingombro: "due mani"
 original_name: "Legendary Glowing Rings"
 ruolo: primaria

@@ -24,5 +24,6 @@ stress: "5"
 esperienza: "+4"
 soglia_danni: "Minore: 20 | Maggiore: 40 | Grave: 65"
 attacchi:
- - name: "Mazza Primordiale"
- desc: "**+4** | Da Vicino | **3d10+8** Contundente"
+  - name: "Mazza Primordiale"
+    desc: "**+4** | Da Vicino | **3d10+8** Contundente"
+```

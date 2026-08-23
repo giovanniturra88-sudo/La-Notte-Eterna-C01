@@ -12,9 +12,9 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Esperienza:** Conoscenza Locale +3
 * **Attacchi:**
-  * **Arco Lungo:** +1 | Lontana | 1d8+3 fisico
+ * **Arco Lungo:** +1 | Lontana | 1d8+3 fisico
 * **Tratti e Capacità:**
-  * **Colpo Zoppicante - Azione:** Effettua un attacco contro un bersaglio entro portata Lontana. In caso di successo, **segnare uno Stress** per infliggere **1d12+3** danni fisici. Se il bersaglio segna PF da questo attacco, ha svantaggio sui Tiri di Agilità fino a quando non ripristina almeno 1 PF.
+ * **Colpo Zoppicante - Azione:** Effettua un attacco contro un bersaglio entro portata Lontana. In caso di successo, **segnare uno Stress** per infliggere **1d12+3** danni fisici. Se il bersaglio segna PF da questo attacco, ha svantaggio sui Tiri di Agilità fino a quando non ripristina almeno 1 PF.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
-  * **Spada:** +0 | Da Vicino | 1d6+2 fisico
+ * **Spada:** +0 | Da Vicino | 1d6+2 fisico
 * **Tratti e Capacità:**
-  * **Solo Ossa - Passiva:** Il Guerriero è resistente ai danni fisici.
-  * **Non Resta Morto - Reazione:** Quando il Guerriero viene sconfitto, puoi metterlo a fuoco e lanciare un **d6**. Su un risultato di 6, se ci sono altri avversari sul campo di battaglia, il Guerriero si riforma senza PF segnati.
+ * **Solo Ossa - Passiva:** Il Guerriero è resistente ai danni fisici.
+ * **Non Resta Morto - Reazione:** Quando il Guerriero viene sconfitto, puoi metterlo a fuoco e lanciare un **d6**. Su un risultato di 6, se ci sono altri avversari sul campo di battaglia, il Guerriero si riforma senza PF segnati.
 
 ```statblock
 layout: DaggerHeart Nemici

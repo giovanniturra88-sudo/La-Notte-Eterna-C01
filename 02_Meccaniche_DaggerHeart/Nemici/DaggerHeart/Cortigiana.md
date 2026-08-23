@@ -12,9 +12,9 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 4
 * **Esperienza:** Manipolazione +3, Sociale +3
 * **Attacchi:**
-  * **Pugnale:** -3 | Da Vicino | 1d4+3 fisico
+ * **Pugnale:** -3 | Da Vicino | 1d4+3 fisico
 * **Tratti e Capacità:**
-  * **Sguardo Acuto - Reazione:** Quando un PG entro portata Da Vicino effettua un Tiro di Presenza, puoi **segnare uno Stress** per lanciare uno sguardo sulle conseguenze. Se il bersaglio fallisce, deve segnare 2 Stress e diventa _Vulnerabile_ fino alla fine della scena o finché non riesce in un'azione sociale contro la Cortigiana. Se il bersaglio ha successo, deve segnare uno Stress.
+ * **Sguardo Acuto - Reazione:** Quando un PG entro portata Da Vicino effettua un Tiro di Presenza, puoi **segnare uno Stress** per lanciare uno sguardo sulle conseguenze. Se il bersaglio fallisce, deve segnare 2 Stress e diventa _Vulnerabile_ fino alla fine della scena o finché non riesce in un'azione sociale contro la Cortigiana. Se il bersaglio ha successo, deve segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

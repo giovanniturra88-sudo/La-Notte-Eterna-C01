@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Minion]]"
+aliases:
+ - "Guahalan Spirit Beast"
 ---
 
 ## Bestia Spirito Guahalan
@@ -11,12 +13,12 @@ type:
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 2
 * **Attacchi:**
-  * **Morso e Artiglio:** +1 | Da Vicino | 5 magico
+ * **Morso e Artiglio:** +1 | Da Vicino | 5 magico
 * **Tratti e Capacità:**
-  * **Minion (5) - Passiva:** La Bestia Spirito viene sconfitta quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge alla Bestia Spirito, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
-  * **Forma Eterea - Passiva:** La Bestia Spirito ha resistenza ai danni fisici.
-  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Bestie Spirito Guahalan entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 5 danni magici ciascuno. Combina questi danni.
-  * **Bomba Bestiale - Reazione:** Quando la Bestia Spirito viene sconfitta, esplode in fiamma bianca e infligge 5 danni magici alle creature entro portata Da Vicino.
+ * **Minion (5) - Passiva:** La Bestia Spirito viene sconfitta quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge alla Bestia Spirito, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+ * **Forma Eterea - Passiva:** La Bestia Spirito ha resistenza ai danni fisici.
+ * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Bestie Spirito Guahalan entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 5 danni magici ciascuno. Combina questi danni.
+ * **Bomba Bestiale - Reazione:** Quando la Bestia Spirito viene sconfitta, esplode in fiamma bianca e infligge 5 danni magici alle creature entro portata Da Vicino.
 
 ```statblock
 layout: DaggerHeart Nemici

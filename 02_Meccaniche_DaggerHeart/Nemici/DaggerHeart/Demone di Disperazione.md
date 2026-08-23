@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Manipolazione +3
 * **Attacchi:**
-  * **Fulmine di Miasma:** +3 | Lontana | 3d6+1 magico
+ * **Fulmine di Miasma:** +3 | Lontana | 3d6+1 magico
 * **Tratti e Capacità:**
-  * **Profondità di Disperazione - Passiva:** Il Demone infligge danni doppi ai PG con 0 Speranza.
-  * **La Tua Lotta è Senza Senso - Azione:** **Spendere una Paura** per gravare sulle anime di tutti i PG entro portata Lontana. Tutti i bersagli colpiti sostituiscono il loro Dado di Speranza con un **d8** fino a quando non ottengono un successo con Speranza o non completano il loro prossimo riposo.
-  * **I Tuoi Amici Ti Deluderanno - Reazione:** Quando un PG fallisce con Paura, puoi **segnare uno Stress** per far perdere a tutti gli altri PG entro portata Vicina una Speranza.
-  * **Impulso - Reazione:** Quando il Demone infligge un attacco riuscito a un PG, guadagni una Paura.
+ * **Profondità di Disperazione - Passiva:** Il Demone infligge danni doppi ai PG con 0 Speranza.
+ * **La Tua Lotta è Senza Senso - Azione:** **Spendere una Paura** per gravare sulle anime di tutti i PG entro portata Lontana. Tutti i bersagli colpiti sostituiscono il loro Dado di Speranza con un **d8** fino a quando non ottengono un successo con Speranza o non completano il loro prossimo riposo.
+ * **I Tuoi Amici Ti Deluderanno - Reazione:** Quando un PG fallisce con Paura, puoi **segnare uno Stress** per far perdere a tutti gli altri PG entro portata Vicina una Speranza.
+ * **Impulso - Reazione:** Quando il Demone infligge un attacco riuscito a un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 2 | **Stress:** 2
 * **Esperienza:** Spettrale +3
 * **Attacchi:**
-  * **Oggetto Lanciato:** -1 | Lontana | 1d6+3 fisico
+ * **Oggetto Lanciato:** -1 | Lontana | 1d6+3 fisico
 * **Tratti e Capacità:**
-  * **Spettro - Passiva:** Il Poltergeist ha resistenza ai danni fisici. Segnare uno Stress per muoversi fino a portata Vicina attraverso oggetti solidi.
-  * **Possessore - Azione:** Segnare uno Stress per far possedere al Poltergeist un oggetto non magico che è interamente entro portata Vicina, infondendo l'oggetto con un bagliore spettrale. La prossima volta che il Poltergeist dovrebbe subire danni, l'oggetto viene distrutto al suo posto e il Poltergeist ne viene espulso.
-  * **Tempesta Spettrale - Azione:** Spendere una Paura per far trascinare al Poltergeist tutti gli oggetti non magici non indossati entro portata Molto Vicina in un vortice violento. Ogni bersaglio in quell'area deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 1d12+2 danni fisici. I bersagli che riescono subiscono la metà dei danni.
+ * **Spettro - Passiva:** Il Poltergeist ha resistenza ai danni fisici. Segnare uno Stress per muoversi fino a portata Vicina attraverso oggetti solidi.
+ * **Possessore - Azione:** Segnare uno Stress per far possedere al Poltergeist un oggetto non magico che è interamente entro portata Vicina, infondendo l'oggetto con un bagliore spettrale. La prossima volta che il Poltergeist dovrebbe subire danni, l'oggetto viene distrutto al suo posto e il Poltergeist ne viene espulso.
+ * **Tempesta Spettrale - Azione:** Spendere una Paura per far trascinare al Poltergeist tutti gli oggetti non magici non indossati entro portata Molto Vicina in un vortice violento. Ogni bersaglio in quell'area deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 1d12+2 danni fisici. I bersagli che riescono subiscono la metà dei danni.
 
 ```statblock
 layout: DaggerHeart Nemici

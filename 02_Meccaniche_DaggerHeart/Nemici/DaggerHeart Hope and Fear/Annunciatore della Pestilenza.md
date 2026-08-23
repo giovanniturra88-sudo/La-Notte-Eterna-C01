@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Capo]]"
+aliases:
+ - "Harbinger of Pestilence"
 ---
 
 ## Annunciatore della Pestilenza
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 8
 * **Esperienza:** Putrefazione +3
 * **Attacchi:**
-  * **Tocco della Corruzione:** +8 | Da Vicino | 4d10+10 magico
+ * **Tocco della Corruzione:** +8 | Da Vicino | 4d10+10 magico
 * **Tratti e Capacità:**
-  * **Aurea di Contagio - Passiva:** L'Annunciatore è *Contagioso*. Quando un PG entro portata Molto Vicina di una creatura *Contagiosa* compie un'azione, il PG tira un d6. Su un risultato di 1, il PG diventa *Contagioso*. Mentre è *Contagioso*, un PG ha lo svantaggio sui tiri d'azione finché non spende 3 Speranze per rimuovere la condizione. I nemici *Contagiosi* non sono influenzati dalla condizione.
-  * **Montura - Passiva:** Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo.
-  * **Sciame di Cavallette - Azione:** Spendere 2 Paura per far evocare all'Annunciatore uno sciame di cavallette in un punto entro portata Molto Lontana. Ogni PG entro portata Vicina di quel punto deve o segnare uno Slot di Armatura o subire 4d10 danni fisici diretti e tirare un d6. Su un risultato di 1–2, il PG diventa *Contagioso*.
-  * **Natale di Rane - Azione:** Spendere una Paura per far evocare all'Annunciatore una covata di rane malate all'interno delle bocche di fino a tre PG entro portata Vicina. Ogni PG deve superare un Tiro di Reazione di Presenza o subire 4d12 danni magici e tirare un d6. Su un risultato di 1–3, il PG diventa *Contagioso*.
-  * **Portatore di Peste - Azione:** Segnare un numero qualsiasi di Stress fino al numero di PG nella scena. Per ogni Stress che segni, l'Annunciatore evoca 1d4 Legioni di Zombie Contagiosi entro portata Lontana e mette immediatamente a fuoco una di esse.
+ * **Aurea di Contagio - Passiva:** L'Annunciatore è *Contagioso*. Quando un PG entro portata Molto Vicina di una creatura *Contagiosa* compie un'azione, il PG tira un d6. Su un risultato di 1, il PG diventa *Contagioso*. Mentre è *Contagioso*, un PG ha lo svantaggio sui tiri d'azione finché non spende 3 Speranze per rimuovere la condizione. I nemici *Contagiosi* non sono influenzati dalla condizione.
+ * **Montura - Passiva:** Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo.
+ * **Sciame di Cavallette - Azione:** Spendere 2 Paura per far evocare all'Annunciatore uno sciame di cavallette in un punto entro portata Molto Lontana. Ogni PG entro portata Vicina di quel punto deve o segnare uno Slot di Armatura o subire 4d10 danni fisici diretti e tirare un d6. Su un risultato di 1–2, il PG diventa *Contagioso*.
+ * **Natale di Rane - Azione:** Spendere una Paura per far evocare all'Annunciatore una covata di rane malate all'interno delle bocche di fino a tre PG entro portata Vicina. Ogni PG deve superare un Tiro di Reazione di Presenza o subire 4d12 danni magici e tirare un d6. Su un risultato di 1–3, il PG diventa *Contagioso*.
+ * **Portatore di Peste - Azione:** Segnare un numero qualsiasi di Stress fino al numero di PG nella scena. Per ogni Stress che segni, l'Annunciatore evoca 1d4 Legioni di Zombie Contagiosi entro portata Lontana e mette immediatamente a fuoco una di esse.
 
 ```statblock
 layout: DaggerHeart Nemici

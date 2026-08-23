@@ -48,7 +48,7 @@ I template si trovano in `04_Risorse/Templates/`:
 
 ## 🔗 Link e Frontmatter
 
-- Tutti i collegamenti tra note usano la sintassi Obsidian `[[Nome Nota]]`
+- Tutti i collegamenti tra note usano la sintassi Obsidian `Nome Nota`
 - Ogni nota dovrebbe avere un frontmatter YAML con `type` e, se necessario, `aliases`
 
 ## 🚀 Per Iniziare

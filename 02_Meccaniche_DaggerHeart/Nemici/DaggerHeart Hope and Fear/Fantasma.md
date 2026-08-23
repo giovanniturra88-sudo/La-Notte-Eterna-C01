@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Phantom"
 ---
 
 ## Fantasma
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 2 | **Stress:** 1
 * **Esperienza:** Spettrale +3
 * **Attacchi:**
-  * **Tocco Gelerante:** -1 | Da Vicino | 1d6+2 magico
+ * **Tocco Gelerante:** -1 | Da Vicino | 1d6+2 magico
 * **Tratti e Capacità:**
-  * **Incorporeo - Passiva:** Il Fantasma ha resistenza ai danni fisici e può muoversi attraverso oggetti solidi.
-  * **Aurea di Paura - Passiva:** Un PG che viene messo a fuoco entro portata Molto Vicina del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress.
-  * **Infestazione Persistente - Reazione: Conto alla Rovina (1d6).** Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco.
+ * **Incorporeo - Passiva:** Il Fantasma ha resistenza ai danni fisici e può muoversi attraverso oggetti solidi.
+ * **Aurea di Paura - Passiva:** Un PG che viene messo a fuoco entro portata Molto Vicina del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress.
+ * **Infestazione Persistente - Reazione: Conto alla Rovina (1d6).** Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici

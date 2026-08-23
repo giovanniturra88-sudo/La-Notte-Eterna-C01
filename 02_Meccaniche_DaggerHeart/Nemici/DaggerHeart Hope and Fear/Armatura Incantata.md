@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Spellbound Armor"
 ---
 
 ## Armatura Incantata
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 6 | **Stress:** Nessuno
 * **Esperienza:** Guardiano +2
 * **Attacchi:**
-  * **Zweihander:** +0 | Molto Vicina | 1d10+1 fisico
+ * **Zweihander:** +0 | Molto Vicina | 1d10+1 fisico
 * **Tratti e Capacità:**
-  * **Inaffaticabile - Passiva:** L'Armatura non può essere costretta a segnare Stress. Quando un effetto dovrebbe farle segnare Stress, l'Armatura ignora quella parte dell'effetto.
-  * **Sbattere e Ricomporre - Reazione:** Una volta per scena quando l'Armatura viene sconfitta, puoi spendere una Paura per riattivarla. Rimuovi 2 PF e mettila immediatamente a fuoco.
+ * **Inaffaticabile - Passiva:** L'Armatura non può essere costretta a segnare Stress. Quando un effetto dovrebbe farle segnare Stress, l'Armatura ignora quella parte dell'effetto.
+ * **Sbattere e Ricomporre - Reazione:** Una volta per scena quando l'Armatura viene sconfitta, puoi spendere una Paura per riattivarla. Rimuovi 2 PF e mettila immediatamente a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici

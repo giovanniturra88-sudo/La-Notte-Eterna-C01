@@ -3,7 +3,7 @@ type: Abilità
 Livello: 4
 Dominio: "[[Lama]]"
 Costo di Richiamo: 2
-Tipologia Carta: "[[della]]"
+Tipologia Carta: "della"
 Titolo Inglese:
 ---
 

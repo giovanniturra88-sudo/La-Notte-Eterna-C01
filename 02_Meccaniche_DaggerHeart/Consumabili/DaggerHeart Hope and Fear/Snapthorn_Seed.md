@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Snapthorn_Seed"]
 rarity: "Comune"
 original_rarity: "Common"

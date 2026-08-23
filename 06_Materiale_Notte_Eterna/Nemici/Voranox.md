@@ -24,6 +24,7 @@ stress: "5"
 esperienza: "+4"
 soglia_danni: "Minore: 14 | Maggiore: 28 | Grave: 44"
 attacchi:
- - name: "Zanna Pestilenziale"
- traits: "Veleno"
- desc: "**+4** | Da Vicino | **3d8+6** Perforante + Veleno"
+  - name: "Zanna Pestilenziale"
+    traits: "Veleno"
+    desc: "**+4** | Da Vicino | **3d8+6** Perforante + Veleno"
+```

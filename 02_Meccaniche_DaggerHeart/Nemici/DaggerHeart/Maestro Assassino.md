@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Comando +3, Infiltrazione +3
 * **Attacchi:**
-  * **Pugnale Serrato:** +5 | Vicina | 2d10+2 fisico
+ * **Pugnale Serrato:** +5 | Vicina | 2d10+2 fisico
 * **Tratti e Capacità:**
-  * **Non Se Ne Renderà Conto - Passiva:** L'Assassino infligge danni diretti mentre è _Nascosto_.
-  * **Colpire come Uno - Azione:** **Segnare uno Stress** per mettere a fuoco un numero di altri Assassini pari allo Stress non segnato dell'Assassino.
-  * **La Lama Sottile - Reazione:** Quando l'Assassino effettua con successo un attacco standard contro un bersaglio _Vulnerabile_, puoi **Spendere una Paura** per infliggere danni Gravi invece dei danni standard.
-  * **Impeto - Reazione:** Quando l'Assassino effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Non Se Ne Renderà Conto - Passiva:** L'Assassino infligge danni diretti mentre è _Nascosto_.
+ * **Colpire come Uno - Azione:** **Segnare uno Stress** per mettere a fuoco un numero di altri Assassini pari allo Stress non segnato dell'Assassino.
+ * **La Lama Sottile - Reazione:** Quando l'Assassino effettua con successo un attacco standard contro un bersaglio _Vulnerabile_, puoi **Spendere una Paura** per infliggere danni Gravi invece dei danni standard.
+ * **Impeto - Reazione:** Quando l'Assassino effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

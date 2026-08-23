@@ -8,7 +8,7 @@ original_name: "Labrys Axe"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

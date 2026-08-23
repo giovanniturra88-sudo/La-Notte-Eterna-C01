@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Redcap Biters"
 ---
 
 ## Redcap Morditori
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Angoli e Fessure +3
 * **Attacchi:**
-  * **Serrare i Denti:** -1 | Da Vicino | 1d8+4 fisico
+ * **Serrare i Denti:** -1 | Da Vicino | 1d8+4 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+2) - Passiva:** Quando i Morditori hanno segnato metà o più dei loro PF, il loro attacco standard infligge 1d4+2 danni fisici.
-  * **Pesantelli - Passiva:** Un PG deve segnare uno Stress per muoversi fuori dalla portata Da Vicino dei Morditori.
+ * **Orda (1d4+2) - Passiva:** Quando i Morditori hanno segnato metà o più dei loro PF, il loro attacco standard infligge 1d4+2 danni fisici.
+ * **Pesantelli - Passiva:** Un PG deve segnare uno Stress per muoversi fuori dalla portata Da Vicino dei Morditori.
 
 ```statblock
 layout: DaggerHeart Nemici

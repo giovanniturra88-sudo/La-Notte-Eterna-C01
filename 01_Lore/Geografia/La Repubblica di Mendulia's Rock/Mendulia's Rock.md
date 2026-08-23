@@ -26,7 +26,7 @@ Città cosmopolita per eccellenza, a Mendulia's Rock convivono umanoidi di ogni 
 
 ```leaflet
 id: mappa-mendualias-rock
-image: "[[mendulias_rock_map_pic.png]]"
+image: "mendulias_rock_map_pic.png"
 height: 600px
 width: 100%
 type: pixel

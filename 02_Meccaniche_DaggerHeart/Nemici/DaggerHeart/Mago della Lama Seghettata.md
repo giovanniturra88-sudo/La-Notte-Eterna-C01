@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 4
 * **Esperienza:** Conoscenza Magica +2
 * **Attacchi:**
-  * **Bastone:** +2 | Lontana | 1d6+2 magico
+ * **Bastone:** +2 | Lontana | 1d6+2 magico
 * **Tratti e Capacità:**
-  * **Maledizione - Azione:** Scegli un bersaglio in portata Lontana e _Maledirlo_ temporaneamente. Mentre il bersaglio è _Maledetto_, puoi **segnare una Paura** quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece.
-  * **Flusso Caotico - Azione:** Effettua un attacco contro fino a tre bersagli in portata Molto Vicina. **Segnare una Paura** per infliggere **2d6+3** danni magici ai bersagli contro cui il Maledetto ha avuto successo.
+ * **Maledizione - Azione:** Scegli un bersaglio in portata Lontana e _Maledirlo_ temporaneamente. Mentre il bersaglio è _Maledetto_, puoi **segnare una Paura** quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece.
+ * **Flusso Caotico - Azione:** Effettua un attacco contro fino a tre bersagli in portata Molto Vicina. **Segnare una Paura** per infliggere **2d6+3** danni magici ai bersagli contro cui il Maledetto ha avuto successo.
 
 ```statblock
 layout: DaggerHeart Nemici

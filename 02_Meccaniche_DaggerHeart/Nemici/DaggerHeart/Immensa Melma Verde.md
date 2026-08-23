@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Esperienza:** Fondersi tra gli altri +3
 * **Attacchi:**
-  * **Appendice Melma:** +3 | Da Vicino | 3d8+1 magico
+ * **Appendice Melma:** +3 | Da Vicino | 3d8+1 magico
 * **Tratti e Capacità:**
-  * **Lento - Passiva:** Quando metti a fuoco la Melma e non ha un gettone sul suo blocco statistiche, non può agire ancora. Posiziona un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco la Melma e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire.
-  * **Forma Acida - Passiva:** Quando la Melma effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF in più.
-  * **Avvolgimento - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, la Melma lo _avvolge_ e il bersaglio deve segnare 2 Stress. Mentre è _avvolto_, il bersaglio deve segnare uno Stress in più ogni volta che effettua un tiro d'azione. Quando la Melma subisce danni Gravi, tutti i bersagli _avvolti_ vengono liberati e la condizione viene rimossa.
-  * **Divisione - Reazione:** Quando la Melma ha 4 o più PF segnati, puoi **Spendere una Paura** per dividerla in due Melme Verdi (senza PF o Stress segnati). Metti immediatamente a fuoco entrambe.
+ * **Lento - Passiva:** Quando metti a fuoco la Melma e non ha un gettone sul suo blocco statistiche, non può agire ancora. Posiziona un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco la Melma e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire.
+ * **Forma Acida - Passiva:** Quando la Melma effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF in più.
+ * **Avvolgimento - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, la Melma lo _avvolge_ e il bersaglio deve segnare 2 Stress. Mentre è _avvolto_, il bersaglio deve segnare uno Stress in più ogni volta che effettua un tiro d'azione. Quando la Melma subisce danni Gravi, tutti i bersagli _avvolti_ vengono liberati e la condizione viene rimossa.
+ * **Divisione - Reazione:** Quando la Melma ha 4 o più PF segnati, puoi **Spendere una Paura** per dividerla in due Melme Verdi (senza PF o Stress segnati). Metti immediatamente a fuoco entrambe.
 
 ```statblock
 layout: DaggerHeart Nemici

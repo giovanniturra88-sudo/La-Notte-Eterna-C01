@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Environment]]"
+  - "[[Ambiente]]"
 ---
 
 # Convergence, the City of Portals

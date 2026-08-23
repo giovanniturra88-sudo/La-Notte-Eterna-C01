@@ -14,7 +14,7 @@ type:
  * **Lancio di Sporocarpi:** +3 | Media | 2d8+5 Veleno
 * **Tratti e Capacità:**
  * **Rigenerazione Micolica:** Recupera PF se si trova sopra un terreno fungino ricco.
- * **Pelle Cordea:** Riduce di 3 ogni danno fisico subito.
+ * **Pelle Coriacea:** Riduce di 3 ogni danno fisico subito.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -28,13 +28,13 @@ stress: "4"
 esperienza: "+4"
 soglia_danni: "Minore: 15 | Maggiore: 30 | Grave: 48"
 attacchi:
- - name: "Pugno di Tronco"
- desc: "**+4** | Da Vicino | **3d8+6** Contundente"
- - name: "Lancio di Sporocarpi"
- desc: "**+3** | Media | **2d8+5** Veleno"
+  - name: "Pugno di Tronco"
+    desc: "**+4** | Da Vicino | **3d8+6** Contundente"
+  - name: "Lancio di Sporocarpi"
+    desc: "**+3** | Media | **2d8+5** Veleno"
 tratti:
- - name: "Rigenerazione Micolica"
- desc: "Recupera PF se si trova sopra un terreno fungino ricco."
- - name: "Pelle Cordea"
- desc: "Riduce di 3 ogni danno fisico subito."
+  - name: "Rigenerazione Micolica"
+    desc: "Recupera PF se si trova sopra un terreno fungino ricco."
+  - name: "Pelle Coriacea"
+    desc: "Riduce di 3 ogni danno fisico subito."
 ```

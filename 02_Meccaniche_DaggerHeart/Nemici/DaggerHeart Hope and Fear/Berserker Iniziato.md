@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Berserker Initiate"
 ---
 
 ## Berserker Iniziato
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Caccia +3
 * **Attacchi:**
-  * **Denti e Artigli:** +1 | Da Vicino | 2d10 fisico
+ * **Denti e Artigli:** +1 | Da Vicino | 2d10 fisico
 * **Tratti e Capacità:**
-  * **Furia del Branco - Passiva:** L'Iniziato guadagna un bonus di +1 ai tiri d'attacco per ogni alleato entro portata Molto Vicina del bersaglio del suo attacco.
-  * **Furia del Berserker - Reazione:** La prima volta in una scena in cui l'Iniziato segna l'ultimo Stress, guadagna un bonus di +4 ai tiri di danno.
+ * **Furia del Branco - Passiva:** L'Iniziato guadagna un bonus di +1 ai tiri d'attacco per ogni alleato entro portata Molto Vicina del bersaglio del suo attacco.
+ * **Furia del Berserker - Reazione:** La prima volta in una scena in cui l'Iniziato segna l'ultimo Stress, guadagna un bonus di +4 ai tiri di danno.
 
 ```statblock
 layout: DaggerHeart Nemici

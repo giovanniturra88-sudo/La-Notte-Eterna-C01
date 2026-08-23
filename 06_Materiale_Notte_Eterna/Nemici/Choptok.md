@@ -4,7 +4,7 @@ type:
  - "[[Supporto]]"
 ---
 ## Choptok
-* **Descrizione:** Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatte di foglie.
+* **Descrizione:** Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatti di foglie.
 * **Tier:** 1 (Skirmisher / Supporto)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 14
@@ -19,7 +19,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Choptok"
-description: "Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatte di foglie."
+description: "Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatti di foglie."
 tier: "1"
 ruolo: "Skirmisher / Supporto"
 difficolta: "13"
@@ -28,13 +28,13 @@ stress: "3"
 esperienza: "+2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
- - name: "Spada Lunga Minuscola"
- desc: "**+2** | Da Vicino | **1d6+2** Tagliente"
- - name: "Cerbottana Avvelenata"
- desc: "**+3** | Media | **1d4+3** Perforante + Stato Avvelenato/Addormentato"
+  - name: "Spada Lunga Minuscola"
+    desc: "**+2** | Da Vicino | **1d6+2** Tagliente"
+  - name: "Cerbottana Avvelenata"
+    desc: "**+3** | Media | **1d4+3** Perforante + Stato Avvelenato/Addormentato"
 tratti:
- - name: "Invisibilità Magica"
- desc: "*(Costo: 1 Stress)* Diventa invisibile fino al suo prossimo attacco."
- - name: "Occhiolino Accecante"
- desc: "Abbaglia i nemici vicini accecandoli temporaneamente."
+  - name: "Invisibilità Magica"
+    desc: "*(Costo: 1 Stress)* Diventa invisibile fino al suo prossimo attacco."
+  - name: "Occhiolino Accecante"
+    desc: "Abbaglia i nemici vicini accecandoli temporaneamente."
 ```

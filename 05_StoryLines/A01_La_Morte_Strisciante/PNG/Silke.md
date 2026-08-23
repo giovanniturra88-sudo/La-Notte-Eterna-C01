@@ -126,7 +126,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 * **Eredità (Ancestry):** Klorss (Elfo delle Profondità / Drow)
 * **Comunità (Community):** Underborne / Sottoterra (o Scuola d'Arcano)
 * **Classe:** Sorcerer / Wizard (Specializzazione Necromanzia / Arcanista)
-* **Ruolo / Tier:** PNJ / Avversario (Tier 1 Leader o Solo)
+* **Ruolo / Tier:** PNG / Avversario (Tier 1 Leader o Solo)
 * **Aspetto:** Elegante e raffinata, veste sempre con abiti di seta e pizzo nero. Ha pelle d'alabastro/grigio pallido, capelli ramati raccolti con gioielli d'oro e rubini. Indossa sempre un raffinato guanto di seta nera sulla mano sinistra per nascondere l'arto tumefatto e putrefatto, prezzo pagato per le sue ricerche necromantiche.
 
 ---

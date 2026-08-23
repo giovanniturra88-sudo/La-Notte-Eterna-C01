@@ -49,7 +49,7 @@ La storyline canonicamente avviata è **[[A01_La_Morte_Strisciante]]**:
 ## 🔗 Collegamenti
 
 - **Dashboard**: [[Home]]
-- **Lore**: [[01_Lore/Neir]] · [[Notte Eterna]]
+- **Lore**: [[Neir]] · [[Notte Eterna]]
 - **Materiale homebrew**: [[06_Materiale_Notte_Eterna]]
 - **Regole di casa**: [[Vampirismo]] · [[Teriantropia]] · [[Ispirazione Divina]]
 

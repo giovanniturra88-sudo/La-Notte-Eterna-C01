@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Stonemasons_Fortune"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

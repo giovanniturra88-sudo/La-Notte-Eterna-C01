@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 4/6
 * **Punti Ferita:** 4 | **Stress:** 1
 * **Attacchi:**
-  * **Morso:** +0 | Da Vicino | 1d6+1 fisico
+ * **Morso:** +0 | Da Vicino | 1d6+1 fisico
 * **Tratti e Capacità:**
-  * **Troppi da Gestire - Passiva:** Quando lo Zombie è in portata Da Vicino di una creatura e almeno un altro Zombie è in portata Da Vicino, tutti gli attacchi contro quella creatura hanno vantaggio.
-  * **Orribile - Passiva:** Chi segna PF dagli attacchi dello Zombie deve segnare anche uno Stress.
+ * **Troppi da Gestire - Passiva:** Quando lo Zombie è in portata Da Vicino di una creatura e almeno un altro Zombie è in portata Da Vicino, tutti gli attacchi contro quella creatura hanno vantaggio.
+ * **Orribile - Passiva:** Chi segna PF dagli attacchi dello Zombie deve segnare anche uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

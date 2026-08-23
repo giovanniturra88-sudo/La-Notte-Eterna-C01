@@ -16,5 +16,5 @@ source: DaggerHeart
 - **Sintonia Instabile**: Puoi attingere al potere del Velo per potenziare un alleato; tuttavia, il contatto con questa energia pura attira le entità della Notte, generando 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa
-- **Percezione del Buio**: Le Fearie non vedono "la luce" come gli altri esseri organici, ma percepiscono le frequenze del piano astrale. Per loro, l'oscurità è una tela vibrante di colori invisibili, rendendo la Notte Eterna il loro terreno di caccia naturale.
+- **Percezione del Buio**: Le Faerie non vedono "la luce" come gli altri esseri organici, ma percepiscono le frequenze del piano astrale. Per loro, l'oscurità è una tela vibrante di colori invisibili, rendendo la Notte Eterna il loro terreno di caccia naturale.
 - **Relazione con le Fazioni**: Sono temute dalle fazioni di Neir come presagi di sventura o caos. Spesso vivono ai margini della civiltà, agendo come traghettatori di sogni o pericolosi ingannatori.

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Salamander_Salve"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

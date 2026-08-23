@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Invisibility_Potion"]
 rarity: "Raro"
 original_rarity: "Rare"

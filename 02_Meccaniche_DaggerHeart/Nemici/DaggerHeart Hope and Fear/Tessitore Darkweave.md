@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Darkweave Spinner"
 ---
 
 ## Tessitore Darkweave
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Buchi +2, Ragnatele +2
 * **Attacchi:**
-  * **Zanne:** +1 | Da Vicino | 1d8+1 fisico
+ * **Zanne:** +1 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Avvolgere nella Seta d'Ombra - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio è *Vulnerabile* e *Ristretto* finché non riesce su un Tiro di Forza (10).
-  * **Zanna d'Ombra - Reazione:** Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Da Vicino, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è *Tremante*, il bersaglio ha svantaggio sui tiri d'attacco.
+ * **Avvolgere nella Seta d'Ombra - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio è *Vulnerabile* e *Ristretto* finché non riesce su un Tiro di Forza (10).
+ * **Zanna d'Ombra - Reazione:** Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Da Vicino, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è *Tremante*, il bersaglio ha svantaggio sui tiri d'attacco.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -2,7 +2,7 @@
 alias: ["Lancia Leggendaria"]
 categoria: equipaggiamento
 danno: d8+12
-gittata: -
+gittata: ""
 ingombro: "due mani"
 original_name: "Legendary Spear"
 ruolo: primaria

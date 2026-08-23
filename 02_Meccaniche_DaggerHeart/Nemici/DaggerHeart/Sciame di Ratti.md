@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 6/10
 * **Punti Ferita:** 6 | **Stress:** 2
 * **Attacchi:**
-  * **Artigli:** -3 | Da Vicino | 1d8+2 fisico
+ * **Artigli:** -3 | Da Vicino | 1d8+2 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+1) - Passiva:** Quando lo Sciame ha segnato la metà o più dei suoi PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
-  * **In Faccia - Passiva:** Tutti i bersagli in portata Da Vicino hanno svantaggio sugli attacchi contro obiettivi diversi dallo Sciame.
+ * **Orda (1d4+1) - Passiva:** Quando lo Sciame ha segnato la metà o più dei suoi PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
+ * **In Faccia - Passiva:** Tutti i bersagli in portata Da Vicino hanno svantaggio sugli attacchi contro obiettivi diversi dallo Sciame.
 
 ```statblock
 layout: DaggerHeart Nemici

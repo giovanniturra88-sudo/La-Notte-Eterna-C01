@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Triceratops"
 ---
 
 ## Triceratopo
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Difensore +3
 * **Attacchi:**
-  * **Corna:** +2 | Molto Vicina | 2d10+4 fisico
+ * **Corna:** +2 | Molto Vicina | 2d10+4 fisico
 * **Tratti e Capacità:**
-  * **Pelle Coriacea - Passiva:** Quando il Triceratopo dovrebbe essere costretto a segnare PF, puoi segnare un numero qualsiasi di Stress al posto di un numero uguale di PF.
-  * **Sferzata della Coda - Azione:** Segnare uno Stress per scegliere fino a tre bersagli entro portata Molto Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 5d6 danni fisici. I bersagli che riescono subiscono la metà dei danni.
-  * **Carica del Toro - Azione:** Segnare uno Stress per scegliere un bersaglio entro portata Vicina. Il Triceratopo si muove in portata Da Vicino con il bersaglio ed effettua un attacco. In caso di successo, infliggi 3d10 danni fisici diretti.
+ * **Pelle Coriacea - Passiva:** Quando il Triceratopo dovrebbe essere costretto a segnare PF, puoi segnare un numero qualsiasi di Stress al posto di un numero uguale di PF.
+ * **Sferzata della Coda - Azione:** Segnare uno Stress per scegliere fino a tre bersagli entro portata Molto Vicina. Ogni bersaglio deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 5d6 danni fisici. I bersagli che riescono subiscono la metà dei danni.
+ * **Carica del Toro - Azione:** Segnare uno Stress per scegliere un bersaglio entro portata Vicina. Il Triceratopo si muove in portata Da Vicino con il bersaglio ed effettua un attacco. In caso di successo, infliggi 3d10 danni fisici diretti.
 
 ```statblock
 layout: DaggerHeart Nemici

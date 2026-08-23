@@ -11,11 +11,11 @@ type:
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Attacchi:**
-  * **Ascia Maledetta:** +2 | Molto Vicina | 12 fisico
+ * **Ascia Maledetta:** +2 | Molto Vicina | 12 fisico
 * **Tratti e Capacità:**
-  * **Minion (12) - Passiva:** Il Fanale di Shock viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Fanale di Shock, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo.
-  * **Aura della Doom - Passiva:** Quando un PG segna PF da un attacco del Fanale di Shock, perde una Speranza.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Fanali di Shock Caduti in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina i danni.
+ * **Minion (12) - Passiva:** Il Fanale di Shock viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Fanale di Shock, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo.
+ * **Aura della Doom - Passiva:** Quando un PG segna PF da un attacco del Fanale di Shock, perde una Speranza.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Fanali di Shock Caduti in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici

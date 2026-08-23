@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 2
 * **Esperienza:** +2
 * **Attacchi:**
-  * **Nome Attacco 1:** +X | Distanza | XdX+X tipo danno
-  * **Nome Attacco 2:** +X | Da Vicino | XdX+X tipo danno
+ * **Nome Attacco 1:** +X | Distanza | XdX+X tipo danno
+ * **Nome Attacco 2:** +X | Da Vicino | XdX+X tipo danno
 * **Tratti e Capacità:**
-  * **Nome Tratto Passivo:** Descrizione dell'effetto passivo o condizionale.
-  * **Nome Mossa (Costo: 1 Paura):** Descrizione dell'abilità speciale che consuma risorse del GM o Stress.
+ * **Nome Tratto Passivo:** Descrizione dell'effetto passivo o condizionale.
+ * **Nome Mossa (Costo: 1 Paura):** Descrizione dell'abilità speciale che consuma risorse del GM o Stress.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -40,3 +40,4 @@ tratti:
 capacita_speciali:
   - name: "Nome Mossa (Costo: 1 Paura)"
     desc: "Descrizione dell'abilità speciale che consuma risorse del GM o Stress."
+```

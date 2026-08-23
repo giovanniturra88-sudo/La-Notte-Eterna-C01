@@ -6,7 +6,7 @@ type: Indice
 
 TABLE file.link  
 
-WHERE type = "Equipaggiamento"  
+WHERE type = "Artefatto"  
 
 SORT file.name ASC  
 

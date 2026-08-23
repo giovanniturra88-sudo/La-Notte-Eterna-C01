@@ -11,7 +11,7 @@ Il luogo è umido, scarsamente illuminato e letteralmente ricoperto da teschi e 
 Dopo circa venticinque anni dalla sepoltura, i resti vengono riesumati, puliti e trasferiti nelle nicchie che ricoprono le pareti del tempio.  
 ## Storia  
 Il tempio costituisce uno dei principali luoghi di culto popolare della Signoria di [[Mendulia's Rock]].  
-A differenza delle famiglie più ricche, che custodiscono i resti degli antenati nelle proprie cappelle private, i cittadini più poveri affidano la memoria dei propri cari a questo luogo comune.  Nel corso dei secoli la struttura è cresciuta sopra un vastissimo complesso sotterraneo composto da catacombe e cripte.  
+A differenza delle famiglie più ricche, che custodiscono i resti degli antenati nelle proprie cappelle private, i cittadini più poveri affidano la memoria dei propri cari a questo luogo comune. Nel corso dei secoli la struttura è cresciuta sopra un vastissimo complesso sotterraneo composto da catacombe e cripte.  
 ## Aspetto  
 - Tempio piccolo e angusto  
 - Pareti coperte di teschi e ossa  

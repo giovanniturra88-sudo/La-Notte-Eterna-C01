@@ -13,4 +13,4 @@ tier: "Tier 2"
 - **Soglie di Danno:** 9 / 20
 - **Punteggio Armatura:** 4
 
->  Mnemonico: Una volta per scena, puoi richiama una carta dominio dalla tua vault senza pagare il suo Costo di Richiamo.
+> Mnemonico: Una volta per scena, puoi richiamare una carta dominio dalla tua vault senza pagare il suo Costo di Richiamo.

@@ -16,5 +16,5 @@ source: DaggerHeart
 - **Peso della Protezione**: Quando un alleato vicino subisce danni, puoi decidere di subire tu stesso una parte di quei danni (o lo stress). Questa deviazione magica del danno è visibile ed energicamente dispendiosa, generando 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa
-- **Percezione del Buio**: I Firlborg non hanno bisogno di luce; percepiscono le vibrazioni e le correnti magiche che permeano l'oscurità come se fossero correnti d'aria, muovendosi con naturalezza assoluta.
+- **Percezione del Buio**: I Firbolg non hanno bisogno di luce; percepiscono le vibrazioni e le correnti magiche che permeano l'oscurità come se fossero correnti d'aria, muovendosi con naturalezza assoluta.
 - **Relazione con le Fazioni**: Considerati "i guardiani silenti" delle zone di confine. Le fazioni di Neir li rispettano per la loro capacità di mantenere intatti i passaggi sicuri, ma la loro reticenza a condividere i segreti del mondo li rende figure enigmatiche.

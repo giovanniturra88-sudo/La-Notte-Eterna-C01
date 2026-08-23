@@ -4,10 +4,10 @@ type:
 source: La Notte Eterna
 ---
 
-![[KAREVI.png]]
+![[karevi_pic.png]]
 
 ## Essenza e Archetipo
-- **Descrizione Visiva**: figure snelle e affusolate, con pelle diafana che sembra assorbire la luce invece di rifletterla. I loro occhi sono completamente neri, i capelli corvini e/o rosso scuro a seconda dei casi, mentre la pelle è pallida. Leggermente più bassi e snelli dei comuni umani, sono di conseguenza piuttosto agli. 
+- **Descrizione Visiva**: figure snelle e affusolate, con pelle diafana che sembra assorbire la luce invece di rifletterla. I loro occhi sono completamente neri, i capelli corvini e/o rosso scuro a seconda dei casi, mentre la pelle è pallida. Leggermente più bassi e snelli dei comuni umani, sono di conseguenza piuttosto agili. 
 - **Origine**: Creature plasmate dalle correnti della Dimensione dello Spirito e della Materia. Sono nate quando il confine tra i mondi si è assottigliato durante i cataclismi che hanno preceduto e accompagnato la Guerra Celeste, rendendoli entità intrinsecamente legate all'equilibrio tra i piani.
 - **Archetipo**: Esploratori del Velo e Guide. Si comportano come specialisti in mobilità e percezione, capaci di agire come "pilastri di silenzio" per il gruppo. Mentire è un'arte come un’altra nella loro cultura e sin da fanciulli, sviluppano capacità che li rendono abili mercanti, in alcuni casi spie e sicari infallibili.
 

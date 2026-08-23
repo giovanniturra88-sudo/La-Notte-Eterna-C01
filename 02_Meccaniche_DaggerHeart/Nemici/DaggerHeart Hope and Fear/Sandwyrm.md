@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Sensi del Tremore +4
 * **Attacchi:**
-  * **Morso:** +1 | Molto Vicina | 3d8+4 fisico
+ * **Morso:** +1 | Molto Vicina | 3d8+4 fisico
 * **Tratti e Capacità:**
-  * **Aculeo Velenoso della Coda - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Vicina. In caso di successo, il bersaglio subisce 3d10+2 danni fisici e deve superare un Tiro di Reazione di Forza o diventare *Ristretto* e *Vulnerabile* finché non tira con Speranza.
-  * **Divorare - Azione:** Effettua un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, il Sandwyrm *Ingoia* il bersaglio. Mentre è *Ingoiato*, il bersaglio è *Ristretto* e segna un PF quando il Sandwyrm viene messo a fuoco. Il Sandwyrm sputa tutte le creature *Ingoiate* quando subisce danni Maggiori o superiori.
-  * **Affamato, non Stupido - Reazione:** Quando il Sandwyrm segna metà dei suoi PF o *Ingoia* una creatura, tira un d6. Su un risultato di 3 o inferiore, il Sandwyrm si ritira in sicurezza.
+ * **Aculeo Velenoso della Coda - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Vicina. In caso di successo, il bersaglio subisce 3d10+2 danni fisici e deve superare un Tiro di Reazione di Forza o diventare *Ristretto* e *Vulnerabile* finché non tira con Speranza.
+ * **Divorare - Azione:** Effettua un attacco contro un bersaglio entro portata Da Vicino. In caso di successo, il Sandwyrm *Ingoia* il bersaglio. Mentre è *Ingoiato*, il bersaglio è *Ristretto* e segna un PF quando il Sandwyrm viene messo a fuoco. Il Sandwyrm sputa tutte le creature *Ingoiate* quando subisce danni Maggiori o superiori.
+ * **Affamato, non Stupido - Reazione:** Quando il Sandwyrm segna metà dei suoi PF o *Ingoia* una creatura, tira un d6. Su un risultato di 3 o inferiore, il Sandwyrm si ritira in sicurezza.
 
 ```statblock
 layout: DaggerHeart Nemici

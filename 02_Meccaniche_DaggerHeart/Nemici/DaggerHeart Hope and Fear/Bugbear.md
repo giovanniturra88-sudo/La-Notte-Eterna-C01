@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Trappole +3
 * **Attacchi:**
-  * **Mazza Chiodata:** +1 | Molto Vicina | 1d8+6 fisico
+ * **Mazza Chiodata:** +1 | Molto Vicina | 1d8+6 fisico
 * **Tratti e Capacità:**
-  * **Sorpresa! - Passiva:** Se il Bugbear effettua il suo primo attacco in una scena prima di segnare PF o Stress, ha il vantaggio sull'attacco e infligge 1d8 danni aggiuntivi.
-  * **Brutale - Reazione:** Quando il Bugbear effettua un attacco standard riuscito, puoi segnare uno Stress per infliggere 1d6 danni aggiuntivi.
-  * **Cuore da Guerra - Reazione:** Quando una condizione dovrebbe essere imposta al Bugbear, puoi spendere una Paura per annullarla.
+ * **Sorpresa! - Passiva:** Se il Bugbear effettua il suo primo attacco in una scena prima di segnare PF o Stress, ha il vantaggio sull'attacco e infligge 1d8 danni aggiuntivi.
+ * **Brutale - Reazione:** Quando il Bugbear effettua un attacco standard riuscito, puoi segnare uno Stress per infliggere 1d6 danni aggiuntivi.
+ * **Cuore da Guerra - Reazione:** Quando una condizione dovrebbe essere imposta al Bugbear, puoi spendere una Paura per annullarla.
 
 ```statblock
 layout: DaggerHeart Nemici

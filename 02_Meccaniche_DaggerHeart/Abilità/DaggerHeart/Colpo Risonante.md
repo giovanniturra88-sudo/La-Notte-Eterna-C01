@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese: Rousing Strike
 ---
 
-Una volta per [[riposo]], quando colpisci con un attacco in modo [[critico]], tu e tutti gli alleati che ti possono vedere o sentire potete rimuovere un Punto  pp o 1[[D4]] Stress.
+Una volta per [[Riposo|riposo]], quando colpisci con un attacco in modo [[Critico|critico]], tu e tutti gli alleati che ti possono vedere o sentire potete rimuovere un Punto Ferita o 1d4 Stress.

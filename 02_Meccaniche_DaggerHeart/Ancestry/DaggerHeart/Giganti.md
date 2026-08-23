@@ -18,7 +18,7 @@ source: DaggerHeart
 
 ## Integrazione in Nebvarasa
 
--  **Percezione del Buio**: i Giganti non vedono nel senso convenzionale. La loro biologia percepisce le vibrazioni telluriche e le variazioni di pressione negli ambienti chiusi. Possono mappare accuratamente qualsiasi struttura o grotta senza bisogno di luce, percependo il "peso" e la posizione di ogni oggetto solido nel raggio di 30 metri.
+- **Percezione del Buio**: i Giganti non vedono nel senso convenzionale. La loro biologia percepisce le vibrazioni telluriche e le variazioni di pressione negli ambienti chiusi. Possono mappare accuratamente qualsiasi struttura o grotta senza bisogno di luce, percependo il "peso" e la posizione di ogni oggetto solido nel raggio di 30 metri.
 - **Relazione con le Fazioni**: a Neir sono visti dalle gilde come risorse da lavoro forzato o deterrenti bellici. La loro presenza è spesso fonte di ansia a causa della mole che minaccia l'architettura instabile della città. All'esterno molti Giganti vivono come eremiti nelle terre selvagge, dove sono venerati o temuti come protettori dei rari passaggi dimensionali ancora stabili.
 
 ## Note di Adattamento

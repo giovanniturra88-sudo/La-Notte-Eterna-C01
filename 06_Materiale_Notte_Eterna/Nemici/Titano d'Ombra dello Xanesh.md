@@ -24,5 +24,6 @@ stress: "8"
 esperienza: "+6"
 soglia_danni: "Minore: 28 | Maggiore: 56 | Grave: 88"
 attacchi:
- - name: "Schianto d'Ombra"
- desc: "**+5** | Area Vicina | **3d12+8** Necrotico"
+  - name: "Schianto d'Ombra"
+    desc: "**+5** | Area Vicina | **3d12+8** Necrotico"
+```

@@ -11,13 +11,13 @@ type:
 * **Soglie di Danno:** 7/14
 * **Punti Ferita:** 7 | **Stress:** 3
 * **Attacchi:**
-  * **Esplosione di Warp:** +3 | Vicina | 1d12+6 magico
+ * **Esplosione di Warp:** +3 | Vicina | 1d12+6 magico
 * **Tratti e Capacità:**
-  * **Aspetto Arcano - Passiva:** L'Elementale è resistente al danno magico.
-  * **Flusso Nauseante - Azione:** **Segnare un PF** per costringere tutti i bersagli in portata Vicina a segnare uno Stress e diventare _Vulnerabili_ fino al loro prossimo riposo o fino a che non rimuovono un PF.
-  * **Riforma la Realtà - Azione:** **Spendere una Paura** per trasformare l'area entro portata Molto Vicina in un bioma diverso. Tutti i bersagli in quest'area subiscono **2d6+3** danni diretti di magia.
-  * **Riflesso Magico - Reazione:** Quando l'Elementale subisce danno da un attacco in portata Vicina, infliggi al nemico una quantità di danno uguale alla metà di quello che ha inflitto.
-  * **Impulso - Reazione:** Quando l'Elementale effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Aspetto Arcano - Passiva:** L'Elementale è resistente al danno magico.
+ * **Flusso Nauseante - Azione:** **Segnare un PF** per costringere tutti i bersagli in portata Vicina a segnare uno Stress e diventare _Vulnerabili_ fino al loro prossimo riposo o fino a che non rimuovono un PF.
+ * **Riforma la Realtà - Azione:** **Spendere una Paura** per trasformare l'area entro portata Molto Vicina in un bioma diverso. Tutti i bersagli in quest'area subiscono **2d6+3** danni diretti di magia.
+ * **Riflesso Magico - Reazione:** Quando l'Elementale subisce danno da un attacco in portata Vicina, infliggi al nemico una quantità di danno uguale alla metà di quello che ha inflitto.
+ * **Impulso - Reazione:** Quando l'Elementale effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

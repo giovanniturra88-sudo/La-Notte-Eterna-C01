@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Harpy"
 ---
 
 ## Arpia
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Isole +3
 * **Attacchi:**
-  * **Artigli:** +0 | Da Vicino | 1d8+1 fisico
+ * **Artigli:** +0 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Aurea Tossica - Passiva:** L'Arpia emana un fetore nauseante che rende *Vulnerabili* tutti i non-Arpie entro portata Molto Vicina.
-  * **Attacco in Tuffo - Azione:** Segnare uno Stress per far muovere l'Arpia in linea retta verso un punto entro portata Lontana ed effettuare un attacco contro un bersaglio lungo il suo percorso. In caso di successo, l'Arpia infligge 3d6 danni fisici.
+ * **Aurea Tossica - Passiva:** L'Arpia emana un fetore nauseante che rende *Vulnerabili* tutti i non-Arpie entro portata Molto Vicina.
+ * **Attacco in Tuffo - Azione:** Segnare uno Stress per far muovere l'Arpia in linea retta verso un punto entro portata Lontana ed effettuare un attacco contro un bersaglio lungo il suo percorso. In caso di successo, l'Arpia infligge 3d6 danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

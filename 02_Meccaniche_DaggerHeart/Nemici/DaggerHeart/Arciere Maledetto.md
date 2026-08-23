@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 25/45
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
-  * **Arco Lungo Santificato:** +4 | Lontana | 4d8+8 fisico
+ * **Arco Lungo Santificato:** +4 | Lontana | 4d8+8 fisico
 * **Tratti e Capacità:**
-  * **Punisci i Colpevoli - Passiva:** L'Arciere infligge danni doppi ai bersagli segnati come _Colpevole_ da un Alto Serafino.
-  * **Volata Divina - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro fino a tre bersagli.
+ * **Punisci i Colpevoli - Passiva:** L'Arciere infligge danni doppi ai bersagli segnati come _Colpevole_ da un Alto Serafino.
+ * **Volata Divina - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro fino a tre bersagli.
 
 ```statblock
 layout: DaggerHeart Nemici

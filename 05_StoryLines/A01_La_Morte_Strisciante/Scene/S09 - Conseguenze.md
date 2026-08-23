@@ -18,4 +18,4 @@ L'indagine rivela l'esistenza di attività necromantiche organizzate all'interno
 - [[Scuola delle Parole che Uccidono]]
 - Infiltrazioni necromantiche nei Bassifondi
 ## Storyline Successive
-- [[La Scuola delle Parole che Uccidono]]
+- [[Scuola delle Parole che Uccidono]]

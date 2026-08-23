@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Minion]]"
+aliases:
+ - "Redcap Skinner"
 ---
 
 ## Redcap Peller
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Esperienza:** Pelletteria +3
 * **Attacchi:**
-  * **Rasoio:** -1 | Da Vicino | 2 fisico
+ * **Rasoio:** -1 | Da Vicino | 2 fisico
 * **Tratti e Capacità:**
-  * **Minion (4) - Passiva:** Il Peller viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Peller, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
-  * **Tagli Superficiali - Passiva:** Quando un PG fallisce un tiro, subisce 1 danno fisico per ogni Peller entro portata Da Vicino di esso. Combina questi danni.
-  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Redcap Peller entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina questi danni.
+ * **Minion (4) - Passiva:** Il Peller viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Peller, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+ * **Tagli Superficiali - Passiva:** Quando un PG fallisce un tiro, subisce 1 danno fisico per ogni Peller entro portata Da Vicino di esso. Combina questi danni.
+ * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Redcap Peller entro portata Vicina di esso. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina questi danni.
 
 ```statblock
 layout: DaggerHeart Nemici

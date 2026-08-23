@@ -3,7 +3,7 @@ type: Abilità
 Livello: 1
 Dominio: "[[Ossa]]"
 Costo di Richiamo: 0
-Tipologia Carta: "[[delle]]"
+Tipologia Carta: "delle"
 Titolo Inglese:
 ---
 

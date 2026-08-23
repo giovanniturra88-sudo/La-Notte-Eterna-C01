@@ -7,6 +7,6 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese: Versatile Fighter
 ---
 
-Puoi utilizzare una [[caratteristica]] diversa per un'arma equipaggiata, rispetto a quella richiesta dall'arma stessa.
+Puoi utilizzare una caratteristica diversa per un'arma equipaggiata, rispetto a quella richiesta dall'arma stessa.
 
-Quando infliggi danni, puoi segnare uno [[stress]] per usare il risultato massimo di uno dei tuoi dadi di danno, invece di lanciarlo.
+Quando infliggi danni, puoi segnare uno [[Stress|stress]] per usare il risultato massimo di uno dei tuoi dadi di danno, invece di lanciarlo.

@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Lyrebird_Lozenge"]
 rarity: "Comune"
 original_rarity: "Common"

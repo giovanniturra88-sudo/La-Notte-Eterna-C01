@@ -41,7 +41,7 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 - **Evocare le Rune (Ricarica 5-6):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto entro 18 m. Ogni creatura in un raggio di 6 m deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 42 (12d6) danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
 
 #### **REAZIONI**
-- **Controincantesimo Runico:** Elkad'dan può interrompere una capacità magica lanciato entro 18 m da lui con un successo automatico se l'incantesimo è di 5° livello o inferiore.
+- **Controincantesimo Runico:** Elkad'dan può interrompere una capacità magica lanciata entro 18 m da lui con un successo automatico se l'incantesimo è di 5° livello o inferiore.
 
 ---
 

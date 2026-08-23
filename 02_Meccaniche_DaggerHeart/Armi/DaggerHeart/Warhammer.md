@@ -8,7 +8,7 @@ original_name: "Warhammer"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

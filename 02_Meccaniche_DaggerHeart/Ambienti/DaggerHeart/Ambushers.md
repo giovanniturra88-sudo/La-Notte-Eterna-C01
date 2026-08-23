@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Environment]]"
+  - "[[Ambiente]]"
 ---
 
 # Ambushers

@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Basilisk"
 ---
 
 ## Basilisco
@@ -11,10 +13,10 @@ type:
 * **Soglie di Danno:** 8/19
 * **Punti Ferita:** 4 | **Stress:** 4
 * **Attacchi:**
-  * **Mascelle e Artigli:** +1 | Da Vicino | 2d6+4 fisico
+ * **Mascelle e Artigli:** +1 | Da Vicino | 2d6+4 fisico
 * **Tratti e Capacità:**
-  * **Petrificare - Azione:** Spendere una Paura per costringere un PG entro portata Lontana a effettuare un Tiro di Reazione d'Istinto. In caso di successo, il bersaglio segna uno Stress. In caso di fallimento, il bersaglio diventa Rigido. Se il bersaglio è già Rigido, diventa Petrificato. Mentre è Rigido, il PG deve segnare uno Stress ogni volta che agisce, finché non effettua un riposo o il Basilisco non viene sconfitto. Mentre è Petrificato, il PG non può agire. La condizione Petrificato può essere rimossa solo applicando la saliva del Basilisco sul bersaglio.
-  * **CRONCH! - Azione:** Segnare uno Stress per far mordere al Basilisco un PG Petrificato entro portata Da Vicino. Il bersaglio deve effettuare una mossa di morte.
+ * **Petrificare - Azione:** Spendere una Paura per costringere un PG entro portata Lontana a effettuare un Tiro di Reazione d'Istinto. In caso di successo, il bersaglio segna uno Stress. In caso di fallimento, il bersaglio diventa Rigido. Se il bersaglio è già Rigido, diventa Petrificato. Mentre è Rigido, il PG deve segnare uno Stress ogni volta che agisce, finché non effettua un riposo o il Basilisco non viene sconfitto. Mentre è Petrificato, il PG non può agire. La condizione Petrificato può essere rimossa solo applicando la saliva del Basilisco sul bersaglio.
+ * **CRONCH! - Azione:** Segnare uno Stress per far mordere al Basilisco un PG Petrificato entro portata Da Vicino. Il bersaglio deve effettuare una mossa di morte.
 
 ```statblock
 layout: DaggerHeart Nemici

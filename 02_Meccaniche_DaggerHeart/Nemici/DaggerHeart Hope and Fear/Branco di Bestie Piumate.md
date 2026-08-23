@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Flock of Feather Fiends"
 ---
 
 ## Branco di Bestie Piumate
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Volo +2, Sciame +2
 * **Attacchi:**
-  * **Picchiare e Artigliare:** +0 | Da Vicino | 2d6+2 magico
+ * **Picchiare e Artigliare:** +0 | Da Vicino | 2d6+2 magico
 * **Tratti e Capacità:**
-  * **Orda (1d6+1) - Passiva:** Quando il Branco ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d6+1 danni magici.
-  * **Cacofonia Folle - Azione:** Segnare uno Stress per costringere ogni PG entro portata Molto Vicina a effettuare un Tiro di Reazione d'Istinto. I bersagli che falliscono devono spendere una Speranza o diventare *Vulnerabili* finché non infliggono danni al Branco o il Branco non viene sconfitto.
+ * **Orda (1d6+1) - Passiva:** Quando il Branco ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d6+1 danni magici.
+ * **Cacofonia Folle - Azione:** Segnare uno Stress per costringere ogni PG entro portata Molto Vicina a effettuare un Tiro di Reazione d'Istinto. I bersagli che falliscono devono spendere una Speranza o diventare *Vulnerabili* finché non infliggono danni al Branco o il Branco non viene sconfitto.
 
 ```statblock
 layout: DaggerHeart Nemici

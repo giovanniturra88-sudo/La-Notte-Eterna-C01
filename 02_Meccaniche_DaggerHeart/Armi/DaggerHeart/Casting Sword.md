@@ -8,7 +8,7 @@ original_name: "Casting Sword"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

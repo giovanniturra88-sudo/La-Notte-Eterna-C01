@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Scarecrow"
 ---
 
 ## Spaventapasseri
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Uccelli +2, Campi +2
 * **Attacchi:**
-  * **Falce:** +1 | Da Vicino | 2d6+1 fisico
+ * **Falce:** +1 | Da Vicino | 2d6+1 fisico
 * **Tratti e Capacità:**
-  * **Fatto di Paglia - Passiva:** Lo Spaventapasseri ha resistenza ai danni fisici ma subisce il doppio dei danni da fuoco.
-  * **Visione del Terrore - Azione:** Spendere una Paura per far fissare lo Spaventapasseri un PG entro portata Molto Vicina, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza.
+ * **Fatto di Paglia - Passiva:** Lo Spaventapasseri ha resistenza ai danni fisici ma subisce il doppio dei danni da fuoco.
+ * **Visione del Terrore - Azione:** Spendere una Paura per far fissare lo Spaventapasseri un PG entro portata Molto Vicina, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici

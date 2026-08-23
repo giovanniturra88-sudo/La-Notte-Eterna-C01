@@ -1,5 +1,7 @@
 ---
 type: Storyline
+aliases:
+ - "La Morte Strisciante"
 status: Canonica
 livello_consigliato: 1-3
 ambientazione:

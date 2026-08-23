@@ -12,15 +12,15 @@ type:
 * **Punti Ferita:** 11 | **Stress:** 5
 * **Esperienza:** Conquista +3, Storia +2, Intimidazione +3
 * **Attacchi:**
-  * **Spada Spezzatrice di Cuore:** +8 | Molto Vicina | 4d12+13 fisico
+ * **Spada Spezzatrice di Cuore:** +8 | Molto Vicina | 4d12+13 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (3) - Passiva:** Il Campione Imbattibile può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco.
-  * **Armatura Debole - Passiva:** Quando il Campione Imbattibile subisce danni, ridurli di **1d10**.
-  * **Colpo Spezzante - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro tutti i bersagli in portata Molto Vicina. I PG che il Campione colpisce perdono un numero di Speranza uguale ai PF che hanno segnato con questo attacco.
-  * **Legioni Senza Fine - Azione:** **Spendere una Paura** per evocare un numero di Soldati d'Assalto Caduti pari a due volte il numero di PG. I Soldati d'Assalto appaiono a portata Lontana.
-  * **Cerchio di Profanazione - Reazione: Conto alla Rovina (1d8):** Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è _Vulnerabile_ finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile.
-  * **Impeto - Reazione:** Quando il Campione Imbattibile effettua un attacco riuscito contro un PG, guadagni una Paura.
-  * **Portatore di Morte - Reazione:** Quando un bersaglio segna PF da un attacco del Campione Imbattibile, tutti i PG a portata Lontana dal bersaglio perdono una Speranza.
+ * **Inesorabile (3) - Passiva:** Il Campione Imbattibile può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco.
+ * **Armatura Debole - Passiva:** Quando il Campione Imbattibile subisce danni, ridurli di **1d10**.
+ * **Colpo Spezzante - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro tutti i bersagli in portata Molto Vicina. I PG che il Campione colpisce perdono un numero di Speranza uguale ai PF che hanno segnato con questo attacco.
+ * **Legioni Senza Fine - Azione:** **Spendere una Paura** per evocare un numero di Soldati d'Assalto Caduti pari a due volte il numero di PG. I Soldati d'Assalto appaiono a portata Lontana.
+ * **Cerchio di Profanazione - Reazione: Conto alla Rovina (1d8):** Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è _Vulnerabile_ finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile.
+ * **Impeto - Reazione:** Quando il Campione Imbattibile effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Portatore di Morte - Reazione:** Quando un bersaglio segna PF da un attacco del Campione Imbattibile, tutti i PG a portata Lontana dal bersaglio perdono una Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici

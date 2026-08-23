@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Tyrannosaurus"
 ---
 
 ## Tiranosauro
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Predatore +3
 * **Attacchi:**
-  * **Mascelle Potenti:** +2 | Molto Vicina | 2d10+4 fisico
+ * **Mascelle Potenti:** +2 | Molto Vicina | 2d10+4 fisico
 * **Tratti e Capacità:**
-  * **Rugito Sconvolgente - Azione:** Spendere una Paura per costringere ogni PG entro portata Vicina a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, deve scegliere di perdere una Speranza o segnare 1d4 Stress.
-  * **Calpestio - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce 3d12 danni fisici diretti.
-  * **Morso Schiacciante - Reazione:** Quando il Tiranosauro effettua un attacco standard riuscito, puoi spendere una Paura per costringere il bersaglio a segnare un PF aggiuntivo.
+ * **Rugito Sconvolgente - Azione:** Spendere una Paura per costringere ogni PG entro portata Vicina a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, deve scegliere di perdere una Speranza o segnare 1d4 Stress.
+ * **Calpestio - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce 3d12 danni fisici diretti.
+ * **Morso Schiacciante - Reazione:** Quando il Tiranosauro effettua un attacco standard riuscito, puoi spendere una Paura per costringere il bersaglio a segnare un PF aggiuntivo.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 6/12
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
-  * **Morso:** -1 | Da Vicino | 1d10+2 fisico
+ * **Morso:** -1 | Da Vicino | 1d10+2 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+2) - Passiva:** Quando i Zombie hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+2** danni fisici invece.
-  * **Sovrastima - Reazione:** Quando i Zombie segnano PF da un attacco entro portata Da Vicino, puoi **segnare uno Stress** per effettuare un attacco standard contro l'aggressore.
+ * **Orda (1d4+2) - Passiva:** Quando i Zombie hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+2** danni fisici invece.
+ * **Sovrastima - Reazione:** Quando i Zombie segnano PF da un attacco entro portata Da Vicino, puoi **segnare uno Stress** per effettuare un attacco standard contro l'aggressore.
 
 ```statblock
 layout: DaggerHeart Nemici

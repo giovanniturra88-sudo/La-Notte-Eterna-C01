@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Conoscenza Antica +3, Alta Società +2, Tattiche +2
 * **Attacchi:**
-  * **Spada Lunga:** +4 | Da Vicino | 2d10+4 fisico
+ * **Spada Lunga:** +4 | Da Vicino | 2d10+4 fisico
 * **Tratti e Capacità:**
-  * **Chevalier - Passiva:** Mentre il Cavaliere è in sella, ottiene un bonus di +2 alla propria Difficoltà. Quando subisce danni Gravi, viene gettato dalla sua montura e perde questo vantaggio fino a quando non viene nuovamente messo a fuoco.
-  * **Pesantemente Armato - Passiva:** Quando il Cavaliere subisce danni fisici, ridurli di 3.
-  * **Carica di Cavalleria - Azione:** Se il Cavaliere è in sella, si muove fino a portata Lontana ed effettua un attacco standard contro un bersaglio. In caso di successo, infligge **2d8+4** danni fisici e il bersaglio deve segnare uno Stress.
-  * **Per la Corona! - Azione:** **Segnare uno Stress** per mettere a fuoco **1d4+1** alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono danni ridotti alla metà.
+ * **Chevalier - Passiva:** Mentre il Cavaliere è in sella, ottiene un bonus di +2 alla propria Difficoltà. Quando subisce danni Gravi, viene gettato dalla sua montura e perde questo vantaggio fino a quando non viene nuovamente messo a fuoco.
+ * **Pesantemente Armato - Passiva:** Quando il Cavaliere subisce danni fisici, ridurli di 3.
+ * **Carica di Cavalleria - Azione:** Se il Cavaliere è in sella, si muove fino a portata Lontana ed effettua un attacco standard contro un bersaglio. In caso di successo, infligge **2d8+4** danni fisici e il bersaglio deve segnare uno Stress.
+ * **Per la Corona! - Azione:** **Segnare uno Stress** per mettere a fuoco **1d4+1** alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono danni ridotti alla metà.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Gestione Animali +3
 * **Attacchi:**
-  * **Arco Lungo:** +2 | Lontana | 2d8+4 fisico
+ * **Arco Lungo:** +2 | Lontana | 2d8+4 fisico
 * **Tratti e Capacità:**
-  * **Due in Uno - Passiva:** Quando il Maestro delle Bestie è messo a fuoco, puoi anche mettere a fuoco un avversario animale Tier 1 attualmente sotto il suo controllo.
-  * **Colpo di Stordimento - Azione:** Effettua un attacco standard contro un bersaglio. In caso di successo, puoi **segnare uno Stress** per conficcarlo in una superficie vicina. Il bersaglio fisso è _Ristretto_ fino a quando non si libera con un Tiro di Destrezza o Forza riuscito.
-  * **Compagno Mortale - Azione:** Due volte per scena, evoca un Orso, Lupo Mannaro o animale avversario Tier 1 simile sotto il controllo del Maestro delle Bestie. L'avversario appare in portata Vicina e viene immediatamente messo a fuoco.
+ * **Due in Uno - Passiva:** Quando il Maestro delle Bestie è messo a fuoco, puoi anche mettere a fuoco un avversario animale Tier 1 attualmente sotto il suo controllo.
+ * **Colpo di Stordimento - Azione:** Effettua un attacco standard contro un bersaglio. In caso di successo, puoi **segnare uno Stress** per conficcarlo in una superficie vicina. Il bersaglio fisso è _Ristretto_ fino a quando non si libera con un Tiro di Destrezza o Forza riuscito.
+ * **Compagno Mortale - Azione:** Due volte per scena, evoca un Orso, Lupo Mannaro o animale avversario Tier 1 simile sotto il controllo del Maestro delle Bestie. L'avversario appare in portata Vicina e viene immediatamente messo a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici

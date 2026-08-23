@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Entombed Skin Beetles"
 ---
 
 ## Scarabei della Pelle Sepolti
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Tombe +3
 * **Attacchi:**
-  * **Pinze:** +0 | Da Vicino | 2d8+2 fisico
+ * **Pinze:** +0 | Da Vicino | 2d8+2 fisico
 * **Tratti e Capacità:**
-  * **Orda (2d4+1) - Passiva:** Quando gli Scarabei hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d4+1 danni fisici.
-  * **Omofoago - Azione:** Segnare un PF per far infossare 5 Scarabei sotto la pelle di un PG entro portata Da Vicino, costringendolo a segnare uno Stress e *Infettandolo*. Mentre è *Infettato*, il bersaglio subisce 6 danni fisici diretti ogni volta che tira con Paura. Questa condizione viene rimossa quando il PG rimuove un PF o uno Stress.
-  * **Slancio - Reazione:** Quando gli Scarabei effettuano un attacco riuscito contro un PG, guadagni una Paura.
+ * **Orda (2d4+1) - Passiva:** Quando gli Scarabei hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d4+1 danni fisici.
+ * **Omofago - Azione:** Segnare un PF per far infossare 5 Scarabei sotto la pelle di un PG entro portata Da Vicino, costringendolo a segnare uno Stress e *Infettandolo*. Mentre è *Infettato*, il bersaglio subisce 6 danni fisici diretti ogni volta che tira con Paura. Questa condizione viene rimossa quando il PG rimuove un PF o uno Stress.
+ * **Slancio - Reazione:** Quando gli Scarabei effettuano un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -36,7 +38,7 @@ tratti:
   - name: "Orda (2d4+1)"
     desc: "*- Passiva:* Quando gli Scarabei hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d4+1 danni fisici."
 capacita_speciali:
-  - name: "Omofoago"
+  - name: "Omofago"
     desc: "*- Azione:* Segnare un PF per far infossare 5 Scarabei sotto la pelle di un PG entro portata Da Vicino, costringendolo a segnare uno Stress e *Infettandolo*. Mentre è *Infettato*, il bersaglio subisce 6 danni fisici diretti ogni volta che tira con Paura. Questa condizione viene rimossa quando il PG rimuove un PF o uno Stress."
   - name: "Slancio"
     desc: "*- Reazione:* Quando gli Scarabei effettuano un attacco riuscito contro un PG, guadagni una Paura."

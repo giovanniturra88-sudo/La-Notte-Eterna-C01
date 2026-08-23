@@ -12,9 +12,9 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Esperienza:** Furtività +2
 * **Attacchi:**
-  * **Arco Corto:** -1 | Lontana | 1d10+2 fisico
+ * **Arco Corto:** -1 | Lontana | 1d10+2 fisico
 * **Tratti e Capacità:**
-  * **Colpo Inaspettato - Passiva:** Se il Cecchino è _Nascosto_ quando effettua un attacco standard riuscito contro un bersaglio, infligge **1d10+4** danni fisici invece dei danni standard.
+ * **Colpo Inaspettato - Passiva:** Se il Cecchino è _Nascosto_ quando effettua un attacco standard riuscito contro un bersaglio, infligge **1d10+4** danni fisici invece dei danni standard.
 
 ```statblock
 layout: DaggerHeart Nemici

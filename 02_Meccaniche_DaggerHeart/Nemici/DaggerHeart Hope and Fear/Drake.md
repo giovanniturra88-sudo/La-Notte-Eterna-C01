@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Feroce +3
 * **Attacchi:**
-  * **Artigli e Denti:** +4 | Da Vicino | 3d8+5 fisico
+ * **Artigli e Denti:** +4 | Da Vicino | 3d8+5 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (2) - Passiva:** Il Drake può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Cane da Guardia - Reazione:** Quando un PG sta per infliggere danni a una creatura entro portata Vicina, puoi segnare uno Stress per far muovere il Drake a intercettare l'attacco e subire i danni al posto di essa. Se l'attaccante è entro portata Da Vicino della nuova posizione del Drake, puoi mettere immediatamente il Drake a fuoco senza spendere Paura.
+ * **Inesorabile (2) - Passiva:** Il Drake può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Cane da Guardia - Reazione:** Quando un PG sta per infliggere danni a una creatura entro portata Vicina, puoi segnare uno Stress per far muovere il Drake a intercettare l'attacco e subire i danni al posto di essa. Se l'attaccante è entro portata Da Vicino della nuova posizione del Drake, puoi mettere immediatamente il Drake a fuoco senza spendere Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Octopus"
 ---
 
 ## Polpo
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 2 | **Stress:** 3
 * **Esperienza:** Destrezza +3, Acqua +3
 * **Attacchi:**
-  * **Becco:** -1 | Da Vicino | 1d6 fisico
+ * **Becco:** -1 | Da Vicino | 1d6 fisico
 * **Tratti e Capacità:**
-  * **Aggancio - Azione:** Effettua un tiro d'attacco contro un bersaglio entro portata Vicina. In caso di successo, il bersaglio diventa *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza riuscito.
-  * **Sputare Inchiostro - Azione:** Segnare uno Stress per far sputare inchiostro al Polpo. Sulla terraferma, l'inchiostro copre il terreno entro portata Molto Vicina. Ogni creatura che si muove attraverso quell'area deve superare un Tiro di Reazione di Agilità o scivolare e cadere, diventando *Vulnerabile* finché non esce dall'area. Se questo tratto è usato mentre il Polpo è sott'acqua, crea invece una nube di oscurità che riempie un'area entro portata Molto Vicina e blocca la linea di vista.
+ * **Aggancio - Azione:** Effettua un tiro d'attacco contro un bersaglio entro portata Vicina. In caso di successo, il bersaglio diventa *Ristretto* e *Vulnerabile* finché non si libera con un Tiro di Forza riuscito.
+ * **Sputare Inchiostro - Azione:** Segnare uno Stress per far sputare inchiostro al Polpo. Sulla terraferma, l'inchiostro copre il terreno entro portata Molto Vicina. Ogni creatura che si muove attraverso quell'area deve superare un Tiro di Reazione di Agilità o scivolare e cadere, diventando *Vulnerabile* finché non esce dall'area. Se questo tratto è usato mentre il Polpo è sott'acqua, crea invece una nube di oscurità che riempie un'area entro portata Molto Vicina e blocca la linea di vista.
 
 ```statblock
 layout: DaggerHeart Nemici

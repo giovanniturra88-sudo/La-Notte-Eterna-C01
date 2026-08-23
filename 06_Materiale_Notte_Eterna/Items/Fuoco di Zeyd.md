@@ -3,7 +3,7 @@ type:
  - "[[Item]]"
 ---
 
-**_Fuoco Zeyd_**
+**_Fuoco di Zeyd_**
 
 _Oggetto Consumabile di Tier 2_
 

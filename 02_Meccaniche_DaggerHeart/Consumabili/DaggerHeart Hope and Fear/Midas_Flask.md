@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Midas_Flask"]
 rarity: "Raro"
 original_rarity: "Rare"

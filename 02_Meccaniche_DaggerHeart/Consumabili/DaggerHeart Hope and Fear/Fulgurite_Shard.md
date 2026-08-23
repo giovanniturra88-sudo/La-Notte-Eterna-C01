@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Fulgurite_Shard"]
 rarity: "Raro"
 original_rarity: "Rare"

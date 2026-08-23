@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Attacchi:**
-  * **Spada Lunga:** +3 | Da Vicino | 3 fisico
+ * **Spada Lunga:** +3 | Da Vicino | 3 fisico
 * **Tratti e Capacità:**
-  * **Minion (4) - Passiva:** Il Mercenario è sconfitto quando riceve qualsiasi danno. Per ogni 4 danni che un PG infligge al Mercenario, sconfiggi un Minion aggiuntivo entro portata del colpo che avrebbe avuto successo.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Mercenari in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 3 danni fisici ciascuno. Combina questi danni.
+ * **Minion (4) - Passiva:** Il Mercenario è sconfitto quando riceve qualsiasi danno. Per ogni 4 danni che un PG infligge al Mercenario, sconfiggi un Minion aggiuntivo entro portata del colpo che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Mercenari in portata Da Vicino. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 3 danni fisici ciascuno. Combina questi danni.
 
 ```statblock
 layout: DaggerHeart Nemici

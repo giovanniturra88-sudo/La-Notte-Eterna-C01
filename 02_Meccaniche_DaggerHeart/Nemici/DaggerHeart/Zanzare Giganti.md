@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Camuffamento +2
 * **Attacchi:**
-  * **Proboscide:** -2 | Da Vicino | 1d8+3 fisico
+ * **Proboscide:** -2 | Da Vicino | 1d8+3 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+1) - Passiva:** Quando le Mosche hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
-  * **Volante - Passiva:** Mentre volano, le Mosche hanno un bonus di +2 alla loro Difficoltà.
-  * **Sanguisuga - Reazione:** Quando l'attacco delle Mosche causa a un bersaglio di segnare PF, puoi **Segnare uno Stress** per costringere il bersaglio a segnare un PF aggiuntivo.
+ * **Orda (1d4+1) - Passiva:** Quando le Mosche hanno segnato metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
+ * **Volante - Passiva:** Mentre volano, le Mosche hanno un bonus di +2 alla loro Difficoltà.
+ * **Sanguisuga - Reazione:** Quando l'attacco delle Mosche causa a un bersaglio di segnare PF, puoi **Segnare uno Stress** per costringere il bersaglio a segnare un PF aggiuntivo.
 
 ```statblock
 layout: DaggerHeart Nemici

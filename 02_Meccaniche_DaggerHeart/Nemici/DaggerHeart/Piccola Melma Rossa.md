@@ -11,9 +11,9 @@ type:
 * **Soglie di Danno:** 5/Nessuna
 * **Punti Ferita:** 2 | **Stress:** 1
 * **Attacchi:**
-  * **Appendice Melma:** -1 | Da Vicino | 1d4+2 magico
+ * **Appendice Melma:** -1 | Da Vicino | 1d4+2 magico
 * **Tratti e Capacità:**
-  * **Bruciante - Reazione:** Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce **1d6** danni magici diretti.
+ * **Bruciante - Reazione:** Quando una creatura in portata Da Vicino infligge danni alla Melma, essa subisce **1d6** danni magici diretti.
 
 ```statblock
 layout: DaggerHeart Nemici

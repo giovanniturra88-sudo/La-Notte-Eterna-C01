@@ -8,7 +8,7 @@ original_name: "Bravesword"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

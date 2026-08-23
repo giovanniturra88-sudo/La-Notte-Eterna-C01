@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Staff_of_Reversal"]
 rarity: "Raro"
 original_rarity: "Rare"

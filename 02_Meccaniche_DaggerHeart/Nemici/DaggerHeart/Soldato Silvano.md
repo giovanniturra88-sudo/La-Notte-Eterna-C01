@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 2
 * **Esperienza:** Raggiungitore +2
 * **Attacchi:**
-  * **Falce:** +0 | Da Vicino | 1d8+1 fisico
+ * **Falce:** +0 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Tattiche di Branco - Passiva:** Se il Soldato effettua un attacco standard e un altro Soldato Silvano è in portata Da Vicino dal bersaglio, infligge **1d8+5** danni fisici invece del danno standard.
-  * **Controllo della Foresta - Azione:** **Spendere una Paura** per far crollare un albero in portata Vicina. Una creatura colpita dall'albero deve superare un Tiro di Reazione di Agilità (15) o subire **1d10** danni fisici.
-  * **Fondersi con l'Ambiente - Reazione:** Quando il Soldato effettua un attacco riuscito, puoi **Segnare uno Stress** per diventare _Nascosto_ fino all'attacco successivo del Soldato o fino a quando un PG non supera un Tiro di Istinto (14) per trovarlo.
+ * **Tattiche di Branco - Passiva:** Se il Soldato effettua un attacco standard e un altro Soldato Silvano è in portata Da Vicino dal bersaglio, infligge **1d8+5** danni fisici invece del danno standard.
+ * **Controllo della Foresta - Azione:** **Spendere una Paura** per far crollare un albero in portata Vicina. Una creatura colpita dall'albero deve superare un Tiro di Reazione di Agilità (15) o subire **1d10** danni fisici.
+ * **Fondersi con l'Ambiente - Reazione:** Quando il Soldato effettua un attacco riuscito, puoi **Segnare uno Stress** per diventare _Nascosto_ fino all'attacco successivo del Soldato o fino a quando un PG non supera un Tiro di Istinto (14) per trovarlo.
 
 ```statblock
 layout: DaggerHeart Nemici

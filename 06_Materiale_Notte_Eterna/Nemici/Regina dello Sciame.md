@@ -26,8 +26,9 @@ stress: "6"
 esperienza: "+4"
 soglia_danni: "Minore: 16 | Maggiore: 32 | Grave: 52"
 attacchi:
- - name: "Pungiglione Acido"
- desc: "**+4** | Da Vicino | **3d8+6** Perforante/Acido"
+  - name: "Pungiglione Acido"
+    desc: "**+4** | Da Vicino | **3d8+6** Perforante/Acido"
 tratti:
- - name: "Evocare Progenie"
- desc: "Richiama uno sciame di piccoli insetti al suo servizio (1 Paura)."
+  - name: "Evocare Progenie"
+    desc: "Richiama uno sciame di piccoli insetti al suo servizio (1 Paura)."
+```

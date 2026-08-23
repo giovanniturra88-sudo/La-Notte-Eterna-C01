@@ -75,7 +75,7 @@ Nell'Impero delle Terre Nascoste si parla il [[Karevi]]. La lingua [[Karevi]], a
 ### Moda
 Sia gli uomini che le donne [[Karevi]] vestono, in genere, abiti piuttosto aderenti. Non esiste, come nelle altre culture, una differenza marcata tra il vestiario femminile e maschile. Entrambi i sessi indossano pantaloni e maglie aderenti, cortissimi mantelli chiamati u'rzko e stivali.
 ### Alimentazione
-Esiste una sostanziale differenza tra l'alimentazione dei [[Karevi]] di Kkyrlamny e quelli di superficie. La dieta dei karevi della [[Terra]] dei Laghi consiste prevalentemente in una varietà squisita di trota sotterranea, funghi e cereali. I [[Karevi]] di superficie hanno adottato le diete dei territori in cui vivono.
+Esiste una sostanziale differenza tra l'alimentazione dei [[Karevi]] di Kkyrlamny e quelli di superficie. La dieta dei karevi della Terra dei Laghi consiste prevalentemente in una varietà squisita di trota sotterranea, funghi e cereali. I [[Karevi]] di superficie hanno adottato le diete dei territori in cui vivono.
 ### Architettura
 Le origini nomadi hanno inevitabilmente influito sull'architettura [[Karevi]]. Le costruzioni hanno la stessa forma sferica delle tende in cui abitavano i loro avi. La parte superiore di questi edifici fuoriesce dal terreno, quella inferiore si sviluppa sottoterra. Gli interni sono intricati labirinti di stanze e corridoi. I palazzi sfera più sontuosi dispongono di terrazze, campi da gioco e giardini. L'architettura [[Karevi]] è relegata a Kkyrlamny, con poche ma illustri eccezioni in superficie.
 ### Festività

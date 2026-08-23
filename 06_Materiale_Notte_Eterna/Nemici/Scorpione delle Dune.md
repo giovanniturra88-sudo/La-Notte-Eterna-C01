@@ -24,5 +24,6 @@ stress: "3"
 esperienza: "+3"
 soglia_danni: "Minore: 10 | Maggiore: 20 | Grave: 30"
 attacchi:
- - name: "Chele e Pungiglione"
- desc: "**+3** | Da Vicino | **2d8+5** Tagliente + Veleno Letale"
+  - name: "Chele e Pungiglione"
+    desc: "**+3** | Da Vicino | **2d8+5** Tagliente + Veleno Letale"
+```

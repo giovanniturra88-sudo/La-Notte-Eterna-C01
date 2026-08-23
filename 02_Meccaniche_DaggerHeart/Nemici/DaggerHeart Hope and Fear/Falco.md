@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Falcon"
 ---
 
 ## Falco
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Senso Acuto +4, Volo +3
 * **Attacchi:**
-  * **Artigli:** +2 | Da Vicino | 1d6+1 fisico
+ * **Artigli:** +2 | Da Vicino | 1d6+1 fisico
 * **Tratti e Capacità:**
-  * **Volatile Agile - Passiva:** Mentre è in volo, il Falco guadagna un bonus di +3 alla sua Difficoltà.
-  * **Tuffo - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio dall'alto. Il Falco guadagna un bonus di +2 ai tiri d'attacco e di danno.
+ * **Volatile Agile - Passiva:** Mentre è in volo, il Falco guadagna un bonus di +3 alla sua Difficoltà.
+ * **Tuffo - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio dall'alto. Il Falco guadagna un bonus di +2 ai tiri d'attacco e di danno.
 
 ```statblock
 layout: DaggerHeart Nemici

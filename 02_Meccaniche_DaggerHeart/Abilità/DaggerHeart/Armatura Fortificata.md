@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Mentre indossi l'[[armatura]], ottieni un bonus di +2 alle tue [[soglie di danno]].
+Mentre indossi l'[[Armatura|armatura]], ottieni un bonus di +2 alle tue soglie di danno.

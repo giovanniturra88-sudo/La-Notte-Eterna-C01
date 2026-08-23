@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Tears_of_the_Undying_Hero"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

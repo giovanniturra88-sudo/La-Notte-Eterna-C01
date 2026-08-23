@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Instant_Camp"]
 rarity: "Comune"
 original_rarity: "Common"

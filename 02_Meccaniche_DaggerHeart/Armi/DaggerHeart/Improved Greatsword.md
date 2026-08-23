@@ -8,7 +8,7 @@ original_name: "Improved Greatsword"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

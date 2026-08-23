@@ -26,9 +26,9 @@ stress: "3"
 esperienza: "+3"
 soglia_danni: "Minore: 11 | Maggiore: 22 | Grave: 33"
 attacchi:
- - name: "Chela Gigante"
- desc: "**+4** | Da Vicino | **2d8+6** Perforante"
+  - name: "Chela Gigante"
+    desc: "**+4** | Da Vicino | **2d8+6** Perforante"
 tratti:
- - name: "Scavo Rapido"
- desc: "Scompare sotto terra per sbucare alle spalle o sotto i piedi del nemico."
+  - name: "Scavo Rapido"
+    desc: "Scompare sotto terra per sbucare alle spalle o sotto i piedi del nemico."
 ```

@@ -6,7 +6,7 @@ Perché occupano lo spazio tra vita e morte, un fantasma può spostarsi tra il f
 
 Quando un fantasma diventa incorporeo — che può accadere volontariamente, per emozioni accelerate, o apparentemente casualmente — può apparire semi-traslucido, come un soffio di nebbia che potrebbe dissiparsi nel vento.
 
-Alcuni fantasmi tornano per vendetta, altri per salvare un caro, e altri per incontrare un obiettivo o scoprire conoscenza nascosta. Il desiderio di accomplire questo obiettivo è la forza che permette loro di esistere nel Piano Mortale. Quando completano il loro obiettivo, i loro fantasmi spesso subiscono un cambiamento e immediatamente oltrepassano il velo della morte.
+Alcuni fantasmi tornano per vendetta, altri per salvare un caro, e altri per incontrare un obiettivo o scoprire conoscenza nascosta. Il desiderio di compiere questo obiettivo è la forza che permette loro di esistere nel Piano Mortale. Quando completano il loro obiettivo, i loro fantasmi spesso subiscono un cambiamento e immediatamente oltrepassano il velo della morte.
 
 ---
 
@@ -27,7 +27,7 @@ Alcuni fantasmi tornano per vendetta, altri per salvare un caro, e altri per inc
 Lavora con il GM per decidere quale scopo o desiderio ti tiene vincolato al Piano Mortale. Quando lo soddisfi, oltrepassi il velo della morte.
 
 ### Etereo (Ephemeral)
-Il tuo corpo ondegglia tra corporeità e incipienza. Sei **resistente** ai danni fisico, subisci danni magici doppi, e puoi segnare 2 Stress per momentaneamente attraversare un oggetto solido.
+Il tuo corpo ondeggia tra corporeità e incipienza. Sei **resistente** ai danni fisici, subisci danni magici doppi, e puoi segnare 2 Stress per momentaneamente attraversare un oggetto solido.
 
 I Fantasmi sono specificamente suscettibili agli effetti della magia.
 
@@ -35,7 +35,7 @@ I Fantasmi sono specificamente suscettibili agli effetti della magia.
 
 ## Cambiamento di Aspetto
 
-La loro apparenza cambia quando diventano incorporei. Possono diventare più traslucidi, mostrare ferite dalla causa della morte, o acquisire un bagliro otherworldly.
+La loro apparenza cambia quando diventano incorporei. Possono diventare più traslucidi, mostrare ferite dalla causa della morte, o acquisire un bagliore otherworldly.
 
 > **Nota**: Alcuni dicono che quando un fantasma completa i propri affari incompiuti, affronta l'oblio totale invece di oltrepassare il velo della morte.
 

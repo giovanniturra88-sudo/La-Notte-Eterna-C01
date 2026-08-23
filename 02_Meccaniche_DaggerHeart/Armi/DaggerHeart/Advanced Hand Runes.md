@@ -5,7 +5,7 @@ danno: d10+6
 gittata: "molto vicino"
 ingombro: "una mano"
 original_name: "Advanced Hand Runes"
-ruolo: -
+ruolo: ""
 tier: 3
 tipo_danno: magica
 tratto: instinct

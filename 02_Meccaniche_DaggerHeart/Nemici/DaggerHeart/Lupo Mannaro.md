@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Sensi Acuti +3
 * **Attacchi:**
-  * **Artigli:** +2 | Da Vicino | 1d6+2 fisico
+ * **Artigli:** +2 | Da Vicino | 1d6+2 fisico
 * **Tratti e Capacità:**
-  * **Tattiche di Branco - Passiva:** Se il Lupo effettua un attacco standard riuscito e un altro Lupo Mannaro si trova in portata Da Vicino dal bersaglio, infliggi **1d6+5** danni fisici invece dei danni standard e guadagni una Paura.
-  * **Colpo Zoppicante - Azione:** **Segnare uno Stress** per effettuare un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **3d4+10** danni fisici diretti e rendi il bersaglio _Vulnerabile_ fino a quando non elimina almeno 1 PF.
+ * **Tattiche di Branco - Passiva:** Se il Lupo effettua un attacco standard riuscito e un altro Lupo Mannaro si trova in portata Da Vicino dal bersaglio, infliggi **1d6+5** danni fisici invece dei danni standard e guadagni una Paura.
+ * **Colpo Zoppicante - Azione:** **Segnare uno Stress** per effettuare un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **3d4+10** danni fisici diretti e rendi il bersaglio _Vulnerabile_ fino a quando non elimina almeno 1 PF.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -26,8 +26,9 @@ stress: "10"
 esperienza: "+7"
 soglia_danni: "Minore: 30 | Maggiore: 60 | Grave: 95"
 attacchi:
- - name: "Morsa Distruttiva"
- desc: "**+6** | Da Vicino | **4d10+10** Fisico/Necrotico"
+  - name: "Morsa Distruttiva"
+    desc: "**+6** | Da Vicino | **4d10+10** Fisico/Necrotico"
 tratti:
- - name: "Aura di Disperazione"
- desc: "Aumenta lo Stress degli eroi nelle vicinanze a ogni loro turno."
+  - name: "Aura di Disperazione"
+    desc: "Aumenta lo Stress degli eroi nelle vicinanze a ogni loro turno."
+```

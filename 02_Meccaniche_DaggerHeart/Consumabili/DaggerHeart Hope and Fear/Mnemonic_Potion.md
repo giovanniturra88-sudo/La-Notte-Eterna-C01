@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Mnemonic_Potion"]
 rarity: "Discreto"
 original_rarity: "Uncommon"

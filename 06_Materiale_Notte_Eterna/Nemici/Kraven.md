@@ -26,9 +26,9 @@ stress: "2"
 esperienza: "+2"
 soglia_danni: "Minore: 5 | Maggiore: 10 | Grave: 16"
 attacchi:
- - name: "Picco / Pugnale arrugginito"
- desc: "**+2** | Da Vicino | **1d8+3** Tagliente"
+  - name: "Picco / Pugnale arrugginito"
+    desc: "**+2** | Da Vicino | **1d8+3** Tagliente"
 tratti:
- - name: "Vantaggio nel Buio"
- desc: "Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità."
+  - name: "Vantaggio nel Buio"
+    desc: "Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità."
 ```

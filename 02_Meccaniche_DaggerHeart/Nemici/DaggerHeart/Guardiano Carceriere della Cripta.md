@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 19/33
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Attacchi:**
-  * **Colpo di Testa:** +2 | Molto Vicina | 3d6+2 fisico
+ * **Colpo di Testa:** +2 | Molto Vicina | 3d6+2 fisico
 * **Tratti e Capacità:**
-  * **Scudo Bloccante - Passiva:** Le creature entro portata Da Vicino del Carceriere hanno svantaggio sui tiri d'attacco contro di lui. Le creature intrappolate all'interno del Carceriere sono immuni a questa caratteristica.
-  * **Chiudi in Prigione - Azione:** **Segnare uno Stress** per effettuare un attacco contro una creatura entro portata Molto Vicina. In caso di successo, la creatura è _Ristretta_ all'interno del Carceriere fino a quando non viene liberata con un tiro di Forza riuscito (18). Mentre è _Ristretta_, la creatura può solo attaccare il Carceriere.
+ * **Scudo Bloccante - Passiva:** Le creature entro portata Da Vicino del Carceriere hanno svantaggio sui tiri d'attacco contro di lui. Le creature intrappolate all'interno del Carceriere sono immuni a questa caratteristica.
+ * **Chiudi in Prigione - Azione:** **Segnare uno Stress** per effettuare un attacco contro una creatura entro portata Molto Vicina. In caso di successo, la creatura è _Ristretta_ all'interno del Carceriere fino a quando non viene liberata con un tiro di Forza riuscito (18). Mentre è _Ristretta_, la creatura può solo attaccare il Carceriere.
 
 ```statblock
 layout: DaggerHeart Nemici

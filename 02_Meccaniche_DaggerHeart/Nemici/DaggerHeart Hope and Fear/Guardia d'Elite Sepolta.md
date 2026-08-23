@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Standard]]"
+aliases:
+ - "Entombed Elite Guard"
 ---
 
 ## Guardia d'Elite Sepolta
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Soldato +3
 * **Attacchi:**
-  * **Lama Ricurva:** +2 | Da Vicino | 2d10+2 fisico
+ * **Lama Ricurva:** +2 | Da Vicino | 2d10+2 fisico
 * **Tratti e Capacità:**
-  * **Formazione di Battaglia - Passiva:** La Guardia guadagna un bonus di +1 alla sua Difficoltà per ogni alleato entro portata Molto Vicina.
-  * **Lancia - Azione:** Effettua un attacco contro un bersaglio entro portata Molto Lontana. In caso di successo, infliggi 2d6+2 danni fisici.
+ * **Formazione di Battaglia - Passiva:** La Guardia guadagna un bonus di +1 alla sua Difficoltà per ogni alleato entro portata Molto Vicina.
+ * **Lancia - Azione:** Effettua un attacco contro un bersaglio entro portata Molto Lontana. In caso di successo, infliggi 2d6+2 danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -12,13 +12,13 @@ type:
 * **Punti Ferita:** 9 | **Stress:** 3
 * **Esperienza:** Furtività +3
 * **Attacchi:**
-  * **Arco Corto:** +4 | Lontana | 2d20+3 magico
+ * **Arco Corto:** +4 | Lontana | 2d20+3 magico
 * **Tratti e Capacità:**
-  * **Inesorabile (2) - Passiva:** La Gorgone può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
-  * **Freccie Solari - Passiva:** Quando la Gorgone effettua un attacco standard riuscito, la vittima _Brilla_ fino alla fine della scena e non può diventare _Nascosta_. I tiri d'attacco contro una vittima _Brillante_ hanno vantaggio.
-  * **Corona di Serpenti - Azione:** Effettua un tiro d'attacco contro un bersaglio entro portata Da Vicino utilizzando i serpenti protettivi della Gorgone. In caso di successo, **segnare uno Stress** per infliggere **2d10+4** danni fisici e il bersaglio deve segnare uno Stress.
-  * **Sguardo Petrificante - Reazione:** Quando la Gorgone subisce danni da un attacco entro portata Da Vicino, puoi **spendere una Paura** per costringere l'attaccante a fare un Tiro di Reazione di Istinto. Se fallisce, inizia a trasformarsi in pietra, segnando un PF e iniziando un Conto alla Rovina (4). Questo conto alla rovina si riduce quando la Gorgone viene attaccata. Quando scatta, il bersaglio deve effettuare una mossa di morte. Se la Gorgone viene sconfitta, tutti i conti alla rovina terminano.
-  * **Impulso - Reazione:** Quando la Gorgone effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Inesorabile (2) - Passiva:** La Gorgone può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+ * **Frecce Solari - Passiva:** Quando la Gorgone effettua un attacco standard riuscito, la vittima _Brilla_ fino alla fine della scena e non può diventare _Nascosta_. I tiri d'attacco contro una vittima _Brillante_ hanno vantaggio.
+ * **Corona di Serpenti - Azione:** Effettua un tiro d'attacco contro un bersaglio entro portata Da Vicino utilizzando i serpenti protettivi della Gorgone. In caso di successo, **segnare uno Stress** per infliggere **2d10+4** danni fisici e il bersaglio deve segnare uno Stress.
+ * **Sguardo Petrificante - Reazione:** Quando la Gorgone subisce danni da un attacco entro portata Da Vicino, puoi **spendere una Paura** per costringere l'attaccante a fare un Tiro di Reazione di Istinto. Se fallisce, inizia a trasformarsi in pietra, segnando un PF e iniziando un Conto alla Rovina (4). Questo conto alla rovina si riduce quando la Gorgone viene attaccata. Quando scatta, il bersaglio deve effettuare una mossa di morte. Se la Gorgone viene sconfitta, tutti i conti alla rovina terminano.
+ * **Impulso - Reazione:** Quando la Gorgone effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -37,7 +37,7 @@ attacchi:
 tratti:
   - name: "Inesorabile (2)"
     desc: "*- Passiva:* La Gorgone può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
-  - name: "Freccie Solari"
+  - name: "Frecce Solari"
     desc: "*- Passiva:* Quando la Gorgone effettua un attacco standard riuscito, la vittima Brilla fino alla fine della scena e non può diventare Nascosta. I tiri d'attacco contro una vittima Brillante hanno vantaggio."
 capacita_speciali:
   - name: "Corona di Serpenti"

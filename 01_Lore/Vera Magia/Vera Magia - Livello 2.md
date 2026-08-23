@@ -11,7 +11,7 @@ tags:
 ### Funghi Salutari di Iliar
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tempo diPreparazione:** 5 minuti
+* **Tempo di Preparazione:** 5 minuti
 * **Durata:** Fino al prossimo Riposo Lungo
 * **Gittata:** Contatto
 

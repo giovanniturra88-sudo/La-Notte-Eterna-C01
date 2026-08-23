@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Copiatore +3
 * **Attacchi:**
-  * **Morso e Artiglio:** +1 | Da Vicino | 2d6+5 fisico
+ * **Morso e Artiglio:** +1 | Da Vicino | 2d6+5 fisico
 * **Tratti e Capacità:**
-  * **Fortezza Deformata - Passiva:** L'Esperimento è resistente ai danni fisici.
-  * **Sovraccarico - Passiva:** Quando un bersaglio che l'Esperimento attacca ha altri avversari entro portata Molto Vicina, l'Esperimento infligge danno doppio.
-  * **Balzo Incerto - Azione:** **Segnare uno Stress** per mettere a fuoco l'Esperimento come mossa del GM aggiuntiva, invece di spendere Paura.
+ * **Fortezza Deformata - Passiva:** L'Esperimento è resistente ai danni fisici.
+ * **Sovraccarico - Passiva:** Quando un bersaglio che l'Esperimento attacca ha altri avversari entro portata Molto Vicina, l'Esperimento infligge danno doppio.
+ * **Balzo Incerto - Azione:** **Segnare uno Stress** per mettere a fuoco l'Esperimento come mossa del GM aggiuntiva, invece di spendere Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

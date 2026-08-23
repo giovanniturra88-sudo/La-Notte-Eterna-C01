@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Wyrmlings"
 ---
 
 ## Dracchini
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Legame Draconico +2
 * **Attacchi:**
-  * **Piccole Mascelle e Artigli:** +2 | Da Vicino | 4d6+10 fisico
+ * **Piccole Mascelle e Artigli:** +2 | Da Vicino | 4d6+10 fisico
 * **Tratti e Capacità:**
-  * **Orda (2d6+5) - Passiva:** Quando i Dracchini hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+5 danni fisici.
-  * **Vorace - Reazione:** Una volta per turno del GM, quando un PG segna un PF da un attacco effettuato dai Dracchini, puoi spendere una Paura per mettere di nuovo a fuoco i Dracchini.
-  * **Sovraccarico - Reazione:** Quando i Dracchini subiscono danni Minori da un attacco in portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante.
+ * **Orda (2d6+5) - Passiva:** Quando i Dracchini hanno segnato metà o più dei loro PF, il loro attacco standard infligge 2d6+5 danni fisici.
+ * **Vorace - Reazione:** Una volta per turno del GM, quando un PG segna un PF da un attacco effettuato dai Dracchini, puoi spendere una Paura per mettere di nuovo a fuoco i Dracchini.
+ * **Sovraccarico - Reazione:** Quando i Dracchini subiscono danni Minori da un attacco in portata Da Vicino, puoi segnare uno Stress per effettuare un attacco standard con vantaggio contro l'attaccante.
 
 ```statblock
 layout: DaggerHeart Nemici

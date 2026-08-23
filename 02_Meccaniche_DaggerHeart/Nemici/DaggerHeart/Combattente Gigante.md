@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Esperienza:** Intrusione +2
 * **Attacchi:**
-  * **Martello da Guerra:** +2 | Molto Vicina | 2d12+3 fisico
+ * **Martello da Guerra:** +2 | Molto Vicina | 2d12+3 fisico
 * **Tratti e Capacità:**
-  * **Macigno - Azione:** **Segnare uno Stress** per far sì che il Combattente carichi verso un oggetto inanimato entro portata Vicina che potrebbe ragionevolmente distruggere (come una parete, un carro o un banchetto del mercato) e distruggerlo. Tutti i bersagli entro portata Molto Vicina dell'oggetto devono superare un Tiro di Reazione di Agilità o subire **2d4+3** danni fisici da frammenti.
-  * **Ritorsione Sanguinaria - Reazione:** Quando il Combattente segna 2 o più PF da un attacco entro portata Molto Vicina, puoi effettuare un attacco standard contro l'aggressore. In caso di successo, il Combattente infligge **2d6+15** danni fisici invece del suo danno standard.
-  * **Impeto - Reazione:** Quando il Combattente effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Macigno - Azione:** **Segnare uno Stress** per far sì che il Combattente carichi verso un oggetto inanimato entro portata Vicina che potrebbe ragionevolmente distruggere (come una parete, un carro o un banchetto del mercato) e distruggerlo. Tutti i bersagli entro portata Molto Vicina dell'oggetto devono superare un Tiro di Reazione di Agilità o subire **2d4+3** danni fisici da frammenti.
+ * **Ritorsione Sanguinaria - Reazione:** Quando il Combattente segna 2 o più PF da un attacco entro portata Molto Vicina, puoi effettuare un attacco standard contro l'aggressore. In caso di successo, il Combattente infligge **2d6+15** danni fisici invece del suo danno standard.
+ * **Impeto - Reazione:** Quando il Combattente effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

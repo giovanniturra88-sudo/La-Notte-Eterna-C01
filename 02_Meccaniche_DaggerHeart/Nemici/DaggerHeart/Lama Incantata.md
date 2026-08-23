@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Conoscenza Magica +2
 * **Attacchi:**
-  * **Spada Lunga Potenziata:** +3 | Da Vicino | 1d8+4 fisico/magico
+ * **Spada Lunga Potenziata:** +3 | Da Vicino | 1d8+4 fisico/magico
 * **Tratti e Capacità:**
-  * **Acciaio Arcano - Passiva:** Il danno inflitto dall'attacco standard della Lama Incantata è considerato sia fisico che magico.
-  * **Esplosione Repressiva - Azione:** **Segnare uno Stress** e colpire un gruppo in portata Lontana. Tutti i bersagli devono superare un Tiro di Reazione di Agilità o subire **1d8+2** danni magici. Ogni bersaglio colpito da questo attacco ti concede una Paura.
-  * **Muoviti come Unità - Azione:** **Spendere 2 Paura** per mettere a fuoco fino a cinque alleati in portata Lontana.
-  * **Impulso - Reazione:** Quando la Lama Incantata effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Acciaio Arcano - Passiva:** Il danno inflitto dall'attacco standard della Lama Incantata è considerato sia fisico che magico.
+ * **Esplosione Repressiva - Azione:** **Segnare uno Stress** e colpire un gruppo in portata Lontana. Tutti i bersagli devono superare un Tiro di Reazione di Agilità o subire **1d8+2** danni magici. Ogni bersaglio colpito da questo attacco ti concede una Paura.
+ * **Muoviti come Unità - Azione:** **Spendere 2 Paura** per mettere a fuoco fino a cinque alleati in portata Lontana.
+ * **Impulso - Reazione:** Quando la Lama Incantata effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

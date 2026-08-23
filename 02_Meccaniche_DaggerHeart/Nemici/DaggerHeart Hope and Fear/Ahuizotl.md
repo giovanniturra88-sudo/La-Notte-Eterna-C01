@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Furtività +2, Nuoto +2
 * **Attacchi:**
-  * **Morso:** +2 | Da Vicino | 1d6+2 fisico
+ * **Morso:** +2 | Da Vicino | 1d6+2 fisico
 * **Tratti e Capacità:**
-  * **Attaccante Acquatico - Passiva:** Quando l'Ahuizotl attacca dall'acqua, ha vantaggio sull'attacco e infligge 1d6 danni aggiuntivi.
-  * **Schiaffo della Coda - Azione:** Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi 1d8+2 danni fisici.
-  * **Trascina e Affonda - Azione:** Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Vicina con la coda, trascinarlo in portata Da Vicino e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Ristretti in questo modo.
+ * **Attaccante Acquatico - Passiva:** Quando l'Ahuizotl attacca dall'acqua, ha vantaggio sull'attacco e infligge 1d6 danni aggiuntivi.
+ * **Schiaffo della Coda - Azione:** Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi 1d8+2 danni fisici.
+ * **Trascina e Affonda - Azione:** Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Vicina con la coda, trascinarlo in portata Da Vicino e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Ristretti in questo modo.
 
 ```statblock
 layout: DaggerHeart Nemici

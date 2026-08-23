@@ -11,11 +11,11 @@ type:
 * **Soglie di Danno:** 8/15
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
-  * **Claymore:** +2 | Molto Vicina | 1d12+2 fisico
+ * **Claymore:** +2 | Molto Vicina | 1d12+2 fisico
 * **Tratti e Capacità:**
-  * **Colpo Provocante - Azione:** Effettua un attacco standard contro un bersaglio. In caso di successo, **Segnare uno Stress** per _Provocare_ il bersaglio fino al suo prossimo attacco riuscito. La prossima volta che il bersaglio _Provocato_ attacca, avrà svantaggio contro bersagli diversi dal Maestro delle Armi.
-  * **Esplosione di Adrenalina - Azione:** Una volta per scena, **Spendere una Paura** per rimuovere 2 PF e 2 Stress.
-  * **Impulso - Reazione:** Quando il Maestro delle Armi effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Colpo Provocante - Azione:** Effettua un attacco standard contro un bersaglio. In caso di successo, **Segnare uno Stress** per _Provocare_ il bersaglio fino al suo prossimo attacco riuscito. La prossima volta che il bersaglio _Provocato_ attacca, avrà svantaggio contro bersagli diversi dal Maestro delle Armi.
+ * **Esplosione di Adrenalina - Azione:** Una volta per scena, **Spendere una Paura** per rimuovere 2 PF e 2 Stress.
+ * **Impulso - Reazione:** Quando il Maestro delle Armi effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

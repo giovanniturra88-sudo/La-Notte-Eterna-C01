@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Snakeskin_Spirit"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

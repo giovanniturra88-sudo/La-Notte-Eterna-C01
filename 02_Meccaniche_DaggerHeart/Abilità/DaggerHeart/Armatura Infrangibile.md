@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Quando dovessi segnare una [[Fessura dell'Armatura]], lancia un numero di [[D6]] uguale alla tua [[Proficiency]]. Se almeno uno dei lanci è un 6, riduci la [[gravità]] di un livello senza segnare una [[Fessura dell'Armatura]].
+Quando dovessi segnare una [[Armatura]], lancia un numero di D6 uguale alla tua [[Competenza]]. Se almeno uno dei lanci è un 6, riduci la gravità di un livello senza segnare una [[Armatura]].

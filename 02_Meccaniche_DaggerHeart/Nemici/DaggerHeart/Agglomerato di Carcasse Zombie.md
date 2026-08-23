@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 10 | **Stress:** 3
 * **Esperienza:** Intimidazione +2, Strappare a Pezzi +2
 * **Attacchi:**
-  * **Troppe Braccia:** +4 | Molto Vicina | 1d20 fisico
+ * **Troppe Braccia:** +4 | Molto Vicina | 1d20 fisico
 * **Tratti e Capacità:**
-  * **Distruttibile - Passiva:** Quando l'Agglomerato subisce danni Maggiori o superiori, segna un PF in più.
-  * **Arti Sferzanti - Passiva:** Quando l'Agglomerato effettua un attacco standard, può attaccare tutti i bersagli entro portata Molto Vicina.
-  * **Un Altro per lo Pile - Azione:** Quando l'Agglomerato si trova a Molto Vicina da un cadavere, può incorporarlo in sé, rimuovendo un PF e uno Stress.
-  * **Urla Tormentate - Azione:** **Segnare uno Stress** per far sì che tutti i PG entro portata Lontana facciano un Tiro di Reazione di Presenza (13). I bersagli che falliscono perdono una Speranza e tu guadagni una Paura per ognuno. I bersagli che riescono devono segnare uno Stress.
+ * **Distruttibile - Passiva:** Quando l'Agglomerato subisce danni Maggiori o superiori, segna un PF in più.
+ * **Arti Sferzanti - Passiva:** Quando l'Agglomerato effettua un attacco standard, può attaccare tutti i bersagli entro portata Molto Vicina.
+ * **Un Altro per lo Pile - Azione:** Quando l'Agglomerato si trova a Molto Vicina da un cadavere, può incorporarlo in sé, rimuovendo un PF e uno Stress.
+ * **Urla Tormentate - Azione:** **Segnare uno Stress** per far sì che tutti i PG entro portata Lontana facciano un Tiro di Reazione di Presenza (13). I bersagli che falliscono perdono una Speranza e tu guadagni una Paura per ognuno. I bersagli che riescono devono segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

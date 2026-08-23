@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Serpentina +3
 * **Attacchi:**
-  * **Pugnale Curvo:** +3 | Da Vicino | 3d8+4 fisico
+ * **Pugnale Curvo:** +3 | Da Vicino | 3d8+4 fisico
 * **Tratti e Capacità:**
-  * **Costrizione - Azione:** Segnare uno Stress per far avvolgere alla Lamia la sua coda attorno a un PG entro portata Da Vicino e stringere. Il bersaglio deve superare un Tiro di Reazione di Finezza o diventare *Costritto* finché la Lamia non si muove o subisce danni Maggiori o superiori. Mentre è *Costritto*, il bersaglio è *Ristretto* e deve segnare uno Stress quando la Lamia viene messa a fuoco.
-  * **Dreno di Vita - Azione:** Segnare uno Stress per costringere un bersaglio *Vulnerabile* o *Ristretto* entro portata Da Vicino a segnare 1d4-1 PF. La Lamia rimuove poi un numero uguale di PF.
-  * **Tossina del Sonno - Reazione:** Quando la Lamia effettua un attacco standard riuscito contro un PG, puoi spendere una Paura per renderlo *Vulnerabile* finché non supera un Tiro di Istitinto (19).
+ * **Costrizione - Azione:** Segnare uno Stress per far avvolgere alla Lamia la sua coda attorno a un PG entro portata Da Vicino e stringere. Il bersaglio deve superare un Tiro di Reazione di Finezza o diventare *Costritto* finché la Lamia non si muove o subisce danni Maggiori o superiori. Mentre è *Costritto*, il bersaglio è *Ristretto* e deve segnare uno Stress quando la Lamia viene messa a fuoco.
+ * **Dreno di Vita - Azione:** Segnare uno Stress per costringere un bersaglio *Vulnerabile* o *Ristretto* entro portata Da Vicino a segnare 1d4-1 PF. La Lamia rimuove poi un numero uguale di PF.
+ * **Tossina del Sonno - Reazione:** Quando la Lamia effettua un attacco standard riuscito contro un PG, puoi spendere una Paura per renderlo *Vulnerabile* finché non supera un Tiro di Istitinto (19).
 
 ```statblock
 layout: DaggerHeart Nemici

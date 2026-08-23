@@ -24,5 +24,6 @@ stress: "2"
 esperienza: "+2"
 soglia_danni: "Minore: 5 | Maggiore: 10 | Grave: 16"
 attacchi:
- - name: "Tridente Spinato"
- desc: "**+2** | Da Vicino/Media | **1d8+3** Perforante"
+  - name: "Tridente Spinato"
+    desc: "**+2** | Da Vicino/Media | **1d8+3** Perforante"
+```

@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Conoscenza Antica +3
 * **Attacchi:**
-  * **Balestra Lunga:** +3 | Lontana | 2d10+3 fisico
+ * **Balestra Lunga:** +3 | Lontana | 2d10+3 fisico
 * **Tratti e Capacità:**
-  * **Fantasma - Passiva:** Il Capitano ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
-  * **Battaglia Infinita - Azione:** **Spendere 2 Paura** per far tornare fino a **1d4+1** alleati spettrali sconfitti alla battaglia nei punti in cui sono apparsi per la prima volta (senza PF o Stress segnati).
-  * **Resisti - Reazione:** Quando gli alleati spettrali del Capitano sono costretti a fare un tiro di reazione, puoi **segnare uno Stress** per dare a quegli alleati un bonus di +2 al tiro.
-  * **Impeto - Reazione:** Quando il Capitano effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Fantasma - Passiva:** Il Capitano ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
+ * **Battaglia Infinita - Azione:** **Spendere 2 Paura** per far tornare fino a **1d4+1** alleati spettrali sconfitti alla battaglia nei punti in cui sono apparsi per la prima volta (senza PF o Stress segnati).
+ * **Resisti - Reazione:** Quando gli alleati spettrali del Capitano sono costretti a fare un tiro di reazione, puoi **segnare uno Stress** per dare a quegli alleati un bonus di +2 al tiro.
+ * **Impeto - Reazione:** Quando il Capitano effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

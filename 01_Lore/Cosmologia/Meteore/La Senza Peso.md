@@ -12,7 +12,7 @@ Si racconta che pochi anni dopo la caduta di [[Laon]], Ïskender decise di trasm
 Il randello di Ïskender risulta leggerissimo, come se fosse composto di pura aria, e pertanto potrebbe essere maneggiato anche da un neonato. Quando impatta contro un nemico, la testa a forma di teschio dell'arma si espande, acquistando massa e peso in maniera proporzionata al bersaglio. Un colpo ben assestato potrebbe fracassare la testa di un golem senza troppe difficoltà.
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. Ïskender possiede inoltre le seguenti proprietà magiche:
 - Il manico della Senzapeso permette di lanciare con un'azione e per una volta al giorno la capacità magica Esilio su una creatura bersaglio. La creatura viene esiliata direttamente all'interno del manico, che funziona come una sorta di prigione dimensionale. Una volta utilizzata, questa capacità si ricarica con un riposo lungo.
-- Il randello ha 5 cariche che si ricaricano a ogni riposo lungo. Usando un', il possessore può spendere una carica per eseguire un attacco benedetto. Quando lo fa, tira un 1d6 per determinare il tipo di Punizione lanciata, che viene scagliata al minimo del suo livello.
+- Il randello ha 5 cariche che si ricaricano a ogni riposo lungo. Usando un'azione, il possessore può spendere una carica per eseguire un attacco benedetto. Quando lo fa, tira un 1d6 per determinare il tipo di Punizione lanciata, che viene scagliata al minimo del suo livello.
 
 | D6 | PUNIZIONE |
 | --- | ------------------------ |

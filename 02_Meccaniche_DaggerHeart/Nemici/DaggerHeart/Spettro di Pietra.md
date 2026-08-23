@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Vista della pietra +3
 * **Attacchi:**
-  * **Morso e Artigli:** +3 | Da Vicino | 2d8+6 fisico
+ * **Morso e Artigli:** +3 | Da Vicino | 2d8+6 fisico
 * **Tratti e Capacità:**
-  * **Camminatore di Pietra - Passiva:** La Pietraccia può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è _Nascosto_ e immune a tutti i danni.
-  * **Imboscata Rocciosa - Azione:** Mentre è _Nascosto_, **Segnare uno Stress** per saltare in portata Da Vicino con un bersaglio in portata Molto Vicina. Il bersaglio deve superare un Tiro di Reazione di Agilità o Istinto (15) o subire **2d8** danni fisici e diventare temporaneamente _Ristretto_.
-  * **Urlo dell'Avanzo - Azione:** **Spendere una Paura** per ruggire mentre sei all'interno di una grotta e causare un crollo. Tutti i bersagli in portata Vicina devono superare un Tiro di Reazione di Agilità (14) o subire **2d10** danni fisici. Le macerie possono essere rimosse con un Conto alla Rovina (8).
-  * **Impulso - Reazione:** Quando la Pietraccia effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Camminatore di Pietra - Passiva:** La Pietraccia può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è _Nascosto_ e immune a tutti i danni.
+ * **Imboscata Rocciosa - Azione:** Mentre è _Nascosto_, **Segnare uno Stress** per saltare in portata Da Vicino con un bersaglio in portata Molto Vicina. Il bersaglio deve superare un Tiro di Reazione di Agilità o Istinto (15) o subire **2d8** danni fisici e diventare temporaneamente _Ristretto_.
+ * **Urlo dell'Avanzo - Azione:** **Spendere una Paura** per ruggire mentre sei all'interno di una grotta e causare un crollo. Tutti i bersagli in portata Vicina devono superare un Tiro di Reazione di Agilità (14) o subire **2d10** danni fisici. Le macerie possono essere rimosse con un Conto alla Rovina (8).
+ * **Impulso - Reazione:** Quando la Pietraccia effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

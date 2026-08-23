@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 5
 * **Esperienza:** Segreti +3, Straneità Fluttuante +3
 * **Attacchi:**
-  * **Scudiscio del Tentacolo:** -3 | Molto Vicina | 1d6+3 fisico
+ * **Scudiscio del Tentacolo:** -3 | Molto Vicina | 1d6+3 fisico
 * **Tratti e Capacità:**
-  * **Telepatico - Passiva:** Lo Yufo può comunicare mentalmente con le creature entro portata Molto Lontana.
-  * **Cassaforte Psichica - Passiva:** Lo Yufo è immune a abilità e tratti che influenzerebbero o altererebbero i suoi pensieri o le sue emozioni.
-  * **Onda di Glitch - Azione:** Spendere una Paura e scegliere fino a tre bersagli entro portata Vicina. Ogni bersaglio deve superare un Tiro di Reazione di Istinto o diventare desincronizzato dalla realtà e avere svantaggio sui tiri di Istinto finché non usa una mossa di tempo libero per ancorare la sua psiche al presente.
-  * **Corrosione Temporale - Reazione:** Quando lo Yufo ha successo su un attacco standard, puoi segnare uno Stress per far sì che lo Yufo secerni un acido entropico attraverso la sua pelle, infliggendo al bersaglio una penalità di -2 alle sue soglie di danno finché non usa una mossa di tempo libero per riparare la sua armatura.
+ * **Telepatico - Passiva:** Lo Yufo può comunicare mentalmente con le creature entro portata Molto Lontana.
+ * **Cassaforte Psichica - Passiva:** Lo Yufo è immune a abilità e tratti che influenzerebbero o altererebbero i suoi pensieri o le sue emozioni.
+ * **Onda di Glitch - Azione:** Spendere una Paura e scegliere fino a tre bersagli entro portata Vicina. Ogni bersaglio deve superare un Tiro di Reazione di Istinto o diventare desincronizzato dalla realtà e avere svantaggio sui tiri di Istinto finché non usa una mossa di tempo libero per ancorare la sua psiche al presente.
+ * **Corrosione Temporale - Reazione:** Quando lo Yufo ha successo su un attacco standard, puoi segnare uno Stress per far sì che lo Yufo secerni un acido entropico attraverso la sua pelle, infliggendo al bersaglio una penalità di -2 alle sue soglie di danno finché non usa una mossa di tempo libero per riparare la sua armatura.
 
 ```statblock
 layout: DaggerHeart Nemici

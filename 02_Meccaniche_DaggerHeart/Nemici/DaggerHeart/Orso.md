@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 2
 * **Esperienza:** Assalitore +3, Sensi Acuti +2
 * **Attacchi:**
-  * **Artigli:** +1 | Da Vicino | 1d8+3 fisico
+ * **Artigli:** +1 | Da Vicino | 1d8+3 fisico
 * **Tratti e Capacità:**
-  * **Forza Sovrastante - Passiva:** I bersagli che segnano PF dall'attacco standard dell'Orso vengono spinti indietro a portata Molto Vicina.
-  * **Morso - Azione:** **Segnare uno Stress** per effettuare un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **3d4+10** danni fisici e il bersaglio è _Ristretto_ finché non si libera con un tiro di Forza riuscito.
-  * **Impeto - Reazione:** Quando l'Orso effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Forza Sovrastante - Passiva:** I bersagli che segnano PF dall'attacco standard dell'Orso vengono spinti indietro a portata Molto Vicina.
+ * **Morso - Azione:** **Segnare uno Stress** per effettuare un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **3d4+10** danni fisici e il bersaglio è _Ristretto_ finché non si libera con un tiro di Forza riuscito.
+ * **Impeto - Reazione:** Quando l'Orso effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

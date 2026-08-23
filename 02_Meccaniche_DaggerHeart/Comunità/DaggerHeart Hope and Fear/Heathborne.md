@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Community]]"
+  - "[[Comunità]]"
 source: DaggerHeart Hope and Fear
 ---
 

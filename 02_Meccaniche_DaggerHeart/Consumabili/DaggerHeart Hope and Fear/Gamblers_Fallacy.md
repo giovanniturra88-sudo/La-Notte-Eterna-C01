@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Gamblers_Fallacy"]
 rarity: "Leggendaria"
 original_rarity: "Legendary"

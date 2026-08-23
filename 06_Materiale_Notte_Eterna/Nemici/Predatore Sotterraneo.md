@@ -26,9 +26,9 @@ stress: "3"
 esperienza: "+4"
 soglia_danni: "Minore: 14 | Maggiore: 28 | Grave: 44"
 attacchi:
- - name: "Morso della Voragine"
- desc: "**+4** | Da Vicino | **3d8+7** Perforante"
+  - name: "Morso della Voragine"
+    desc: "**+4** | Da Vicino | **3d8+7** Perforante"
 tratti:
- - name: "Crollo del Terreno"
- desc: "Fa sprofondare la pietra sotto gli eroi creando buche improvvise (1 Stress)."
+  - name: "Crollo del Terreno"
+    desc: "Fa sprofondare la pietra sotto gli eroi creando buche improvvise (1 Stress)."
 ```

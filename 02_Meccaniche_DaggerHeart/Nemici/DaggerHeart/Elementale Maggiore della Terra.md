@@ -11,13 +11,13 @@ type:
 * **Soglie di Danno:** 22/40
 * **Punti Ferita:** 10 | **Stress:** 4
 * **Attacchi:**
-  * **Pugno di Masso:** +7 | Molto Vicina | 3d10+1 fisico
+ * **Pugno di Masso:** +7 | Molto Vicina | 3d10+1 fisico
 * **Tratti e Capacità:**
-  * **Lento - Passiva:** Quando metti a fuoco l'Elementale e non ha un gettone sul suo blocco statistiche, non può agire ancora. Posiziona un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco l'Elementale e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire.
-  * **Colpi Schiaccianti - Passiva:** Quando l'Elementale effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF aggiuntivo.
-  * **Oggetto Immobile - Passiva:** Un attacco che sposterebbe l'Elementale lo sposta di due distanze in meno (ad esempio, Lontana diventa Molto Vicina). Quando l'Elementale subisce danni fisici, riducili di 7.
-  * **Frana - Azione:** **Segnare uno Stress** per creare una frana che seppellisce il terreno davanti all'Elementale entro portata Vicina con caduta di rocce. Tutte le vittime in quest'area devono effettuare un Tiro di Reazione di Agilità (19). Le vittime che falliscono subiscono **2d12+5** danni fisici e diventano _Vulnerabili_ fino al loro prossimo tiro con Speranza. Le vittime che riescono subiscono metà danno.
-  * **Impulso - Reazione:** Quando l'Elementale effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Lento - Passiva:** Quando metti a fuoco l'Elementale e non ha un gettone sul suo blocco statistiche, non può agire ancora. Posiziona un gettone sul suo blocco statistiche e descrivi cosa sta preparando di fare. Quando metti a fuoco l'Elementale e ha un gettone sul suo blocco statistiche, rimuovi il gettone e può agire.
+ * **Colpi Schiaccianti - Passiva:** Quando l'Elementale effettua un attacco riuscito, la vittima deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot di Armatura, deve segnare un PF aggiuntivo.
+ * **Oggetto Immobile - Passiva:** Un attacco che sposterebbe l'Elementale lo sposta di due distanze in meno (ad esempio, Lontana diventa Molto Vicina). Quando l'Elementale subisce danni fisici, riducili di 7.
+ * **Frana - Azione:** **Segnare uno Stress** per creare una frana che seppellisce il terreno davanti all'Elementale entro portata Vicina con caduta di rocce. Tutte le vittime in quest'area devono effettuare un Tiro di Reazione di Agilità (19). Le vittime che falliscono subiscono **2d12+5** danni fisici e diventano _Vulnerabili_ fino al loro prossimo tiro con Speranza. Le vittime che riescono subiscono metà danno.
+ * **Impulso - Reazione:** Quando l'Elementale effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

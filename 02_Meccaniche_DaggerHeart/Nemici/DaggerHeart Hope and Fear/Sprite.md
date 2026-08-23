@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Esperienza:** Furtività +2, Vendetta +2
 * **Attacchi:**
-  * **Frecce Affilate come Aghi:** +0 | Vicina | 5 fisico
+ * **Frecce Affilate come Aghi:** +0 | Vicina | 5 fisico
 * **Tratti e Capacità:**
-  * **Minion (5) - Passiva:** Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
-  * **Arte dell'Invisibilità - Azione:** Spendere una Paura per rendere lo Sprite *Nascosto* finché non attacca.
-  * **Veleno del Fiore del Sogno - Azione:** Quando lo Sprite ha successo su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Sonnecchioso* finché non subisce danni. Mentre è *Sonnecchioso*, il bersaglio deve effettuare un Tiro di Reazione di Presenza prima di effettuare un tiro d'azione. In caso di fallimento, deve segnare 2 Stress o addormentarsi finché non subisce danni.
+ * **Minion (5) - Passiva:** Lo Sprite viene sconfitto quando subisce qualsiasi danno. Per ogni 5 danni che un PG infligge allo Sprite, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
+ * **Arte dell'Invisibilità - Azione:** Spendere una Paura per rendere lo Sprite *Nascosto* finché non attacca.
+ * **Veleno del Fiore del Sogno - Azione:** Quando lo Sprite ha successo su un attacco standard, puoi spendere una Paura per rendere il bersaglio *Sonnecchioso* finché non subisce danni. Mentre è *Sonnecchioso*, il bersaglio deve effettuare un Tiro di Reazione di Presenza prima di effettuare un tiro d'azione. In caso di fallimento, deve segnare 2 Stress o addormentarsi finché non subisce danni.
 
 ```statblock
 layout: DaggerHeart Nemici

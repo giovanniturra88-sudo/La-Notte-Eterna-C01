@@ -8,7 +8,7 @@ original_name: "Advanced Returning Blade"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

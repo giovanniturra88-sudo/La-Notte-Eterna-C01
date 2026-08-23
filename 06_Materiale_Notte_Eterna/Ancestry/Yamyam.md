@@ -17,7 +17,7 @@ Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabe
 > *«Prendetevi cura di loro e avrete cura di voi stessi. Vi guarderanno le spalle in luoghi sconosciuti e lontani, saranno il vostro supporto in giorni bui e angosciosi.»*
 > — **I Draghi di Yolamhra ai [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] prima della partenza per [[Neir]]**
 
-Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]], ma non tutti i [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sourcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole dell'incantatore.
+Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]], ma non tutti i [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sorcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole dell'incantatore.
 
 ---
 
@@ -37,7 +37,7 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 * **Velocità:** 7,5 m (Fluttuare / Zona Ravvicinata)
 * **Sensi:** Scurovisione (Zona Lontana / 18 m), Percezione Passiva 12
 * **Linguaggi:** Comprende il Wiloi ma non può parlare. Comunicazione tramite **Telepatia Limitata** con il possessore fino a 30 m (Zona Lontana).
-* **Competenze:** Arcano (+4), Intuizione (+4). livello pari al bonus del possessore.
+* **Competenze:** Arcano (+4), Intuizione (+4). Livello pari al bonus del possessore.
 
 ### **Attributi Base**
 | FOR | DES | COS | INT | SAG | CAR |

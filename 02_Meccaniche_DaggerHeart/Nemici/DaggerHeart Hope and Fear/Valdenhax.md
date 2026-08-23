@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 4
 * **Esperienza:** Stregoneria +3
 * **Attacchi:**
-  * **Pestello di Pietra Gigante:** +2 | Da Vicino | 2d8+2 fisico
+ * **Pestello di Pietra Gigante:** +2 | Da Vicino | 2d8+2 fisico
 * **Tratti e Capacità:**
-  * **Da Me, Bellocci - Azione:** Una volta per scena, evoca 2d4 Orde di Tier 2, che appaiono a portata Lontana. Guadagni una Paura per ogni Orda evocata in questo modo.
-  * **Strangolatore d'Ombra - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Lontana. In caso di successo, l'ombra della mano di Valdenhax si allunga attraverso il terreno finché non afferra l'ombra del bersaglio e ne drena l'essenza. Il bersaglio segna 1d4 Stress, e guadagni un numero uguale di Paura.
-  * **Sussurratore di Cadaveri - Azione:** Spendere una Paura per far sì che Valdenhax chiami lo spirito persistente di un alleato caduto entro portata Vicina. Tira un d6. Su un risultato pari, Valdenhax resuscita l'alleato con metà dei suoi PF rimossi. Su un risultato dispari, Valdenhax assorbe i resti della sua forza vitale e rimuove uno Stress.
-  * **Parola Fastidiosa - Reazione:** Dopo che un PG effettua un tiro, puoi segnare uno Stress per costringerlo a rilanciarlo. Questo tratto non può essere usato se il PG ha un successo critico.
+ * **Da Me, Bellocci - Azione:** Una volta per scena, evoca 2d4 Orde di Tier 2, che appaiono a portata Lontana. Guadagni una Paura per ogni Orda evocata in questo modo.
+ * **Strangolatore d'Ombra - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Lontana. In caso di successo, l'ombra della mano di Valdenhax si allunga attraverso il terreno finché non afferra l'ombra del bersaglio e ne drena l'essenza. Il bersaglio segna 1d4 Stress, e guadagni un numero uguale di Paura.
+ * **Sussurratore di Cadaveri - Azione:** Spendere una Paura per far sì che Valdenhax chiami lo spirito persistente di un alleato caduto entro portata Vicina. Tira un d6. Su un risultato pari, Valdenhax resuscita l'alleato con metà dei suoi PF rimossi. Su un risultato dispari, Valdenhax assorbe i resti della sua forza vitale e rimuove uno Stress.
+ * **Parola Fastidiosa - Reazione:** Dopo che un PG effettua un tiro, puoi segnare uno Stress per costringerlo a rilanciarlo. Questo tratto non può essere usato se il PG ha un successo critico.
 
 ```statblock
 layout: DaggerHeart Nemici

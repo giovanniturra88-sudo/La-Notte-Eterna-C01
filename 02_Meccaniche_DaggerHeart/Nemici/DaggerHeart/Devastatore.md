@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Camuffamento +2
 * **Attacchi:**
-  * **Giavellotto:** +1 | Vicina | 1d6+2 fisico
+ * **Giavellotto:** +1 | Vicina | 1d6+2 fisico
 * **Tratti e Capacità:**
-  * **Mantieni Distanza - Passiva:** Dopo aver effettuato un attacco standard, il Devastatore può muoversi ovunque entro portata Lontana.
-  * **Ritirata - Reazione:** Quando una creatura entra in portata Da Vicino per effettuare un attacco, puoi **segnare uno Stress** prima del tiro d'attacco per muoverti ovunque entro portata Vicina ed effettuare un attacco contro quella creatura. In caso di successo, infliggi **1d10+2** danni fisici.
+ * **Mantieni Distanza - Passiva:** Dopo aver effettuato un attacco standard, il Devastatore può muoversi ovunque entro portata Lontana.
+ * **Ritirata - Reazione:** Quando una creatura entra in portata Da Vicino per effettuare un attacco, puoi **segnare uno Stress** prima del tiro d'attacco per muoverti ovunque entro portata Vicina ed effettuare un attacco contro quella creatura. In caso di successo, infliggi **1d10+2** danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

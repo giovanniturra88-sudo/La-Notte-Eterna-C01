@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Conoscenza Antica +2
 * **Attacchi:**
-  * **Lancia:** +1 | Molto Vicina | 2d8+1 fisico
+ * **Lancia:** +1 | Molto Vicina | 2d8+1 fisico
 * **Tratti e Capacità:**
-  * **Fantasma - Passiva:** Il Guardiano ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
-  * **Lama della Tomba - Azione:** **Spendere una Paura** per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi **2d10+6** danni fisici e il bersaglio deve segnare uno Stress.
+ * **Fantasma - Passiva:** Il Guardiano ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
+ * **Lama della Tomba - Azione:** **Spendere una Paura** per effettuare un attacco contro un bersaglio entro portata Molto Vicina. In caso di successo, infliggi **2d10+6** danni fisici e il bersaglio deve segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

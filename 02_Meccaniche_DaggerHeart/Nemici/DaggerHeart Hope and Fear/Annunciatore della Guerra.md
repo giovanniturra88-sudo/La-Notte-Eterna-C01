@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Harbinger of War"
 ---
 
 ## Annunciatore della Guerra
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 9 | **Stress:** 4
 * **Esperienza:** Armatura Pesante +3
 * **Attacchi:**
-  * **Ascia da Guerra:** +5 | Molto Vicina | 4d20 fisico
+ * **Ascia da Guerra:** +5 | Molto Vicina | 4d20 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (2) - Passiva:** L'Annunciatore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Montura - Passiva:** Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo.
-  * **Dadi di Ferro - Azione:** Segnare uno Stress per far tentare all'Annunciatore un attacco totale rischioso. Effettua un attacco standard con il vantaggio. In caso di successo, il bersaglio segna un PF aggiuntivo. In caso di fallimento, l'Annunciatore diventa *Vulnerabile* finché non subisce o infligge danni.
-  * **Supremo Comandante - Azione:** Una volta per scena, spendere una Paura per evocare 1d6 Soldati Sacri entro portata Vicina e mettere immediatamente a fuoco uno di essi.
-  * **Ariete - Reazione:** Quando un PG fallisce un tiro d'azione entro portata Vicina, puoi spendere una Paura per muoverti in portata Da Vicino con il PG ed effettuare un attacco standard con il vantaggio contro di lui. In caso di successo, il PG subisce danni standard e diventa *Vulnerabile* finché non viene messo a fuoco.
+ * **Inesorabile (2) - Passiva:** L'Annunciatore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Montura - Passiva:** Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo.
+ * **Dadi di Ferro - Azione:** Segnare uno Stress per far tentare all'Annunciatore un attacco totale rischioso. Effettua un attacco standard con il vantaggio. In caso di successo, il bersaglio segna un PF aggiuntivo. In caso di fallimento, l'Annunciatore diventa *Vulnerabile* finché non subisce o infligge danni.
+ * **Supremo Comandante - Azione:** Una volta per scena, spendere una Paura per evocare 1d6 Soldati Sacri entro portata Vicina e mettere immediatamente a fuoco uno di essi.
+ * **Ariete - Reazione:** Quando un PG fallisce un tiro d'azione entro portata Vicina, puoi spendere una Paura per muoverti in portata Da Vicino con il PG ed effettuare un attacco standard con il vantaggio contro di lui. In caso di successo, il PG subisce danni standard e diventa *Vulnerabile* finché non viene messo a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici

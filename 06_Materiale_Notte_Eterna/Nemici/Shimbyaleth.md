@@ -26,8 +26,9 @@ stress: "8"
 esperienza: "+5"
 soglia_danni: "Minore: 25 | Maggiore: 50 | Grave: 80"
 attacchi:
- - name: "Sferzata Tentacolare"
- desc: "**+5** | Reach | **3d10+8** Contundente"
+  - name: "Sferzata Tentacolare"
+    desc: "**+5** | Reach | **3d10+8** Contundente"
 tratti:
- - name: "Stritolamento Abissale"
- desc: "Le creature afferrate subiscono danni costanti e soffocamento."
+  - name: "Stritolamento Abissale"
+    desc: "Le creature afferrate subiscono danni costanti e soffocamento."
+```

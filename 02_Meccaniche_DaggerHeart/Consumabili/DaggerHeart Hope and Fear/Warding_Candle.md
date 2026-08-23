@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Warding_Candle"]
 rarity: "Comune"
 original_rarity: "Common"

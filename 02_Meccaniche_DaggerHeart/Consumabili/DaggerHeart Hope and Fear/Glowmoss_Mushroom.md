@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Glowmoss_Mushroom"]
 rarity: "Comune"
 original_rarity: "Common"

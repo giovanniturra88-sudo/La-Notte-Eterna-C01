@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Marinaro +3
 * **Attacchi:**
-  * **Coltello da Pirata:** +1 | Da Vicino | 1d8+2 fisico
+ * **Coltello da Pirata:** +1 | Da Vicino | 1d8+2 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+1) - Passiva:** Quando i Predoni Pirati hanno segnato la metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
-  * **Schermidore - Passiva:** Quando i Predoni Pirati segnano 2 PF o meno da un attacco in portata Da Vicino, l'attaccante deve segnare uno Stress.
+ * **Orda (1d4+1) - Passiva:** Quando i Predoni Pirati hanno segnato la metà o più dei loro PF, il loro attacco standard infligge **1d4+1** danni fisici invece.
+ * **Schermidore - Passiva:** Quando i Predoni Pirati segnano 2 PF o meno da un attacco in portata Da Vicino, l'attaccante deve segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

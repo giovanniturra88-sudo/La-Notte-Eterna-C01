@@ -11,10 +11,10 @@ type:
 * **Soglie di Danno:** 27/47
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Attacchi:**
-  * **Pseudopodi Corrosivi:** +7 | Molto Vicina | 4d8+5 magico
+ * **Pseudopodi Corrosivi:** +7 | Molto Vicina | 4d8+5 magico
 * **Tratti e Capacità:**
-  * **Tocco che Frantuma la Volontà - Passiva:** Quando un PG subisce danni dal Corruttore, perde una Speranza.
-  * **Espellere Rifiuti della Realtà - Azione:** **Segnare uno Stress** per scaricare porzioni parzialmente digerite di realtà consumate su tutti i bersagli entro portata Vicina. I bersagli devono superare un Tiro di Reazione di Conoscenza o segnare 2 Stress.
+ * **Tocco che Frantuma la Volontà - Passiva:** Quando un PG subisce danni dal Corruttore, perde una Speranza.
+ * **Espellere Rifiuti della Realtà - Azione:** **Segnare uno Stress** per scaricare porzioni parzialmente digerite di realtà consumate su tutti i bersagli entro portata Vicina. I bersagli devono superare un Tiro di Reazione di Conoscenza o segnare 2 Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

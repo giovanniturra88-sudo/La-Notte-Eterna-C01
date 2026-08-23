@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Esperienza:** Ladro +2, Minacce Rivelate +3
 * **Attacchi:**
-  * **Mazzuolo:** -3 | Da Vicino | 1d4+6 fisico
+ * **Mazzuolo:** -3 | Da Vicino | 1d4+6 fisico
 * **Tratti e Capacità:**
-  * **Li Ho Serrati - Passiva:** Le creature _Ristrette_ dal Rotolo subiscono il doppio dei danni dagli attacchi di altri avversari.
-  * **Tienili Sotto Controllo - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, il bersaglio non subisce danni ma è _Ristretto_ e _Vulnerabile_. Il bersaglio può liberarsi, rimuovendo entrambe le condizioni, con un tiro di Forza riuscito oppure viene liberato automaticamente se il Rotolo subisce danni Gravi o superiori.
+ * **Li Ho Serrati - Passiva:** Le creature _Ristrette_ dal Rotolo subiscono il doppio dei danni dagli attacchi di altri avversari.
+ * **Tienili Sotto Controllo - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, il bersaglio non subisce danni ma è _Ristretto_ e _Vulnerabile_. Il bersaglio può liberarsi, rimuovendo entrambe le condizioni, con un tiro di Forza riuscito oppure viene liberato automaticamente se il Rotolo subisce danni Gravi o superiori.
 
 ```statblock
 layout: DaggerHeart Nemici

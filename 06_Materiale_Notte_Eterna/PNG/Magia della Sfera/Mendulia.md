@@ -7,7 +7,7 @@ type:
 
 > «Anche nella notte più profonda, la speranza è una fiammella che rifiuta di spegnersi.»
 
-Mendulia è una figura venerata tra i superstiti di Neir. Devota devota all'antico culto di Laon, la sua fede incrollabile le permette di canalizzare la luce radiosa e la magia curativa per confortare gli afflitti e scacciare i non morti.
+Mendulia è una figura venerata tra i superstiti di Neir. Devota all'antico culto di Laon, la sua fede incrollabile le permette di canalizzare la luce radiosa e la magia curativa per confortare gli afflitti e scacciare i non morti.
 
 ---
 

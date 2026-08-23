@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Vampire Bat Swarm"
 ---
 
 ## Sciame di Pipistrelli Vampiro
@@ -12,11 +14,11 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 3
 * **Esperienza:** Sangue +3
 * **Attacchi:**
-  * **Zanne:** +1 | Da Vicino | 3d6+6 fisico
+ * **Zanne:** +1 | Da Vicino | 3d6+6 fisico
 * **Tratti e Capacità:**
-  * **Orda (2d6) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6 danni fisici.
-  * **Multitudine Accecante - Passiva:** Lo Sciame è così denso da bloccare la vista di chiunque interagisca con esso. Le creature entro portata Da Vicino hanno svantaggio sugli attacchi effettuati contro avversari diversi dallo Sciame.
-  * **Sanguisughe - Reazione:** Quando lo Sciame infligge danni a un bersaglio, puoi segnare uno Stress per far sì che lo Sciame si nutra. Il bersaglio segna un PF aggiuntivo, e lo Sciame rimuove un PF.
+ * **Orda (2d6) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 2d6 danni fisici.
+ * **Multitudine Accecante - Passiva:** Lo Sciame è così denso da bloccare la vista di chiunque interagisca con esso. Le creature entro portata Da Vicino hanno svantaggio sugli attacchi effettuati contro avversari diversi dallo Sciame.
+ * **Sanguisughe - Reazione:** Quando lo Sciame infligge danni a un bersaglio, puoi segnare uno Stress per far sì che lo Sciame si nutra. Il bersaglio segna un PF aggiuntivo, e lo Sciame rimuove un PF.
 
 ```statblock
 layout: DaggerHeart Nemici

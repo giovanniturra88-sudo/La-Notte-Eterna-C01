@@ -26,9 +26,9 @@ stress: "3"
 esperienza: "+3"
 soglia_danni: "Minore: 7 | Maggiore: 14 | Grave: 22"
 attacchi:
- - name: "Morsicone Palustre"
- desc: "**+3** | Da Vicino | **2d6+4** Perforante"
+  - name: "Morsicone Palustre"
+    desc: "**+3** | Da Vicino | **2d6+4** Perforante"
 tratti:
- - name: "Agguato Subacqueo"
- desc: "Risulta invisibile finché rimane immerso nell'acqua torbida."
+  - name: "Agguato Subacqueo"
+    desc: "Risulta invisibile finché rimane immerso nell'acqua torbida."
 ```

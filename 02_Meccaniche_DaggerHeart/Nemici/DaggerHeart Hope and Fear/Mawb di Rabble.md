@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Rabble Mawb"
 ---
 
 ## Mawb di Rabble
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 2
 * **Esperienza:** Sottoterra +2
 * **Attacchi:**
-  * **Morsicatura:** -2 | Da Vicino | 1d6+3 fisico
+ * **Morsicatura:** -2 | Da Vicino | 1d6+3 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4+1) - Passiva:** Quando il Mawb di Rabble ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4+1 danni fisici.
-  * **Tornare Peggio - Reazione:** Quando il Mawb di Rabble viene sconfitto, puoi spendere una Paura per riportarlo in vita, rimuovendo tutti i PF e lo Stress. Il Mawb di Rabble guadagna un bonus a tutti i tiri pari al numero di volte in cui questo tratto è stato usato da questo Mawb di Rabble.
+ * **Orda (1d4+1) - Passiva:** Quando il Mawb di Rabble ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4+1 danni fisici.
+ * **Tornare Peggio - Reazione:** Quando il Mawb di Rabble viene sconfitto, puoi spendere una Paura per riportarlo in vita, rimuovendo tutti i PF e lo Stress. Il Mawb di Rabble guadagna un bonus a tutti i tiri pari al numero di volte in cui questo tratto è stato usato da questo Mawb di Rabble.
 
 ```statblock
 layout: DaggerHeart Nemici

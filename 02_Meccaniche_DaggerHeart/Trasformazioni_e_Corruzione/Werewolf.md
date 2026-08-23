@@ -1,4 +1,4 @@
-# Lupo Mannario (Lycan / Werewolf)
+# Lupo Mannaro (Lycan / Werewolf)
 
 I Lupi Mannari sono mortali con il potere del Lupo nelle loro vene. Possono essere nati così, o possono aver ricevuto il potere da un Lupo primordiale o attraverso un patto con l'istinto selvaggio. I nuovi Lupi Mannari sembrano in genere membri tipici della loro stirpe, ma col tempo possono crescere più forti, sviluppare tratti canini e sperimentare il **Furore Uggiolante** durante momenti di grande stress.
 

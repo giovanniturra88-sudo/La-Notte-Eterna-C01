@@ -23,9 +23,9 @@ Utilizzi tossine mutageniche create per migliorare le tue abilità. Quando compl
 - Un bonus di **+1** a un tratto a tua scelta.
 - Una penalità di **-1** a un tratto differente a tua scelta.
 - **Uno** dei seguenti benefici a tua scelta:
-  - **Celerity (Celerità):** Se sei sotto l'effetto della condizione *Trattenuto* (Restrained) o *Vulnerabile*, puoi segnare 1 Stress per rimuovere immediatamente la condizione.
-  - **Durable (Durevole):** Il tuo Punteggio di Armatura (Armor Score) aumenta di **2**.
-  - **Hunter's Senses (Sensi del Cacciatore):** Ottieni **vantaggio** su qualsiasi Tiro d'Azione effettuato per rintracciare una creatura, e puoi vedere nella completa oscurità.
+ - **Celerity (Celerità):** Se sei sotto l'effetto della condizione *Trattenuto* (Restrained) o *Vulnerabile*, puoi segnare 1 Stress per rimuovere immediatamente la condizione.
+ - **Durable (Durevole):** Il tuo Punteggio di Armatura (Armor Score) aumenta di **2**.
+ - **Hunter's Senses (Sensi del Cacciatore):** Ottieni **vantaggio** su qualsiasi Tiro d'Azione effettuato per rintracciare una creatura, e puoi vedere nella completa oscurità.
 
 ---
 

@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Conoscenza Antica +2
 * **Attacchi:**
-  * **Balestra:** +3 | Lontana | 2d10+2 fisico
+ * **Balestra:** +3 | Lontana | 2d10+2 fisico
 * **Tratti e Capacità:**
-  * **Fantasma - Passiva:** L'Arciere ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
-  * **Scegli la tua Vittima - Azione:** **Spendere una Paura** per fare un attacco entro portata Lontana contro un PG che si trova entro portata Vicina ad almeno due altri PG. In caso di successo, la vittima subisce **2d8+12** danni fisici.
+ * **Fantasma - Passiva:** L'Arciere ha resistenza al danno fisico. **Segnare uno Stress** per muoversi fino a portata Vicina attraverso oggetti solidi.
+ * **Scegli la tua Vittima - Azione:** **Spendere una Paura** per fare un attacco entro portata Lontana contro un PG che si trova entro portata Vicina ad almeno due altri PG. In caso di successo, la vittima subisce **2d8+12** danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

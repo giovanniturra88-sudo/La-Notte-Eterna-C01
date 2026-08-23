@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Deathseers_Powder"]
 rarity: "Comune"
 original_rarity: "Common"

@@ -12,15 +12,15 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Caccia dall'Alto +5
 * **Attacchi:**
-  * **Artigli e Zanne:** +10 | Vicina | 4d12+15 fisico
+ * **Artigli e Zanne:** +10 | Vicina | 4d12+15 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (4) - Passiva:** Il Tiranno Cinereo può essere messo a fuoco fino a quattro volte per turno del GM. Spendere Paura normalmente per metterlo a fuoco.
-  * **In Inseguimento - Passiva:** **Segnare una Paura** invece di spendere una Paura per mettere a fuoco il Tiranno Cinereo.
-  * **Ali Ferite - Passiva:** Mentre vola, il Tiranno Cinereo ottiene un bonus +1 alla propria Difficoltà.
-  * **Cenere a Cenere - Passiva:** Quando un PG fallisce mentre è in portata Vicina del Tiranno Cinereo, perde una Speranza e tu guadagni una Paura. Se il PG non può perdere una Speranza, deve segnare un PF.
-  * **Razziata Disperata - Azione:** **Segnare una Paura** per effettuare un attacco contro tutti i bersagli in portata Vicina. I bersagli colpiti dal Tiranno Cinereo subiscono **2d20+2** danni fisici, vengono spinti indietro a portata Vicina da dove si trovavano e devono segnare una Paura.
-  * **Nube Cinerea - Azione:** **Spendere una Paura** per colpire il suolo e sollevare cenere entro portata Lontana. Mentre è all'interno della nube di cenere, un bersaglio ha svantaggio sui tiri d'azione. La nube di cenere si disperde la prossima volta che un avversario viene messo a fuoco.
-  * **Scossone Apocalittico - Azione: Conto alla Rovina (1d12):** **Spendere una Paura** per attivare. Si riduce quando un PG tira con Paura. Quando scatta, il Tiranno Cinereo si agita, causando danni ambientali (come un terremoto, una valanga o muri che crollano). Tutti i bersagli entro portata Lontana devono effettuare un Tiro di Reazione di Forza. I bersagli che falliscono subiscono **2d10+10** danni fisici e sono _Ristretti_ dalle macerie finché non si liberano con un successo nel Tiro di Forza. I bersagli che hanno successo subiscono metà dei danni. Se il Tiranno Cinereo viene sconfitto mentre questo conto alla rovina è attivo, attiva immediatamente il conto alla rovina a causa del danno causato dalle sue ultime pulsazioni.
+ * **Inesorabile (4) - Passiva:** Il Tiranno Cinereo può essere messo a fuoco fino a quattro volte per turno del GM. Spendere Paura normalmente per metterlo a fuoco.
+ * **In Inseguimento - Passiva:** **Segnare una Paura** invece di spendere una Paura per mettere a fuoco il Tiranno Cinereo.
+ * **Ali Ferite - Passiva:** Mentre vola, il Tiranno Cinereo ottiene un bonus +1 alla propria Difficoltà.
+ * **Cenere a Cenere - Passiva:** Quando un PG fallisce mentre è in portata Vicina del Tiranno Cinereo, perde una Speranza e tu guadagni una Paura. Se il PG non può perdere una Speranza, deve segnare un PF.
+ * **Razziata Disperata - Azione:** **Segnare una Paura** per effettuare un attacco contro tutti i bersagli in portata Vicina. I bersagli colpiti dal Tiranno Cinereo subiscono **2d20+2** danni fisici, vengono spinti indietro a portata Vicina da dove si trovavano e devono segnare una Paura.
+ * **Nube Cinerea - Azione:** **Spendere una Paura** per colpire il suolo e sollevare cenere entro portata Lontana. Mentre è all'interno della nube di cenere, un bersaglio ha svantaggio sui tiri d'azione. La nube di cenere si disperde la prossima volta che un avversario viene messo a fuoco.
+ * **Scossone Apocalittico - Azione: Conto alla Rovina (1d12):** **Spendere una Paura** per attivare. Si riduce quando un PG tira con Paura. Quando scatta, il Tiranno Cinereo si agita, causando danni ambientali (come un terremoto, una valanga o muri che crollano). Tutti i bersagli entro portata Lontana devono effettuare un Tiro di Reazione di Forza. I bersagli che falliscono subiscono **2d10+10** danni fisici e sono _Ristretti_ dalle macerie finché non si liberano con un successo nel Tiro di Forza. I bersagli che hanno successo subiscono metà dei danni. Se il Tiranno Cinereo viene sconfitto mentre questo conto alla rovina è attivo, attiva immediatamente il conto alla rovina a causa del danno causato dalle sue ultime pulsazioni.
 
 ```statblock
 layout: DaggerHeart Nemici

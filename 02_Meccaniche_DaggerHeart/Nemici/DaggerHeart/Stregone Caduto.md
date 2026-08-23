@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Conoscenza Antica +2
 * **Attacchi:**
-  * **Bastone Corrotto:** +4 | Lontana | 4d6+10 magico
+ * **Bastone Corrotto:** +4 | Lontana | 4d6+10 magico
 * **Tratti e Capacità:**
-  * **Conflagrazione - Azione:** **Spendere una Paura** per liberare una tempesta di fuoco divorante ed attaccare tutti i bersagli in portata Vicina. I bersagli contro cui lo Stregone ha successo subiscono **2d10+6** danni magici diretti.
-  * **Tavolozza dell'Incubo - Azione:** **Segnare uno Stress** per intrappolare un bersaglio in portata Lontana in una potente illusione delle sue peggiori paure. Mentre è intrappolato, il bersaglio è _Ristretto_ e _Vulnerabile_ fino a quando non si libera, rimuovendo entrambe le condizioni, con un successo su un Tiro di Istinto.
-  * **Scivoloso - Reazione:** Quando lo Stregone subisce danni da un attacco, può teletrasportarsi in portata Lontana.
-  * **Catene della Colpa - Reazione: Conto alla Rovina (2d6):** Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla Rovina. Quando si attiva, tutti i bersagli in portata Lontana diventano _Vulnerabili_ e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza.
+ * **Conflagrazione - Azione:** **Spendere una Paura** per liberare una tempesta di fuoco divorante ed attaccare tutti i bersagli in portata Vicina. I bersagli contro cui lo Stregone ha successo subiscono **2d10+6** danni magici diretti.
+ * **Tavolozza dell'Incubo - Azione:** **Segnare uno Stress** per intrappolare un bersaglio in portata Lontana in una potente illusione delle sue peggiori paure. Mentre è intrappolato, il bersaglio è _Ristretto_ e _Vulnerabile_ fino a quando non si libera, rimuovendo entrambe le condizioni, con un successo su un Tiro di Istinto.
+ * **Scivoloso - Reazione:** Quando lo Stregone subisce danni da un attacco, può teletrasportarsi in portata Lontana.
+ * **Catene della Colpa - Reazione: Conto alla Rovina (2d6):** Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla Rovina. Quando si attiva, tutti i bersagli in portata Lontana diventano _Vulnerabili_ e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici

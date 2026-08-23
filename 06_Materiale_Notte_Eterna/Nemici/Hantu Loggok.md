@@ -27,11 +27,11 @@ stress: "5"
 esperienza: "+3"
 soglia_danni: "Minore: 8 | Maggiore: 16 | Grave: 25"
 attacchi:
- - name: "Tocco Gelido dell'Anima"
- desc: "**+3** | Da Vicino | **2d8+4** Freddo/Necrotico"
+  - name: "Tocco Gelido dell'Anima"
+    desc: "**+3** | Da Vicino | **2d8+4** Freddo/Necrotico"
 tratti:
- - name: "Incorporeo"
- desc: "Ignora i terreni e attraversa gli ostacoli solidi."
- - name: "Lamento dell'Agonia"
- desc: "Causa terrore puro e infligge danni da Stress ai nemici nell'area."
+  - name: "Incorporeo"
+    desc: "Ignora i terreni e attraversa gli ostacoli solidi."
+  - name: "Lamento dell'Agonia"
+    desc: "Causa terrore puro e infligge danni da Stress ai nemici nell'area."
 ```

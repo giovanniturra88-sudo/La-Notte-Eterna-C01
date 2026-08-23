@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Solo]]"
+aliases:
+ - "Stone Titan"
 ---
 
 ## Titano di Pietra
@@ -12,12 +14,12 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 5
 * **Esperienza:** Artigianato +3, Rune +3
 * **Attacchi:**
-  * **Martello di Pietra:** +3 | Molto Vicina | 3d6+8 fisico
+ * **Martello di Pietra:** +3 | Molto Vicina | 3d6+8 fisico
 * **Tratti e Capacità:**
-  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Colpo Abile - Passiva:** Prima che il Titano effettui un attacco, puoi segnare uno Stress e tirare un d6. Su un risultato di 3 o superiore, l'Evasione del bersaglio è dimezzata contro questo attacco.
-  * **Malattia della Luce - Passiva:** Quando il Titano appare per la prima volta in superficie, tira un d4. Segna un numero di Stress pari al risultato. Il Titano guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress segnati.
-  * **Colpo del Martello - Azione:** Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+ * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Colpo Abile - Passiva:** Prima che il Titano effettui un attacco, puoi segnare uno Stress e tirare un d6. Su un risultato di 3 o superiore, l'Evasione del bersaglio è dimezzata contro questo attacco.
+ * **Malattia della Luce - Passiva:** Quando il Titano appare per la prima volta in superficie, tira un d4. Segna un numero di Stress pari al risultato. Il Titano guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress segnati.
+ * **Colpo del Martello - Azione:** Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
 
 ```statblock
 layout: DaggerHeart Nemici

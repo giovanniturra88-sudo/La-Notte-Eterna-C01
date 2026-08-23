@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Moonlight_Orb"]
 rarity: "Raro"
 original_rarity: "Rare"

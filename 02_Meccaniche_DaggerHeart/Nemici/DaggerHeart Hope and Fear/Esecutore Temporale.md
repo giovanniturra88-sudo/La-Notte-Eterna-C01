@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Temporal Enforcer"
 ---
 
 ## Esecutore Temporale
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Anomalie Temporali +3
 * **Attacchi:**
-  * **Martello di Adamantio:** +4 | Molto Vicina | 40 fisico diretto
+ * **Martello di Adamantio:** +4 | Molto Vicina | 40 fisico diretto
 * **Tratti e Capacità:**
-  * **Inesorabile (2) - Passiva:** L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
-  * **Loop Temporale - Passiva:** Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi.
-  * **Muoversi tra i Momenti - Azione:** Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Molto Lontana, poi mettilo a fuoco di nuovo.
-  * **Riavvolgimento Istantaneo - Reazione:** Quando l'Esecutore fallisce un attacco, puoi spendere una Paura per rilanciare il dado.
-  * **Invertire la Polarità - Reazione:** Fino a tre volte per scena, puoi spendere una Paura per ribaltare qualsiasi dado lanciato sul suo risultato dritto. Questo effetto non può essere usato per alterare un successo critico.
+ * **Inesorabile (2) - Passiva:** L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
+ * **Loop Temporale - Passiva:** Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi.
+ * **Muoversi tra i Momenti - Azione:** Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Molto Lontana, poi mettilo a fuoco di nuovo.
+ * **Riavvolgimento Istantaneo - Reazione:** Quando l'Esecutore fallisce un attacco, puoi spendere una Paura per rilanciare il dado.
+ * **Invertire la Polarità - Reazione:** Fino a tre volte per scena, puoi spendere una Paura per ribaltare qualsiasi dado lanciato sul suo risultato dritto. Questo effetto non può essere usato per alterare un successo critico.
 
 ```statblock
 layout: DaggerHeart Nemici

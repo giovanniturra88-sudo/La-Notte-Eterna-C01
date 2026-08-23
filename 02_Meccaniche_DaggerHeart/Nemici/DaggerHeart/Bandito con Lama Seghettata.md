@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Ladro +2
 * **Attacchi:**
-  * **Pugnali:** +1 | Da Vicino | 1d8+1 fisico
+ * **Pugnali:** +1 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Arrampicatore - Passiva:** Il Bandito si arrampica con la stessa facilità con cui corre.
-  * **Dal Di Sopra - Passiva:** Quando il Bandito ha successo con un attacco standard dall'alto su una vittima, infligge **1d10+1** danni fisici invece dei danni standard.
+ * **Arrampicatore - Passiva:** Il Bandito si arrampica con la stessa facilità con cui corre.
+ * **Dal Di Sopra - Passiva:** Quando il Bandito ha successo con un attacco standard dall'alto su una vittima, infligge **1d10+1** danni fisici invece dei danni standard.
 
 ```statblock
 layout: DaggerHeart Nemici

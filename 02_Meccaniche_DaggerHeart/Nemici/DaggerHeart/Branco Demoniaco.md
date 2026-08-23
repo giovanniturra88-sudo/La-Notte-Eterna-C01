@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Esperienza:** Tracciamento con il Fiuto +3
 * **Attacchi:**
-  * **Artigli e Zanne:** +0 | Da Vicino | 2d8+2 fisico
+ * **Artigli e Zanne:** +0 | Da Vicino | 2d8+2 fisico
 * **Tratti e Capacità:**
-  * **Orda (2d4+1) - Passiva:** Quando il Branco ha segnato metà o più dei propri PF, il suo attacco standard infligge **2d4+1** danni fisici.
-  * **Urlo del Terrore - Azione:** **Segnare uno Stress** per far perdere a tutti i bersagli entro portata Molto Vicina una Speranza. Se un bersaglio non è in grado di perdere una Speranza, deve invece segnare 2 Stress.
-  * **Impeto - Reazione:** Quando il Branco effettua un attacco riuscito contro un PG, guadagni una Paura.
+ * **Orda (2d4+1) - Passiva:** Quando il Branco ha segnato metà o più dei propri PF, il suo attacco standard infligge **2d4+1** danni fisici.
+ * **Urlo del Terrore - Azione:** **Segnare uno Stress** per far perdere a tutti i bersagli entro portata Molto Vicina una Speranza. Se un bersaglio non è in grado di perdere una Speranza, deve invece segnare 2 Stress.
+ * **Impeto - Reazione:** Quando il Branco effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

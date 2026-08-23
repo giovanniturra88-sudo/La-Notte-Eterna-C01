@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 2
 * **Esperienza:** Camuffamento +4, Rovine +3
 * **Attacchi:**
-  * **Artigli di Pietra:** +2 | Da Vicino | 2d10+3 fisico
+ * **Artigli di Pietra:** +2 | Da Vicino | 2d10+3 fisico
 * **Tratti e Capacità:**
-  * **Non-Vivente - Passiva:** Il Gargoyle ha resistenza ai danni magici.
-  * **Colpo in Tuffo - Azione:** Scegli un punto entro portata Lontana. Il Gargoyle si muove a quel punto ed effettua un attacco standard contro un bersaglio lungo il suo percorso.
-  * **Taglio Petrificante - Reazione:** Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Ristretto*. Se il bersaglio è già *Vulnerabile* e *Ristretto*, deve effettuare una mossa di morte. Il PG può spendere una Speranza per condizione per rimuoverla.
+ * **Non-Vivente - Passiva:** Il Gargoyle ha resistenza ai danni magici.
+ * **Colpo in Tuffo - Azione:** Scegli un punto entro portata Lontana. Il Gargoyle si muove a quel punto ed effettua un attacco standard contro un bersaglio lungo il suo percorso.
+ * **Taglio Petrificante - Reazione:** Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Ristretto*. Se il bersaglio è già *Vulnerabile* e *Ristretto*, deve effettuare una mossa di morte. Il PG può spendere una Speranza per condizione per rimuoverla.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Picchiatore]]"
+aliases:
+ - "Cephilith Abomination"
 ---
 
 ## Abominio Cephilith
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Bruto +3
 * **Attacchi:**
-  * **Pugni Muscolosi:** +4 | Da Vicino | 4d10+10 fisico
+ * **Pugni Muscolosi:** +4 | Da Vicino | 4d10+10 fisico
 * **Tratti e Capacità:**
-  * **Pelle Tossica - Passiva:** Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare uno Slot di Armatura o 2 PF.
-  * **Abbraccio dell'Orso - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard ed è *Agganciato* finché non si libera con un Tiro di Forza riuscito. Mentre è *Agganciato*, il bersaglio è *Vulnerabile* e *Ristretto*.
-  * **CRUNCH! - Azione:** Spendere una Paura per infliggere 4d12 danni fisici diretti a una creatura *Agganciata* dall'Abominio.
-  * **Attacco della Lingua - Azione:** Spendere una Paura per far trascinare all'Abominio un bersaglio entro portata Lontana in portata Da Vicino, poi mettere immediatamente l'Abominio a fuoco di nuovo.
-  * **Sanguisughe Sotterranee - Reazione:** Quando l'Abominio subisce danni Maggiori o superiori, la sua pelle esplode in una massa di vermi sottocutanei. Ogni PG entro portata Vicina deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono sono coperti da 2d4 sanguisughe, che si infossano sotto la loro pelle. Finché le sanguisughe non vengono estratte con un Tiro di Finezza riuscito (21), ogni danno che il bersaglio subisce ottiene un bonus di +1 per ogni sanguisuga sotto la sua pelle.
+ * **Pelle Tossica - Passiva:** Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare uno Slot di Armatura o 2 PF.
+ * **Abbraccio dell'Orso - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Da Vicino. In caso di successo, il bersaglio subisce danni standard ed è *Agganciato* finché non si libera con un Tiro di Forza riuscito. Mentre è *Agganciato*, il bersaglio è *Vulnerabile* e *Ristretto*.
+ * **CRUNCH! - Azione:** Spendere una Paura per infliggere 4d12 danni fisici diretti a una creatura *Agganciata* dall'Abominio.
+ * **Attacco della Lingua - Azione:** Spendere una Paura per far trascinare all'Abominio un bersaglio entro portata Lontana in portata Da Vicino, poi mettere immediatamente l'Abominio a fuoco di nuovo.
+ * **Sanguisughe Sotterranee - Reazione:** Quando l'Abominio subisce danni Maggiori o superiori, la sua pelle esplode in una massa di vermi sottocutanei. Ogni PG entro portata Vicina deve effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono sono coperti da 2d4 sanguisughe, che si infossano sotto la loro pelle. Finché le sanguisughe non vengono estratte con un Tiro di Finezza riuscito (21), ogni danno che il bersaglio subisce ottiene un bonus di +1 per ogni sanguisuga sotto la sua pelle.
 
 ```statblock
 layout: DaggerHeart Nemici

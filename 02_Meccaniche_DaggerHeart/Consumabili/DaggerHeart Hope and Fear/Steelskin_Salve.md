@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Steelskin_Salve"]
 rarity: "Raro"
 original_rarity: "Rare"

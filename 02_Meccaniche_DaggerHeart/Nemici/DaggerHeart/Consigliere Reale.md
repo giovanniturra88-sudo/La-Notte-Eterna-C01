@@ -12,11 +12,11 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Esperienza:** Amministrazione +3, Cortigiano +3
 * **Attacchi:**
-  * **Verga:** -3 | Lontana | 1d4+3 fisico
+ * **Verga:** -3 | Lontana | 1d4+3 fisico
 * **Tratti e Capacità:**
-  * **Risposta Devastante - Passiva:** Un PG che ottiene un punteggio inferiore a 17 in un tiro d'azione mirato al Consigliere deve segnare uno Stress.
-  * **Influenza - Azione:** **Segnare uno Stress** per influenzare un NPC entro portata Da Vicino con parole sussurrate. L'opinione di quella persona su una questione si sposta verso la preferenza del Consigliere, a meno che non sia in diretto contrasto con i suoi motivi.
-  * **Capro Espiatorio - Azione:** **Spendere una Paura** per convincere una folla o un individuo notevole che una persona o gruppo è responsabile di qualche problema che colpisce il bersaglio. Il bersaglio diventa ostile verso il capro espiatorio fino a quando non viene convinto della sua innocenza con un tiro riuscito di Presenza (17).
+ * **Risposta Devastante - Passiva:** Un PG che ottiene un punteggio inferiore a 17 in un tiro d'azione mirato al Consigliere deve segnare uno Stress.
+ * **Influenza - Azione:** **Segnare uno Stress** per influenzare un NPC entro portata Da Vicino con parole sussurrate. L'opinione di quella persona su una questione si sposta verso la preferenza del Consigliere, a meno che non sia in diretto contrasto con i suoi motivi.
+ * **Capro Espiatorio - Azione:** **Spendere una Paura** per convincere una folla o un individuo notevole che una persona o gruppo è responsabile di qualche problema che colpisce il bersaglio. Il bersaglio diventa ostile verso il capro espiatorio fino a quando non viene convinto della sua innocenza con un tiro riuscito di Presenza (17).
 
 ```statblock
 layout: DaggerHeart Nemici

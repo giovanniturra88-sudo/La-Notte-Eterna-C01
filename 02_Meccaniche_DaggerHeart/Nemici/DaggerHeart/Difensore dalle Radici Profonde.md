@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 3
 * **Esperienza:** Enorme +3
 * **Attacchi:**
-  * **Viticci:** +2 | Vicina | 1d8+3 fisico
+ * **Viticci:** +2 | Vicina | 1d8+3 fisico
 * **Tratti e Capacità:**
-  * **Calpestio - Azione:** Colpisce il terreno, spingendo tutti i bersagli entro portata Molto Vicina a portata Lontana. Ogni bersaglio spinto indietro in questo modo deve segnare uno Stress.
-  * **Afferra e Trascina - Azione:** Effettua un attacco contro un bersaglio entro portata Vicina. In caso di successo, **spendere una Paura** per trarlo in portata Da Vicino, infliggere **1d6+2** danni fisici e renderlo _Ristretto_ fino a quando il Difensore non subisce danni Gravi.
+ * **Calpestio - Azione:** Colpisce il terreno, spingendo tutti i bersagli entro portata Molto Vicina a portata Lontana. Ogni bersaglio spinto indietro in questo modo deve segnare uno Stress.
+ * **Afferra e Trascina - Azione:** Effettua un attacco contro un bersaglio entro portata Vicina. In caso di successo, **spendere una Paura** per trarlo in portata Da Vicino, infliggere **1d6+2** danni fisici e renderlo _Ristretto_ fino a quando il Difensore non subisce danni Gravi.
 
 ```statblock
 layout: DaggerHeart Nemici

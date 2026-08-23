@@ -12,12 +12,12 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 6
 * **Esperienza:** Conoscenza Caduta +2, Riti +2
 * **Attacchi:**
-  * **Bastone Ricoperto di Rune:** +2 | Lontana | 2d4+3 magico
+ * **Bastone Ricoperto di Rune:** +2 | Lontana | 2d4+3 magico
 * **Tratti e Capacità:**
-  * **Esplosione Debilitante - Azione:** **Spendere una Paura** per effettuare un attacco standard contro un bersaglio entro portata. In caso di successo, il bersaglio deve segnare uno Stress.
-  * **Manto dei Caduti - Azione:** **Segnare uno Stress** per avvolgere un alleato entro portata in un _Manto di Protezione_ fino a quando l'Adepto non segna il suo ultimo PF. Mentre è _Protetto_, il bersaglio ha resistenza a tutti i danni.
-  * **Catene d'Ombra - Azione:** **Spendere una Paura** e scegliere un punto entro portata Lontana. Tutti i bersagli entro portata Vicina a quel punto sono _Ristretti_ in catene di fumo fino a quando non si liberano con un successo su un Tiro di Forza o Istinto. Un bersaglio _Ristretto_ da questa caratteristica deve spendere una Speranza per effettuare un tiro d'azione.
-  * **La Paura è Carburante - Reazione:** Due volte per scena, quando un PG fallisce con Paura, cancella uno Stress.
+ * **Esplosione Debilitante - Azione:** **Spendere una Paura** per effettuare un attacco standard contro un bersaglio entro portata. In caso di successo, il bersaglio deve segnare uno Stress.
+ * **Manto dei Caduti - Azione:** **Segnare uno Stress** per avvolgere un alleato entro portata in un _Manto di Protezione_ fino a quando l'Adepto non segna il suo ultimo PF. Mentre è _Protetto_, il bersaglio ha resistenza a tutti i danni.
+ * **Catene d'Ombra - Azione:** **Spendere una Paura** e scegliere un punto entro portata Lontana. Tutti i bersagli entro portata Vicina a quel punto sono _Ristretti_ in catene di fumo fino a quando non si liberano con un successo su un Tiro di Forza o Istinto. Un bersaglio _Ristretto_ da questa caratteristica deve spendere una Speranza per effettuare un tiro d'azione.
+ * **La Paura è Carburante - Reazione:** Due volte per scena, quando un PG fallisce con Paura, cancella uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

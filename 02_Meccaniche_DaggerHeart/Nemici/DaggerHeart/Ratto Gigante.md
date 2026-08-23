@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 1 | **Stress:** 1
 * **Esperienza:** Sensi Affinati +3
 * **Attacchi:**
-  * **Artigli:** -4 | Da Vicino | 1 fisico
+ * **Artigli:** -4 | Da Vicino | 1 fisico
 * **Tratti e Capacità:**
-  * **Minion (3) - Passiva:** Il Ratto è sconfitto quando riceve qualsiasi danno. Per ogni 3 danni che un PG infligge al Ratto, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
-  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Ratti Giganti in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
+ * **Minion (3) - Passiva:** Il Ratto è sconfitto quando riceve qualsiasi danno. Per ogni 3 danni che un PG infligge al Ratto, sconfiggi un Minion aggiuntivo entro portata dell'attacco che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Ratti Giganti in portata Vicina. Quei Minion si muovono in portata Da Vicino del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici

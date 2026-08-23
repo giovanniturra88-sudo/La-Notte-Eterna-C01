@@ -12,13 +12,13 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 5
 * **Esperienza:** Manipolazione +2
 * **Attacchi:**
-  * **Lancia Perfetta:** +4 | Molto Vicina | 3d10 fisico
+ * **Lancia Perfetta:** +4 | Molto Vicina | 3d10 fisico
 * **Tratti e Capacità:**
-  * **Terribile - Passiva:** Quando il Demone effettua un attacco riuscito, tutti i PG entro portata Lontana devono perdere una Speranza e tu guadagni una Paura.
-  * **Doppio o Nulla - Passiva:** Quando un PG entro portata Lontana fallisce un tiro, può scegliere di rilanciare il Dado di Paura e prendere il nuovo risultato. Se comunque fallisce, segna 2 Stress e il Demone elimina uno Stress.
-  * **Abilità Senza Paragone - Azione:** **Segnare uno Stress** per infliggere i danni standard dell'attacco del Demone a un bersaglio entro portata Vicina.
-  * **Radice della Villania - Azione:** **Spendere una Paura** per mettere a fuoco due altri Demoni entro portata Lontana.
-  * **Sei Pallido in Confronto - Reazione:** Quando un PG fallisce un tiro entro portata Vicina al Demone, deve segnare uno Stress.
+ * **Terribile - Passiva:** Quando il Demone effettua un attacco riuscito, tutti i PG entro portata Lontana devono perdere una Speranza e tu guadagni una Paura.
+ * **Doppio o Nulla - Passiva:** Quando un PG entro portata Lontana fallisce un tiro, può scegliere di rilanciare il Dado di Paura e prendere il nuovo risultato. Se comunque fallisce, segna 2 Stress e il Demone elimina uno Stress.
+ * **Abilità Senza Paragone - Azione:** **Segnare uno Stress** per infliggere i danni standard dell'attacco del Demone a un bersaglio entro portata Vicina.
+ * **Radice della Villania - Azione:** **Spendere una Paura** per mettere a fuoco due altri Demoni entro portata Lontana.
+ * **Sei Pallido in Confronto - Reazione:** Quando un PG fallisce un tiro entro portata Vicina al Demone, deve segnare uno Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -24,5 +24,6 @@ stress: "3"
 esperienza: "+2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 12"
 attacchi:
- - name: "Tocco Desolato"
- desc: "**+2** | Da Vicino | **1d6+2** Psichico"
+  - name: "Tocco Desolato"
+    desc: "**+2** | Da Vicino | **1d6+2** Psichico"
+```

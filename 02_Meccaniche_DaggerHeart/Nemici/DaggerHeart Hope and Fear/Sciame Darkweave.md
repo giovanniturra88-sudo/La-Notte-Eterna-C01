@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Orda]]"
+aliases:
+ - "Darkweave Swarmlings"
 ---
 
 ## Sciame Darkweave
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 4
 * **Esperienza:** Arrampicata +2
 * **Attacchi:**
-  * **Mordicchiare:** +0 | Da Vicino | 1d8 fisico
+ * **Mordicchiare:** +0 | Da Vicino | 1d8 fisico
 * **Tratti e Capacità:**
-  * **Orda (1d4) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4 danni fisici.
-  * **"Via di Lì, Via di Lì!" - Reazione:** Quando un attacco dello Sciame fa segnare PF a un bersaglio, puoi segnare uno Stress per rendere il bersaglio temporaneamente *Coperto di Ragni*. Mentre è *Coperto di Ragni*, il bersaglio deve tirare un d6 quando effettua un tiro di azione. Con un risultato di 4 o superiore, deve segnare uno Stress o guadagni una Paura.
+ * **Orda (1d4) - Passiva:** Quando lo Sciame ha segnato metà o più dei suoi PF, il suo attacco standard infligge 1d4 danni fisici.
+ * **"Via di Lì, Via di Lì!" - Reazione:** Quando un attacco dello Sciame fa segnare PF a un bersaglio, puoi segnare uno Stress per rendere il bersaglio temporaneamente *Coperto di Ragni*. Mentre è *Coperto di Ragni*, il bersaglio deve tirare un d6 quando effettua un tiro di azione. Con un risultato di 4 o superiore, deve segnare uno Stress o guadagni una Paura.
 
 ```statblock
 layout: DaggerHeart Nemici

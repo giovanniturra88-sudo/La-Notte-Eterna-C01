@@ -3,7 +3,7 @@ type: Abilità
 Livello: 5
 Dominio: "[[MezzaNotte]]"
 Costo di Richiamo: 1
-Tipologia Carta: "[[della]]"
+Tipologia Carta: "della"
 Titolo Inglese:
 ---
 

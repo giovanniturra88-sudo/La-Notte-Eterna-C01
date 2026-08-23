@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Capo]]"
+aliases:
+ - "Guahalan Fang Lord"
 ---
 
 ## Signore dei Cani Guahalan
@@ -12,12 +14,12 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 5
 * **Esperienza:** Conoscenza Antica +2, Cacciatore +2
 * **Attacchi:**
-  * **Lancia:** +2 | Molto Vicina | 2d8+4 fisico
+ * **Lancia:** +2 | Molto Vicina | 2d8+4 fisico
 * **Tratti e Capacità:**
-  * **Alfa del Branco - Passiva:** Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un token al Pool Guahalan. Quando un alleato Guahalan entro portata Vicina effettua un attacco, puoi spendere un token dal Pool Guahalan per dargli il vantaggio sul tiro.
-  * **Scatenare la Bestia - Azione:** Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione.
-  * **Chiamata della Guahala - Azione:** Spendere 2 Paura per mettere a fuoco tutti i Cambiagui Guahalan entro portata Vicina. Ciascuno effettua un attacco standard contro un bersaglio entro portata. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni.
-  * **Forma Feroce (Cambio di Fase) - Reazione:** Quando il Signore dei Cani segna il suo ultimo PF, sostituiscilo con il Guahalan Alebrujo e mettilo immediatamente a fuoco.
+ * **Alfa del Branco - Passiva:** Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un token al Pool Guahalan. Quando un alleato Guahalan entro portata Vicina effettua un attacco, puoi spendere un token dal Pool Guahalan per dargli il vantaggio sul tiro.
+ * **Scatenare la Bestia - Azione:** Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Vicina prima di compiere un'azione.
+ * **Chiamata della Guahala - Azione:** Spendere 2 Paura per mettere a fuoco tutti i Cambiagui Guahalan entro portata Vicina. Ciascuno effettua un attacco standard contro un bersaglio entro portata. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni.
+ * **Forma Feroce (Cambio di Fase) - Reazione:** Quando il Signore dei Cani segna il suo ultimo PF, sostituiscilo con il Guahalan Alebrujo e mettilo immediatamente a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici

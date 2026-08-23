@@ -59,5 +59,3 @@ Alcuni vengono sostituiti da servitori necromantici e non morti.
 ## Citazione 
 
 > "Non abbastanza importanti da guidare il mondo. Abbastanza disperati da venderlo per qualche moneta." 
-
-``

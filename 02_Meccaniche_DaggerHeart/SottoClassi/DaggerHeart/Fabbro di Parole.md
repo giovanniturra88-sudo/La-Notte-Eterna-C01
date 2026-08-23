@@ -15,7 +15,7 @@ spellcast_trait: Presenza
 *Caratteristica di Spellcast:* **Presenza (Presence)**
 
 ## Descrizione e Focus
-Utilizzare giochi di parole arguti, dialoghi captivanti e discorsi capaci di dominare la mente e ispirare le masse.
+Utilizzare giochi di parole arguti, dialoghi accattivanti e discorsi capaci di dominare la mente e ispirare le masse.
 
 ## Caratteristica di Fondazione (Foundation)
 **Discorso Incoraggiante (Rousing Speech):**

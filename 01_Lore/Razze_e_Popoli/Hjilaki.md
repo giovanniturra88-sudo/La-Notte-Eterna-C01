@@ -2,7 +2,7 @@
 type: Popolo
 ---
 
-Gli alti [[vampiri]] sono conosciuti come hjilaki, un composto delle parole [[Karevi]] *hj* e *hlaká* (in lingua [[Karevi]] *"morto del sangue"*). In principio il termine si riferiva a tutti i [[vampiri]], ma con il progressivo indebolimento del Sangue del Primo è servito a indicare esclusivamente i [[vampiri]] dotati di pieni poteri.
+Gli alti vampiri sono conosciuti come hjilaki, un composto delle parole [[Karevi]] *hj* e *hlaká* (in lingua [[Karevi]] *"morto del sangue"*). In principio il termine si riferiva a tutti i vampiri, ma con il progressivo indebolimento del Sangue del Primo è servito a indicare esclusivamente i vampiri dotati di pieni poteri.
 Gli hjilaki sono creature più affascinanti, scaltre e forti dei vampiri. Ai vertici di ogni banda, clan o nazione vampirica vi sono sempre hjilaki. Secondo quanto affermano loro stessi, gli hjilaki avrebbero mantenuto intatte le straordinarie caratteristiche del leggendario Primo, il progenitore dei vampiri di [[Neir]].
 ## Tratti degli Hjilaki
 Il personaggio perde tutti i suoi privilegi di razza ma conserva l'aspetto che aveva in vita, sebbene il suo incarnato acquisisca un estremo pallore e il colore delle sue iridi cambi in grigio, nero e in alcuni casi rossastro.
@@ -24,7 +24,7 @@ Un hjilaki deve consumare almeno 2 litri di sangue ogni 24 ore. Quando si nutre 
 ### Costituzione Vampirica
 Un hjilaki non ha bisogno di mangiare e bere se non sangue ed è immune alla condizione indebolimento. Un hjilaki è resistente ai danni necrotici e se non indossa un'armatura la sua CA è pari 15 + modificatore di Agilità.
 ### Rigenerazione
-Un hjilaki recupera 10 Punti Ferita all'inizio di ogni tuo turno se ha almeno 1 punto ferita e non si trova in luce solare 0 acqua corrente. Se un hjilaki subisce danni radianti oda acqua santa, questo tratto non funziona fino alla fine del suo prossimo turno.
+Un hjilaki recupera 10 Punti Ferita all'inizio di ogni tuo turno se ha almeno 1 punto ferita e non si trova in luce solare o acqua corrente. Se un hjilaki subisce danni radianti o da acqua santa, questo tratto non funziona fino alla fine del suo prossimo turno.
 ### Movimenti del Ragno
 Un hjilaki può muoversi su superfici verticali e a testa in giù senza bisogno di prove.
 ### Eterno Riposo

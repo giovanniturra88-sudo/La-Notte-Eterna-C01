@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[a Distanza]]"
+aliases:
+ - "Centaur Warden"
 ---
 
 ## Centauro Guardiano
@@ -12,12 +14,12 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 3
 * **Esperienza:** Natura +2, Filosofia +2
 * **Attacchi:**
-  * **Arco Ricurvo:** +2 | Lontano | 2d8+4 fisico
+ * **Arco Ricurvo:** +2 | Lontano | 2d8+4 fisico
 * **Tratti e Capacità:**
-  * **Manovra di Flanco - Passiva:** Quando il Guardiano effettua un attacco standard contro un bersaglio entro portata Da Vicino di uno o più alleati del Guardiano, quest'ultimo guadagna un bonus di +2 al tiro d'attacco.
-  * **Occhio del Saggio - Azione:** Segnare uno Stress per effettuare un attacco standard. Il Guardiano ha vantaggio sul tiro d'attacco e ottiene un successo critico con un risultato di 19-20.
-  * **Calpestare - Azione:** Spendere una Paura per far galoppare il Guardiano fino a portata Lontana in linea retta. Ogni bersaglio sul suo percorso deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono subiscono 1d6+2 danni fisici. I bersagli che falliscono subiscono il doppio dei danni e devono segnare uno Stress.
-  * **Volley Rapido - Reazione:** Quando il Guardiano effettua un attacco standard, puoi segnare qualsiasi numero di Stress per bersagliare lo stesso numero di creature aggiuntive entro portata.
+ * **Manovra di Flanco - Passiva:** Quando il Guardiano effettua un attacco standard contro un bersaglio entro portata Da Vicino di uno o più alleati del Guardiano, quest'ultimo guadagna un bonus di +2 al tiro d'attacco.
+ * **Occhio del Saggio - Azione:** Segnare uno Stress per effettuare un attacco standard. Il Guardiano ha vantaggio sul tiro d'attacco e ottiene un successo critico con un risultato di 19-20.
+ * **Calpestare - Azione:** Spendere una Paura per far galoppare il Guardiano fino a portata Lontana in linea retta. Ogni bersaglio sul suo percorso deve effettuare un Tiro di Reazione di Agilità. I bersagli che riescono subiscono 1d6+2 danni fisici. I bersagli che falliscono subiscono il doppio dei danni e devono segnare uno Stress.
+ * **Volley Rapido - Reazione:** Quando il Guardiano effettua un attacco standard, puoi segnare qualsiasi numero di Stress per bersagliare lo stesso numero di creature aggiuntive entro portata.
 
 ```statblock
 layout: DaggerHeart Nemici

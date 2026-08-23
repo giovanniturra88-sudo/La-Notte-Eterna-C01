@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Consumable]]"
+  - "[[Consumabile]]"
 alias: ["Nightmare_Mead"]
 rarity: "Raro"
 original_rarity: "Rare"

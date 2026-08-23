@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Furtivo]]"
+aliases:
+ - "Panther"
 ---
 
 ## Pantera
@@ -12,10 +14,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Sensi Acuti +3, Furtività +3
 * **Attacchi:**
-  * **Denti e Artigli:** +2 | Da Vicino | 1d8+1 fisico
+ * **Denti e Artigli:** +2 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Inseguitore delle Ombre - Passiva:** Mentre è *Nascosto*, la Pantera guadagna un bonus di +2 ai suoi tiri d'attacco.
-  * **Colpo Potente - Azione:** Segnare uno Stress per far saltare la Pantera in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 1d12+2 danni fisici.
+ * **Inseguitore delle Ombre - Passiva:** Mentre è *Nascosto*, la Pantera guadagna un bonus di +2 ai suoi tiri d'attacco.
+ * **Colpo Potente - Azione:** Segnare uno Stress per far saltare la Pantera in portata Da Vicino di un bersaglio entro portata Lontana ed effettuare un attacco contro di esso. In caso di successo, infliggi 1d12+2 danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -8,7 +8,7 @@ original_name: "Midas Scythe"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: -
+tratto: ""
 type: 
   - "[[Arma]]"
 ---

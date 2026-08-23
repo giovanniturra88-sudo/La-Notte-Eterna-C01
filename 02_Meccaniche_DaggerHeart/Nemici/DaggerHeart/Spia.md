@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Esperienza:** Spionaggio +3
 * **Attacchi:**
-  * **Pugnale:** -2 | Da Vicino | 2d6+3 fisico
+ * **Pugnale:** -2 | Da Vicino | 2d6+3 fisico
 * **Tratti e Capacità:**
-  * **Raccogliere Segreti - Azione:** **Spendere uno Stress** per descrivere come la Spia sa un segreto su un PG nella scena.
-  * **Osservatore Silenzioso - Reazione:** Quando un PG o un gruppo discute qualcosa di sensibile, puoi **Segnare uno Stress** per rivelare che la Spia è presente nella scena, osservandoli. Se la Spia lascia la scena per riportare le sue scoperte, guadagni **1d4** Stress.
+ * **Raccogliere Segreti - Azione:** **Spendere uno Stress** per descrivere come la Spia sa un segreto su un PG nella scena.
+ * **Osservatore Silenzioso - Reazione:** Quando un PG o un gruppo discute qualcosa di sensibile, puoi **Segnare uno Stress** per rivelare che la Spia è presente nella scena, osservandoli. Se la Spia lascia la scena per riportare le sue scoperte, guadagni **1d4** Stress.
 
 ```statblock
 layout: DaggerHeart Nemici

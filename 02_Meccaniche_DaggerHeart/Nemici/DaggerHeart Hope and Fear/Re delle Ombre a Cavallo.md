@@ -2,6 +2,8 @@
 type:
   - "[[Creatura]]"
   - "[[Supporto]]"
+aliases:
+ - "Fellmounted Shadow King"
 ---
 
 ## Re delle Ombre a Cavallo
@@ -12,13 +14,13 @@ type:
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Cercatore +3
 * **Attacchi:**
-  * **Lancia Maledetta:** +4 | Vicina | 3d10+6 magico
+ * **Lancia Maledetta:** +4 | Vicina | 3d10+6 magico
 * **Tratti e Capacità:**
-  * **Montatura Maledetta - Passiva:** Mentre il Re delle Ombre è sulla sua montatura, guadagna un bonus di +2 alla sua Difficoltà. Quando il Re delle Ombre subisce danni Gravi, viene sbalzato dalla montatura. Se il Re delle Ombre è senza montatura, la sua montatura scompare finché non segni uno Stress per evocarla di nuovo.
-  * **Luce e Ombra - Passiva:** Il Re delle Ombre ha vantaggio sui tiri d'attacco mentre è in ombra o al buio e svantaggio sui tiri d'attacco mentre è in luce intensa.
-  * **Cacciatore di Reliquie - Passiva:** Il Re delle Ombre ha vantaggio sui tiri d'attacco contro PG che hanno equipaggiato armi o armature magiche.
-  * **Canto Infernale - Azione:** Spendere 2 Paura per far scatenare alla montatura del Re delle Ombre un urlo gelido che rimbomba sul campo di battaglia. Ogni PG entro portata Lontana deve effettuare un Tiro di Reazione di Presenza (18). I bersagli che riescono devono segnare uno Stress. I bersagli che falliscono devono segnare uno Stress e perdere una Speranza. Se un PG non può perdere una Speranza, guadagni 2 Paura.
-  * **Sostegno Aereo - Reazione:** Tre volte per scena, puoi spendere una Paura per far rifare a un alleato entro portata Lontana un attacco fallito con vantaggio.
+ * **Montatura Maledetta - Passiva:** Mentre il Re delle Ombre è sulla sua montatura, guadagna un bonus di +2 alla sua Difficoltà. Quando il Re delle Ombre subisce danni Gravi, viene sbalzato dalla montatura. Se il Re delle Ombre è senza montatura, la sua montatura scompare finché non segni uno Stress per evocarla di nuovo.
+ * **Luce e Ombra - Passiva:** Il Re delle Ombre ha vantaggio sui tiri d'attacco mentre è in ombra o al buio e svantaggio sui tiri d'attacco mentre è in luce intensa.
+ * **Cacciatore di Reliquie - Passiva:** Il Re delle Ombre ha vantaggio sui tiri d'attacco contro PG che hanno equipaggiato armi o armature magiche.
+ * **Canto Infernale - Azione:** Spendere 2 Paura per far scatenare alla montatura del Re delle Ombre un urlo gelido che rimbomba sul campo di battaglia. Ogni PG entro portata Lontana deve effettuare un Tiro di Reazione di Presenza (18). I bersagli che riescono devono segnare uno Stress. I bersagli che falliscono devono segnare uno Stress e perdere una Speranza. Se un PG non può perdere una Speranza, guadagni 2 Paura.
+ * **Sostegno Aereo - Reazione:** Tre volte per scena, puoi spendere una Paura per far rifare a un alleato entro portata Lontana un attacco fallito con vantaggio.
 
 ```statblock
 layout: DaggerHeart Nemici

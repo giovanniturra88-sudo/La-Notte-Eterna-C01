@@ -58,7 +58,7 @@ Contiene informazioni su:
 - collegamenti con [[Wonderrod]];
 - infiltrazione della città.
 ### Legame Necromantico
-I personaggi scoprono l'esistenza della capacità magica sviluppato da [[Silke]] per controllare e manipolare i propri servitori.
+I personaggi scoprono l'esistenza della capacità magica sviluppata da [[Silke]] per controllare e manipolare i propri servitori.
 ### Il Tradimento di Zakara
 Le prove raccolte dimostrano definitivamente la complicità dell'ufficiale.
 ## Segreti

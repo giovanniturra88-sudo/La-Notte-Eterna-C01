@@ -14,6 +14,6 @@ type:
 - **Soglie di Danno:** 9 / 20
 - **Punteggio Armatura:** 4
 
-### TRATTO DELL me ARMATURA
+### TRATTO DELL'ARMATURA
 
-**_Pelliccia Glaciale:_** Sei immune ai danni e agli effetti del freddo estremo. Spendi 1 Speranza per ottenere resistenza ai danni da Gelo per la durata dell'incrocio/scena.
+**_Pelliccia Glaciale:_** Sei immune ai danni e agli effetti del freddo estremo. Spendi 1 Speranza per ottenere resistenza ai danni da Gelo per la durata dell'incontro/scena.

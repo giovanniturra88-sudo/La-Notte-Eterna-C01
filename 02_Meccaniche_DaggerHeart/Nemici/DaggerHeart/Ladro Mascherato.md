@@ -12,10 +12,10 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 5
 * **Esperienza:** Acrobazie +3
 * **Attacchi:**
-  * **Spada alla Schiena:** +3 | Da Vicino | 2d8+3 fisico
+ * **Spada alla Schiena:** +3 | Da Vicino | 2d8+3 fisico
 * **Tratti e Capacità:**
-  * **Mani Veloci - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **1d8+2** danni fisici e il Ladro ruba un oggetto o un consumabile dall'inventario del bersaglio.
-  * **Piano di Fuga - Azione:** **Segnare uno Stress** per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Molto Vicina alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è _Incatenato_ e _Vulnerabile_ finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Finezza o Forza (13).
+ * **Mani Veloci - Azione:** Effettua un attacco contro un bersaglio in portata Da Vicino. In caso di successo, infliggi **1d8+2** danni fisici e il Ladro ruba un oggetto o un consumabile dall'inventario del bersaglio.
+ * **Piano di Fuga - Azione:** **Segnare uno Stress** per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Molto Vicina alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è _Incatenato_ e _Vulnerabile_ finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Finezza o Forza (13).
 
 ```statblock
 layout: DaggerHeart Nemici

@@ -12,7 +12,7 @@ Tenebris regna sulla Città Senza Nome. È da questa metropoli infernale che, ne
 
 
 
-Secoli addietro, Tenebris regnava incontrastato sulle Pianure di Xanesh. Esiliato nella Dimensione dello Spirito, non ha mai smesso di tramare il proprio ritorno su Neir, animato da un'insaziabile sete di vendetta e dal desiderio di restaurare il suo dominio infernale. Tra i reami xaan la sua chiesa esercita una notevole influenza, specialmente nei villaggi e nelle campagne dove resistono costumi mai del tutto scomparsi... lontano dalle campagne, il culto si sta facendo largo anche tra le élite urbane, sedotte dalla promessa di redenzione nel peccato...
+Secoli addietro, Tenebris regnava incontrastato sulle Pianure di Xanesh. Esiliato nella Dimensione dello Spirito, non ha mai smesso di tramare il proprio ritorno su Neir, animato da un'insaziabile sete di vendetta e dal desiderio di restaurare il suo dominio infernale. Tra i reami xaan la sua chiesa esercita una notevole influenza, specialmente nei villaggi e nelle campagne dove resistono costumi mai del tutto scomparsi... Lontano dalle campagne, il culto si sta facendo largo anche tra le élite urbane, sedotte dalla promessa di redenzione nel peccato...
 
 
 

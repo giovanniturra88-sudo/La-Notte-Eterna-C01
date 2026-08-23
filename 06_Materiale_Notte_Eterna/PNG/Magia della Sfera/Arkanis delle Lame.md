@@ -39,7 +39,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 - **Riflessi Fulminei:** Arkanis ha una reazione extra ad ogni round, utilizzabile solo per effettuare Parata o Attacco di Opportunità.
 
 #### **AZIONI**
-- **Multiattacco:** Arkanis effettua tre attacchi con le sue Lame Dancanti.
+- **Multiattacco:** Arkanis effettua tre attacchi con le sue Lame Danzanti.
 - **Lama Danzante:** Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 11 (1d8 + 7) danni taglienti più 4 (1d8) danni radianti.
 - **Furia di Lame (Ricarica 5-6):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m da lui deve effettuare un Tiro di Reazione di Agilità con Difficoltà 17, subendo 36 (8d8) danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
 
@@ -49,6 +49,6 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 ---
 
 ### **STORIA E LORE**
-Nato tra le fucine di Daragoss, Arkanis affilò la sua arte bellica combattendo le orde di non morti durante la Notte Eterna. Le sue leggendarie spade si dice siano state temprare nel Fuoco Segreto della Vetta delle Anime.
+Nato tra le fucine di Daragoss, Arkanis affilò la sua arte bellica combattendo le orde di non morti durante la Notte Eterna. Le sue leggendarie spade si dice siano state temprate nel Fuoco Segreto della Vetta delle Anime.
 
 *Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*

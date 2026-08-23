@@ -23,7 +23,7 @@ Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre n
 **_Magia Volatile:_** Spendi 3 Punti Speranza per ripetere qualsiasi numero di dadi di danno su un attacco che infligge danno magico.
 
 # Sottoclassi
-Scegli tra la sottoclasse [[02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart/# Origine Elementale]] o [[Origine Primordiale]].
+Scegli tra la sottoclasse [[Origine Elementale]] o [[Origine Primordiale]].
 
 # Caratteristiche di Classe
 **_Senso Arcano (Arcane Sense):_** Puoi percepire la presenza di oggetti e creature magiche entro portata Vicina.
