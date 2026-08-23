@@ -12,7 +12,7 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Stazza Solida**: Puoi ignorare 1 punto di *Stress* derivante da colpi fisici una volta per combattimento, grazie alla tua naturale robustezza.
-- **Occhio dell'Artigiano**: Hai vantaggio alle prove di *Finesse* quando analizzi la struttura di meccanismi, porte segrete o manufatti antichi.
+- **Occhio dell'Artigiano**: Hai vantaggio alle prove di *Finezza* quando analizzi la struttura di meccanismi, porte segrete o manufatti antichi.
 - **Forza della Roccia**: Puoi piantare i piedi a terra per diventare inamovibile; attivare questa posizione speciale ti rende immune a effetti di spinta, ma genera 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa

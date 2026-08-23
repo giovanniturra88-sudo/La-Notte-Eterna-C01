@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Guscio di Pietra**: Puoi ritirarti nel tuo guscio come azione di reazione quando vieni colpito. Ottieni +2 alla tua armatura fino all'inizio del tuo prossimo turno, ma non puoi muoverti.
 - **Metabolismo Lento**: Hai vantaggio contro gli effetti che richiedono un test di resistenza al veleno, alla malattia o alla privazione (fame/sete/sonno), poiché il tuo corpo entra in uno stato di stasi parziale.
-- **Peso della Saggezza**: Puoi condividere un ricordo ancestrale con un alleato per aiutarlo in una prova di *Knowledge*; tuttavia, l'attivazione di questa memoria collettiva attira le ombre della Notte Eterna, generando 1 punto di *Tensione* nel pool del GM.
+- **Peso della Saggezza**: Puoi condividere un ricordo ancestrale con un alleato per aiutarlo in una prova di *Conoscenza*; tuttavia, l'attivazione di questa memoria collettiva attira le ombre della Notte Eterna, generando 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Galapa non vedono nel senso tradizionale. La loro pelle e il loro guscio sono sensibili alle variazioni di pressione atmosferica. In una stanza buia, "mappano" lo spazio circostante percependo i volumi d'aria e le correnti, rendendoli immuni alle penalità di oscurità.

@@ -12,7 +12,7 @@ spellcast_trait: Finesse
 # Sindacato (Syndicate)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Finesse**
+*Caratteristica di Spellcast:* **Finezza (Finesse)**
 
 ## Descrizione e Focus
 Sfruttare una fitta rete sotterranea di alleati, contatti e spie in ogni angolo del mondo.

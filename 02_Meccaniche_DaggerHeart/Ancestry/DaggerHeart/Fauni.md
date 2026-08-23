@@ -11,7 +11,7 @@ source: DaggerHeart
 - **Archetipo**: Esploratori di terre selvagge, Esperti di sopravvivenza, Cantori dell'eco.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Passo Silvano**: Ottieni vantaggio alle prove di *Instinct* per navigare in ambienti naturali, anche se distorti o contaminati dalla corruzione.
+- **Passo Silvano**: Ottieni vantaggio alle prove di *Istinto* per navigare in ambienti naturali, anche se distorti o contaminati dalla corruzione.
 - **Resilienza Ferina**: Quando subisci danni, puoi marcare 1 *Stress* per ignorare gli effetti di rallentamento o condizioni ambientali avverse fino alla fine del tuo prossimo turno.
 - **Richiamo dell'Eco**: Puoi emettere un richiamo che amplifica le tue percezioni o quelle dei tuoi alleati; questo uso innaturale dei tuoi sensi attira le presenze del sottobosco, generando 1 punto di *Tensione* nel pool del GM.
 

@@ -14,9 +14,9 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 - **Punti Stress INIZIALI -** 6
 - **OGGETTI DI CLASSE -** Una bussola d'argento che indica sempre il Nord Celeste o un mantello logoro ricavato dalla pelliccia di un lupo invernale.
 ---
-- **TRATTI SUGGERITI -** +2 Agilità, -1 Forza, +1 Finesse, +1 Istinto, 0 Presenza, 0 Conoscenza
+- **TRATTI SUGGERITI -** +2 Agilità, -1 Forza, +1 Finezza, +1 Istinto, 0 Presenza, 0 Conoscenza
 - **ARMA PRINCIPALE SUGGERITA -** Arco Corto dell'Ombra (Agilità Lontano - d6+3 fisici - Due Mani)
-- **ARMA SECONDARIA SUGGERITA -** Pugnale d'Argento (Finesse Mischia - d8 fisici - Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale d'Argento (Finezza Mischia - d8 fisici - Una Mano)
 - **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13 - Evasione 3)
 ---
 

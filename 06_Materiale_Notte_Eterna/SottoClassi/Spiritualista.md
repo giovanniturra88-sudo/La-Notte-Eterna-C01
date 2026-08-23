@@ -18,7 +18,7 @@ Necromanti sopravvissuti a potenti ed empi esperimenti necromantici, in grado di
 ---
 
 ### Fondazione
-**_Vascello delle Anime:_** Puoi vedere gli spiriti dei morti. Possiedi una riserva di *Punti Spirito* (massimo pari al tuo Tier + il tuo modificatore di Incantesimo). Quando uccidi un avversario pericoloso, ottieni 1 Punto Spirito. Puoi spendere 1 Punto Spirito prima di un tiro di danno magico per infliggere +1d8 danni da forza extra.
+**_Vascello delle Anime:_** Puoi vedere gli spiriti dei morti. Possiedi una riserva di *Punti Spirito* (massimo pari al tuo Tier + il tuo modificatore di Incantesimo). Quando uccidi un avversario pericoloso, ottieni 1 Punto Spirito. Puoi spendere 1 Punto Spirito prima di un tiro di danno magico per infliggere +1d8 danni magici extra.
 
 ---
 

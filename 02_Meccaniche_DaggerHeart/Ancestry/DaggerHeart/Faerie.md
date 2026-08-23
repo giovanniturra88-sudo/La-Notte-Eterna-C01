@@ -11,7 +11,7 @@ source: DaggerHeart
 - **Archetipo**: Illusori, Manipolatori, Esploratori del Velo.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Velo dell'Illusione**: Una volta per sessione, puoi alterare la percezione della realtà per un istante, ottenendo vantaggio su una prova di *Presence* per ingannare o distrarre una creatura.
+- **Velo dell'Illusione**: Una volta per sessione, puoi alterare la percezione della realtà per un istante, ottenendo vantaggio su una prova di *Presenza* per ingannare o distrarre una creatura.
 - **Volare**: Possiedi ali diafane o la capacità di fluttuare. Puoi superare ostacoli fisici o terreni difficili senza marcare *Stress*, ma solo se non trasporti carichi pesanti.
 - **Sintonia Instabile**: Puoi attingere al potere del Velo per potenziare un alleato; tuttavia, il contatto con questa energia pura attira le entità della Notte, generando 1 punto di *Tensione* nel pool del GM.
 

@@ -24,7 +24,7 @@ Porti con te un monile o un frammento di roccia meteoritica che brilla di una de
 ## Caratteristiche di Specializzazione
 
 ### Esperto Astronomo
-Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni vantaggio permanente a tutte le prove di *Sopravvivenza* effettuate per orientarti di notte sotto la luce della Luna e alle prove di *Arcano* o *Storia* volte a identificare le proprietà magiche o geologiche di frammenti di meteore, ars o metalli celesti.
+Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni vantaggio permanente a tutte le prove di *Istinto* effettuate per orientarti di notte sotto la luce della Luna e alle prove di *Conoscenza* volte a identificare le proprietà magiche o geologiche di frammenti di meteore, ars o metalli celesti.
 
 ### Bagliore della Caduta
 Quando utilizzi la caratteristica di classe dello Stregone *Incanalare Potere Grezzo (Channel Raw Power)*, puoi scegliere di marcare **1 Stress** per scatenare una pioggia di scintille purpuree dal tuo incantesimo. Tutti i nemici entro portata Vicina dal bersaglio primario devono superare un Tiro di Reazione di Agilità contro la tua Difficoltà di Incantesimo o subire la condizione **Vulnerabile** fino all'inizio del tuo turno successivo.

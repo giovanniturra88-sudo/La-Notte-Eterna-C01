@@ -36,7 +36,7 @@ Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana*
 * **Durata:** 1 Scena
 * **Gittata:** Contatto
 
-Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la durata della Scena **Vantaggio** a tutti i Tiri basati su *Forza* o *Stazza*, **Resistenza** ai danni da Veleno e la possibilità di effettuare un attacco bonus corpo a corpo. Al termine dell'effetto, chi ne ha usufruito subisce **1 Punto Stress** e non può usare abilità con componenti verbali per il resto della sessione.
+Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la durata della Scena **Vantaggio** a tutti i Tiri basati su *Forza* o *Stazza*, **Resistenza** ai danni da Veleno e la possibilità di effettuare un attacco corpo a corpo in aggiunta alla tua azione. Al termine dell'effetto, chi ne ha usufruito subisce **1 Punto Stress** e non può usare abilità con componenti verbali per il resto della sessione.
 
 ---
 
@@ -47,7 +47,7 @@ Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare una prova di *Presenza/Volontà* o subire `d6` danni da Stress e subire **Svantaggio** ai tiri per colpire nel suo prossimo turno.
+Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare un Tiro di Reazione di Presenza o Istinto o subire `d6` danni da Stress e subire **Svantaggio** ai tiri d'attacco nel suo prossimo turno.
 
 ---
 
@@ -58,4 +58,4 @@ Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi con
 * **Durata:** Istantaneo
 * **Gittata:** Medio (Far)
 
-Un rombo devastante esplode in un punto a scelta a gittata **Media**. Tutte le creature entro gittata **Vicina** dal punto d'impatto subiscono `d8` danni Magici da Tuono e devono superare una prova di *Forza/Costituzione*: chi fallisce subisce lo stato **Assordato** ed è **Impaurito** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.
+Un rombo devastante esplode in un punto a scelta a gittata **Media**. Tutte le creature entro gittata **Vicina** dal punto d'impatto subiscono `d8` danni Magici da Tuono e devono superare un Tiro di Reazione di Forza: chi fallisce subisce lo stato **Assordato** ed è **Impaurito** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.

@@ -12,7 +12,7 @@ spellcast_trait: Finesse
 # Ombra della Notte(Nightwalker)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Finesse**
+*Caratteristica di Spellcast:* **Finezza (Finesse)**
 
 ## Descrizione e Focus
 Fondersi con l'oscurità e spostarsi istantaneamente tra le ombre.

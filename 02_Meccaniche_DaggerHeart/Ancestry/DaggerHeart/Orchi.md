@@ -12,9 +12,9 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche Daggerheart)
 
-- **Furia Primordiale**: Il tuo corpo ignora il dolore fino all'ultimo respiro. Non subisci penalità alle prove di *Strength* o *Finesse* a causa dello stato di *Stress* finché non hai marcato almeno metà dei tuoi spazi totali di *Health* o *Stress*.
-- **Corazza di Cicatrici**: La tua pelle è ispessita da anni di esposizione alla corruzione e scontri violenti. Ottieni +1 permanente al tuo valore di *Armour* (Armatura). Inoltre, quando vieni colpito da un attacco fisico, puoi marcare 1 *Stress* per ridurre il danno subito del tuo bonus di *Strength*.
-- **Grido di Guerra**: Puoi emettere un boato ancestrale che scuote l'aria carica di magia di Nebvarasa. Ottieni vantaggio nelle prove di *Presence* per intimidire i nemici o attirare la loro attenzione. Attivare questa capacità costringe i nemici vicini a focalizzarsi su di te, ma richiama le creature del Vuoto, generando immediatamente 1 punto di *Tensione* nel pool del GM.
+- **Furia Primordiale**: Il tuo corpo ignora il dolore fino all'ultimo respiro. Non subisci penalità alle prove di *Forza* o *Finezza* a causa dello stato di *Stress* finché non hai marcato almeno metà dei tuoi spazi totali di *Punti Ferita* o *Stress*.
+- **Corazza di Cicatrici**: La tua pelle è ispessita da anni di esposizione alla corruzione e scontri violenti. Ottieni +1 permanente al tuo valore di *Punteggio Armatura* (Armatura). Inoltre, quando vieni colpito da un attacco fisico, puoi marcare 1 *Stress* per ridurre il danno subito del tuo bonus di *Forza*.
+- **Grido di Guerra**: Puoi emettere un boato ancestrale che scuote l'aria carica di magia di Nebvarasa. Ottieni vantaggio nelle prove di *Presenza* per intimidire i nemici o attirare la loro attenzione. Attivare questa capacità costringe i nemici vicini a focalizzarsi su di te, ma richiama le creature del Vuoto, generando immediatamente 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa
 

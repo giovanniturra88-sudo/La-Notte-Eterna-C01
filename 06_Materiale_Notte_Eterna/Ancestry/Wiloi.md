@@ -11,7 +11,7 @@ source: La Notte Eterna
 - **Archetipo**: Padroneggiano le arti arcane e ogni aspetto della loro vita è regolato dalla magia. Esploratori di frontiera e osservatori. Sono noti per la loro agilità innata e la capacità di percepire i cambiamenti nelle correnti energetiche che attraversano il mondo.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sensi acuti**: Ottieni vantaggio alle prove di *Instinct* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
+- **Sensi acuti**: Ottieni vantaggio alle prove di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
 - **Passo rapido**: Quando effettui un'azione di movimento, puoi marcare 1 *Stress* per muoverti fino a una gittata aggiuntiva senza provocare attacchi di opportunità.
 - **Memoria dimensionale**: Una volta per sessione, puoi consultare la tua "memoria ancestrale" per ottenere una conoscenza specifica su un portale o un fenomeno magico, generando però 1 punto di *Tensione* nel pool del GM.
 

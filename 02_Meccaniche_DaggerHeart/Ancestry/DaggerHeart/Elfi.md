@@ -12,7 +12,7 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Agilità del Velo**: Puoi marcare 1 *Stress* per effettuare un'azione di movimento aggiuntiva in un turno, schivando i pericoli ambientali con grazia innaturale.
-- **Occhio dell'Erede**: Hai vantaggio alle prove di *Instinct* o *Knowledge* quando interagisci con reperti o segreti legati all'epoca pre-caduta.
+- **Occhio dell'Erede**: Hai vantaggio alle prove di *Istinto* o *Conoscenza* quando interagisci con reperti o segreti legati all'epoca pre-caduta.
 - **Passo Silenzioso**: Puoi muoverti senza emettere alcun suono anche su terreni rumorosi o instabili, ma forzare questa furtività per un lungo periodo genera 1 punto di *Tensione* nel pool del GM.
 
 ## Integrazione in Nebvarasa

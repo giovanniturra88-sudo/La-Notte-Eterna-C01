@@ -11,8 +11,8 @@
 
 Il rituale supremo della distruzione. Reciti la capacità magica da una pergamena antica per un mese ininterrotto. Al completamento, il cielo si oscura e una pioggia di meteoriti catastrofica si abbatte sull'area.
 
-* **Convocazione:** La capacità magica evoca **3d12 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
-* **Prezzo della Magia:** Al termine del lancio, effettua un **Tiro di Reazione su Vigore con Difficoltà 20**:
+* **Convocazione:** La capacità magica evoca **1d20+9 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
+* **Prezzo della Magia:** Al termine del lancio, effettua un **Tiro di Reazione di Forza con Difficoltà 20**:
  * **Successo:** Subisci **5 Punti Stress** ed entri nello stato **Vulnerabile**.
  * **Fallimento:** Il tuo corpo non regge il potere arcano: subisci la **Morte Istantanea** (o vai direttamente al Tiro di Morte con Svantaggio).
 
@@ -25,13 +25,13 @@ Il rituale supremo della distruzione. Reciti la capacità magica da una pergamen
 * **Gittata:** Zona Molto Lontana
 * **Durata:** Fino a 10 Minuti (Scena di Combattimento)
 
-Disperdi in aria la leggendaria polvere di Yolamhra. Scegli qualsiasi numero di creature visibili entro la gittata: esse devono superare un **Tiro di Reazione su Vigore (Difficoltà 18)** o essere avvolte da un'aura lunare punitiva.
+Disperdi in aria la leggendaria polvere di Yolamhra. Scegli qualsiasi numero di creature visibili entro la gittata: esse devono superare un **Tiro di Reazione di Forza (Difficoltà 18)** o essere avvolte da un'aura lunare punitiva.
 
 **Creature afflitte:**
 * Subiscono lo stato **Accecato** e non possono diventare invisibili o nascondersi.
 * Tutti i tiri d'attacco contro di loro hanno **Vantaggio**.
-* Ogni volta che subiscono danni da qualsiasi fonte, subiscono **+3d10 Danni Radiosi Extra**.
-* Alla fine del loro turno possono ripetere la prova di Vigore: se accumulano **3 successi**, l'effetto termina. Ogni volta che **falliscono** la prova di fine turno, subiscono **4d10 Danni Radiosi**.
+* Ogni volta che subiscono danni da qualsiasi fonte, subiscono **+1d20+6 Danni Radiosi Extra**.
+* Alla fine del loro turno possono ripetere la prova di Vigore: se accumulano **3 successi**, l'effetto termina. Ogni volta che **falliscono** la prova di fine turno, subiscono **1d20+12 Danni Radiosi**.
 
 ---
 
@@ -75,5 +75,5 @@ Sigilli la tua anima e la tua forza vitale all'interno di un reliquiario, anello
 Evochi una tempesta catastrofica di vento, pioggia e fulmini che copre un'intera area geografica.
 
 * **Effetto d'Ambiente:** Le creature a terra vedono il loro Movimento dimezzato. Il volo non magico è impossibile. Tutti gli attacchi a distanza e le prove di Percezione subiscono **Svantaggio**.
-* **Raffica Devastante ():** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione su Vigore (Difficoltà 18)** o essere spinta indietro e cadere **Prona**. Se impatta un ostacolo, subisce **6d6 Danni Fisici**.
-* **Invocare il Fulmine (, 1/Scena o Turno):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione su Agilità (Difficoltà 18)** o subire **10d6 Danni da Fulmine** (metà danno se superano la prova).
+* **Raffica Devastante:** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione di Forza (Difficoltà 18)** o essere spinta indietro e cadere **Prona**. Se impatta un ostacolo, subisce **1d20+11 Danni Fisici**.
+* **Invocare il Fulmine (1/Scena o Turno):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione di Agilità (Difficoltà 18)** o subire **1d20+25 Danni da Fulmine** (metà danno se superano la prova).

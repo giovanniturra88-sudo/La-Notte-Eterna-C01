@@ -16,7 +16,7 @@ tags:
 * **Gittata:** Contatto
 
 Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumirne uno:
-- **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `2d6` PF se usate le regole opzionali sui Punti Ferita).
+- **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `1d20-4` PF se usate le regole opzionali sui Punti Ferita).
 - **Uso Disintossicante:** Rimuove lo stato **Avvelenato** o **Infezione**.
 
 ---
@@ -53,7 +53,7 @@ La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumen
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `2d8` Danni da Fuoco (Magici). Con una mossa bonus nei turni successivi puoi spostare la ruota; il terreno attraversato rimane in fiamme, infliggendo `d6` danni da fuoco a chiunque lo attraversi.
+Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `1d20-2` Danni da Fuoco (Magici). Nei turni successivi puoi spostare la ruota senza spendere un'azione; il terreno attraversato rimane in fiamme, infliggendo `d6` danni da fuoco a chiunque lo attraversi.
 
 ---
 

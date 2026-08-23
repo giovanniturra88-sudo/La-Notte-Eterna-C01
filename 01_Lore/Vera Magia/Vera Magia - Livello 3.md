@@ -16,7 +16,7 @@ tags:
 * **Gittata:** Vicina (Close) / Lancio
 
 Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come attacco o reazione:
-- Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base + `2d10` Danni Magici da forza. 
+- Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base + `1d20+1` Danni Magici. 
 - Quando le 3 cariche si esauriscono, l'arma scompare.
 
 ---
@@ -28,7 +28,7 @@ Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesantemente oscurata. Chiunque vi si trovi o vi entri deve superare una prova di *Forza/Costituzione* o subire `2d8` Danni da Freddo e subire lo stato **Bloccato/Immobilizzato** dalle lastre di ghiaccio fino a quando non impiega un'azione per liberarsi o subisce danni da fuoco.
+Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesantemente oscurata. Chiunque vi si trovi o vi entri deve superare un Tiro di Reazione di Forza o subire `1d20-2` Danni da Freddo e subire lo stato **Bloccato/Immobilizzato** dalle lastre di ghiaccio fino a quando non impiega un'azione per liberarsi o subisce danni da fuoco.
 
 ---
 
@@ -39,7 +39,7 @@ Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesanteme
 * **Durata:** 1 Scena
 * **Gittata:** Medio (Far)
 
-Segni una creatura con il potere decadente della luna. Il bersaglio deve effettuare un Tiro di Reazione (Difficoltà pari al tuo Tiro Magico): se fallisce subisce `3d8` Danni Radiosi ed ottiene gli stati **Accecato** e **Trattenuto**. All'inizio di ogni suo turno subisce ulteriore danno finché non supera una prova per liberarsi.
+Segni una creatura con il potere decadente della luna. Il bersaglio deve effettuare un Tiro di Reazione (Difficoltà pari al tuo Tiro Magico): se fallisce subisce `1d20+3` Danni Radiosi ed ottiene gli stati **Accecato** e **Trattenuto**. All'inizio di ogni suo turno subisce ulteriore danno finché non supera una prova per liberarsi.
 
 ---
 
@@ -50,7 +50,7 @@ Segni una creatura con il potere decadente della luna. Il bersaglio deve effettu
 * **Durata:** 1 Scena
 * **Gittata:** Personale (Aura Vicina)
 
-Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro gittata **Molto Vicina** durante il tuo movimento deve superare una prova di *Agilità* o cadere **Prona** a terra.
+Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro gittata **Molto Vicina** durante il tuo movimento deve superare un Tiro di Reazione di Agilità o cadere **Prona** a terra.
 
 ---
 
@@ -61,4 +61,4 @@ Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro git
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Area Vicina (Close)
 
-Un'aura necromantica fa spuntare mani scheletriche dal terreno in un'area attorno a te. Chiunque non sia designato da te ed entri nell'area deve superare un tiro di *Agilità*: se fallisce subisce `2d10` Danni Necrotici ed è **Trattenuto**. All'inizio del proprio turno, una creatura trattenuta subisce nuovamente `2d10` Danni Necrotici.
+Un'aura necromantica fa spuntare mani scheletriche dal terreno in un'area attorno a te. Chiunque non sia designato da te ed entri nell'area deve superare un Tiro di Reazione di Agilità: se fallisce subisce `1d20+1` Danni Necrotici ed è **Trattenuto**. All'inizio del proprio turno, una creatura trattenuta subisce nuovamente `1d20+1` Danni Necrotici.

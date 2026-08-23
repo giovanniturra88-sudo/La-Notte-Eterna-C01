@@ -15,7 +15,7 @@ tags:
 * **Durata:** Istantaneo
 * **Gittata:** Molto Lontano (Very Far)
 
-Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `6d10+10` Danni Magici da Forza. L'esplosione risultante investe tutti coloro che si trovano in gittata **Vicina** dal punto d'impatto, spingendoli indietro e infliggendo `2d8` danni da forza a meno che non superino un tiro di *Stazza/Forza*.
+Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `1d20+33` Danni Magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Vicina** dal punto d'impatto, spingendoli indietro e infliggendo `1d20-2` danni magici a meno che non superino un Tiro di Reazione di Forza.
 
 ---
 
@@ -26,10 +26,10 @@ Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta 
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Vicino / Medio
 
-Cree una frusta d'energia arcana che infligge `3d8` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
-- **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `2d6` danni da urto).
+Cree una frusta d'energia arcana che infligge `1d20+3` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
+- **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `1d20-4` danni da urto).
 - **Bloccare:** La creatura viene **Trattenuta** e subisce danni continui.
-- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `6d8` danni Magici.
+- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `1d20+17` danni Magici.
 
 ---
 
@@ -40,7 +40,7 @@ Cree una frusta d'energia arcana che infligge `3d8` danni Magici. Nei turni succ
 * **Durata:** Istantaneo
 * **Gittata:** Estrema (Entro il raggio visivo/mappa)
 
-Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un tiro di *Costituzione/Stazza*: subisce `5d12` Danni Magici da Fulmine (metà se supera la prova).
+Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un Tiro di Reazione di Forza: subisce `1d20+22` Danni Magici da Fulmine (metà se supera la prova).
 
 ---
 
@@ -62,4 +62,4 @@ Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Evochi un raggio di luce scura. Le creature colpite devono superare una prova di *Costituzione* o subire `4d10` Danni Necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.
+Evochi un raggio di luce scura. Le creature colpite devono superare un Tiro di Reazione di Forza o subire `1d20+12` Danni Necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.

@@ -12,7 +12,7 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Scaglie Riflettenti**: Quando vieni colpito da un attacco magico, puoi marcare 1 *Stress* per ridurre il danno ricevuto del tuo bonus di competenza.
-- **Soffio Corrosivo**: Puoi sprigionare un soffio di energia instabile in un'area vicina; questo attacco infligge danni da forza, ma genera 1 punto di *Tensione* nel pool del GM.
+- **Soffio Corrosivo**: Puoi sprigionare un soffio di energia instabile in un'area vicina; questo attacco infligge danni magici, ma genera 1 punto di *Tensione* nel pool del GM.
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Non sono ciechi, ma la loro vista si è evoluta per percepire le firme termiche. Vedono chiaramente anche nel buio più assoluto, identificando le creature viventi dalle loro emanazioni di calore.
 - **Relazione con le Fazioni**: Visti come i "nobili" delle lande desolate. Le fazioni di Neir li trattano con un rispetto timoroso, spesso cercando di allearsi con loro per proteggere le rotte carovaniere più pericolose.
