@@ -13,7 +13,7 @@ I maghi acquisiscono e affinano poteri magici immensi attraverso lo studio accad
 - **PUNTI FERITA INIZIALI -** 5
 - **TRATTI SUGGERITI -** -1 Agilità, +0 Forza, +0 Finesse, +1 Istinto, +1 Presenza, +2 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Grande (Conoscenza Molto Lontano, d6 magici, Due Mani - Potente: Al successo, lancia un dado danno aggiuntivo e scarta il risultato più basso)
-- **ARMATURA SUGGERITA -** Vesti da Mago (Soglie 4/10, Punteggio CA 2 - Incantato: Ottieni un bonus alle soglie di danno pari al tuo tratto di Incantesimo)
+- **ARMATURA SUGGERITA -** Vesti da Mago (Soglie 4/10, Punteggio Armatura 2 - Incantato: Ottieni un bonus alle soglie di danno pari al tuo tratto di Incantesimo)
 - **OGGETTI DI CLASSE -** Un libro che stai cercando di tradurre o un piccolo elementale domestico innocuo
 ---
 

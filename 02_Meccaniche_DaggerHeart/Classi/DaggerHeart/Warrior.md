@@ -13,7 +13,7 @@ I guerrieri dedicano la vita allo studio e alla maestria delle armi da mischia. 
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +2 Agilità, +1 Forza, +0 Finesse, +1 Istinto, -1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Spada Lunga (Agilità Mischia, d10+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio CA 4 - Pesante: -1 all'Evasione)
+- **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio Armatura 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Il disegno di un amante o una pietra per affilare
 ---
 

@@ -13,7 +13,7 @@ I Summoner sono incantatori occulti che aprono varchi planari per evocare e coma
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Finesse, +1 Istinto, +0 Presenza, +2 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Grande (Conoscenza Molto Lontano, d6 magici, Due Mani - Potente: Al successo, lancia un dado danno aggiuntivo e scarta il risultato più basso)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio CA 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
 - **OGGETTI DI CLASSE -** Un piccolo oggetto innocuo o un sasso divinatorio
 ---
 

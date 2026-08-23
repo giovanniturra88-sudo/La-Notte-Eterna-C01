@@ -13,7 +13,7 @@ I brawler sono esperti del combattimento corpo a corpo senz'armi. Trasformano i 
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +1 Agilità, +1 Forza, +0 Finesse, +2 Istinto, +0 Presenza, -1 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Ferrato (Istinto Mischia, d10+3 fisici, Due Mani)
-- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio CA 3)
+- **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio Armatura 3)
 - **OGGETTI DI CLASSE -** Fasce per le mani donate da un mentore o un libro sul tuo hobby segreto
 ---
 
