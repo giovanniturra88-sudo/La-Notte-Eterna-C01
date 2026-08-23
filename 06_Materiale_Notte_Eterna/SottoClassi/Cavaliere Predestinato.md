@@ -17,12 +17,12 @@ Paladini votati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da 
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Come azione, spendi 1 Speranza per marchiare un avversario entro portata Vicina. I tuoi attacchi contro di esso infliggono +1d6 danni radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
+**_Marchio di Laon:_** Come azione, spendi 2 Speranza per marchiare un avversario entro portata Vicina. I tuoi attacchi contro di esso infliggono +1d6 danni radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
 
 ---
 
 ### Specializzazione
-**_Sentinella Eterna:_** Quando vieni ridotto a 0 Punti Ferita, puoi spendere 1 Speranza (invece di svenire o effettuare una mossa di morte) per rimanere a 1 Punto Ferita ed effettuare immediatamente un attacco di mischia come reazione.
+**_Sentinella Eterna:_** Una volta per riposo lungo, quando vieni ridotto a 0 Punti Ferita, puoi spendere 1 Speranza (invece di svenire o effettuare una mossa di morte) per rimanere a 1 Punto Ferita ed effettuare immediatamente un attacco di mischia come reazione.
 **_Sacra Ira:_** I tuoi attacchi con arma infliggono +1d8 danni extra quando hai almeno 4 Stress marcati.
 
 ---

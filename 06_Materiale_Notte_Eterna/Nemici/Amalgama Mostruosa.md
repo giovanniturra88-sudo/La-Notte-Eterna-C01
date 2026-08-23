@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Abominio nato dalla fusione magica di più animali a causa della caduta delle meteore. Può variare notevolmente in forma e attacchi.
 * **Tier:** 2 (Bruiser)
 * **Difficoltà:** 13
-* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 32
+* **Soglie di Danno:** Minore: 10 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
  * **Incornata / Morso Multiplo:** +3 | Da Vicino | 2d8+6 Fisico
@@ -26,7 +26,7 @@ difficolta: "13"
 hp: "6"
 stress: "3"
 esperienza: "+3"
-soglia_danni: "Minore: 10 | Maggiore: 20 | Grave: 32"
+soglia_danni: "Minore: 10 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Incornata / Morso Multiplo"
     desc: "**+3** | Da Vicino | **2d8+6** Fisico"

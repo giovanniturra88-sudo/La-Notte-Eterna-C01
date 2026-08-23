@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Entità fluida e vischiosa nata dalla magia trascritta, gola profonda di sapere che prosciuga libri, pergamene e ricordi.
 * **Tier:** 2 (Bruiser / Speciale)
 * **Difficoltà:** 14
-* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 30
+* **Soglie di Danno:** Minore: 10 | Maggiore: 17 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
  * **Schianto Vischioso:** +3 | Da Vicino | 2d8+5 Contundente
@@ -26,7 +26,7 @@ difficolta: "14"
 hp: "5"
 stress: "4"
 esperienza: "+3"
-soglia_danni: "Minore: 10 | Maggiore: 20 | Grave: 30"
+soglia_danni: "Minore: 10 | Maggiore: 17 | Grave: 28"
 attacchi:
   - name: "Schianto Vischioso"
     desc: "**+3** | Da Vicino | **2d8+5** Contundente"

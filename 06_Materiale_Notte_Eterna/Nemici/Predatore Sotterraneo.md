@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Enorme verme o rettile scuro che striscia al di sotto dei pavimenti di pietra e delle rovine abbandonate.
 * **Tier:** 3 (Bruiser / Ambush)
 * **Difficoltà:** 16
-* **Soglie di Danno:** Minore: 14 | Maggiore: 28 | Grave: 44
+* **Soglie di Danno:** Minore: 14 | Maggiore: 24 | Grave: 42
 * **Punti Ferita:** 7 | **Stress:** 3
 * **Attacchi:**
  * **Morso della Voragine:** +4 | Da Vicino | 3d8+7 Perforante
@@ -24,7 +24,7 @@ difficolta: "16"
 hp: "7"
 stress: "3"
 esperienza: "+4"
-soglia_danni: "Minore: 14 | Maggiore: 28 | Grave: 44"
+soglia_danni: "Minore: 14 | Maggiore: 24 | Grave: 42"
 attacchi:
   - name: "Morso della Voragine"
     desc: "**+4** | Da Vicino | **3d8+7** Perforante"

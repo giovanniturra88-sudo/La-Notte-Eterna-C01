@@ -18,7 +18,7 @@ Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti
 ---
 
 ### Fondazione
-**_Dono della Guarigione:_** Spendendo 1 Speranza, puoi toccare una creatura per ripristinare immediatamente Punti Ferita pari al tuo Tier + il tuo modificatore di Incantesimo (minimo 1). Non ha effetto su costrutti o non morti.
+**_Dono della Guarigione:_** Spendendo 3 Speranza, puoi toccare una creatura per ripristinare immediatamente Punti Ferita pari al tuo Tier + il tuo modificatore di Incantesimo (minimo 1). Non ha effetto su costrutti o non morti.
 
 ---
 

@@ -22,7 +22,7 @@ Chierici araldi del gelo divino di [[Unthamarand]], che traggono vigore dalle bu
 ---
 
 ### Specializzazione
-**_Canalizzazione del Gelo:_** Quando infliggi danni da Freddo con una magia, puoi spendere 1 Stress per infliggere il massimo dei danni possibili.
+**_Canalizzazione del Gelo:_** Una volta per scena, quando infliggi danni da Freddo con una magia, puoi spendere 1 Stress per infliggere il massimo dei danni possibili.
 **_Aura di Ghiaccio:_** Finché possiedi Punti Ferita temporanei attivi, emani un'aura di gelo entro portata Molto Vicina. I nemici che iniziano il turno nell'area subiscono 1d8 danni da Freddo.
 
 ---

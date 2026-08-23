@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Spettro maligno della foresta scaturito da un suicidio o omicidio cruento tra gli alberi-fungo.
 * **Tier:** 2 (Lurker / Spettro)
 * **Difficoltà:** 14
-* **Soglie di Danno:** Minore: 8 | Maggiore: 16 | Grave: 25
+* **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 25
 * **Punti Ferita:** 4 | **Stress:** 5
 * **Attacchi:**
  * **Tocco Gelido dell'Anima:** +3 | Da Vicino | 2d8+4 Freddo/Necrotico
@@ -25,7 +25,7 @@ difficolta: "14"
 hp: "4"
 stress: "5"
 esperienza: "+3"
-soglia_danni: "Minore: 8 | Maggiore: 16 | Grave: 25"
+soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 25"
 attacchi:
   - name: "Tocco Gelido dell'Anima"
     desc: "**+3** | Da Vicino | **2d8+4** Freddo/Necrotico"

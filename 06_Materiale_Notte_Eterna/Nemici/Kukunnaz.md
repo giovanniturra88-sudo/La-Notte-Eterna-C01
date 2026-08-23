@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Insettoide gigante corazzato scavatore di gallerie sotterranee, dotato di chele e mandibole devastanti.
 * **Tier:** 2 (Bruiser)
 * **Difficoltà:** 15
-* **Soglie di Danno:** Minore: 11 | Maggiore: 22 | Grave: 33
+* **Soglie di Danno:** Minore: 11 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
  * **Chela Gigante:** +4 | Da Vicino | 2d8+6 Perforante
@@ -24,7 +24,7 @@ difficolta: "15"
 hp: "6"
 stress: "3"
 esperienza: "+3"
-soglia_danni: "Minore: 11 | Maggiore: 22 | Grave: 33"
+soglia_danni: "Minore: 11 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Chela Gigante"
     desc: "**+4** | Da Vicino | **2d8+6** Perforante"

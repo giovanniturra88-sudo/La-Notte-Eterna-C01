@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla.
 * **Tier:** 2 (Lurker / Controller)
 * **Difficoltà:** 15
-* **Soglie di Danno:** Minore: 9 | Maggiore: 18 | Grave: 28
+* **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
  * **Sferzata d'Ombra:** +3 | Da Vicino | 2d8+4 Necrotico
@@ -26,7 +26,7 @@ difficolta: "15"
 hp: "5"
 stress: "4"
 esperienza: "+3"
-soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 28"
+soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 28"
 attacchi:
   - name: "Sferzata d'Ombra"
     desc: "**+3** | Da Vicino | **2d8+4** Necrotico"

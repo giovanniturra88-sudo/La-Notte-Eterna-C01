@@ -8,7 +8,7 @@ aliases:
 * **Descrizione:** Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche.
 * **Tier:** 4 (Solo / Boss Leggendario)
 * **Difficoltà:** 21
-* **Soglie di Danno:** Minore: 25 | Maggiore: 50 | Grave: 80
+* **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 70
 * **Punti Ferita:** 12 | **Stress:** 8
 * **Attacchi:**
  * **Morso della Murena / Artigli:** +5 | Da Vicino (Melee) | 3d12+12 Tagliente/Perforante + 2d8 Elettrico
@@ -29,7 +29,7 @@ difficolta: "21"
 hp: "12"
 stress: "8"
 esperienza: "+5"
-soglia_danni: "Minore: 25 | Maggiore: 50 | Grave: 80"
+soglia_danni: "Minore: 25 | Maggiore: 48 | Grave: 70"
 attacchi:
   - name: "Morso della Murena / Artigli"
     desc: "**+5** | Da Vicino (Melee) | **3d12+12** Tagliente/Perforante + **2d8** Elettrico"

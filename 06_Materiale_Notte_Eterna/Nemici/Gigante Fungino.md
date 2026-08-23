@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Imponente umanoide composto interamente da stratificazioni di legno marcito, miceli e funghi giganti.
 * **Tier:** 3 (Bruiser / Tank)
 * **Difficoltà:** 16
-* **Soglie di Danno:** Minore: 15 | Maggiore: 30 | Grave: 48
+* **Soglie di Danno:** Minore: 15 | Maggiore: 24 | Grave: 42
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Attacchi:**
  * **Pugno di Tronco:** +4 | Da Vicino | 3d8+6 Contundente
@@ -26,7 +26,7 @@ difficolta: "16"
 hp: "7"
 stress: "4"
 esperienza: "+4"
-soglia_danni: "Minore: 15 | Maggiore: 30 | Grave: 48"
+soglia_danni: "Minore: 15 | Maggiore: 24 | Grave: 42"
 attacchi:
   - name: "Pugno di Tronco"
     desc: "**+4** | Da Vicino | **3d8+6** Contundente"

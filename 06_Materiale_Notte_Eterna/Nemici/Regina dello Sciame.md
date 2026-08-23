@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita.
 * **Tier:** 3 (Leader / Solo)
 * **Difficoltà:** 17
-* **Soglie di Danno:** Minore: 16 | Maggiore: 32 | Grave: 52
+* **Soglie di Danno:** Minore: 16 | Maggiore: 30 | Grave: 50
 * **Punti Ferita:** 8 | **Stress:** 6
 * **Attacchi:**
  * **Pungiglione Acido:** +4 | Da Vicino | 3d8+6 Perforante/Acido
@@ -24,7 +24,7 @@ difficolta: "17"
 hp: "8"
 stress: "6"
 esperienza: "+4"
-soglia_danni: "Minore: 16 | Maggiore: 32 | Grave: 52"
+soglia_danni: "Minore: 16 | Maggiore: 30 | Grave: 50"
 attacchi:
   - name: "Pungiglione Acido"
     desc: "**+4** | Da Vicino | **3d8+6** Perforante/Acido"

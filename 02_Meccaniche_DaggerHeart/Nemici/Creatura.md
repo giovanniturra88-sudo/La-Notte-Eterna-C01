@@ -303,7 +303,7 @@ Questa pagina elenca tutti i nemici presenti nel progetto, organizzati per fonte
 - [[Akamud]]
 - [[Amalgama Mostruosa]]
 - [[Ampara]]
-- [[Bararum]]
+- [[Bararumm]]
 - [[Berberoka]]
 - [[Bonguru]]
 - [[Cacciatore di Anime]]

@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Abominio vegetale composto da spore tossiche e miceli bioluminescenti delle Terre Nascoste.
 * **Tier:** 2 (Controller / Veleno)
 * **Difficoltà:** 14
-* **Soglie di Danno:** Minore: 9 | Maggiore: 18 | Grave: 27
+* **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 27
 * **Punti Ferita:** 5 | **Stress:** 5
 * **Attacchi:**
  * **Tocco Fungino:** +3 | Da Vicino | 2d6+4 Veleno
@@ -25,7 +25,7 @@ difficolta: "14"
 hp: "5"
 stress: "5"
 esperienza: "+3"
-soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 27"
+soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 27"
 attacchi:
   - name: "Tocco Fungino"
     desc: "**+3** | Da Vicino | **2d6+4** Veleno"

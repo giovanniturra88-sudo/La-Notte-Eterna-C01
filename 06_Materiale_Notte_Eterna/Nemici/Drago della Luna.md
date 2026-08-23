@@ -6,8 +6,8 @@ type:
 ## Drago della Luna (Aragadanavalaramsshra)
 * **Descrizione:** Maestoso drago argentato alleato dei mortali, in grado di manipolare l'energia lunare, la forza di gravità ed esiliare i nemici.
 * **Tier:** 4 (Solo / Boss Epico)
-* **Difficoltà:** 22
-* **Soglie di Danno:** Minore: 30 | Maggiore: 60 | Grave: 95
+* **Difficoltà:** 21
+* **Soglie di Danno:** Minore: 30 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 12 | **Stress:** 10
 * **Attacchi:**
  * **Morso Astrale / Artigli:** +5 | Da Vicino | 3d12+10 Perforante/Forza
@@ -22,11 +22,11 @@ name: "Drago della Luna"
 description: "Maestoso drago argentato alleato dei mortali, in grado di manipolare l'energia lunare, la forza di gravità ed esiliare i nemici."
 tier: "4"
 ruolo: "Solo / Boss Epico"
-difficolta: "22"
+difficolta: "21"
 hp: "12"
 stress: "10"
 esperienza: "+7"
-soglia_danni: "Minore: 30 | Maggiore: 60 | Grave: 95"
+soglia_danni: "Minore: 30 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morso Astrale / Artigli"
     desc: "**+5** | Da Vicino | **3d12+10** Perforante/Forza"

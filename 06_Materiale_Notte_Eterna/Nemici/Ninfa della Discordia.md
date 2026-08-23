@@ -8,7 +8,7 @@ type:
 * **Tier:** 2 (Social / Controller)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 7 | Maggiore: 14 | Grave: 22
-* **Punti Ferita:** 4 | **Stress:** 6
+* **Punti Ferita:** 4 | **Stress:** 5
 * **Attacchi:**
  * **Sguardo di Discordia:** +3 | Media | 2d6 Psichico
 * **Tratti e Capacità:**
@@ -22,7 +22,7 @@ tier: "2"
 ruolo: "Social / Controller"
 difficolta: "15"
 hp: "4"
-stress: "6"
+stress: "5"
 esperienza: "+3"
 soglia_danni: "Minore: 7 | Maggiore: 14 | Grave: 22"
 attacchi:

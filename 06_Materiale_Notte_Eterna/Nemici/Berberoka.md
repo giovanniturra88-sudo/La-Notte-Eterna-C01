@@ -7,7 +7,7 @@ type:
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.
 * **Tier:** 2 (Control / Agguato)
 * **Difficoltà:** 15
-* **Soglie di Danno:** Minore: 9 | Maggiore: 18 | Grave: 28
+* **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
  * **Frusta di Alghe:** +3 | Reach (A portata) | 2d6+5 Tagliente (Trascina il bersaglio)
@@ -26,7 +26,7 @@ difficolta: "15"
 hp: "5"
 stress: "4"
 esperienza: "+3"
-soglia_danni: "Minore: 9 | Maggiore: 18 | Grave: 28"
+soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 28"
 attacchi:
   - name: "Frusta di Alghe"
     desc: "**+3** | Reach (A portata) | **2d6+5** Tagliente *(Trascina il bersaglio)*"
