@@ -7,4 +7,4 @@ type:
 
 **_Item_**
 
-Ottieni un bonus di +1 alla tua Finezza. Puoi trasportare una sola reliquia.
+Ottieni un bonus di +1 alla tua Astuzia. Puoi trasportare una sola reliquia.

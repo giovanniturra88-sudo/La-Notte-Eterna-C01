@@ -14,6 +14,6 @@ ruolo: "secondaria"
 
 ### Coltelli Lanciabili
 
-**_Riserva: Puoi lanciare questa arma entro gittata Ravvicinata effettuando un tiro di attacco usando Finezza_**
+**_Riserva: Puoi lanciare questa arma entro gittata Ravvicinata effettuando un tiro di attacco usando Astuzia_**
 
 ---

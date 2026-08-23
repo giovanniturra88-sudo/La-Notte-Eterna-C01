@@ -9,4 +9,4 @@ roll: 12
 
 # Dadi Truccati
 
-Puoi scegliere quale risultato tira questo set di dadi truccati con un Tiro di Finezza riuscito (14). Se tiri con Paura, chiunque guardi sa che i dadi sono truccati.
+Puoi scegliere quale risultato tira questo set di dadi truccati con un Tiro di Astuzia riuscito (14). Se tiri con Paura, chiunque guardi sa che i dadi sono truccati.

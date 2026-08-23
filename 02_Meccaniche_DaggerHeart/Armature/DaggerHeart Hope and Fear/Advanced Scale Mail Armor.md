@@ -13,4 +13,4 @@ tier: 3
 - **Soglie di Danno:** 13 / 30
 - **Punteggio di Armatura:** 5
 
-> Ingombrante: −1 a Destrezza
+> Ingombrante: −1 a Agilità

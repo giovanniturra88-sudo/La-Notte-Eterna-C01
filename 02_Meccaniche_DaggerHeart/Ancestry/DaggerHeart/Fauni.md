@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Passo Silvano**: Ottieni vantaggio alle prove di *Istinto* per navigare in ambienti naturali, anche se distorti o contaminati dalla corruzione.
 - **Resilienza Ferina**: Quando subisci danni, puoi marcare 1 *Stress* per ignorare gli effetti di rallentamento o condizioni ambientali avverse fino alla fine del tuo prossimo turno.
-- **Richiamo dell'Eco**: Puoi emettere un richiamo che amplifica le tue percezioni o quelle dei tuoi alleati; questo uso innaturale dei tuoi sensi attira le presenze del sottobosco, generando 1 punto di *Tensione* nel pool del GM.
+- **Richiamo dell'Eco**: Puoi emettere un richiamo che amplifica le tue percezioni o quelle dei tuoi alleati; questo uso innaturale dei tuoi sensi attira le presenze del sottobosco, generando 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Fauni percepiscono la Notte Eterna attraverso i sensi olfattivi e uditivi potenziati. Non subiscono penalità nel buio, poiché percepiscono l'ambiente circostante come una mappa di odori e suoni in costante mutamento.

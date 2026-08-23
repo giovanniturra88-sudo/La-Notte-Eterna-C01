@@ -15,7 +15,7 @@ type:
  * **Spada alla Schiena:** +3 | Ravvicinata | 2d8+3 fisico
 * **Tratti e Capacità:**
  * **Mani Veloci - Azione:** Effettua un attacco contro un bersaglio in portata Ravvicinata. In caso di successo, infliggi **1d8+2** danni fisici e il Ladro ruba un oggetto o un consumabile dall'inventario del bersaglio.
- * **Piano di Fuga - Azione:** **Segnare uno Stress** per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Prossima alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è _Incatenato_ e _Vulnerabile_ finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Finezza o Forza (13).
+ * **Piano di Fuga - Azione:** **Segnare uno Stress** per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Prossima alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è _Incatenato_ e _Vulnerabile_ finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Astuzia o Forza (13).
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -35,5 +35,5 @@ capacita_speciali:
   - name: "Mani Veloci"
     desc: "*- Azione:* Effettua un attacco contro un bersaglio in portata Ravvicinata. In caso di successo, infliggi 1d8+2 danni fisici e il Ladro ruba un oggetto o un consumabile dall'inventario del bersaglio."
   - name: "Piano di Fuga"
-    desc: "*- Azione:* Segnare uno Stress per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Prossima alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è Incatenato e Vulnerabile finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Finezza o Forza (13)."
+    desc: "*- Azione:* Segnare uno Stress per rivelare una trappola invischiata da qualche parte sul campo di battaglia dal Ladro. Tutti i bersagli in portata Prossima alla trappola devono superare un Tiro di Reazione di Agilità (13) oppure essere tirati a terra e sospesi in posizione invertita. Un bersaglio è Incatenato e Vulnerabile finché non si libera, terminando entrambe le condizioni, con un successo su un Tiro di Astuzia o Forza (13)."
 ```

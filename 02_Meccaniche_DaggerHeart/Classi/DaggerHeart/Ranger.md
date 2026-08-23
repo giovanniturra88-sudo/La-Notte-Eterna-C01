@@ -11,7 +11,7 @@ I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selv
 - **DOMINI -** [[Ossa]] & [[Saggio]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 6
-- **TRATTI SUGGERITI -** +2 Agilità, +0 Forza, +1 Finesse, +1 Istinto, -1 Presenza, +0 Conoscenza
+- **TRATTI SUGGERITI -** +2 Agilità, +0 Forza, +1 Astuzia, +1 Istinto, -1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Arco Corto (Agilità Lontano, d6+3 fisici, Due Mani)
 - **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Un trofeo della tua prima uccisione o una bussola apparentemente rotta

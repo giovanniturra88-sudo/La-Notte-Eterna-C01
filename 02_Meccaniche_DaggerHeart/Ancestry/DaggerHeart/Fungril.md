@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Spore del Velo**: Puoi rilasciare una nube di spore invisibili in un'area vicina. Questo ti permette di percepire ogni movimento all'interno di quell'area per la durata di una scena.
 - **Corpo di Sottobosco**: Puoi attraversare spazi stretti o fessure come se fossi un liquido, rendendoti immune alle condizioni di *Terreno Difficile* o *Trattenuto*.
-- **Rigenerazione Miceliale**: Puoi recuperare 1 punto *Stress* consumando detriti organici o corruzione ambientale; tuttavia, questo processo rilascia una scia di energia che genera 1 punto di *Tensione* nel pool del GM.
+- **Rigenerazione Miceliale**: Puoi recuperare 1 punto *Stress* consumando detriti organici o corruzione ambientale; tuttavia, questo processo rilascia una scia di energia che genera 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Fungril "vedono" attraverso la rete di micelio che percorre ogni centimetro del terreno di Nebvarasa. Per loro, l'oscurità non esiste: sentono la pressione, l'umidità e il calore di ogni creatura vivente nel raggio di chilometri.

@@ -14,7 +14,7 @@ Sottoclasse dell'[[Assassin|Assassino]]
 
 I membri della Gilda dei Tossicologi (o degli Avvelenatori) preferiscono indebolire e debilitare le proprie vittime attraverso l'uso di letali tossine e veleni preparati accuratamente, sottomettendo anche i nemici più formidabili attraverso agonia e sofferenza.
 
-- **CARATTERISTICA DA INCANTESIMO -** Conoscenza (Intelligenza)
+- **CARATTERISTICA DA INCANTESIMO -** Conoscenza
 
 ## Caratteristiche di Fondazione (Rango 1)
 
@@ -30,7 +30,7 @@ Elimina tutti i segnalini rimasti su questa carta quando effettui un riposo lung
 
 ### Compendio dei Veleni (Poison Compendium)
 Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteristica _Miscele Tossiche_:
-- **Vite di Mezzanotte (Midnight Vine):** Il bersaglio subisce **svantaggio** ai tiri per colpire finché non marca uno Stress per purificare e rimuovere questa condizione.
+- **Vite di Mezzanotte (Midnight Vine):** Il bersaglio subisce **svantaggio** ai tiri d'attacco finché non marca uno Stress per purificare e rimuovere questa condizione.
 - **Radice di Gorgone (Gorgon Root):** Il bersaglio diventa temporaneamente **Trattenuto** (Restrained).
 
 ### Zanna Gemella (Twin Fang)

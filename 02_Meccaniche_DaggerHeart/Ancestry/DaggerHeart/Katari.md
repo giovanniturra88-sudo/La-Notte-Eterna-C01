@@ -14,7 +14,7 @@ source: DaggerHeart
 
 - **Riflessi Iper-sviluppati**: I tuoi sensi sono sempre all'erta. Ottieni vantaggio nelle prove di *Istinto* per determinare l'ordine di iniziativa in combattimento. Inoltre, una volta per sessione, puoi aggiungere il tuo bonus di competenza a una prova di *Agilità* effettuata per schivare un attacco a sorpresa.
 - **Balzo del Predatore**: Puoi percorrere distanze verticali o orizzontali fino a una gittata *lontana* (long) con un'unica azione di movimento, a patto di avere un punto di appoggio iniziale. Se termini il movimento sopra o in adiacenza a un nemico, puoi effettuare un attacco in mischia con un dado bonus.
-- **Istinto Sanguigno**: Quando colpisci una creatura che è già stata ferita in questo scontro (che ha marcato almeno uno spazio *Stress* o *Punti Ferita*), il tuo attacco infligge danni extra pari al tuo bonus di *Finezza*. Questa spietata efficienza attira però l'attenzione malevola del Vuoto: l'uso di questo tratto genera sempre 1 punto di *Tensione* nel pool del GM.
+- **Istinto Sanguigno**: Quando colpisci una creatura che è già stata ferita in questo scontro (che ha marcato almeno uno spazio *Stress* o *Punti Ferita*), il tuo attacco infligge danni extra pari al tuo bonus di *Astuzia*. Questa spietata efficienza attira però l'attenzione malevola del Vuoto: l'uso di questo tratto genera sempre 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 

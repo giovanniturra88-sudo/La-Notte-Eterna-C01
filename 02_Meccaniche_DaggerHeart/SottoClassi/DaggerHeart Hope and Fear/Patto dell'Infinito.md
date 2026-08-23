@@ -38,4 +38,4 @@ Una volta per rest, puoi spendere un Favore per **dimezzare** i danni in arrivo 
 Una volta per riposo lungo, quando stai per subire danni che ridurrebbero i tuoi PF, puoi spendere un Favore **invece di marcare Punti Ferita**.
 
 ### Flagello Prosciugante (Draining Bane)
-Quando un avversario prende come bersaglio te o un alleato entro portata Prossima con un attacco, puoi spendere un Favore per **Prosciugarlo** (Drain). Quando lo fai, l'avversario deve marcare uno Stress e tu puoi eliminare uno Stress dalla tua scheda. Finché è Prosciugato, il bersaglio utilizza un d12 invece di un d20 per tutti i tiri per colpire (inclusi i vantaggi/svantaggi) finché non fallisce un tiro di azione.
+Quando un avversario prende come bersaglio te o un alleato entro portata Prossima con un attacco, puoi spendere un Favore per **Prosciugarlo** (Drain). Quando lo fai, l'avversario deve marcare uno Stress e tu puoi eliminare uno Stress dalla tua scheda. Finché è Prosciugato, il bersaglio utilizza un d12 invece di un d20 per tutti i tiri d'attacco (inclusi i vantaggi/svantaggi) finché non fallisce un tiro di azione.

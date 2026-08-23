@@ -8,9 +8,9 @@ tier: 2
 
 **_Rango 2_** _(Cobra, Serpente a Sonagli, Vipera, ecc.)_
 
-- **Bonus di Tratto:** Finezza +1
+- **Bonus di Tratto:** Astuzia +1
 - **Bonus di Evasione:** Evasione +2
-- **Attacco:** Prossimo Finezza d8+4 fisici
+- **Attacco:** Prossimo Astuzia d8+4 fisici
 - **Vantaggi:** arrampicarsi, ingannare, scattare
 
 ### CARATTERISTICHE

@@ -14,5 +14,5 @@ tratto: presenzatype:
 
 ### EFFETTO
 
-**_Veloce:_** Quando esegui un attacco, puoi segnare un punto di Tensione per prendere come bersaglio un'altra creatura entro portata.
+**_Veloce:_** Quando esegui un attacco, puoi segnare uno Stress per prendere come bersaglio un'altra creatura entro portata.
 ---

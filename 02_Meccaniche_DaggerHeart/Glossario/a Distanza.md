@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # a Distanza
 
-Banda di portata Media (~18 m): oltre la mischia, entro il raggio di molte armi a distanza.
+Ruolo di avversario (Ranged): attacca da lontano, con portate Lontane o Remota, ed è generalmente più vulnerabile nel combattimento ravvicinato.
 
 ## Voci correlate
 - [[Ravvicinato]]

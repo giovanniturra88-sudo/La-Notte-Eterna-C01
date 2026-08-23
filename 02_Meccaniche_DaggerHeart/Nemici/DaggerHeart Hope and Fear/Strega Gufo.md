@@ -16,7 +16,7 @@ aliases:
 * **Attacchi:**
  * **Artigli Affilati:** +7 | Prossima | 4d8+5 fisico
 * **Tratti e Capacità:**
- * **Presagio - Passiva:** Quando un PG entro portata Ravvicinata effettua un tiro d'azione, il suo Dado di Paura guadagna un bonus pari alla quantità di Paura che hai.
+ * **Presagio - Passiva:** Quando un PG entro portata Ravvicinata effettua un tiro d'azione, il suo Dado Paura guadagna un bonus pari alla quantità di Paura che hai.
  * **Barriera della Strega - Passiva:** La Strega Gufo ha resistenza ai danni magici.
  * **Mimica Vocale - Azione:** Spendere una Paura per far chiamare la Strega Gufo con la voce di una figura amata a una creatura entro portata uditiva. Il bersaglio deve superare un Tiro di Reazione di Istitinto o muoversi fino a portata Lontana verso la Strega Gufo.
  * **Sguardo dell'Incubo - Azione:** Spendere una Paura per far *Affliggere* la Strega Gufo a un PG entro portata Lontana con incubi a occhi aperti, a meno che il bersaglio non superi un Tiro di Reazione di Conoscenza. Mentre è *Afflitto*, il bersaglio non può rimuovere PF o Stress. La condizione viene rimossa quando un altro PG usa una mossa di downtime per confortare la creatura *Afflitta*.
@@ -38,7 +38,7 @@ attacchi:
     desc: "**+7** | Prossima | **4d8+5** fisico"
 tratti:
   - name: "Presagio"
-    desc: "*- Passiva:* Quando un PG entro portata Ravvicinata effettua un tiro d'azione, il suo Dado di Paura guadagna un bonus pari alla quantità di Paura che hai."
+    desc: "*- Passiva:* Quando un PG entro portata Ravvicinata effettua un tiro d'azione, il suo Dado Paura guadagna un bonus pari alla quantità di Paura che hai."
   - name: "Barriera della Strega"
     desc: "*- Passiva:* La Strega Gufo ha resistenza ai danni magici."
 capacita_speciali:

@@ -8,9 +8,9 @@ tier: 3
 
 **_Rango 3_** _(Aquila Gigante, Falco, ecc.)_
 
-- **Bonus di Tratto:** Finezza +2
+- **Bonus di Tratto:** Astuzia +2
 - **Bonus di Evasione:** Evasione +3
-- **Attacco:** Mischia Finezza d8+6 fisici
+- **Attacco:** Mischia Astuzia d8+6 fisici
 - **Vantaggi:** ingannare, distrarre, localizzare
 
 ### CARATTERISTICHE

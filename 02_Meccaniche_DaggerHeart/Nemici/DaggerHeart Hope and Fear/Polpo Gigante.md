@@ -18,7 +18,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Polpo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Armato e Pericoloso - Passiva:** Quando il Polpo appare per la prima volta, posiziona un d8 su questo statblock con il valore 8 rivolto verso l'alto. Quando il Polpo effettua un attacco standard riuscito contro un PG, puoi aggiungere il valore del dado ai danni inflitti. Dopo aver aggiunto il suo valore a un tiro, riduci il valore del dado di 1.
- * **Aggancio - Azione:** Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Trattenuto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Finezza riuscito.
+ * **Aggancio - Azione:** Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Trattenuto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Astuzia riuscito.
  * **Schiacciare - Azione:** Segnare uno Stress per infliggere 3d8 danni fisici diretti a un bersaglio *Agganciato* dal Polpo.
 
 ```statblock
@@ -42,7 +42,7 @@ tratti:
     desc: "*- Passiva:* Quando il Polpo appare per la prima volta, posiziona un d8 su questo statblock con il valore 8 rivolto verso l'alto. Quando il Polpo effettua un attacco standard riuscito contro un PG, puoi aggiungere il valore del dado ai danni inflitti. Dopo aver aggiunto il suo valore a un tiro, riduci il valore del dado di 1."
 capacita_speciali:
   - name: "Aggancio"
-    desc: "*- Azione:* Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Trattenuto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Finezza riuscito."
+    desc: "*- Azione:* Quando il Polpo riesce su un attacco standard, puoi spendere una Paura per far *Agganciare* al Polpo il bersaglio. Mentre è *Agganciato*, il bersaglio è *Trattenuto* e *Vulnerabile* finché non si libera con un Tiro di Forza o di Astuzia riuscito."
   - name: "Schiacciare"
     desc: "*- Azione:* Segnare uno Stress per infliggere 3d8 danni fisici diretti a un bersaglio *Agganciato* dal Polpo."
 ```

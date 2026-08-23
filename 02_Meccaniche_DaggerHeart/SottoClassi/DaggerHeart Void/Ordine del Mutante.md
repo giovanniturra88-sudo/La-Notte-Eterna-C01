@@ -35,7 +35,7 @@ Utilizzi tossine mutageniche create per migliorare le tue abilità. Quando compl
 Quando selezioni un beneficio mutageno, le tue opzioni includono anche le seguenti:
 - **Nerves of Steel (Nervi d'Acciaio):** Ogni volta che devi segnare 1 Stress, puoi scegliere di spendere **2 Speranza** al suo posto.
 - **Rapidity (Rapidità):** La tua Evasione aumenta di **1**.
-- **Ironskin (Pelle di Ferro):** La tua soglia di danno Grave (Severe) aumenta di un valore pari al tuo attuale livello di Competenza (Proficiency).
+- **Ironskin (Pelle di Ferro):** La tua soglia di danno Grave (Severe) aumenta di un valore pari al tuo attuale livello di Competenza (Competenza).
 
 #### Volatile Toxins (Tossine Volatili)
 Puoi scegliere **due benefici mutageni** invece di uno solo. Se lo fai, devi segnare **1 Punto Ferita** che non può essere recuperato in alcun modo fino al completamento del tuo prossimo riposo.

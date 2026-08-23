@@ -13,7 +13,7 @@ type:
 
 ### CARATTERISTICHE
 
-**_Terreno Dissacrato - Passiva:_** I cultisti hanno dedicato questo luogo agli Dei Caduti e la loro influenza infame vi si infiltra. Riduci il Dado di Speranza dei PG a un **d10** finché si trovano in questo ambiente. La dissacrazione può essere rimossa con un Conto alla Rovescia di Avanzamento (6). _Come si accorgono i PG che qualcosa non va in questo luogo? Quali paure riaffiorano mentre la speranza viene tenuta a bada?_
+**_Terreno Dissacrato - Passiva:_** I cultisti hanno dedicato questo luogo agli Dei Caduti e la loro influenza infame vi si infiltra. Riduci il Dado Speranza dei PG a un **d10** finché si trovano in questo ambiente. La dissacrazione può essere rimossa con un Conto alla Rovescia di Avanzamento (6). _Come si accorgono i PG che qualcosa non va in questo luogo? Quali paure riaffiorano mentre la speranza viene tenuta a bada?_
 
 **_Potere Blasfemo - Azione:_** Una parte del potere del rituale viene deviata in un membro del culto per respingere gli intrusi. Scegli un avversario che diventi _Infuso_ di magia terribile fino alla fine della scena o alla sua sconfitta. Un avversario _Infuso_ finisce immediatamente sotto i riflettori e ottiene uno dei seguenti benefici, o tutti e tre se **spendi una Paura**:
 

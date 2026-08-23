@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Rimbalzo:_** Segna 1 o più Tensione per colpire un numero di bersagi pari a quello segnato, entro la gittata dell'attacco.
+**_Rimbalzo:_** Segna 1 o più Stress per colpire un numero di bersagli pari a quello segnato, entro la gittata dell'attacco.
 ---

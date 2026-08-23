@@ -14,7 +14,7 @@ source: DaggerHeart
 
 - **Presa Ferrea**: La tua fisiologia ti permette di ancorarti con estrema facilità. Non puoi mai cadere involontariamente se hai una superficie a cui aggrapparti (muri, soffitti, strutture metalliche). Ottieni vantaggio nelle prove di *Forza* o *Agilità* per mantenere la posizione o arrampicarti.
 - **Agilità Verticale**: Il tuo movimento non subisce mai penalità quando ti muovi in verticale o su superfici inclinate. Inoltre, puoi utilizzare l'azione di movimento per percorrere distanze orizzontali compiendo "balzi" tra punti elevati, ignorando il terreno difficile sottostante.
-- **Curiosità Pericolosa**: Una volta per sessione, puoi effettuare una prova di *Conoscenza* per scoprire un segreto nascosto nell'ambiente o in una struttura antica (es. un passaggio segreto, una trappola o un meccanismo). Tuttavia, la tua intrusione attira l'attenzione del luogo stesso: l'uso di questo tratto genera sempre 1 punto di *Tensione* nel pool del GM, rappresentando il "rumore" prodotto dal tuo scovare ciò che doveva restare celato.
+- **Curiosità Pericolosa**: Una volta per sessione, puoi effettuare una prova di *Conoscenza* per scoprire un segreto nascosto nell'ambiente o in una struttura antica (es. un passaggio segreto, una trappola o un meccanismo). Tuttavia, la tua intrusione attira l'attenzione del luogo stesso: l'uso di questo tratto genera sempre 1 punto di *Paura* nella riserva del GM, rappresentando il "rumore" prodotto dal tuo scovare ciò che doveva restare celato.
 
 ## Integrazione in Nebvarasa
 

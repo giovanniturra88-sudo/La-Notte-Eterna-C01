@@ -14,5 +14,5 @@ tratto: forzatype:
 
 ### EFFETTO
 
-**_Devastante:_** Prima di effettuare un tiro per colpire, puoi segnare un punto di Stress per usare un d20 come dado del danno.
+**_Devastante:_** Prima di effettuare un tiro d'attacco, puoi segnare un punto di Stress per usare un d20 come dado del danno.
 ---

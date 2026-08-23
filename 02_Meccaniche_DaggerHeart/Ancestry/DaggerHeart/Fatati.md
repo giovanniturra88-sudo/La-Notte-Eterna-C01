@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Velo dell'Illusione**: Una volta per sessione, puoi alterare la percezione della realtà per un istante, ottenendo vantaggio su una prova di *Presenza* per ingannare o distrarre una creatura.
 - **Volare**: Possiedi ali diafane o la capacità di fluttuare. Puoi superare ostacoli fisici o terreni difficili senza marcare *Stress*, ma solo se non trasporti carichi pesanti.
-- **Sintonia Instabile**: Puoi attingere al potere del Velo per potenziare un alleato; tuttavia, il contatto con questa energia pura attira le entità della Notte, generando 1 punto di *Tensione* nel pool del GM.
+- **Sintonia Instabile**: Puoi attingere al potere del Velo per potenziare un alleato; tuttavia, il contatto con questa energia pura attira le entità della Notte, generando 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Fatati non vedono "la luce" come gli altri esseri organici, ma percepiscono le frequenze del piano astrale. Per loro, l'oscurità è una tela vibrante di colori invisibili, rendendo la Notte Eterna il loro terreno di caccia naturale.

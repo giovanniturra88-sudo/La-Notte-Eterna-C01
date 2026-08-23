@@ -11,9 +11,9 @@ I ladri sono maestri dell'ombra, del sotterfugio e del crimine. Si muovono nell'
 - **DOMINI -** [[MezzaNotte]] & [[Grazia]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 6
-- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza
-- **ARMA PRIMARIA SUGGERITA -** Pugnale (Finesse Mischia, d8+1 fisici, Una Mano)
-- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Finesse Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
+- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Astuzia, +0 Istinto, +1 Presenza, +0 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Pugnale (Astuzia Mischia, d8+1 fisici, Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Astuzia Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
 - **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio di Armatura 3 - Flessibile: +1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un set di attrezzi da falsario o un rampino
 ---

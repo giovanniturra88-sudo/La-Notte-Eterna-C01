@@ -6,13 +6,13 @@ classe:
 Dominio:
   - "[[Grazia]]"
   - "[[MezzaNotte]]"
-spellcast_trait: Finesse
+spellcast_trait: Astuzia
 ---
 
 # Ladro (Syndicate)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Finezza (Finesse)**
+*Caratteristica di Spellcast:* **Astuzia (Astuzia)**
 
 ## Descrizione e Focus
 Sfruttare una fitta rete sotterranea di alleati, contatti e spie in ogni angolo del mondo.

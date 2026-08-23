@@ -15,7 +15,7 @@ type:
  * **Spada Lunga:** +1 | Ravvicinata | 1d6+1 fisico
 * **Tratti e Capacità:**
  * **Muro dello Scudo - Passiva:** Una creatura che cerca di muoversi entro portata Prossima della Guardia deve superare un Tiro di Agilità. Se ci sono altre Guardie con Lama in fila accanto alla prima, e ciascuna è entro portata Ravvicinata da un'altra guardia nella fila, la Difficoltà aumenta del numero totale di guardie in quella fila.
- * **Trattenere - Azione:** Effettua un attacco contro un bersaglio entro portata Prossima. In caso di successo, **segnare uno Stress** per _Tenere Sotto Controllo_ il bersaglio fino a quando non si libera con un attacco riuscito, un Tiro di Finezza o un Tiro di Forza.
+ * **Trattenere - Azione:** Effettua un attacco contro un bersaglio entro portata Prossima. In caso di successo, **segnare uno Stress** per _Tenere Sotto Controllo_ il bersaglio fino a quando non si libera con un attacco riuscito, un Tiro di Astuzia o un Tiro di Forza.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -36,5 +36,5 @@ tratti:
     desc: "*- Passiva:* Una creatura che cerca di muoversi entro portata Prossima della Guardia deve superare un Tiro di Agilità. Se ci sono altre Guardie con Lama in fila accanto alla prima, e ciascuna è entro portata Ravvicinata da un'altra guardia nella fila, la Difficoltà aumenta del numero totale di guardie in quella fila."
 capacita_speciali:
   - name: "Trattenere"
-    desc: "*- Azione:* Effettua un attacco contro un bersaglio entro portata Prossima. In caso di successo, segnare uno Stress per Tenere Sotto Controllo il bersaglio fino a quando non si libera con un attacco riuscito, un Tiro di Finezza o un Tiro di Forza."
+    desc: "*- Azione:* Effettua un attacco contro un bersaglio entro portata Prossima. In caso di successo, segnare uno Stress per Tenere Sotto Controllo il bersaglio fino a quando non si libera con un attacco riuscito, un Tiro di Astuzia o un Tiro di Forza."
 ```

@@ -11,9 +11,9 @@ I bardi sono i maestri della captazione e del fascino in tutti i regni. Esperti 
 - **DOMINI -** [[Grazia]] & [[Codice]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 5
-- **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Finesse, +0 Istinto, +2 Presenza, +1 Conoscenza
+- **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Astuzia, +0 Istinto, +2 Presenza, +1 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Stocco (Presenza Mischia, d8 fisici, Una Mano - Rapido: Puoi marcare uno Stress per colpire un bersaglio aggiuntivo a portata)
-- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Finesse Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale Piccolo (Astuzia Mischia, d8 fisici, Una Mano - In Coppia: +2 al danno dell'arma principale contro i bersagli a portata di mischia)
 - **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio di Armatura 3 - Flessibile: +1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un romanzo rosa o una lettera mai aperta
 ---

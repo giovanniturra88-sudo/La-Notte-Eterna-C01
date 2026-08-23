@@ -14,7 +14,7 @@ source: DaggerHeart
 
 - **Stazza Titanica**: La tua taglia è superiore a quella media. Non puoi beneficiare di coperture parziali pensate per creature di taglia media. Tuttavia, puoi impugnare armi a due mani con una sola mano senza penalità. Quando utilizzi un'azione di movimento, puoi occupare e controllare lo spazio di due creature medie.
 - **Impatto Sismico**: Quando effettui un'azione di attacco corpo a corpo, puoi marcare 1 *Stress* per sprigionare un'onda d'urto d'impatto. Tutti i nemici in gittata *vicina* devono superare una prova di *Agilità* (Difficoltà basata sul tuo livello) o subire lo status *Prono* (A terra) e subire danni da forza pari al tuo modificatore di *Forza*.
-- **Vigore del Pilastro**: Una volta per sessione, quando subisci un colpo critico, puoi attivare questa reazione per trasformarlo in un colpo normale. Attivare questa capacità stabilizza il terreno attorno a te, ma richiama l'attenzione delle entità del Vuoto, generando immediatamente 1 punto di *Tensione* nel pool del GM.
+- **Vigore del Pilastro**: Una volta per sessione, quando subisci un colpo critico, puoi attivare questa reazione per trasformarlo in un colpo normale. Attivare questa capacità stabilizza il terreno attorno a te, ma richiama l'attenzione delle entità del Vuoto, generando immediatamente 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 
@@ -23,4 +23,4 @@ source: DaggerHeart
 
 ## Note di Adattamento
 - *Base Daggerheart di riferimento*: Adattamento custom per *La Notte Eterna*.
-- *Focus*: Bilanciare la potenza bruta del Gigante con il rischio costante della *Tensione*, rendendo ogni loro azione difensiva una potenziale complicazione narrativa.
+- *Focus*: Bilanciare la potenza bruta del Gigante con il rischio costante della *Paura*, rendendo ogni loro azione difensiva una potenziale complicazione narrativa.

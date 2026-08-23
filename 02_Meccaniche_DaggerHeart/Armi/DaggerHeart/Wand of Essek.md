@@ -14,5 +14,5 @@ tratto: conoscenzatype:
 
 ### EFFETTO
 
-**_Piegatempo:_** Puoi scegliere il bersaglio del tuo attacco dopo aver effettuato il tiro per colpire.
+**_Piegatempo:_** Puoi scegliere il bersaglio del tuo attacco dopo aver effettuato il tiro d'attacco.
 ---

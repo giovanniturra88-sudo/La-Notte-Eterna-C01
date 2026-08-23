@@ -14,7 +14,7 @@ source: DaggerHeart
 
 - **Pelle Assorbente**: La tua pelle è permeabile e altamente resiliente. Hai resistenza ai danni derivanti da fonti ambientali nocive (acidi, veleni, residui alchemici). Inoltre, puoi assorbire una piccola quantità di umidità dall'aria per recuperare 1 *Stress* al termine di una breve pausa in un ambiente umido o acquatico.
 - **Salto Esteso**: Grazie alla potente muscolatura delle tue zampe, la tua gittata di salto è doppia rispetto a una creatura di taglia media. Puoi saltare orizzontalmente o verticalmente fino a una gittata *lontana* (long) con un'azione di movimento, superando ostacoli, barriere o terreni difficili senza penalità.
-- **Lingua Viscosa**: Puoi usare la tua lingua prensile come un'estensione del braccio. Puoi effettuare una prova di *Finezza* per disarmare un avversario o sottrarre un oggetto piccolo a distanza *vicina*. Se la prova fallisce, l'oggetto o la creatura oppongono una resistenza innaturale: attiri l'attenzione delle entità del Vuoto che infestano le fogne, generando 1 punto di *Tensione* nel pool del GM.
+- **Lingua Viscosa**: Puoi usare la tua lingua prensile come un'estensione del braccio. Puoi effettuare una prova di *Astuzia* per disarmare un avversario o sottrarre un oggetto piccolo a distanza *vicina*. Se la prova fallisce, l'oggetto o la creatura oppongono una resistenza innaturale: attiri l'attenzione delle entità del Vuoto che infestano le fogne, generando 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 

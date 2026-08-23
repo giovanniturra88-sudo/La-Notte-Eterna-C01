@@ -14,5 +14,5 @@ tratto: forzatype:
 
 ### EFFETTO
 
-**_Distruttivo:_** -1 alla Destrezza; in caso di attacco andato a segno, tutti gli avversari entro Portata Prossima devono segnare uno Stress.
+**_Distruttivo:_** -1 alla Agilità; in caso di attacco andato a segno, tutti gli avversari entro Portata Prossima devono segnare uno Stress.
 ---

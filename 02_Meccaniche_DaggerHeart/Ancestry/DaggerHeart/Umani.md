@@ -14,7 +14,7 @@ source: DaggerHeart
 
 - **Adattabilità Versatile**: Grazie alla tua natura eclettica, puoi aggiungere +1 a un valore di caratteristica a tua scelta (eccetto i modificatori base). Inoltre, ottieni la competenza in un'abilità a tua scelta, riflettendo la tua capacità di apprendere rapidamente in un ambiente ostile.
 - **Spinta di Volontà**: Una volta per sessione, quando subisci una condizione o un effetto di status debilitante, puoi forzare il tuo corpo oltre i limiti. Marcare 1 *Stress* ti permette di ignorare completamente gli effetti di quella condizione per la durata della scena, ma il tuo corpo ne pagherà il prezzo una volta terminata l'azione, subendo un ulteriore punto di danno.
-- **Ambizione Ardente**: Puoi aggiungere un dado di *Bonus Competenza* (o il dado corrispondente al tuo bonus di competenza) a qualsiasi prova, prima di tirare. Se il risultato totale della prova è un fallimento, la tua eccessiva sicurezza attira l'attenzione malevola del Vuoto, generando immediatamente 1 punto di *Tensione* nel pool del GM.
+- **Ambizione Ardente**: Puoi aggiungere un dado di *Bonus Competenza* (o il dado corrispondente al tuo bonus di competenza) a qualsiasi prova, prima di tirare. Se il risultato totale della prova è un fallimento, la tua eccessiva sicurezza attira l'attenzione malevola del Vuoto, generando immediatamente 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 

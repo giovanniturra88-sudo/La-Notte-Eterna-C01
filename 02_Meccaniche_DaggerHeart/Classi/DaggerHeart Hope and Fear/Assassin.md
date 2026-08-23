@@ -11,9 +11,9 @@ Gli assassini sono professionisti della morte. Usano la furtività assoluta, i v
 - **DOMINI -** [[Lama]] & [[MezzaNotte]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 5
-- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Finesse, +1 Istinto, +0 Presenza, +0 Conoscenza
-- **ARMA PRIMARIA SUGGERITA -** Pugnale (Finesse Mischia, d8+1 fisici, Una Mano)
-- **ARMA SECONDARIA SUGGERITA -** Balestra a Mano (Finesse Lontano, d6+1 fisici, Una Mano)
+- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +2 Astuzia, +1 Istinto, +0 Presenza, +0 Conoscenza
+- **ARMA PRIMARIA SUGGERITA -** Pugnale (Astuzia Mischia, d8+1 fisici, Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Balestra a Mano (Astuzia Lontano, d6+1 fisici, Una Mano)
 - **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Una lista di nomi con diversi bersagli sbarrati o una lama arrugginita con un'insegna di gilda
 ---

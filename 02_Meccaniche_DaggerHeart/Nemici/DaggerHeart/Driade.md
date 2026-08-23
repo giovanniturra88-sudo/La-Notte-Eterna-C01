@@ -14,7 +14,7 @@ type:
 * **Attacchi:**
  * **Arco Corto:** +4 | Lontana | 3d10+1 fisico
 * **Tratti e Capacità:**
- * **Pungolo di Rovi - Azione:** **Segnare uno Stress** per indicare un punto entro portata Lontana. Crea una zona coperta di spine che si estende entro portata Ravvicinata da quel punto. Tutti i bersagli in quell'area subiscono **2d6+2** danni fisici quando agiscono. Un bersaglio deve superare un Tiro di Finezza o infliggere più di 20 danni alla Driade con un attacco per poter lasciare l'area.
+ * **Pungolo di Rovi - Azione:** **Segnare uno Stress** per indicare un punto entro portata Lontana. Crea una zona coperta di spine che si estende entro portata Ravvicinata da quel punto. Tutti i bersagli in quell'area subiscono **2d6+2** danni fisici quando agiscono. Un bersaglio deve superare un Tiro di Astuzia o infliggere più di 20 danni alla Driade con un attacco per poter lasciare l'area.
  * **Cresci Sbalzi - Azione:** **Spendere una Paura** per far crescere tre Minion Sbalzi Treant, che appaiono entro portata Ravvicinata e vengono subito messi a fuoco.
  * **Siamo Tutti Uno - Reazione:** Quando un alleato muore entro portata Ravvicinata, puoi **spendere una Paura** per rimuovere 2 PF e 2 Stress poiché la forza vitale del caduto torna alla foresta.
 
@@ -34,7 +34,7 @@ attacchi:
     desc: "**+4** | Lontana | **3d10+1** fisico"
 capacita_speciali:
   - name: "Pungolo di Rovi"
-    desc: "*- Azione:* Segnare uno Stress per indicare un punto entro portata Lontana. Crea una zona coperta di spine che si estende entro portata Ravvicinata da quel punto. Tutti i bersagli in quell'area subiscono 2d6+2 danni fisici quando agiscono. Un bersaglio deve superare un Tiro di Finezza o infliggere più di 20 danni alla Driade con un attacco per poter lasciare l'area."
+    desc: "*- Azione:* Segnare uno Stress per indicare un punto entro portata Lontana. Crea una zona coperta di spine che si estende entro portata Ravvicinata da quel punto. Tutti i bersagli in quell'area subiscono 2d6+2 danni fisici quando agiscono. Un bersaglio deve superare un Tiro di Astuzia o infliggere più di 20 danni alla Driade con un attacco per poter lasciare l'area."
   - name: "Cresci Sbalzi"
     desc: "*- Azione:* Spendere una Paura per far crescere tre Minion Sbalzi Treant, che appaiono entro portata Ravvicinata e vengono subito messi a fuoco."
   - name: "Siamo Tutti Uno"

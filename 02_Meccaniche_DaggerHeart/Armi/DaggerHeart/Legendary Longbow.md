@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Ingombrante:_** -1 alla Finesse
+**_Ingombrante:_** -1 alla Astuzia
 ---

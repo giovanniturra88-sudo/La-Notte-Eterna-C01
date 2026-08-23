@@ -12,8 +12,8 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Stazza Solida**: Puoi ignorare 1 punto di *Stress* derivante da colpi fisici una volta per combattimento, grazie alla tua naturale robustezza.
-- **Occhio dell'Artigiano**: Hai vantaggio alle prove di *Finezza* quando analizzi la struttura di meccanismi, porte segrete o manufatti antichi.
-- **Forza della Roccia**: Puoi piantare i piedi a terra per diventare inamovibile; attivare questa posizione speciale ti rende immune a effetti di spinta, ma genera 1 punto di *Tensione* nel pool del GM.
+- **Occhio dell'Artigiano**: Hai vantaggio alle prove di *Astuzia* quando analizzi la struttura di meccanismi, porte segrete o manufatti antichi.
+- **Forza della Roccia**: Puoi piantare i piedi a terra per diventare inamovibile; attivare questa posizione speciale ti rende immune a effetti di spinta, ma genera 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Nani possiedono una vista che è meno basata sulla luce e più sulla percezione delle vibrazioni telluriche. Si muovono nelle zone corrotte senza alcuna penalità, leggendo le vibrazioni delle strutture attorno a loro.

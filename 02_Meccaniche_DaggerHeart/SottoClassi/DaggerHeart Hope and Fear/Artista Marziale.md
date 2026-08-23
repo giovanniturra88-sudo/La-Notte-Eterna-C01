@@ -37,7 +37,7 @@ Puoi marcare **uno Stress invece di spendere Concentrazione** per cambiare posiz
 Guadagni un bonus di **+2 alle tue soglie di danno**. Finché sei in questa posizione, non puoi essere mosso contro la tua volontà o buttato prono.
 
 #### Difensivo (Defensive)
-I tiri per colpire contro di te da portata di Mischia hanno **svantaggio**, a meno che l'attaccante non marchi uno Stress per annullare lo svantaggio.
+I tiri d'attacco contro di te da portata di Mischia hanno **svantaggio**, a meno che l'attaccante non marchi uno Stress per annullare lo svantaggio.
 
 #### Dall'Altro Mondo (Otherworldly)
 Su un attacco andato a segno, puoi scegliere di infliggere **danni fisici o magici** (utilizzando la stessa riserva di dadi).
@@ -69,7 +69,7 @@ Quando infliggi danni Gravi (Severe) o superiori, puoi spendere una Speranza per
 Quando ottieni un 1 su un dado di danno, puoi considerarlo come **il valore massimo** di quel dado (es. un 1 su un d8 diventa un 8).
 
 #### Affinato (Honed)
-Spendi Concentrazione prima di effettuare un tiro per colpire per guadagnare un bonus di **+1 alla tua Proficiency** per quell'attacco.
+Spendi Concentrazione prima di effettuare un tiro d'attacco per guadagnare un bonus di **+1 alla tua Competenza** per quell'attacco.
 
 #### Isolante (Isolating)
-Ottieni **vantaggio** sui tiri per colpire quando non ci sono altre creature entro portata Prossima da te o dal tuo bersaglio.
+Ottieni **vantaggio** sui tiri d'attacco quando non ci sono altre creature entro portata Prossima da te o dal tuo bersaglio.

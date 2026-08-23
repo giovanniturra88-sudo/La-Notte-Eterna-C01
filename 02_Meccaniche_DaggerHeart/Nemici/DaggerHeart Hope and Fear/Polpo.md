@@ -12,7 +12,7 @@ aliases:
 * **Difficoltà:** 12
 * **Soglie di Danno:** 3/7
 * **Punti Ferita:** 2 | **Stress:** 3
-* **Esperienza:** Destrezza +3, Acqua +3
+* **Esperienza:** Agilità +3, Acqua +3
 * **Attacchi:**
  * **Becco:** -1 | Ravvicinata | 1d6 fisico
 * **Tratti e Capacità:**
@@ -28,7 +28,7 @@ ruolo: "Furtivo"
 difficolta: "12"
 hp: "2"
 stress: "3"
-esperienza: "Destrezza +3, Acqua +3"
+esperienza: "Agilità +3, Acqua +3"
 soglia_danni: "3/7"
 attacchi:
   - name: "Becco"

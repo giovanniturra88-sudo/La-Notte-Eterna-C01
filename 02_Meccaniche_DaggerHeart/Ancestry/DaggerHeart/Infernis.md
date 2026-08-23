@@ -12,7 +12,7 @@ source: DaggerHeart
 
 ## Tratti Ancestrali (Meccaniche)
 - **Senza Paura**: quando tiri con _Fear_ (quando il dado di Fear è superiore a quello di Hope), puoi marcare 2 _Stress_ per trasformare il tiro in un successo con _Hope_ invece che in un fallimento o complicazione.
-- **Sangue dei Circoli**: una volta per sessione, quando subisci danni, puoi marcare 1 _Stress_ per infliggere danni magici (pari al tuo modificatore di Proficiency) all'attaccante che si trova a portata ravvicinata.
+- **Sangue dei Circoli**: una volta per sessione, quando subisci danni, puoi marcare 1 _Stress_ per infliggere danni magici (pari al tuo modificatore di Competenza) all'attaccante che si trova a portata ravvicinata.
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Gli Infernis non vedono il buio come una minaccia, ma come un ambiente naturale. Non soffrono le penalità ambientali nelle zone dove la "Notte Eterna" è più densa (es. le cripte di Mendulia's Rock).
 - **Relazione con le Fazioni**: Visti spesso con sospetto dalle fazioni legate alla luce divina, ma ricercati come mercenari o studiosi occulti dalle gilde magiche di Neir, che riconoscono il loro legame con le dimensioni oscure.

@@ -14,5 +14,5 @@ tratto: presenzatype:
 
 ### EFFETTO
 
-**_Rinvigorente:_** Quando colpisci con un attacco, tira un d4. Se ottieni un 4, riduci una Tensione.
+**_Rinvigorente:_** Quando colpisci con un attacco, tira un d4. Se ottieni un 4, riduci uno Stress.
 ---

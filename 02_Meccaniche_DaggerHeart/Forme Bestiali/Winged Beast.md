@@ -8,9 +8,9 @@ tier: 2
 
 **_Rango 2_** _(Falco, Gufo, Corvo, ecc.)_
 
-- **Bonus di Tratto:** Finezza +1
+- **Bonus di Tratto:** Astuzia +1
 - **Bonus di Evasione:** Evasione +3
-- **Attacco:** Mischia Finezza d4+2 fisici
+- **Attacco:** Mischia Astuzia d4+2 fisici
 - **Vantaggi:** ingannare, localizzare, spaventare
 
 ### CARATTERISTICHE

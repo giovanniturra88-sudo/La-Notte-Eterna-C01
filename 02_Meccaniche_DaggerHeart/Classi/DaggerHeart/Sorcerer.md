@@ -11,7 +11,7 @@ Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre n
 - **DOMINI -** [[Arcana]] & [[MezzaNotte]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
-- **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Finesse, +2 Istinto, +1 Presenza, +0 Conoscenza
+- **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Astuzia, +2 Istinto, +1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Doppio (Istinto Lontano, d6+3 magici, Due Mani)
 - **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio di Armatura 3 - Flessibile: +1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un'orb sussurrante o un cimelio di famiglia

@@ -7,4 +7,4 @@ type:
 
 **_Item_**
 
-Quando usi questa chiave per aprire una porta chiusa a chiave, ottieni vantaggio sul Tiro di Finezza.
+Quando usi questa chiave per aprire una porta chiusa a chiave, ottieni vantaggio sul Tiro di Astuzia.

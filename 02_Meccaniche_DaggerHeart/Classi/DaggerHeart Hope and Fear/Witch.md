@@ -11,7 +11,7 @@ Le streghe comunicano con gli spiriti degli antenati e le forze elementali. Attr
 - **DOMINI -** [[Saggio]] & [[Terrore]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
-- **TRATTI SUGGERITI -** 0 Agilità, -1 Forza, 0 Finesse, +2 Istinto, +1 Presenza, +1 Conoscenza
+- **TRATTI SUGGERITI -** 0 Agilità, -1 Forza, 0 Astuzia, +2 Istinto, +1 Presenza, +1 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Bastone Doppio (Istinto Lontano, d6+3 magici, Due Mani)
 - **ARMATURA SUGGERITA -** Armatura di Gambeson (Soglie 5/11, Punteggio di Armatura 3 - Flessibile: +1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un piccolo animale domestico innocuo o una pietra per la divinazione

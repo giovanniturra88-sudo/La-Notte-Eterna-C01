@@ -11,7 +11,7 @@ I guardiani sono formidabili difensori, pronti a lanciarsi nel pericolo per asso
 - **DOMINI -** [[Valore]] & [[Lama]]
 - **EVASIONE INIZIALE -** 9
 - **PUNTI FERITA INIZIALI -** 7
-- **TRATTI SUGGERITI -** +1 Agilità, +2 Forza, -1 Finesse, +0 Istinto, +1 Presenza, +0 Conoscenza
+- **TRATTI SUGGERITI -** +1 Agilità, +2 Forza, -1 Astuzia, +0 Istinto, +1 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Ascia da Battaglia (Forza Mischia, d10+3 fisici, Due Mani)
 - **ARMATURA SUGGERITA -** Armatura di Maglia (Soglie 7/15, Punteggio di Armatura 4 - Pesante: -1 all'Evasione)
 - **OGGETTI DI CLASSE -** Un totem del tuo mentore o una chiave segreta

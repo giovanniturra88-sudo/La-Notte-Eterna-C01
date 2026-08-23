@@ -14,5 +14,5 @@ tratto: astuziatype:
 
 ### EFFETTO
 
-**_Versatile:_** Questa arma può essere utilizzata anche con le seguenti statistiche: Finezza, Ravvicinata, d8+4.
+**_Versatile:_** Questa arma può essere utilizzata anche con le seguenti statistiche: Astuzia, Ravvicinata, d8+4.
 ---

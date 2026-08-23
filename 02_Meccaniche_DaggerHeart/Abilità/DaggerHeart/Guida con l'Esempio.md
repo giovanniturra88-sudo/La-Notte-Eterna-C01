@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Quando infliggi danni a un avversario, puoi **segna una Tensione** e descrivere come incoraggi i tuoi alleati. Il prossimo PG che effettua un attacco contro quell'avversario può rimuovere una Tensione o ottenere una Speranza.
+Quando infliggi danni a un avversario, puoi **segna uno Stress** e descrivere come incoraggi i tuoi alleati. Il prossimo PG che effettua un attacco contro quell'avversario può rimuovere uno Stress o ottenere una Speranza.

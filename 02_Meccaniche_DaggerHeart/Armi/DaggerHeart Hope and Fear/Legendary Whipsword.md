@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Spada-Frusta Leggendario
 
-**_Versatile: Questa arma può anche essere usata con queste statistiche—Finezza, Mischia, d10+9_**
+**_Versatile: Questa arma può anche essere usata con queste statistiche—Astuzia, Mischia, d10+9_**
 
 ---

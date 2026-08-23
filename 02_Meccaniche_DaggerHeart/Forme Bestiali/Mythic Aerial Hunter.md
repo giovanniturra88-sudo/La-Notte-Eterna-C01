@@ -8,9 +8,9 @@ tier: 4
 
 **_Rango 4_** _(Drago, Pterodattilo, Roc, Viverna, ecc.)_
 
-- **Bonus di Tratto:** Finezza +3
+- **Bonus di Tratto:** Astuzia +3
 - **Bonus di Evasione:** Evasione +4
-- **Attacco:** Mischia Finezza d10+11 fisici
+- **Attacco:** Mischia Astuzia d10+11 fisici
 - **Vantaggi:** attaccare, ingannare, localizzare, orientarsi
 
 ### CARATTERISTICHE

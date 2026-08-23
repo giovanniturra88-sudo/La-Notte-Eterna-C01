@@ -11,7 +11,7 @@ I warlock stipulano patti sacrileghi con potenti patroni celesti, fatati o abiss
 - **DOMINI -** [[Terrore]] & [[Grazia]]
 - **EVASIONE INIZIALE -** 11
 - **PUNTI FERITA INIZIALI -** 5
-- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +0 Finesse, +1 Istinto, +2 Presenza, +0 Conoscenza
+- **TRATTI SUGGERITI -** +1 Agilità, -1 Forza, +0 Astuzia, +1 Istinto, +2 Presenza, +0 Conoscenza
 - **ARMA PRIMARIA SUGGERITA -** Scettro (Presenza Lontano, d6 magici, Due Mani - Versatile: Può essere usato anche in mischia usando Presenza, infliggendo d8)
 - **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13, Punteggio di Armatura 3)
 - **OGGETTI DI CLASSE -** Una scultura che simboleggia il tuo patrono o un anello che non riesci a toglierti

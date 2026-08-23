@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Quando effettui con successo un attacco con un'arma, ottieni un bonus al tuo tiro di danni pari a quello del tuo Finesse o della tua Agilità.
+Quando effettui con successo un attacco con un'arma, ottieni un bonus al tuo tiro di danni pari a quello del tuo Astuzia o della tua Agilità.

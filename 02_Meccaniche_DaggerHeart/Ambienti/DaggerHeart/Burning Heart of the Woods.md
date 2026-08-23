@@ -13,7 +13,7 @@ type:
 
 ### CARATTERISTICHE
 
-**_Focolare di Magia del Caos - Passiva:_** Quando un PG effettua un Tiro Incantesimo, deve tirare due Dadi di Paura e tenere il risultato più alto. _Che sensazione dà usare la magia in questo luogo toccato dal caos? Cosa temi che accada se perdi il controllo dell'incantesimo?_
+**_Focolare di Magia del Caos - Passiva:_** Quando un PG effettua un Tiro Incantesimo, deve tirare due Dadi Paura e tenere il risultato più alto. _Che sensazione dà usare la magia in questo luogo toccato dal caos? Cosa temi che accada se perdi il controllo dell'incantesimo?_
 
 **_La Fiamma Indaco - Passiva:_** I PG che si avvicinano all'albero centrale possono effettuare un Tiro di Conoscenza per tentare di identificare la magia che ha consumato questo ambiente. _Quale setta dei Caduti ha corrotto questi boschi? Cosa hanno già fatto con il legno maledetto e la linfa di questo albero?_
 
@@ -21,7 +21,7 @@ type:
 - **Con un fallimento:** possono segnare uno Stress per apprenderne uno e ottenere vantaggio sul prossimo tiro d'azione per investigare questo ambiente.
 - **Dettagli:** È il risultato della magia dei Caduti. La corruzione si diffonde attraverso il muschio cinereo. Può essere purificata solo con un rituale di magia della natura con un Conto alla Rovescia di Avanzamento (8).
 
-**_Viti Avvinghianti - Azione:_** Viti animate irte di spine si lanciano fuori dal sottobosco per catturare i PG. Un bersaglio deve superare un Tiro di Reazione di Agilità o diventare _Trattenuto_ e _Vulnerabile_ finché non si libera, eliminando entrambe le condizioni, con un Tiro di Finezza o di Forza riuscito o infliggendo 10 danni alle viti. Quando il bersaglio effettua un tiro per fuggire, subisce **1d8+4** danni fisici e perde una Speranza. _Quali ricordi dolorosi riportano a galla le viti mentre trafiggono la carne?_
+**_Viti Avvinghianti - Azione:_** Viti animate irte di spine si lanciano fuori dal sottobosco per catturare i PG. Un bersaglio deve superare un Tiro di Reazione di Agilità o diventare _Trattenuto_ e _Vulnerabile_ finché non si libera, eliminando entrambe le condizioni, con un Tiro di Astuzia o di Forza riuscito o infliggendo 10 danni alle viti. Quando il bersaglio effettua un tiro per fuggire, subisce **1d8+4** danni fisici e perde una Speranza. _Quali ricordi dolorosi riportano a galla le viti mentre trafiggono la carne?_
 
 **_Costrutti di Carbone - Azione:_** Animali deformi avvolti da fiamme indaco calpestano un punto a tua scelta. Tutti i bersagli entro portata Ravvicinata da quel punto devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono **3d12+3** danni fisici. I bersagli che riescono subiscono invece la metà dei danni. _Sono veri animali consumati dalle fiamme o semplici costrutti della magia corruttrice?_
 

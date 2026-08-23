@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Voce del Terreno**: Puoi comunicare brevemente con piante, funghi o strutture minerali per ottenere informazioni sull'ambiente circostante. Ottieni vantaggio nelle prove di *Conoscenza* riguardanti il territorio.
 - **Presenza Invisibile**: Puoi diventare impercettibile per un breve momento, confondendoti con le ombre della Notte Eterna. Marcare 1 *Stress* ti permette di evitare di essere il bersaglio di un attacco nemico.
-- **Peso della Protezione**: Quando un alleato vicino subisce danni, puoi decidere di subire tu stesso una parte di quei danni (o lo stress). Questa deviazione magica del danno è visibile ed energicamente dispendiosa, generando 1 punto di *Tensione* nel pool del GM.
+- **Peso della Protezione**: Quando un alleato vicino subisce danni, puoi decidere di subire tu stesso una parte di quei danni (o lo stress). Questa deviazione magica del danno è visibile ed energicamente dispendiosa, generando 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Firbolg non hanno bisogno di luce; percepiscono le vibrazioni e le correnti magiche che permeano l'oscurità come se fossero correnti d'aria, muovendosi con naturalezza assoluta.

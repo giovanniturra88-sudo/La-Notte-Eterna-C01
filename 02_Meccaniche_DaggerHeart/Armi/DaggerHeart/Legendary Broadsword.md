@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Affidabile:_** +1 ai tiri per colpire
+**_Affidabile:_** +1 ai tiri d'attacco
 ---

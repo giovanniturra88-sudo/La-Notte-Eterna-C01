@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Veloce:_** Quando esegui un attacco, puoi segnare uno Sforzo per colpire un'altra creatura entro portata.
+**_Veloce:_** Quando esegui un attacco, puoi segnare uno Stress per colpire un'altra creatura entro portata.
 ---

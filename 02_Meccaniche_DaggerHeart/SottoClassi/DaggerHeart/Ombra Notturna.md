@@ -6,13 +6,13 @@ classe:
 Dominio:
   - "[[MezzaNotte]]"
   - "[[Grazia]]"
-spellcast_trait: Finesse
+spellcast_trait: Astuzia
 ---
 
 # Ombra Notturna(Nightwalker)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Finezza (Finesse)**
+*Caratteristica di Spellcast:* **Astuzia (Astuzia)**
 
 ## Descrizione e Focus
 Fondersi con l'oscurità e spostarsi istantaneamente tra le ombre.

@@ -13,5 +13,5 @@ tratto: forzatype:
 
 ### EFFETTO
 
-**_Ingombrante:_** -1 alla Destrezza
+**_Ingombrante:_** -1 alla Agilità
 ---

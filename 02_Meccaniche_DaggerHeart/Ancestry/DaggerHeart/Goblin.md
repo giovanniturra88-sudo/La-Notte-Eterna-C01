@@ -13,7 +13,7 @@ source: DaggerHeart
 ## Tratti Ancestrali (Meccaniche)
 - **Scattante e Sfuggente**: Quando effettui un'azione di movimento, puoi marcare 1 *Stress* per muoverti fino a una gittata aggiuntiva, evitando di provocare attacchi di opportunità durante il tragitto.
 - **Opportunista Velenoso**: Quando colpisci una creatura che è già impegnata in combattimento con un tuo alleato (o che ha subito danni in questo turno), aggiungi un dado di *Bonus Competenza* al tuo tiro per i danni.
-- **Riflesso del Rifiuto**: Una volta per sessione, quando fallisci una prova di *Agilità*, puoi generare 1 punto di *Tensione* nel pool del GM per ritirare il dado e sommare il valore ottenuto.
+- **Riflesso del Rifiuto**: Una volta per sessione, quando fallisci una prova di *Agilità*, puoi generare 1 punto di *Paura* nella riserva del GM per ritirare il dado e sommare il valore ottenuto.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Goblin possiedono una vista "termica-residuale". Non vedono nel buio completo come le creature magiche, ma percepiscono le micro-correnti d'aria causate dal calore dei corpi o dal movimento dei meccanismi. Sono gli unici in grado di navigare nei condotti di ventilazione di Neir senza l'uso di ausili.

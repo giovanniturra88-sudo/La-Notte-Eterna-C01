@@ -12,4 +12,4 @@ _Gli Orderborne sono spesso ambiziosi, benevoli, riflessivi, prudenti, sardonici
 
 ### TRATTO DI COMUNITÀ
 
-**_Dedicato:_** Annota tre detti o valori che la tua educazione ti ha instillato. Una volta per riposo, quando descrivi come stai incarnando uno di questi principi attraverso la tua azione attuale, puoi tirare un **d20** come tuo Dado di Speranza.
+**_Dedicato:_** Annota tre detti o valori che la tua educazione ti ha instillato. Una volta per riposo, quando descrivi come stai incarnando uno di questi principi attraverso la tua azione attuale, puoi tirare un **d20** come tuo Dado Speranza.
