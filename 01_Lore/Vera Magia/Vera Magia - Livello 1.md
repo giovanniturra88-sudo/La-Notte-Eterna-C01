@@ -11,7 +11,7 @@ tags:
 * **Livello:** 1
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Istinto o Conoscenza)
-* **Durata:** Scena / Fino a quando mantieni la mantenimento dell'effetto
+* **Durata:** Scena / Finché mantieni l'effetto
 * **Gittata:** Vicino (Melee / Very Close / Close)
 
 Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zona a gittata **Molto Vicina**. Quando un avversario entra nell'area o vi inizia il proprio turno, effettua una prova contro la sua Soglia: infliggi `d8` danni Magici e la creatura subisce lo stato **Vulnerabile** finché rimane nella bruma.
