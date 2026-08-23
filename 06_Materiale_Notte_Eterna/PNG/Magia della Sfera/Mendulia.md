@@ -24,7 +24,7 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota devota all'anti
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 12 (+1) | 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 18 (+4) |
 
-- **Tiri Salvezza:** Saggezza +9, Carisma +8 
+- **Tiri di Reazione:** Istinto +9, Presenza +8
 - **Abilità:** Medicina +9, Religione +5, Persuasione +8 
 - **Immunità al Danno / Condizioni:** Radiante
 - **Sensi:** Percezione Passiva 15 

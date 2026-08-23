@@ -24,7 +24,7 @@ Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 10 (+0) | 14 (+2) | 18 (+4) | 14 (+2) | 20 (+5) | 12 (+1) |
 
-- **Tiri Salvezza:** Costituzione +8, Saggezza +9 
+- **Tiri di Reazione:** Forza +8, Istinto +9
 - **Abilità:** Natura +10, Sopravvivenza +9, Medicina +9 
 - **Resistenze al Danno:** Acido, Necrotico
 - **Immunità al Danno / Condizioni:** Veleno, Avvelenato

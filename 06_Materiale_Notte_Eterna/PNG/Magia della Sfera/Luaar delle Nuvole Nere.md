@@ -24,7 +24,7 @@ Luaar è un possente sciamano ed elemento di congiunzione tra le forze della nat
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 14 (+2) | 18 (+4) | 16 (+3) | 12 (+1) | 20 (+5) | 11 (+0) |
 
-- **Tiri Salvezza:** Destrezza +8, Saggezza +9 
+- **Tiri di Reazione:** Agilità +8, Istinto +9
 - **Abilità:** Percezione +9, Natura +9, Addestrare Animali +9 
 - **Immunità al Danno / Condizioni:** Fulmine, Tuono
 - **Sensi:** Scurovisione 36 m, Percezione Passiva 19 

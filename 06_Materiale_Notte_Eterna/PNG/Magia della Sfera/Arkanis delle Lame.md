@@ -24,7 +24,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 16 (+3) | 20 (+5) | 18 (+4) | 12 (+1) | 14 (+2) | 15 (+2) |
 
-- **Tiri Salvezza:** Destrezza +9, Costituzione +8, Saggezza +6 
+- **Tiri di Reazione:** Agilità +9, Forza +8, Istinto +6
 - **Abilità:** Acrobazia +9, Atletica +7, Intimidire +6, Percezione +6 
 - **Resistenze al Danno:** Danni contundenti, perforanti e taglienti da armi non magiche
 - **Immunità al Danno / Condizioni:** Spaventato

@@ -24,7 +24,7 @@ type:
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 20 (+5) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 18 (+4) |
 
-- **Tiri Salvezza:** Forza +9, Costituzione +8, Saggezza +7, Carisma +8 
+- **Tiri di Reazione:** Forza +9, Forza +8, Istinto +7, Presenza +8
 - **Abilità:** Atletica +9, Persuasione +8, Religione +5, Intimidire +8 
 - **Resistenze al Danno:** Radiante
 - **Immunità al Danno / Condizioni:** Fuoco, Spaventato

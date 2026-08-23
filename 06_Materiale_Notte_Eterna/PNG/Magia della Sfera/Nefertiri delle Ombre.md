@@ -25,7 +25,7 @@ Nefertiri è una maestra assassina ed spia senza pari, capace di fondersi letter
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 10 (+0) | 22 (+6) | 16 (+3) | 14 (+2) | 14 (+2) | 16 (+3) |
 
-- **Tiri Salvezza:** Destrezza +10, Intelligenza +6 
+- **Tiri di Reazione:** Agilità +10, Conoscenza +6
 - **Abilità:** Furtività +14, Rapidità di Mano +10, Acrobazia +10, Percezione +6 
 - **Resistenze al Danno:** Necrotico
 - **Sensi:** Scurovisione 36 m, Vista Cieca 9 m, Percezione Passiva 16 

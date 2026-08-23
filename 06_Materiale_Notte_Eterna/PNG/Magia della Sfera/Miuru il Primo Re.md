@@ -24,7 +24,7 @@ Miuru è stato il grande unificatore delle tribù mortali prima dell'avvento del
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 22 (+6) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 22 (+6) |
 
-- **Tiri Salvezza:** Forza +11, Costituzione +9, Saggezza +8, Carisma +11 
+- **Tiri di Reazione:** Forza +11, Forza +9, Istinto +8, Presenza +11
 - **Abilità:** Persuasione +11, Intimidire +11, Storia +8, Atletica +11 
 - **Resistenze al Danno:** Radiante, Necrotico
 - **Immunità al Danno / Condizioni:** Spaventato, Affascinato

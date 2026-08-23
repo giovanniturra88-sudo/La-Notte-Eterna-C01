@@ -24,7 +24,7 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 22 (+6) | 16 (+3) | 20 (+5) | 14 (+2) | 18 (+4) | 16 (+3) |
 
-- **Tiri Salvezza:** Costituzione +10, Saggezza +9, Carisma +8 
+- **Tiri di Reazione:** Forza +10, Istinto +9, Presenza +8
 - **Abilità:** Percezione +9, Natura +7, Atletica +11 
 - **Resistenze al Danno:** Contundente, Perforante e Tagliente da armi non magiche
 - **Immunità al Danno / Condizioni:** Freddo, Veleno

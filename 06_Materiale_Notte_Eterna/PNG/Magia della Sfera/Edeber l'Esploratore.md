@@ -24,7 +24,7 @@ Edeber è un ranger impavido che ha dedicato la sua vita a mappare le infide Ter
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 14 (+2) | 20 (+5) | 15 (+2) | 14 (+2) | 18 (+4) | 10 (+0) |
 
-- **Tiri Salvezza:** Destrezza +9, Saggezza +8 
+- **Tiri di Reazione:** Agilità +9, Istinto +8
 - **Abilità:** Furtività +13, Percezione +12, Sopravvivenza +12, Natura +6 
 - **Resistenze al Danno:** Veleno
 - **Sensi:** Scurovisione 36 m, Percezione Passiva 22 

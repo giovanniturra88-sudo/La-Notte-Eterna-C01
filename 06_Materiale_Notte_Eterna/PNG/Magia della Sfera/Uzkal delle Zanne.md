@@ -24,7 +24,7 @@ Uzkal è un brutale e primordiale capotribù, maestro supremo della caccia e del
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 22 (+6) | 16 (+3) | 20 (+5) | 10 (+0) | 14 (+2) | 14 (+2) |
 
-- **Tiri Salvezza:** Forza +10, Costituzione +9 
+- **Tiri di Reazione:** Forza +10, Forza +9
 - **Abilità:** Atletica +10, Sopravvivenza +6, Intimidire +6, Addestrare Animali +6 
 - **Resistenze al Danno:** Contundente, Perforante e Tagliente da armi non magiche
 - **Sensi:** Scurovisione 18 m, Olfatto Aumentato, Percezione Passiva 12 

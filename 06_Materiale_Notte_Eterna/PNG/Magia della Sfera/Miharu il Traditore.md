@@ -24,7 +24,7 @@ Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 20 (+5) | 12 (+1) | 16 (+3) | 11 (+0) | 13 (+1) | 18 (+4) |
 
-- **Tiri Salvezza:** Forza +9, Costituzione +7, Carisma +8 
+- **Tiri di Reazione:** Forza +9, Forza +7, Presenza +8
 - **Abilità:** Atletica +9, Intimidire +8, Inganno +8 
 - **Resistenze al Danno:** Necrotico; Contundente, Perforante e Tagliente da armi non magiche
 - **Sensi:** Scurovisione 18 m, Percezione Passiva 11 

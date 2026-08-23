@@ -24,7 +24,7 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 20 (+5) | 10 (+0) | 20 (+5) | 10 (+0) | 14 (+2) | 12 (+1) |
 
-- **Tiri Salvezza:** Forza +9, Costituzione +9, Saggezza +6 
+- **Tiri di Reazione:** Forza +9, Forza +9, Istinto +6
 - **Abilità:** Atletica +9, Storia +4, Percezione +6 
 - **Resistenze al Danno:** Veleno, Danni da armi non magiche
 - **Immunità al Danno / Condizioni:** Avvelenato, Prono (mentre è a contatto con il suolo di pietra)

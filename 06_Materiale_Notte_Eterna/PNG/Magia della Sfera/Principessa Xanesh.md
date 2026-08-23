@@ -24,7 +24,7 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 12 (+1) | 18 (+4) | 16 (+3) | 18 (+4) | 15 (+2) | 20 (+5) |
 
-- **Tiri Salvezza:** Destrezza +8, Intelligenza +8, Carisma +9 
+- **Tiri di Reazione:** Agilità +8, Conoscenza +8, Presenza +9
 - **Abilità:** Persuasione +9, Inganno +9, Arcano +8, Storia +8 
 - **Resistenze al Danno:** Psichico, Necrotico
 - **Sensi:** Scurovisione 18 m, Percezione Passiva 12 

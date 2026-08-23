@@ -24,7 +24,7 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 8 (-1) | 16 (+3) | 14 (+2) | 22 (+6) | 16 (+3) | 14 (+2) |
 
-- **Tiri Salvezza:** Intelligenza +10, Saggezza +7 
+- **Tiri di Reazione:** Conoscenza +10, Istinto +7
 - **Abilità:** Arcano +14, Storia +10, Intuizione +7 
 - **Resistenze al Danno:** Danni da Forza, Danni Psichici
 - **Sensi:** Vista Vera 18 m, Percezione Passiva 13 
