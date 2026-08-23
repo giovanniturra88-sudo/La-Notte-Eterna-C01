@@ -11,43 +11,42 @@ Luaar è un possente sciamano ed elemento di congiunzione tra le forze della nat
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**LUAAR DELLE NUVOLE NERE** 
-*Umanoide (Urakian-Falco), Caotico Neutrale* 
-
-- **Evasione:** 16 (Pelle di Tempesta) 
-- **Punti Ferita:** 130 (16d8 + 58) 
-- **Velocità:** 9 m, volare 18 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 14 (+2) | 18 (+4) | 16 (+3) | 12 (+1) | 20 (+5) | 11 (+0) |
-
-- **Tiri di Reazione:** Agilità +8, Istinto +9
-- **Abilità:** Percezione +9, Natura +9, Addestrare Animali +9 
-- **Immunità al Danno / Condizioni:** Fulmine, Tuono
-- **Sensi:** Scurovisione 36 m, Percezione Passiva 19 
-- **Linguaggi:** Comune, Auran, Urakian 
-- **Grado Sfida:** 11 (7.200 PE) 
+* **Descrizione:** Possente sciamano ed elemento di congiunzione tra le forze della natura e la magia delle tempeste, domina i cieli oscuri con furia incontrollabile.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** Minore: 8 | Maggiore: 17 | Grave: 32
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Percepire +4, Natura +4, Addestrare Animali +4
+* **Attacchi:**
+ * **Lancia-Fulmini:** +3 | Molto Vicina o Media | 3d10+5 danni perforanti e da fulmine
+* **Tratti e Capacità:**
+ * **Aura di Tempesta - Passiva:** Ogni creatura che inizia il proprio turno in portata Molto Vicina da Luaar subisce 3d8+3 danni da fulmine.
+ * **Dominio dei Venti - Passiva:** Luaar vola (18 m) e, mentre è in volo, ha vantaggio alle prove di Furtività e Acrobazia.
+ * **Immunità alla Tempesta - Passiva:** Immune ai danni da fulmine e da tuono.
+ * **Scurovisione - Passiva:** vede nel buio (36 m).
+ * **Attacchi Multipli - Azione:** Luaar effettua fino a 2 attacchi con il Lancia-Fulmini, oppure ne usa uno e Richiama la Tempesta.
+ * **Invocare il Lampo (una volta per scena) - Azione:** Scatena un fulmine devastante in una linea (Media). Le creature nell'area devono superare un Tiro di Reazione di Agilità con Difficoltà 17 o subire 3d12+5 danni da fulmine e da tuono.
+ * **Scudo di Vento - Reazione:** Quando un attacco a distanza bersaglia Luaar, una barriera di vento aumenta la Difficoltà di 4 contro quell'attacco.
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Aura di Tempesta:** Ogni creatura che inizia il proprio turno entro 3 m da Luaar subisce 7 (2d6) danni da fulmine.
+- **Aura di Tempesta:** Ogni creatura che inizia il proprio turno in portata Molto Vicina da Luaar subisce 3d8+3 danni da fulmine.
 - **Dominio dei Venti:** Luaar ha vantaggio alle prove di Furtività e Acrobazia mentre si trova in volo.
 
 #### **AZIONI**
-- **Multiattacco:** Luaar effettua due attacchi con il Lancia-Fulmini o usa Richiamare la Tempesta.
-- **Lancia-Fulmini:** Attacco con Arma da Mischia o a Distanza: +8 al tiro per colpire, portata 1,5 m o gittata 24/72 m, un bersaglio. Colpito: 11 (1d8 + 4) danni perforanti più 14 (4d6) danni da fulmine.
-- **Invocare il Lampo (Ricarica 5-6):** Luaar scatena un fulmine devastante in una linea di 18 m. Le creature nell'area devono superare un Tiro di Reazione di Agilità Difficoltà 17 o subire 45 (10d8) danni da fulmine e 18 (4d8) danni da tuono.
+- **Attacchi Multipli:** Luaar effettua fino a 2 attacchi con il Lancia-Fulmini, oppure ne usa uno e Richiama la Tempesta.
+- **Lancia-Fulmini:** Attacco con Arma da Mischia o a Distanza: +3 al tiro d'attacco, portata Molto Vicina o gittata Media, un bersaglio. Colpito: 3d10+5 danni perforanti e da fulmine.
+- **Invocare il Lampo (una volta per scena):** Luaar scatena un fulmine devastante in una linea (Media). Le creature nell'area devono superare un Tiro di Reazione di Agilità con Difficoltà 17 o subire 3d12+5 danni da fulmine e da tuono.
 
 #### **REAZIONI**
-- **Scudo di Vento:** Quando Luaar viene bersagliato da un attacco a distanza, crea una barriera di vento aumentando la propria CA di 4 contro quell'attacco.
+- **Scudo di Vento:** Quando Luaar viene bersagliato da un attacco a distanza, crea una barriera di vento aumentando la propria Difficoltà di 4 contro quell'attacco.
 
 ---
 
 ### **STORIA E LORE**
 Sire delle cime impervie, Luaar stringe spesso patti con gli Elementali delle Nuvole per spazzare via gli invasori dai confini del suo reame.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

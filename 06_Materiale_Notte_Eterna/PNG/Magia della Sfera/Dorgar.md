@@ -11,26 +11,24 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**DORGAR** 
-*Umanoide (Nano), Legale Buono* 
-
-- **Evasione:** 21 (Armatura Piastre +1, Scudo) 
-- **Punti Ferita:** 178 (17d10 + 85) 
-- **Velocità:** 7,5 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 20 (+5) | 10 (+0) | 20 (+5) | 10 (+0) | 14 (+2) | 12 (+1) |
-
-- **Tiri di Reazione:** Forza +9, Forza +9, Istinto +6
-- **Abilità:** Atletica +9, Storia +4, Percezione +6 
-- **Resistenze al Danno:** Veleno, Danni da armi non magiche
-- **Immunità al Danno / Condizioni:** Avvelenato, Prono (mentre è a contatto con il suolo di pietra)
-- **Sensi:** Scurovisione 18 m, Percezione Passiva 16 
-- **Linguaggi:** Comune, Nanico 
-- **Grado Sfida:** 11 (7.200 PE) 
+* **Descrizione:** Imponente guerriero nano dalla tempra pari alla roccia delle montagne, scudo incrollabile contro le aberranti creature della Dimensione dello Spirito.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** Minore: 8 | Maggiore: 17 | Grave: 32
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Atletica +4, Storia +2, Percepire +3
+* **Attacchi:**
+ * **Martello della Rupe:** +4 | Molto Vicina | 3d10+4 danni contundenti e magici
+* **Tratti e Capacità:**
+ * **Resilienza Nanica - Passiva:** Vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
+ * **Inamovibile - Passiva:** Non può essere spinto, buttato prono o mosso contro la sua volontà finché si trova su una superficie di pietra o terra.
+ * **Resistenza al Danno - Passiva:** Resiste ai danni da veleno e ai danni fisici; è immune all'avvelenamento.
+ * **Scurovisione - Passiva:** vede nel buio (18 m).
+ * **Attacchi Multipli - Azione:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
+ * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
+ * **Proteggere l'Alleato - Reazione:** Quando una creatura attacca un alleato di Dorgar in portata Molto Vicina, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
 
 ---
 
@@ -39,16 +37,16 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 - **Inamovibile:** Dorgar non può essere spinto, buttato prono o mosso contro la sua volontà se si trova su una superficie di pietra o terra.
 
 #### **AZIONI**
-- **Multiattacco:** Dorgar effettua due attacchi con il Martello della Rupe o uno con il Martello e un Attacco con lo Scudo.
-- **Martello della Rupe:** Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 5) danni contundenti più 7 (2d6) danni da forza.
-- **Impatto Sismico (Ricarica 5-6):** Dorgar scaglia il suo martello al suolo. Ogni creatura entro 6 m deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 28 (8d6) danni contundenti ed essere buttata prona.
+- **Attacchi Multipli:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
+- **Martello della Rupe:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d10+4 danni contundenti e magici.
+- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
 
 #### **REAZIONI**
-- **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar entro 1,5 m da lui, Dorgar impone svantaggio al tiro per colpire dell'attaccante.
+- **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar in portata Molto Vicina, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
 
 ---
 
 ### **STORIA E LORE**
 Custode delle fucine profonde di Daragoss, Dorgar ha giurato di proteggere i superstiti della Guerra Celeste, elevandosi a baluardo insuperabile della civiltà mortale.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

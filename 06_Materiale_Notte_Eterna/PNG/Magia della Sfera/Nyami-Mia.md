@@ -11,26 +11,24 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**NYAMI-MIA** 
-*Folletto / Elementale Enorme, Neutrale Buono* 
-
-- **Evasione:** 17 (Armatura Naturale Fluida) 
-- **Punti Ferita:** 210 (20d10 + 100) 
-- **Velocità:** 6 m, nuotare 24 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 22 (+6) | 16 (+3) | 20 (+5) | 14 (+2) | 18 (+4) | 16 (+3) |
-
-- **Tiri di Reazione:** Forza +10, Istinto +9, Presenza +8
-- **Abilità:** Percezione +9, Natura +7, Atletica +11 
-- **Resistenze al Danno:** Contundente, Perforante e Tagliente da armi non magiche
-- **Immunità al Danno / Condizioni:** Freddo, Veleno
-- **Sensi:** Scurovisione 36 m, Vista Cieca 18 m, Percezione Passiva 19 
-- **Linguaggi:** Comune, Aquan, Silvano, Telepatia 18 m 
-- **Grado Sfida:** 14 (11.500 PE) 
+* **Descrizione:** Creatura mitica e venerata, guardiana dei grandi corsi d'acqua e dei bacini sotterranei di [[Neir]]; legata allo spirito guida dei fiumi, protegge la vita acquatica e scatena piene rovinose contro chi inquina o profana le sue acque.
+* **Tier:** 4 (Solo)
+* **Difficoltà:** 20
+* **Soglie di Danno:** Minore: 14 | Maggiore: 28 | Grave: 52
+* **Punti Ferita:** 10 | **Stress:** 6
+* **Esperienza:** Percepire +4, Conoscenza +3, Atletica +5
+* **Attacchi:**
+ * **Colpo di Coda:** +5 | Vicina (4,5 m) | 4d8+10 contundenti
+* **Tratti e Capacità:**
+ * **Anfibio - Passiva:** respira sia in aria che in acqua.
+ * **Forma Acquatica - Passiva:** in acqua si muove attraverso spazi stretti (fino a 2,5 cm) senza costrizioni.
+ * **Scurovisione - Passiva:** vede nel buio (36 m).
+ * **Vista Cieca - Passiva:** percepisce le creature entro 18 m anche senza vederle.
+ * **Multiattacco:** con un'unica azione Nyami-mia effettua fino a 2 attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
+ * **Maelstrom Abissale - Azione (una volta per scena):** evoca un vortice d'acqua travolgente in una sfera di 9 m (Area Vicina) entro 27 m (Media); ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere ristretta e trascinata nel vortice.
+ * **Onda Protettiva - Reazione:** quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, aumentando di +4 la Difficoltà contro quell'attacco.
 
 ---
 
@@ -39,12 +37,12 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 - **Forma Acquatica:** Nyami-mia può muoversi attraverso uno spazio stretto fino a 2,5 cm senza doversi stringere finché si trova in acqua.
 
 #### **AZIONI**
-- **Multiattacco:** Nyami-mia effettua due attacchi di Colpo di Coda o un Colpo di Coda e una Sferzata d'Acqua.
-- **Colpo di Coda:** Attacco con Arma da Mischia: +11 al tiro per colpire, portata 4,5 m, un bersaglio. Colpito: 19 (3d8 + 6) danni contundenti.
-- **Maelstrom Abissale (Ricarica 5-6):** Nyami-mia evoca un vortice d'acqua travolgente in una sfera di 9 m entro 27 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 45 (10d8) danni contundenti e venire trattenuta ed immersa nel vortice.
+- **Multiattacco:** Nyami-mia effettua fino a due attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
+- **Colpo di Coda:** Attacco con Arma da Mischia: +5 al tiro per colpire (bonus d'attacco del Tier 4), portata 4,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti.
+- **Maelstrom Abissale (una volta per scena):** Nyami-mia evoca un vortice d'acqua travolgente in una sfera di 9 m entro 27 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere ristretta e trascinata nel vortice.
 
 #### **REAZIONI**
-- **Onda Protettiva:** Quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, fornendo un bonus di +4 alla CA contro quell'attacco.
+- **Onda Protettiva:** Quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, aumentando di +4 la Difficoltà contro quell'attacco.
 
 ---
 

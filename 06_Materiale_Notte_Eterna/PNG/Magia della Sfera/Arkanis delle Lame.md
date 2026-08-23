@@ -11,44 +11,43 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**ARKANIS DELLE LAME** 
-*Umanoide (Umano), Legale Buono* 
-
-- **Evasione:** 19 (Giaco di Maglia Perfetto, Maestro del Duello) 
-- **Punti Ferita:** 142 (15d10 + 60) 
-- **Velocità:** 9 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 16 (+3) | 20 (+5) | 18 (+4) | 12 (+1) | 14 (+2) | 15 (+2) |
-
-- **Tiri di Reazione:** Agilità +9, Forza +8, Istinto +6
-- **Abilità:** Acrobazia +9, Atletica +7, Intimidire +6, Percezione +6 
-- **Resistenze al Danno:** Danni contundenti, perforanti e taglienti da armi non magiche
-- **Immunità al Danno / Condizioni:** Spaventato
-- **Sensi:** Scurovisione 18 m, Percezione Passiva 16 
-- **Linguaggi:** Comune, Elfico, Nanico 
-- **Grado Sfida:** 12 (8.400 PE) 
+* **Descrizione:** Maestro d'arme e duellante leggendario di Neir, famoso per la sua impareggiabile maestria con le lame e per il suo inflessibile codice d'onore.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
+* **Punti Ferita:** 9 | **Stress:** 5
+* **Esperienza:** Acrobazia +4, Atletica +3, Intimidire +3, Percepire +3
+* **Attacchi:**
+ * **Lama Danzante:** +4 | Molto Vicina | 3d8+5 danni taglienti e radianti
+* **Tratti e Capacità:**
+ * **Scurovisione - Passiva:** vede nel buio (18 m).
+ * **Maestro del Duello - Passiva:** Quando impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene +2 alle prove di danno (già calcolato) e +2 alla Difficoltà dei tiri d'attacco contro di lui.
+ * **Riflessi Fulminei - Passiva:** Ha una reazione extra a ogni round, utilizzabile solo per Parata o un attacco di opportunità.
+ * **Resistenza Fisica - Passiva:** Resiste ai danni fisici (contundenti, perforanti e taglienti).
+ * **Imperturbabile - Passiva:** Immune alla condizione Spaventato.
+ * **Multiattacco - Azione:** Effettua fino a 3 attacchi con le Lame Danzanti.
+ * **Furia di Lame (una volta per scena) - Azione:** Esegue una serie fulminea di colpi rotanti: ogni creatura entro 3 m (Molto Vicina) deve superare un Tiro di Reazione di Agilità con Difficoltà 18 o subire 3d12+5 danni taglienti (metà danni in caso di successo).
+ * **Parata - Reazione:** Aggiunge 4 alla Difficoltà contro un attacco da mischia che lo colpirebbe (deve vedere l'attaccante e impugnare un'arma da mischia).
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Maestro del Duello:** Quando Arkanis impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene un bonus di +2 alle prove di danno (già calcolato) e +2 alla CA.
+- **Maestro del Duello:** Quando Arkanis impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene un bonus di +2 alle prove di danno (già calcolato) e +2 alla Difficoltà.
 - **Riflessi Fulminei:** Arkanis ha una reazione extra ad ogni round, utilizzabile solo per effettuare Parata o Attacco di Opportunità.
 
 #### **AZIONI**
-- **Multiattacco:** Arkanis effettua tre attacchi con le sue Lame Danzanti.
-- **Lama Danzante:** Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 11 (1d8 + 7) danni taglienti più 4 (1d8) danni radianti.
-- **Furia di Lame (Ricarica 5-6):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m da lui deve effettuare un Tiro di Reazione di Agilità con Difficoltà 17, subendo 36 (8d8) danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
+- **Multiattacco:** Arkanis effettua fino a 3 attacchi con le sue Lame Danzanti.
+- **Lama Danzante:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d8+5 danni taglienti e radianti.
+- **Furia di Lame (una volta per scena):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m (Molto Vicina) deve effettuare un Tiro di Reazione di Agilità con Difficoltà 18, subendo 3d12+5 danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
 
 #### **REAZIONI**
-- **Parata:** Arkanis aggiunge 4 alla sua CA contro un attacco da mischia che lo colpirebbe. Per farlo, deve vedere l'attaccante e impugnare un'arma da mischia.
+- **Parata:** Arkanis aggiunge 4 alla Difficoltà contro un attacco da mischia che lo colpirebbe. Per farlo, deve vedere l'attaccante e impugnare un'arma da mischia.
 
 ---
 
 ### **STORIA E LORE**
 Nato tra le fucine di Daragoss, Arkanis affilò la sua arte bellica combattendo le orde di non morti durante la Notte Eterna. Le sue leggendarie spade si dice siano state temprate nel Fuoco Segreto della Vetta delle Anime.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

@@ -11,43 +11,44 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**PRINCIPESSA XANESH** 
-*Umanoide (Urakian/Nobile), Legale Neutrale* 
-
-- **Evasione:** 17 (Giaco di Maglia di Fine Fattura) 
-- **Punti Ferita:** 135 (18d8 + 54) 
-- **Velocità:** 9 m, volare 12 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 12 (+1) | 18 (+4) | 16 (+3) | 18 (+4) | 15 (+2) | 20 (+5) |
-
-- **Tiri di Reazione:** Agilità +8, Conoscenza +8, Presenza +9
-- **Abilità:** Persuasione +9, Inganno +9, Arcano +8, Storia +8 
-- **Resistenze al Danno:** Psichico, Necrotico
-- **Sensi:** Scurovisione 18 m, Percezione Passiva 12 
-- **Linguaggi:** Comune, Urakian, Antico Xanesh, Telepatia 18 m 
-- **Grado Sfida:** 12 (8.400 PE) 
+* **Descrizione:** Tragica e maestosa figura reale, signora delle pianure desolate che portano il suo nome, che domina arti arcane e diplomazia con pugno di ferro.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
+* **Punti Ferita:** 9 | **Stress:** 5
+* **Esperienza:** Persuasione +4, Inganno +4, Arcano +4, Storia +4, Percepire +1
+* **Attacchi:**
+ * **Sciabola Cosmica:** +4 | Molto Vicina | 3d8+5 danni taglienti e psichici
+* **Tratti e Capacità:**
+ * **Scurovisione - Passiva:** vede nel buio (18 m).
+ * **Volo - Passiva:** Può muoversi volando.
+ * **Telepatia - Passiva:** Comunica telepaticamente entro 18 m (Media).
+ * **Comando della Sovrana - Passiva:** Un alleato entro 18 m (Media) che possa sentirla può effettuare un attacco come reazione quando Xanesh usa l'azione di attacco.
+ * **Resistenza Magica - Passiva:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
+ * **Resistenza Psichica e Necrotica - Passiva:** Resiste ai danni psichici e necrotici.
+ * **Multiattacco - Azione:** Effettua fino a 2 attacchi con la Sciabola Cosmica (o con i Dardi di Energia Astrale).
+ * **Sguardo di Dominio (una volta per scena) - Azione:** Fissa un bersaglio entro 18 m (Media), che deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato e obbedire ai suoi ordini verbali per 1 minuto.
+ * **Deviazione Telecinetica - Reazione:** Quando viene bersagliata da un attacco o da una capacità a distanza, crea un campo di forza telecinetico che riduce il danno di 15.
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Comando della Sovrana:** Un alleato entro 18 m che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa usa l'azione di attacco.
+- **Comando della Sovrana:** Un alleato entro 18 m (Media) che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa usa l'azione di attacco.
 - **Resistenza Magica:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
 
 #### **AZIONI**
-- **Multiattacco:** La Principessa Xanesh effettua due attacchi con la Sciabola Cosmica o due dardi di Energia Astrale.
-- **Sciabola Cosmica:** Attacco con Arma da Mischia: +8 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 11 (1d8 + 4) danni taglienti più 9 (2d8) danni psichici.
-- **Sguardo di Dominio (Ricarica 5-6):** La Principessa Xanesh fissa un bersaglio entro 18 m. Il bersaglio deve superare un Tiro di Reazione di Istinto Difficoltà 17 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
+- **Multiattacco:** La Principessa Xanesh effettua fino a 2 attacchi con la Sciabola Cosmica o con i dardi di Energia Astrale.
+- **Sciabola Cosmica:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d8+5 danni taglienti e psichici.
+- **Sguardo di Dominio (una volta per scena):** La Principessa Xanesh fissa un bersaglio entro 18 m (Media). Il bersaglio deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
 
 #### **REAZIONI**
-- **Deviazione Telecinetica:** Quando viene bersagliata da un attacco o incantesimo a distanza, la Principessa crea un campo di forza telecinetico che riduce il danno di 15 (2d10 + 4).
+- **Deviazione Telecinetica:** Quando viene bersagliata da un attacco o da una capacità a distanza, la Principessa crea un campo di forza telecinetico che riduce il danno di 15.
 
 ---
 
 ### **STORIA E LORE**
 Erede di un impero spezzato, la Principessa Xanesh lotta costantemente contro l'influenza del Titano d'Ombra dello Xanesh, proteggendo con fierezza la sovranità delle sue terre.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

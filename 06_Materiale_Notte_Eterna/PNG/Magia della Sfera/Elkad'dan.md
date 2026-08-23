@@ -11,41 +11,39 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**ELKAD'DAN** 
-*Umanoide (Wiloi), Neutrale Buono* 
-
-- **Evasione:** 15 (18 con Armatura Magica) 
-- **Punti Ferita:** 98 (15d8 + 30) 
-- **Velocità:** 9 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 8 (-1) | 16 (+3) | 14 (+2) | 22 (+6) | 16 (+3) | 14 (+2) |
-
-- **Tiri di Reazione:** Conoscenza +10, Istinto +7
-- **Abilità:** Arcano +14, Storia +10, Intuizione +7 
-- **Resistenze al Danno:** Danni da Forza, Danni Psichici
-- **Sensi:** Vista Vera 18 m, Percezione Passiva 13 
-- **Linguaggi:** Comune, Wiloi, Antico Arcana, Telepatia 18 m 
-- **Grado Sfida:** 13 (10.000 PE) 
+* **Descrizione:** Dotto ed erudito incantatore della Magia della Sfera, manipola le energie arcaniche con precisione chirurgica per proteggere l'equilibrio del mondo.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 18
+* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
+* **Punti Ferita:** 9 | **Stress:** 5
+* **Esperienza:** Arcano +5, Storia +4, Intuizione +3
+* **Attacchi:**
+ * **Sfera Arcanica:** +4 | Lontana | 3d10+5 danni magici
+* **Tratti e Capacità:**
+ * **Resistenza al Danno - Passiva:** Resiste ai danni magici e psichici.
+ * **Vista Vera - Passiva:** vede la vera forma di creature e cose (18 m).
+ * **Percezione:** 13.
+ * **Incantesimi Innati (Magia della Sfera) - Azione:** Usa la Conoscenza per lanciare capacità magiche (Difficoltà 18). A volontà: Dardo Incantato, Individuazione del Magico; 3 volte per scena: Palla di Fuoco, Muro di Forza; 1 volta per scena: Teletrasporto, Disintegrazione.
+ * **Evocare le Rune (una volta per scena) - Azione:** Evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Conoscenza con Difficoltà 18 o subire 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno.
+ * **Controincantesimo Runico - Reazione:** Interrompe automaticamente una capacità magica lanciata entro 18 m da lui se di potenza pari o inferiore al suo Tier.
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Incantesimi Innati (Magia della Sfera):** La caratteristica da incantatore di Elkad'dan è la Conoscenza (Difficoltà di Incantesimo 18, +10 ai tiri d'attacco magici). Può lanciare a volontà: Dardo Incantato, Individuazione del Magico; fino a 3 volte per giorno: Palla di Fuoco, Muro di Forza; 1 volta al giorno: Teletrasporto, Disintegrazione.
+- **Incantesimi Innati (Magia della Sfera):** La caratteristica da incantatore di Elkad'dan è la Conoscenza (Difficoltà 18, +4 ai tiri d'attacco magici). Può lanciare a volontà: Dardo Incantato, Individuazione del Magico; fino a 3 volte per scena: Palla di Fuoco, Muro di Forza; 1 volta per scena: Teletrasporto, Disintegrazione.
 
 #### **AZIONI**
-- **Sfera Arcanica:** Attacco con capacità magica da Distanza: +10 al tiro per colpire, gittata 36 m, un bersaglio. Colpito: 22 (4d7 + 6) danni da forza.
-- **Evocare le Rune (Ricarica 5-6):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto entro 18 m. Ogni creatura in un raggio di 6 m deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 42 (12d6) danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
+- **Sfera Arcanica:** Attacco con capacità magica da Distanza: +4 al tiro d'attacco, gittata Lontana, un bersaglio. Colpito: 3d10+5 danni magici.
+- **Evocare le Rune (una volta per scena):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Vicina deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
 
 #### **REAZIONI**
-- **Controincantesimo Runico:** Elkad'dan può interrompere una capacità magica lanciata entro 18 m da lui con un successo automatico se l'incantesimo è di 5° livello o inferiore.
+- **Controincantesimo Runico:** Elkad'dan può interrompere automaticamente una capacità magica lanciata entro 18 m da lui se la capacità è di potenza pari o inferiore al suo Tier.
 
 ---
 
 ### **STORIA E LORE**
 Custode dei segreti incisi nella Città delle Sette Rune, Elkad'dan studia costantemente le meteore cadute su Neir per svelare la Canzone di Nebvarasa.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

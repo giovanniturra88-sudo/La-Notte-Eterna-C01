@@ -11,25 +11,24 @@ Edeber è un ranger impavido che ha dedicato la sua vita a mappare le infide Ter
 
 ---
 
-### **STATISTICHE E CAPACITÀ (5e)**
+### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-**EDEBER L'ESPLORATORE** 
-*Umanoide (Elfo), Caotico Buono* 
-
-- **Evasione:** 17 (Corazza di Cuoio Bugnato, Destrezza) 
-- **Punti Ferita:** 110 (14d10 + 33) 
-- **Velocità:** 10,5 m 
-
-| FOR | DES | COS | INT | SAG | CAR |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 14 (+2) | 20 (+5) | 15 (+2) | 14 (+2) | 18 (+4) | 10 (+0) |
-
-- **Tiri di Reazione:** Agilità +9, Istinto +8
-- **Abilità:** Furtività +13, Percezione +12, Sopravvivenza +12, Natura +6 
-- **Resistenze al Danno:** Veleno
-- **Sensi:** Scurovisione 36 m, Percezione Passiva 22 
-- **Linguaggi:** Comune, Elfico, Silvano, Utente dei Segni 
-- **Grado Sfida:** 10 (5.900 PE) 
+* **Descrizione:** Ranger impavido, guida esperta e cacciatore infallibile che ha dedicato la vita a mappare le Terre Nascoste e conosce ogni insidia e creatura della Notte Eterna.
+* **Tier:** 3 (Solo)
+* **Difficoltà:** 17
+* **Soglie di Danno:** Minore: 8 | Maggiore: 16 | Grave: 30
+* **Punti Ferita:** 8 | **Stress:** 4
+* **Esperienza:** Furtività +5, Percepire +4, Sopravvivenza +4, Natura +3
+* **Attacchi:**
+ * **Arco Lungo delle Ombre:** +4 | Lontana | 3d8+5 danni perforanti e da veleno
+ * **Daghe Gemini:** +4 | Molto Vicina | 3d8+3 danni taglienti
+* **Tratti e Capacità:**
+ * **Passo Senza Traccia - Passiva:** Non lascia né orme né tracce durante il movimento e non può essere tracciato con mezzi non magici.
+ * **Mimetismo Perfetto - Passiva:** Può tentare di nascondersi anche quando è solo parzialmente oscurato dalla vegetazione o dal buio.
+ * **Scurovisione - Passiva:** vede nel buio (36 m).
+ * **Resistenza al Veleno - Passiva:** Resiste ai danni da veleno.
+ * **Attacchi Multipli - Azione:** Edeber effettua fino a 2 attacchi con l'Arco Lungo delle Ombre o con le Daghe Gemini.
+ * **Schivata Prodigiosa - Reazione:** Quando un attacco che Edeber può vedere lo colpisce, può dimezzare i danni subiti.
 
 ---
 
@@ -38,9 +37,9 @@ Edeber è un ranger impavido che ha dedicato la sua vita a mappare le infide Ter
 - **Mimetismo Perfetto:** Edeber può tentare di nascondersi anche quando è solo parzialmente oscurato dalla vegetazione o dal buio.
 
 #### **AZIONI**
-- **Multiattacco:** Edeber effettua due attacchi con l'Arco Lungo delle Ombre o con le Daghe Gemini.
-- **Arco Lungo delle Ombre:** Attacco con Arma a Distanza: +9 al tiro per colpire, gittata 45/180 m, un bersaglio. Colpito: 14 (2d8 + 5) danni perforanti più 4 (1d8) danni da veleno.
-- **Daghe Gemini:** Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 9 (1d6 + 5) danni taglienti.
+- **Attacchi Multipli:** Edeber effettua fino a 2 attacchi con l'Arco Lungo delle Ombre o con le Daghe Gemini.
+- **Arco Lungo delle Ombre:** Attacco con Arma a Distanza: +4 al tiro d'attacco, gittata Lontana, un bersaglio. Colpito: 3d8+5 danni perforanti e da veleno.
+- **Daghe Gemini:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d8+3 danni taglienti.
 
 #### **REAZIONI**
 - **Schivata Prodigiosa:** Quando un attaccante che Edeber può vedere lo colpisce con un attacco, Edeber può dimezzare il danno subito.
@@ -50,4 +49,4 @@ Edeber è un ranger impavido che ha dedicato la sua vita a mappare le infide Ter
 ### **STORIA E LORE**
 Edeber ha guidato centinaia di profughi attraverso le mefitiche distese della Foresta Pietrificata, salvandoli dalle fauci dei Bonguru e dalle imboscate degli Akammud.
 
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna 5e**.*
+*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
