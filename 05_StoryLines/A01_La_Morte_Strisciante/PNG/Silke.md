@@ -11,7 +11,7 @@ luoghi:
 ![[Pasted image 20260801180800.png|689]]
 ## Ruolo 
 Antagonista principale di [[La Morte Strisciante]]. 
-Necromante [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine. 
+Necromante [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine.
 ## Descrizione 
 Una [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] di straordinaria bellezza e presenza. 
 Veste quasi esclusivamente di nero e si presenta sempre con modi eleganti e raffinati. 
@@ -135,7 +135,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 
 * **Tratto Caratteriale:** Elegante, calcolatrice e manipolatrice. Appare affascinante e formale, ma custodisce gelosamente i propri segreti arcani.
 * **Ideale (Potere):** La conoscenza e lo studio della magia necromantica sono la chiave per la vita eterna e il controllo assoluto.
-* **Legame (Zakara & I Dardi Sanguinati):** Controlla vari isolati del quartiere dei Bassifondi e la gilda criminale dei Dardi Sanguinati tramite la sua amante Zakara. Non esiterebbe a sacrificarla per i propri scopi.
+* **Legame (Zakara & I Dardi Sanguinanti):** Controlla vari isolati del quartiere dei Bassifondi e la gilda criminale dei Dardi Sanguinanti tramite la sua amante Zakara. Non esiterebbe a sacrificarla per i propri scopi.
 * **Difetto / Rivale:** Invidiosa ed astiosa nei confronti del suo ex maestro, l'Arcimago Wonderrod (con cui ha avuto una relazione segreta). Cerca disperatamente di superarlo e di liberarsi da ogni legame con lui.
 
 ---
@@ -166,7 +166,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 
 * **Sensibilità alla Luce (Luce Intensa):** Quando Silke agisce in piena luce solare o sotto un'intensa illuminazione magica, le sue prove hanno uno svantaggio (o i giocatori ottengono +2 alla difesa contro di lei).
 * **Mano Putrefatta (Prezzo Arcano):** Silke nasconde una mano in stato avanzato di decomposizione. Quando spende 1 Stress, può toccare un bersaglio a portata da mischia infliggendo `1d6` Danno Diretto e paralizzandolo fino al suo turno successivo.
-* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Segnalino Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinati* o servitori non-morti con 1 HP ciascuno per bloccare i PG.
+* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Segnalino Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 HP ciascuno per bloccare i PG.
 * **Immagine Speculare / Movimenti del Ragno:** Spende 1 Stress per evitare un attacco fisico o per posizionarsi istantaneamente su pareti/soffitti fuori dalla portata da mischia.
 
 ---

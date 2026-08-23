@@ -52,13 +52,13 @@ Principe Dorgar I (6487-6200, E.S.), Principe Dorgar II il Giovane (6200-5987, E
 
 Con la morte di Ulfann il Bevitore nel corso dell’assedio di Hultuaar, la dinastia di Dorgar I si interrompe. La Congrega del Martello, riunitasi nella città di Ludreq, nomina Kivruld del Clan Thursark Principe di Valle Nuvolosa.
 ### DINASTIA DI KIVRULD I IL VALOROSO
-*Vecchia Dynasty*
-Principe Kivruld I il Valoroso (3586-3359, E.S.)*, Principe Kivruld II il Restauratore (3359-3000, E.S.), Principe Kivruld III Barbaplatino (3000-2814, E.S.), Principe Lagoot I l’Avido (2814-2645, E.S.), Principe Lagoot II il Malvagio (2645-2565, E.S.).
+*Vecchia Dinastia*
+Principe Kivruld I il Valoroso (3586-3359, E.S.), Principe Kivruld II il Restauratore (3359-3000, E.S.), Principe Kivruld III Barbaplatino (3000-2814, E.S.), Principe Lagoot I l’Avido (2814-2645, E.S.), Principe Lagoot II il Malvagio (2645-2565, E.S.).
 
 La Congrega del Martello detronizza Principe Lagoot II, accusato di essere un tiranno. La dinastia di Kivruld I il Valoroso e il Clan Thursark hanno miseramente fine. Questa volta tocca a Koldan del Clan Kold assumere l’onere e il privilegio di principe.
 ### DINASTIA DI KOLDAN L’AUTOREVOLE
 *Dinastia di Mezzo*
-Principe Koldan l’Autorevole (2565-2430, E.S.), Principe Arthan I il Benevolo (2430-2106, E.S.), Principe Arthan II Coppa d’Argento (2106-1899, E.S.), Principe Herduk I l’Ammazzagoblin (1899-1874, E.S.), Principe Herduk II l’Insonne (1874-1786, E.S.), Principe Arthan III (1786-1504, E.S.), Principe Herduk III Senzafigli (1504-1330, E.S.). 
+Principe Koldan l’Autorevole (2565-2430, E.S.), Principe Arthan I il Benevolo (2430-2106, E.S.), Principe Arthan II Coppa d’Argento (2106-1899, E.S.), Principe Herduk I l’Ammazzagoblin (1899-1874, E.S.), Principe Herduk II l’Insonne (1874-1786, E.S.), Principe Arthan III (1786-1504, E.S.), Principe Herduk III Senzafigli (1504-1330, E.S.).
 
 Principe Herduk III morì nel crollo accidentale di una miniera senza lasciare eredi al trono.
 La 46ª Congrega del Martello, convocata ancora una volta per decidere il futuro del Principato, nomina Jethra, capo del Clan Vzuntarnoss, Principessa di Valle Nuvolosa.
@@ -70,6 +70,7 @@ Principessa Jethra I la Cauta (1330-965, E.S.), Principe Odruin I il Minatore (9
 
 ## Geografia
 La Valle Nuvolosa prende il nome dai fitti vapori generati dai geyser e dalle acque termali che abbondano ovunque in questa fertilissima vallata. Bisogna immaginare le battaglie svoltesi in questo improbabile e spettrale campo di battaglia tra elfi e nani all'epoca della Guerra del Mithral. Le montagne che sovrastano la vallata costituiscono un'ottima difesa naturale da possibili invasori, che sarebbero costretti a una lunga e insidiosa scalata per raggiungere gli insediamenti nanici. I Guardiani della Valle monitorano costantemente i passi montani per impedire il passaggio ai forestieri.
+
 ## GOVERNO
 La nazione nanica è un principato ereditario. Finora sono esistite quattro dinastie: l'Antica Dinastia, la Vecchia Dinastia, la Dinastia di Mezzo e l'attuale Nuova Dinastia. I capi dei rispettivi clan, in occasioni straordinarie, possono riunirsi nella Congrega del Martello, un organo parlamentare dotato di potere decisionale tramite cui è possibile discutere l'operato del principe, le leggi emanate e altre faccende di fondamentale importanza. La Congrega del Martello ha il potere di detronizzare un principe ritenuto indegno e proporre un successore.
 
@@ -78,10 +79,12 @@ La nazione nanica è un principato ereditario. Finora sono esistite quattro dina
 |Omicidio colposo o involontario|Esilio permanente da Valle Nuvolosa|
 |Furto di uno scudo|Lavori forzati nelle fonderie del Principe. La pena dura dai 5 ai 100 anni, a seconda del prestigio del nano offeso|
 |Furto|Multa in base alla gravità del furto commesso|
+
 ## Economia
 Il commercio con le altre nazioni si è interrotto con la proclamazione dell'isolazionismo da parte della Principessa Jethra I la Cauta. Il Principato abbonda di materie prime quali minerali e pietre preziose, oltre ai frutti di cui la terra generosa è prodiga.
 
 I mestieri tipici del Principato sono il fabbro, l'artigiano, il minatore, l'architetto e l'ingegnere.
+
 ## Società
 ### Nomi di Persona Tipici dei Nani
 I nomi nanici seguono una tradizione piuttosto peculiare: i figli vengono chiamati secondo le tecniche e gli attrezzi impiegati nella forgia, mentre le figlie ricevono nomi ispirati alle diverse forme e alle variazioni di calore riscontrabili in una fucina da fabbro.
@@ -97,16 +100,18 @@ Anche se onnivori, i nani preferiscono la carne che condiscono con polvere di mi
 I nani preferiscono vivere in città sotterranee, vicino al cuore della terra. Le loro città scolpite nella roccia richiedono un lavoro secolare per essere completate, ma sopravvivono facilmente allo scorrere delle ere.
 ### Festività
 L'industriosità nanica si riflette anche sul modo di vivere la socialità. Ogni momento importante della vita di un individuo viene celebrato con sobrietà solenne. A cerimonie come nascite, matrimoni e funerali si aggiunge il _Giorno dello Scudo_ (cade nel 40° anniversario di un nano), un rito di passaggio all'età adulta per ogni nano che viene chiamato a fabbricare il proprio scudo in una prova a tempo e con pochi materiali a disposizione. Fallire questa prova causa uno stigma sociale nei confronti dell'individuo e ne segna profondamente la psiche; i “nani senza scudo” sono soliti abbandonare il proprio clan e lasciare Valle Nuvolosa per esplorare l'ignoto: un fato ritenuto ben peggiore della morte.
-### Usi E Costumi
+### Usi e Costumi
 La società nanica è organizzata in clan. Un clan è governato da una matriarca o patriarca, generalmente il primogenito del fondatore del clan. I nani sono leali nei confronti del loro clan, monarca e della nazione tutta; nei conflitti con le altre razze, anche i più riluttanti si schierano con i loro simili. La solidità dei loro legami e la loro resilienza sono alla base della longevità del Principato. I clan nanici si concentrano solitamente su uno o due tipi di artigianato quali la metallurgia, la fabbricazione di armi o armature, la creazione di gioielli, l'ingegneria o la lavorazione della pietra. Un artigianato comune a tutti i clan è la fabbricazione di scudi. I nani affermano che sono stati loro a inventarli e la maestria con cui li fabbricano sembrerebbe confermarlo.
 ### Religione
 Il culto di Fadranstaff è il più diffuso tra i nani sebbene anche la dea Iliar goda di un buon seguito tra i villaggi dediti alla pastorizia e all'agricoltura. Non mancano eremiti devoti di Lurtan sui picchi innevati di Valle Nuvolosa.
+
 ## **LUOGHI RILEVANTI**
 - [[Ludreq]] (Capitale)
 - [[Pahr]]
 - [[selva Infestata di Mysteria]]
 - [[Campo Geyser]]
+
 ## Spunti per Avventure
-- **Doerun di Pahr** cerca intrepidi avventurieri che aiutino lui, Muun l'orso e Alrò la volpe a liberare le anime dei klorss dal loro eterno tormento. Il nano promette agli avventurieri una grande ricompensa, la ricetta per la sua famosa torta di miele che li renderà senz'altro felici e satolli.    
-- **Bracey del Clan Teredlor** e le sue ancelle sono sparite nel Campo Geyser. I Teredlor sono pronti a iniziare un feudo contro il Clan Fuvrold, la famiglia dello sposo, se le fanciulle non verranno riconsegnate sane e salve entro una settimana.    
+- **Doerun di Pahr** cerca intrepidi avventurieri che aiutino lui, Muun l'orso e Alrò la volpe a liberare le anime dei klorss dal loro eterno tormento. Il nano promette agli avventurieri una grande ricompensa, la ricetta per la sua famosa torta di miele che li renderà senz'altro felici e satolli.
+- **Bracey del Clan Teredlor** e le sue ancelle sono sparite nel Campo Geyser. I Teredlor sono pronti a iniziare un feudo contro il Clan Fuvrold, la famiglia dello sposo, se le fanciulle non verranno riconsegnate sane e salve entro una settimana.
 - **Mutvan** ha servito fedelmente il suo Paese per oltre ventiquattro anni, scandagliando le cime dei monti che sovrastano il mare di nebbia in cui è immersa la Valle. È calura quando assiste a uno strano fenomeno celeste, un lampo improvviso a ciel sereno seguito da un boato a distanza ravvicinata. Il ranger si dirige verso la fonte del rumore armato del suo fedele arco, felice in cuor suo per quell'evento inatteso giunto a spezzare la monotonia... Poco distante nota un cratere pieno di acqua fumante. Si specchia sulla sua superficie ed è allora che si accorge che il suo riflesso sta ghignando sadicamente. Non fa in tempo a ritrarsi che una mano – la sua! – emerge dalla pozza d'acqua trascinandolo sotto...

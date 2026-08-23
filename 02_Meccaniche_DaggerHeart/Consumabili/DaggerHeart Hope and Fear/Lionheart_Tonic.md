@@ -7,6 +7,6 @@ original_rarity: "Legendary"
 roll: 58
 ---
 
-# Tonic del Cuore di Leone
+# Tonico del Cuore di Leone
 
-Puoi bere questo tonic per ottenere un bonus di +1 alla tua Competenza finché non tiri con Paura.
+Puoi bere questo tonico per ottenere un bonus di +1 alla tua Competenza finché non tiri con Paura.
