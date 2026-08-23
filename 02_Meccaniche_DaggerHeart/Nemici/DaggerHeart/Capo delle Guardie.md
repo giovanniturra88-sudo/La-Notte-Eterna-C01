@@ -5,7 +5,7 @@ type:
 ---
 
 ## Capo delle Guardie
-* **Descrizione:** Un guardia esperto con una mazza, una fisarmonica e una voce ruggente.
+* **Descrizione:** Una guardia esperta con una mazza, una fisarmonica e una voce ruggente.
 * **Tier:** 1 (Capo)
 * **Difficoltà:** 15
 * **Soglie di Danno:** 7/13
@@ -21,7 +21,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Capo delle Guardie"
-description: "Un guardia esperto con una mazza, una fisarmonica e una voce ruggente."
+description: "Una guardia esperta con una mazza, una fisarmonica e una voce ruggente."
 tier: "1"
 ruolo: "Capo"
 difficolta: "15"

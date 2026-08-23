@@ -14,8 +14,8 @@ type:
 * **Attacchi:**
   * **Pugnali:** +1 | Da Vicino | 1d8+1 fisico
 * **Tratti e Capacità:**
-  * **Arrampicatore - Passiva:** Il Bandito si arrampica altrettanto facilmente come corre.
-  * **Dal Di Sopra - Passiva:** Quando il Bandito ha successo con un attacco standard da sopra a una vittima, infligge **1d10+1** danni fisici invece dei danni standard.
+  * **Arrampicatore - Passiva:** Il Bandito si arrampica con la stessa facilità con cui corre.
+  * **Dal Di Sopra - Passiva:** Quando il Bandito ha successo con un attacco standard dall'alto su una vittima, infligge **1d10+1** danni fisici invece dei danni standard.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -33,7 +33,7 @@ attacchi:
     desc: "**+1** | Da Vicino | **1d8+1** fisico"
 tratti:
   - name: "Arrampicatore"
-    desc: "*- Passiva:* Il Bandito si arrampica altrettanto facilmente come corre."
+    desc: "*- Passiva:* Il Bandito si arrampica con la stessa facilità con cui corre."
   - name: "Dal Di Sopra"
-    desc: "*- Passiva:* Quando il Bandito ha successo con un attacco standard da sopra a una vittima, infligge 1d10+1 danni fisici invece dei danni standard."
+    desc: "*- Passiva:* Quando il Bandito ha successo con un attacco standard dall'alto su una vittima, infligge 1d10+1 danni fisici invece dei danni standard."
 ```
