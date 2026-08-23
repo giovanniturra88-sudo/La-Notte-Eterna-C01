@@ -9,7 +9,7 @@
 * **Gittata:** Regione / Mappa Intera
 * **Durata:** Istantanea
 
-Il rituale supremo della distruzione. Reciti l'capacità magica da una pergamena antica per un mese ininterrotto. Al completamento, il cielo si oscura e una pioggia di meteoriti catastrofica si abbatte sull'area.
+Il rituale supremo della distruzione. Reciti la capacità magica da una pergamena antica per un mese ininterrotto. Al completamento, il cielo si oscura e una pioggia di meteoriti catastrofica si abbatte sull'area.
 
 * **Convocazione:** L'capacità magica evoca **3d12 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
 * **Prezzo della Magia:** Al termine del lancio, effettua un **Tiro di Reazione su Vigore con Difficoltà 20**:

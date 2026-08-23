@@ -17,7 +17,7 @@ Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabe
 > *«Prendetevi cura di loro e avrete cura di voi stessi. Vi guarderanno le spalle in luoghi sconosciuti e lontani, saranno il vostro supporto in giorni bui e angosciosi.»*
 > — **I Draghi di Yolamhra ai [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] prima della partenza per [[Neir]]**
 
-Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]], ma non tutti i [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sourcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'fedeltà/valori dell'incantatore.
+Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]], ma non tutti i [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sourcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole dell'incantatore.
 
 ---
 
@@ -31,7 +31,7 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 
 ## 📊 Statistiche e Scheda Base (Vera Forma)
 
-* **Tipo Creatura:** Elementale Piccolo (fedeltà/valori del possessore)
+* **Tipo Creatura:** Elementale Piccolo (indole del possessore)
 * **Difficoltà per Colpirlo:** Pari alla Difficoltà Magica del Possessore (base 11 + modificatore di livello del possessore)
 * **Punti Ferita / Slot Armatura:** Utilizza la metà dei Punti Ferita / Slot Armatura del Possessore
 * **Velocità:** 7,5 m (Fluttuare / Zona Ravvicinata)
@@ -48,13 +48,13 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 
 ## 🌟 Aure dell'Anima (Attive solo in Vera Forma)
 
-*L'effetto dell'aura dipende dall'fedeltà/valori/Natura morale del possessore:*
+*L'effetto dell'aura dipende dall'indole / natura morale del possessore:*
 
 > [!NOTE] 🪽 Aura di Purezza Minore (Yamyam Buono)
-> Ogni creatura entro 3 m (Zona Ravvicinata) dallo yamyam è immune alle malattie, ottiene resistenza ai danni da veleno e **Vantaggio** ai tiri salvezza (Tiri di Reazione) per non essere avvelenato.
+> Ogni creatura entro 3 m (Zona Ravvicinata) dallo yamyam è immune alle malattie, ottiene resistenza ai danni da veleno e **Vantaggio** ai Tiri di Reazione per non essere Avvelenato.
 
 > [!NOTE] 🛡️ Aura di Protezione Minore (Yamyam Neutrale)
-> Le creature entro 3 m (Zona Ravvicinata) dallo yamyam ottengono un bonus di **+1 ai tiri salvezza (Tiri di Reazione)** e alla Difesa.
+> Le creature entro 3 m (Zona Ravvicinata) dallo yamyam ottengono un bonus di **+1 ai Tiri di Reazione** e alla Difesa.
 
 > [!NOTE] 🗡️ Aura di Odio Minore (Yamyam Malvagio)
 > Lo yamyam e ogni demone e non morto alleato entro 3 m (Zona Ravvicinata) dallo yamyam ottiene un bonus di **+1 ai danni**.
@@ -63,10 +63,10 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 
 ## ⚡ Azioni in Combattimento (Vera Forma)
 
-* **Proiettile Arcano (Attacco Base):** Attacco con Incantesimo a Distanza. Usa il modificatore di attacco dell'capacità magica del possessore. Gittata: 18 m (Zona Lontana). *Colpito:* **`1d8 + 2` Danni da Forza** (Danni Magici).
-* **Tocco Curativo (Yamyam Buono):** Usando un' lo yamyam tocca una creatura e, consumando uno costo di magia / **1 Speranza** del suo possessore, lancia *Cura Ferite* (fa recuperare HP pari al livello dello slot/Speranza spesa + Caratteristica).
-* **Protettore Arcano (Yamyam Neutrale):** Usando una **Reazione** e consumando uno costo di magia / **1 Speranza** del suo possessore, lo yamyam lancia *Scudo* su una creatura a scelta entro 3 m (conferisce bonus alla Difesa o riduce i danni).
-* **Tocco Mortale (Yamyam Malvagio):** Usando un' e consumando uno costo di magia / **1 Speranza** del suo possessore, lo yamyam tocca una creatura e lancia *Infliggi Ferite* (infligge danni necrotici pari al livello dello slot speso + Caratteristica).
+* **Proiettile Arcano (Attacco Base):** Attacco con Incantesimo a Distanza. Usa il modificatore di attacco della capacità magica del possessore. Gittata: 18 m (Zona Lontana). *Colpito:* **`1d8 + 2` Danni da Forza** (Danni Magici).
+* **Tocco Curativo (Yamyam Buono):** Usando un'azione lo yamyam tocca una creatura e, consumando **1 Speranza** del suo possessore, la cura (recupera Punti Ferita pari al valore della Speranza spesa + la Caratteristica di Incantesimo del possessore).
+* **Protettore Arcano (Yamyam Neutrale):** Usando una **Reazione** e consumando **1 Speranza** del suo possessore, lo yamyam evoca uno *Scudo* su una creatura a scelta entro 3 m (conferisce bonus alla Difesa o riduce i danni).
+* **Tocco Mortale (Yamyam Malvagio):** Usando un'azione e consumando **1 Speranza** del suo possessore, lo yamyam tocca una creatura e infligge danni necrotici pari al valore della Speranza spesa + la Caratteristica di Incantesimo del possessore.
 
 ---
 
@@ -75,22 +75,22 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 Gli yamyam sono creature legate indissolubilmente all'anima di chi li possiede; a ogni aumento di livello degli Incantesimi (o Grado di Potere), lo yamyam sale di 1 livello. In base al suo livello, lo yamyam ottiene i seguenti benefici mentre è in **Vera Forma**:
 
 ### **Livello 1**
-La forma base dello yamyam. A questo livello lo yamyam ottiene la propria forma in base all'fedeltà/valori del possessore e le abilità riportate nella scheda soprastante.
+La forma base dello yamyam. A questo livello lo yamyam ottiene la propria forma in base all'indole del possessore e le abilità riportate nella scheda soprastante.
 
 ### **Livello 2**
 Lo yamyam cresce e così anche le sue capacità. I punteggi di **Intelligenza e Carisma salgono a 14 (+2)** e i danni del *Proiettile Arcano* salgono a **`1d10 + 2`**.
 
 ### **Livello 3**
-Le fattezze e le capacità dello yamyam iniziano a cambiare in base all'fedeltà/valori del possessore:
-* 🪽 **Aura di Purezza (Buono):** L'aura conferisce **Vantaggio** ai tiri salvezza (Tiri di Reazione) per resistere anche alle condizioni: *Accecato*, *Assordato*, *Pietrificato* e *Paralizzato*. L'aspetto dello yamyam potrebbe ricoprirsi di piumaggio o pelliccia bianca, gli occhi trasformarsi in due sfere celesti o dorate.
+Le fattezze e le capacità dello yamyam iniziano a cambiare in base all'indole del possessore:
+* 🪽 **Aura di Purezza (Buono):** L'aura conferisce **Vantaggio** ai Tiri di Reazione per resistere anche alle condizioni: *Accecato*, *Assordato*, *Pietrificato* e *Paralizzato*. L'aspetto dello yamyam potrebbe ricoprirsi di piumaggio o pelliccia bianca, gli occhi trasformarsi in due sfere celesti o dorate.
 * 🛡️ **Aura di Protezione (Neutrale):** Il bonus fornito dall'aura diviene pari al modificatore di Conoscenza dello yamyam (**+2 ai Tiri di Reazione/Difesa**). Gli occhi dello yamyam sono vispi, le sue fattezze ricordano quelle di un furetto.
 * 🗡️ **Aura di Odio (Malvagio):** Il bonus fornito dall'aura diviene pari al modificatore di Conoscenza dello yamyam (**+2 ai Danni**). L'aspetto dello yamyam ricorda un istrice mostruoso, i suoi occhi sono tizzoni ardenti e famelici.
 
 ### **Livello 4**
-Lo yamyam ha quasi raggiunto la sua forma completa. I suoi punteggi di **Intelligenza e Saggezza salgono a 16 (+3)** e ottiene **Vantaggio ai tiri salvezza contro le magie**, conferendo questa abilità anche al suo possessore finché si trova vicino a lui.
+Lo yamyam ha quasi raggiunto la sua forma completa. I suoi punteggi di **Intelligenza e Saggezza salgono a 16 (+3)** e ottiene **Vantaggio ai Tiri di Reazione contro le magie**, conferendo questa abilità anche al suo possessore finché si trova vicino a lui.
 
 ### **Livello 5 (Forma Finale)**
 La forma finale dello yamyam. Lo yamyam diviene di **taglia Media** ed ottiene queste abilità speciali:
 * 🪽 **Invocazione Curativa (Buono):** Lo yamyam può lanciare l'incantesimo *Parola di Guarigione di Massa* al livello minimo consumando uno slot di livello 3 o superiore / **2 Speranza** del suo possessore. L'aspetto dello yamyam adesso ricorda quello di un celestiale dalle fattezze animali.
-* 🛡️ **Barriera Arcana (Neutrale):** Consumando uno slot di livello 3 o superiore / **2 Speranza** del suo possessore, lo yamyam impone una difesa arcana su un numero di bersagli entro 6 m pari al modificatore di Conoscenza (+3). I bersagli ottengono un bonus di **+2 alla Evasione / Armatura** per 1 minuto o finché la mantenimento dell'effetto dello yamyam non termina (come se si concentrasse su un incantesimo). L'aspetto dello yamyam assume i connotati di una creatura fatata.
-* 💀 **Mietitore Arcano (Malvagio):** Consumando uno slot di livello 3 o superiore / **2 Speranza** del suo possessore, lo yamyam entra in una furia omicida. Per un minuto, quando lo yamyam usa il *Tocco Mortale*, può effettuare **due attacchi di Tocco Mortale senza consumare costo di magia/Speranza**, lanciando *Infliggi Ferite* come capacità magica di 1° livello. L'aspetto dello yamyam ricorda quello di un immondo dalle fattezze animali.
+* 🛡️ **Barriera Arcana (Neutrale):** Consumando **2 Speranza** del suo possessore, lo yamyam impone una difesa arcana su un numero di bersagli entro 6 m pari al modificatore di Conoscenza (+3). I bersagli ottengono un bonus di **+2 alla Evasione / Armatura** per 1 minuto o finché lo yamyam non termina il mantenimento dell'effetto. L'aspetto dello yamyam assume i connotati di una creatura fatata.
+* 💀 **Mietitore Arcano (Malvagio):** Consumando **2 Speranza** del suo possessore, lo yamyam entra in una furia omicida. Per un minuto, quando lo yamyam usa il *Tocco Mortale*, può effettuare **due attacchi di Tocco Mortale senza consumare ulteriore Speranza**, infliggendo i danni come un Tocco Mortale potenziato. L'aspetto dello yamyam ricorda quello di un immondo dalle fattezze animali.

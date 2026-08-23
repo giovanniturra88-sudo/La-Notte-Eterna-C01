@@ -35,7 +35,7 @@ type:
 ---
 
 #### **TRATTI SPECIALI**
-- **Aura del Fuoco Segreto:** Öduin e gli alleati entro 3 m da lui aggiungono +4 a tutti i tiri salvezza ed infliggono 4 (1d8) danni da fuoco extra ai loro attacchi da mischia.
+- **Aura del Fuoco Segreto:** Öduin e gli alleati entro 3 m da lui aggiungono +4 a tutti i Tiri di Reazione e infliggono 4 (1d8) danni da fuoco extra ai loro attacchi da mischia.
 - **Carica Sacra:** Se Öduin si muove di almeno 6 m in linea retta verso una creatura prima di colpirla con un attacco in mischia, infligge 9 (2d8) danni da fuoco aggiuntivi e il bersaglio deve superare un Tiro di Reazione di Forza Difficoltà 17 o cadere prono.
 
 #### **AZIONI**

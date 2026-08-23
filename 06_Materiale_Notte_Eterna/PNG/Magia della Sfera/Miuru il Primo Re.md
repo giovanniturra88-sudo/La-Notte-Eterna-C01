@@ -35,7 +35,7 @@ Miuru è stato il grande unificatore delle tribù mortali prima dell'avvento del
 ---
 
 #### **TRATTI SPECIALI**
-- **Presenza Regale:** Tutti gli alleati entro 18 m da Miuru ottengono un bonus di +3 ai tiri salvezza e sono immuni allo spavento.
+- **Presenza Regale:** Tutti gli alleati entro 18 m da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni allo Spavento.
 - **Ispirazione del Sovrano (3/Giorno):** Con un', Miuru permette a un alleato entro 18 m di effettuare immediatamente un attacco o di muoversi della propria velocità.
 
 #### **AZIONI**

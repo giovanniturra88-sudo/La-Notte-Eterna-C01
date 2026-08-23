@@ -35,7 +35,7 @@ Nefertiri è una maestra assassina ed spia senza pari, capace di fondersi letter
 ---
 
 #### **TRATTI SPECIALI**
-- **Passo nell'Ombra:** Finché si trova in luce fioca o oscurità, Nefertiri può usare un' per teletrasportarsi fino a 18 m in uno spazio non occupato anch'esso nell'oscurità.
+- **Passo nell'Ombra:** Finché si trova in luce fioca o oscurità, Nefertiri può spendere un'azione per teletrasportarsi fino a 18 m in uno spazio non occupato anch'esso nell'oscurità.
 - **Attacco Furtivo (1/Turno):** Nefertiri infligge 21 (6d6) danni extra quando colpisce un bersaglio con un attacco con arma di precisione ed ha vantaggio al tiro per colpire.
 
 #### **AZIONI**

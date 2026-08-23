@@ -34,14 +34,14 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 ---
 
 #### **TRATTI SPECIALI**
-- **Incantesimi Innati (Magia della Sfera):** La caratteristica da incantatore di Elkad'dan è l'Intelligenza (CD Tiri Salvezza 18, +10 al tiro per colpire). Può lanciare a volontà: Dardo Incantato, Individuazione del Magico; 3/giorno: Palla di Fuoco, Muro di Forza; 1/giorno: Teletrasporto, Disintegrazione.
+- **Incantesimi Innati (Magia della Sfera):** La caratteristica da incantatore di Elkad'dan è la Conoscenza (Difficoltà di Incantesimo 18, +10 ai tiri d'attacco magici). Può lanciare a volontà: Dardo Incantato, Individuazione del Magico; fino a 3 volte per giorno: Palla di Fuoco, Muro di Forza; 1 volta al giorno: Teletrasporto, Disintegrazione.
 
 #### **AZIONI**
 - **Sfera Arcanica:** Attacco con capacità magica da Distanza: +10 al tiro per colpire, gittata 36 m, un bersaglio. Colpito: 22 (4d7 + 6) danni da forza.
 - **Evocare le Rune (Ricarica 5-6):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto entro 18 m. Ogni creatura in un raggio di 6 m deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 42 (12d6) danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
 
 #### **REAZIONI**
-- **Controincantesimo Runico:** Elkad'dan può interrompere un capacità magica lanciato entro 18 m da lui con un successo automatico se l'incantesimo è di 5° livello o inferiore.
+- **Controincantesimo Runico:** Elkad'dan può interrompere una capacità magica lanciato entro 18 m da lui con un successo automatico se l'incantesimo è di 5° livello o inferiore.
 
 ---
 

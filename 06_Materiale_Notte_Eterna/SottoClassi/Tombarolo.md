@@ -17,12 +17,12 @@ Ladri specializzati nell'esplorazione e nel saccheggio di antiche necropoli, cap
 ---
 
 ### Fondazione
-**_Morto di Fatica:_** Una volta per rest, puoi mirare a un cadavere umanoide di taglia media o inferiore per rianimarlo come non-morto helper (Scheletro o Zombi). Non può attaccare o difendere, ma esegue ordini semplici per te (aprire casse, trasportare pesi, attivare leve). Scompare se subisce danni.
+**_Morto di Fatica:_** Una volta per riposo, puoi mirare a un cadavere umanoide di taglia media o inferiore per rianimarlo come non-morto aiutante (Scheletro o Zombi). Non può attaccare o difendere, ma esegue ordini semplici per te (aprire casse, trasportare pesi, attivare leve). Scompare se subisce danni.
 
 ---
 
 ### Specializzazione
-**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi HP. Come reazione quando stai per subire danni da un attacco e il tuo helper è entro portata Molto Vicina, puoi far sì che l'attacco colpisca e distrugga il tuo helper al tuo posto.
+**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi HP. Come reazione quando stai per subire danni da un attacco e il tuo aiutante è entro portata Molto Vicina, puoi far sì che l'attacco colpisca e distrugga il tuo aiutante al tuo posto.
 **_Esploratore di Catacombe:_** Ottieni vantaggio raddoppiato su tutte le prove per individuare trappole e passaggi segreti.
 
 ---

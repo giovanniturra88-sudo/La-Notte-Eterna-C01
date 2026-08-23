@@ -19,7 +19,7 @@ Questa pianta è alta fino a due metri ed è di chiara origine extraplanare. Rar
 ## ⚠️ Meccanica di Difesa e Reazione
 
 La straordinaria capacità della **Drakey** si manifesta quando viene minacciata:
-- Le sue foglie si chiudono rapidamente in una palla che si gonfia a vista d'occhio, lasciando pochissimo tempo all'animale (o all'avventuriero) per fuggire o per recidere la pianta (tiro di **CD 10** per tagliarla).
+- Le sue foglie si chiudono rapidamente in una palla che si gonfia a vista d'occhio, lasciando pochissimo tempo all'animale (o all'avventuriero) per fuggire o per recidere la pianta (Tiro di Forza con **Difficoltà 10** per tagliarla).
 - Un attimo dopo, il gomitolo di foglie si stacca dalla pianta e si apre, liberando un **costrutto interamente composto da foglie**.
 
 ---

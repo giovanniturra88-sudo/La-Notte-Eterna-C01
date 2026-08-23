@@ -59,4 +59,4 @@ Crea un globo violaceo opaco. Le creature all'interno della sfera devono superar
 * **Durata:** 1 Scena / Alcune Ore
 * **Gittata:** Medio (Far)
 
-Altera visivamente, uditivamente e tattilmente una vasta area, oggetto o creatura. L'illusione è indistinguibile dalla realtà finché un osservatore non spende un'azione e supera una prova d'ispezione contro la CD del tuo tiro magico.
+Altera visivamente, uditivamente e tattilmente una vasta area, oggetto o creatura. L'illusione è indistinguibile dalla realtà finché un osservatore non spende un'azione e supera una prova d'ispezione contro la Difficoltà del tuo tiro magico.

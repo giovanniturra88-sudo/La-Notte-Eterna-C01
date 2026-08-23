@@ -35,7 +35,7 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota devota all'anti
 
 #### **TRATTI SPECIALI**
 - **Aura di Devozione:** Mendulia e gli alleati entro 9 m da lei non possono essere affascinati o spaventati.
-- **Incantesimi Chierico:** Mendulia è un'incantatrice di 12° livello (CD Tiri Salvezza 17, +9 al tiro per colpire). Ha accesso a incantesimi di cura, protezione e danno radiante (es. Colpo Infuocato, Parola della Guarigione).
+- **Incantesimi Chierico:** Mendulia è un'incantatrice di 12° livello (Difficoltà di Incantesimo 17, +9 ai tiri d'attacco magici). Ha accesso a capacità di cura, protezione e danno radiante (es. Colpo Infuocato, Parola della Guarigione).
 
 #### **AZIONI**
 - **Mazza Radiosa:** Attacco con Arma da Mischia: +5 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 4 (1d6 + 1) danni contundenti più 11 (3d6) danni radianti.

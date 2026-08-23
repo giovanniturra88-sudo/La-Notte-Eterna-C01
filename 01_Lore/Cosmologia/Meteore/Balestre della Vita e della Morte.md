@@ -4,7 +4,7 @@ type: Artefatto
 
 ![[Pasted image 20260712140552.png]]
 
-*Arma Magica (Qualsiasi Balestra), Leggendaria, Richiede sintonia da fedeltà/valori buono (Vita) o malvagio (Morte)*
+*Arma Magica (Qualsiasi Balestra), Leggendaria, Richiede sintonia con una creatura di indole buona (Vita) o malvagia (Morte)*
 ## Balestra della Vita
 Un'arma angelica di precisione che scaglia dardi di energia magica che colpiscono sempre il bersaglio purché sullo stesso piano di esistenza. C'è solo un "piccolo" problema: la balestra non colpirà mai un essere vivente, sia esso buono o malvagio. Per esempio non colpirà mai un arciere ma colpirà la freccia scagliata da questi cambiandone la traiettoria. I non morti e tutto ciò che non è tecnicamente vivente può essere colpito con precisione infallibile. Un consiglio: non fate mai sapere a [[Hedd|Hedd il Folle]] di quest'arma: non esiterebbe un attimo ad appropriarsene!
  La Balestra della Vita non necessita di proiettili per il funzionamento. Quando viene utilizzata scaglia un dardo lucente di forza magica che colpisce automaticamente il bersaglio se quest'ultimo non è una creatura vivente, infliggendo sempre 1d4+1 danni da forza.

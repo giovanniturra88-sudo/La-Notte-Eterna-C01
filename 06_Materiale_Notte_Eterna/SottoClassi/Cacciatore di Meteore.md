@@ -19,7 +19,7 @@ I Cacciatori di Meteore sono studiosi, esploratori e astronomi ossessionati dall
 ## Caratteristiche di Fondazione
 
 ### Sintonia Celeste
-Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando lanci un capacità magica dello Stregone che infligge danni magici, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso o Forza**. Quando lo fai, aggiungi al danno un dado extra pari al valore del tuo dado di **Proficienza**.
+Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando lanci una capacità magica dello Stregone che infligge danni magici, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso o Forza**. Quando lo fai, aggiungi al danno un dado extra pari al valore del tuo dado di **Proficienza**.
 
 ## Caratteristiche di Specializzazione
 
@@ -27,7 +27,7 @@ Porti con te un monile o un frammento di roccia meteoritica che brilla di una de
 Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni vantaggio permanente a tutte le prove di *Sopravvivenza* effettuate per orientarti di notte sotto la luce della Luna e alle prove di *Arcano* o *Storia* volte a identificare le proprietà magiche o geologiche di frammenti di meteore, ars o metalli celesti.
 
 ### Bagliore della Caduta
-Quando utilizzi la caratteristica di classe dello Stregone *Incanalare Potere Grezzo (Channel Raw Power)*, puoi scegliere di marcare **1 Stress** per scatenare una pioggia di scintille purpuree dal tuo incantesimo. Tutti i nemici entro portata Vicina dal bersaglio primario devono superare una prova di **Evasione** contro la tua CD di Incantesimo o subire la condizione **Vulnerabile** fino all'inizio del tuo turno successivo.
+Quando utilizzi la caratteristica di classe dello Stregone *Incanalare Potere Grezzo (Channel Raw Power)*, puoi scegliere di marcare **1 Stress** per scatenare una pioggia di scintille purpuree dal tuo incantesimo. Tutti i nemici entro portata Vicina dal bersaglio primario devono superare un Tiro di Reazione di Agilità contro la tua Difficoltà di Incantesimo o subire la condizione **Vulnerabile** fino all'inizio del tuo turno successivo.
 
 ## Caratteristiche di Maestria
 

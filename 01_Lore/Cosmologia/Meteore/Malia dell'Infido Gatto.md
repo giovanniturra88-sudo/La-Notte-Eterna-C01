@@ -6,13 +6,13 @@ type: Artefatto
 
 [[Maskarr]] è un dio avvolto nel mistero, l'unica certezza è che il dio ama giocare con le vite mortali e divine in egual misura. Nel suo grande gioco ha deciso volontariamente di scagliare questa maschera sulla terra con l'esatto scopo di gettare scompiglio. La maschera è nera e rappresenta il muso di un gatto dall'espressione enigmatica.
 ## Vista Acuta
-La maschera dona una vista acuta al portatore, fornendogli competenza nelle prove di Saggezza (Percezione). Il suo livello raddoppia in ogni prova di caratteristica effettuata utilizzando tale abilità. Inoltre il personaggio ottiene scurovisione fino a 36 m.
+La maschera dona una vista acuta al portatore, fornendogli competenza nelle prove di Istinto (Percezione). Il suo livello raddoppia in ogni prova di caratteristica effettuata utilizzando tale abilità. Inoltre il personaggio ottiene scurovisione fino a 36 m.
 ## Voce Suadente
-Le parole del portatore della maschera suonano sempre molto convincenti e dal tono accomodante e sicuro. Il personaggio ottiene competenza nelle prove di Carisma (Inganno). Il suo livello raddoppia in ogni prova di caratteristica effettuata utilizzando tale abilità.
+Le parole del portatore della maschera suonano sempre molto convincenti e dal tono accomodante e sicuro. Il personaggio ottiene competenza nelle prove di Presenza (Inganno). Il suo livello raddoppia in ogni prova di caratteristica effettuata utilizzando tale abilità.
 ## Agilità Felina
 La velocità del personaggio aumenta di 3 m e dimezza i danni da caduta, inoltre la sua distanza di salto in lungo e in alto è raddoppiata.
 ## Infidi Artigli
-Usando un' il personaggio può estrarre degli artigli che infliggono 1d6 danni taglienti + il modificatore di Agilità del personaggio. Può rinfoderare gli artigli usando un'altra.
+Usando un'azione il personaggio può estrarre degli artigli che infliggono 1d6 danni taglienti + il modificatore di Agilità del personaggio. Può rinfoderare gli artigli spendendo un'altra azione.
 ## Comunicazione Felina
 Il personaggio può parlare con i gatti e comprenderli.
 ## Passo Felpato

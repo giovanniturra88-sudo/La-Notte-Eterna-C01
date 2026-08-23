@@ -39,7 +39,7 @@ Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesanteme
 * **Durata:** 1 Scena
 * **Gittata:** Medio (Far)
 
-Segni una creatura con il potere decadente della luna. Il bersaglio deve effettuare un Tiro Salvezza (Difficoltà pari al tuo Tiro Magico): se fallisce subisce `3d8` Danni Radiosi ed ottiene gli stati **Accecato** e **Trattenuto**. All'inizio di ogni suo turno subisce ulteriore danno finché non supera una prova per liberarsi.
+Segni una creatura con il potere decadente della luna. Il bersaglio deve effettuare un Tiro di Reazione (Difficoltà pari al tuo Tiro Magico): se fallisce subisce `3d8` Danni Radiosi ed ottiene gli stati **Accecato** e **Trattenuto**. All'inizio di ogni suo turno subisce ulteriore danno finché non supera una prova per liberarsi.
 
 ---
 

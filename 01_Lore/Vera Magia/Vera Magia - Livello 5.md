@@ -29,14 +29,14 @@ Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta 
 Cree una frusta d'energia arcana che infligge `3d8` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
 - **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `2d6` danni da urto).
 - **Bloccare:** La creatura viene **Trattenuta** e subisce danni continui.
-- **Scarica Arcana:** Consumi l'capacità magica per l'ultimo colpo devastante che infligge `6d8` danni Magici.
+- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `6d8` danni Magici.
 
 ---
 
 ### Fulmine Istantaneo di Fahrn
 * **Livello:** 5
 * **Costo:** 2 Speranza + 1 Paura concessa al GM
-* **Tiro d me Magia:** Automatico / Tiro Salvezza Bersaglio
+* **Tiro di Magia:** Automatico / Tiro di Reazione del Bersaglio
 * **Durata:** Istantaneo
 * **Gittata:** Estrema (Entro il raggio visivo/mappa)
 
@@ -51,7 +51,7 @@ Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il b
 * **Durata:** 1 Scena
 * **Gittata:** Contatto / Personale
 
-Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene **Vantaggio a TUTTI i Tiri Salvezza** e un bonus di **+2 all'Evasione (Evasion)** per la durata della Scena. Se viene attaccato in mischia, può immediatamente spendere una reazione per effettuare un attacco di risposta.
+Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene **Vantaggio a TUTTI i Tiri di Reazione** e un bonus di **+2 all'Evasione (Evasion)** per la durata della Scena. Se viene attaccato in mischia, può immediatamente spendere una reazione per effettuare un attacco di risposta.
 
 ---
 

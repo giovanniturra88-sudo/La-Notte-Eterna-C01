@@ -28,7 +28,7 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Maestria
-**_Eroe di Ventura:_** Sei invincibile sul campo di battaglia. Quando utilizzi la caratteristica *Indomito*, effettui il tiro salvezza con vantaggio. Inoltre, una volta per scena, puoi spendere 1 Speranza per convertire un successo nemico contro di te in un fallimento con Timore.
+**_Eroe di Ventura:_** Sei invincibile sul campo di battaglia. Quando utilizzi la caratteristica *Indomito*, effettui il Tiro di Reazione con vantaggio. Inoltre, una volta per scena, puoi spendere 1 Speranza per convertire un successo nemico contro di te in un fallimento con Timore.
 
 ---
 

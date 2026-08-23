@@ -35,7 +35,7 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 ---
 
 #### **TRATTI SPECIALI**
-- **Resilienza Nanica:** Dorgar ha vantaggio ai tiri salvezza contro veleni e incantesimi.
+- **Resilienza Nanica:** Dorgar ha vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
 - **Inamovibile:** Dorgar non può essere spinto, buttato prono o mosso contro la sua volontà se si trova su una superficie di pietra o terra.
 
 #### **AZIONI**

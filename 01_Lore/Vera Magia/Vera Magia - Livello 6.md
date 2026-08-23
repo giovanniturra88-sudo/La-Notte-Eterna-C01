@@ -56,7 +56,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 * **Terreno Pericoloso Finto:** Se una creatura interagisce con un rischio illusorio che non esiste nella realtà, deve superare un **Tiro di Reazione su Conoscenza/Istinto (Difficoltà 15)** o subire **5d10 Danni Psichici** e scoprire la natura dell'illusione.
 * **Terreno Pericoloso Reale Nascosto:** Se un rischio reale viene nascosto dall'illusione, chi vi entra subisce gli effetti del terreno con **Svantaggio** alla prova per evitarlo.
 * **Indagare l'Illusione:** Una creatura può spendere un'Azione per esaminare il miraggio superando una prova di *Conoscenza* o *Istinto* contro la tua Difficoltà Magica. In caso di successo, vede attraverso l'illusione, ma le cose rese invisibili rimangono tali per lei.
-* **Estensione:** Prima che l'capacità magica termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.
+* **Estensione:** Prima che la capacità magica termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.
 
 ---
 

@@ -23,7 +23,7 @@ Chierici e cultisti devoti del semidio [[Tenebris]], che stringono patti inferna
 ---
 
 ### Specializzazione
-**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Vicina. Essi devono effettuare un TS Forza contro la tua CD Incantesimo; in caso di fallimento, sono considerati Ristretti (Restrained) da catene di acciaio bollente per 1 round.
+**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Vicina. Devono effettuare un Tiro di Reazione di Forza contro la tua Difficoltà di Incantesimo; in caso di fallimento, sono considerati Ristretti (*Restrained*) da catene di acciaio bollente per 1 round.
 **_Aguzzino Competente:_** Ottieni vantaggio permanente su tutte le prove di Intimidire.
 
 ---

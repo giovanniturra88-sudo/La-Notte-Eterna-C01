@@ -35,7 +35,7 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 
 #### **TRATTI SPECIALI**
 - **Comando della Sovrana:** Un alleato entro 18 m che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa usa l'azione di attacco.
-- **Resistenza Magica:** Ha vantaggio ai tiri salvezza contro incantesimi ed altri effetti magici.
+- **Resistenza Magica:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
 
 #### **AZIONI**
 - **Multiattacco:** La Principessa Xanesh effettua due attacchi con la Sciabola Cosmica o due dardi di Energia Astrale.
