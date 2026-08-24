@@ -23,7 +23,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
  * **Lama Danzante:** +4 | Prossima | 3d8+5 danni taglienti e radianti
 * **Tratti e Capacità:**
  * **Scurovisione - Passiva:** vede nel buio (18 m).
- * **Maestro del Duello - Passiva:** Quando impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene +2 alle prove di danno (già calcolato) e +2 alla Difficoltà dei tiri d'attacco contro di lui.
+ * **Maestro del Duello - Passiva:** Quando impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene +2 ai tiri di danno (già calcolato) e +2 alla Difficoltà dei tiri d'attacco contro di lui.
  * **Riflessi Fulminei - Passiva:** Ha una reazione extra a ogni round, utilizzabile solo per Parata o un attacco di opportunità.
  * **Resistenza Fisica - Passiva:** Resiste ai danni fisici (contundenti, perforanti e taglienti).
  * **Imperturbabile - Passiva:** Immune alla paura.
@@ -34,7 +34,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 ---
 
 #### **TRATTI SPECIALI**
-- **Maestro del Duello:** Quando Arkanis impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene un bonus di +2 alle prove di danno (già calcolato) e +2 alla Difficoltà.
+- **Maestro del Duello:** Quando Arkanis impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene un bonus di +2 ai tiri di danno (già calcolato) e +2 alla Difficoltà.
 - **Riflessi Fulminei:** Arkanis ha una reazione extra ad ogni round, utilizzabile solo per effettuare Parata o Attacco di Opportunità.
 
 #### **AZIONI**
