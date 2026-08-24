@@ -11,4 +11,4 @@ Titolo Inglese:
 **Segna uno Stress** per evocare coleotteri corazzati che ti circondano. Quando subirai il prossimo danno, riducine la gravità di un livello. Puoi **spendere una Speranza** per mantenere i coleotteri evocati anche dopo aver subito danno.
 
 ## Lucciole
-Effettua un **Tiro di Lancio Magia** contro tutti i nemici entro portata Ravvicinata. **Spendi una Speranza** per infliggere **2d8+3** danni magici ai bersagli contro cui hai avuto successo.
+Effettua un **Tiro Incantesimo** contro tutti i nemici entro portata Ravvicinata. **Spendi una Speranza** per infliggere **2d8+3** danni magici ai bersagli contro cui hai avuto successo.
