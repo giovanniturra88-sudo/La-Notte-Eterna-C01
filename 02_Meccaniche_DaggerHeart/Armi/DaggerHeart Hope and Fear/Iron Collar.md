@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Collare di Ferro
 
-**_Vincolante: Con un attacco riuscito, puoi spendere una Speranza per trattenere il bersaglio_**
+**_Trattenente: Con un attacco riuscito, puoi spendere una Speranza per trattenere il bersaglio_**
 
 ---
