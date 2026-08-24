@@ -5,7 +5,9 @@ type:
 
 # Kustaza
 
-> Pagina segnaposto: questa voce è citata da altre note ma non è ancora stata sviluppata.
+Tra gli stati delle [[Pianure di Xanesh]] gli stili architettonici variano in base alle caratteristiche storiche, sociali e geografiche di ciascun regno. In questo contesto, Kustaza è una città che rivendica con forza la sua appartenenza al Vecchio Impero, forse per resistere alla crescente influenza [[Karevi|karevi]] nella regione.
+
+Lo fa attraverso una scrupolosa manutenzione dell'infrastruttura e degli edifici civili e religiosi, che ricordano la [[Gundazar]] che fu.
 
 ## Citata da
 ```dataview
