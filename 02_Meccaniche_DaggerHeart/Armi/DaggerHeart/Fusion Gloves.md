@@ -8,7 +8,8 @@ original_name: "Fusion Gloves"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

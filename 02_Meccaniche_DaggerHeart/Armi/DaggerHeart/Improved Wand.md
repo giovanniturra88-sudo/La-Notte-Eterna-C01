@@ -8,7 +8,8 @@ original_name: "Improved Wand"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

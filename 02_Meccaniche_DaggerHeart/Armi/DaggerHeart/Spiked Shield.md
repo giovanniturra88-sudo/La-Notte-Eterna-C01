@@ -8,7 +8,8 @@ original_name: "Spiked Shield"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

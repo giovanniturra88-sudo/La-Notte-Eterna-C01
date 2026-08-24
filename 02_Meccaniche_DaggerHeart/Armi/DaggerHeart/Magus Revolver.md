@@ -8,7 +8,8 @@ original_name: "Magus Revolver"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

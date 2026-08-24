@@ -8,7 +8,8 @@ original_name: "Improved Hand Runes"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

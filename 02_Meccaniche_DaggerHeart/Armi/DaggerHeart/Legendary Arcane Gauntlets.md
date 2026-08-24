@@ -8,7 +8,8 @@ original_name: "Legendary Arcane Gauntlets"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

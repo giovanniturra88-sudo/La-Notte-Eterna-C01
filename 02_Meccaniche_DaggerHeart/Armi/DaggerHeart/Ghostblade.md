@@ -8,7 +8,8 @@ original_name: "Ghostblade"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

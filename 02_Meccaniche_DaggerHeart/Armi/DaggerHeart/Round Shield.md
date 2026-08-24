@@ -8,7 +8,8 @@ original_name: "Round Shield"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

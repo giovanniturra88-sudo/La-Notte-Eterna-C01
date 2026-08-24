@@ -8,7 +8,8 @@ original_name: "Advanced Shortsword"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

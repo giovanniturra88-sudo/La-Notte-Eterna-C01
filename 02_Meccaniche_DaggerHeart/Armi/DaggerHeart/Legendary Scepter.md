@@ -8,7 +8,8 @@ original_name: "Legendary Scepter"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

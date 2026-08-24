@@ -8,7 +8,8 @@ original_name: "Urok Broadsword"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

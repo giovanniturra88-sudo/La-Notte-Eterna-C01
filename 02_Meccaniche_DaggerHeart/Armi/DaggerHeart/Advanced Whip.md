@@ -8,7 +8,8 @@ original_name: "Advanced Whip"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

@@ -2,12 +2,14 @@
 alias: ["Grappler Avanzato"]
 categoria: equipaggiamento
 danno: d6+4
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Advanced Grappler"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

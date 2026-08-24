@@ -8,7 +8,8 @@ original_name: "Legendary Round Shield"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

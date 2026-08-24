@@ -8,7 +8,8 @@ original_name: "Primer Shard"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

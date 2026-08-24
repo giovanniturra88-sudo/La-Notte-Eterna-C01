@@ -8,7 +8,8 @@ original_name: "Double Flail"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

@@ -8,7 +8,8 @@ original_name: "Scepter"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

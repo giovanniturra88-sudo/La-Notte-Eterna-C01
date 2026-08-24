@@ -8,7 +8,8 @@ original_name: "Wand"
 ruolo: ""
 tier: 1
 tipo_danno: magica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

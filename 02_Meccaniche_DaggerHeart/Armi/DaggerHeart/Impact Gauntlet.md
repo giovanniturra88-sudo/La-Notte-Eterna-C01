@@ -8,7 +8,8 @@ original_name: "Impact Gauntlet"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

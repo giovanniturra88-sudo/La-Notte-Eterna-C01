@@ -8,7 +8,8 @@ original_name: "Flickerfly Blade"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

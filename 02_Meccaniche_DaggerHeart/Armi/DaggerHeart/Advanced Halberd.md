@@ -2,12 +2,14 @@
 alias: ["Alabarda Avanzata"]
 categoria: equipaggiamento
 danno: d10+8
-gittata: ravvicinatoingombro: "due mani"
+gittata: ravvicinato
+ingombro: "due mani"
 original_name: "Advanced Halberd"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

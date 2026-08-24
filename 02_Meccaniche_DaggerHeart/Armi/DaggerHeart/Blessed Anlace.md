@@ -8,7 +8,8 @@ original_name: "Blessed Anlace"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

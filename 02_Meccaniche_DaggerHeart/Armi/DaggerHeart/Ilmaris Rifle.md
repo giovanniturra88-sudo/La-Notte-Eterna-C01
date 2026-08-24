@@ -8,7 +8,8 @@ original_name: "Ilmari's Rifle"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

@@ -2,12 +2,14 @@
 alias: ["Lama da Corda Oscillante"]
 categoria: equipaggiamento
 danno: d8+9
-gittata: ravvicinatoingombro: "due mani"
+gittata: ravvicinato
+ingombro: "due mani"
 original_name: "Swinging Ropeblade"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

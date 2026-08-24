@@ -8,7 +8,8 @@ original_name: "Steelforged Halberd"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

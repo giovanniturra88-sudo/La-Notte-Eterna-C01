@@ -8,7 +8,8 @@ original_name: "Dual-Ended Sword"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

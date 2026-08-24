@@ -8,7 +8,8 @@ original_name: "Improved Small Dagger"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

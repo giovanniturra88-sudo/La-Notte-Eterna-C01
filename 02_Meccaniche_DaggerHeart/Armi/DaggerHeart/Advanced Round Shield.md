@@ -8,7 +8,8 @@ original_name: "Advanced Round Shield"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 

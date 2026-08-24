@@ -2,12 +2,14 @@
 alias: ["Manopola Potenziata"]
 categoria: arma
 danno: d6+4
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Powered Gauntlet"
 ruolo: secondaria
 tier: 3
 tipo_danno: fisica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

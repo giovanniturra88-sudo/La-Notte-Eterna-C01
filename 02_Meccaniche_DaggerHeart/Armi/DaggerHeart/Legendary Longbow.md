@@ -8,7 +8,8 @@ original_name: "Legendary Longbow"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

@@ -8,7 +8,8 @@ original_name: "Rapier"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

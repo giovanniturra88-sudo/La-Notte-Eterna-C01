@@ -8,7 +8,8 @@ original_name: "Small Dagger"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

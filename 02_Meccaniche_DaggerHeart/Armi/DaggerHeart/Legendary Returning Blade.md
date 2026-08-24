@@ -2,12 +2,14 @@
 alias: ["Lama Ritornante Leggendaria"]
 categoria: arma
 danno: d8+9
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Legendary Returning Blade"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

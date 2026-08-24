@@ -8,7 +8,8 @@ original_name: "Crossbow"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

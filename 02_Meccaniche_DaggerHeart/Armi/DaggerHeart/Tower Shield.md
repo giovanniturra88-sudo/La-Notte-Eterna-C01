@@ -8,8 +8,12 @@ original_name: "Tower Shield"
 ruolo: secondaria
 tier: 1
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 
+### EFFETTO
+
+**_Barriera:_** +2 al Punteggio di Armatura; -1 all'Evasione
 ---

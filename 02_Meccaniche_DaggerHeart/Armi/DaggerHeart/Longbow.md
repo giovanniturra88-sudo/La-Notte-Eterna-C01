@@ -8,7 +8,8 @@ original_name: "Longbow"
 ruolo: primaria
 tier: 1
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

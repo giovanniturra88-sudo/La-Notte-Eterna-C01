@@ -8,8 +8,12 @@ original_name: "Improved Broadsword"
 ruolo: primaria
 tier: 2
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 
+### EFFETTO
+
+**_Affidabile:_** +1 ai tiri d'attacco
 ---

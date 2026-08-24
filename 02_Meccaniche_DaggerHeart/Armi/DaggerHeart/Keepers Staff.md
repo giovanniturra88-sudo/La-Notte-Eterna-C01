@@ -8,7 +8,8 @@ original_name: "Keeper's Staff"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

@@ -8,7 +8,8 @@ original_name: "Retractable Saber"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

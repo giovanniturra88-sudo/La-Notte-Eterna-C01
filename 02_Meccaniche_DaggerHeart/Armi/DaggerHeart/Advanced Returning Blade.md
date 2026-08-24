@@ -2,7 +2,8 @@
 alias: ["Lama Ritornante Avanzata"]
 categoria: arma
 danno: d8+6
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Advanced Returning Blade"
 ruolo: primaria
 tier: 3

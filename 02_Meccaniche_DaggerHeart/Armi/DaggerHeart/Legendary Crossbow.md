@@ -8,7 +8,8 @@ original_name: "Legendary Crossbow"
 ruolo: primaria
 tier: 4
 tipo_danno: fisica
-tratto: astuziatype: 
+tratto: astuzia
+type: 
   - "[[Arma]]"
 ---
 

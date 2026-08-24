@@ -8,8 +8,12 @@ original_name: "Improved Round Shield"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: forzatype: 
+tratto: forza
+type: 
   - "[[Arma]]"
 ---
 
+### EFFETTO
+
+**_Protettivo:_** +2 al Punteggio di Armatura
 ---

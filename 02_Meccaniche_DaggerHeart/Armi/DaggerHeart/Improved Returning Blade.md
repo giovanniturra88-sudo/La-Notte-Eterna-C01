@@ -2,7 +2,8 @@
 alias: ["Lama Ritornante Migliorata"]
 categoria: arma
 danno: d8+3
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Improved Returning Blade"
 ruolo: primaria
 tier: 2

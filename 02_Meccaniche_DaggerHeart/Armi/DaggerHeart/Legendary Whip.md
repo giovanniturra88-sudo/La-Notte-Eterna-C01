@@ -8,7 +8,8 @@ original_name: "Legendary Whip"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

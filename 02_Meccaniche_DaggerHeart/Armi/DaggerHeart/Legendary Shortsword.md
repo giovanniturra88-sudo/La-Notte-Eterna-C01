@@ -8,7 +8,8 @@ original_name: "Legendary Shortsword"
 ruolo: secondaria
 tier: 4
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

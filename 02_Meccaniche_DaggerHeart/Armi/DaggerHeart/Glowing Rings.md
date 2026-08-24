@@ -8,7 +8,8 @@ original_name: "Glowing Rings"
 ruolo: primaria
 tier: 1
 tipo_danno: magica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

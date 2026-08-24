@@ -8,7 +8,8 @@ original_name: "Improved Whip"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: presenzatype: 
+tratto: presenza
+type: 
   - "[[Arma]]"
 ---
 

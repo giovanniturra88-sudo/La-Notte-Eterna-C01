@@ -2,12 +2,14 @@
 alias: ["Bastone Corto Migliorato"]
 categoria: equipaggiamento
 danno: d8+4
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Improved Shortstaff"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

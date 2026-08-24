@@ -8,7 +8,8 @@ original_name: "Legendary Wand"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: conoscenzatype: 
+tratto: conoscenza
+type: 
   - "[[Arma]]"
 ---
 

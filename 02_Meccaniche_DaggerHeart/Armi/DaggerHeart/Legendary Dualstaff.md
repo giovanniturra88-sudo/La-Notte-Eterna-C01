@@ -8,7 +8,8 @@ original_name: "Legendary Dualstaff"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

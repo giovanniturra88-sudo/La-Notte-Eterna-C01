@@ -2,12 +2,14 @@
 alias: ["Ascia Ritornante"]
 categoria: arma
 danno: d6+4
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Returning Axe"
 ruolo: secondaria
 tier: 2
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 

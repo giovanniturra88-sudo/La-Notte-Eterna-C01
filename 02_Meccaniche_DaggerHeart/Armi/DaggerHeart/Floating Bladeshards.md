@@ -2,12 +2,14 @@
 alias: ["Lame Fluttuanti"]
 categoria: equipaggiamento
 danno: d8+9
-gittata: ravvicinatoingombro: "una mano"
+gittata: ravvicinato
+ingombro: "una mano"
 original_name: "Floating Bladeshards"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: istintotype: 
+tratto: istinto
+type: 
   - "[[Arma]]"
 ---
 

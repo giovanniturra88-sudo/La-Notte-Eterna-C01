@@ -2,12 +2,14 @@
 alias: ["Lame Artigliate"]
 categoria: equipaggiamento
 danno: d10+7
-gittata: ravvicinatoingombro: "due mani"
+gittata: ravvicinato
+ingombro: "due mani"
 original_name: "Talon Blades"
 ruolo: primaria
 tier: 3
 tipo_danno: fisica
-tratto: agilitàtype: 
+tratto: agilità
+type: 
   - "[[Arma]]"
 ---
 
