@@ -2,7 +2,7 @@
 alias: ["Castigatrice"]
 categoria: equipaggiamento
 danno: d10+6
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "una mano"
 original_name: "Castigatrice"
 ruolo: primaria

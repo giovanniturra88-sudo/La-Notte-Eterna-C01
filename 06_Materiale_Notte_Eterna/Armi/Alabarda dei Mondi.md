@@ -2,7 +2,7 @@
 alias: ["Alabarda dei Mondi"]
 categoria: equipaggiamento
 danno: d10+5
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "due mani"
 original_name: "Alabarda dei Mondi"
 ruolo: primaria

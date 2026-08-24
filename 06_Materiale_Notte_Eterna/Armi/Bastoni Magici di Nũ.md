@@ -2,7 +2,7 @@
 alias: ["Bastoni Magici di Nũ"]
 categoria: equipaggiamento
 danno: d8+3
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "una mano"
 original_name: "Bastoni Magici di Nũ"
 ruolo: primaria

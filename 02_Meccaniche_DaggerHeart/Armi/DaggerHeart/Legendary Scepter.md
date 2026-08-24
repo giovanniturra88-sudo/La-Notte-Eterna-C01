@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Versatile:_** Questo'arma può essere impiegata anche con le seguenti statistiche—Presenza, Corpo a Corpo, d8+6.
+**_Versatile:_** Questo'arma può essere impiegata anche con le seguenti statistiche—Presenza, Mischia, d8+6.
 ---

@@ -2,7 +2,7 @@
 alias: ["Furore degli Incubi"]
 categoria: equipaggiamento
 danno: d10+4
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "una mano"
 original_name: "Furore degli Incubi"
 ruolo: primaria

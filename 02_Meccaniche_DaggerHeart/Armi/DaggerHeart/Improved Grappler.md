@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Agganciato:_** In caso di attacco riuscito, puoi trascinare il bersaglio nella gittata Corpo a Corpo.
+**_Agganciato:_** In caso di attacco riuscito, puoi trascinare il bersaglio nella gittata Mischia.
 ---

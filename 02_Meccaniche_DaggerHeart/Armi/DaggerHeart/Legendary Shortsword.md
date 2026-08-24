@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Appaiato:_** +5 al danno dell'arma primaria contro i bersagli entro Portata Corpo a Corpo
+**_Appaiato:_** +5 al danno dell'arma primaria contro i bersagli entro Portata Mischia
 ---

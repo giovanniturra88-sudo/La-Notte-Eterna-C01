@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Doppia Funzione:_** +1 al Punteggio di Armatura; +1 al danno dell'arma primaria entro portata Corpo a Corpo
+**_Doppia Funzione:_** +1 al Punteggio di Armatura; +1 al danno dell'arma primaria entro portata Mischia
 ---

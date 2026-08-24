@@ -2,7 +2,7 @@
 alias: ["Blackdoom"]
 categoria: equipaggiamento
 danno: d12+8
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "due mani"
 original_name: "Blackdoom"
 ruolo: primaria

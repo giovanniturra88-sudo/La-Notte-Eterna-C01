@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Accoppiato:_** +4 al danno dell'arma primaria contro i bersagli entro gittata Corpo a Corpo
+**_Accoppiato:_** +4 al danno dell'arma primaria contro i bersagli entro gittata Mischia
 ---

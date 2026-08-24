@@ -22,7 +22,7 @@ Indipendentemente dall'apparenza, tutti i vampiri possiedono abilità potenziate
 ## Caratteristiche della Trasformazione
 
 ### Zanne (Fangs)
-Effettuare un attacco usando un tratto a tua scelta per mordere un bersaglio entro portata Corpo a Corpo. In caso di successo, infliggi **d6 danni fisici** usando la tua Competenza.
+Effettuare un attacco usando un tratto a tua scelta per mordere un bersaglio entro portata Mischia. In caso di successo, infliggi **d6 danni fisici** usando la tua Competenza.
 
 ### Nutrirsi (Feed)
 Dopo un attacco "Zanne" di successo contro una creatura che può sanguinare, puoi segnare 1 Stress per nutrirTi. Piazza un numero di gettoni su questa carta uguale al numero di Punti Ferita che segni alla creatura. Puoi tenere fino a **6 gettoni** totali.

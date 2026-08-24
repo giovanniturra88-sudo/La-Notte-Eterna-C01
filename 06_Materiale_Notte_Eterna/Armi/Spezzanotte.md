@@ -2,7 +2,7 @@
 alias: ["Spezzanotte"]
 categoria: equipaggiamento
 danno: d10+5
-gittata: corpo a corpo
+gittata: mischia
 ingombro: "una mano"
 original_name: "Spezzanotte"
 ruolo: primaria

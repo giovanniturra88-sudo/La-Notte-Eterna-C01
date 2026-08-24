@@ -8,4 +8,4 @@ Titolo Inglese:
 ---
 
 **Spendi una Speranza** per evocare uno spirito dell'altezza di un umano che può muoversi o trasportare cose per te fino al tuo prossimo riposo.
-Puoi anche inviarlo ad attaccare un avversario. Quando lo fai, effettua un **Tiro Incantesimo** contro un bersaglio entro portata Remota. Se ha successo, lo spirito si muove a distanza Corpo a Corpo con quel bersaglio. Lancia un numero di **d6** uguale alla tua tratto da Incantatore e infliggi quell'ammontare di danni magici al bersaglio. Lo spirito si dissolve successivamente. Puoi avere un solo spirito alla volta.
+Puoi anche inviarlo ad attaccare un avversario. Quando lo fai, effettua un **Tiro Incantesimo** contro un bersaglio entro portata Remota. Se ha successo, lo spirito si muove a distanza di Mischia con quel bersaglio. Lancia un numero di **d6** uguale alla tua tratto da Incantatore e infliggi quell'ammontare di danni magici al bersaglio. Lo spirito si dissolve successivamente. Puoi avere un solo spirito alla volta.

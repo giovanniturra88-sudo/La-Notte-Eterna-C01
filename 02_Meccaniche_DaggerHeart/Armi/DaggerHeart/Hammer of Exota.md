@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Eruttivo:_** Quando colpisci con successo un bersaglio entro portata Corpo a Corpo, tutti gli altri avversari entro portata Prossima devono superare un tiro di reazione (14) oppure subire metà del danno.
+**_Eruttivo:_** Quando colpisci con successo un bersaglio entro portata Mischia, tutti gli altri avversari entro portata Prossima devono superare un tiro di reazione (14) oppure subire metà del danno.
 ---
