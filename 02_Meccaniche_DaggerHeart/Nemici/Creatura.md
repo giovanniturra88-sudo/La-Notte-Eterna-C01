@@ -220,7 +220,7 @@ Questa pagina elenca tutti i nemici presenti nel progetto, organizzati per fonte
 - [[Madre dell'Acqua]]
 - [[Mago dall'Anima Sfrantumata]]
 - [[Mangiaruggine]]
-- [[Manticore]]
+- [[Manticora]]
 - [[Masque Muerte]]
 - [[Mawb di Rabble]]
 - [[Mechanorb]]

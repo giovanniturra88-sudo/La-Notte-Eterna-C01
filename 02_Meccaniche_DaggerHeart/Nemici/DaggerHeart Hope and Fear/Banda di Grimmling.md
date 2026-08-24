@@ -8,7 +8,7 @@ aliases:
 
 ## Banda di Grimmling
 * **Descrizione:** Un grappolo di piccole creature bizzarre, che indossano armature fatte con spazzatura e suppellettili rubate.
-* **Rango:** 1 (Orda, 4 PF)
+* **Rango:** 1 (Orda, 4/PF)
 * **Difficoltà:** 12
 * **Soglie di Danno:** 5/11
 * **Punti Ferita:** 3 | **Stress:** 2

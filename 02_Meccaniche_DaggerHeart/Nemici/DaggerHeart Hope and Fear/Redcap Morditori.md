@@ -8,7 +8,7 @@ aliases:
 
 ## Redcap Morditori
 * **Descrizione:** Un gruppo di creature fey grandi come un pugno, con denti affilati come aghi e cappucci rossi conici sigillati sulla loro testa con cera di candela.
-* **Rango:** 1 (Orda, 3 PF)
+* **Rango:** 1 (Orda, 3/PF)
 * **Difficoltà:** 10
 * **Soglie di Danno:** 6/11
 * **Punti Ferita:** 5 | **Stress:** 3

@@ -8,7 +8,7 @@ aliases:
 
 ## Legione Spettrale
 * **Descrizione:** Un esercito brulicante di fantasmi, risvegliato da un sonno senza sogni per adempiere al loro antico giuramento.
-* **Rango:** 4 (Orda, 10 PF)
+* **Rango:** 4 (Orda, 10/PF)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 25/45
 * **Punti Ferita:** 8 | **Stress:** 5

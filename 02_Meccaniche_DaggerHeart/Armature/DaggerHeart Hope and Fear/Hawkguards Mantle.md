@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Hawkguard's Mantle"
-alias: ["Manto del Guardianofalco"]
+alias: ["Manto del Falcoguardiano"]
 tier: 2
 ---
 
-# Manto del Guardianofalco
+# Manto del Falcoguardiano
 
 **Livello 2–4** _Armatura_
 

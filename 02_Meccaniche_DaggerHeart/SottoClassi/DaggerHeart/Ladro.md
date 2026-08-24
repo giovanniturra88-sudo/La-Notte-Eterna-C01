@@ -5,7 +5,7 @@ classe:
   - "[[Rogue]]"
 Dominio:
   - "[[Grazia]]"
-  - "[[MezzaNotte]]"
+  - "[[Mezzanotte]]"
 spellcast_trait: Astuzia
 ---
 

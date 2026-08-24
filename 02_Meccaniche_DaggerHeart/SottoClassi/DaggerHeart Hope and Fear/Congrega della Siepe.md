@@ -4,7 +4,7 @@ classe:
   - "[[Witch]]"
 source: DaggerHeart Hope and Fear
 Dominio:
-  - "[[Saggio]]"
+  - "[[Saggezza]]"
   - "[[Terrore]]"
 spellcast_trait: Istinto
 ---

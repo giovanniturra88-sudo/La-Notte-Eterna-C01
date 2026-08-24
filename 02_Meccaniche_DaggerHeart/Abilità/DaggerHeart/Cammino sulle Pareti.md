@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 1
-Dominio: "[[Arcana]]"
+Dominio: "[[Arcano]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Magia]]"
 Titolo Inglese: Wall Walk

@@ -8,7 +8,7 @@ aliases:
 
 ## Sciame Darkweave
 * **Descrizione:** Uno sciame brulicante di minuscoli ragni tessuti con seta d'ombra.
-* **Rango:** 1 (Orda, 8 PF)
+* **Rango:** 1 (Orda, 8/PF)
 * **Difficoltà:** 9
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 8 | **Stress:** 4

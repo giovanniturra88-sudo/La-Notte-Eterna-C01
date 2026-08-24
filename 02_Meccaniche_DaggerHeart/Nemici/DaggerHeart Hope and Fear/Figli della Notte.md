@@ -8,7 +8,7 @@ aliases:
 
 ## Figli della Notte
 * **Descrizione:** Un assortimento brulicante di demoni notturni sotto il giogo di un'antica malvagità.
-* **Rango:** 3 (Orda, 2 PF)
+* **Rango:** 3 (Orda, 2/PF)
 * **Difficoltà:** 16
 * **Soglie di Danno:** 17/32
 * **Punti Ferita:** 7 | **Stress:** 4

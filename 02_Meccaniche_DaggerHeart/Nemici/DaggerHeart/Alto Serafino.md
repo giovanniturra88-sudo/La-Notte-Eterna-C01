@@ -45,5 +45,5 @@ capacita_speciali:
   - name: "Raggi Divini"
     desc: "*- Azione:* Segnare uno Stress per riflettere una fettina di divinità sotto forma di raggio di luce che colpisce fino a venti bersagli entro portata Remota. I bersagli devono effettuare un Tiro di Reazione di Presenza, con svantaggio se sono segnati come Colpevoli. Chi fallisce subisce 4d6+12 danni magici. Chi riesce subisce metà danno."
   - name: "Siamo Uno"
-    desc: "*- Azione:* Una volta per scena, spendere una Paura per mettere a fuoco tutti gli altri avversari entro portata Ravvicinata. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono metà danno."
+    desc: "*- Azione:* Una volta per scena, spendere una Paura per mettere a fuoco tutti gli altri avversari entro portata Lontana. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono metà danno."
 ```

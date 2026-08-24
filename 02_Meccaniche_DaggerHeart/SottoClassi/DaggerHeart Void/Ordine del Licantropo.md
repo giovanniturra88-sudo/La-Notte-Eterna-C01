@@ -31,7 +31,7 @@ La bestia spinge per prendere il sopravvento. Quando ottieni Speranza mentre sei
 ### CARATTERISTICHE DI SPECIALIZZAZIONE
 
 #### Focus Bestiale (Bestial Focus)
-Una volta per riposo, puoi posizionare una carta dominio della tua mano nella tua dotazione (Vault), quindi eliminare un ammontare di **Stress** pari al Costo di Richiamo (Recall Cost) di quella carta.
+Una volta per riposo, puoi posizionare una carta dominio della tua mano nella tua riserva (Vault), quindi eliminare un ammontare di **Stress** pari al Costo di Richiamo (Recall Cost) di quella carta.
 
 #### Potenziamento Feral (Feral Empowerment)
 Il dado bonus ottenuto dalla tua caratteristica *Forma Ibrida* aumenta a **1d6**.

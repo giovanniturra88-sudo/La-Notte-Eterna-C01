@@ -8,7 +8,7 @@ aliases:
 
 ## Mawb di Rabble
 * **Descrizione:** Queste palle di pelame, arti e denti grandi come gatti viaggiano in un "mawb" di una dozzina.
-* **Rango:** 1 (Orda, 3 PF)
+* **Rango:** 1 (Orda, 3/PF)
 * **Difficoltà:** 8
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 4 | **Stress:** 2

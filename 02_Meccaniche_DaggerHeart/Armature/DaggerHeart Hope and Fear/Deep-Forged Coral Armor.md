@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Deep-Forged Coral Armor"
-alias: ["Corazza Corallinfondata"]
+alias: ["Corazza di Corallo delle Profondità"]
 tier: 3
 ---
 
-# Corazza Corallinfondata
+# Corazza di Corallo delle Profondità
 
 **Livello 5–7** _Armatura_
 

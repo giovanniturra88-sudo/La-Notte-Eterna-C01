@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Grimorio
 
-Libro o raccolta di incantesimi e capacità magiche consultabile dal personaggio per lanciare o preparare effetti.
+Libro o raccolta di incantesimi e capacità magiche consultabile dal personaggio per lanciare effetti.
 
 ## Voci correlate
 - [[Incantesimo]]

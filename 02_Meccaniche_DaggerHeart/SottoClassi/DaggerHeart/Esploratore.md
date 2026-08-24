@@ -5,7 +5,7 @@ classe:
   - "[[Ranger]]"
 Dominio:
   - "[[Ossa]]"
-  - "[[Saggio]]"
+  - "[[Saggezza]]"
 spellcast_trait: Agilità
 ---
 

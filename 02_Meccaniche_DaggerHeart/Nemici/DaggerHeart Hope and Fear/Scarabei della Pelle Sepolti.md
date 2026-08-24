@@ -8,7 +8,7 @@ aliases:
 
 ## Scarabei della Pelle Sepolti
 * **Descrizione:** Scarabei carnivori che si infossano sotto la pelle.
-* **Rango:** 2 (Orda, 5 PF)
+* **Rango:** 2 (Orda, 5/PF)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 10/20
 * **Punti Ferita:** 5 | **Stress:** 3

@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 2
-Dominio: "[[Saggio]]"
+Dominio: "[[Saggezza]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:

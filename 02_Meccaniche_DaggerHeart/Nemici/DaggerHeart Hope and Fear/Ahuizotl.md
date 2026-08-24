@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Attaccante Acquatico - Passiva:** Quando l'Ahuizotl attacca dall'acqua, ha vantaggio sull'attacco e infligge 1d6 danni aggiuntivi.
  * **Schiaffo della Coda - Azione:** Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Prossima. In caso di successo, infliggi 1d8+2 danni fisici.
- * **Trascina e Affonda - Azione:** Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Ravvicinata con la coda, trascinarlo in portata Ravvicinata e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Trattenuti in questo modo.
+ * **Trascina e Affonda - Azione:** Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Ravvicinata con la coda, trascinarlo in portata Mischia e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Trattenuti in questo modo.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -39,5 +39,5 @@ capacita_speciali:
   - name: "Schiaffo della Coda"
     desc: "*- Azione:* Segna uno Stress per effettuare un attacco contro un bersaglio entro portata Prossima. In caso di successo, infliggi 1d8+2 danni fisici."
   - name: "Trascina e Affonda"
-    desc: "*- Azione:* Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Ravvicinata con la coda, trascinarlo in portata Ravvicinata e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Trattenuti in questo modo."
+    desc: "*- Azione:* Spendere una Paura per far afferrare all'Ahuizotl un bersaglio entro portata Ravvicinata con la coda, trascinarlo in portata Mischia e trattenerlo temporaneamente. L'Ahuizotl ha vantaggio sugli attacchi contro bersagli Trattenuti in questo modo."
 ```

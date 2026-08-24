@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Circle-Forged Dreadplate"
-alias: ["Piastra Cerchiaforzata"]
+alias: ["Corazza del Terrore Forgiata nel Cerchio"]
 tier: 4
 ---
 
-# Piastra Cerchiaforzata
+# Corazza del Terrore Forgiata nel Cerchio
 
 **Livello 8–10** _Armatura_
 

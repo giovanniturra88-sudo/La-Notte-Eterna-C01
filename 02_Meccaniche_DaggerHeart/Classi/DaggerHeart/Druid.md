@@ -8,7 +8,7 @@ Hai scelto il percorso del Druido.
 I druidi proteggono la natura selvaggia e ne traggono un potere magico immenso, controllando gli elementi della terra e trasformandosi in possenti bestie feroci.
 
 ---
-- **DOMINI -** [[Saggio]] & [[Arcana]]
+- **DOMINI -** [[Saggezza]] & [[Arcano]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +1 Agilità, +0 Forza, +1 Astuzia, +2 Istinto, -1 Presenza, +0 Conoscenza

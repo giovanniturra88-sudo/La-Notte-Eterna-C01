@@ -4,8 +4,8 @@ source: DaggerHeart
 classe:
   - "[[Sorcerer]]"
 Dominio:
-  - "[[Arcana]]"
-  - "[[MezzaNotte]]"
+  - "[[Arcano]]"
+  - "[[Mezzanotte]]"
 spellcast_trait: Istinto
 ---
 

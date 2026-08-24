@@ -8,7 +8,7 @@ aliases:
 
 ## Branco di Bestie Piumate
 * **Descrizione:** Un branco di corpi non-morti di corvi, con occhi che brillano di luce necroplasmica.
-* **Rango:** 2 (Orda, 3 PF)
+* **Rango:** 2 (Orda, 3/PF)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 10/20
 * **Punti Ferita:** 5 | **Stress:** 3

@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 4
-Dominio: "[[MezzaNotte]]"
+Dominio: "[[Mezzanotte]]"
 Costo di Richiamo: 0
 Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:

@@ -8,7 +8,7 @@ aliases:
 
 ## Coro Sacro
 * **Descrizione:** Un'ostale celeste di umanoidi alati, il cui canto evoca lacrime di devozione religiosa.
-* **Rango:** 4 (Orda, 6 PF)
+* **Rango:** 4 (Orda, 6/PF)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 24/48
 * **Punti Ferita:** 7 | **Stress:** 6

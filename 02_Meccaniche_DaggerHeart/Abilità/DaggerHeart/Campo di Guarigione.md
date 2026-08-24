@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 4
-Dominio: "[[Saggio]]"
+Dominio: "[[Saggezza]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Magia]]"
 Titolo Inglese: Healing Field

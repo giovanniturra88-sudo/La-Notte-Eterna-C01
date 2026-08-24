@@ -8,7 +8,7 @@ Hai scelto il percorso della Strega.
 Le streghe comunicano con gli spiriti degli antenati e le forze elementali. Attraverso incantesimi, talismani e macabre fatture (hex), modellano la realtà.
 
 ---
-- **DOMINI -** [[Saggio]] & [[Terrore]]
+- **DOMINI -** [[Saggezza]] & [[Terrore]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** 0 Agilità, -1 Forza, 0 Astuzia, +2 Istinto, +1 Presenza, +1 Conoscenza

@@ -8,7 +8,7 @@ Hai scelto il percorso del Stregone.
 Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre nelle loro vene e che imparano a incanalare ed estendere in modi imprevedibili.
 
 ---
-- **DOMINI -** [[Arcana]] & [[MezzaNotte]]
+- **DOMINI -** [[Arcano]] & [[Mezzanotte]]
 - **EVASIONE INIZIALE -** 10
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +0 Agilità, -1 Forza, +1 Astuzia, +2 Istinto, +1 Presenza, +0 Conoscenza

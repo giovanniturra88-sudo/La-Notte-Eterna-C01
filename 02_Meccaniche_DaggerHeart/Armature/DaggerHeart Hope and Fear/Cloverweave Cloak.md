@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Cloverweave Cloak"
-alias: ["Mantello Tess trifido"]
+alias: ["Mantello Tessuto a Trifoglio"]
 tier: 3
 ---
 
-# Mantello Tess trifido
+# Mantello Tessuto a Trifoglio
 
 **Livello 5–7** _Armatura_
 

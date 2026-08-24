@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 6
-Dominio: "[[Arcana]]"
+Dominio: "[[Arcano]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Magia]]"
 Titolo Inglese:

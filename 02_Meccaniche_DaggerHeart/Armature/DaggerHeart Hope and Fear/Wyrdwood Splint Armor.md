@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Wyrdwood Splint Armor"
-alias: ["Corazza Spintrayard"]
+alias: ["Corazza a Stecche di Legno del Fato"]
 tier: 2
 ---
 
-# Corazza Spintrayard
+# Corazza a Stecche di Legno del Fato
 
 **Livello 2–4** _Armatura_
 

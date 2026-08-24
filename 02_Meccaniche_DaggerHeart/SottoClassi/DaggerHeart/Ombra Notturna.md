@@ -4,7 +4,7 @@ source: DaggerHeart
 classe:
   - "[[Rogue]]"
 Dominio:
-  - "[[MezzaNotte]]"
+  - "[[Mezzanotte]]"
   - "[[Grazia]]"
 spellcast_trait: Astuzia
 ---

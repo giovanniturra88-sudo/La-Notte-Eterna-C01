@@ -4,8 +4,8 @@ source: DaggerHeart
 classe:
   - "[[Druid]]"
 Dominio:
-  - "[[Saggio]]"
-  - "[[Arcana]]"
+  - "[[Saggezza]]"
+  - "[[Arcano]]"
 spellcast_trait: Istinto
 ---
 

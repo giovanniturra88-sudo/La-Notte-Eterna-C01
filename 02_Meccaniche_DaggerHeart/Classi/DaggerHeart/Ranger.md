@@ -8,7 +8,7 @@ Hai scelto il percorso del Ranger.
 I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selvagge. Usano tattiche micidiali e letali attacchi a distanza per abbattere le loro prede.
 
 ---
-- **DOMINI -** [[Ossa]] & [[Saggio]]
+- **DOMINI -** [[Ossa]] & [[Saggezza]]
 - **EVASIONE INIZIALE -** 12
 - **PUNTI FERITA INIZIALI -** 6
 - **TRATTI SUGGERITI -** +2 Agilità, +0 Forza, +1 Astuzia, +1 Istinto, -1 Presenza, +0 Conoscenza

@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Stormthread Habit"
-alias: ["Abito del Filustorm"]
+alias: ["Abito dal Filo di Tempesta"]
 tier: 2
 ---
 
-# Abito del Filustorm
+# Abito dal Filo di Tempesta
 
 **Livello 2–4** _Armatura_
 

@@ -1,7 +1,7 @@
 ---
 type: Abilità
 Livello: 9
-Dominio: "[[MezzaNotte]]"
+Dominio: "[[Mezzanotte]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Magia]]"
 Titolo Inglese:

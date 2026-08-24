@@ -5,7 +5,7 @@ classe:
 source: DaggerHeart Hope and Fear
 Dominio:
   - "[[Lama]]"
-  - "[[MezzaNotte]]"
+  - "[[Mezzanotte]]"
 spellcast_trait:
 ---
 

@@ -5,7 +5,7 @@ classe:
 source: DaggerHeart Hope and Fear
 Dominio:
   - "[[Terrore]]"
-  - "[[Saggio]]"
+  - "[[Saggezza]]"
 spellcast_trait: Istinto
 ---
 

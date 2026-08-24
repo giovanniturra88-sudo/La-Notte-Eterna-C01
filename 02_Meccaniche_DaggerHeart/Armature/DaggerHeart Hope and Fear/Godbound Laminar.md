@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Godbound Laminar"
-alias: ["Lamina Divinlegata"]
+alias: ["Corazza Laminare Divina"]
 tier: 4
 ---
 
-# Lamina Divinlegata
+# Corazza Laminare Divina
 
 **Livello 8–10** _Armatura_
 
