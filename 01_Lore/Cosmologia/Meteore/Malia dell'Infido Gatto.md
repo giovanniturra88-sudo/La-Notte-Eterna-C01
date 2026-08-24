@@ -6,9 +6,9 @@ type: Artefatto
 
 [[Maskarr]] è un dio avvolto nel mistero, l'unica certezza è che il dio ama giocare con le vite mortali e divine in egual misura. Nel suo grande gioco ha deciso volontariamente di scagliare questa maschera sulla terra con l'esatto scopo di gettare scompiglio. La maschera è nera e rappresenta il muso di un gatto dall'espressione enigmatica.
 ## Vista Acuta
-La maschera dona una vista acuta al portatore, concedendogli un bonus di Competenza alle prove di Istinto (Percezione). Il suo livello raddoppia in ogni prova effettuata utilizzando tale abilità. Inoltre il personaggio ottiene scurovisione fino a 36 m.
+La maschera dona una vista acuta al portatore, concedendogli un bonus di Competenza alle prove di Istinto (Percezione). La sua Competenza raddoppia in ogni prova effettuata utilizzando tale abilità. Inoltre il personaggio ottiene scurovisione fino a 36 m.
 ## Voce Suadente
-Le parole del portatore della maschera suonano sempre molto convincenti e dal tono accomodante e sicuro. Il personaggio ottiene un bonus di Competenza alle prove di Presenza (Inganno). Il suo livello raddoppia in ogni prova effettuata utilizzando tale abilità.
+Le parole del portatore della maschera suonano sempre molto convincenti e dal tono accomodante e sicuro. Il personaggio ottiene un bonus di Competenza alle prove di Presenza (Inganno). La sua Competenza raddoppia in ogni prova effettuata utilizzando tale abilità.
 ## Agilità Felina
 La velocità del personaggio aumenta di 3 m e dimezza i danni da caduta, inoltre la sua distanza di salto in lungo e in alto è raddoppiata.
 ## Infidi Artigli

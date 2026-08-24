@@ -11,9 +11,9 @@ Questi anelli, di varia natura e per tutti gli allineamenti, possono concedere b
 
 |**D8**|**TIPO ANELLO**|**POTERE**|
 |---|---|---|
-|1-2|Anello dell'Acqua|Controllare Acqua 1 volta al giorno|
-|3-4|Anello dell'Aria|Libertà di Movimento 1 volta al giorno|
-|5-6|Anello del Fuoco|Muro di Fuoco 1 volta al giorno|
-|7-8|Anello della Terra|Pelle di Pietra 1 volta al giorno|
+|1-2|Anello dell'Acqua|Controllare Acqua 1 volta per scena|
+|3-4|Anello dell'Aria|Libertà di Movimento 1 volta per scena|
+|5-6|Anello del Fuoco|Muro di Fuoco 1 volta per scena|
+|7-8|Anello della Terra|Pelle di Pietra 1 volta per scena|
 
 Quando un anello viene creato, esiste una probabilità del 10% che sia maledetto. Se maledetto, l'anello rimarrà serrato al dito del portatore, rendendone impossibile la rimozione. Questo effetto può essere annullato attraverso l'utilizzo dell'incantesimo *Rimuovere Maledizione* oppure attraverso un rituale eseguito da un chierico di almeno 10° livello.

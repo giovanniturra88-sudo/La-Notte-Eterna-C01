@@ -30,7 +30,7 @@ La tabella nella pagina seguente offre al Game Master una vasta gamma di meteore
 | 13-14 | [[Chevya' La Bestia]] | 67-68 | [[Mano di Krea]] |
 | 15-16 | [[Collana del Distruttore]] | 69-70 | [[Mantello dei Venti]] |
 | 17-18 | [[Collana del Mutaforma]] | 71-72 | [[Mantello dell'inconsistenza]] |
-| 19-20 | [[Cormaglio]] | 73-74 | [[Matna e la Scatola]] |
+| 19-20 | [[Cormaglo]] | 73-74 | [[Matna e la Scatola]] |
 | 21-22 | [[Cuore Divino]] | 75-76 | [[Nindja]] |
 | 23-24 | [[Demone X]] | 77-78 | [[Occhio del Demone]] |
 | 25-26 | [[Domatore di Bestie]] | 79-80 | [[Oppressione Demoniaca]] |

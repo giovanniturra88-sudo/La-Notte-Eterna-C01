@@ -10,7 +10,7 @@ L'arma si presenta come una lancia di ottima fattura, lunga circa 1,5 m e decora
 ## Arma Angelica
 La lancia infligge 1d8 danni radianti extra ed emette luce entro un'area di 9 metri e luce fioca in un'area di 4,5 m.
 ## Aura di Coraggio
-Spendendo un'azione, il personaggio diffonde canti e odi angeliche entro un'area di 3 m centrata su se stesso e per la durata di 1 minuto. L'Aura di Coraggio conferisce vantaggio ai Tiri di Reazione per non essere Spaventati al personaggio e agli alleati all'interno dell'area. La capacità può essere usata una volta per riposo breve o lungo.
+Spendendo un'azione, il personaggio diffonde canti e odi angeliche entro un'area di 3 m centrata su se stesso e per la durata di 1 minuto. L'Aura di Coraggio conferisce vantaggio ai Tiri di Reazione per non essere Terrorizzati al personaggio e agli alleati all'interno dell'area. La capacità può essere usata una volta per riposo breve o lungo.
 ## Baluardo di Luce
 La lancia ha 2 cariche e, spendendo un'azione e una carica, il personaggio può evocare uno Scudo della Fede attorno a sé o a un alleato. Ricarica al sorgere della luna.
 ## Arma Compromessa
