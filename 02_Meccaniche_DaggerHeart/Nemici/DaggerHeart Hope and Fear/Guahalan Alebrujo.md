@@ -14,7 +14,7 @@ type:
 * **Attacchi:**
  * **Denti e Artigli:** +3 | Prossima | 2d10+4 magico
 * **Tratti e Capacità:**
- * **La Bestia Scatenata - Passiva:** L'Alebrujo guadagna un bonus ai tiri sui danni pari al numero di Paura che hai.
+ * **La Bestia Scatenata - Passiva:** L'Alebrujo guadagna un bonus ai tiri di danno pari al numero di Paura che hai.
  * **Sacrificio Guahalan - Azione:** Spendere una Paura per far divorare all'Alebrujo un Minion entro portata Prossima, poi rimuovere un PF o uno Stress.
  * **Ululato della Guahala - Azione:** Segnare uno Stress per far emettere all'Alebrujo un ululato. Ogni PG entro portata Lontana deve superare un Tiro di Reazione di Presenza o diventare temporaneamente *In Panico*. Mentre è *In Panico*, un PG deve segnare uno Stress quando viene messo a fuoco.
  * **Strappare e Sfracellare - Azione:** Spendere una Paura per effettuare un attacco standard con il vantaggio. In caso di successo, puoi segnare uno Stress per effettuare un altro attacco standard contro un bersaglio aggiuntivo entro portata. Puoi continuare a segnare Stress per effettuare attacchi aggiuntivi finché l'Alebrujo non fallisce un tiro d'attacco.
@@ -36,7 +36,7 @@ attacchi:
     desc: "**+3** | Prossima | **2d10+4** magico"
 tratti:
   - name: "La Bestia Scatenata"
-    desc: "*- Passiva:* L'Alebrujo guadagna un bonus ai tiri sui danni pari al numero di Paura che hai."
+    desc: "*- Passiva:* L'Alebrujo guadagna un bonus ai tiri di danno pari al numero di Paura che hai."
 capacita_speciali:
   - name: "Sacrificio Guahalan"
     desc: "*- Azione:* Spendere una Paura per far divorare all'Alebrujo un Minion entro portata Prossima, poi rimuovere un PF o uno Stress."

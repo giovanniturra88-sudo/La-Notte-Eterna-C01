@@ -12,7 +12,7 @@ source: La Notte Eterna
 
 ## Tratti Ancestrali (Meccaniche)
 - **Corpo Corazzato**: Inizi la sessione con 1 Armor Slot extra già marcato.
-- **Furia Inarrestabile**: Quando infliggi danni in corpo a corpo, puoi marcare 1 Stress per aggiungere un dado bonus al tiro dei danni.
+- **Furia Inarrestabile**: Quando infliggi danni in corpo a corpo, puoi marcare 1 Stress per aggiungere un dado bonus al tiro di danno.
 - **Resistenza Sintetica**: Quando subisci un colpo critico, puoi generare 1 punto di Paura nella riserva del GM per trasformare il danno in un colpo normale.
 
 ## Integrazione in Nebvarasa

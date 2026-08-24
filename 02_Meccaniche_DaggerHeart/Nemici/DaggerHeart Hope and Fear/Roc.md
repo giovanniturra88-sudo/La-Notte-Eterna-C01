@@ -19,7 +19,7 @@ type:
  * **Ecco la Bomba - Azione:** Spendere una Paura per far scatenare al Roc una tempesta di fulmini e tuoni. Effettua un tiro d'attacco contro 1d4+1 bersagli entro portata Lontana. I bersagli contro cui il Roc ha successo subiscono 3d12 danni magici. Poi ogni bersaglio entro portata Lontana del Roc deve effettuare un Tiro di Reazione di Agilità (20). I bersagli che falliscono subiscono 3d8 danni fisici e vengono respinti in portata Ravvicinata. I bersagli che riescono devono segnare uno Stress.
  * **Pressione Schiacciante - Reazione:** Quando il Roc effettua un attacco standard riuscito, puoi segnare uno Stress per far schiacciare al Roc il bersaglio con i suoi artigli, costringendolo a segnare 1d4 Stress e *Rendendo Trattenuto* il bersaglio finché non supera un Tiro di Forza (20).
  * **Guardiano del Nido - Evoluzione:** Quando le uova del Roc sono minacciate, guadagna i seguenti tratti:
- * **Sdegnato - Passiva:** Il Roc guadagna un bonus di +2 alla sua Difficoltà e un bonus ai tiri sui danni pari al numero di Stress che ha segnato.
+ * **Sdegnato - Passiva:** Il Roc guadagna un bonus di +2 alla sua Difficoltà e un bonus ai tiri di danno pari al numero di Stress che ha segnato.
  * **Aura Elettificante - Passiva:** Il Roc ha resistenza ai danni magici. I PG che falliscono un tiro entro portata Prossima devono spendere una Speranza o segnare 1d4 Stress.
 
 ```statblock
