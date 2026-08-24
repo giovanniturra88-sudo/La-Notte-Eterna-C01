@@ -18,7 +18,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Incorporeo - Passiva:** Il Fantasma ha resistenza ai danni fisici e può muoversi attraverso oggetti solidi.
  * **Aura di Paura - Passiva:** Un PG che viene messo a fuoco entro portata Prossima del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress.
- * **Infestazione Persistente - Reazione: Conto alla rovescia (1d6).** Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco.
+ * **Infestazione Persistente - Reazione: Conto alla rovescia (1d6).** Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovescia. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -41,5 +41,5 @@ tratti:
     desc: "*- Passiva:* Un PG che viene messo a fuoco entro portata Prossima del Fantasma deve superare un Tiro di Reazione di Presenza (10) o segnare uno Stress."
 capacita_speciali:
   - name: "Infestazione Persistente"
-    desc: "*- Reazione: Conto alla rovescia (1d6).* Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovina. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco."
+    desc: "*- Reazione: Conto alla rovescia (1d6).* Quando il Fantasma viene sconfitto, puoi spendere una Paura per attivare il conto alla rovescia. Si riduce quando un PG tira con Paura. Quando scatta, rimuovi i PF del Fantasma e mettilo immediatamente a fuoco."
 ```

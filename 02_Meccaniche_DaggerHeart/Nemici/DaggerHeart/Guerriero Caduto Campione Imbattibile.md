@@ -18,7 +18,7 @@ type:
  * **Armatura Debole - Passiva:** Quando il Campione Imbattibile subisce danni, ridurli di **1d10**.
  * **Colpo Spezzante - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro tutti i bersagli in portata Prossima. I PG che il Campione colpisce perdono un numero di Speranza uguale ai PF che hanno segnato con questo attacco.
  * **Legioni Senza Fine - Azione:** **Spendere una Paura** per evocare un numero di Soldati d'Assalto Caduti pari a due volte il numero di PG. I Soldati d'Assalto appaiono a portata Lontana.
- * **Cerchio di Profanazione - Reazione: Conto alla rovescia (1d8):** Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è _Vulnerabile_ finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile.
+ * **Cerchio di Profanazione - Reazione: Conto alla rovescia (1d8):** Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovescia. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è _Vulnerabile_ finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile.
  * **Impeto - Reazione:** Quando il Campione Imbattibile effettua un attacco riuscito contro un PG, guadagni una Paura.
  * **Portatore di Morte - Reazione:** Quando un bersaglio segna PF da un attacco del Campione Imbattibile, tutti i PG a portata Lontana dal bersaglio perdono una Speranza.
 
@@ -47,7 +47,7 @@ capacita_speciali:
   - name: "Legioni Senza Fine"
     desc: "*- Azione:* Spendere una Paura per evocare un numero di Soldati d'Assalto Caduti pari a due volte il numero di PG. I Soldati d'Assalto appaiono a portata Lontana."
   - name: "Cerchio di Profanazione"
-    desc: "*- Reazione: Conto alla rovescia (1d8):* Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è Vulnerabile finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile."
+    desc: "*- Reazione: Conto alla rovescia (1d8):* Quando il Campione Imbattibile viene messo a fuoco per la prima volta, attiva il conto alla rovescia. Quando scatta, attiva un cerchio magico che copre un'area a portata Lontana dal Campione. Un bersaglio all'interno di quell'area è Vulnerabile finché non esce dal cerchio. Il cerchio può essere rimosso infliggendo danni Gravi al Campione Imbattibile."
   - name: "Impeto"
     desc: "*- Reazione:* Quando il Campione Imbattibile effettua un attacco riuscito contro un PG, guadagni una Paura."
   - name: "Portatore di Morte"

@@ -18,7 +18,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Inesorabile (2) - Passiva:** L'Annunciatore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Montura - Passiva:** Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo.
- * **Crampi della Fame - Passiva:** Conto alla rovescia (Decrescente 6). Quando l'Annunciatore appare, attiva il conto alla rovina. Si riduce quando l'Annunciatore viene messo a fuoco. Quando scatta, tutti i PG entro portata Lontana segnano uno Stress e diventano *Voraci*. Mentre è *Vorace*, un PG non può spendere Speranze finché non rimuove la condizione con un Tiro di Istinto riuscito.
+ * **Crampi della Fame - Passiva:** Conto alla rovescia (Decrescente 6). Quando l'Annunciatore appare, attiva il conto alla rovescia. Si riduce quando l'Annunciatore viene messo a fuoco. Quando scatta, tutti i PG entro portata Lontana segnano uno Stress e diventano *Voraci*. Mentre è *Vorace*, un PG non può spendere Speranze finché non rimuove la condizione con un Tiro di Istinto riuscito.
  * **Drenare l'Essenza - Azione:** Spendere una Paura per scegliere fino a tre PG. Ogni bersaglio subisce 4d6 danni magici.
  * **Troppe Bocche - Azione:** Segnare uno Stress per attaccare un PG entro portata Ravvicinata. In caso di successo, l'Annunciatore afferra il bersaglio e lo morde, infliggendo 4d6 danni fisici e *Rendendo Trattenuto* il bersaglio finché non si libera con un Tiro di Forza riuscito.
  * **Tocco Avvizzente - Azione:** Spendere una Paura per far accarezzare all'Annunciatore il volto di un PG *Trattenuto* entro portata Ravvicinata. Il bersaglio segna 2 Stress e o perde una Speranza o segna 1d4 PF.
@@ -43,7 +43,7 @@ tratti:
   - name: "Montura"
     desc: "*- Passiva:* Mentre l'Annunciatore è sulla sua montura, guadagna un bonus di +2 alla sua Difficoltà. Quando l'Annunciatore subisce danni Gravi, viene sbalzato dalla montura. Se l'Annunciatore viene smontato, la sua montura scompare finché non segni uno Stress per evocarla di nuovo."
   - name: "Crampi della Fame"
-    desc: "*- Passiva:* Conto alla rovescia (Decrescente 6). Quando l'Annunciatore appare, attiva il conto alla rovina. Si riduce quando l'Annunciatore viene messo a fuoco. Quando scatta, tutti i PG entro portata Lontana segnano uno Stress e diventano *Voraci*. Mentre è *Vorace*, un PG non può spendere Speranze finché non rimuove la condizione con un Tiro di Istinto riuscito."
+    desc: "*- Passiva:* Conto alla rovescia (Decrescente 6). Quando l'Annunciatore appare, attiva il conto alla rovescia. Si riduce quando l'Annunciatore viene messo a fuoco. Quando scatta, tutti i PG entro portata Lontana segnano uno Stress e diventano *Voraci*. Mentre è *Vorace*, un PG non può spendere Speranze finché non rimuove la condizione con un Tiro di Istinto riuscito."
 capacita_speciali:
   - name: "Drenare l'Essenza"
     desc: "*- Azione:* Spendere una Paura per scegliere fino a tre PG. Ogni bersaglio subisce 4d6 danni magici."

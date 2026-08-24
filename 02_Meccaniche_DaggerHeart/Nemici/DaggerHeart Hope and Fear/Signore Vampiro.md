@@ -17,7 +17,7 @@ aliases:
  * **Artigli:** +5 | Ravvicinata | 3d10+2 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Signore Vampiro può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
- * **Cuore di Mezzanotte - Passiva:** Conto alla rovescia a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando il Signore Vampiro viene sconfitto, attiva il conto alla rovina. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Ravvicinata del cuore, con tutti i PF e lo Stress rimossi.
+ * **Cuore di Mezzanotte - Passiva:** Conto alla rovescia a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando il Signore Vampiro viene sconfitto, attiva il conto alla rovescia. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Ravvicinata del cuore, con tutti i PF e lo Stress rimossi.
  * **Spaventoso - Passiva:** Quando il Signore Vampiro effettua un tiro d'attacco riuscito, tutti i PG entro portata Ravvicinata perdono una Speranza, e guadagni una Paura.
  * **Scatenare il Fuoco Infernale - Azione:** Segnare uno Stress per far sì che il Signore Vampiro evochi momentaneamente 1d4 fiammate di fuoco infernale entro portata Lontana. Ogni fiammata infligge 3d6 danni magici a ogni bersaglio entro portata Prossima. Se un bersaglio subisce danni da più fiammate, combina i danni.
  * **Risorgimento - Reazione:** Quando un PG entro portata Prossima tira con Speranza, puoi spendere una Paura per rimuovere un PF o uno Stress.
@@ -45,7 +45,7 @@ tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Il Signore Vampiro può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
   - name: "Cuore di Mezzanotte"
-    desc: "*- Passiva:* Conto alla rovescia a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando viene sconfitto, attiva il conto alla rovina. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Ravvicinata del cuore, con tutti i PF e lo Stress rimossi."
+    desc: "*- Passiva:* Conto alla rovescia a Lungo Termine (6). Il Signore Vampiro tiene il suo cuore nascosto in un luogo sicuro. Se viene distrutto, il Signore Vampiro muore. Altrimenti, quando viene sconfitto, attiva il conto alla rovescia. Si riduce ogni volta che i PG completano un riposo lungo. Quando scatta, il Signore Vampiro rinasce entro portata Ravvicinata del cuore, con tutti i PF e lo Stress rimossi."
   - name: "Spaventoso"
     desc: "*- Passiva:* Quando il Signore Vampiro effettua un tiro d'attacco riuscito, tutti i PG entro portata Ravvicinata perdono una Speranza, e guadagni una Paura."
 capacita_speciali:

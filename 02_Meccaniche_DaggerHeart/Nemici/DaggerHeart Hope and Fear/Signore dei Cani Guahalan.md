@@ -16,7 +16,7 @@ aliases:
 * **Attacchi:**
  * **Lancia:** +2 | Prossima | 2d8+4 fisico
 * **Tratti e Capacità:**
- * **Alfa del Branco - Passiva:** Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un segnalino al Pool Guahalan. Quando un alleato Guahalan entro portata Ravvicinata effettua un attacco, puoi spendere un segnalino dal Pool Guahalan per dargli il vantaggio sul tiro.
+ * **Alfa del Branco - Passiva:** Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un segnalino alla Riserva Guahalan. Quando un alleato Guahalan entro portata Ravvicinata effettua un attacco, puoi spendere un segnalino dalla Riserva Guahalan per dargli il vantaggio sul tiro.
  * **Scatenare la Bestia - Azione:** Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Ravvicinata prima di compiere un'azione.
  * **Chiamata della Guahala - Azione:** Spendere 2 Paura per mettere a fuoco tutti i Cambiagui Guahalan entro portata Ravvicinata. Ciascuno effettua un attacco standard contro un bersaglio entro portata. Se alcuni attacchi hanno successo contro lo stesso bersaglio, combina i loro danni.
  * **Forma Feroce (Cambio di Fase) - Reazione:** Quando il Signore dei Cani segna il suo ultimo PF, sostituiscilo con il Guahalan Alebrujo e mettilo immediatamente a fuoco.
@@ -37,7 +37,7 @@ attacchi:
     desc: "**+2** | Prossima | **2d8+4** fisico"
 tratti:
   - name: "Alfa del Branco"
-    desc: "*- Passiva:* Pool. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un segnalino al Pool Guahalan. Quando un alleato Guahalan entro portata Ravvicinata effettua un attacco, puoi spendere un segnalino dal Pool Guahalan per dargli il vantaggio sul tiro."
+    desc: "*- Passiva :* Riserva. Quando il Signore dei Cani effettua un attacco riuscito, aggiungi un segnalino alla Riserva Guahalan. Quando un alleato Guahalan entro portata Ravvicinata effettua un attacco, puoi spendere un segnalino dalla Riserva Guahalan per dargli il vantaggio sul tiro."
 capacita_speciali:
   - name: "Scatenare la Bestia"
     desc: "*- Azione:* Spendere una Paura per far assumere al Signore dei Cani una forma bestiale. Mentre è in questa forma, guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress che ha segnato. Inoltre, può muoversi fino a portata Lontana invece di portata Ravvicinata prima di compiere un'azione."

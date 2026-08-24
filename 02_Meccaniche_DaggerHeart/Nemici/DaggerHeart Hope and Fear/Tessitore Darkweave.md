@@ -17,7 +17,7 @@ aliases:
  * **Zanne:** +1 | Ravvicinata | 1d8+1 fisico
 * **Tratti e Capacità:**
  * **Avvolgere nella Seta d'Ombra - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio è *Vulnerabile* e *Trattenuto* finché non riesce su un Tiro di Forza (10).
- * **Zanna d'Ombra - Reazione:** Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Ravvicinata, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è *Tremante*, il bersaglio ha svantaggio sui tiri d'attacco.
+ * **Zanna d'Ombra - Reazione:** Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Ravvicinata, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è tremante, il bersaglio ha svantaggio sui tiri d'attacco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -37,5 +37,5 @@ capacita_speciali:
   - name: "Avvolgere nella Seta d'Ombra"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio è *Vulnerabile* e *Trattenuto* finché non riesce su un Tiro di Forza (10)."
   - name: "Zanna d'Ombra"
-    desc: "*- Reazione:* Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Ravvicinata, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è *Tremante*, il bersaglio ha svantaggio sui tiri d'attacco."
+    desc: "*- Reazione:* Quando il Tessitore effettua un attacco riuscito contro un bersaglio entro portata Ravvicinata, puoi spendere una Paura per rendere il bersaglio *Tremante* finché non riesce su un Tiro d'Istinto (10). Mentre è tremante, il bersaglio ha svantaggio sui tiri d'attacco."
 ```

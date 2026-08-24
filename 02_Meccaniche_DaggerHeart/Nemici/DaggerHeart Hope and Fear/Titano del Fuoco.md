@@ -17,7 +17,7 @@ aliases:
  * **Spadone:** +3 | Ravvicinata | 3d12+4 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
- * **Armatura d'Opera d'Arte - Passiva:** Conto alla rovescia (3). Quando il Titano appare per la prima volta, attiva il conto alla rovina. Si riduce quando il Titano subisce danni Maggiori o Gravi. Finché il conto alla rovina non scatta, riduci i danni subiti di 1d12. Quando scatta, il Titano guadagna un bonus di +1 alla sua Difficoltà e ai tiri d'attacco.
+ * **Armatura d'Opera d'Arte - Passiva:** Conto alla rovescia (3). Quando il Titano appare per la prima volta, attiva il conto alla rovescia. Si riduce quando il Titano subisce danni Maggiori o Gravi. Finché il conto alla rovescia non scatta, riduci i danni subiti di 1d12. Quando scatta, il Titano guadagna un bonus di +1 alla sua Difficoltà e ai tiri d'attacco.
  * **Slancio - Passiva:** Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura.
  * **Lancia Roccia - Azione:** Segnare uno Stress per scegliere un punto entro portata Lontana, poi effettuare un attacco contro tutti i bersagli tra il Titano e quel punto. I bersagli contro cui il Titano ha successo subiscono 3d12 danni fisici.
  * **Frantumatore di Cranio - Azione:** Segnare uno Stress per posizionare un segnalino su questa scheda. La prossima volta che il Titano viene messo a fuoco, devi spendere il segnalino da questo statblock ed effettuare un attacco contro un PG entro portata Ravvicinata. In caso di successo, infliggi 3d20+5 danni fisici diretti. In caso di fallimento, il bersaglio segna uno Stress.
@@ -41,7 +41,7 @@ tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
   - name: "Armatura d'Opera d'Arte"
-    desc: "*- Passiva:* Conto alla rovescia (3). Quando il Titano appare per la prima volta, attiva il conto alla rovina. Si riduce quando il Titano subisce danni Maggiori o Gravi. Finché il conto alla rovina non scatta, riduci i danni subiti di 1d12. Quando scatta, il Titano guadagna un bonus di +1 alla sua Difficoltà e ai tiri d'attacco."
+    desc: "*- Passiva:* Conto alla rovescia (3). Quando il Titano appare per la prima volta, attiva il conto alla rovescia. Si riduce quando il Titano subisce danni Maggiori o Gravi. Finché il conto alla rovescia non scatta, riduci i danni subiti di 1d12. Quando scatta, il Titano guadagna un bonus di +1 alla sua Difficoltà e ai tiri d'attacco."
   - name: "Slancio"
     desc: "*- Passiva:* Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura."
 capacita_speciali:
