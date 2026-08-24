@@ -47,7 +47,7 @@ Infondi di energia una lappola. Quando consumata da te o un alleato, dona per **
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Lontana
 
-Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare un Tiro di Reazione di Presenza o Istinto o subire `1d20-3` danni magici (psichici) e subire **Svantaggio** ai tiri d'attacco nel suo prossimo turno.
+Marchi un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+1d8 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare un Tiro di Reazione di Presenza o Istinto o subire `1d12` danni magici (psichici) e subire **Svantaggio** ai tiri d'attacco nel suo prossimo turno.
 
 ---
 
@@ -58,4 +58,4 @@ Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi con
 * **Durata:** Istantaneo
 * **Gittata:** Remota
 
-Un rombo devastante esplode in un punto a scelta a gittata **Remota**. Tutte le creature entro gittata **Ravvicinata** dal punto d'impatto subiscono `d8` danni Magici da Tuono e devono superare un Tiro di Reazione di Forza: chi fallisce subisce lo stato **Assordato** ed è **Terrorizzato** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.
+Un rombo devastante esplode in un punto a scelta a gittata **Remota**. Tutte le creature entro gittata **Ravvicinata** dal punto d'impatto subiscono `1d8` danni Magici da Tuono e devono superare un Tiro di Reazione di Forza: chi fallisce subisce lo stato **Assordato** ed è **Terrorizzato** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.

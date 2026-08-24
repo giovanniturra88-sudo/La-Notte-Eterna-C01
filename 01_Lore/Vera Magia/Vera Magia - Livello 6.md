@@ -15,10 +15,10 @@ tags:
 * **Durata:** Permanenza / Giorni
 * **Gittata:** Vasta Area / Intera Mappa di Gioco
 
-Trasforma un'ampia regione in un cataclisma brullo di geyser e lava. Il terreno diventa difficile e pericoloso: chiunque vi inizi il turno deve superare un Tiro di Reazione di Agilità o subire `1d20+18` danni da fuoco. 
+Trasforma un'ampia regione in un cataclisma brullo di geyser e lava. Il terreno diventa difficile e pericoloso: chiunque vi inizi il turno deve superare un Tiro di Reazione di Agilità o subire `2d20+7` danni da fuoco. 
 Se il rito viene ripetuto nello stesso luogo nei giorni successivi:
-- **Dopo 1 Settimana:** Si aprono crateri vulcanici, il danno sale a `2d20+35`.
-- **Dopo 1 Mese:** Il danno sale a `2d20+63` e l'area diventa permanentemente il cuore di un vulcano attivo.
+- **Dopo 1 Settimana:** Si aprono crateri vulcanici, il danno sale a `5d20+4`.
+- **Dopo 1 Mese:** Il danno sale a `8d20` e l'area diventa permanentemente il cuore di un vulcano attivo.
 
 ---
 
@@ -29,7 +29,7 @@ Se il rito viene ripetuto nello stesso luogo nei giorni successivi:
 * **Durata:** Fino al prossimo Riposo Lungo
 * **Gittata:** Personale
 
-Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resistenza** a tutti i danni elementali (*Acido, Freddo, Fulmine, Fuoco*). Inoltre, ogni volta che colpisci con un attacco, aggiungi **+d12 Danni Extra** del tipo elementale che preferisci.
+Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resistenza** a tutti i danni elementali (*Acido, Freddo, Fulmine, Fuoco*). Inoltre, ogni volta che colpisci con un attacco, aggiungi **+1d12 Danni Extra** del tipo elementale che preferisci.
 
 ---
 
@@ -40,7 +40,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Lontana
 
-Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i tiri d'attacco compiuti contro la creatura marchiata beneficiano di **Vantaggio** e l'obiettivo subisce **+d10 Danni Radiosi Extra** da qualsiasi fonte. Se la creatura fallisce il Tiro di Reazione di Istinto a fine turno, subisce `1d20+1` Danni Radiosi + `1d20+1` Danni Necrotici. Se la creatura muore, il marchio può essere liberamente spostato su un nuovo bersaglio.
+Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i tiri d'attacco compiuti contro la creatura marchiata beneficiano di **Vantaggio** e l'obiettivo subisce **+1d10 Danni Radiosi Extra** da qualsiasi fonte. Se la creatura fallisce il Tiro di Reazione di Istinto a fine turno, subisce `1d20+1` Danni Radiosi + `1d20+1` Danni Necrotici. Se la creatura muore, il marchio può essere liberamente spostato su un nuovo bersaglio.
 
 ### Reale Miraggio di Sagister
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
@@ -53,7 +53,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 
 * **Controllo dell'Illusione:** Finché riesci a vedere l'area, puoi spendere un'Azione Gratuita nel tuo turno per modificarne i dettagli (simulando movimenti, cambiamenti ambientali, ecc.).
 * **Limiti dell'Illusione:** L'illusione non ha consistenza tattile. Interagire fisicamente con un elemento finto rivela la sua natura illusoria. Gli elementi reali resi invisibili rimangono comunque tangibili e solidi.
-* **Terreno Pericoloso Finto:** Se una creatura interagisce con un rischio illusorio che non esiste nella realtà, deve superare un **Tiro di Reazione di Conoscenza o Istinto (Difficoltà 15)** o subire **1d20+17 Danni Psichici** e scoprire la natura dell'illusione.
+* **Terreno Pericoloso Finto:** Se una creatura interagisce con un rischio illusorio che non esiste nella realtà, deve superare un **Tiro di Reazione di Conoscenza o Istinto (Difficoltà 15)** o subire **2d20+7 Danni Psichici** e scoprire la natura dell'illusione.
 * **Terreno Pericoloso Reale Nascosto:** Se un rischio reale viene nascosto dall'illusione, chi vi entra subisce gli effetti del terreno con **Svantaggio** alla prova per evitarlo.
 * **Indagare l'Illusione:** Una creatura può spendere un'Azione per esaminare il miraggio superando una prova di *Conoscenza* o *Istinto* contro la Difficoltà del tuo Tiro Incantesimo. In caso di successo, vede attraverso l'illusione, ma le cose rese invisibili rimangono tali per lei.
 * **Estensione:** Prima che la capacità magica termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.

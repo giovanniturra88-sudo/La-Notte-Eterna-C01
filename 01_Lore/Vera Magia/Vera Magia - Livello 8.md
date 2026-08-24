@@ -31,8 +31,8 @@ Evochi un numero di stelle fluttuanti pari al tuo valore di **Conoscenza** o **P
 
 * **Protezione Divina:** Finché hai almeno una stella attorno a te, i tiri d'attacco contro di te subiscono **Svantaggio** e ottieni **Resistenza** ai danni da Fuoco e da Freddo.
 * **Scagliare una Stella (Azione):** Puoi lanciare una delle tue stelle contro un bersaglio entro Zona Remota (*Tiro Incantesimo*).
- * **Colpito:** Il bersaglio subisce **1d20+42 Danni Radiosi**.
- * **Esplosione d'Area:** Che tu colpisca o manchi, la stella esplode. Tutte le creature entro Zona Ravvicinata dal bersaglio devono superare un **Tiro di Reazione di Agilità (Difficoltà 17)** o subire **2d20+18 danni radiosi** (danno dimezzato se superano). La stella usata si consuma.
+ * **Colpito:** Il bersaglio subisce **5d20 Danni Radiosi**.
+ * **Esplosione d'Area:** Che tu colpisca o manchi, la stella esplode. Tutte le creature entro Zona Ravvicinata dal bersaglio devono superare un **Tiro di Reazione di Agilità (Difficoltà 17)** o subire **4d20 danni radiosi** (danno dimezzato se superano). La stella usata si consuma.
 
 ---
 
@@ -46,7 +46,7 @@ Evochi un numero di stelle fluttuanti pari al tuo valore di **Conoscenza** o **P
 Sacrifichi componenti maledette per scatenare un'ondata di morte che devasta il territorio circostante.
 
 Tutte le creature viventi nell'area dell'esplosione devono effettuare un **Tiro di Reazione di Forza (Difficoltà 18)**:
-* **Fallimento:** Subiscono **2d20+45 danni necrotici**.
+* **Fallimento:** Subiscono **6d20+3 danni necrotici**.
 * **Successo:** Subiscono metà danno.
 
 **Risveglio dei Ghoul:** Ogni umanoide ucciso da questo effetto può essere rianimato come Ghoul sotto il tuo diretto controllo (fino a un massimo pari a *Presenza + Bonus Competenza*). Puoi impartire loro comandi mentali durante il tuo turno senza spendere Azioni supplementari.

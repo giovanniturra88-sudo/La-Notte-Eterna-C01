@@ -28,7 +28,7 @@ Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere
 * **Durata:** 1 Scena
 * **Gittata:** Contatto
 
-Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'attacco e ai tiri di danno**, emana una fioca luce e infligge **+d6 Danni Aggiuntivi** in base alla fase lunare:
+Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'attacco e ai tiri di danno**, emana una fioca luce e infligge **+1d6 Danni Aggiuntivi** in base alla fase lunare:
 - **Luna Piena:** Danni Radiosi.
 - **Luna Nuova:** Danni Necrotici.
 - **Luna Calante/Crescente:** Danni Magici puri.
@@ -42,7 +42,7 @@ Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Personale
 
-La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e la tua Evasione non può essere inferiore a 16. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `d6` Danni Magici di ritorsione.
+La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e la tua Evasione non può essere inferiore a 16. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `1d6` Danni Magici di ritorsione.
 
 ---
 
@@ -51,9 +51,9 @@ La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumen
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Grazia o Presenza)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Medio (Far)
+* **Gittata:** Lontana
 
-Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `1d20` danni da fuoco (magici). Nei turni successivi puoi spostare la ruota senza spendere un'azione; il terreno attraversato rimane in fiamme, infliggendo `d6` danni da fuoco a chiunque lo attraversi.
+Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `1d20` danni da fuoco (magici). Nei turni successivi puoi spostare la ruota senza spendere un'azione; il terreno attraversato rimane in fiamme, infliggendo `1d6` danni da fuoco a chiunque lo attraversi.
 
 ---
 

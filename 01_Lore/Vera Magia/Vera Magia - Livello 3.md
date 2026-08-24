@@ -16,7 +16,7 @@ tags:
 * **Gittata:** Ravvicinata (Close) / Lancio
 
 Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come attacco o reazione:
-- Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base (1d4) + `1d20+7` Danni Magici. 
+- Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base (1d4) + `2d20` Danni Magici. 
 - Quando le 3 cariche si esauriscono, l'arma scompare.
 
 ---

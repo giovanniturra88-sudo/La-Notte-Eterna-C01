@@ -31,7 +31,7 @@ Disperdi in aria la leggendaria polvere di Yolamhra. Scegli qualsiasi numero di 
 * Subiscono lo stato **Accecato** e non possono diventare invisibili o nascondersi.
 * Tutti i tiri d'attacco contro di loro hanno **Vantaggio**.
 * Ogni volta che subiscono danni da qualsiasi fonte, subiscono **+1d20+6 Danni Radiosi Extra**.
-* Alla fine del loro turno possono ripetere un Tiro di Reazione di Forza: se accumulano **3 successi**, l'effetto termina. Ogni volta che **falliscono** la prova di fine turno, subiscono **1d20+17 danni radiosi**.
+* Alla fine del loro turno possono ripetere un Tiro di Reazione di Forza: se accumulano **3 successi**, l'effetto termina. Ogni volta che **falliscono** la prova di fine turno, subiscono **2d20+7 danni radiosi**.
 
 ---
 
@@ -75,5 +75,5 @@ Sigilli la tua anima e la tua forza vitale all'interno di un reliquiario, anello
 Evochi una tempesta catastrofica di vento, pioggia e fulmini che copre un'intera area geografica.
 
 * **Effetto d'Ambiente:** Le creature a terra vedono il loro Movimento dimezzato. Il volo non magico è impossibile. Tutti gli attacchi a distanza e le prove di Percezione subiscono **Svantaggio**.
-* **Raffica Devastante:** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione di Forza (Difficoltà 18)** o essere spinta indietro e cadere a terra. Se impatta un ostacolo, subisce **1d20+18 danni fisici**.
-* **Invocare il Fulmine (una volta per scena):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione di Agilità (Difficoltà 18)** o subire **2d20+21 danni da fulmine** (metà danno se superano la prova).
+* **Raffica Devastante:** Puoi spingere una creatura in una Zona Ravvicinata. La creatura deve superare un **Tiro di Reazione di Forza (Difficoltà 18)** o essere spinta indietro e cadere a terra. Se impatta un ostacolo, subisce **2d20+7 danni fisici**.
+* **Invocare il Fulmine (una volta per scena):** Fai cadere fino a 5 fulmini nella zona. Le creature colpite devono effettuare un **Tiro di Reazione di Agilità (Difficoltà 18)** o subire **4d20 danni da fulmine** (metà danno se superano la prova).

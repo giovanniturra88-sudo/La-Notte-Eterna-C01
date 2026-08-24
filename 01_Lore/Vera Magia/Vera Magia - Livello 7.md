@@ -56,7 +56,7 @@ Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero
 Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vitale. La fiamma fluttua sopra la tua mano, non può essere spenta ed emette luce regolabile fino a una Zona Lontana.
 
 **Benefici del Lascito:**
-* **Attacco di Fuoco:** Puoi effettuare un attacco magico (*Conoscenza* o *Presenza*) su un bersaglio a Zona Ravvicinata/Lontana. In caso di successo, infliggi **1d20+16 + Caratteristica** danni da Fuoco.
+* **Attacco di Fuoco:** Puoi effettuare un attacco magico (*Conoscenza* o *Presenza*) su un bersaglio a Zona Ravvicinata/Lontana. In caso di successo, infliggi **2d20+5 + Caratteristica** danni da Fuoco.
 * **Resistenza:** Ottieni **Resistenza** ai danni da Fuoco.
 * **Padronanza Piromantica:** Quando lanci una capacità magica che infligge danni da Fuoco, puoi ritirare un qualsiasi numero di dadi di danno (prendendo il secondo risultato). Inoltre, i tuoi attacchi di fuoco ignorano le Resistenze del bersaglio e dimezzano l'Immunità al Fuoco.
 * **Mantenimento Imperturbabile:** Non devi effettuare Tiri di Reazione per mantenere l'effetto sugli incantesimi di fuoco quando subisci danni.
@@ -73,5 +73,5 @@ Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vit
 Sgretoli polveri preziose per creare una densa nube di polvere cosmica che copre una Zona Lontana, oscurando completamente la vista. 
 
 Chiunque entri nella nube o vi inizi il turno (tranne te) deve effettuare un **Tiro di Reazione di Forza (Difficoltà 16)**:
-* **Fallimento:** Subisce **2d20+33 danni magici (radiosi)** e lo stato **Avvelenato** per 1 minuto. Immondi ed Aberrazioni effettuano la prova con Svantaggio.
+* **Fallimento:** Subisce **5d20+2 danni magici (radiosi)** e lo stato **Avvelenato** per 1 minuto. Immondi ed Aberrazioni effettuano la prova con Svantaggio.
 * **Successo:** Subisce metà danno.
