@@ -47,7 +47,7 @@ tratti:
     desc: "*- Passiva:* Quando un PG fallisce mentre è in portata Ravvicinata del Tiranno Cinereo, perde una Speranza e tu guadagni una Paura. Se il PG non può perdere una Speranza, deve segnare un PF."
 capacita_speciali:
   - name: "Razziata Disperata"
-    desc: "*- Azione:* Segnare una Paura per effettuare un attacco contro tutti i bersagli in portata Ravvicinata. I bersagli colpiti dal Tiranno Cinereo subiscono 2d20+2 danni fisici, vengono spinti indietro a portata Ravvicinata da dove si trovavano e il GM guadagna una Paura."
+    desc: "*- Azione:* Spendere una Paura per effettuare un attacco contro tutti i bersagli in portata Ravvicinata. I bersagli colpiti dal Tiranno Cinereo subiscono 2d20+2 danni fisici, vengono spinti indietro a portata Ravvicinata da dove si trovavano e il GM guadagna una Paura."
   - name: "Nube Cinerea"
     desc: "*- Azione:* Spendere una Paura per colpire il suolo e sollevare cenere entro portata Lontana. Mentre è all'interno della nube di cenere, un bersaglio ha svantaggio sui tiri d'azione. La nube di cenere si disperde la prossima volta che un avversario viene messo a fuoco."
   - name: "Scossone Apocalittico"
