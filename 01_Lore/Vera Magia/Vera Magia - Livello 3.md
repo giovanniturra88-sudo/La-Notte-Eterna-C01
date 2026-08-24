@@ -13,7 +13,7 @@ tags:
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro d'Attacco con Incantesimo
 * **Durata:** Breve / 3 Utilizzi
-* **Gittata:** Vicina (Close) / Lancio
+* **Gittata:** Ravvicinata (Close) / Lancio
 
 Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come attacco o reazione:
 - Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base + `1d20+1` Danni Magici. 
@@ -24,18 +24,18 @@ Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come
 ### Bora Glaciale
 * **Livello:** 3
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Istinto)
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Istinto)
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Evochi un vento gelido in un'area a gittata **Vicina**. L'area diventa pesantemente oscurata. Chiunque vi si trovi o vi entri deve superare un Tiro di Reazione di Forza o subire `1d20-2` Danni da Freddo e subire lo stato **Bloccato/Immobilizzato** dalle lastre di ghiaccio fino a quando non impiega un'azione per liberarsi o subisce danni da fuoco.
+Evochi un vento gelido in un'area a gittata **Ravvicinata**. L'area diventa pesantemente oscurata. Chiunque vi si trovi o vi entri deve superare un Tiro di Reazione di Forza o subire `1d20-2` Danni da Freddo e subire lo stato **Bloccato/Immobilizzato** dalle lastre di ghiaccio fino a quando non impiega un'azione per liberarsi o subisce danni da fuoco.
 
 ---
 
 ### Marchio della Luna Calante
 * **Livello:** 3
 * **Costo:** 2 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** 1 Scena
 * **Gittata:** Medio (Far)
 
@@ -48,17 +48,17 @@ Segni una creatura con il potere decadente della luna. Il bersaglio deve effettu
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Automatico all'attivazione
 * **Durata:** 1 Scena
-* **Gittata:** Personale (Aura Vicina)
+* **Gittata:** Personale (Aura Ravvicinata)
 
-Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro gittata **Molto Vicina** durante il tuo movimento deve superare un Tiro di Reazione di Agilità o cadere **Prona** a terra.
+Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro gittata **Prossima** durante il tuo movimento deve superare un Tiro di Reazione di Agilità o cadere **Prona** a terra.
 
 ---
 
 ### Tappeto di Morti
 * **Livello:** 3
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Conoscenza)
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Conoscenza)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Area Vicina (Close)
+* **Gittata:** Area Ravvicinata (Close)
 
 Un'aura necromantica fa spuntare mani scheletriche dal terreno in un'area attorno a te. Chiunque non sia designato da te ed entri nell'area deve superare un Tiro di Reazione di Agilità: se fallisce subisce `1d20+1` Danni Necrotici ed è **Trattenuto**. All'inizio del proprio turno, una creatura trattenuta subisce nuovamente `1d20+1` Danni Necrotici.

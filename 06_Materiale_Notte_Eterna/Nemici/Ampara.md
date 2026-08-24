@@ -5,12 +5,12 @@ type:
 ---
 ## Ampara
 * **Descrizione:** Piccola tartaruga acquatica ultra-longeva dal guscio simile a una pietra levigata del fiume. Sacra ai druidi e ricercata dagli alchimisti.
-* **Tier:** 0 (Ambiente / Innocuo)
+* **Rango:** 0 (Ambiente / Innocuo)
 * **Difficoltà:** 10
 * **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 14
 * **Punti Ferita:** 2 | **Stress:** 2
 * **Attacchi:**
- * **Piccolo Morso:** +0 | Da Vicino | 1d4 Fisico
+ * **Piccolo Morso:** +0 | Ravvicinata | 1d4 Fisico
 * **Tratti e Capacità:**
  * **Mimetismo Fluviale:** Vantaggio sulle prove di Furtività quando si trova immersa tra sassi e corsi d'acqua.
 * **Guscio Resistente:** Aumenta la Difficoltà di +3 quando si ritira completamente all'interno del guscio.
@@ -28,7 +28,7 @@ esperienza: "+0"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
   - name: "Piccolo Morso"
-    desc: "**+0** | Da Vicino | **1d4** Fisico"
+    desc: "**+0** | Ravvicinata | **1d4** Fisico"
 tratti:
   - name: "Mimetismo Fluviale"
     desc: "Vantaggio sulle prove di Furtività quando si trova immersa tra sassi e corsi d'acqua."

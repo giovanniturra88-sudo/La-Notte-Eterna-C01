@@ -5,7 +5,7 @@ type:
 ---
 ## Shimbyaleth
 * **Descrizione:** Orrore tentacolare delle profondità abissali, creatura di puro incubo subacqueo.
-* **Tier:** 4 (Solo / Avversario)
+* **Rango:** 4 (Solo / Avversario)
 * **Difficoltà:** 20
 * **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 80
 * **Punti Ferita:** 10 | **Stress:** 8

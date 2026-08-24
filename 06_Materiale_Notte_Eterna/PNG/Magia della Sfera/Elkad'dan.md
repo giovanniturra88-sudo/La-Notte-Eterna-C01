@@ -14,7 +14,7 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
 * **Descrizione:** Dotto ed erudito incantatore della Magia della Sfera, manipola le energie arcaniche con precisione chirurgica per proteggere l'equilibrio del mondo.
-* **Tier:** 3 (Solo)
+* **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
 * **Punti Ferita:** 9 | **Stress:** 5
@@ -26,8 +26,8 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
  * **Vista Vera - Passiva:** vede la vera forma di creature e cose (18 m).
  * **Percezione:** 13.
  * **Incantesimi Innati (Magia della Sfera) - Azione:** Usa la Conoscenza per lanciare capacità magiche (Difficoltà 18). A volontà: Dardo Incantato, Individuazione del Magico; 3 volte per scena: Palla di Fuoco, Muro di Forza; 1 volta per scena: Teletrasporto, Disintegrazione.
- * **Evocare le Rune (una volta per scena) - Azione:** Evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Conoscenza con Difficoltà 18 o subire 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno.
- * **Controincantesimo Runico - Reazione:** Interrompe automaticamente una capacità magica lanciata entro 18 m da lui se di potenza pari o inferiore al suo Tier.
+ * **Evocare le Rune (una volta per scena) - Azione:** Evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Conoscenza con Difficoltà 18 o subire 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno.
+ * **Controincantesimo Runico - Reazione:** Interrompe automaticamente una capacità magica lanciata entro 18 m da lui se di potenza pari o inferiore al suo rango.
 
 ---
 
@@ -36,10 +36,10 @@ Elkad'dan è uno dei più dotti ed eruditi incantatori sopravvissuti alle devast
 
 #### **AZIONI**
 - **Sfera Arcanica:** Attacco con capacità magica da Distanza: +4 al tiro d'attacco, gittata Lontana, un bersaglio. Colpito: 3d10+5 danni magici.
-- **Evocare le Rune (una volta per scena):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Vicina deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
+- **Evocare le Rune (una volta per scena):** Elkad'dan evoca un'esplosione di rune cosmiche in un punto in portata Media. Ogni creatura in portata Ravvicinata deve effettuare un Tiro di Reazione di Conoscenza con Difficoltà 18, subendo 3d12+5 danni psichici ed essere stordita fino alla fine del suo prossimo turno in caso di fallimento.
 
 #### **REAZIONI**
-- **Controincantesimo Runico:** Elkad'dan può interrompere automaticamente una capacità magica lanciata entro 18 m da lui se la capacità è di potenza pari o inferiore al suo Tier.
+- **Controincantesimo Runico:** Elkad'dan può interrompere automaticamente una capacità magica lanciata entro 18 m da lui se la capacità è di potenza pari o inferiore al suo rango.
 
 ---
 

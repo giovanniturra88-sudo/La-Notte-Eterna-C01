@@ -12,8 +12,8 @@ type:
 **_Livello 3_** _Armatura_
 
 - **Soglie di Danno:** 12 / 28
-- **Punteggio Armatura:** 5
+- **Punteggio di Armatura:** 5
 
 ### TRATTO DELL'ARMATURA
 
-**_Ritorsione Tossica:_** Quando un nemico a gittata Corpo a corpo ti infligge danni, puoi spendere 1 Punteggio Armatura per sputare un getto di veleno che infligge d8 danni tossici all'attaccante.
+**_Ritorsione Tossica:_** Quando un nemico a gittata Corpo a corpo ti infligge danni, puoi spendere 1 Punteggio di Armatura per sputare un getto di veleno che infligge d8 danni tossici all'attaccante.

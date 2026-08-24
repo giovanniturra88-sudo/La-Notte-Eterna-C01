@@ -23,7 +23,7 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 # Speranza
 
 ## Velo della Notte
-**Spendi 3 Speranza** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Occultato** (Cloaked) fino all'inizio del tuo prossimo turno, anche se ti trovi sotto la diretta osservazione di un nemico o in piena luce intensa.
+**Spendi 3 Speranza** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Nascosto** (Cloaked) fino all'inizio del tuo prossimo turno, anche se ti trovi sotto la diretta osservazione di un nemico o in piena luce intensa.
 
 ---
 
@@ -34,7 +34,7 @@ Spendi un punto Speranza ed effettua un attacco contro un bersaglio che si trova
 Finché questa caratteristica rimane attiva o finché non marchi un altro Focus, ottieni i seguenti benefici:
 * **Sguardo Penetrante:** Conosci sempre l'esatta posizione del tuo Focus, anche se si nasconde dietro coperture totali, muri o se diventa invisibile.
 * **Tormento del Fato:** Una volta per turno, quando infliggi danno al tuo Focus, questi deve marcare immediatamente **1 Stress** a causa del terrore psicologico che gli incuti.
-* **Ineluttabilità:** Se fallisci un tiro di attacco contro la tua Priorità, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi della Dualità.
+* **Ineluttabilità:** Se fallisci un tiro di attacco contro la tua Priorità, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi Dualità.
 
 ## Passo Silenzioso (Shadow Stride)
 Il tuo movimento è naturalmente privo di suono. Ottieni vantaggio permanente su tutti i tiri di azione o reazione effettuati per muoverti silenziosamente o per nasconderti in aree ricoperte da ombre, nebbia o vegetazione di alberi-fungo.

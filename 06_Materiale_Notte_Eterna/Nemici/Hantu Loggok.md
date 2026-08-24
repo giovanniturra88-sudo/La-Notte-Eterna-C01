@@ -5,12 +5,12 @@ type:
 ---
 ## Hantu Loggok
 * **Descrizione:** Spettro maligno della foresta scaturito da un suicidio o omicidio cruento tra gli alberi-fungo.
-* **Tier:** 2 (Furtivo / Spettro)
+* **Rango:** 2 (Furtivo / Spettro)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 25
 * **Punti Ferita:** 4 | **Stress:** 5
 * **Attacchi:**
- * **Tocco Gelido dell'Anima:** +3 | Da Vicino | 2d8+4 Freddo/Necrotico
+ * **Tocco Gelido dell'Anima:** +3 | Ravvicinata | 2d8+4 Freddo/Necrotico
 * **Tratti e Capacità:**
  * **Incorporeo:** Ignora i terreni e attraversa gli ostacoli solidi.
  * **Lamento dell'Agonia (1 Paura):** Cause terrore puro e infligge danni da Stress ai nemici nell'area.
@@ -28,7 +28,7 @@ esperienza: "+3"
 soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 25"
 attacchi:
   - name: "Tocco Gelido dell'Anima"
-    desc: "**+3** | Da Vicino | **2d8+4** Freddo/Necrotico"
+    desc: "**+3** | Ravvicinata | **2d8+4** Freddo/Necrotico"
 tratti:
   - name: "Incorporeo"
     desc: "Ignora i terreni e attraversa gli ostacoli solidi."

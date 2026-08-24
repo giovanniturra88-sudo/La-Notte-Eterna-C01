@@ -29,7 +29,7 @@ Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'
 
 ### Specializzazione
 **_Arcano della Preveggenza:_** Se non indossi armature, la tua Evasione aumenta di +2. Inoltre, ottieni vantaggio ai tiri di Iniziativa (il GM decide chi agisce per primo; se usi questo vantaggio, puoi chiedere di agire prima nella scena).
-**_Arcano del Tempo:_** Una volta per riposo lungo, quando tu o un alleato entro portata Vicina subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
+**_Arcano del Tempo:_** Una volta per riposo lungo, quando tu o un alleato entro portata Ravvicinata subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
 
 ---
 

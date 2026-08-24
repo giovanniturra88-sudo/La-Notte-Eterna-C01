@@ -5,12 +5,12 @@ type:
 ---
 ## Kraven
 * **Descrizione:** Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio.
-* **Tier:** 1 (Minion / Orda)
+* **Rango:** 1 (Minion / Orda)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 11
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
- * **Picco / Pugnale arrugginito:** +2 | Da Vicino | 1d8+3 Tagliente
+ * **Picco / Pugnale arrugginito:** +2 | Ravvicinata | 1d8+3 Tagliente
 * **Tratti e Capacità:**
  * **Vantaggio nel Buio:** Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità.
 
@@ -27,7 +27,7 @@ esperienza: "+2"
 soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 11"
 attacchi:
   - name: "Picco / Pugnale arrugginito"
-    desc: "**+2** | Da Vicino | **1d8+3** Tagliente"
+    desc: "**+2** | Ravvicinata | **1d8+3** Tagliente"
 tratti:
   - name: "Vantaggio nel Buio"
     desc: "Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità."

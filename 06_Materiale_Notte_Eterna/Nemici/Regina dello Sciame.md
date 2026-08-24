@@ -5,12 +5,12 @@ type:
 ---
 ## Regina dello Sciame
 * **Descrizione:** Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita.
-* **Tier:** 3 (Capo / Solo)
+* **Rango:** 3 (Capo / Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 16 | Maggiore: 30 | Grave: 50
 * **Punti Ferita:** 8 | **Stress:** 6
 * **Attacchi:**
- * **Pungiglione Acido:** +4 | Da Vicino | 3d8+6 Perforante/Acido
+ * **Pungiglione Acido:** +4 | Ravvicinata | 3d8+6 Perforante/Acido
 * **Tratti e Capacità:**
  * **Evocare Progenie (1 Paura):** Richiama uno sciame di piccoli insetti al suo servizio.
 
@@ -27,7 +27,7 @@ esperienza: "+4"
 soglia_danni: "Minore: 16 | Maggiore: 30 | Grave: 50"
 attacchi:
   - name: "Pungiglione Acido"
-    desc: "**+4** | Da Vicino | **3d8+6** Perforante/Acido"
+    desc: "**+4** | Ravvicinata | **3d8+6** Perforante/Acido"
 tratti:
   - name: "Evocare Progenie"
     desc: "Richiama uno sciame di piccoli insetti al suo servizio (1 Paura)."

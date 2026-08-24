@@ -36,7 +36,7 @@ Quando evochi il circolo, puoi designare le creature alleate che saranno immuni.
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** 1 ora
-* **Gittata:** Zona Molto Lontana
+* **Gittata:** Zona Remota
 * **Durata:** 1 Settimana
 
 Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero di piante o alberi pari al tuo valore di **Saggezza + 3**. Le piante acquisiscono movimento, sensi umani e statistiche di combattimento appropriate alla loro taglia (gestite dal GM come Avversari o Alleati).

@@ -33,7 +33,7 @@ Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/W
 
 * **Tipo Creatura:** Elementale Piccolo (indole del possessore)
 * **Difficoltà per Colpirlo:** Pari alla Difficoltà Magica del Possessore (base 11 + bonus di Competenza del possessore)
-* **Punti Ferita / Punteggio Armatura:** Utilizza la metà dei Punti Ferita / Punteggio Armatura del Possessore
+* **Punti Ferita / Punteggio di Armatura:** Utilizza la metà dei Punti Ferita / Punteggio di Armatura del Possessore
 * **Velocità:** 7,5 m (Fluttuare / Zona Ravvicinata)
 * **Sensi:** Scurovisione (Zona Lontana / 18 m), Percezione 12
 * **Linguaggi:** Comprende il Wiloi ma non può parlare. Comunicazione tramite **Telepatia Limitata** con il possessore fino a 30 m (Zona Lontana).
@@ -92,5 +92,5 @@ Lo yamyam ha quasi raggiunto la sua forma completa. I suoi punteggi di **Conosce
 ### **Livello 5 (Forma Finale)**
 La forma finale dello yamyam. Lo yamyam diviene di **taglia Media** ed ottiene queste abilità speciali:
 * 🪽 **Invocazione Curativa (Buono):** Lo yamyam può lanciare l'incantesimo *Parola di Guarigione di Massa* al livello minimo consumando **2 Speranza** del suo possessore. L'aspetto dello yamyam adesso ricorda quello di un celestiale dalle fattezze animali.
-* 🛡️ **Barriera Arcana (Neutrale):** Consumando **2 Speranza** del suo possessore, lo yamyam impone una difesa arcana su un numero di bersagli entro 6 m pari al bonus di Conoscenza (+3). I bersagli ottengono un bonus di **+2 alla Evasione / Punteggio Armatura** per 1 minuto o finché lo yamyam non termina il mantenimento dell'effetto. L'aspetto dello yamyam assume i connotati di una creatura fatata.
+* 🛡️ **Barriera Arcana (Neutrale):** Consumando **2 Speranza** del suo possessore, lo yamyam impone una difesa arcana su un numero di bersagli entro 6 m pari al bonus di Conoscenza (+3). I bersagli ottengono un bonus di **+2 alla Evasione / Punteggio di Armatura** per 1 minuto o finché lo yamyam non termina il mantenimento dell'effetto. L'aspetto dello yamyam assume i connotati di una creatura fatata.
 * 💀 **Mietitore Arcano (Malvagio):** Consumando **2 Speranza** del suo possessore, lo yamyam entra in una furia omicida. Per un minuto, quando lo yamyam usa il *Tocco Mortale*, può effettuare **due attacchi di Tocco Mortale senza consumare ulteriore Speranza**, infliggendo i danni come un Tocco Mortale potenziato. L'aspetto dello yamyam ricorda quello di un immondo dalle fattezze animali.

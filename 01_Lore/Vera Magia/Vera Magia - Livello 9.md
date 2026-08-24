@@ -13,7 +13,7 @@ Il rituale supremo della distruzione. Reciti la capacità magica da una pergamen
 
 * **Convocazione:** La capacità magica evoca **1d20+9 + 5 mostri/abominii celesti (Loy'ach)** incanalati dalla distruzione, che attaccano indiscriminatamente chiunque si trovi nell'area.
 * **Prezzo della Magia:** Al termine del lancio, effettua un **Tiro di Reazione di Forza con Difficoltà 20**:
- * **Successo:** Subisci **5 Punti Stress** ed entri nello stato **Vulnerabile**.
+ * **Successo:** Subisci **5 Stress** ed entri nello stato **Vulnerabile**.
  * **Fallimento:** Il tuo corpo non regge il potere arcano: subisci la **Morte Istantanea** (o vai direttamente al Tiro di Morte con Svantaggio).
 
 ---
@@ -22,7 +22,7 @@ Il rituale supremo della distruzione. Reciti la capacità magica da una pergamen
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 9 | Costo: 4 Speranza
 * **Tempo di Esecuzione:** 8 ore
-* **Gittata:** Zona Molto Lontana
+* **Gittata:** Zona Remota
 * **Durata:** Fino a 10 Minuti (Scena di Combattimento)
 
 Disperdi in aria la leggendaria polvere di Yolamhra. Scegli qualsiasi numero di creature visibili entro la gittata: esse devono superare un **Tiro di Reazione di Forza (Difficoltà 18)** o essere avvolte da un'aura lunare punitiva.

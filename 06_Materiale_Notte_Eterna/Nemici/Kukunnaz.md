@@ -5,12 +5,12 @@ type:
 ---
 ## Kūkunnaz
 * **Descrizione:** Insettoide gigante corazzato scavatore di gallerie sotterranee, dotato di chele e mandibole devastanti.
-* **Tier:** 2 (Picchiatore)
+* **Rango:** 2 (Picchiatore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 11 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
- * **Chela Gigante:** +4 | Da Vicino | 2d8+6 Perforante
+ * **Chela Gigante:** +4 | Ravvicinata | 2d8+6 Perforante
 * **Tratti e Capacità:**
  * **Scavo Rapido:** Scompare sotto terra per sbucare alle spalle o sotto i piedi del nemico.
 
@@ -27,7 +27,7 @@ esperienza: "+3"
 soglia_danni: "Minore: 11 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Chela Gigante"
-    desc: "**+4** | Da Vicino | **2d8+6** Perforante"
+    desc: "**+4** | Ravvicinata | **2d8+6** Perforante"
 tratti:
   - name: "Scavo Rapido"
     desc: "Scompare sotto terra per sbucare alle spalle o sotto i piedi del nemico."

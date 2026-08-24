@@ -5,12 +5,12 @@ type:
 ---
 ## Drago delle Meteore (Rionnag'hra)
 * **Descrizione:** Custode supremo del confine dimensionale in armatura di adamantio pura. Capace di far cadere le stelle dal cielo.
-* **Tier:** 4 (Solo / Avversario Mitico)
+* **Rango:** 4 (Solo / Avversario Mitico)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 35 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 12 | **Stress:** 10
 * **Attacchi:**
- * **Morso e Artigli Divini:** +6 | Da Vicino | 4d10+12 Tagliente/Radiante
+ * **Morso e Artigli Divini:** +6 | Ravvicinata | 4d10+12 Tagliente/Radiante
  * **Soffio Divino:** +5 | Cono Grande | 4d12+10 Radiante
 * **Tratti e Capacità:**
  * **Scaglie di Adamantio:** Immune ai colpi critici.
@@ -30,7 +30,7 @@ esperienza: "+8"
 soglia_danni: "Minore: 35 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morso e Artigli Divini"
-    desc: "**+6** | Da Vicino | **4d10+12** Tagliente/Radiante"
+    desc: "**+6** | Ravvicinata | **4d10+12** Tagliente/Radiante"
   - name: "Soffio Divino"
     desc: "**+5** | Cono Grande | **4d12+10** Radiante"
 tratti:

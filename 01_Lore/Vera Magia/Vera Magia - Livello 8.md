@@ -14,9 +14,9 @@ Preparti un elisir titanico. Quando una creatura beva il composto, subisce una t
 * **Potenza fisica:** Aumenta il valore di **Vigore di +3** (fino a un massimo di +6).
 * **Resistenza titanica:** Ottieni **Resistenza** a tutti i danni Fisici (Contundenti, Perforanti, Taglienti).
 * **Impatto devastante:** Tutti gli attacchi da mischia infliggono **+1d20+3 Danni Extra**.
-* **Punti Ferita Temporanei:** Ottieni **Armor Slots / Slot Armatura temporanei +3**.
+* **Punti Ferita Temporanei:** Ottieni **Armor Slots / Caselle Armatura temporanei +3**.
 
-**Ripercussioni Fisiche:** Al termine dell'incantesimo, il corpo subisce un contraccolpo tremendo. L'utilizzatore deve superare un **Tiro di Reazione di Forza (Difficoltà 18)** o subire immediatamente **4 Punti Stress** e lo stato **Vulnerabile** fino al prossimo Riposo Lungo.
+**Ripercussioni Fisiche:** Al termine dell'incantesimo, il corpo subisce un contraccolpo tremendo. L'utilizzatore deve superare un **Tiro di Reazione di Forza (Difficoltà 18)** o subire immediatamente **4 Stress** e lo stato **Vulnerabile** fino al prossimo Riposo Lungo.
 
 ---
 
@@ -40,7 +40,7 @@ Evochi un numero di stelle fluttuanti pari al tuo valore di **Conoscenza** o **P
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 4 Speranza
 * **Tempo di Esecuzione:** 16 ore (Rituale oscuro)
-* **Gittata:** Zona Molto Lontana (Vasta Area)
+* **Gittata:** Zona Remota (Vasta Area)
 * **Durata:** Istantanea
 
 Sacrifichi componenti maledette per scatenare un'ondata di morte che devasta il territorio circostante.
@@ -51,4 +51,4 @@ Tutte le creature viventi nell'area dell'esplosione devono effettuare un **Tiro 
 
 **Risveglio dei Ghoul:** Ogni umanoide ucciso da questo effetto può essere rianimato come Ghoul sotto il tuo diretto controllo (fino a un massimo pari a *Presenza + Bonus Competenza*). Puoi impartire loro comandi mentali durante il tuo turno senza spendere Azioni supplementari.
 
-**Contraccolpo Magico:** Il rituale drena l'incantatore. Effettua un Tiro di Reazione di Forza (Difficoltà 16): se fallisci, subisci immediatamente **5 Punti Stress** e non puoi lanciare incantesimi fino a un Riposo Lungo.
+**Contraccolpo Magico:** Il rituale drena l'incantatore. Effettua un Tiro di Reazione di Forza (Difficoltà 16): se fallisci, subisci immediatamente **5 Stress** e non puoi lanciare incantesimi fino a un Riposo Lungo.

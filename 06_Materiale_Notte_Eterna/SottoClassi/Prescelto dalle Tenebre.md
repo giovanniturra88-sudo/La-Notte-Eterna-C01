@@ -23,7 +23,7 @@ Monaci assassini e sicari della Chiesa di [[Garod]], in grado di fondersi con le
 ---
 
 ### Specializzazione
-**_Sussurri nel Buio:_** Ottieni resistenza permanente ai danni Necrotici. Puoi spendere 1 Speranza per lanciare una percezione mentale: per 10 minuti, puoi percepire la presenza e la direzione di qualsiasi mente entro portata Vicina che si trovi in condizioni di oscurità.
+**_Sussurri nel Buio:_** Ottieni resistenza permanente ai danni Necrotici. Puoi spendere 1 Speranza per lanciare una percezione mentale: per 10 minuti, puoi percepire la presenza e la direzione di qualsiasi mente entro portata Ravvicinata che si trovi in condizioni di oscurità.
 **_Sudario di Tenebre:_** Puoi spendere 1 Speranza per alterare illusoriamente il tuo aspetto e vestiario.
 
 ---

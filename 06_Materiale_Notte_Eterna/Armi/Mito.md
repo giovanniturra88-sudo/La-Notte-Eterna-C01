@@ -8,11 +8,10 @@ original_name: "Mito"
 ruolo: primaria
 tier: 4
 tipo_danno: magica
-tratto: agility
-type: 
+tratto: agilitàtype: 
  - "[[Arma]]"
 ---
 
 ### EFFETTO
 
-**_Tiro Leggendario:_** Quest'arma non consuma munizioni normali ma dardi di pura luce. Spendi 1 Speranza per far sì che un attacco trapassi tutti i nemici in linea retta fino a gittata Molto Lontana.
+**_Tiro Leggendario:_** Quest'arma non consuma munizioni normali ma dardi di pura luce. Spendi 1 Speranza per far sì che un attacco trapassi tutti i nemici in linea retta fino a gittata Remota.

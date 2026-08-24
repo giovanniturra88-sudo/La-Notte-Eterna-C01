@@ -10,4 +10,4 @@ type: Artefatto
 Il Bastone della Misericordia apparteneva a un angelo guaritore al servizio del dio. Caduto su uno dei mondi della [[Dimensione della Materia]], può essere utilizzato sia come arma che come prodigioso strumento di cura:
 - **Misericordia di Fadranstaff**: ogni volta che il personaggio usa una capacità magica per curare i Punti Ferita di una creatura, quella creatura recupera un ammontare di Punti Ferita aggiuntivi pari al doppio del livello del personaggio. Il possessore ottiene inoltre un bonus di Competenza in Medicina (o un bonus di maestria se aveva già la competenza).
 - **Eterno Pellegrinaggio**: il possessore del bastone non soffre stanchezza quando percorre lunghe distanze a piedi e ignora i terreni difficili naturali.
-- **Divina Purificazione**: una volta al giorno, il bastone permette di effettuare un Tiro di Incantesimo (Rimuovi Maledizione) e un Tiro di Incantesimo (Ristorazione Minore). Ricarica a riposo lungo.
+- **Divina Purificazione**: una volta al giorno, il bastone permette di effettuare un Tiro Incantesimo (Rimuovi Maledizione) e un Tiro Incantesimo (Ristorazione Minore). Ricarica a riposo lungo.

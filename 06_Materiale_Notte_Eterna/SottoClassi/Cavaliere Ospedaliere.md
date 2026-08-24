@@ -18,18 +18,18 @@ Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti
 ---
 
 ### Fondazione
-**_Dono della Guarigione:_** Spendendo 3 Speranza, puoi toccare una creatura per ripristinare immediatamente Punti Ferita pari al tuo Tier + il tuo modificatore di Incantesimo (minimo 1). Non ha effetto su costrutti o non morti.
+**_Dono della Guarigione:_** Spendendo 3 Speranza, puoi toccare una creatura per ripristinare immediatamente Punti Ferita pari al tuo rango + il tuo modificatore di Incantesimo (minimo 1). Non ha effetto su costrutti o non morti.
 
 ---
 
 ### Specializzazione
-**_Aura del Risanamento:_** Una volta per riposo, spendendo 2 Speranza, crei una calda aura entro portata Vicina. Finché resti concentrato in preghiera (senza muoverti o attaccare), ogni alleato che inizia il turno nell'area cura 1 Stress. Tutti gli attacchi contro di te hanno vantaggio.
+**_Aura del Risanamento:_** Una volta per riposo, spendendo 2 Speranza, crei una calda aura entro portata Ravvicinata. Finché resti concentrato in preghiera (senza muoverti o attaccare), ogni alleato che inizia il turno nell'area cura 1 Stress. Tutti gli attacchi contro di te hanno vantaggio.
 **_Risanatore Esperto:_** Aggiungi il tuo modificatore di Incantesimo a tutte le cure effettuate tramite magie o pergamene.
 
 ---
 
 ### Maestria
-**_Aura del Martirio:_** Quando un alleato entro portata Vicina sta per marcare uno o più Punti Ferita, puoi spendere 1 Stress per deviare l'attacco su di te. Tu subisci i Punti Ferita di danno al suo posto, riducibili tramite il tuo Punteggio Armatura.
+**_Aura del Martirio:_** Quando un alleato entro portata Ravvicinata sta per marcare uno o più Punti Ferita, puoi spendere 1 Stress per deviare l'attacco su di te. Tu subisci i Punti Ferita di danno al suo posto, riducibili tramite il tuo Punteggio di Armatura.
 
 ---
 

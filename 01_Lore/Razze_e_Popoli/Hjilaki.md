@@ -6,7 +6,7 @@ Gli alti vampiri sono conosciuti come hjilaki, un composto delle parole [[Karevi
 Gli hjilaki sono creature più affascinanti, scaltre e forti dei vampiri. Ai vertici di ogni banda, clan o nazione vampirica vi sono sempre hjilaki. Secondo quanto affermano loro stessi, gli hjilaki avrebbero mantenuto intatte le straordinarie caratteristiche del leggendario Primo, il progenitore dei vampiri di [[Neir]].
 ## Tratti degli Hjilaki
 Il personaggio perde tutti i suoi privilegi di razza ma conserva l'aspetto che aveva in vita, sebbene il suo incarnato acquisisca un estremo pallore e il colore delle sue iridi cambi in grigio, nero e in alcuni casi rossastro.
-Incremento dei Punteggi di Caratteristica. Il punteggio di Destrezza e Carisma del Hjilaki aumenta di 2 e il punteggio di Costituzione aumenta di 1.
+Incremento dei Punteggi di Caratteristica. Il punteggio di Agilità e Carisma del Hjilaki aumenta di 2 e il punteggio di Costituzione aumenta di 1.
 ### Tipo
 Non morto.
 ### Taglia

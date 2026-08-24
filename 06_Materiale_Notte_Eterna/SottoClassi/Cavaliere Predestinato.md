@@ -17,7 +17,7 @@ Paladini votati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da 
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Come azione, spendi 2 Speranza per marchiare un avversario entro portata Vicina. I tuoi attacchi contro di esso infliggono +1d6 danni magici radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
+**_Marchio di Laon:_** Come azione, spendi 2 Speranza per marchiare un avversario entro portata Ravvicinata. I tuoi attacchi contro di esso infliggono +1d6 danni magici radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
 
 ---
 

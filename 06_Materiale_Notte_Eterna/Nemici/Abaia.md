@@ -6,18 +6,18 @@ aliases:
  - Il principe delle Anguille
 ---
 * **Descrizione:** Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche.
-* **Tier:** 4 (Solo / Avversario Leggendario)
+* **Rango:** 4 (Solo / Avversario Leggendario)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 70
 * **Punti Ferita:** 12 | **Stress:** 8
 * **Attacchi:**
- * **Morso della Murena / Artigli:** +5 | Da Vicino (Melee) | 3d12+12 Tagliente/Perforante + 2d8 Elettrico
+ * **Morso della Murena / Artigli:** +5 | Ravvicinata (Melee) | 3d12+12 Tagliente/Perforante + 2d8 Elettrico
  * **Coda Avvolgente:** +4 | A Portata (Reach) | 2d10+10 Contundente (Il bersaglio è Trattenuto)
 * **Tratti e Capacità:**
  * **Anfibio Supremo:** Muove e combatte senza penalità in acqua.
  * **Strillo Stordente (1 Stress):** Abaia emette un grido subacqueo/terrestre lancinante. Tutte le creature vicine devono superare un Tiro di Reazione di Forza (Difficoltà 18) o rimanere Stordite fino al loro prossimo turno.
  * **Invocare la Tempesta (2 Paura):** Scatena fulmini devastanti in tutta l'area. Tutti i nemici a gittata Lontana subiscono 4d10+8 danni da Fulmine (metà se superano Agilità Difficoltà 19).
- * **Aura Elettrica:** Ogni creatura che inizia il turno a contatto o da Vicino ad Abaia subisce 1d8 danni da Fulmine.
+ * **Aura Elettrica:** Ogni creatura che inizia il turno a contatto o da Ravvicinato ad Abaia subisce 1d8 danni da Fulmine.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -32,14 +32,14 @@ esperienza: "+5"
 soglia_danni: "Minore: 25 | Maggiore: 48 | Grave: 70"
 attacchi:
   - name: "Morso della Murena / Artigli"
-    desc: "**+5** | Da Vicino (Melee) | **3d12+12** Tagliente/Perforante + **2d8** Elettrico"
+    desc: "**+5** | Ravvicinata (Melee) | **3d12+12** Tagliente/Perforante + **2d8** Elettrico"
   - name: "Coda Avvolgente"
     desc: "**+4** | A Portata (Reach) | **2d10+10** Contundente *(Il bersaglio è Trattenuto)*"
 tratti:
   - name: "Anfibio Supremo"
     desc: "Muove e combatte senza penalità in acqua."
   - name: "Aura Elettrica"
-    desc: "Ogni creatura che inizia il turno a contatto o da Vicino ad Abaia subisce **1d8** danni da Fulmine."
+    desc: "Ogni creatura che inizia il turno a contatto o da Ravvicinato ad Abaia subisce **1d8** danni da Fulmine."
 capacita_speciali:
   - name: "Strillo Stordente (Costo: 1 Stress)"
     desc: "Abaia emette un grido subacqueo/terrestre lancinante. Tutte le creature vicine devono superare un Tiro di Reazione di Forza (Difficoltà 18) o rimanere Stordite fino al loro prossimo turno."

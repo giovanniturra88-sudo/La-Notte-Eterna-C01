@@ -9,7 +9,7 @@ aliases:
 
 "Portatore della Prima Alba" è un'arma scagliata da [[Laon]] su [[Neir]] per sostenere i mortali nella loro lotta contro le creature della notte. Il fato volle che la pistola finisse nelle mani di [[Ghaeler]], il leggendario cacciatore di vampiri, che ne fece ottimo uso durante la sua lunga carriera. Per secoli i vampiri tentarono di distruggere l'arma ma alla morte di [[Ghaeler]], la pistola ascese al cielo e solo all'avvento della notte eterna è precipitata nuovamente sulla terra mortale come una meteora avvolta da fiamme dorate, pronta per essere brandita da un nuovo e valoroso eroe.
 ## Arma Divina
-Prima Lucis conferisce un bonus di +3 ai danni e al tiro per colpire e infligge 4d8 radianti extra. I suoi colpi contano come proiettili di luce solare. La pistola ha una portata standard di 18 m e una portata lunga di 54 m.
+Prima Lucis conferisce un bonus di +3 ai danni e al tiro d'attacco e infligge 4d8 radianti extra. I suoi colpi contano come proiettili di luce solare. La pistola ha una portata standard di 18 m e una portata lunga di 54 m.
 ## Guida Infallibile
 I colpi di Prima Lucis illuminano anche la notte più buia e quando si colpisce qualcosa con l'arma, che sia vivo o morto, la creatura o l'oggetto inizieranno a emettere luce intensa entro 3 m e luce fioca per altri 2 m per la durata di un minuto, svelando creature invisibili e rendendo impossibile nascondersi.
 ## Simulacro del Sole

@@ -14,13 +14,13 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
 * **Descrizione:** Tragica e maestosa figura reale, signora delle pianure desolate che portano il suo nome, che domina arti arcane e diplomazia con pugno di ferro.
-* **Tier:** 3 (Solo)
+* **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
 * **Punti Ferita:** 9 | **Stress:** 5
 * **Esperienza:** Persuasione +4, Inganno +4, Arcano +4, Storia +4, Percepire +1
 * **Attacchi:**
- * **Sciabola Cosmica:** +4 | Molto Vicina | 3d8+5 danni taglienti e psichici
+ * **Sciabola Cosmica:** +4 | Prossima | 3d8+5 danni taglienti e psichici
 * **Tratti e Capacità:**
  * **Scurovisione - Passiva:** vede nel buio (18 m).
  * **Volo - Passiva:** Può muoversi volando.
@@ -40,7 +40,7 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 
 #### **AZIONI**
 - **Multiattacco:** La Principessa Xanesh effettua fino a 2 attacchi con la Sciabola Cosmica o con i dardi di Energia Astrale.
-- **Sciabola Cosmica:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d8+5 danni taglienti e psichici.
+- **Sciabola Cosmica:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+5 danni taglienti e psichici.
 - **Sguardo di Dominio (una volta per scena):** La Principessa Xanesh fissa un bersaglio entro 18 m (Media). Il bersaglio deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
 
 #### **REAZIONI**

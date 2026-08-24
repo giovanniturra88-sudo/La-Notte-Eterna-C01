@@ -36,7 +36,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 ### Marchio della Luna Crescente
 * **Livello:** 6
 * **Costo:** 2 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 

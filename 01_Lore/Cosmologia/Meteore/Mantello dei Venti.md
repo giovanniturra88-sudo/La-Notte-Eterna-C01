@@ -6,7 +6,7 @@ type: Artefatto
 
 Volubile e capriccioso, il dio [[Adraoos]] ordinò agli elementali dell'aria suoi servitori di cucirgli un mantello formato di vento ma dopo qualche tempo si stancò di indossarlo e in un atto di vanità lo lasciò cadere su [[Neir]]. Il mantello è poco visibile quando cade come meteora perché i venti ne rallentano la caduta ed è anche per questo che, tranne per qualche strappo, è perfettamente integro. Il mantello appare di colore bianco candido nei giorni di cielo terso, grigio nei giorni nuvolosi e grigio scuro nei giorni di tempesta.
 ## Correnti a Favore
-Una volta per riposo lungo, spendendo un'azione il personaggio può sferzare l'aria col mantello ed effettuare un Tiro di Incantesimo per evocare una Folata di Vento. Può farlo un numero di volte pari al proprio livello.
+Una volta per riposo lungo, spendendo un'azione il personaggio può sferzare l'aria col mantello ed effettuare un Tiro Incantesimo per evocare una Folata di Vento. Può farlo un numero di volte pari al proprio livello.
 ## Protezione dei Venti
 Spendendo un'azione, il personaggio si avvolge nel mantello che lo ricopre di correnti protettive:
 - Gli attacchi a distanza hanno svantaggio a colpire il personaggio;
@@ -14,7 +14,7 @@ Spendendo un'azione, il personaggio si avvolge nel mantello che lo ricopre di co
 - La sua distanza di salto raddoppia e può effettuare l'azione di Scatto come parte della stessa azione.
 La capacità di *Protezione dei Venti* dura 1 minuto e si rigenera dopo un riposo lungo.
 ## Sferzata dei Venti Furiosi
-Usando un'azione e una volta per riposo lungo, il personaggio sfrega la sua arma nel mantello e la imbeve nei venti, effettua un Tiro di Incantesimo (Cono di Gelo).
+Usando un'azione e una volta per riposo lungo, il personaggio sfrega la sua arma nel mantello e la imbeve nei venti, effettua un Tiro Incantesimo (Cono di Gelo).
 ## Vento a Favore
 Usando un'azione e una volta al giorno, il personaggio può far sventolare il mantello anche senza vento, ottenendo vantaggio alle prove di Intimidire fino alla fine del turno successivo.
 ## Cangiante

@@ -38,18 +38,18 @@ Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai Tiri d'
 ### Pelle Arcana
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Conoscenza/Presenza)
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Conoscenza/Presenza)
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Personale
 
-La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e il tuo punteggio di Armatura base viene considerato almeno 15. Quando un nemico in gittata **Molto Vicina** ti colpisce con un attacco fisico, subisce immediatamente `d6` Danni Magici di ritorsione.
+La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e il tuo punteggio di Armatura base viene considerato almeno 15. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `d6` Danni Magici di ritorsione.
 
 ---
 
 ### Ruota di Fiamme
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo (Grazia o Presenza)
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Grazia o Presenza)
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 

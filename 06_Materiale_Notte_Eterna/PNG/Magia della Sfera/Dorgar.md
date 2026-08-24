@@ -14,21 +14,21 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
 * **Descrizione:** Imponente guerriero nano dalla tempra pari alla roccia delle montagne, scudo incrollabile contro le aberranti creature della Dimensione dello Spirito.
-* **Tier:** 3 (Solo)
+* **Rango:** 3 (Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 8 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Atletica +4, Storia +2, Percepire +3
 * **Attacchi:**
- * **Martello della Rupe:** +4 | Molto Vicina | 3d10+4 danni contundenti e magici
+ * **Martello della Rupe:** +4 | Prossima | 3d10+4 danni contundenti e magici
 * **Tratti e Capacità:**
  * **Resilienza Nanica - Passiva:** Vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
  * **Inamovibile - Passiva:** Non può essere spinto, buttato prono o mosso contro la sua volontà finché si trova su una superficie di pietra o terra.
  * **Resistenza al Danno - Passiva:** Resiste ai danni da veleno e ai danni fisici; è immune all'avvelenamento.
  * **Scurovisione - Passiva:** vede nel buio (18 m).
  * **Attacchi Multipli - Azione:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
- * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
- * **Proteggere l'Alleato - Reazione:** Quando una creatura attacca un alleato di Dorgar in portata Molto Vicina, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
+ * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
+ * **Proteggere l'Alleato - Reazione:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
 
 ---
 
@@ -38,11 +38,11 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
 
 #### **AZIONI**
 - **Attacchi Multipli:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
-- **Martello della Rupe:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Molto Vicina, un bersaglio. Colpito: 3d10+4 danni contundenti e magici.
-- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Vicina deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
+- **Martello della Rupe:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d10+4 danni contundenti e magici.
+- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
 
 #### **REAZIONI**
-- **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar in portata Molto Vicina, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
+- **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
 
 ---
 

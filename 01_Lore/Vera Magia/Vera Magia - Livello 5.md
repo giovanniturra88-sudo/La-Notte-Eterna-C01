@@ -11,11 +11,11 @@ tags:
 ### Dardo Incantato Supremo
 * **Livello:** 5
 * **Costo:** 2 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Istantaneo
-* **Gittata:** Molto Lontano (Very Far)
+* **Gittata:** Remoto (Very Far)
 
-Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `1d20+33` Danni Magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Vicina** dal punto d'impatto, spingendoli indietro e infliggendo `1d20-2` danni magici a meno che non superino un Tiro di Reazione di Forza.
+Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `1d20+33` Danni Magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Ravvicinata** dal punto d'impatto, spingendoli indietro e infliggendo `1d20-2` danni magici a meno che non superino un Tiro di Reazione di Forza.
 
 ---
 
@@ -24,7 +24,7 @@ Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta 
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro d'Attacco Magico
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Vicino / Medio
+* **Gittata:** Ravvicinato / Medio
 
 Cree una frusta d'energia arcana che infligge `1d20+3` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
 - **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `1d20-4` danni da urto).
@@ -58,7 +58,7 @@ Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene
 ### Raggio Lunare di Najestarr
 * **Livello:** 5
 * **Costo:** 2 Speranza
-* **Tiro d'Attacco / Magia:** Tiro di Incantesimo
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 

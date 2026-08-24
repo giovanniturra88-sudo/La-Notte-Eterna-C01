@@ -5,12 +5,12 @@ type:
 ---
 ## Spirito della Terra
 * **Descrizione:** Piccolo e burbero spirito della terra che dimora nei monticoli e punisce chi calpesta la sua dimora senza rispetto.
-* **Tier:** 1 (Supporto / Terreno)
+* **Rango:** 1 (Supporto / Terreno)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 5 | Maggiore: 8 | Grave: 15
 * **Punti Ferita:** 3 | **Stress:** 4
 * **Attacchi:**
- * **Scossa di Terra:** +2 | Da Vicino | 1d8+3 Contundente
+ * **Scossa di Terra:** +2 | Ravvicinata | 1d8+3 Contundente
 * **Tratti e Capacità:**
  * **Fattura del Nuno (1 Stress):** Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato.
 
@@ -27,7 +27,7 @@ esperienza: "+3"
 soglia_danni: "Minore: 5 | Maggiore: 8 | Grave: 15"
 attacchi:
   - name: "Scossa di Terra"
-    desc: "**+2** | Da Vicino | **1d8+3** Contundente"
+    desc: "**+2** | Ravvicinata | **1d8+3** Contundente"
 tratti:
   - name: "Fattura del Nuno"
     desc: "Infligge una maledizione che causa gonfiore e dolori ai piedi del malcapitato (1 Stress)."

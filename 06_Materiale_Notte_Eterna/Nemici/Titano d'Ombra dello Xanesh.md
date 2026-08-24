@@ -5,12 +5,12 @@ type:
 ---
 ## Titano d'Ombra dello Xanesh
 * **Descrizione:** Colosso di pura ombra legato ai rituali proibiti della principessa Xanesh.
-* **Tier:** 4 (Solo / Avversario)
+* **Rango:** 4 (Solo / Avversario)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 28 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 11 | **Stress:** 8
 * **Attacchi:**
- * **Schianto d'Ombra:** +5 | Area Vicina | 3d12+8 Necrotico
+ * **Schianto d'Ombra:** +5 | Area Ravvicinata | 3d12+8 Necrotico
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -25,5 +25,5 @@ esperienza: "+6"
 soglia_danni: "Minore: 28 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Schianto d'Ombra"
-    desc: "**+5** | Area Vicina | **3d12+8** Necrotico"
+    desc: "**+5** | Area Ravvicinata | **3d12+8** Necrotico"
 ```

@@ -5,6 +5,6 @@ type:
 
 **_Sacra Ampolla del Cavaliere_**
 
-_Oggetto Consumabile di Tier 2_
+_Oggetto Consumabile di Rango 2_
 
 Un'ampolla contenente acqua benedetta. Quando viene bevuta o versata su una ferita, cura 2 Punti Ferita gravi e rimuove qualsiasi maledizione di basso livello o effetto di debolezza spirituale.

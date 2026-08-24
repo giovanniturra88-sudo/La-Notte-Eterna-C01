@@ -5,7 +5,7 @@ type:
 ---
 ## Ninfa della Discordia
 * **Descrizione:** Spirito corrotto della natura che instilla odio, paranoia e follia tra i compagni di viaggio.
-* **Tier:** 2 (Social / Controllore)
+* **Rango:** 2 (Social / Controllore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 7 | Maggiore: 14 | Grave: 22
 * **Punti Ferita:** 4 | **Stress:** 5

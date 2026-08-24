@@ -5,12 +5,12 @@ type:
 ---
 ## Rotloss
 * **Descrizione:** Umanoide non-morto coperto di piaghe e marciume fungino che infetta chiunque lo tocchi.
-* **Tier:** 1 (Minion)
+* **Rango:** 1 (Minion)
 * **Difficoltà:** 11
 * **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 15
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
- * **Artigli Marci:** +2 | Da Vicino | 1d8+2 Necrotico
+ * **Artigli Marci:** +2 | Ravvicinata | 1d8+2 Necrotico
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -25,5 +25,5 @@ esperienza: "+2"
 soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 15"
 attacchi:
   - name: "Artigli Marci"
-    desc: "**+2** | Da Vicino | **1d8+2** Necrotico"
+    desc: "**+2** | Ravvicinata | **1d8+2** Necrotico"
 ```

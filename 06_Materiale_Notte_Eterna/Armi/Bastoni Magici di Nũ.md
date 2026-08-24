@@ -8,8 +8,7 @@ original_name: "Bastoni Magici di Nũ"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: instinct
-type: 
+tratto: istintotype: 
  - "[[Arma]]"
 ---
 

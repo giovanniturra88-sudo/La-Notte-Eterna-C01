@@ -10,7 +10,7 @@ L'angelo Leamak era tra i più forti guerrieri della schiera di [[Laon]]. Quando
 Il suo sacrificio purtroppo fu totalmente inutile. Il colpo che avrebbe potuto polverizzare un'intera nazione venne deviato con un battito di ciglia e la spada infusa dell'anima di Leamak scagliata come meteora sul mondo di [[Neir]].
 Kanptazu è il nome dell'arma appartenuta all'angelo Leamak, campione dell'esercito di [[Laon]], la cui anima è rimasta intrappolata all'interno dell'arma. Impugnare questa spada leggendaria darà nuova speranza ai servitori del bene, a un prezzo che però potrebbe costare caro al portatore prescelto.
 Finché il personaggio è in sintonia con Kanptazu ottiene i seguenti benefici:
-- **Arma Divina**: Kanptazu conferisce un bonus di +3 ai tiri per colpire e ai danni, inoltre i suoi danni ignorano le resistenze e immunità di immondi e non morti.
+- **Arma Divina**: Kanptazu conferisce un bonus di +3 ai tiri d'attacco e ai danni, inoltre i suoi danni ignorano le resistenze e immunità di immondi e non morti.
 - **Lingua Angelica**: il personaggio può parlare, leggere e scrivere celestiale.
 - **Resistenza Celestiale**: il personaggio ottiene resistenza ai danni radianti e necrotici.
 - **Presenza Divina Furiosa**: il punteggio di Carisma e Forza del personaggio salgono a 20. Se il suo punteggio di Forza o Carisma è già pari o superiore o 20, questo beneficio non ha alcun effetto.

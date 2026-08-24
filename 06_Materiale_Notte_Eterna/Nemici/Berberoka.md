@@ -5,7 +5,7 @@ type:
 ---
 ## Berberoka
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.
-* **Tier:** 2 (Controllore / Agguato)
+* **Rango:** 2 (Controllore / Agguato)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
