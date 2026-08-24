@@ -21,7 +21,7 @@ type:
 | 2 | Devi sempre tirare tutti e sei i dadi. Se non ci sono abbastanza Dadi del Destino per riempire la riserva, puoi usare Stress al loro posto (es. se hai quattro Dadi del Destino e ne servono sei, segna due Stress). |
 | 3 | Ogni volta che un PG segna Stress, segna uno Stress aggiuntivo. |
 | 4 | Quando una mossa del GM causa la perdita di Dadi del Destino, al loro posto vengono segnati altrettanti Stress. |
-| 5 | Se perdi l'intera riserva di Dadi del Destino in un singolo tiro, devi immediatamente effettuare una mossa di morte come se fossi stato sconfitto. |
+| 5 | Se perdi l'intera riserva di Dadi del Destino in un singolo tiro, devi immediatamente effettuare una Mossa finale come se fossi stato sconfitto. |
 | 6 | Non puoi spendere Speranza per recuperare Dadi del Destino. |
 
 **_La Casa Vince Sempre - Passiva:** Tutte le poste e le scommesse fatte qui sono automaticamente rivolte contro la casa, piuttosto che contro un singolo individuo. _Che tipo di giochi sono disponibili? Cosa succede quando qualcuno vince una somma particolarmente ingente?_

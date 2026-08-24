@@ -14,7 +14,7 @@ Sottoclasse della [[Witch|Strega]]
 
 Le streghe della Congrega della Luna (Moon Coven) traggono il proprio potere dal firmamento e dall'influenza della luna, ammantandosi di illusioni ammalianti e adattando la propria forza interiore alle mutevoli fasi celesti.
 
-- **CARATTERISTICA DA INCANTESIMO -** Istinto
+- **TRATTO DA INCANTATORE -** Istinto
 
 ## Caratteristiche di Fondazione (Rango 1)
 

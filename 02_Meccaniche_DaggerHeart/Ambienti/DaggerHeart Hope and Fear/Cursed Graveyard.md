@@ -13,7 +13,7 @@ type:
 
 ### CARATTERISTICHE
 
-**_C'è Posto per un Altro - Passiva:** Se un PG segna il suo ultimo PF mentre si trova nel cimitero, diventa uno _Spettro_ invece di effettuare una mossa di morte. Mentre è uno _Spettro_, un PG può comunicare con i vivi ma non può interagire con il mondo fisico, e deve restare entro portata Ravvicinata dal proprio cadavere o oltrepassare il velo della morte. Questa condizione viene rimossa quando il PG rimuove un PF. _Quali nuove informazioni o esperienze ottiene un PG diventando uno spettro? Come può il gruppo ricongiungere lo spirito del PG alla sua carne? Cosa succede se il loro rituale va storto?_
+**_C'è Posto per un Altro - Passiva:** Se un PG segna il suo ultimo PF mentre si trova nel cimitero, diventa uno _Spettro_ invece di effettuare una Mossa finale. Mentre è uno _Spettro_, un PG può comunicare con i vivi ma non può interagire con il mondo fisico, e deve restare entro portata Ravvicinata dal proprio cadavere o oltrepassare il velo della morte. Questa condizione viene rimossa quando il PG rimuove un PF. _Quali nuove informazioni o esperienze ottiene un PG diventando uno spettro? Come può il gruppo ricongiungere lo spirito del PG alla sua carne? Cosa succede se il loro rituale va storto?_
 
 **_Terreno Sacro - Passiva:** Al centro del cimitero c'è una cappella apparentemente intatta. Con un Tiro di Istinto riuscito, un PG può scoprire che questa struttura è consacrata contro gli abitanti del cimitero. Mentre si trovano nella cappella, i PG hanno vantaggio sui tiri d'azione per combattere o scacciare spiriti e non morti. _Chi ha consacrato questo luogo, e cosa gli è successo? Quali reliquie sacre si possono trovare qui?_
 

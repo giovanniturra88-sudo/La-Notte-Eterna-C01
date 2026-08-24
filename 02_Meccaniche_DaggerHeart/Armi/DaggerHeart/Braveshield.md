@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Rifugio:_** Quando segni uno Caselle Armatura, riduci il danno per te e per tutti gli alleati entro Portata Corpo a Corpo da te che hanno subito lo stesso danno.
+**_Rifugio:_** Quando segni una Casella Armatura, riduci il danno per te e per tutti gli alleati entro Portata Corpo a Corpo da te che hanno subito lo stesso danno.
 ---

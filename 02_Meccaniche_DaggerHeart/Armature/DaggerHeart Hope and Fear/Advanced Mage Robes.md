@@ -13,4 +13,4 @@ tier: 3
 - **Soglie di Danno:** 8 / 22
 - **Punteggio di Armatura:** 4
 
-> Incantesimo: Ottieni un bonus alle tue soglie di danno pari al tuo tratto Incantare.
+> Incantesimo: Ottieni un bonus alle tue soglie di danno pari al tuo tratto da Incantatore.

@@ -13,7 +13,7 @@ spellcast_trait: Conoscenza
 
 La Teurgia permette al Summoner di canalizzare il divino e la luce, evocando angeli, arcangeli e manifestazioni celesti per sostenere ed elevare la propria squadra.
 
-- **TRATTO DA INCANTESIMO:** Conoscenza
+- **TRATTO DA INCANTATORE:** Conoscenza
 
 ---
 

@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 11 / 23
 - **Punteggio di Armatura:** 4
 
-> Ingombrante: −1 a Agilità
+> Ingombrante: −1 ad Agilità

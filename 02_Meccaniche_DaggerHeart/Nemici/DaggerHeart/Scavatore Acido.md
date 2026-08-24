@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Lo Scavatore può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco.
  * **Eruzione Terrestre - Azione:** **Segnare uno Stress** per far sì che lo Scavatore esca dalla terra. Tutte le creature in portata Prossima devono superare un Tiro di Reazione di Agilità o essere rovesciate, rendendole _Vulnerabili_ fino al loro prossimo turno.
- * **Sputo d'Acido - Azione:** Effettua un attacco contro tutti i bersagli davanti allo Scavatore in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono **2d6** danni fisici e devono segnare uno Slot di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare uno Slot di Armatura, devono segnare un PF aggiuntivo e tu guadagni una Paura.
+ * **Sputo d'Acido - Azione:** Effettua un attacco contro tutti i bersagli davanti allo Scavatore in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono **2d6** danni fisici e devono segnare una Casella Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare una Casella Armatura, devono segnare un PF aggiuntivo e tu guadagni una Paura.
  * **Bagnata d'Acido - Reazione:** Quando lo Scavatore subisce danni Gravi, tutte le creature in portata Ravvicinata vengono bagnate con il suo sangue acido, subendo **1d10** danni fisici. Questo getto copre il terreno in portata Prossima con sangue, e tutte le creature diverse dallo Scavatore che vi si muovono subiscono **1d6** danni fisici.
 
 ```statblock
@@ -40,7 +40,7 @@ capacita_speciali:
   - name: "Eruzione Terrestre"
     desc: "*- Azione:* Segnare uno Stress per far sì che lo Scavatore esca dalla terra. Tutte le creature in portata Prossima devono superare un Tiro di Reazione di Agilità o essere rovesciate, rendendole Vulnerabili fino al loro prossimo turno."
   - name: "Sputo d'Acido"
-    desc: "*- Azione:* Effettua un attacco contro tutti i bersagli davanti allo Scavatore in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono 2d6 danni fisici e devono segnare uno Slot di Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare uno Slot di Armatura, devono segnare un PF aggiuntivo e tu guadagni una Paura."
+    desc: "*- Azione:* Effettua un attacco contro tutti i bersagli davanti allo Scavatore in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono 2d6 danni fisici e devono segnare una Casella Armatura senza riceverne i benefici (possono comunque usare l'armatura per ridurre i danni). Se non possono segnare una Casella Armatura, devono segnare un PF aggiuntivo e tu guadagni una Paura."
   - name: "Bagnata d'Acido"
     desc: "*- Reazione:* Quando lo Scavatore subisce danni Gravi, tutte le creature in portata Ravvicinata vengono bagnate con il suo sangue acido, subendo 1d10 danni fisici. Questo getto copre il terreno in portata Prossima con sangue, e tutte le creature diverse dallo Scavatore che vi si muovono subiscono 1d6 danni fisici."
 ```

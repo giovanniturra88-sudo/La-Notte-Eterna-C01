@@ -14,7 +14,7 @@ Sottoclasse del [[Warlock]]
 
 Il Patto dell'Ira (Pact of the Wrathful) trasforma il warlock in un araldo di distruzione, infondendo i suoi attacchi della collera divina del patrono per punire e incenerire chiunque osi opporsi alla sua volontà.
 
-- **CARATTERISTICA DA INCANTESIMO -** Presenza
+- **TRATTO DA INCANTATORE -** Presenza
 
 ## Caratteristiche di Fondazione (Rango 1)
 

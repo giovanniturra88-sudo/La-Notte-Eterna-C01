@@ -13,7 +13,7 @@ spellcast_trait: Conoscenza
 
 La Necromanzia consente al Summoner di rianimare e controllare spiriti e corpi decaduti per tormentare i nemici e proteggere se stesso.
 
-- **TRATTO DA INCANTESIMO:** Conoscenza
+- **TRATTO DA INCANTATORE:** Conoscenza
 
 ---
 

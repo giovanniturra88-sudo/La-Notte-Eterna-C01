@@ -15,7 +15,7 @@ type:
  * **Morso e Artigli:** +7 | Ravvicinata | 4d10 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco.
- * **Squarcia e Schiaccia - Passiva:** Se una vittima danneggiata dal Drago non segna uno Slot di Armatura per ridurre il danno, deve segnare Stress.
+ * **Squarcia e Schiaccia - Passiva:** Se una vittima danneggiata dal Drago non segna una Casella Armatura per ridurre il danno, deve segnare Stress.
  * **Nessuna Speranza - Passiva:** Quando un PG tira con Paura mentre si trova in portata Lontana del Drago, perde una Speranza.
  * **Respiro di Neve - Azione:** **Spendere 2 Paura** per rilasciare una spirale glaciale davanti al Drago entro portata Ravvicinata. Tutti i bersagli in quest'area devono effettuare un Tiro di Reazione di Agilità. Chi fallisce subisce **4d6+5** danni magici e viene _Trattenuto_ dal ghiaccio fino a quando non si libera con un successo su un Tiro di Forza. Chi ha successo deve segnare 2 Stress oppure subire metà danno.
  * **Frana - Azione:** **Spendere una Paura** per far sì che il Drago rilasci un enorme crollo di neve e ghiaccio, coprendo tutte le altre creature entro portata Lontana. Tutti i bersagli in quest'area devono superare un Tiro di Reazione di Istinto o essere seppelliti sotto neve e rocce, diventando _Vulnerabili_ fino a quando non si liberano dai detriti. Per ogni PG che fallisce il tiro di reazione, guadagni una Paura.
@@ -40,7 +40,7 @@ tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Il Drago può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco."
   - name: "Squarcia e Schiaccia"
-    desc: "*- Passiva:* Se una vittima danneggiata dal Drago non segna uno Slot di Armatura per ridurre il danno, deve segnare Stress."
+    desc: "*- Passiva:* Se una vittima danneggiata dal Drago non segna una Casella Armatura per ridurre il danno, deve segnare Stress."
   - name: "Nessuna Speranza"
     desc: "*- Passiva:* Quando un PG tira con Paura mentre si trova in portata Lontana del Drago, perde una Speranza."
 capacita_speciali:

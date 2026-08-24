@@ -16,7 +16,7 @@ aliases:
 * **Attacchi:**
  * **Pugni Muscolosi:** +4 | Ravvicinata | 4d10+10 fisico
 * **Tratti e Capacità:**
- * **Pelle Tossica - Passiva:** Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare uno Slot di Armatura o 2 PF.
+ * **Pelle Tossica - Passiva:** Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare una Casella Armatura o 2 PF.
  * **Abbraccio dell'Orso - Azione:** Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce danni standard ed è *Agganciato* finché non si libera con un Tiro di Forza riuscito. Mentre è *Agganciato*, il bersaglio è *Vulnerabile* e *Trattenuto*.
  * **CRUNCH! - Azione:** Spendere una Paura per infliggere 4d12 danni fisici diretti a una creatura *Agganciata* dall'Abominio.
  * **Attacco della Lingua - Azione:** Spendere una Paura per far trascinare all'Abominio un bersaglio entro portata Lontana in portata Ravvicinata, poi mettere immediatamente l'Abominio a fuoco di nuovo.
@@ -38,7 +38,7 @@ attacchi:
     desc: "**+4** | Ravvicinata | **4d10+10** fisico"
 tratti:
   - name: "Pelle Tossica"
-    desc: "*- Passiva:* Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare uno Slot di Armatura o 2 PF."
+    desc: "*- Passiva:* Un PG che entra in contatto fisico con l'Abominio deve tirare un d6. Con un risultato di 3 o inferiore, il PG deve segnare una Casella Armatura o 2 PF."
 capacita_speciali:
   - name: "Abbraccio dell'Orso"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce danni standard ed è *Agganciato* finché non si libera con un Tiro di Forza riuscito. Mentre è *Agganciato*, il bersaglio è *Vulnerabile* e *Trattenuto*."

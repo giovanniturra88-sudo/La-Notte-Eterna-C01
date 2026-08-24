@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Forma Caotica - Passiva:** Quando l'Abominio attacca, lanciare **2d4** e usare il risultato come modificatore d'attacco.
  * **Presenza Disorientante - Passiva:** Quando un bersaglio subisce danni dall'Abominio, deve effettuare un Tiro di Reazione di Istinto. In caso di fallimento, ottiene svantaggio sul suo prossimo tiro d'azione e tu guadagni una Paura.
- * **Terremoto della Realtà - Azione:** **Spendere una Paura** per scuotere i confini della realtà entro la portata Lontana dell'Abominio. Tutti i bersagli in quell'area devono superare un Tiro di Reazione di Conoscenza o diventano _Fuori Luogo_ dalla realtà fino alla fine della scena. Quando un bersaglio _Fuori Luogo_ spende Speranza o segna Slot di Armatura, PF o Stress, deve raddoppiare l'ammontare speso o segnato.
+ * **Terremoto della Realtà - Azione:** **Spendere una Paura** per scuotere i confini della realtà entro la portata Lontana dell'Abominio. Tutti i bersagli in quell'area devono superare un Tiro di Reazione di Conoscenza o diventano _Fuori Luogo_ dalla realtà fino alla fine della scena. Quando un bersaglio _Fuori Luogo_ spende Speranza o segna Casella Armatura, PF o Stress, deve raddoppiare l'ammontare speso o segnato.
  * **Forma Irreale - Reazione:** Quando l'Abominio subisce danni, ridurli di **1d20**. Se l'Abominio segna 1 o meno Punti Ferita da un attacco riuscito contro di esso, guadagni una Paura.
 
 ```statblock
@@ -39,7 +39,7 @@ tratti:
     desc: "*- Passiva:* Quando un bersaglio subisce danni dall'Abominio, deve effettuare un Tiro di Reazione di Istinto. In caso di fallimento, ottiene svantaggio sul suo prossimo tiro d'azione e tu guadagni una Paura."
 capacita_speciali:
   - name: "Terremoto della Realtà"
-    desc: "*- Azione:* Spendere una Paura per scuotere i confini della realtà entro la portata Lontana dell'Abominio. Tutti i bersagli in quell'area devono superare un Tiro di Reazione di Conoscenza o diventano Fuori Luogo dalla realtà fino alla fine della scena. Quando un bersaglio Fuori Luogo spende Speranza o segna Slot di Armatura, PF o Stress, deve raddoppiare l'ammontare speso o segnato."
+    desc: "*- Azione:* Spendere una Paura per scuotere i confini della realtà entro la portata Lontana dell'Abominio. Tutti i bersagli in quell'area devono superare un Tiro di Reazione di Conoscenza o diventano Fuori Luogo dalla realtà fino alla fine della scena. Quando un bersaglio Fuori Luogo spende Speranza o segna Casella Armatura, PF o Stress, deve raddoppiare l'ammontare speso o segnato."
   - name: "Forma Irreale"
     desc: "*- Reazione:* Quando l'Abominio subisce danni, ridurli di 1d20. Se l'Abominio segna 1 o meno Punti Ferita da un attacco riuscito contro di esso, guadagni una Paura."
 ```

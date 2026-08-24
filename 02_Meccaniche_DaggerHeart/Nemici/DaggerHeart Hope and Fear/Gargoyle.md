@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Non-Vivente - Passiva:** Il Gargoyle ha resistenza ai danni magici.
  * **Colpo in Tuffo - Azione:** Scegli un punto entro portata Lontana. Il Gargoyle si muove a quel punto ed effettua un attacco standard contro un bersaglio lungo il suo percorso.
- * **Taglio Petrificante - Reazione:** Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Trattenuto*. Se il bersaglio è già *Vulnerabile* e *Trattenuto*, deve effettuare una mossa di morte. Il PG può spendere una Speranza per condizione per rimuoverla.
+ * **Taglio Petrificante - Reazione:** Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Trattenuto*. Se il bersaglio è già *Vulnerabile* e *Trattenuto*, deve effettuare una Mossa finale. Il PG può spendere una Speranza per condizione per rimuoverla.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -39,5 +39,5 @@ capacita_speciali:
   - name: "Colpo in Tuffo"
     desc: "*- Azione:* Scegli un punto entro portata Lontana. Il Gargoyle si muove a quel punto ed effettua un attacco standard contro un bersaglio lungo il suo percorso."
   - name: "Taglio Petrificante"
-    desc: "*- Reazione:* Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Trattenuto*. Se il bersaglio è già *Vulnerabile* e *Trattenuto*, deve effettuare una mossa di morte. Il PG può spendere una Speranza per condizione per rimuoverla."
+    desc: "*- Reazione:* Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Trattenuto*. Se il bersaglio è già *Vulnerabile* e *Trattenuto*, deve effettuare una Mossa finale. Il PG può spendere una Speranza per condizione per rimuoverla."
 ```

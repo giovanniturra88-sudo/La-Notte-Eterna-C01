@@ -53,7 +53,7 @@ Su un attacco andato a segno a portata di Mischia, puoi spendere Concentrazione 
 Su un attacco andato a segno, costringi il bersaglio a marcare **uno Stress**.
 
 #### Stabile (Stable)
-Puoi spendere un segnalino Concentrazione invece di marcare uno Caselle Armatura per ridurre i danni subiti.
+Puoi spendere un segnalino Concentrazione invece di marcare una Casella Armatura per ridurre i danni subiti.
 
 #### Vigile (Vigilant)
 Quando sei il bersaglio di un attacco, puoi marcare uno Stress per guadagnare un bonus di **+1d6 alla tua Evasione** contro quell'attacco.

@@ -13,7 +13,7 @@ spellcast_trait: Forza
 
 Questo ordine incanala lo spirito e la maledizione del mannaro, consentendo al Blood Hunter di assumere una potente forma ibrida in battaglia.
 
-- **TRATTO DA INCANTESIMO:** Forza
+- **TRATTO DA INCANTATORE:** Forza
 
 ---
 

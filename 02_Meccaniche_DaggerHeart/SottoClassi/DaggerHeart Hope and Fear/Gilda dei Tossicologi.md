@@ -14,7 +14,7 @@ Sottoclasse dell'[[Assassin|Assassino]]
 
 I membri della Gilda dei Tossicologi (o degli Avvelenatori) preferiscono indebolire e debilitare le proprie vittime attraverso l'uso di letali tossine e veleni preparati accuratamente, sottomettendo anche i nemici più formidabili attraverso agonia e sofferenza.
 
-- **CARATTERISTICA DA INCANTESIMO -** Conoscenza
+- **TRATTO DA INCANTATORE -** Conoscenza
 
 ## Caratteristiche di Fondazione (Rango 1)
 

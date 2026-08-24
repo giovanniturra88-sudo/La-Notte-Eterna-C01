@@ -13,7 +13,7 @@ spellcast_trait: Agilità
 
 Questo ordine raccoglie i Blood Hunter che scivolano tra il regno dei vivi e quello dei morti per rintracciare ed eliminare le loro prede.
 
-- **TRATTO DA INCANTESIMO:** Agilità
+- **TRATTO DA INCANTATORE:** Agilità
 
 ---
 

@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Scavatrice - Passiva:** Il Landshark può muoversi attraverso il terreno con la stessa facilità con cui si muove sopra di esso. Quando il Landshark si muove, può scegliere di scavare o emergere. Mentre è sottoterra, il Landshark ha resistenza a tutti i danni ma non può attaccare.
  * **Pelle Spessa - Passiva:** Quando il Landshark dovrebbe essere costretto a segnare un qualsiasi numero di PF, puoi segnare un numero uguale di Stress al suo posto.
- * **Morsicatura Straziante - Reazione:** Quando il Landshark effettua un attacco riuscito contro un PG entro portata Ravvicinata, puoi spendere una Paura per costringere il bersaglio a segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+ * **Morsicatura Straziante - Reazione:** Quando il Landshark effettua un attacco riuscito contro un PG entro portata Ravvicinata, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -39,5 +39,5 @@ tratti:
     desc: "*- Passiva:* Quando il Landshark dovrebbe essere costretto a segnare un qualsiasi numero di PF, puoi segnare un numero uguale di Stress al suo posto."
 capacita_speciali:
   - name: "Morsicatura Straziante"
-    desc: "*- Reazione:* Quando il Landshark effettua un attacco riuscito contro un PG entro portata Ravvicinata, puoi spendere una Paura per costringere il bersaglio a segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
+    desc: "*- Reazione:* Quando il Landshark effettua un attacco riuscito contro un PG entro portata Ravvicinata, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
 ```

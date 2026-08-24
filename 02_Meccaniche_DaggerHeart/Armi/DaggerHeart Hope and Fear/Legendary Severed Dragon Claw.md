@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Zanna del Drago Tronca Leggendario
 
-**_Distruttivo: −1 a Agilità; con un attacco riuscito, tutti gli avversari entro gittata Prossima devono segnare uno Stress_**
+**_Distruttivo: −1 ad Agilità; con un attacco riuscito, tutti gli avversari entro gittata Prossima devono segnare uno Stress_**
 
 ---

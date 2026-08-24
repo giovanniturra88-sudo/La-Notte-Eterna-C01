@@ -2,7 +2,8 @@
 type:
   - "[[Item]]"
 alias: ["Titans_Girdle"]
-rarity: "Non Comune"original_rarity: "Uncommon"
+rarity: "Non Comune"
+original_rarity: "Uncommon"
 roll: 22
 ---
 

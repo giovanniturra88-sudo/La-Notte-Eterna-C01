@@ -14,7 +14,7 @@ Sottoclasse del [[Warlock]]
 
 Il Patto dell'Infinito (Pact of the Endless) concede al warlock il potere di resistere ai colpi più devastanti e di sfuggire persino all'abbraccio della morte, avvolgendosi nell'aspetto eterno e inamovibile del proprio patrono.
 
-- **CARATTERISTICA DA INCANTESIMO -** Presenza
+- **TRATTO DA INCANTATORE -** Presenza
 
 ## Caratteristiche di Fondazione (Rango 1)
 

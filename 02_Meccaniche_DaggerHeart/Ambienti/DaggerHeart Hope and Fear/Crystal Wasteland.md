@@ -11,7 +11,7 @@ type:
 **Avversari Potenziali:** Falena Scintillante Adulta, Costrutti, Scintilla Elementale, Guardiani della Volta, Spettri Sussurranti
 
 ## CARATTERISTICHE
-* **Risonanza Armonica - Passiva:** I cristalli qui riverberano di energia magica. Un PG può usare una mossa di downtime per cercare di *Sintonizzarsi* con l'ambiente con un Tiro Incantesimo riuscito. Mentre è *Sintonizzato*, il PG ha vantaggio sui Tiri per Lanciare Incantesimi all'interno della Terra Desolata di Cristallo. La condizione viene rimossa quando il PG lascia la Terra Desolata di Cristallo.
+* **Risonanza Armonica - Passiva:** I cristalli qui riverberano di energia magica. Un PG può usare una mossa di downtime per cercare di *Sintonizzarsi* con l'ambiente con un Tiro Incantesimo riuscito. Mentre è *Sintonizzato*, il PG ha vantaggio sui Tiri Incantesimo all'interno della Terra Desolata di Cristallo. La condizione viene rimossa quando il PG lascia la Terra Desolata di Cristallo.
  * *In che modo la sintonizzazione con questo luogo altera la tua esperienza sensoriale? Quale suono o canzone della tua infanzia evoca questo luogo?*
 * **Anomalie Gravitazionali - Azione:** Strani fenomeni localizzati punteggiano il paesaggio, distorcendo distanza e direzione. Spendi una Paura per alterare la gravità in un punto scelto. Ogni bersaglio entro portata Ravvicinata da quel punto deve effettuare un Tiro di Reazione di Conoscenza per calcolare le proprie nuove traiettorie. I bersagli che falliscono subiscono 3d8+4 danni fisici mentre vengono scagliati in alto e lontano. I bersagli che riescono devono segnare uno Stress o subire metà danno.
  * *Cosa si prova mentre il tuo corpo e la tua mente lottano per ristabilire l'equilibrio? C'è un modo per volgere tutto ciò a tuo vantaggio?*

@@ -6,6 +6,6 @@ Costo di Richiamo: 2
 Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese: Bleeding Tree
 ---
-Una volta per [[Riposo Lungo]], quando un avversario entro raggio [[Ravvicinato]] viene sconfitto, puoi far eruttare dal suo corpo un albero contorto e venoso che trasuda forza vitale. Posiziona su questa carta un numero di segnalini pari al tuo tratto Lanciare Incantesimi.
+Una volta per [[Riposo Lungo]], quando un avversario entro raggio [[Ravvicinato]] viene sconfitto, puoi far eruttare dal suo corpo un albero contorto e venoso che trasuda forza vitale. Posiziona su questa carta un numero di segnalini pari al tuo tratto da Incantatore.
 
-Un PG entro raggio di [[Mischia]] dall'albero può spendere un segnalino da questa carta per sifonare forza vitale dall'albero e curare un [[Punti Ferita]].
+Un PG entro raggio di [[Mischia]] dall'albero può spendere un segnalino da questa carta per sifonare forza vitale dall'albero e curare 1 [[Punti Ferita]].

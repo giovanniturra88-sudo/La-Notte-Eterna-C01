@@ -2,7 +2,8 @@
 type:
   - "[[Consumabile]]"
 alias: ["Salamander_Salve"]
-rarity: "Non Comune"original_rarity: "Uncommon"
+rarity: "Non Comune"
+original_rarity: "Uncommon"
 roll: 28
 ---
 

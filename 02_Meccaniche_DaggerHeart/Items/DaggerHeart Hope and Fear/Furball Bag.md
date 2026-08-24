@@ -2,7 +2,8 @@
 type:
   - "[[Item]]"
 alias: ["Furball_Bag"]
-rarity: "Non Comune"original_rarity: "Uncommon"
+rarity: "Non Comune"
+original_rarity: "Uncommon"
 roll: 24
 ---
 

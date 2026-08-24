@@ -14,5 +14,5 @@ tratto: agilitàtype:
 
 ### EFFETTO
 
-**_Deviazione:_** Quando vieni attaccato, puoi segnare uno Caselle Armatura per ottenere un bonus alla tua Evasione pari al tuo Punteggio di Armatura disponibile contro l'attacco.
+**_Deviazione:_** Quando vieni attaccato, puoi segnare una Casella Armatura per ottenere un bonus alla tua Evasione pari al tuo Punteggio di Armatura disponibile contro l'attacco.
 ---

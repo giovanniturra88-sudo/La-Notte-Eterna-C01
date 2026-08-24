@@ -16,7 +16,7 @@ type:
  * **Inesorabile (2) - Passiva:** Il Demone può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Tutti Devono Cadere - Passiva:** Quando un PG tira un fallimento con Paura mentre si trova in portata Ravvicinata del Demone, perde una Speranza.
  * **Fuoco dell'Inferno - Azione:** **Spendere una Paura** per far piovere fuoco dell'inferno entro portata Lontana. Tutti i bersagli nell'area devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono **1d20+3** danni magici. I bersagli che riescono subiscono metà danno.
- * **Falciatore - Reazione:** Prima di lanciare i danni per l'attacco del Demone, puoi **segnare uno Stress** per ottenere un bonus al tiro dei danni pari al numero corrente di PF segnati del Demone.
+ * **Falciatore - Reazione:** Prima di lanciare i danni per l'attacco del Demone, puoi **segnare uno Stress** per ottenere un bonus al tiro di danno pari al numero corrente di PF segnati del Demone.
  * **Impeto - Reazione:** Quando il Demone effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
@@ -41,7 +41,7 @@ capacita_speciali:
   - name: "Fuoco dell'Inferno"
     desc: "*- Azione:* Spendere una Paura per far piovere fuoco dell'inferno entro portata Lontana. Tutti i bersagli nell'area devono effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 1d20+3 danni magici. I bersagli che riescono subiscono metà danno."
   - name: "Falciatore"
-    desc: "*- Reazione:* Prima di lanciare i danni per l'attacco del Demone, puoi segnare uno Stress per ottenere un bonus al tiro dei danni pari al numero corrente di PF segnati del Demone."
+    desc: "*- Reazione:* Prima di lanciare i danni per l'attacco del Demone, puoi segnare uno Stress per ottenere un bonus al tiro di danno pari al numero corrente di PF segnati del Demone."
   - name: "Impeto"
     desc: "*- Reazione:* Quando il Demone effettua un attacco riuscito contro un PG, guadagni una Paura."
 ```

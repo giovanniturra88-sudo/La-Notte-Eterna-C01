@@ -17,4 +17,4 @@ tier: 1
 
 **_Colpo Azzoppante:_** Quando ottieni successo su un attacco contro un bersaglio entro portata di mischia, puoi **segnare uno Stress** per rendere il bersaglio temporaneamente _Vulnerabile_.
 
-**_Caccia in Branco:_** Quando ottieni successo su un attacco contro lo stesso bersaglio di un alleato che agisce immediatamente prima di te, aggiungi un **d8** al tuo tiro per i danni.
+**_Caccia in Branco:_** Quando ottieni successo su un attacco contro lo stesso bersaglio di un alleato che agisce immediatamente prima di te, aggiungi un **d8** al tuo tiro di danno.

@@ -22,7 +22,7 @@ type:
  - 4. _Gas Elettrico._ La Scatola sprigiona un gas argentato scintillante di fulmini. Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Agilità o segnare 3 Stress.
  - 5. _Battito Stordente._ La Scatola salta e le sue facce si schiacciano, creando una piccola esplosione sonora. Tutti i bersagli in portata Prossima devono superare un Tiro di Reazione di Forza o diventano _Vulnerabili_ fino alla sconfitta del cubo.
  - 6. _Lamento Psionico._ La Scatola rilascia una serie di api meccaniche il cui ronzio scuote le menti mortali. Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Presenza o subire **2d4+9** danni magici diretti.
- * **Sovraccarica - Reazione:** Prima di lanciare i danni per l'attacco della Scatola, puoi **segnare uno Stress** per aggiungere un **d6** al tiro dei danni. Inoltre, guadagni una Paura.
+ * **Sovraccarica - Reazione:** Prima di lanciare i danni per l'attacco della Scatola, puoi **segnare uno Stress** per aggiungere un **d6** al tiro di danno. Inoltre, guadagni una Paura.
  * **Terremoto della Morte - Reazione:** Quando la Scatola segna l'ultimo PF, la magia che lo alimenta esplode con forza. Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Istinto o subire **2d8+1** danni magici.
 
 ```statblock
@@ -46,7 +46,7 @@ capacita_speciali:
   - name: "Tattiche Casuali"
     desc: "*- Azione:* Segnare uno Stress e lanciare un d6. La Scatola utilizza la mossa corrispondente: 1. Raggio di Mana - Effettua un attacco contro un bersaglio in portata Lontana. In caso di successo, infliggi 2d10+2 danni magici. 2. Jet di Fuoco - Effettua un attacco contro tutti i bersagli in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono 2d8 danni fisici. 3. Travolgere - Effettua un attacco contro tutti i PG in portata Ravvicinata. I bersagli che falliscono l'attacco subiscono 1d6+5 danni fisici e diventano Vulnerabili fino al loro prossimo tiro con Speranza. 4. Gas Elettrico - Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Agilità o segnare 3 Stress. 5. Battito Stordente - Tutti i bersagli in portata Prossima devono superare un Tiro di Reazione di Forza o diventano Vulnerabili fino alla sconfitta del cubo. 6. Lamento Psionico - Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Presenza o subire 2d4+9 danni magici diretti."
   - name: "Sovraccarica"
-    desc: "*- Reazione:* Prima di lanciare i danni per l'attacco della Scatola, puoi segnare uno Stress per aggiungere un d6 al tiro dei danni. Inoltre, guadagni una Paura."
+    desc: "*- Reazione:* Prima di lanciare i danni per l'attacco della Scatola, puoi segnare uno Stress per aggiungere un d6 al tiro di danno. Inoltre, guadagni una Paura."
   - name: "Terremoto della Morte"
     desc: "*- Reazione:* Quando la Scatola segna l'ultimo PF, la magia che lo alimenta esplode con forza. Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Istinto o subire 2d8+1 danni magici."
 ```

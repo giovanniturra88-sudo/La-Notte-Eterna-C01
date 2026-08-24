@@ -17,4 +17,4 @@ tier: 4
 
 **_Signore degli Oceani:_** Puoi respirare e muoverti naturalmente sott'acqua. Quando ottieni successo su un attacco contro un bersaglio entro portata di mischia, puoi _Trattenerlo_ temporaneamente.
 
-**_Inflessibile:_** Quando stai per segnare uno Slot di Armatura, tira un **d6.** Con un risultato di 5 o superiore, riduci la gravità di una soglia senza segnare uno Slot di Armatura.
+**_Inflessibile:_** Quando stai per segnare una Casella Armatura, tira un **d6.** Con un risultato di 5 o superiore, riduci la gravità di una soglia senza segnare una Casella Armatura.

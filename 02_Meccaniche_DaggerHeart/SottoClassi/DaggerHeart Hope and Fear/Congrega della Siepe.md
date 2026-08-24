@@ -14,7 +14,7 @@ Sottoclasse della [[Witch|Strega]]
 
 Le streghe della Congrega della Siepe (Hedge Coven) praticano la stregoneria tradizionale della terra e dei rimedi naturali, combinando l'erboristica alla manipolazione degli spiriti protettivi per curare e fortificare i propri compagni.
 
-- **CARATTERISTICA DA INCANTESIMO -** Conoscenza
+- **TRATTO DA INCANTATORE -** Conoscenza
 
 ## Caratteristiche di Fondazione (Rango 1)
 

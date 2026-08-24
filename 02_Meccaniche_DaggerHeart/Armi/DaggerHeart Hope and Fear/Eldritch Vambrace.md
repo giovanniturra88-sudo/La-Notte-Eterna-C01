@@ -14,6 +14,6 @@ ruolo: "secondaria"
 
 ### Vambrace Eldritch
 
-**_Deviante: Quando vieni attaccato, puoi segnare uno Slot di Armatura per ottenere un bonus alla tua Elusione pari al tuo Punteggio di Armatura_**
+**_Deviante: Quando vieni attaccato, puoi segnare una Casella Armatura per ottenere un bonus alla tua Elusione pari al tuo Punteggio di Armatura_**
 
 ---

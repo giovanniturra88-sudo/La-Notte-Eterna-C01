@@ -16,7 +16,7 @@ aliases:
 * **Attacchi:**
  * **Armi Imbibite d'Acqua:** +1 | Ravvicinata | 1d8+1 fisico
 * **Tratti e Capacità:**
- * **Ka-Morso - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 1d12 danni fisici e deve segnare uno Slot di Armatura senza riceverne il beneficio (può comunque usare l'armatura per ridurre i danni).
+ * **Ka-Morso - Azione:** Segnare uno Stress per attaccare un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 1d12 danni fisici e deve segnare una Casella Armatura senza riceverne il beneficio (può comunque usare l'armatura per ridurre i danni).
  * **Furia Alimentare - Reazione:** Quando una creatura segna PF, puoi spendere una Paura per mettere a fuoco tutte le Bestie delle Branchie a Dente di Sega entro portata Prossima di essa. Quelle Bestie si muovono in portata Ravvicinata della creatura e ciascuna effettua un attacco standard contro di essa. Se alcuni attacchi hanno successo, combina i loro danni.
  * **Scamosciata - Reazione:** Quando la Bestia dovrebbe segnare un qualsiasi numero di PF, tira un d6. Su un risultato di 6, puoi segnare uno Stress al suo posto.
 
@@ -36,7 +36,7 @@ attacchi:
     desc: "**+1** | Ravvicinata | **1d8+1** fisico"
 tratti:
   - name: "Ka-Morso"
-    desc: "*- Azione:* Segnare uno Stress per attaccare un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 1d12 danni fisici e deve segnare uno Slot di Armatura senza riceverne il beneficio (può comunque usare l'armatura per ridurre i danni)."
+    desc: "*- Azione:* Segnare uno Stress per attaccare un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 1d12 danni fisici e deve segnare una Casella Armatura senza riceverne il beneficio (può comunque usare l'armatura per ridurre i danni)."
   - name: "Furia Alimentare"
     desc: "*- Reazione:* Quando una creatura segna PF, puoi spendere una Paura per mettere a fuoco tutte le Bestie delle Branchie a Dente di Sega entro portata Prossima di essa. Quelle Bestie si muovono in portata Ravvicinata della creatura e ciascuna effettua un attacco standard contro di essa. Se alcuni attacchi hanno successo, combina i loro danni."
   - name: "Scamosciata"

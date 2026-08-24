@@ -13,7 +13,7 @@ type:
 * **Attacchi:**
  * **Zanne di Vetro:** +2 | Prossima | 1d8+2 fisico
 * **Tratti e Capacità:**
- * **Schegge Distruttrici di Armatura - Passiva:** Dopo un attacco riuscito contro il Serpente in portata Ravvicinata, l'attaccante deve segnare uno Slot di Armatura. Se non può segnare uno Slot di Armatura, deve segnare un PF.
+ * **Schegge Distruttrici di Armatura - Passiva:** Dopo un attacco riuscito contro il Serpente in portata Ravvicinata, l'attaccante deve segnare una Casella Armatura. Se non può segnare una Casella Armatura, deve segnare un PF.
  * **Serpente Rotante - Azione:** **Segnare uno Stress** per effettuare un attacco contro tutti i bersagli in portata Prossima. I bersagli che il Serpente supera nel tiro subiscono **1d6+1** danni fisici.
  * **Sputatore - Azione:** **Spendere una Paura** per introdurre un dado **d6** Sputatore. Quando il Serpente è a fuoco, tira questo dado. Su un risultato di 5 o più, tutti i bersagli davanti al Serpente in portata Lontana devono superare un Tiro di Reazione di Agilità oppure subire **1d4** danni fisici. Il Serpente può essere messo a fuoco nuovamente in questa mossa del GM.
 
@@ -32,7 +32,7 @@ attacchi:
     desc: "**+2** | Prossima | **1d8+2** fisico"
 tratti:
   - name: "Schegge Distruttrici di Armatura"
-    desc: "*- Passiva:* Dopo un attacco riuscito contro il Serpente in portata Ravvicinata, l'attaccante deve segnare uno Slot di Armatura. Se non può segnare uno Slot di Armatura, deve segnare un PF."
+    desc: "*- Passiva:* Dopo un attacco riuscito contro il Serpente in portata Ravvicinata, l'attaccante deve segnare una Casella Armatura. Se non può segnare una Casella Armatura, deve segnare un PF."
 capacita_speciali:
   - name: "Serpente Rotante"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro tutti i bersagli in portata Prossima. I bersagli che il Serpente supera nel tiro subiscono 1d6+1 danni fisici."

@@ -17,7 +17,7 @@ type:
  * **Spettro - Passiva:** Il Dullahan ha resistenza ai danni fisici. Segnare uno Stress per muoversi fino a portata Ravvicinata attraverso oggetti solidi.
  * **Montatura Spettrale - Passiva:** Mentre è a cavallo, il Dullahan può muoversi fino a portata Lontana invece di portata Ravvicinata prima di effettuare un'azione. Se il Dullahan viene disarcionato, la sua montatura scompare finché non segni uno Stress per evocarla di nuovo. Il Dullahan è *Vulnerabile* mentre non è a cavallo.
  * **Colpo della Frusta d'Ossa - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 4d4+10 danni fisici diretti ed è *Vulnerabile* finché non rimuove un PF.
- * **Sguardo della Morte - Azione:** Spendere una Paura per scegliere un PG entro portata Lontana. Il bersaglio deve effettuare un Tiro di Reazione di Presenza (19). In caso di successo, segna uno Stress. In caso di fallimento, segna un PF e attiva un Conto alla Rovina della Morte (4). Si riduce quando il Dullahan viene messo a fuoco. Quando scatta, il bersaglio effettua una mossa di morte. Se il Dullahan viene sconfitto o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano.
+ * **Sguardo della Morte - Azione:** Spendere una Paura per scegliere un PG entro portata Lontana. Il bersaglio deve effettuare un Tiro di Reazione di Presenza (19). In caso di successo, segna uno Stress. In caso di fallimento, segna un PF e attiva un Conto alla Rovina della Morte (4). Si riduce quando il Dullahan viene messo a fuoco. Quando scatta, il bersaglio effettua una Mossa finale. Se il Dullahan viene sconfitto o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -42,5 +42,5 @@ capacita_speciali:
   - name: "Colpo della Frusta d'Ossa"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, il bersaglio subisce 4d4+10 danni fisici diretti ed è *Vulnerabile* finché non rimuove un PF."
   - name: "Sguardo della Morte"
-    desc: "*- Azione:* Spendere una Paura per scegliere un PG entro portata Lontana. Il bersaglio deve effettuare un Tiro di Reazione di Presenza (19). In caso di successo, segna uno Stress. In caso di fallimento, segna un PF e attiva un Conto alla Rovina della Morte (4). Si riduce quando il Dullahan viene messo a fuoco. Quando scatta, il bersaglio effettua una mossa di morte. Se il Dullahan viene sconfitto o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano."
+    desc: "*- Azione:* Spendere una Paura per scegliere un PG entro portata Lontana. Il bersaglio deve effettuare un Tiro di Reazione di Presenza (19). In caso di successo, segna uno Stress. In caso di fallimento, segna un PF e attiva un Conto alla Rovina della Morte (4). Si riduce quando il Dullahan viene messo a fuoco. Quando scatta, il bersaglio effettua una Mossa finale. Se il Dullahan viene sconfitto o i PG effettuano un riposo, tutti i Conti alla Rovina della Morte terminano."
 ```

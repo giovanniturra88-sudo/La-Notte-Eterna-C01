@@ -16,7 +16,7 @@ aliases:
 * **Attacchi:**
  * **Taglio della Coda:** +2 | Prossima | 2d12+3 fisico
 * **Tratti e Capacità:**
- * **Divoratore di Armature - Passiva:** Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare uno Slot di Armatura aggiuntivo per ridurre la gravità dei danni.
+ * **Divoratore di Armature - Passiva:** Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare una Casella Armatura aggiuntivo per ridurre la gravità dei danni.
  * **Rotazione della Lama - Azione:** Spendere una Paura per far girare rapidamente il Pangolati su sé stesso. Ogni bersaglio entro portata Prossima deve superare un Tiro di Reazione di Agilità o subire 2d8 danni fisici.
  * **Scagliata della Lama - Azione:** Segnare uno Stress per far scattare la coda del Pangolati e scagliare una placca d'armatura a filo di rasoio. Effettua un attacco contro un bersaglio entro portata Lontana. In caso di successo, l'attacco infligge 2d6+10 danni fisici.
  * **Squame di Cheratina - Reazione:** Quando il Pangolati sta per segnare PF da un attacco, puoi segnare uno Stress per ridurre di 1 il numero di PF che segna.
@@ -37,7 +37,7 @@ attacchi:
     desc: "**+2** | Prossima | **2d12+3** fisico"
 tratti:
   - name: "Divoratore di Armature"
-    desc: "*- Passiva:* Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare uno Slot di Armatura aggiuntivo per ridurre la gravità dei danni."
+    desc: "*- Passiva:* Quando il Pangolati effettua un attacco riuscito contro un PG, quel PG deve segnare una Casella Armatura aggiuntivo per ridurre la gravità dei danni."
 capacita_speciali:
   - name: "Rotazione della Lama"
     desc: "*- Azione:* Spendere una Paura per far girare rapidamente il Pangolati su sé stesso. Ogni bersaglio entro portata Prossima deve superare un Tiro di Reazione di Agilità o subire 2d8 danni fisici."

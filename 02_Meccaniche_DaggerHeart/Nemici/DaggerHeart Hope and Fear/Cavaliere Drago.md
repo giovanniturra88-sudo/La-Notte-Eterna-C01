@@ -17,7 +17,7 @@ aliases:
  * **Lancia:** +2 | Prossima | 2d12+3 fisico
 * **Tratti e Capacità:**
  * **Posizione Vantaggiosa - Passiva:** Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui.
- * **Colpo Saltante - Azione:** Segnare uno Stress per far saltare il Cavaliere in portata Ravvicinata di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+ * **Colpo Saltante - Azione:** Segnare uno Stress per far saltare il Cavaliere in portata Ravvicinata di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
  * **Ripresa - Reazione:** Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio.
 
 ```statblock
@@ -39,7 +39,7 @@ tratti:
     desc: "*- Passiva:* Il Cavaliere ha vantaggio sugli attacchi effettuati contro bersagli che si trovano sotto di lui."
 capacita_speciali:
   - name: "Colpo Saltante"
-    desc: "*- Azione:* Segnare uno Stress per far saltare il Cavaliere in portata Ravvicinata di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare uno Slot di Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
+    desc: "*- Azione:* Segnare uno Stress per far saltare il Cavaliere in portata Ravvicinata di un bersaglio entro portata Lontana ed effettuare un attacco standard contro di esso. In caso di successo, l'attacco infligge 1d12 danni aggiuntivi, e il bersaglio deve segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
   - name: "Ripresa"
     desc: "*- Reazione:* Quando il Cavaliere fallisce un attacco standard, puoi spendere una Paura per rifare l'attacco con vantaggio."
 ```

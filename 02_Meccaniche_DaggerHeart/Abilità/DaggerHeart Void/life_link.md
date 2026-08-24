@@ -8,4 +8,4 @@ Titolo Inglese: Life Link
 ---
 Effettua un [[Tiro Incantesimo]] (14). Una volta per riposo, in caso di successo, evochi un legame magico tra te e un bersaglio consenziente entro raggio [[Ravvicinato]] che dura fino alla fine della scena.
 
-Quando una delle creature legate dovrebbe segnare un [[Punti Ferita]], l'altra creatura legata può segnare un [[Punti Ferita]] al suo posto.
+Quando una delle creature legate dovrebbe segnare 1 [[Punti Ferita]], l'altra creatura legata può segnare 1 [[Punti Ferita]] al suo posto.

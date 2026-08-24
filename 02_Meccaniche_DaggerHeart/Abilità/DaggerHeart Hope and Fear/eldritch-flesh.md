@@ -7,4 +7,4 @@ Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese: Eldritch Flesh
 ---
 Ottieni un bonus di +1 alle tue soglie di danno per ogni **Stress** che hai segnato.
-Inoltre, quando tiri con **Paura**, puoi spendere 2 **Speranza** per cancellare uno Caselle Armatura.
+Inoltre, quando tiri con **Paura**, puoi spendere 2 **Speranze** per cancellare una Casella Armatura.

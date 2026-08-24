@@ -15,6 +15,6 @@ tier: 2
 
 ### CARATTERISTICHE
 
-**_Furia:_** Quando ottieni 1 su un dado di danno, puoi tirare un **d10** e aggiungere il risultato al tiro per i danni. Inoltre, prima di effettuare un tiro di attacco, puoi **segnare uno Stress** per ottenere un bonus di +1 alla tua Competenza per quell'attacco.
+**_Furia:_** Quando ottieni 1 su un dado di danno, puoi tirare un **d10** e aggiungere il risultato al tiro di danno. Inoltre, prima di effettuare un tiro di attacco, puoi **segnare uno Stress** per ottenere un bonus di +1 alla tua Competenza per quell'attacco.
 
 **_Pelle Spessa:_** Ottieni un bonus di +2 alle tue soglie di danno.

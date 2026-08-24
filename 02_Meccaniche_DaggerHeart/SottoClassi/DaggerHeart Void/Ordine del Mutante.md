@@ -13,7 +13,7 @@ spellcast_trait: Agilità
 
 Questo ordine si focalizza sull'uso di mutageni tossici e preparati alchemici per alterare temporaneamente la biologia del cacciatore.
 
-- **TRATTO DA INCANTESIMO:** Agilità
+- **TRATTO DA INCANTATORE:** Agilità
 
 ---
 

@@ -14,7 +14,7 @@ Sottoclasse dell'[[Assassin|Assassino]]
 
 La Gilda degli Esecutori raccoglie quegli assassini che dedicano se stessi alla pura maestria dell'eliminazione fisica, colpendo i propri bersagli con una precisione chirurgica e micidiale, lasciando dietro di sé solo cadaveri freddi.
 
-- **CARATTERISTICA DA INCANTESIMO -** Agilità
+- **TRATTO DA INCANTATORE -** Agilità
 
 ## Caratteristiche di Fondazione (Rango 1)
 

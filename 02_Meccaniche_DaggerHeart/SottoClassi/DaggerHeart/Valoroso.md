@@ -22,7 +22,7 @@ Assorbire colpi colossali, resistere alle ferite più letali e bloccare i nemici
 Ottieni un bonus permanente di +1 alle tue soglie di danno.
 
 **Volontà di Ferro (Iron Will):**
-Quando subisci danni fisici, puoi marcare uno Caselle Armatura aggiuntivo per ridurne la gravità di un ulteriore livello.
+Quando subisci danni fisici, puoi marcare una Casella Armatura aggiuntivo per ridurne la gravità di un ulteriore livello.
 
 ## Caratteristica di Specializzazione (Specialization)
 **Inesorabile (Unrelenting):**

@@ -16,7 +16,7 @@ type:
  * **Terrificante - Passiva:** Quando il Zombie effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
  * **Presenza Timorosa - Passiva:** I PG non possono spendere Speranze per usare caratteristiche contro il Zombie.
  * **Colpo Perfetto - Azione:** **Segnare uno Stress** per effettuare un attacco standard contro tutti i bersagli in portata Prossima. I bersagli che falliscono la prova contro il Zombie diventano _Vulnerabili_ fino al loro prossimo riposo.
- * **Abile Opportuniste - Reazione:** Quando un altro avversario infligge danni a un bersaglio in portata Prossima del Zombie, puoi **Spendere una Paura** per aggiungere i danni dell'attacco standard del Zombie al tiro dei danni.
+ * **Abile Opportuniste - Reazione:** Quando un altro avversario infligge danni a un bersaglio in portata Prossima del Zombie, puoi **Spendere una Paura** per aggiungere i danni dell'attacco standard del Zombie al tiro di danno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -40,5 +40,5 @@ capacita_speciali:
   - name: "Colpo Perfetto"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco standard contro tutti i bersagli in portata Prossima. I bersagli che falliscono la prova contro il Zombie diventano Vulnerabili fino al loro prossimo riposo."
   - name: "Abile Opportuniste"
-    desc: "*- Reazione:* Quando un altro avversario infligge danni a un bersaglio in portata Prossima del Zombie, puoi Spendere una Paura per aggiungere i danni dell'attacco standard del Zombie al tiro dei danni."
+    desc: "*- Reazione:* Quando un altro avversario infligge danni a un bersaglio in portata Prossima del Zombie, puoi Spendere una Paura per aggiungere i danni dell'attacco standard del Zombie al tiro di danno."
 ```

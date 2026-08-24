@@ -13,7 +13,7 @@ type:
 
 ### CARATTERISTICHE
 
-**_Esperienza Fuori dal Corpo - Passiva:** Poiché il gruppo non è fisicamente in questo reame, i Tiri di Forza, Agilità e Astuzia falliscono automaticamente. Inoltre, quando un personaggio dovrebbe segnare un PF, deve invece perdere una Speranza o segnare uno Stress. Se un personaggio non può segnare Stress, deve effettuare una mossa di morte. _In che modo la proiezione della tua immagine mentale di te stesso differisce dal tuo aspetto fisico? Quale consideri il "vero" te?_
+**_Esperienza Fuori dal Corpo - Passiva:** Poiché il gruppo non è fisicamente in questo reame, i Tiri di Forza, Agilità e Astuzia falliscono automaticamente. Inoltre, quando un personaggio dovrebbe segnare un PF, deve invece perdere una Speranza o segnare uno Stress. Se un personaggio non può segnare Stress, deve effettuare una Mossa finale. _In che modo la proiezione della tua immagine mentale di te stesso differisce dal tuo aspetto fisico? Quale consideri il "vero" te?_
 
 **_Manifestazioni Mentali - Passiva:** Con un Tiro di Conoscenza riuscito, i PG possono alterare l'ambiente psichico, come invertire la gravità o evocare una scala che si assembla rapidamente da sola. Un PG può usare una manifestazione mentale una volta per scena per ottenere vantaggio su un tiro per attraversare il Regno Astrale. _La costruzione che manifesti è un ricordo della vita reale o un prodotto della tua stessa immaginazione? Su quale dettaglio chiave ti concentri per renderla più stabile?_
 

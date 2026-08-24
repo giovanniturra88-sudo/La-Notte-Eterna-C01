@@ -2,7 +2,8 @@
 type:
   - "[[Item]]"
 alias: ["Kingfishers_Net"]
-rarity: "Non Comune"original_rarity: "Uncommon"
+rarity: "Non Comune"
+original_rarity: "Uncommon"
 roll: 21
 ---
 
