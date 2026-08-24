@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Legendary Mage Robes"
-alias: ["Vista Leggendaria"]
+alias: ["Vesti del Mago Leggendarie"]
 tier: 4
 ---
 
-# Vista Leggendaria
+# Vesti del Mago Leggendarie
 
 **Livello 8–10** _Armatura_
 

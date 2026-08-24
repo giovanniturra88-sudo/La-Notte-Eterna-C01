@@ -15,7 +15,7 @@ tier: 4
 
 ### CARATTERISTICHE
 
-**_Trasporto:_** Puoi trasportare fino a quattro alleati disposti con te quando ti muovi.
+**_Trasporto:_** Puoi trasportare fino a quattro alleati in groppa a te quando ti muovi.
 
 **_Demolire:_** **Spendi una Speranza** per spostarti fino a portata Lontana in linea retta ed effettuare un attacco contro tutti i bersagli entro portata di mischia dalla linea. I bersagli contro cui riesci subiscono **d8+10** danni fisici usando la tua Competenza e sono temporaneamente _Vulnerabili._
 

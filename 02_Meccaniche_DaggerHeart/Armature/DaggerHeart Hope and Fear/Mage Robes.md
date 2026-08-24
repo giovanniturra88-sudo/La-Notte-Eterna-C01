@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Mage Robes"
-alias: ["Veste da Magia"]
+alias: ["Vesti del Mago"]
 tier: 1
 ---
 
-# Veste da Magia
+# Vesti del Mago
 
 **Livello 1** _Armatura_
 

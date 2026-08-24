@@ -3,7 +3,7 @@ type: Classe
 source: DaggerHeart Hope and Fear
 ---
 
-Hai scelto il percorso del Assassino.
+Hai scelto il percorso dell'Assassino.
 
 Gli assassini sono professionisti della morte. Usano la furtività assoluta, i veleni debilitanti e la precisione chirurgica dei loro colpi per eliminare i bersagli più protetti del mondo.
 

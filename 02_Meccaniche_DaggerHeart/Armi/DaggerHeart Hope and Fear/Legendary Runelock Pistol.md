@@ -12,7 +12,7 @@ tier: 4
 ruolo: "primaria"
 ---
 
-### Pistola a Rune Leggendario
+### Pistola a Rune Leggendaria
 
 **_Ricarica: Dopo un attacco, tira un d6. Con un risultato di 1, devi segnare uno Stress per ricaricare_**
 

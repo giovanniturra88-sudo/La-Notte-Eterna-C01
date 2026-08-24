@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Asta Incantata
 
-**_Foco Arcano: I tuoi attacchi di incantesimo infliggono +2 danni con questa arma_**
+**_Focalizzato Arcano: I tuoi Tiri Incantesimo infliggono +2 danni con questa arma_**
 
 ---

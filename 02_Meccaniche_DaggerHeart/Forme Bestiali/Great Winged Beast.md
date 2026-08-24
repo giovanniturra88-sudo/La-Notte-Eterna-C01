@@ -17,4 +17,4 @@ tier: 3
 
 **_Vista dall'Alto:_** Puoi volare a volontà. Una volta per riposo, mentre sei in volo, puoi fare una domanda al GM sulla scena sottostante senza dover tirare. La prima volta che un personaggio effettua un tiro per agire in base a queste informazioni, ottiene vantaggio sul tiro.
 
-**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.
+**_Trasporto:_** Puoi trasportare fino a due alleati in groppa a te quando ti muovi.

@@ -12,7 +12,7 @@ tier: 2
 ruolo: "primaria"
 ---
 
-### Brandeburgo
+### Tizzone Ardente
 
 **_Fiammeggiante: Con un attacco riuscito, il bersaglio prende fuoco e segna 1 PF all'inizio di ogni turno_**
 

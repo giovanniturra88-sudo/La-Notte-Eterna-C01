@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Catene Etere
 
-**_Vincolante: Con un attacco riuscito, puoi spendere una Speranza per rendere il bersaglio temporaneamente Vincolato_**
+**_Vincolante: Con un attacco riuscito, puoi spendere una Speranza per rendere il bersaglio temporaneamente Trattenuto_**
 
 ---

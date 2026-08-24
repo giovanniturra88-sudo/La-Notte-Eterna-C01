@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lancia Glaciale
 
-**_Congelante: Con un attacco riuscito, il bersaglio diventa temporaneamente Vincolato_**
+**_Congelante: Con un attacco riuscito, il bersaglio diventa temporaneamente Trattenuto_**
 
 ---

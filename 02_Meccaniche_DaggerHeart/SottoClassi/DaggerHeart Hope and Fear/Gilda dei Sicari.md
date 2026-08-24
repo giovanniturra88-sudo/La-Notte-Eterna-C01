@@ -9,7 +9,7 @@ Dominio:
 spellcast_trait:
 ---
 
-# Gilda degli Esecutori
+# Gilda dei Sicari
 Sottoclasse dell'[[Assassin|Assassino]]
 
 La Gilda degli Esecutori raccoglie quegli assassini che dedicano se stessi alla pura maestria dell'eliminazione fisica, colpendo i propri bersagli con una precisione chirurgica e micidiale, lasciando dietro di sé solo cadaveri freddi.

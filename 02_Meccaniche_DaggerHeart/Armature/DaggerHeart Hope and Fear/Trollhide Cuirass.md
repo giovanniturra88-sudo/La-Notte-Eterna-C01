@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Trollhide Cuirass"
-alias: ["Curaide Pelle-troll"]
+alias: ["Corazza Pelle di Troll"]
 tier: 2
 ---
 
-# Curaide Pelle-troll
+# Corazza Pelle di Troll
 
 **Livello 2–4** _Armatura_
 

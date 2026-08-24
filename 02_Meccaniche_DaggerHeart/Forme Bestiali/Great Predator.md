@@ -15,6 +15,6 @@ tier: 3
 
 ### CARATTERISTICHE
 
-**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.
+**_Trasporto:_** Puoi trasportare fino a due alleati in groppa a te quando ti muovi.
 
 **_Zannata Feroce:_** Quando ottieni successo su un attacco contro un bersaglio, puoi **spendere una Speranza** per renderlo temporaneamente _Vulnerabile_ e ottenere un bonus di +1 alla tua Competenza per questo attacco.

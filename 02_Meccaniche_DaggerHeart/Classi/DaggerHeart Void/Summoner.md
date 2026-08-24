@@ -3,9 +3,9 @@ type: Classe
 source: DaggerHeart Void
 ---
 
-Hai scelto il percorso del Summoner.
+Hai scelto il percorso dell'Evocatore.
 
-I Summoner sono incantatori occulti che aprono varchi planari per evocare e comandare spiriti del destino, non morti o entità angeliche affinché combattano per loro.
+Gli Evocatori sono incantatori occulti che aprono varchi planari per evocare e comandare spiriti del destino, non morti o entità angeliche affinché combattano per loro.
 
 ---
 - **DOMINI -** [[Sangue]] & [[Splendore]]

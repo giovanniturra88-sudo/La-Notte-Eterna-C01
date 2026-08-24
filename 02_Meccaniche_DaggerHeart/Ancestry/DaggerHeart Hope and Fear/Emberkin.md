@@ -13,7 +13,7 @@ source: DaggerHeart Hope and Fear
 
 - **Immunità al Fuoco (Fireproof)**: Non subisci danno dal fuoco e non ti ammali degli effetti non normali da esposizione al fuoco.
   
-- **Ignition**: Quando marchi 1 slot *Stress*, il tuo prossimo attacco a Distanza Ravvicinata diventa infuocato: causa +6 danni e, se colpisce, incendia gli equipaggiamenti dell'obiettivo.
+- **Accensione**: Quando marchi 1 slot *Stress*, il tuo prossimo attacco a Distanza Ravvicinata diventa infuocato: causa +6 danni e, se colpisce, incendia gli equipaggiamenti dell'obiettivo.
 
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Emberkin sono visti come forze della natura — distruttivi ma anche purificatori. Le comunità che li accettano li utilizzano per forgiatura, riscaldamento e difesa. Quelli repressi possono esplodere in violenza incontrollata.

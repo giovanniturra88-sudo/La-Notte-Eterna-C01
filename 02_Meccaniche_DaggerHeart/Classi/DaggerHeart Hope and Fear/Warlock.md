@@ -3,9 +3,9 @@ type: Classe
 source: DaggerHeart Hope and Fear
 ---
 
-Hai scelto il percorso del Warlock.
+Hai scelto il percorso dello Stregone.
 
-I warlock stipulano patti sacrileghi con potenti patroni celesti, fatati o abissali in cambio di una magia occulta, sinistra e manipolatrice.
+Gli stregoni stipulano patti sacrileghi con potenti patroni celesti, fatati o abissali in cambio di una magia occulta, sinistra e manipolatrice.
 
 ---
 - **DOMINI -** [[Terrore]] & [[Grazia]]

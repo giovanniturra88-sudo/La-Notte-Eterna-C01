@@ -12,7 +12,7 @@ tier: 4
 ruolo: "primaria"
 ---
 
-### Katana Leggendario
+### Katana Leggendaria
 
 **_Rapido: Quando effettui un attacco, puoi segnare uno Stress per colpire un'altra creatura in gittata_**
 

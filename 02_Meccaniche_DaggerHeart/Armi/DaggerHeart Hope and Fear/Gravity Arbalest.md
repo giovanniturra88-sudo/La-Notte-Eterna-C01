@@ -12,7 +12,7 @@ tier: 4
 ruolo: "primaria"
 ---
 
-### Arbalesta della Gravità
+### Balestra della Gravità
 
 **_Magnetico: Quando effettui un attacco con questa arma, puoi spendere una Speranza per costringere tutti gli avversari entro gittata Prossima a effettuare un Tiro di Reazione_**
 

@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Improved Mage Robes"
-alias: ["Vesta Migliorata"]
+alias: ["Vesti del Mago Migliorate"]
 tier: 2
 ---
 
-# Vesta Migliorata
+# Vesti del Mago Migliorate
 
 **Livello 2–4** _Armatura_
 

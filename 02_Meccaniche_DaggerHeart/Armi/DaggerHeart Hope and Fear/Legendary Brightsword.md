@@ -12,7 +12,7 @@ tier: 4
 ruolo: "primaria"
 ---
 
-### Brightsword Leggendario
+### Brightsword Leggendaria
 
 
 ---

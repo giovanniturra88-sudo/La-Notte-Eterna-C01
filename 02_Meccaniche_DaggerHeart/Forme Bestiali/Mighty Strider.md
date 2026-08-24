@@ -15,6 +15,6 @@ tier: 2
 
 ### CARATTERISTICHE
 
-**_Trasporto:_** Puoi trasportare fino a due alleati disposti con te quando ti muovi.
+**_Trasporto:_** Puoi trasportare fino a due alleati in groppa a te quando ti muovi.
 
 **_Calpestio:_** **Segna uno Stress** per spostarti fino a portata Ravvicinata in linea retta ed effettuare un attacco contro tutti i bersagli entro portata di mischia dalla linea. I bersagli contro cui riesci subiscono **d8+1** danni fisici usando la tua Competenza e sono temporaneamente _Vulnerabili_.

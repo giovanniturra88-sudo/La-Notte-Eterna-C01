@@ -41,7 +41,7 @@ Quando applichi un veleno a un bersaglio attualmente _Marchiato per la Morte_, p
 ### Maestro dei Veleni (Venomancer)
 Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteristica _Miscele Tossiche_:
 - **Seme della Piaga (Blight Seed):** Il bersaglio subisce una penalità di **-3 alle sue soglie di danno** fino alla fine della scena (questo effetto non è cumulabile).
-- **Foglia della Paura (Fear Leaf):** Infliggi danni extra pari al risultato del tuo **Dado della Paura** su questo attacco.
+- **Foglia della Paura (Fear Leaf):** Infliggi danni extra pari al risultato del tuo **Dado Paura** su questo attacco.
 - **Spina di Cadavere (Corpse Thorn):** Il bersaglio subisce **svantaggio** ai tiri di reazione fino alla fine della scena.
 
 ### Benedizione della Vipera (Adder's Blessing)

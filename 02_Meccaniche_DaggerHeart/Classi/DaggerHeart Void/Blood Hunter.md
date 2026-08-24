@@ -3,9 +3,9 @@ type: Classe
 source: DaggerHeart Void
 ---
 
-Hai scelto il percorso del Blood Hunter.
+Hai scelto il percorso del Cacciatore di Sangue.
 
-I Blood Hunter sono cacciatori oscuri che brandiscono i poteri della magia del sangue (emocraft) e modificano i propri corpi per dare la caccia alle peggiori mostruosità del mondo.
+I Cacciatori di Sangue sono cacciatori oscuri che brandiscono i poteri della magia del sangue (emocraft) e modificano i propri corpi per dare la caccia alle peggiori mostruosità del mondo.
 
 ---
 - **DOMINI -** [[Sangue]] & [[Ossa]]
@@ -26,7 +26,7 @@ I Blood Hunter sono cacciatori oscuri che brandiscono i poteri della magia del s
 Scegli tra la sottoclasse [[Ordine dello Spettro]], [[Ordine del Mutante]] o [[Ordine del Licantropo]].
 
 # Caratteristiche di Classe
-**_Rito Cremisi (Crimson Rite):_** Marca 1 HP per infondere un'arma attiva di potere sanguinario fino al prossimo riposo. Quando colpisci con quell'arma, infliggi +1d4 danni magici extra (che aumentano a 2d4 al livello 2, 3d4 al livello 5 e 4d4 al livello 8).
+**_Rito Cremisi (Crimson Rite):_** Marca 1 PF per infondere un'arma attiva di potere sanguinario fino al prossimo riposo. Quando colpisci con quell'arma, infliggi +1d4 danni magici extra (che aumentano a 2d4 al livello 2, 3d4 al livello 5 e 4d4 al livello 8).
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

@@ -19,14 +19,14 @@ Le streghe della Congrega della Luna (Moon Coven) traggono il proprio potere dal
 ## Caratteristiche di Fondazione (Rango 1)
 
 ### Fascino della Notte (Night's Glamour)
-Effettua un Tiro Incantesimo (13) per ammantarti di una presenza ammaliante. Finché sei sotto questo effetto (Glamoured), hai **vantaggio** su tutti i tiri che sfruttano la tua presenza illusoria. Inoltre, gli avversari entro portata Ravvicinata (gittata Ravvicinata) devono marcare **uno Stress** per poterti attaccare. A meno che tu non marchi uno Stress per mantenerlo attivo, l'effetto svanisce se marchi un Punto Ferita o infliggi danni.
+Effettua un Tiro Incantesimo (13) per ammantarti di una presenza ammaliante. Finché sei sotto questo effetto (Glamoured), hai **vantaggio** su tutti i tiri che sfruttano la tua presenza illusoria. Inoltre, gli avversari entro portata Ravvicinata devono marcare **uno Stress** per poterti attaccare. A meno che tu non marchi uno Stress per mantenerlo attivo, l'effetto svanisce se marchi un Punto Ferita o infliggi danni.
 
 ### Fasi Lunari (Moon Phase)
 All'inizio di ogni sessione o di un riposo lungo, tira un dado (d6) per determinare la tua Fase Lunare attuale, che ti concede un beneficio unico:
-- **1: Luna Nuova (New)** -> Spendi una Speranza per annullare i danni Minori (Minor damage).
-- **2-3: Luna Crescente (Waxing)** -> Ottieni un bonus di **+2 ai tuoi tiri di danno**.
-- **4: Luna Piena (Full)** -> Ottieni un bonus di **+3 alle tue soglie di danno** (damage thresholds).
-- **5-6: Luna Calante (Waning)** -> Ottieni un bonus di **+1 alla tua Evasione**.
+- **1: Luna Nuova (New)** → Spendi una Speranza per annullare i danni Minori (Minor damage).
+- **2-3: Luna Crescente (Waxing)** → Ottieni un bonus di **+2 ai tuoi tiri di danno**.
+- **4: Luna Piena (Full)** → Ottieni un bonus di **+3 alle tue soglie di danno** (damage thresholds).
+- **5-6: Luna Calante (Waning)** → Ottieni un bonus di **+1 alla tua Evasione**.
 
 Una volta per riposo, puoi spendere una Speranza per **aumentare il valore di questo dado di uno** (un 6 diventa un 1).
 

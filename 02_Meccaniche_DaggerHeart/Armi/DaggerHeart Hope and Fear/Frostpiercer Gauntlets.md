@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Guantoni del Perforatore di Ghiaccio
 
-**_Congelante: Con un attacco riuscito, il bersaglio diventa temporaneamente Vincolato e subisce danni da freddo_**
+**_Congelante: Con un attacco riuscito, il bersaglio diventa temporaneamente Trattenuto e subisce danni da freddo_**
 
 ---

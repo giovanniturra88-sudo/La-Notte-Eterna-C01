@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Advanced Mage Robes"
-alias: ["Vista Avanzata"]
+alias: ["Vesti del Mago Avanzate"]
 tier: 3
 ---
 
-# Vista Avanzata
+# Vesti del Mago Avanzate
 
 **Livello 5–7** _Armatura_
 

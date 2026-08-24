@@ -3,7 +3,7 @@ type: Classe
 source: DaggerHeart Hope and Fear
 ---
 
-Hai scelto il percorso del Strega.
+Hai scelto il percorso della Strega.
 
 Le streghe comunicano con gli spiriti degli antenati e le forze elementali. Attraverso incantesimi, talismani e macabre fatture (hex), modellano la realtà.
 
@@ -26,11 +26,11 @@ Le streghe comunicano con gli spiriti degli antenati e le forze elementali. Attr
 Scegli tra la sottoclasse [[Congrega della Siepe]] o [[Congrega della Luna]].
 
 # Caratteristiche di Classe
-**_Fattura (Hex):_** Marca uno Stress per lanciare una Fattura a un bersaglio entro portata Lontana. Il bersaglio subisce una penalità ai tiri di danno e alla Difficoltà pari al tuo rango. Massimo bersagli affetti pari al tuo tratto da Incantatore.
+**_Fattura (Hex):_** Marca uno Stress per lanciare una Fattura a un bersaglio entro portata Lontana. Il bersaglio subisce una penalità ai tiri di danno e alla Difficoltà pari al tuo rango. Numero massimo di bersagli affetti pari al tuo tratto da Incantatore.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._
-- Chi nella tua comunità d'origine temeva il tuo craft magico? Quale voce infondata ha diffuso su di te?
+- Chi nella tua comunità d'origine temeva il tuo mestiere magico? Quale voce infondata ha diffuso su di te?
 - Una volta hai usato la tua magia per salvare qualcuno da una situazione disperata. Chi era e cosa è accaduto?
 - In che modo hai scoperto per la prima volta la tua affinità e il tuo talento per l'occulto?
 

@@ -8,4 +8,4 @@ Titolo Inglese: Parasite of the Will
 ---
 Effettua un [[Tiro Incantesimo]] contro un avversario entro raggio [[Ravvicinato]]. Una volta per riposo, in caso di successo, segna 1 [[Punti Ferita]] per Infettare il bersaglio con un minuscolo verme di sangue magico.
 
-I Tiri su Presenza contro il bersaglio Infetto hanno [[Vantaggio]]. Quando il bersaglio Infetto effettua un tiro di attacco, puoi spendere una [[Speranza]] per dare al tiro [[Svantaggio]]. La condizione Infetto dura finché non effettui un riposo o sacrifichi il verme di sangue per far segnare al bersaglio Infetto 1 [[Punti Ferita]].
+I Tiri Presenza contro il bersaglio Infetto hanno [[Vantaggio]]. Quando il bersaglio Infetto effettua un tiro di attacco, puoi spendere una [[Speranza]] per dare al tiro [[Svantaggio]]. La condizione Infetto dura finché non effettui un riposo o sacrifichi il verme di sangue per far segnare al bersaglio Infetto 1 [[Punti Ferita]].

@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Granminster's Finery"
-alias: ["Ornamenti Granmina"]
+alias: ["Ornamenti di Granminster"]
 tier: 3
 ---
 
-# Ornamenti Granmina
+# Ornamenti di Granminster
 
 **Livello 5–7** _Armatura_
 

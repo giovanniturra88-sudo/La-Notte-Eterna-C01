@@ -12,7 +12,7 @@ tier: 2
 ruolo: "secondaria"
 ---
 
-### Rune di Foco Migliorate
+### Rune Focalizzate Migliorate
 
 **_Focalizzato: +1 ai danni dell'arma primaria contro bersagli entro gittata Prossima_**
 

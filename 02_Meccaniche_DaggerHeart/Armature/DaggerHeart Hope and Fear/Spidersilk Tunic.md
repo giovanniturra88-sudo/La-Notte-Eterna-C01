@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Spidersilk Tunic"
-alias: ["Tunica di setela-ragno"]
+alias: ["Tunica di Seta di Ragno"]
 tier: 2
 ---
 
-# Tunica di setela-ragno
+# Tunica di Seta di Ragno
 
 **Livello 2–4** _Armatura_
 

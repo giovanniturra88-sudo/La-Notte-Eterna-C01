@@ -13,4 +13,4 @@ tier: 3
 - **Soglie di Danno:** 13 / 35
 - **Punteggio di Armatura:** 6
 
-> Sethirsta: Quando riesci criticamente con un'arma a Corpo a Corpo, libera un Punto Ferita.
+> Sete di Sangue: Quando riesci criticamente con un'arma a Corpo a Corpo, libera un Punto Ferita.

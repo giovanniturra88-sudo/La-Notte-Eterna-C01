@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Gilded Sunplate"
-alias: ["Plaquia Sole-dorata"]
+alias: ["Piastra Solare Dorata"]
 tier: 2
 ---
 
-# Plaquia Sole-dorata
+# Piastra Solare Dorata
 
 **Livello 2–4** _Armatura_
 

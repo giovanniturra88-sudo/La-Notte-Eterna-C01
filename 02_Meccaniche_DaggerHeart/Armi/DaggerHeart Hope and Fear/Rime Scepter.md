@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Scettro della Brina
 
-**_Congelante: Quando un attacco con questa arma fa segnare a un bersaglio 2 o più PF, questi diventa temporaneamente Vincolato_**
+**_Congelante: Quando un attacco con questa arma fa segnare a un bersaglio 2 o più PF, questi diventa temporaneamente Trattenuto_**
 
 ---
