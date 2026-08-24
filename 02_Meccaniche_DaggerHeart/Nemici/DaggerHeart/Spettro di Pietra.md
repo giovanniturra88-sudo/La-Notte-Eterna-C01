@@ -14,7 +14,7 @@ type:
 * **Attacchi:**
  * **Morso e Artigli:** +3 | Ravvicinata | 2d8+6 fisico
 * **Tratti e Capacità:**
- * **Camminatore di Pietra - Passiva:** La Pietraccia può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è _Nascosto_ e immune a tutti i danni.
+ * **Camminatore di Pietra - Passiva:** Lo Spettro di Pietra può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è _Nascosto_ e immune a tutti i danni.
  * **Imboscata Rocciosa - Azione:** Mentre è _Nascosto_, **Segnare uno Stress** per saltare in portata Ravvicinata con un bersaglio in portata Prossima. Il bersaglio deve superare un Tiro di Reazione di Agilità o Istinto (15) o subire **2d8** danni fisici e diventare temporaneamente _Trattenuto_.
  * **Urlo dell'Avanzo - Azione:** **Spendere una Paura** per ruggire mentre sei all'interno di una grotta e causare un crollo. Tutti i bersagli in portata Ravvicinata devono superare un Tiro di Reazione di Agilità (14) o subire **2d10** danni fisici. Le macerie possono essere rimosse con un Conto alla rovescia (8).
  * **Impulso - Reazione:** Quando la Pietraccia effettua un attacco riuscito contro un PG, guadagni una Paura.
@@ -35,7 +35,7 @@ attacchi:
     desc: "**+3** | Ravvicinata | **2d8+6** fisico"
 tratti:
   - name: "Camminatore di Pietra"
-    desc: "*- Passiva:* La Pietraccia può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è Nascosto e immune a tutti i danni."
+    desc: "*- Passiva:* Lo Spettro di Pietra può muoversi attraverso pietra e terra come se fosse aria. Mentre è all'interno di pietra o terra, è Nascosto e immune a tutti i danni."
 capacita_speciali:
   - name: "Imboscata Rocciosa"
     desc: "*- Azione:* Mentre è Nascosto, Segnare uno Stress per saltare in portata Ravvicinata con un bersaglio in portata Prossima. Il bersaglio deve superare un Tiro di Reazione di Agilità o Istinto (15) o subire 2d8 danni fisici e diventare temporaneamente Trattenuto."

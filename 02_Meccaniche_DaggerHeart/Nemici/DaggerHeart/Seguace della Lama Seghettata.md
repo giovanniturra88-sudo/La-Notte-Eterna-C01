@@ -5,7 +5,7 @@ type:
 ---
 
 ## Seguace della Lama Seghettata
-* **Descrizione:** Un ladro con abiti semplici e piccole pugnali, ansioso di dimostrarsi.
+* **Descrizione:** Un ladro con abiti semplici e piccoli pugnali, ansioso di dimostrarsi.
 * **Rango:** 1 (Minion)
 * **Difficoltà:** 9
 * **Soglie di Danno:** Nessuna
@@ -20,7 +20,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Seguace della Lama Seghettata"
-description: "Un ladro con abiti semplici e piccole pugnali, ansioso di dimostrarsi."
+description: "Un ladro con abiti semplici e piccoli pugnali, ansioso di dimostrarsi."
 tier: "1"
 ruolo: "Minion"
 difficolta: "9"

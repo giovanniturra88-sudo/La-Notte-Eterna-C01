@@ -15,7 +15,7 @@ type:
  * **Denti e Artigli:** +2 | Prossima | 3d8+5 fisico
 * **Tratti e Capacità:**
  * **Doppio Colpo - Azione:** Segnare uno Stress per far sì che il Wyvern effettui due attacchi standard. Se entrambi gli attacchi hanno successo contro lo stesso bersaglio, combina i danni.
- * **Urlo Spaventoso - Azione:** Spendere una Paura per far sì che il Wyvern emetta un grido gelido. Tutte le creature entro portata Lontana sono *Terrificate* finché non superano un tiro di Presenza (18) per rimuovere la condizione o il Wyvern viene sconfitto. Mentre è *Terrificato*, un PG non guadagna una Speranza quando tira con Speranza.
+ * **Urlo Spaventoso - Azione:** Spendere una Paura per far sì che il Wyvern emetta un grido gelido. Tutte le creature entro portata Lontana sono *Terrorizzate* finché non superano un tiro di Presenza (18) per rimuovere la condizione o il Wyvern viene sconfitto. Mentre è *Terrorizzato*, un PG non guadagna una Speranza quando tira con Speranza.
  * **Covata - Reazione:** Quando il Wyvern effettua un attacco riuscito contro un PG, puoi spendere una Paura per far sì che il Wyvern renda il bersaglio *Trattenuto* nei suoi artigli finché il PG non supera un tiro di Forza (18) o il Wyvern subisce danni Maggiori o superiori. Mentre è *Trattenuto* in questo modo, il PG ha svantaggio sui tiri d'attacco.
 
 ```statblock
@@ -36,7 +36,7 @@ capacita_speciali:
   - name: "Doppio Colpo"
     desc: "*- Azione:* Segnare uno Stress per far sì che il Wyvern effettui due attacchi standard. Se entrambi gli attacchi hanno successo contro lo stesso bersaglio, combina i danni."
   - name: "Urlo Spaventoso"
-    desc: "*- Azione:* Spendere una Paura per far sì che il Wyvern emetta un grido gelido. Tutte le creature entro portata Lontana sono Terrificate finché non superano un tiro di Presenza (18) per rimuovere la condizione o il Wyvern viene sconfitto. Mentre è Terrificato, un PG non guadagna una Speranza quando tira con Speranza."
+    desc: "*- Azione:* Spendere una Paura per far sì che il Wyvern emetta un grido gelido. Tutte le creature entro portata Lontana sono Terrorizzate finché non superano un tiro di Presenza (18) per rimuovere la condizione o il Wyvern viene sconfitto. Mentre è Terrorizzato, un PG non guadagna una Speranza quando tira con Speranza."
   - name: "Covata"
     desc: "*- Reazione:* Quando il Wyvern effettua un attacco riuscito contro un PG, puoi spendere una Paura per far sì che il Wyvern renda il bersaglio Trattenuto nei suoi artigli finché il PG non supera un tiro di Forza (18) o il Wyvern subisce danni Maggiori o superiori. Mentre è Trattenuto in questo modo, il PG ha svantaggio sui tiri d'attacco."
 ```

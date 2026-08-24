@@ -17,7 +17,7 @@ aliases:
  * **Falce:** +1 | Ravvicinata | 2d6+1 fisico
 * **Tratti e Capacità:**
  * **Fatto di Paglia - Passiva:** Lo Spaventapasseri ha resistenza ai danni fisici ma subisce il doppio dei danni da fuoco.
- * **Visione del Terrore - Azione:** Spendere una Paura per far fissare lo Spaventapasseri un PG entro portata Prossima, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza.
+ * **Visione del Terrore - Azione:** Spendere una Paura per far fissare lo Spaventapasseri a un PG entro portata Prossima, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,5 +38,5 @@ tratti:
     desc: "*- Passiva:* Lo Spaventapasseri ha resistenza ai danni fisici ma subisce il doppio dei danni da fuoco."
 capacita_speciali:
   - name: "Visione del Terrore"
-    desc: "*- Azione:* Spendere una Paura per far fissare lo Spaventapasseri un PG entro portata Prossima, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza."
+    desc: "*- Azione:* Spendere una Paura per far fissare lo Spaventapasseri a un PG entro portata Prossima, infliggendo 2d8 danni magici e rendendolo *Vulnerabile* finché non tira con Speranza."
 ```

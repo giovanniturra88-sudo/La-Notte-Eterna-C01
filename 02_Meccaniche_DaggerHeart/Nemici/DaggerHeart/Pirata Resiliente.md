@@ -5,7 +5,7 @@ type:
 ---
 
 ## Pirata Resiliente
-* **Descrizione:** Un pirata massiccio e tatuato con pugni della grandezza di una melone.
+* **Descrizione:** Un pirata massiccio e tatuato con pugni della grandezza di un melone.
 * **Rango:** 1 (Picchiatore)
 * **Difficoltà:** 13
 * **Soglie di Danno:** 8/15
@@ -15,12 +15,12 @@ type:
  * **Pugni Giganti:** +1 | Ravvicinata | 2d6 fisico
 * **Tratti e Capacità:**
  * **Schianto - Passiva:** Quando il Resiliente segna 2 o meno PF da un attacco in portata Ravvicinata, l'attaccante deve segnare uno Stress.
- * **Svuota la Deck - Azione:** Effettua un attacco contro un bersaglio in portata Prossima. In caso di successo, **Segnare uno Stress** per spostarti in portata Ravvicinata del bersaglio, infliggendo **3d4** danni fisici e spingendo il bersaglio indietro a portata Ravvicinata.
+ * **Svuota il Ponte - Azione:** Effettua un attacco contro un bersaglio in portata Prossima. In caso di successo, **Segnare uno Stress** per spostarti in portata Ravvicinata del bersaglio, infliggendo **3d4** danni fisici e spingendo il bersaglio indietro a portata Ravvicinata.
 
 ```statblock
 layout: DaggerHeart Nemici
 name: "Pirata Resiliente"
-description: "Un pirata massiccio e tatuato con pugni della grandezza di una melone."
+description: "Un pirata massiccio e tatuato con pugni della grandezza di un melone."
 tier: "1"
 ruolo: "Picchiatore"
 difficolta: "13"
@@ -35,6 +35,6 @@ tratti:
   - name: "Schianto"
     desc: "*- Passiva:* Quando il Resiliente segna 2 o meno PF da un attacco in portata Ravvicinata, l'attaccante deve segnare uno Stress."
 capacita_speciali:
-  - name: "Svuota la Deck"
+  - name: "Svuota il Ponte"
     desc: "*- Azione:* Effettua un attacco contro un bersaglio in portata Prossima. In caso di successo, Segnare uno Stress per spostarti in portata Ravvicinata del bersaglio, infliggendo 3d4 danni fisici e spingendo il bersaglio indietro a portata Ravvicinata."
 ```

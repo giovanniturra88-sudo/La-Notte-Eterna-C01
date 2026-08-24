@@ -4,7 +4,7 @@ type:
   - "[[a Distanza]]"
 ---
 
-## Arcere Scheletrico
+## Arciere Scheletrico
 * **Descrizione:** Uno scheletro fragile con arco corto e frecce.
 * **Rango:** 1 (a Distanza)
 * **Difficoltà:** 9
@@ -13,12 +13,12 @@ type:
 * **Attacchi:**
  * **Arco Corto:** +2 | Lontana | 1d8+1 fisico
 * **Tratti e Capacità:**
- * **Opportuniste - Passiva:** Quando due o più avversari si trovano in portata Prossima di una creatura, tutti i danni che l'Arcere infligge a quella creatura vengono raddoppiati.
+ * **Opportuniste - Passiva:** Quando due o più avversari si trovano in portata Prossima di una creatura, tutti i danni che l'Arciere infligge a quella creatura vengono raddoppiati.
  * **Colpo Mortale - Azione:** Effettua un attacco contro un bersaglio _Vulnerabile_ entro portata Lontana. In caso di successo, **segnare uno Stress** per infliggere **3d4+8** danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici
-name: "Arcere Scheletrico"
+name: "Arciere Scheletrico"
 description: "Uno scheletro fragile con arco corto e frecce."
 tier: "1"
 ruolo: "a Distanza"
@@ -31,7 +31,7 @@ attacchi:
     desc: "**+2** | Lontana | **1d8+1** fisico"
 tratti:
   - name: "Opportuniste"
-    desc: "*- Passiva:* Quando due o più avversari si trovano in portata Prossima di una creatura, tutti i danni che l'Arcere infligge a quella creatura vengono raddoppiati."
+    desc: "*- Passiva:* Quando due o più avversari si trovano in portata Prossima di una creatura, tutti i danni che l'Arciere infligge a quella creatura vengono raddoppiati."
 capacita_speciali:
   - name: "Colpo Mortale"
     desc: "*- Azione:* Effettua un attacco contro un bersaglio Vulnerabile entro portata Lontana. In caso di successo, segnare uno Stress per infliggere 3d4+8 danni fisici."

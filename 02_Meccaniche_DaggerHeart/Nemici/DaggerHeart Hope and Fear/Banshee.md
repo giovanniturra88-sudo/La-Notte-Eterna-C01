@@ -5,7 +5,7 @@ type:
 ---
 
 ## Banshee
-* **Descrizione:** Uno spirito fey corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di gossamer luminoso.
+* **Descrizione:** Uno spirito fatato corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di garza luminosa.
 * **Rango:** 2 (Furtivo)
 * **Difficoltà:** 14
 * **Soglie di Danno:** 9/18
@@ -22,7 +22,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Banshee"
-description: "Uno spirito fey corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di gossamer luminoso."
+description: "Uno spirito fatato corrotto che infesta la notte sotto forma di uno spettro slanciato che indossa un abito di garza luminosa."
 tier: "2"
 ruolo: "Furtivo"
 difficolta: "14"

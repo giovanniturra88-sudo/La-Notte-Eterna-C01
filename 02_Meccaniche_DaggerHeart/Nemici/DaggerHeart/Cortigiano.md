@@ -5,12 +5,12 @@ type:
 ---
 
 ## Cortigiano
-* **Descrizione:** Un incontro sociale ambizioso e ostentatamente vestito.
+* **Descrizione:** Un individuo ambizioso e vestito in modo vistoso.
 * **Rango:** 1 (Sociale)
 * **Difficoltà:** 12
 * **Soglie di Danno:** 4/8
 * **Punti Ferita:** 3 | **Stress:** 4
-* **Esperienza:** Socialite +3
+* **Esperienza:** Sociale +3
 * **Attacchi:**
  * **Pugnali:** -4 | Ravvicinata | 1d4+2 fisico
 * **Tratti e Capacità:**
@@ -20,13 +20,13 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Cortigiano"
-description: "Un incontro sociale ambizioso e ostentatamente vestito."
+description: "Un individuo ambizioso e vestito in modo vistoso."
 tier: "1"
 ruolo: "Sociale"
 difficolta: "12"
 hp: "3"
 stress: "4"
-esperienza: "Socialite +3"
+esperienza: "Sociale +3"
 soglia_danni: "4/8"
 attacchi:
   - name: "Pugnali"

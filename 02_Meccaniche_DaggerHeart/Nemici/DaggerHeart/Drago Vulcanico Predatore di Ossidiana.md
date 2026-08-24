@@ -17,9 +17,9 @@ type:
  * **Inesorabile (2) - Passiva:** Il Predatore di Ossidiana può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come al solito per metterlo a fuoco.
  * **Volante - Passiva:** Mentre vola, il Predatore di Ossidiana guadagna un bonus di +3 alla sua Difficoltà.
  * **Squame di Ossidiana - Passiva:** Il Predatore di Ossidiana è resistente al danno fisico.
- * **Coda dell'Avalanche - Azione:** **Segnare uno Stress** per effettuare un attacco contro tutti i bersagli entro portata Ravvicinata. I bersagli che falliscono l'attacco subiscono **4d6+4** danni fisici e vengono spinti a portata Lontana e diventano _Vulnerabili_ fino al loro prossimo tiro con Speranza.
+ * **Coda della Valanga - Azione:** **Segnare uno Stress** per effettuare un attacco contro tutti i bersagli entro portata Ravvicinata. I bersagli che falliscono l'attacco subiscono **4d6+4** danni fisici e vengono spinti a portata Lontana e diventano _Vulnerabili_ fino al loro prossimo tiro con Speranza.
  * **Attacco a Picco - Azione:** Se il Predatore di Ossidiana sta volando, **segnare uno Stress** per scegliere un punto entro portata Lontana. Muoviti verso quel punto ed effettua un attacco contro tutti i bersagli entro portata Prossima. I bersagli che falliscono l'attacco subiscono **2d10+6** danni fisici, devono segnare uno Stress e perdere una Speranza.
- * **Rabbia Eruzione (Cambio di Fase) - Reazione:** Quando il Predatore di Ossidiana segna l'ultimo PF, sostituiscilo con gli Scogli Moltena e mettilo immediatamente a fuoco.
+ * **Rabbia Eruzione (Cambio di Fase) - Reazione:** Quando il Predatore di Ossidiana segna l'ultimo PF, sostituiscilo con gli Scogli Fusi e mettilo immediatamente a fuoco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -43,10 +43,10 @@ tratti:
   - name: "Squame di Ossidiana"
     desc: "*- Passiva:* Il Predatore di Ossidiana è resistente al danno fisico."
 capacita_speciali:
-  - name: "Coda dell'Avalanche"
+  - name: "Coda della Valanga"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro tutti i bersagli entro portata Ravvicinata. I bersagli che falliscono l'attacco subiscono 4d6+4 danni fisici e vengono spinti a portata Lontana e diventano Vulnerabili fino al loro prossimo tiro con Speranza."
   - name: "Attacco a Picco"
     desc: "*- Azione:* Se il Predatore di Ossidiana sta volando, segnare uno Stress per scegliere un punto entro portata Lontana. Muoviti verso quel punto ed effettua un attacco contro tutti i bersagli entro portata Prossima. I bersagli che falliscono l'attacco subiscono 2d10+6 danni fisici, devono segnare uno Stress e perdere una Speranza."
   - name: "Rabbia Eruzione (Cambio di Fase)"
-    desc: "*- Reazione:* Quando il Predatore di Ossidiana segna l'ultimo PF, sostituiscilo con gli Scogli Moltena e mettilo immediatamente a fuoco."
+    desc: "*- Reazione:* Quando il Predatore di Ossidiana segna l'ultimo PF, sostituiscilo con gli Scogli Fusi e mettilo immediatamente a fuoco."
 ```

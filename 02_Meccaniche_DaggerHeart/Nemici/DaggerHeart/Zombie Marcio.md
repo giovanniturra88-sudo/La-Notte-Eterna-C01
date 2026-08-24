@@ -13,8 +13,8 @@ type:
 * **Attacchi:**
  * **Morso:** -3 | Ravvicinata | 2 fisico
 * **Tratti e Capacità:**
- * **Minion (3) - Passiva:** Il Zombie è sconfitto quando subisce qualsiasi danno. Per ogni 3 danni che un PG infligge al Zombie, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
- * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Zombie Marcio in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
+ * **Minion (3) - Passiva:** Lo Zombie è sconfitto quando subisce qualsiasi danno. Per ogni 3 danni che un PG infligge allo Zombie, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti gli Zombie Marcio in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -31,8 +31,8 @@ attacchi:
     desc: "**-3** | Ravvicinata | **2** fisico"
 tratti:
   - name: "Minion (3)"
-    desc: "*- Passiva:* Il Zombie è sconfitto quando subisce qualsiasi danno. Per ogni 3 danni che un PG infligge al Zombie, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo."
+    desc: "*- Passiva:* Lo Zombie è sconfitto quando subisce qualsiasi danno. Per ogni 3 danni che un PG infligge allo Zombie, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo."
 capacita_speciali:
   - name: "Attacco di Gruppo"
-    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Zombie Marcio in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni."
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti gli Zombie Marcio in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina i danni."
 ```

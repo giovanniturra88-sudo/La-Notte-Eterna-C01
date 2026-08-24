@@ -13,8 +13,8 @@ type:
 * **Attacchi:**
  * **Ascia Maledetta:** +2 | Prossima | 12 fisico
 * **Tratti e Capacità:**
- * **Minion (12) - Passiva:** Il Fanale di Shock viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Fanale di Shock, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo.
- * **Aura della Doom - Passiva:** Quando un PG segna PF da un attacco del Fanale di Shock, perde una Speranza.
+ * **Minion (12) - Passiva:** Il Soldato d'Assalto Caduto viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Soldato d'Assalto Caduto, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo.
+ * **Aura della Condanna - Passiva:** Quando un PG segna PF da un attacco del Soldato d'Assalto Caduto, perde una Speranza.
  * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Fanali di Shock Caduti in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina i danni.
 
 ```statblock
@@ -32,9 +32,9 @@ attacchi:
     desc: "**+2** | Prossima | **12** fisico"
 tratti:
   - name: "Minion (12)"
-    desc: "*- Passiva:* Il Fanale di Shock viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Fanale di Shock, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo."
-  - name: "Aura della Doom"
-    desc: "*- Passiva:* Quando un PG segna PF da un attacco del Fanale di Shock, perde una Speranza."
+    desc: "*- Passiva:* Il Soldato d'Assalto Caduto viene sconfitto quando subisce qualsiasi danno. Per ogni 12 danni che un PG infligge al Soldato d'Assalto Caduto, sconfiggi un Minion aggiuntivo in portata del colpo che avrebbe avuto successo."
+  - name: "Aura della Condanna"
+    desc: "*- Passiva:* Quando un PG segna PF da un attacco del Soldato d'Assalto Caduto, perde una Speranza."
 capacita_speciali:
   - name: "Attacco di Gruppo"
     desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Fanali di Shock Caduti in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un colpo condiviso. In caso di successo, infliggono 12 danni fisici ciascuno. Combina i danni."

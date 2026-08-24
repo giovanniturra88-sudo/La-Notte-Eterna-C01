@@ -19,7 +19,7 @@ aliases:
  * **Inesorabile (3) - Passiva:** Il Titano può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Colpo Abile - Passiva:** Prima che il Titano effettui un attacco, puoi segnare uno Stress e tirare un d6. Su un risultato di 3 o superiore, l'Evasione del bersaglio è dimezzata contro questo attacco.
  * **Malattia della Luce - Passiva:** Quando il Titano appare per la prima volta in superficie, tira un d4. Segna un numero di Stress pari al risultato. Il Titano guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress segnati.
- * **Colpo del Martello - Azione:** Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni).
+ * **Colpo del Martello - Azione:** Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici per questo attacco (può comunque usare l'armatura per ridurre i danni).
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -44,5 +44,5 @@ tratti:
     desc: "*- Passiva:* Quando il Titano appare per la prima volta in superficie, tira un d4. Segna un numero di Stress pari al risultato. Il Titano guadagna un bonus ai tiri d'attacco e sui danni pari al numero di Stress segnati."
 capacita_speciali:
   - name: "Colpo del Martello"
-    desc: "*- Azione:* Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre i danni)."
+    desc: "*- Azione:* Quando un PG segna PF dall'attacco standard del Titano, puoi spendere una Paura per costringere il bersaglio a segnare una Casella Armatura senza riceverne i benefici per questo attacco (può comunque usare l'armatura per ridurre i danni)."
 ```

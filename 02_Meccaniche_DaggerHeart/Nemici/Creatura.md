@@ -129,7 +129,7 @@ Questa pagina elenca tutti i nemici presenti nel progetto, organizzati per fonte
 - [[Spettro di Pietra]]
 - [[SpezzaGinocchia della Lama Seghettata]]
 - [[Spia]]
-- [[Squadrone di Arceri]]
+- [[Squadrone di Arcieri]]
 - [[Squalo]]
 - [[Stregone Caduto]]
 - [[Stregone Guerriero]]

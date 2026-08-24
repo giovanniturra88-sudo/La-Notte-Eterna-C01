@@ -20,7 +20,7 @@ aliases:
  * **Corno di Guerra - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a superare un Tiro di Reazione di Presenza o segnare uno Stress e diventare *Vulnerabile* finché non subisce il prossimo attacco.
  * **Carica del Toro - Azione:** Segnare uno Stress per muoversi fino a portata Ravvicinata ed effettuare un tiro d'attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, infliggi 4d10+2 danni fisici e respingi il bersaglio in portata Ravvicinata.
  * **Colpo Tagliente - Reazione:** Quando un PG segna PF dall'attacco standard del Titano, puoi segnare uno Stress per costringere un altro PG entro portata Prossima, contro cui l'attacco avrebbe avuto successo, a segnare lo stesso numero di PF.
- * **Cacciatore di Trofei - Reazione:** Quando il Titano sconfigge un PG, il Titano prende il possesso più prezioso del PG come trofeo.
+ * **Cacciatore di Trofei - Reazione:** Quando il Titano sconfigge un PG, il Titano si impossessa del bene più prezioso del PG come trofeo.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -47,5 +47,5 @@ capacita_speciali:
   - name: "Colpo Tagliente"
     desc: "*- Reazione:* Quando un PG segna PF dall'attacco standard del Titano, puoi segnare uno Stress per costringere un altro PG entro portata Prossima, contro cui l'attacco avrebbe avuto successo, a segnare lo stesso numero di PF."
   - name: "Cacciatore di Trofei"
-    desc: "*- Reazione:* Quando il Titano sconfigge un PG, il Titano prende il possesso più prezioso del PG come trofeo."
+    desc: "*- Reazione:* Quando il Titano sconfigge un PG, il Titano si impossessa del bene più prezioso del PG come trofeo."
 ```

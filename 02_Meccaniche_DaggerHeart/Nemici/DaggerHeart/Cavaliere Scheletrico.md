@@ -15,7 +15,7 @@ type:
 * **Tratti e Capacità:**
  * **Terrificante - Passiva:** Quando il Cavaliere effettua un attacco riuscito, tutti i PG entro portata Ravvicinata perdono una Speranza e tu guadagni una Paura.
  * **Taglio fino alle Ossa - Azione:** **Segnare uno Stress** per effettuare un attacco contro tutti i bersagli entro portata Prossima. I bersagli colpiti subiscono **1d8+2** danni fisici e devono segnare uno Stress.
- * **Dug Due Tombe - Reazione:** Quando il Cavaliere viene sconfitto, effettua un attacco contro un bersaglio entro portata Prossima (prioritizzando la creatura che lo ha ucciso). Se ha successo, il bersaglio subisce **1d4+8** danni fisici e perde **1d4** Speranza.
+ * **Scava Due Tombe - Reazione:** Quando il Cavaliere viene sconfitto, effettua un attacco contro un bersaglio entro portata Prossima (dando priorità alla creatura che lo ha ucciso). Se ha successo, il bersaglio subisce **1d4+8** danni fisici e perde **1d4** Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -36,6 +36,6 @@ tratti:
 capacita_speciali:
   - name: "Taglio fino alle Ossa"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro tutti i bersagli entro portata Prossima. I bersagli colpiti subiscono 1d8+2 danni fisici e devono segnare uno Stress."
-  - name: "Dug Due Tombe"
-    desc: "*- Reazione:* Quando il Cavaliere viene sconfitto, effettua un attacco contro un bersaglio entro portata Prossima (prioritizzando la creatura che lo ha ucciso). Se ha successo, il bersaglio subisce 1d4+8 danni fisici e perde 1d4 Speranza."
+  - name: "Scava Due Tombe"
+    desc: "*- Reazione:* Quando il Cavaliere viene sconfitto, effettua un attacco contro un bersaglio entro portata Prossima (dando priorità alla creatura che lo ha ucciso). Se ha successo, il bersaglio subisce 1d4+8 danni fisici e perde 1d4 Speranza."
 ```

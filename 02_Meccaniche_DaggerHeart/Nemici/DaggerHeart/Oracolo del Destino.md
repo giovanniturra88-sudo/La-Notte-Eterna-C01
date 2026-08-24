@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Terrificante - Passiva:** Quando l'Oracolo effettua un attacco riuscito, tutti i PG in portata Lontana perdono una Speranza e tu guadagni una Paura.
  * **Muri che Si Chiudono - Passiva:** Quando una creatura effettua un fallimento mentre si trova in portata Lontana dall'Oracolo, deve segnare uno Stress.
- * **Pronuncia il Destino - Azione:** **Spendere una Paura** per presentare a un bersaglio in portata Lontana una visione del loro incubo personale. Il bersaglio deve effettuare un Tiro di Reazione di Conoscenza. Se fallisce, perde tutte le Speranza e subisce **2d20+4** danni magici diretti. Se ha successo, subisce metà danno e perde una Speranza.
+ * **Pronuncia il Destino - Azione:** **Spendere una Paura** per presentare a un bersaglio in portata Lontana una visione del loro incubo personale. Il bersaglio deve effettuare un Tiro di Reazione di Conoscenza. Se fallisce, perde tutta la Speranza e subisce **2d20+4** danni magici diretti. Se ha successo, subisce metà danno e perde una Speranza.
  * **Evoca Tormentatori - Azione:** Una volta al giorno, **Spendere 2 Paura** per evocare **2d4** Servitori di Rango 2 o inferiore rilevanti per uno degli incubi personali dei PG. Appaiono in portata Ravvicinata rispetto a quel PG.
  * **Conoscenza Inquietante - Reazione:** Quando l'Oracolo vede una creatura mortale, sa istantaneamente uno dei suoi incubi personali.
  * **Destino Vendicativo - Reazione:** Quando l'Oracolo segna PF da un attacco in portata Prossima, puoi **Segnare uno Stress** per respingere l'attaccante a portata Lontana e infliggere **2d10+4** danni fisici.
@@ -42,7 +42,7 @@ tratti:
     desc: "*- Passiva:* Quando una creatura effettua un fallimento mentre si trova in portata Lontana dall'Oracolo, deve segnare uno Stress."
 capacita_speciali:
   - name: "Pronuncia il Destino"
-    desc: "*- Azione:* Spendere una Paura per presentare a un bersaglio in portata Lontana una visione del loro incubo personale. Il bersaglio deve effettuare un Tiro di Reazione di Conoscenza. Se fallisce, perde tutte le Speranza e subisce 2d20+4 danni magici diretti. Se ha successo, subisce metà danno e perde una Speranza."
+    desc: "*- Azione:* Spendere una Paura per presentare a un bersaglio in portata Lontana una visione del loro incubo personale. Il bersaglio deve effettuare un Tiro di Reazione di Conoscenza. Se fallisce, perde tutta la Speranza e subisce 2d20+4 danni magici diretti. Se ha successo, subisce metà danno e perde una Speranza."
   - name: "Evoca Tormentatori"
     desc: "*- Azione:* Una volta al giorno, Spendere 2 Paura per evocare 2d4 Servitori di Rango 2 o inferiore rilevanti per uno degli incubi personali dei PG. Appaiono in portata Ravvicinata rispetto a quel PG."
   - name: "Conoscenza Inquietante"

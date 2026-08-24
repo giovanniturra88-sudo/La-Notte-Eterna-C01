@@ -4,7 +4,7 @@ type:
   - "[[Capo]]"
 ---
 
-## Demone dell'Presunzione
+## Demone della Presunzione
 * **Descrizione:** Un demone perfettamente bello e infinitamente crudele, con una lancia lucente e vestiti eleganti.
 * **Rango:** 3 (Capo)
 * **Difficoltà:** 18
@@ -22,7 +22,7 @@ type:
 
 ```statblock
 layout: DaggerHeart Nemici
-name: "Demone dell'Presunzione"
+name: "Demone della Presunzione"
 description: "Un demone perfettamente bello e infinitamente crudele, con una lancia lucente e vestiti eleganti."
 tier: "3"
 ruolo: "Capo"

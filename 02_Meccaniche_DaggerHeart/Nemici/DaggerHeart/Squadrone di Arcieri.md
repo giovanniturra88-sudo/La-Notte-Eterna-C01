@@ -4,7 +4,7 @@ type:
   - "[[Orda]]"
 ---
 
-## Squadrone di Arceri
+## Squadrone di Arcieri
 * **Descrizione:** Un gruppo di arcieri addestrati che impugnano archi massicci.
 * **Rango:** 2 (Orda, 2/PF)
 * **Difficoltà:** 13
@@ -13,13 +13,13 @@ type:
 * **Attacchi:**
  * **Arco Lungo:** +0 | Lontana | 2d6+3 fisico
 * **Tratti e Capacità:**
- * **Orda (1d6+3) - Passiva:** Quando il Squadrone ha segnato la metà o più dei propri PF, il loro attacco standard infligge **1d6+3** danni fisici invece.
+ * **Orda (1d6+3) - Passiva:** Quando lo Squadrone ha segnato la metà o più dei propri PF, il loro attacco standard infligge **1d6+3** danni fisici invece.
  * **Volo Concentrato - Azione:** **Spendere uno Stress** per scegliere un punto in portata Lontana. Effettua un attacco con vantaggio contro tutti i bersagli in portata Ravvicinata di quel punto. I bersagli colpiti subiscono **1d10+4** danni fisici.
  * **Fuoco Soppressivo - Azione:** **Segnare uno Stress** per scegliere un punto in portata Lontana. Fino al prossimo tiro con Stress, una creatura che si muove in portata Ravvicinata di quel punto deve effettuare un Tiro di Reazione di Agilità. In caso di fallimento, subisce **2d6+3** danni fisici. In caso di successo, subisce metà danno.
 
 ```statblock
 layout: DaggerHeart Nemici
-name: "Squadrone di Arceri"
+name: "Squadrone di Arcieri"
 description: "Un gruppo di arcieri addestrati che impugnano archi massicci."
 tier: "2"
 ruolo: "Orda"
@@ -32,7 +32,7 @@ attacchi:
     desc: "**+0** | Lontana | **2d6+3** fisico"
 tratti:
   - name: "Orda (1d6+3)"
-    desc: "*- Passiva:* Quando il Squadrone ha segnato la metà o più dei propri PF, il loro attacco standard infligge 1d6+3 danni fisici invece."
+    desc: "*- Passiva:* Quando lo Squadrone ha segnato la metà o più dei propri PF, il loro attacco standard infligge 1d6+3 danni fisici invece."
 capacita_speciali:
   - name: "Volo Concentrato"
     desc: "*- Azione:* Spendere uno Stress per scegliere un punto in portata Lontana. Effettua un attacco con vantaggio contro tutti i bersagli in portata Ravvicinata di quel punto. I bersagli colpiti subiscono 1d10+4 danni fisici."

@@ -5,7 +5,7 @@ type:
 ---
 
 ## Elementale Maggiore dell'Acqua
-* **Descrizione:** Un enorme moto vivente che si abbatte sugli nemici.
+* **Descrizione:** Un enorme moto vivente che si abbatte sui nemici.
 * **Rango:** 3 (Supporto)
 * **Difficoltà:** 17
 * **Soglie di Danno:** 17/34
@@ -20,7 +20,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Elementale Maggiore dell'Acqua"
-description: "Un enorme moto vivente che si abbatte sugli nemici."
+description: "Un enorme moto vivente che si abbatte sui nemici."
 tier: "3"
 ruolo: "Supporto"
 difficolta: "17"

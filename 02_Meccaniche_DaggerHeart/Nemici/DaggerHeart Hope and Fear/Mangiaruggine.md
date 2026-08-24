@@ -7,7 +7,7 @@ aliases:
 ---
 
 ## Mangiaruggine
-* **Descrizione:** Un scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine.
+* **Descrizione:** Uno scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine.
 * **Rango:** 2 (Standard)
 * **Difficoltà:** 12
 * **Soglie di Danno:** 10/18
@@ -22,7 +22,7 @@ aliases:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Mangiaruggine"
-description: "Un scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine."
+description: "Uno scarafaggio grande come un puledro, rivestito di una chitina corrosiva che trasforma il metallo in ruggine."
 tier: "2"
 ruolo: "Standard"
 difficolta: "12"

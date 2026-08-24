@@ -18,7 +18,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Minion (6) - Passiva:** Lo Sporeling viene sconfitto quando subisce qualsiasi danno. Per ogni 6 danni che un PG infligge allo Sporeling, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti gli Sporeling Fungispunj entro portata Ravvicinata di esso. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 4 danni magici ciascuno. Combina questi danni.
- * **Formarsi - Azione:** Spendere una Paura per combinare tre Sporeling in un'area Ravvicinata e sostituirli con un Sporoforo Fungispunj.
+ * **Formarsi - Azione:** Spendere una Paura per combinare tre Sporeling in un'area Ravvicinata e sostituirli con uno Sporoforo Fungispunj.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,5 +38,5 @@ capacita_speciali:
   - name: "Attacco di Gruppo"
     desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti gli Sporeling Fungispunj entro portata Ravvicinata di esso. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 4 danni magici ciascuno. Combina questi danni."
   - name: "Formarsi"
-    desc: "*- Azione:* Spendere una Paura per combinare tre Sporeling in un'area Ravvicinata e sostituirli con un Sporoforo Fungispunj."
+    desc: "*- Azione:* Spendere una Paura per combinare tre Sporeling in un'area Ravvicinata e sostituirli con uno Sporoforo Fungispunj."
 ```

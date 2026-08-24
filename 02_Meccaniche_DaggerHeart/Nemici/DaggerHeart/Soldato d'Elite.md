@@ -5,7 +5,7 @@ type:
 ---
 
 ## Soldato d'Elite
-* **Descrizione:** Un squadrone corazzato o un comune abitante esperto che cerca di avanzare.
+* **Descrizione:** Uno squadrone corazzato o un comune abitante esperto che cerca di avanzare.
 * **Rango:** 2 (Standard)
 * **Difficoltà:** 15
 * **Soglie di Danno:** 9/18
@@ -19,7 +19,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Soldato d'Elite"
-description: "Un squadrone corazzato o un comune abitante esperto che cerca di avanzare."
+description: "Uno squadrone corazzato o un comune abitante esperto che cerca di avanzare."
 tier: "2"
 ruolo: "Standard"
 difficolta: "15"

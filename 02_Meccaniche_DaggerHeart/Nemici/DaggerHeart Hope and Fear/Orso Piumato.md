@@ -18,7 +18,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Inesorabile (2) - Passiva:** L'Orso Piumato può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Doppio Colpo - Azione:** Segnare uno Stress per effettuare due attacchi standard. Se entrambi gli attacchi riescono contro lo stesso bersaglio, combina i danni.
- * **Raugurio Spaventoso - Azione:** Spendere una Paura per far scatenare all'Orso Piumato un raugurio terrificante e assordante. Ogni PG entro portata Ravvicinata deve effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono devono segnare uno Stress, allontanarsi dall'Orso Piumato fino a portata Lontana e diventare *Vulnerabili* finché l'Orso Piumato non infligge loro danni. I bersagli che riescono devono segnare uno Stress o allontanarsi dall'Orso Piumato fino a portata Lontana.
+ * **Raugurio Spaventoso - Azione:** Spendere una Paura per far scatenare all'Orso Piumato un ruggito terrificante e assordante. Ogni PG entro portata Ravvicinata deve effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono devono segnare uno Stress, allontanarsi dall'Orso Piumato fino a portata Lontana e diventare *Vulnerabili* finché l'Orso Piumato non infligge loro danni. I bersagli che riescono devono segnare uno Stress o allontanarsi dall'Orso Piumato fino a portata Lontana.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -41,5 +41,5 @@ capacita_speciali:
   - name: "Doppio Colpo"
     desc: "*- Azione:* Segnare uno Stress per effettuare due attacchi standard. Se entrambi gli attacchi riescono contro lo stesso bersaglio, combina i danni."
   - name: "Raugurio Spaventoso"
-    desc: "*- Azione:* Spendere una Paura per far scatenare all'Orso Piumato un raugurio terrificante e assordante. Ogni PG entro portata Ravvicinata deve effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono devono segnare uno Stress, allontanarsi dall'Orso Piumato fino a portata Lontana e diventare *Vulnerabili* finché l'Orso Piumato non infligge loro danni. I bersagli che riescono devono segnare uno Stress o allontanarsi dall'Orso Piumato fino a portata Lontana."
+    desc: "*- Azione:* Spendere una Paura per far scatenare all'Orso Piumato un ruggito terrificante e assordante. Ogni PG entro portata Ravvicinata deve effettuare un Tiro di Reazione di Presenza. I bersagli che falliscono devono segnare uno Stress, allontanarsi dall'Orso Piumato fino a portata Lontana e diventare *Vulnerabili* finché l'Orso Piumato non infligge loro danni. I bersagli che riescono devono segnare uno Stress o allontanarsi dall'Orso Piumato fino a portata Lontana."
 ```

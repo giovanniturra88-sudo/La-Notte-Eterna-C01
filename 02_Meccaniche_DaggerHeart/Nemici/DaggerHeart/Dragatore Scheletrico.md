@@ -13,8 +13,8 @@ type:
 * **Attacchi:**
  * **Artigli d'Ossa:** -1 | Ravvicinata | 1 fisico
 * **Tratti e Capacità:**
- * **Minion (4) - Passiva:** Il Dredge viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dredge, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
- * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Dredges in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
+ * **Minion (4) - Passiva:** Il Dragatore viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dragatore, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo.
+ * **Attacco di Gruppo - Azione:** **Spendere una Paura** per scegliere un bersaglio e mettere a fuoco tutti i Dragatori in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -31,8 +31,8 @@ attacchi:
     desc: "**-1** | Ravvicinata | **1** fisico"
 tratti:
   - name: "Minion (4)"
-    desc: "*- Passiva:* Il Dredge viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dredge, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo."
+    desc: "*- Passiva:* Il Dragatore viene sconfitto quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge al Dragatore, sconfiggi un Minion aggiuntivo in portata dell'attacco che avrebbe avuto successo."
 capacita_speciali:
   - name: "Attacco di Gruppo"
-    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Dredges in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni."
+    desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutti i Dragatori in portata Ravvicinata. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un solo tiro d'attacco condiviso. In caso di successo, infliggono 1 danno fisico ciascuno. Combina i danni."
 ```

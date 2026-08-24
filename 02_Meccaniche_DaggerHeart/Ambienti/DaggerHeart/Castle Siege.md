@@ -9,7 +9,7 @@ type:
 
 - **Impulsi:** Sanguinare la volontà di combattere, fare breccia nelle mura, creare tensione
 - **Difficoltà:** 17
-- **Avversari Potenziali:** Mercenari (Devastatore, Mercenario, Lama Incantata, Maestro delle Armi), Forze Nobili (Squadrone di Arceri, Coscritto, Soldato d'Elite, Cavaliere della Corona)
+- **Avversari Potenziali:** Mercenari (Devastatore, Mercenario, Lama Incantata, Maestro delle Armi), Forze Nobili (Squadrone di Arcieri, Coscritto, Soldato d'Elite, Cavaliere della Corona)
 
 ### CARATTERISTICHE
 

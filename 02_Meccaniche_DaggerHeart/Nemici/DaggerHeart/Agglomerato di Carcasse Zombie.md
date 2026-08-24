@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Distruttibile - Passiva:** Quando l'Agglomerato subisce danni Maggiori o superiori, segna un PF in più.
  * **Arti Sferzanti - Passiva:** Quando l'Agglomerato effettua un attacco standard, può attaccare tutti i bersagli entro portata Prossima.
- * **Un Altro per lo Pile - Azione:** Quando l'Agglomerato si trova a Prossima da un cadavere, può incorporarlo in sé, rimuovendo un PF e uno Stress.
+ * **Un Altro per la Pila - Azione:** Quando l'Agglomerato si trova a Prossima da un cadavere, può incorporarlo in sé, rimuovendo un PF e uno Stress.
  * **Urla Tormentate - Azione:** **Segnare uno Stress** per far sì che tutti i PG entro portata Lontana facciano un Tiro di Reazione di Presenza (13). I bersagli che falliscono perdono una Speranza e tu guadagni una Paura per ognuno. I bersagli che riescono devono segnare uno Stress.
 
 ```statblock
@@ -38,7 +38,7 @@ capacita_speciali:
     desc: "*- Passiva:* Quando l'Agglomerato subisce danni Maggiori o superiori, segna un PF in più."
   - name: "Arti Sferzanti"
     desc: "*- Passiva:* Quando l'Agglomerato effettua un attacco standard, può attaccare tutti i bersagli entro portata Prossima."
-  - name: "Un Altro per lo Pile"
+  - name: "Un Altro per la Pila"
     desc: "*- Azione:* Quando l'Agglomerato si trova a Prossima da un cadavere, può incorporarlo in sé, rimuovendo un PF e uno Stress."
   - name: "Urla Tormentate"
     desc: "*- Azione:* Segnare uno Stress per far sì che tutti i PG entro portata Lontana facciano un Tiro di Reazione di Presenza (13). I bersagli che falliscono perdono una Speranza e tu guadagni una Paura per ognuno. I bersagli che riescono devono segnare uno Stress."

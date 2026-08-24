@@ -14,7 +14,7 @@ type:
 * **Attacchi:**
  * **Martello da Guerra:** +2 | Prossima | 2d12+3 fisico
 * **Tratti e Capacità:**
- * **Macigno - Azione:** **Segnare uno Stress** per far sì che il Combattente carichi verso un oggetto inanimato entro portata Ravvicinata che potrebbe ragionevolmente distruggere (come una parete, un carro o un banchetto del mercato) e distruggerlo. Tutti i bersagli entro portata Prossima dell'oggetto devono superare un Tiro di Reazione di Agilità o subire **2d4+3** danni fisici da frammenti.
+ * **Macigno - Azione:** **Segnare uno Stress** per far sì che il Combattente carichi verso un oggetto inanimato entro portata Ravvicinata che potrebbe ragionevolmente distruggere (come una parete, un carro o un banco del mercato) e distruggerlo. Tutti i bersagli entro portata Prossima dell'oggetto devono superare un Tiro di Reazione di Agilità o subire **2d4+3** danni fisici da frammenti.
  * **Ritorsione Sanguinaria - Reazione:** Quando il Combattente segna 2 o più PF da un attacco entro portata Prossima, puoi effettuare un attacco standard contro l'aggressore. In caso di successo, il Combattente infligge **2d6+15** danni fisici invece del suo danno standard.
  * **Impeto - Reazione:** Quando il Combattente effettua un attacco riuscito contro un PG, guadagni una Paura.
 
@@ -34,7 +34,7 @@ attacchi:
     desc: "**+2** | Prossima | **2d12+3** fisico"
 capacita_speciali:
   - name: "Macigno"
-    desc: "*- Azione:* Segnare uno Stress per far sì che il Combattente carichi verso un oggetto inanimato entro portata Ravvicinata che potrebbe ragionevolmente distruggere (come una parete, un carro o un banchetto del mercato) e distruggerlo. Tutti i bersagli entro portata Prossima dell'oggetto devono superare un Tiro di Reazione di Agilità o subire 2d4+3 danni fisici da frammenti."
+    desc: "*- Azione:* Segnare uno Stress per far sì che il Combattente carichi verso un oggetto inanimato entro portata Ravvicinata che potrebbe ragionevolmente distruggere (come una parete, un carro o un banco del mercato) e distruggerlo. Tutti i bersagli entro portata Prossima dell'oggetto devono superare un Tiro di Reazione di Agilità o subire 2d4+3 danni fisici da frammenti."
   - name: "Ritorsione Sanguinaria"
     desc: "*- Reazione:* Quando il Combattente segna 2 o più PF da un attacco entro portata Prossima, puoi effettuare un attacco standard contro l'aggressore. In caso di successo, il Combattente infligge 2d6+15 danni fisici invece del suo danno standard."
   - name: "Impeto"

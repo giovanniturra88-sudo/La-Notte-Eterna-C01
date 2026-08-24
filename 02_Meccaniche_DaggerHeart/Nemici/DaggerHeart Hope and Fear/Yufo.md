@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Telepatico - Passiva:** Lo Yufo può comunicare mentalmente con le creature entro portata Remota.
  * **Cassaforte Psichica - Passiva:** Lo Yufo è immune a abilità e tratti che influenzerebbero o altererebbero i suoi pensieri o le sue emozioni.
- * **Onda di Glitch - Azione:** Spendere una Paura e scegliere fino a tre bersagli entro portata Ravvicinata. Ogni bersaglio deve superare un Tiro di Reazione di Istinto o diventare desincronizzato dalla realtà e avere svantaggio sui tiri di Istinto finché non usa una mossa di tempo libero per ancorare la sua psiche al presente.
+ * **Onda di Distorsione - Azione:** Spendere una Paura e scegliere fino a tre bersagli entro portata Ravvicinata. Ogni bersaglio deve superare un Tiro di Reazione di Istinto o diventare desincronizzato dalla realtà e avere svantaggio sui tiri di Istinto finché non usa una mossa di tempo libero per ancorare la sua psiche al presente.
  * **Corrosione Temporale - Reazione:** Quando lo Yufo ha successo su un attacco standard, puoi segnare uno Stress per far sì che lo Yufo secerni un acido entropico attraverso la sua pelle, infliggendo al bersaglio una penalità di -2 alle sue soglie di danno finché non usa una mossa di tempo libero per riparare la sua armatura.
 
 ```statblock
@@ -39,7 +39,7 @@ tratti:
   - name: "Cassaforte Psichica"
     desc: "*- Passiva:* Lo Yufo è immune a abilità e tratti che influenzerebbero o altererebbero i suoi pensieri o le sue emozioni."
 capacita_speciali:
-  - name: "Onda di Glitch"
+  - name: "Onda di Distorsione"
     desc: "*- Azione:* Spendere una Paura e scegliere fino a tre bersagli entro portata Ravvicinata. Ogni bersaglio deve superare un Tiro di Reazione di Istinto o diventare desincronizzato dalla realtà e avere svantaggio sui tiri di Istinto finché non usa una mossa di tempo libero per ancorare la sua psiche al presente."
   - name: "Corrosione Temporale"
     desc: "*- Reazione:* Quando lo Yufo ha successo su un attacco standard, puoi segnare uno Stress per far sì che lo Yufo secerni un acido entropico attraverso la sua pelle, infliggendo al bersaglio una penalità di -2 alle sue soglie di danno finché non usa una mossa di tempo libero per riparare la sua armatura."

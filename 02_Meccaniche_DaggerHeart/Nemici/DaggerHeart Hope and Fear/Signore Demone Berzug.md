@@ -19,9 +19,9 @@ aliases:
  * **Inesorabile (3) - Passiva:** Berzug può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Fustigazione del Caos - Azione:** Segnare uno Stress per far sferzare Berzug contro fino a tre PG entro portata Ravvicinata e costringere ogni bersaglio a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d20 danni fisici. I bersagli che riescono subiscono la metà dei danni.
  * **Sguardo nell'Abisso - Azione:** Spendere una Paura per far fissare Berzug negli occhi di un PG entro portata Lontana. Il bersaglio deve superare un Tiro di Reazione di Presenza o subire una delle seguenti condizioni (tira un d6 e usa il risultato corrispondente):
- * **1–2: Ipnosato.** Il bersaglio si muove immediatamente in portata Ravvicinata di Berzug ed è *Vulnerabile* e *Trattenuto* finché non rimuove la condizione con un Tiro d'Istinto riuscito.
+ * **1–2: Ipnosi.** Il bersaglio si muove immediatamente in portata Ravvicinata di Berzug ed è *Vulnerabile* e *Trattenuto* finché non rimuove la condizione con un Tiro d'Istinto riuscito.
  * **3–4: Confuso.** Il bersaglio deve segnare uno Stress ogni volta che effettua un tiro di azione finché non rimuove la condizione con un Tiro di Conoscenza riuscito.
- * **5–6: Incantato.** Finché il PG non effettua un Tiro di Presenza riuscito per rimuovere la condizione, puoi metterlo a fuoco durante un turno del GM come se fosse un avversario. Quando lo fai, scegli un bersaglio entro portata Ravvicinata del PG *Incantato*. Il PG *Incantato* si muove in portata Ravvicinata del bersaglio ed effettua un attacco con arma contro di esso usando un d20 invece dei Dadi di Dualità.
+ * **5–6: Affascinato.** Finché il PG non effettua un Tiro di Presenza riuscito per rimuovere la condizione, puoi metterlo a fuoco durante un turno del GM come se fosse un avversario. Quando lo fai, scegli un bersaglio entro portata Ravvicinata del PG *Affascinato*. Il PG *Affascinato* si muove in portata Ravvicinata del bersaglio ed effettua un attacco con arma contro di esso usando un d20 invece dei Dadi Dualità.
  * **Colpo Schiacciante - Reazione:** Quando un PG segna PF dall'attacco standard di Berzug, puoi segnare uno Stress per costringerlo a segnare un numero di Stress pari al numero di PF che ha segnato. Guadagni una Paura.
  * **Spaventoso - Reazione:** Quando un PG fallisce un attacco contro Berzug, guadagni una Paura.
 
@@ -46,7 +46,7 @@ capacita_speciali:
   - name: "Fustigazione del Caos"
     desc: "*- Azione:* Segnare uno Stress per far sferzare Berzug contro fino a tre PG entro portata Ravvicinata e costringere ogni bersaglio a effettuare un Tiro di Reazione di Agilità. I bersagli che falliscono subiscono 4d20 danni fisici. I bersagli che riescono subiscono la metà dei danni."
   - name: "Sguardo nell'Abisso"
-    desc: "*- Azione:* Spendere una Paura per far fissare Berzug negli occhi di un PG entro portata Lontana. Il bersaglio deve superare un Tiro di Reazione di Presenza o subire una delle seguenti condizioni (tira un d6 e usa il risultato corrispondente): 1-2 Ipnosato; 3-4 Confuso; 5-6 Incantato."
+    desc: "*- Azione:* Spendere una Paura per far fissare Berzug negli occhi di un PG entro portata Lontana. Il bersaglio deve superare un Tiro di Reazione di Presenza o subire una delle seguenti condizioni (tira un d6 e usa il risultato corrispondente): 1-2 Ipnosi; 3-4 Confuso; 5-6 Affascinato."
   - name: "Colpo Schiacciante"
     desc: "*- Reazione:* Quando un PG segna PF dall'attacco standard di Berzug, puoi segnare uno Stress per costringerlo a segnare un numero di Stress pari al numero di PF che ha segnato. Guadagni una Paura."
   - name: "Spaventoso"

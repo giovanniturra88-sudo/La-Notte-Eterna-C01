@@ -3,7 +3,7 @@ type:
   - "[[Creatura]]"
   - "[[Solo]]"
 aliases:
- - "Entmbed Cat Beast"
+ - "Entombed Cat Beast"
 ---
 
 ## Bestia Gatto Sepolta

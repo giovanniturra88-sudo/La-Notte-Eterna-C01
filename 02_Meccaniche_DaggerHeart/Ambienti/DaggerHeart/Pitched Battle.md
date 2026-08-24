@@ -9,7 +9,7 @@ type:
 
 - **Impulsi:** Impadronirsi di persone, terre e ricchezze, versare sangue per avidità e gloria
 - **Difficoltà:** 17
-- **Avversari Potenziali:** Mercenari (Mercenario, Devastatore, Lama Incantata, Maestro delle Armi), Forze Nobili (Squadrone di Arceri, Coscritto, Soldato d'Elite, Cavaliere della Corona)
+- **Avversari Potenziali:** Mercenari (Mercenario, Devastatore, Lama Incantata, Maestro delle Armi), Forze Nobili (Squadrone di Arcieri, Coscritto, Soldato d'Elite, Cavaliere della Corona)
 
 ### CARATTERISTICHE
 

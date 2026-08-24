@@ -19,7 +19,7 @@ aliases:
  * **Nuvola di Spore Neurotossiche - Azione:** Segnare uno Stress per far sprigionare allo Sporoforo una nuvola di spore su tutti i bersagli entro portata Ravvicinata. Ogni PG deve superare un Tiro di Reazione di Agilità o diventare *Avvelenato* finché non spende una Speranza per rimuovere la condizione. Mentre è *Avvelenato*, un bersaglio deve tirare un d6 prima di effettuare un tiro di azione. Con un risultato di 4 o inferiore, deve segnare uno Stress.
  * **Rianimatore - Azione:** Spendere una Paura per far sprigionare allo Sporoforo una nuvola di spore psiciche su un cadavere entro portata Prossima. Il cadavere rimuove tutti i PF e lo Stress, poi si rianima sotto il controllo psicico dello Sporoforo. Quando lo Sporoforo viene messo a fuoco, puoi anche mettere a fuoco tutti i cadaveri che controlla.
  * **Colonia - Azione:** Segnare qualsiasi numero di Stress per far evocare allo Sporoforo lo stesso numero di Sporeling Fungispunj entro portata Ravvicinata.
- * **Fusione Mentale - Reazione:** Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quel Stress al suo posto, distribuito tra gli alleati come preferisce.
+ * **Fusione Mentale - Reazione:** Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quello Stress al suo posto, distribuito tra gli alleati come preferisce.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -43,5 +43,5 @@ capacita_speciali:
   - name: "Colonia"
     desc: "*- Azione:* Segnare qualsiasi numero di Stress per far evocare allo Sporoforo lo stesso numero di Sporeling Fungispunj entro portata Ravvicinata."
   - name: "Fusione Mentale"
-    desc: "*- Reazione:* Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quel Stress al suo posto, distribuito tra gli alleati come preferisce."
+    desc: "*- Reazione:* Tutti i Fungispunj possono comunicare telepaticamente tra loro. Quando lo Sporoforo sta per essere costretto a segnare Stress da un attacco, può far segnare agli alleati Fungispunj nella scena quello Stress al suo posto, distribuito tra gli alleati come preferisce."
 ```

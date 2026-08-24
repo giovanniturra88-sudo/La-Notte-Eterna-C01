@@ -5,7 +5,7 @@ type:
 ---
 
 ## Sciame di Ratti
-* **Descrizione:** Una massa che scivola di roditori comuni che si muovono come un'unica onda avida.
+* **Descrizione:** Una massa scivolante di roditori comuni che si muovono come un'unica onda avida.
 * **Rango:** 1 (Orda)
 * **Difficoltà:** 10
 * **Soglie di Danno:** 6/10
@@ -19,7 +19,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Sciame di Ratti"
-description: "Una massa che scivola di roditori comuni che si muovono come un'unica onda avida."
+description: "Una massa scivolante di roditori comuni che si muovono come un'unica onda avida."
 tier: "1"
 ruolo: "Orda"
 difficolta: "10"

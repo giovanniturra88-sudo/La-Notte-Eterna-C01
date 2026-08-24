@@ -5,7 +5,7 @@ type:
 ---
 
 ## Esperimento Fallito
-* **Descrizione:** Un esperimento necromantico magico andato storto, che li ha lasciati deformati e maldegni.
+* **Descrizione:** Un esperimento necromantico magico andato storto, che lo ha lasciato deformato e maldegno.
 * **Rango:** 2 (Standard)
 * **Difficoltà:** 13
 * **Soglie di Danno:** 12/23
@@ -21,7 +21,7 @@ type:
 ```statblock
 layout: DaggerHeart Nemici
 name: "Esperimento Fallito"
-description: "Un esperimento necromantico magico andato storto, che li ha lasciati deformati e maldegni."
+description: "Un esperimento necromantico magico andato storto, che lo ha lasciato deformato e maldegno."
 tier: "2"
 ruolo: "Standard"
 difficolta: "13"

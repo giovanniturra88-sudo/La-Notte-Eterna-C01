@@ -17,7 +17,7 @@ aliases:
  * **Morso:** +2 | Prossima | 3d8+5 fisico
 * **Tratti e Capacità:**
  * **Solo una Voce - Passiva:** Mentre è in profondità sott'acqua, il Plesiosaurio non può essere localizzato o bersagliato.
- * **Parete d'Acqua - Azione:** Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici e essere respinto in portata Lontana.
+ * **Parete d'Acqua - Azione:** Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici ed essere respinto in portata Lontana.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,5 +38,5 @@ tratti:
     desc: "*- Passiva:* Mentre è in profondità sott'acqua, il Plesiosaurio non può essere localizzato o bersagliato."
 capacita_speciali:
   - name: "Parete d'Acqua"
-    desc: "*- Azione:* Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici e essere respinto in portata Lontana."
+    desc: "*- Azione:* Segnare uno Stress per far emergere e schiantare il Plesiosaurio, scatenando una parete d'acqua da un lato del suo corpo. Ogni PG entro portata Lontana su quel lato del Plesiosaurio deve superare un Tiro di Reazione di Agilità (18) o subire 3d10 danni fisici ed essere respinto in portata Lontana."
 ```

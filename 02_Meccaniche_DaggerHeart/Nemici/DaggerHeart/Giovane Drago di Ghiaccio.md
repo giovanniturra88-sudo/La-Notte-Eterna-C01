@@ -19,7 +19,7 @@ type:
  * **Nessuna Speranza - Passiva:** Quando un PG tira con Paura mentre si trova in portata Lontana del Drago, perde una Speranza.
  * **Respiro di Neve - Azione:** **Spendere 2 Paura** per rilasciare una spirale glaciale davanti al Drago entro portata Ravvicinata. Tutti i bersagli in quest'area devono effettuare un Tiro di Reazione di Agilità. Chi fallisce subisce **4d6+5** danni magici e viene _Trattenuto_ dal ghiaccio fino a quando non si libera con un successo su un Tiro di Forza. Chi ha successo deve segnare 2 Stress oppure subire metà danno.
  * **Frana - Azione:** **Spendere una Paura** per far sì che il Drago rilasci un enorme crollo di neve e ghiaccio, coprendo tutte le altre creature entro portata Lontana. Tutti i bersagli in quest'area devono superare un Tiro di Reazione di Istinto o essere seppelliti sotto neve e rocce, diventando _Vulnerabili_ fino a quando non si liberano dai detriti. Per ogni PG che fallisce il tiro di reazione, guadagni una Paura.
- * **Scaglie Congelate - Reazione:** Quando una creatura effettua un attacco riuscito contro il Drago da portata Prossima, deve segnare Stress e diventare _Freddo_ fino al loro prossimo riposo o finché non eliminano Stress. Mentre sono _Freddi_, hanno svantaggio sui tiri d'attacco.
+ * **Scaglie Congelate - Reazione:** Quando una creatura effettua un attacco riuscito contro il Drago da portata Prossima, deve segnare Stress e diventare _Congelato_ fino al suo prossimo riposo o finché non eliminano Stress. Mentre è _Congelato_, hanno svantaggio sui tiri d'attacco.
  * **Impeto - Reazione:** Quando il Drago effettua un attacco riuscito contro un PG, guadagni una Paura.
 
 ```statblock
@@ -49,7 +49,7 @@ capacita_speciali:
   - name: "Frana"
     desc: "*- Azione:* Spendere una Paura per far sì che il Drago rilasci un enorme crollo di neve e ghiaccio, coprendo tutte le altre creature entro portata Lontana. Tutti i bersagli in quest'area devono superare un Tiro di Reazione di Istinto o essere seppelliti sotto neve e rocce, diventando Vulnerabili fino a quando non si liberano dai detriti. Per ogni PG che fallisce il tiro di reazione, guadagni una Paura."
   - name: "Scaglie Congelate"
-    desc: "*- Reazione:* Quando una creatura effettua un attacco riuscito contro il Drago da portata Prossima, deve segnare Stress e diventare Freddo fino al loro prossimo riposo o finché non eliminano Stress. Mentre sono Freddi, hanno svantaggio sui tiri d'attacco."
+    desc: "*- Reazione:* Quando una creatura effettua un attacco riuscito contro il Drago da portata Prossima, deve segnare Stress e diventare Congelato fino al suo prossimo riposo o finché non eliminano Stress. Mentre è Congelato, hanno svantaggio sui tiri d'attacco."
   - name: "Impeto"
     desc: "*- Reazione:* Quando il Drago effettua un attacco riuscito contro un PG, guadagni una Paura."
 ```
