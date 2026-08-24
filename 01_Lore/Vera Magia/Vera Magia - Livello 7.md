@@ -13,7 +13,7 @@ Tracci un circolo del raggio di una Zona Ravvicinata usando carboni e carne sacr
 
 Quando una creatura entra nell'area o vi inizia il turno, deve effettuare un **Tiro di Reazione di Forza (Difficoltà 16)**:
 * **Fallimento:** Subisce lo stato **Incapacitato** e non può muoversi o agire. All'inizio di ogni suo turno ripete la prova. Se accumula 3 fallimenti consecutivi, cade svenuta finché resta nel circolo.
-* **Successo:** Non viene incapacitata, ma subisce **Svantaggio** a tutti i tiri d'attacco e alle prove di Tratto finché rimane nel circolo.
+* **Successo:** Non viene incapacitata, ma subisce **Svantaggio** a tutti i tiri d'attacco, ai Tiri di Reazione e alle prove di Tratto finché rimane nel circolo.
 
 Puoi incantare un numero di oggetti/chiodi pari al tuo valore di **Presenza**. Chiunque porti con sé uno di questi chiodi è completamente immune agli effetti del circolo.
 
@@ -39,7 +39,7 @@ Quando evochi il circolo, puoi designare le creature alleate che saranno immuni.
 * **Gittata:** Zona Remota
 * **Durata:** 1 Settimana
 
-Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero di piante o alberi pari al tuo valore di **Saggezza + 3**. Le piante acquisiscono movimento, sensi umani e statistiche di combattimento appropriate alla loro taglia (gestite dal GM come Avversari o Alleati).
+Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero di piante o alberi pari al tuo valore di **Istinto + 3**. Le piante acquisiscono movimento, sensi umani e statistiche di combattimento appropriate alla loro taglia (gestite dal GM come Avversari o Alleati).
 
 * **Comando:** Durante il tuo turno, puoi spendere un'Azione per impartire comandi mentali a tutte le piante animate. Seguiranno l'ordine al meglio delle loro capacità.
 * **Mantenimento:** Prima che la settimana scada, puoi spendere 1 Speranza e reagenti rari per estendere la durata di un'altra settimana per ogni pianta. Al termine, la pianta torna stazionaria e affonda le radici nel terreno.
@@ -73,5 +73,5 @@ Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vit
 Sgretoli polveri preziose per creare una densa nube di polvere cosmica che copre una Zona Lontana, oscurando completamente la vista. 
 
 Chiunque entri nella nube o vi inizi il turno (tranne te) deve effettuare un **Tiro di Reazione di Forza (Difficoltà 16)**:
-* **Fallimento:** Subisce **1d20+17 Danni Magici (Radiosi)** e acquisisce 2 punti **Stress**. Immondi ed Aberrazioni effettuano la prova con Svantaggio.
-* **Successo:** Subisce metà danno e nessun punto Stress.
+* **Fallimento:** Subisce **2d20+33 danni magici (radiosi)** e lo stato **Avvelenato** per 1 minuto. Immondi ed Aberrazioni effettuano la prova con Svantaggio.
+* **Successo:** Subisce metà danno.

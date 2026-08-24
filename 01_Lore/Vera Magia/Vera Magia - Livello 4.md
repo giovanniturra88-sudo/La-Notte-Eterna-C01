@@ -15,7 +15,7 @@ tags:
 * **Durata:** Istantaneo
 * **Gittata:** Remoto (Very Far)
 
-Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce automaticamente infliggendo `1d20+3` Danni Magici. Inoltre ogni dardo genera un'onda d'urto in un raggio **Prossimo**: le creature coinvolte subiscono `d8` Danni Magici extra a meno che non superino un Tiro di Reazione di Agilità.
+Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce automaticamente infliggendo `1d20+12` danni magici. Inoltre ogni dardo genera un'onda d'urto in un'area Prossima: le creature coinvolte subiscono `1d20` danni magici extra (metà in caso di successo) a meno che non superino un Tiro di Reazione di Agilità.
 
 ---
 
@@ -24,9 +24,9 @@ Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce autom
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Medio (Far)
+* **Gittata:** Ravvicinata
 
-Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al momento dell'evocazione viene spinto all'esterno e subisce `1d20+6` Danni Magici. La sfera genera un'aura attorno a sé: le creature che vi iniziano il turno subiscono `1d20-2` danni e subiscono effetti secondari a seconda della Luna (Radiosi se Luna Piena, Necrotici se Luna Nuova).
+Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al momento dell'evocazione viene spinto all'esterno e subisce `2d20+15` danni magici (Tiro di Reazione di Forza per dimezzare). La sfera genera un'aura attorno a sé: le creature che vi iniziano il turno subiscono `1d20+17` danni e subiscono effetti secondari a seconda della Luna (Radiosi se Luna Piena, Necrotici se Luna Nuova).
 
 ---
 
@@ -37,7 +37,7 @@ Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al mome
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Linea Retta fino a Lontano (Far)
 
-Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devono superare un Tiro di Reazione di Agilità: se falliscono subiscono `1d20+12` Danni da Fuoco (se superano, metà danno). Con una mossa nel tuo turno puoi riorientare il raggio.
+Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devono superare un Tiro di Reazione di Agilità: se falliscono subiscono `2d20+21` danni da fuoco (se superano, metà danno). Con una mossa nel tuo turno puoi riorientare il raggio.
 
 ---
 
@@ -46,9 +46,9 @@ Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devon
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Presenza/Conoscenza)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Lontano (Far)
+* **Gittata:** Remota
 
-Crea un globo violaceo opaco. Le creature all'interno della sfera devono superare un Tiro di Reazione di Conoscenza o subire `1d20+3` Danni Psichici ed essere **Stordite** (impossibilitate ad agire nel turno successivo). Puoi muovere la sfera di una gittata *Ravvicinata* ad ogni turno.
+Crea un globo violaceo opaco. Le creature all'interno della sfera devono superare un Tiro di Reazione di Conoscenza o subire `1d20+12` danni psichici ed essere **Stordite** per 1 minuto (impossibilitate ad agire). Puoi muovere la sfera di una gittata *Ravvicinata* ad ogni turno.
 
 ---
 
@@ -57,6 +57,6 @@ Crea un globo violaceo opaco. Le creature all'interno della sfera devono superar
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Grazia/Presenza)
 * **Durata:** 1 Scena / Alcune Ore
-* **Gittata:** Medio (Far)
+* **Gittata:** Lontana
 
-Altera visivamente, uditivamente e tattilmente una vasta area, oggetto o creatura. L'illusione è indistinguibile dalla realtà finché un osservatore non spende un'azione e supera una prova d'ispezione contro la Difficoltà del tuo tiro magico.
+Altera visivamente, uditivamente e tattilmente una vasta area, oggetto o creatura. L'illusione è indistinguibile dalla realtà finché un osservatore non spende un'azione e supera una prova d'ispezione contro la Difficoltà del tuo Tiro Incantesimo.

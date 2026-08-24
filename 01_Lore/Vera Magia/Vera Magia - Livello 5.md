@@ -15,32 +15,32 @@ tags:
 * **Durata:** Istantaneo
 * **Gittata:** Remoto (Very Far)
 
-Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `1d20+33` Danni Magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Ravvicinata** dal punto d'impatto, spingendoli indietro e infliggendo `1d20-2` danni magici a meno che non superino un Tiro di Reazione di Forza.
+Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `2d20+49` danni magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Ravvicinata** dal punto d'impatto, spingendoli indietro e infliggendo `1d20+7` danni magici a meno che non superino un Tiro di Reazione di Forza.
 
 ---
 
 ### Frusta Arcana di Nelen
 * **Livello:** 5
 * **Costo:** 2 Speranza
-* **Tiro d'Attacco / Magia:** Tiro d'Attacco Magico
+* **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Ravvicinato / Medio
+* **Gittata:** Ravvicinata
 
-Cree una frusta d'energia arcana che infligge `1d20+3` danni Magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
-- **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `1d20-4` danni da urto).
+Crea una frusta d'energia arcana che infligge `1d20+10` danni magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
+- **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `1d20+10` danni fisici, contundenti).
 - **Bloccare:** La creatura viene **Trattenuta** e subisce danni continui.
-- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `1d20+17` danni Magici.
+- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `2d20+39` danni magici.
 
 ---
 
 ### Fulmine Istantaneo di Fahrn
 * **Livello:** 5
 * **Costo:** 2 Speranza + 1 Paura concessa al GM
-* **Tiro di Magia:** Automatico / Tiro di Reazione del Bersaglio
+* **Tiro Incantesimo:** Automatico / Tiro di Reazione del Bersaglio
 * **Durata:** Istantaneo
-* **Gittata:** Estrema (Entro il raggio visivo/mappa)
+* **Gittata:** Remota (entro il raggio visivo/mappa)
 
-Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un Tiro di Reazione di Forza: subisce `1d20+22` Danni Magici da Fulmine (metà se supera la prova).
+Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un Tiro di Reazione di Forza: subisce `2d20+34` danni magici da fulmine (metà se supera la prova).
 
 ---
 
@@ -62,4 +62,4 @@ Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Medio (Far)
 
-Evochi un raggio di luce scura. Le creature colpite devono superare un Tiro di Reazione di Forza o subire `1d20+12` Danni Necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.
+Evochi un raggio di luce scura. Le creature colpite devono superare un Tiro di Reazione di Forza o subire `2d20+18` danni necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.

@@ -15,10 +15,10 @@ tags:
 * **Durata:** Permanenza / Giorni
 * **Gittata:** Vasta Area / Intera Mappa di Gioco
 
-Trasforma un'ampia regione in un cataclisma brullo di geyser e lava. Il terreno diventa difficile e pericoloso: chiunque vi inizi il turno deve superare un Tiro di Reazione di Agilità o subire `1d20+6` Danni da Fuoco. 
+Trasforma un'ampia regione in un cataclisma brullo di geyser e lava. Il terreno diventa difficile e pericoloso: chiunque vi inizi il turno deve superare un Tiro di Reazione di Agilità o subire `1d20+18` danni da fuoco. 
 Se il rito viene ripetuto nello stesso luogo nei giorni successivi:
-- **Dopo 1 Settimana:** Si aprono crateri vulcanici, il danno sale a `1d20+17`.
-- **Dopo 1 Mese:** L'area diventa permanentemente il cuore di un vulcano attivo.
+- **Dopo 1 Settimana:** Si aprono crateri vulcanici, il danno sale a `2d20+35`.
+- **Dopo 1 Mese:** Il danno sale a `2d20+63` e l'area diventa permanentemente il cuore di un vulcano attivo.
 
 ---
 
@@ -38,7 +38,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Medio (Far)
+* **Gittata:** Lontana
 
 Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i tiri d'attacco compiuti contro la creatura marchiata beneficiano di **Vantaggio** e l'obiettivo subisce **+d10 Danni Radiosi Extra** da qualsiasi fonte. Se la creatura fallisce il Tiro di Reazione di Istinto a fine turno, subisce `1d20+1` Danni Radiosi + `1d20+1` Danni Necrotici. Se la creatura muore, il marchio può essere liberamente spostato su un nuovo bersaglio.
 
@@ -55,7 +55,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 * **Limiti dell'Illusione:** L'illusione non ha consistenza tattile. Interagire fisicamente con un elemento finto rivela la sua natura illusoria. Gli elementi reali resi invisibili rimangono comunque tangibili e solidi.
 * **Terreno Pericoloso Finto:** Se una creatura interagisce con un rischio illusorio che non esiste nella realtà, deve superare un **Tiro di Reazione di Conoscenza o Istinto (Difficoltà 15)** o subire **1d20+17 Danni Psichici** e scoprire la natura dell'illusione.
 * **Terreno Pericoloso Reale Nascosto:** Se un rischio reale viene nascosto dall'illusione, chi vi entra subisce gli effetti del terreno con **Svantaggio** alla prova per evitarlo.
-* **Indagare l'Illusione:** Una creatura può spendere un'Azione per esaminare il miraggio superando una prova di *Conoscenza* o *Istinto* contro la tua Difficoltà Magica. In caso di successo, vede attraverso l'illusione, ma le cose rese invisibili rimangono tali per lei.
+* **Indagare l'Illusione:** Una creatura può spendere un'Azione per esaminare il miraggio superando una prova di *Conoscenza* o *Istinto* contro la Difficoltà del tuo Tiro Incantesimo. In caso di successo, vede attraverso l'illusione, ma le cose rese invisibili rimangono tali per lei.
 * **Estensione:** Prima che la capacità magica termini, puoi spendere 1 Speranza e consumare un'altra pergamena per prolungare la durata di un ulteriore giorno.
 
 ---
@@ -69,6 +69,6 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 
 Trasferisci in modo permanente il potere di un oggetto magico consumabile o permanente in un altro oggetto non magico che tocchi durante il lancio. L'oggetto magico originale viene distrutto nel processo.
 
-* **Armi e Armature:** Se l'oggetto bersaglio è un'arma, acquisisce un bonus di **+2 ai tiri d'attacco e ai Danni**. Se è un'armatura o uno scudo, aumenta i punti **Armatura di +2** (a meno che l'oggetto originale non avesse già un bonus superiore).
+* **Armi e Armature:** Se l'oggetto bersaglio è un'arma, acquisisce un bonus di **+2 ai tiri d'attacco e ai Danni**. Se è un'armatura o uno scudo, aumenta le **Caselle Armatura di +2** (a meno che l'oggetto originale non avesse già un bonus superiore).
 * **Proprietà Speciali:** Tutte le altre capacità, cariche o requisiti (come la Sintonia) dell'oggetto distrutto vengono trasferite al nuovo oggetto. Se le proprietà non sono logicamente compatibili con la nuova forma (es. infondere i poteri di una spada in un boccale), il rituale fallisce e i componenti sono sprecati.
 * **Munizioni ed Equipaggiamento:** In alternativa, puoi incantare un gruppo di fino a 50 munizioni uguali (es. frecce). Ogni munizione mantiene la proprietà magica fino al primo utilizzo con successo o per 24 ore dalla sintonia, dopodiché si distrugge.

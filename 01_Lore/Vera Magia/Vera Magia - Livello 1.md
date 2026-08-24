@@ -12,9 +12,9 @@ tags:
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Istinto o Conoscenza)
 * **Durata:** Scena / Finché mantieni l'effetto
-* **Gittata:** Ravvicinato (Melee / Very Close / Close)
+* **Gittata:** Personale (Prossima)
 
-Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zona a gittata **Prossima**. Quando un avversario entra nell'area o vi inizia il proprio turno, effettua una prova contro la sua Soglia: infliggi `d8` danni Magici e la creatura subisce lo stato **Vulnerabile** finché rimane nella bruma.
+Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zona a gittata **Prossima**. Quando un avversario entra nell'area o vi inizia il proprio turno, deve superare un Tiro di Reazione di Forza: chi fallisce subisce `1d8` danni Magici (necrotici) ed è **Avvelenata** fino alla fine del proprio turno successivo.
 
 ---
 
@@ -25,7 +25,7 @@ Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zo
 * **Durata:** Istantaneo
 * **Gittata:** Lontano (Far)
 
-Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana** che colpisce automaticamente infliggendo `d10+4` danni Magici. Inoltre, l'impatto genera un'esplosione in un raggio **Prossimo**: le creature adiacenti devono superare un Tiro di Reazione di Agilità (Difficoltà 12) o subire `d6` danni Magici da forza.
+Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana** che colpisce automaticamente infliggendo `1d20+5` danni Magici. Inoltre, l'impatto genera un'esplosione in un'area Ravvicinata: le creature adiacenti devono superare un Tiro di Reazione di Agilità (Difficoltà 12) o subire `1d20` danni magici (metà in caso di successo).
 
 ---
 
@@ -36,7 +36,7 @@ Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana*
 * **Durata:** 1 Scena
 * **Gittata:** Contatto
 
-Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la durata della Scena **Vantaggio** a tutti i Tiri basati su *Forza* o *Stazza*, **Resistenza** ai danni da Veleno e la possibilità di effettuare un attacco corpo a corpo in aggiunta alla tua azione. Al termine dell'effetto, chi ne ha usufruito subisce **1 Stress** e non può usare abilità con componenti verbali per il resto della sessione.
+Infondi di energia una lappola. Quando consumata da te o un alleato, dona per **1 minuto** **Vantaggio** ai Tiri di Reazione e alle prove basati su *Forza*, **Resistenza** ai danni da Veleno e la possibilità di effettuare un attacco in mischia senza spendere un'azione. Al termine dell'effetto, chi ne ha usufruito subisce **1 Stress** e non può usare capacità che richiedono la parola per il resto della sessione.
 
 ---
 
@@ -45,9 +45,9 @@ Infondi di energia una lappola. Quando consumata da te o un alleato, dona per la
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Presenza o Istinto)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Medio (Far)
+* **Gittata:** Lontana
 
-Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare un Tiro di Reazione di Presenza o Istinto o subire `d6` danni da Stress e subire **Svantaggio** ai tiri d'attacco nel suo prossimo turno.
+Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi contro questo bersaglio infliggono **+d6 Danni Magici** aggiuntivi e ne conosci sempre la posizione. Inoltre, al momento del lancio, il bersaglio deve superare un Tiro di Reazione di Presenza o Istinto o subire `1d20-3` danni magici (psichici) e subire **Svantaggio** ai tiri d'attacco nel suo prossimo turno.
 
 ---
 
@@ -56,6 +56,6 @@ Tatti un bersaglio con un sigillo a forma di luna che sorge. I tuoi attacchi con
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Tutti i Tratti)
 * **Durata:** Istantaneo
-* **Gittata:** Medio (Far)
+* **Gittata:** Remota
 
-Un rombo devastante esplode in un punto a scelta a gittata **Media**. Tutte le creature entro gittata **Ravvicinata** dal punto d'impatto subiscono `d8` danni Magici da Tuono e devono superare un Tiro di Reazione di Forza: chi fallisce subisce lo stato **Assordato** ed è **Impaurito** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.
+Un rombo devastante esplode in un punto a scelta a gittata **Remota**. Tutte le creature entro gittata **Ravvicinata** dal punto d'impatto subiscono `d8` danni Magici da Tuono e devono superare un Tiro di Reazione di Forza: chi fallisce subisce lo stato **Assordato** ed è **Terrorizzato** fino al termine del turno successivo. Il boato è udibile a chilometri di distanza.
