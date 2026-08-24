@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Trattenuto
 
-Condizione: la creatura è bloccata/immobilizzata e subisce penalità ai tiri finché non si libera (azione o Tiro).
+Condizione standard: la creatura Trattenuta NON può muoversi, ma può comunque compiere azioni dalla sua posizione attuale.
 
 ## Voci correlate
 - [[Vulnerabile]]

@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Paura
 
-Risorsa del GM generata dai tiri con Paura dei giocatori. Il GM la spende per mosse dei nemici, pericoli ambientali e complicazioni.
+Risorsa del GM generata dagli esiti "con Paura" dei tiri dei giocatori e dai riposi (1d4 su riposo breve; 1d4 + numero di PG su riposo lungo). Il GM la spende per mosse dei nemici, pericoli ambientali e complicazioni.
 
 ## Voci correlate
 - [[Speranza]]

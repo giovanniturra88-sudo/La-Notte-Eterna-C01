@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Vantaggio
 
-In Daggerheart si tira un dado vantaggio (d6) che si somma al tiro. Lo svantaggio toglie un dado.
+Quando si tira con vantaggio si aggiunge al tiro un dado vantaggio (d6) e lo si somma al totale. Lo svantaggio funziona all'opposto: un dado svantaggio (d6) si sottrae dal totale. I dadi di vantaggio e svantaggio si annullano a vicenda (uno per uno).
 
 ## Voci correlate
 - [[Svantaggio]]

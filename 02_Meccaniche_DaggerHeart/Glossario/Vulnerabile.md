@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Vulnerabile
 
-Condizione: la creatura subisce danni aggiuntivi o è più esposta ai colpi finché la condizione permane.
+Condizione standard: tutti i tiri che bersagliano una creatura Vulnerabile hanno vantaggio. Un PG diventa Vulnerabile quando segna l'ultimo Stress e resta tale finché non elimina almeno 1 Stress.
 
 ## Voci correlate
 - [[Trattenuto]]

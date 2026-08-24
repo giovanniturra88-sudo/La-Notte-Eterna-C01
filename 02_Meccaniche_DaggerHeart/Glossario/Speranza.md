@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Speranza
 
-Risorsa che i giocatori spendono per attivare capacità, aiuti e potenti effetti. Si ottiene con successi nel tiro dei Dadi Dualità o con la generosità del GM.
+Risorsa che i giocatori spendono per attivare capacità, aiuti e potenti effetti. Si guadagna dagli esiti "con Speranza" dei tiri (successo O fallimento), dalla mossa Prepararsi durante un riposo o dalla generosità del GM.
 
 ## Voci correlate
 - [[Stress]]

@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Orda
 
-Ruolo (Horde): gruppo numeroso; quando ha marcato metà o più PF, l'attacco standard infligge danno ridotto.
+Ruolo (Horde): gruppo numeroso; quando ha marcato metà o più dei suoi PF, il suo attacco standard infligge un valore di danno fisso (al posto di tirare i dadi di danno).
 
 ## Voci correlate
 - [[Ruolo]]

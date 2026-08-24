@@ -8,7 +8,7 @@ source: DaggerHeart
 
 # Punti Ferita
 
-La salute di un personaggio o creatura. Subire danni segna Punti Ferita; a 0 PF il personaggio è Fuori Combattimento. I danni minori si assorbono, i danni maggiori e gravi segnano PF aggiuntivi o diretti.
+La salute di un personaggio o creatura. Subendo danni si segnano da 1 a 3 PF in base alle Soglie di Danno: sotto la soglia Maggiore → 1 PF, dalla Maggiore → 2 PF, dalla Grave → 3 PF (un danno ridotto a 0 o meno non marca PF). Quando segna l'ultimo PF il personaggio cade: un PG compie la Mossa finale.
 
 ## Voci correlate
 - [[Soglia di Danno]]

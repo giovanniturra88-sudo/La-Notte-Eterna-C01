@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Ferita
 
-Danno segnato sul personaggio. Vedi Soglie di Danno: i danni sopra la soglia maggiore segnano ferite gravi.
+Danno segnato sul personaggio. Vedi Soglie di Danno: si segnano 1, 2 o 3 PF in base alle soglie (sotto la Maggiore → 1 PF, dalla Maggiore → 2 PF, dalla Grave → 3 PF).
 
 ## Voci correlate
 - [[Punti Ferita]]
