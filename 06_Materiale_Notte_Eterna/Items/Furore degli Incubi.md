@@ -8,7 +8,8 @@ original_name: "Furore degli Incubi"
 ruolo: primaria
 tier: 2
 tipo_danno: magica
-tratto: presenzatype: 
+tratto: presenza
+type: 
  - "[[Arma]]"
 ---
 

@@ -8,7 +8,8 @@ original_name: "Spezzanotte"
 ruolo: primaria
 tier: 3
 tipo_danno: magica
-tratto: forzatype: 
+tratto: forza
+type: 
  - "[[Arma]]"
 ---
 
