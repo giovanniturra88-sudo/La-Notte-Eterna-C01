@@ -5,6 +5,8 @@ type:
 
 # Dor
 
+> Voce gemella di [[Reame di Dor]]: la storia completa del regno è trattata nella voce approfondita.
+
 Dor era il nome che gli elfi davano all'immensa foresta in cui sorgeva il loro regno millenario: in elfico, Dor significa "Reame dei Sogni". La foresta si estendeva dai confini occidentali della [[Landa di Edeber]] fino alla metropoli di [[Mendulia's Rock]], e per millenni fu il cuore della civiltà del popolo elfico. Gli [[Elfi di Dor]], fieri e bellicosi, maestri della spada e della magia, la dominarono indisturbati finché la sciagura non si abbatté su quanto avevano creato.
 
 Nell'8758 E.S. gli elfi riuscirono ad avere la meglio sui draghi verdi, diventando i padroni incontrastati della foresta: Menel Hen, l'eroe cui dovevano la conquista, fu incoronato Sovrano del Reame dei Sogni e, grazie alla lungimiranza dei suoi successori, il regno sarebbe esistito per altri ottomila anni. Nell'anno 7544 E.S. fu completata la mitica [[Città Torre di Meth]], la meraviglia del mondo conosciuto, dove abitavano il Sire di Dor e la sua famiglia, nel "nido delle aquile" sulla sommità della torre. Nel 4942 E.S. il Reame raggiunse il suo apogeo: altre città erano sorte, in ordine di importanza [[Elunas]], [[Nore Aad]] e [[Fjord]], la cultura elfica si era diffusa in ogni ambiente privilegiato e la sua lingua era usata dai diplomatici di ogni nazione. In quegli anni elfi, [[Nani]] e [[Umani]] formarono l'Alleanza delle Razze, che affrontò gli ultimi Cento Draghi di [[Neir]] in una battaglia risolutiva: i draghi sopravvissuti fuggirono a Ovest.

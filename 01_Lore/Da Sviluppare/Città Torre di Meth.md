@@ -5,6 +5,8 @@ type:
 
 # Città Torre di Meth
 
+> La torre sorgeva nella capitale [[Meth]] del Reame dei Sogni (vedi anche la voce [[Meth]]).
+
 La Città Torre di Meth fu la capitale del Reame dei Sogni degli [[Elfi di Dor]]. Dopo due secoli di incessanti lavori, la sua costruzione fu finalmente completata nell'anno 7544 E.S., e Meth divenne la meraviglia del mondo conosciuto, attirando migliaia di forestieri anche solo per contemplarne la maestosa bellezza.
 
 Secondo il resoconto di un viaggiatore nano, la torre, in marmo finemente lavorato, si ergeva dritta e alta come una montagna: i suoi cento piani erano collegati tra loro da una scalinata ampia e sinuosa, abbellita da alberi e fiori di ogni tipo, e ciascun livello era affollato da case, empori e botteghe. Un'incessante cascata sgorgava dalla cima della torre formando un lago cristallino e pescoso tutt'intorno. La sommità, che sfiorava i ventri delle nuvole, era chiamata dagli elfi "il nido delle aquile", ed è lì che abitavano il Sire di Dor e la sua famiglia.
