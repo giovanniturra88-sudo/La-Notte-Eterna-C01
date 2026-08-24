@@ -27,8 +27,8 @@ I ladri sono maestri dell'ombra, del sotterfugio e del crimine. Si muovono nell'
 Scegli tra la sottoclasse [[Ombra Notturna]] o [[Ladro]].
 
 # Caratteristiche di Classe
-**_Nascosto (Cloaked):_** Ogni volta che ti trovi in una condizione di occultamento (Hidden), sei considerato Cloaked. Ottieni vantaggi difensivi e rimani invisibile finché resti fermo o non attacchi.
-**_Attacco Furtivo (Sneak Attack):_** Quando colpisci un bersaglio mentre sei Cloaked o quando un alleato è a portata di mischia con esso, aggiungi un numero di d6 pari al tuo rango al tiro di danno.
+**_Ammantato (Cloaked):_** Ogni volta che saresti Nascosto (Hidden), sei invece Ammantato (Cloaked). In aggiunta ai benefici della condizione Nascosto, mentre sei Ammantato rimani invisibile se resti fermo quando un avversario si sposta dove potrebbe vederti. Dopo aver effettuato un attacco o terminato un movimento in linea di vista di un avversario, non sei più Ammantato.
+**_Attacco Furtivo (Sneak Attack):_** Quando colpisci un bersaglio mentre sei Ammantato o quando un alleato è a portata di mischia con esso, aggiungi un numero di d6 pari al tuo rango al tiro di danno.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

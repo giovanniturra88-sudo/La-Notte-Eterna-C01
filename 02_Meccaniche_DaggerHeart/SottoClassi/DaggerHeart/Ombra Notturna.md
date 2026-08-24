@@ -19,7 +19,7 @@ Fondersi con l'oscurità e spostarsi istantaneamente tra le ombre.
 
 ## Caratteristica di Fondazione (Foundation)
 **Passo dell'Ombra (Shadow Stepper):**
-Puoi muoverti da un'ombra all'altra. Quando ti sposti in un'area di oscurità o nell'ombra proiettata da un'altra creatura o oggetto, puoi marcare uno Stress per scomparire da dove ti trovi e riapparire all'interno di un'altra ombra entro portata Lontana. Quando riappari, sei Nascosto (*Cloaked*).
+Puoi muoverti da un'ombra all'altra. Quando ti sposti in un'area di oscurità o nell'ombra proiettata da un'altra creatura o oggetto, puoi marcare uno Stress per scomparire da dove ti trovi e riapparire all'interno di un'altra ombra entro portata Lontana. Quando riappari, sei Ammantato (*Cloaked*).
 
 ## Caratteristica di Specializzazione (Specialization)
 **Nube Oscura (Dark Cloud):**
@@ -33,4 +33,4 @@ Mentre possiedi la condizione Vulnerabile, aggiungi il tuo livello a tutti i tuo
 Ottieni un bonus permanente di +1 alla tua Evasione. Inoltre, puoi utilizzare la tua caratteristica **Passo dell'Ombra** per riapparire entro portata Remota (*Very Far*).
 
 **Atto di Sparizione (Vanishing Act):**
-Puoi marcare uno Stress per diventare istantaneamente Nascosto in qualsiasi momento. Quando lo fai, ti liberi automaticamente dalla condizione Trattenuto (*Restrained*). Rimani Nascosto finché non effettui un tiro con Paura o fino al prossimo riposo.
+Puoi marcare uno Stress per diventare istantaneamente Ammantato (Cloaked) in qualsiasi momento. Quando lo fai, ti liberi automaticamente dalla condizione Trattenuto (*Restrained*). Rimani Ammantato finché non effettui un tiro con Paura o fino al prossimo riposo.

@@ -4,9 +4,9 @@ type:
 source: DaggerHeart
 ---
 
-# Tratto Incantesimo
+# Tratto da Incantatore
 
-Il tratto caratteristica (Conoscenza, Istinto, Presenza...) usato per i Tiri per Lanciare Incantesimi della classe.
+Il tratto (Conoscenza, Istinto, Presenza...) usato per i Tiri Incantesimo della classe.
 
 ## Voci correlate
 - [[Tiro Incantesimo]]
