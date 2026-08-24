@@ -3,17 +3,17 @@ type:
  - "[[PNG]]"
 ---
 # ARKANIS DELLE LAME
-*Eroe Leggendario di Neir*
+*Signore Vampiro delle Lame*
 
 > «La lama non mente mai. È il braccio che trema quando la coscienza vacilla.»
 
-Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della storia di Neir. Famoso per la sua impareggiabile maestria nel maneggiare le lame e per il suo inflessibile codice d'onore, Arkanis ha affrontato innumerevoli minacce emerse dalle tenebre dopo la caduta di Laon.
+Arkanis delle Lame è uno dei Cinque Signori dell'Armata dell'Apocalisse, signore vampiro e maestro d'arme dalla furia impietosa: fu lui a uccidere il leggendario Elkad'dan sotto i colpi delle sue lame, e a dividersi l'Impero di Gundazar con Luaar delle Nuvole Nere.
 
 ---
 
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-* **Descrizione:** Maestro d'arme e duellante leggendario di Neir, famoso per la sua impareggiabile maestria con le lame e per il suo inflessibile codice d'onore.
+* **Descrizione:** L'empio Arkanis delle Lame: signore vampiro dei Cinque Signori, maestro d'arme che uccise Elkad'dan e si spartì l'Impero di Gundazar con Luaar.
 * **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
@@ -48,6 +48,6 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 ---
 
 ### **STORIA E LORE**
-Nato tra le fucine di Daragoss, Arkanis affilò la sua arte bellica combattendo le orde di non morti durante la Notte Eterna. Le sue leggendarie spade si dice siano state temprate nel Fuoco Segreto della Vetta delle Anime.
+Nel Anno 2 N.E. Arkanis delle Lame figura tra i Cinque Signori dell'Armata dell'Apocalisse, accanto a Uzkal delle Zanne, Nefertiri delle Ombre, Luaar delle Nuvole Nere e Namass'rya delle Trame. Nella Battaglia dei Morti e degli Uomini d'Oro (Anno 3 N.E.) si rivelò un avversario formidabile: il leggendario eroe Elkad'dan perì sotto i colpi impietosi delle sue lame. A battaglia ultimata, Arkanis e Luaar si spartirono equamente le terre dell'Impero e i mortali che le abitavano, sottoponendoli a una lenta e sanguinosa agonia; consumata anche l'ultima goccia di sangue, i vampiri affamati caddero in preda alla frenesia e si scagliarono gli uni contro gli altri, annientandosi (Anno 13 N.E.).
 
 *Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

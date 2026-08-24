@@ -3,17 +3,17 @@ type:
  - "[[PNG]]"
 ---
 # MIHARU, IL TRADITORE
-*L'Ombra della Vendetta*
+*Il Fratello Traditore*
 
-> «Avete chiamato la mia lealtà debolezza. Ora vedrete cosa può fare la mia vendetta.»
+> «Fu Miharu figlio di Nheru a tradirvi!»
 
-Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione durante la Guerra Celeste, cedendo alle lusinghe delle tenebre. Ora vaga per Neir come un implacabile esecutore al soldo di forze oscure.
+Miharu era il fratello di Miuru, il cacciatore più prode della tribù: debole e codardo, in segreto odiava il fratello per i suoi successi. Tradì la sua gente ai giganti e poi gli A'di agli orchi, e morì impalato, sepolto com'era vissuto: nell'ignominia.
 
 ---
 
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-* **Descrizione:** Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione durante la Guerra Celeste, cedendo alle lusinghe delle tenebre; ora vaga per Neir come un implacabile esecutore al soldo di forze oscure.
+* **Descrizione:** Fratello debole e codardo di Miuru, tradì la sua tribù ai giganti e gli A'di agli orchi; morì impalato e fu sepolto nell'ignominia.
 * **Rango:** 3 (Solo)
 * **Difficoltà:** 18
 * **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
@@ -46,6 +46,6 @@ Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione
 ---
 
 ### **STORIA E LORE**
-Tragica figura della storia di Neir, Miharu vendette la propria anima nel disperato tentativo di salvare la sua città, finendo per diventarne il distruttore.
+Secondo la leggenda di Öuin, Miharu era il fratello di Miuru, il cacciatore giovane e prode che la sua tribù teneva in alta considerazione. Consumato dal rancore, Miharu informò una tribù di giganti su come eludere la sorveglianza del villaggio e addormentò Miuru con una polvere soporifera la notte dell'attacco. Smascherato dall'ultimo gigante morente, fu creduto colpevole e fuggì con il fratello verso il popolo A'di. Durante il viaggio verso sud offrì la sua spada, ma prima della battaglia decisiva contro gli orchi ne tradì i piani in cambio della promessa di essere eletto re: l'orco lo fece impalare e ne portò il cadavere in battaglia come trofeo. A Miharu fu concessa una degna ma triste e solitaria sepoltura: era morto così com'era vissuto, nell'ignominia.
 
 *Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

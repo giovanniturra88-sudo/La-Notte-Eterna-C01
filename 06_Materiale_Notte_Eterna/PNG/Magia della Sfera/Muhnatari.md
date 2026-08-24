@@ -3,17 +3,17 @@ type:
  - "[[PNG]]"
 ---
 # MUHNATARI
-*La Strega dei Funghi e delle Spore*
+*Il Gigante delle Valli*
 
-> «Il marciume non è la fine, sciocco. È soltanto il terreno in cui germoglia il domani.»
+> «Le Valli sono mie. Chi vi mette piede, vi resta per sempre.»
 
-Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni floristiche di Neir. Custode delle foreste di alberi-fungo, padroneggia le spore e la magia della degradazione organica, guidando la rigenerazione della terra.
+Muhnatari è il famigerato gigante del gelo a capo dell'Orda che nel 121 E.S. conquistò le Valli dei Giganti, guidando decine di migliaia di umanoidi mostruosi. Il suo dominio sulle Valli ebbe vita breve, ma il suo nome è rimasto leggenda tra i popoli di Neir.
 
 ---
 
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-* **Descrizione:** Antica e misteriosa druida che ha abbracciato le trasformazioni floristiche di Neir, custode delle foreste di alberi-fungo che padroneggia le spore e la magia della degradazione organica, guidando la rigenerazione della terra.
+* **Descrizione:** Famigerato gigante del gelo a capo dell'Orda che nel 121 E.S. conquistò le Valli dei Giganti; avo di Buhragath.
 * **Rango:** 3 (Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 8 | Maggiore: 16 | Grave: 30
@@ -47,6 +47,6 @@ Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni 
 ---
 
 ### **STORIA E LORE**
-Reclusa nelle profondità delle Terre Nascoste, Muhnatari stringe alleanze con gli Elementali delle Spore per proteggere i delicati ecosistemi sotterranei dagli scavi insensati dei mortali.
+Nel 121 E.S. l'Orda di Muhnatari conquistò le Valli dei Giganti: decine di migliaia di umanoidi mostruosi comandati dal famigerato gigante del gelo, sceso sulle Valli nonostante la lunga occupazione imperiale. Ma il dominio di Muhnatari ebbe vita breve. La sua leggenda non si è spenta: si dice che il gigante possa essere richiamato con la Magia della Sfera, e Buhragath, suo pronipote, vuole eguagliarne le gesta affinché il suo nome entri nella leggenda.
 
 *Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*

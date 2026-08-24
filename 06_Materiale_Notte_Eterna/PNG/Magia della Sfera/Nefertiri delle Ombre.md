@@ -4,17 +4,17 @@ type:
 ---
 ![[Pasted image 20260801175450.png|700]]
 # NEFERTIRI DELLE OMBRE
-*La Danzatrice del Crepuscolo*
+*La Generalessa dei Non Morti*
 
 > «Non temere l'oscurità. Temi ciò che si nasconde al suo interno... me.»
 
-Nefertiri è una maestra assassina e spia senza pari, capace di fondersi letteralmente con le ombre. Muovendosi invisibile nella notte eterna di Neir, colpisce i suoi bersagli con letale precisione prima di scomparire nel nulla.
+Nefertiri delle Ombre è una dei Cinque Signori dell'Armata dell'Apocalisse: generalessa degli eserciti di non morti, capace di fondersi letteralmente con le ombre e implacabile nelle sue decisioni, temuta persino dagli alleati.
 
 ---
 
 ### **STATISTICHE E CAPACITÀ (Daggerheart)**
 
-* **Descrizione:** Maestra assassina e spia senza pari, capace di fondersi letteralmente con le ombre; invisibile nella notte eterna di Neir, colpisce i suoi bersagli con letale precisione prima di scomparire nel nulla.
+* **Descrizione:** Una dei Cinque Signori dell'Armata dell'Apocalisse, generalessa dei non morti che rianimò i legionari caduti e guidò la marcia verso ovest.
 * **Rango:** 3 (Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 8 | Maggiore: 17 | Grave: 32
@@ -48,6 +48,6 @@ Nefertiri è una maestra assassina e spia senza pari, capace di fondersi lettera
 ---
 
 ### **STORIA E LORE**
-Nata sotto la luna silente, Nefertiri serve come giustiziera invisibile nelle contese tra le gilde delle città di Neir, assicurando che nessun tiranno rimanga impunito.
+Durante la Notte Eterna, Nefertiri delle Ombre fu una dei Cinque Signori dell'Armata dell'Apocalisse. Dopo la Battaglia dei Morti e degli Uomini d'Oro (Anno 3 N.E.), Namass'rya e Nefertiri, dopo aver rianimato i legionari caduti, marciarono verso ovest alla conquista di Öuin; il suo potere era tale che persino la tempra degli öued preferì tenersi lontana dalle sue decisioni. Nell'assedio della città (Anno 26 N.E.) Nefertiri fu distrutta da Sir Sevren, Maestro Cavaliere dei Passi.
 
 *Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
