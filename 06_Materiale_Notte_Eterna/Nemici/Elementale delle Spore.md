@@ -5,7 +5,7 @@ type:
 ---
 ## Elementale delle Spore
 * **Descrizione:** Abominio vegetale composto da spore tossiche e miceli bioluminescenti delle Terre Nascoste.
-* **Tier:** 2 (Controller / Veleno)
+* **Tier:** 2 (Controllore / Veleno)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 27
 * **Punti Ferita:** 5 | **Stress:** 5
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Elementale delle Spore"
 description: "Abominio vegetale composto da spore tossiche e miceli bioluminescenti delle Terre Nascoste."
 tier: "2"
-ruolo: "Controller / Veleno"
+ruolo: "Controllore / Veleno"
 difficolta: "14"
 hp: "5"
 stress: "5"

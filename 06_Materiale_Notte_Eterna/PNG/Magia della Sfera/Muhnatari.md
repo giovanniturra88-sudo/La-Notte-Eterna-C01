@@ -38,7 +38,7 @@ Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni 
 
 #### **AZIONI**
 - **Multiattacco:** Effettua fino a due attacchi con il Bastone del Decompositore.
-- **Bastone del Decompositore:** Attacco con Arma da Mischia: +4 al tiro per colpire (bonus d'attacco del Tier 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni contundenti e necrotici (o da acido).
+- **Bastone del Decompositore:** Attacco con Arma da Mischia: +4 al tiro d'attacco (bonus d'attacco del Tier 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni contundenti e necrotici (o da acido).
 - **Eruzione di Spore (una volta per scena):** Muhnatari libera una densa nube di spore in un raggio di 9 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 17 o subire 3d12+5 danni da veleno ed essere stordita per 1 minuto (può ripetere il tiro alla fine di ciascun suo turno).
 
 #### **REAZIONI**

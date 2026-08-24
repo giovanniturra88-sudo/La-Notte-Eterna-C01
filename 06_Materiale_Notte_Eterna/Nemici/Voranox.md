@@ -5,7 +5,7 @@ type:
 ---
 ## Voranox
 * **Descrizione:** Bestia velenosa alata dal corpo serpentiforme e fauci cariche di tossine corrosive.
-* **Tier:** 3 (Skirmisher / Boss)
+* **Tier:** 3 (Furtivo / Avversario)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 14 | Maggiore: 28 | Grave: 44
 * **Punti Ferita:** 6 | **Stress:** 5
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Voranox"
 description: "Bestia velenosa alata dal corpo serpentiforme e fauci cariche di tossine corrosive."
 tier: "3"
-ruolo: "Skirmisher / Boss"
+ruolo: "Furtivo / Avversario"
 difficolta: "17"
 hp: "6"
 stress: "5"

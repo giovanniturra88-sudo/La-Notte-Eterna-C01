@@ -6,7 +6,7 @@ aliases:
  - Il principe delle Anguille
 ---
 * **Descrizione:** Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche.
-* **Tier:** 4 (Solo / Boss Leggendario)
+* **Tier:** 4 (Solo / Avversario Leggendario)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 70
 * **Punti Ferita:** 12 | **Stress:** 8
@@ -24,7 +24,7 @@ layout: DaggerHeart Nemici
 name: "Abaia"
 description: "Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche."
 tier: "4"
-ruolo: "Solo / Boss Leggendario"
+ruolo: "Solo / Avversario Leggendario"
 difficolta: "21"
 hp: "12"
 stress: "8"

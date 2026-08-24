@@ -5,7 +5,7 @@ type:
 ---
 ## Elementale del Buio
 * **Descrizione:** Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla.
-* **Tier:** 2 (Lurker / Controller)
+* **Tier:** 2 (Furtivo / Controllore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Elementale del Buio"
 description: "Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla."
 tier: "2"
-ruolo: "Lurker / Controller"
+ruolo: "Furtivo / Controllore"
 difficolta: "15"
 hp: "5"
 stress: "4"

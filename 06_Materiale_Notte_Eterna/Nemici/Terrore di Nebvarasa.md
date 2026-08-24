@@ -5,7 +5,7 @@ type:
 ---
 ## Terrore di Nebvarasa
 * **Descrizione:** La quintessenza dell'incubo: mostruosità epica creata dai residui di magia della Guerra Celeste.
-* **Tier:** 4 (Boss Mitico)
+* **Tier:** 4 (Avversario Mitico)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 30 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 12 | **Stress:** 10
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Terrore di Nebvarasa"
 description: "La quintessenza dell'incubo: mostruosità epica creata dai residui di magia della Guerra Celeste."
 tier: "4"
-ruolo: "Boss Mitico"
+ruolo: "Avversario Mitico"
 difficolta: "21"
 hp: "12"
 stress: "10"

@@ -5,7 +5,7 @@ type:
 ---
 ## Shimbyaleth
 * **Descrizione:** Orrore tentacolare delle profondità abissali, creatura di puro incubo subacqueo.
-* **Tier:** 4 (Solo / Boss)
+* **Tier:** 4 (Solo / Avversario)
 * **Difficoltà:** 20
 * **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 80
 * **Punti Ferita:** 10 | **Stress:** 8
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Shimbyaleth"
 description: "Orrore tentacolare delle profondità abissali, creatura di puro incubo subacqueo."
 tier: "4"
-ruolo: "Solo / Boss"
+ruolo: "Solo / Avversario"
 difficolta: "20"
 hp: "10"
 stress: "8"

@@ -5,7 +5,7 @@ type:
 ---
 ## Cacciatore di Anime
 * **Descrizione:** Non-morto alato agile e spietato, creato dai necromanti xaan per cacciare ed estrarre le anime di viventi e spettri.
-* **Tier:** 3 (Skirmisher / Nemico Elite)
+* **Tier:** 3 (Furtivo / Nemico Scelto)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 14 | Maggiore: 24 | Grave: 42
 * **Punti Ferita:** 6 | **Stress:** 5
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Cacciatore di Anime"
 description: "Non-morto alato agile e spietato, creato dai necromanti xaan per cacciare ed estrarre le anime di viventi e spettri."
 tier: "3"
-ruolo: "Skirmisher / Nemico Elite"
+ruolo: "Furtivo / Nemico Scelto"
 difficolta: "17"
 hp: "6"
 stress: "5"

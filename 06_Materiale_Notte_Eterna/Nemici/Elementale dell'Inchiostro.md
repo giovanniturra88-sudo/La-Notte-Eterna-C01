@@ -5,7 +5,7 @@ type:
 ---
 ## Elementale dell'Inchiostro
 * **Descrizione:** Entità fluida e vischiosa nata dalla magia trascritta, gola profonda di sapere che prosciuga libri, pergamene e ricordi.
-* **Tier:** 2 (Bruiser / Speciale)
+* **Tier:** 2 (Picchiatore / Speciale)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 10 | Maggiore: 17 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Elementale dell'Inchiostro"
 description: "Entità fluida e vischiosa nata dalla magia trascritta, gola profonda di sapere che prosciuga libri, pergamene e ricordi."
 tier: "2"
-ruolo: "Bruiser / Speciale"
+ruolo: "Picchiatore / Speciale"
 difficolta: "14"
 hp: "5"
 stress: "4"

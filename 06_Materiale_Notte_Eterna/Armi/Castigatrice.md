@@ -15,6 +15,6 @@ type:
 
 ### EFFETTO
 
-**_Giudizio Supremo:_** Quando attacchi un nemico che ha inflitto danni a un tuo alleato nel turno precedente, aggiungi +2 al tiro per colpire e ignori 2 punti della sua Armatura.
+**_Giudizio Supremo:_** Quando attacchi un nemico che ha inflitto danni a un tuo alleato nel turno precedente, aggiungi +2 al tiro d'attacco e ignori 2 punti della sua Armatura.
 
 ---

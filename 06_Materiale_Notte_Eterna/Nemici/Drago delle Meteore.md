@@ -5,7 +5,7 @@ type:
 ---
 ## Drago delle Meteore (Rionnag'hra)
 * **Descrizione:** Custode supremo del confine dimensionale in armatura di adamantio pura. Capace di far cadere le stelle dal cielo.
-* **Tier:** 4 (Solo / Boss Mitico)
+* **Tier:** 4 (Solo / Avversario Mitico)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 35 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 12 | **Stress:** 10
@@ -22,7 +22,7 @@ layout: DaggerHeart Nemici
 name: "Drago delle Meteore"
 description: "Custode supremo del confine dimensionale in armatura di adamantio pura. Capace di far cadere le stelle dal cielo."
 tier: "4"
-ruolo: "Solo / Boss Mitico"
+ruolo: "Solo / Avversario Mitico"
 difficolta: "21"
 hp: "12"
 stress: "10"

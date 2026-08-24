@@ -7,4 +7,4 @@ type:
 
 _Oggetto di Tier 2_
 
-Due volte per riposo lungo, quando effettui un tiro con Paura, puoi spendere 1 Speranza per ritirare il Dado di Speranza o cancellare la Paura generata dal tiro.
+Due volte per riposo lungo, quando effettui un tiro con Paura, puoi spendere 1 Speranza per ritirare il Dado Speranza o cancellare la Paura generata dal tiro.

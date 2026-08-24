@@ -5,7 +5,7 @@ type:
 ---
 ## Gigante Fungino
 * **Descrizione:** Imponente umanoide composto interamente da stratificazioni di legno marcito, miceli e funghi giganti.
-* **Tier:** 3 (Bruiser / Tank)
+* **Tier:** 3 (Picchiatore / Difensore)
 * **Difficoltà:** 16
 * **Soglie di Danno:** Minore: 15 | Maggiore: 24 | Grave: 42
 * **Punti Ferita:** 7 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Gigante Fungino"
 description: "Imponente umanoide composto interamente da stratificazioni di legno marcito, miceli e funghi giganti."
 tier: "3"
-ruolo: "Bruiser / Tank"
+ruolo: "Picchiatore / Difensore"
 difficolta: "16"
 hp: "7"
 stress: "4"

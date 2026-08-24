@@ -5,7 +5,7 @@ type:
 ---
 ## Scorpione delle Dune
 * **Descrizione:** Aracnide gigante caratteristico dei deserti di Cenere, dotato di una corazza durissima e un veleno micidiale.
-* **Tier:** 2 (Bruiser)
+* **Tier:** 2 (Picchiatore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 10 | Maggiore: 17 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 3
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Scorpione delle Dune"
 description: "Aracnide gigante caratteristico dei deserti di Cenere, dotato di una corazza durissima e un veleno micidiale."
 tier: "2"
-ruolo: "Bruiser"
+ruolo: "Picchiatore"
 difficolta: "15"
 hp: "5"
 stress: "3"

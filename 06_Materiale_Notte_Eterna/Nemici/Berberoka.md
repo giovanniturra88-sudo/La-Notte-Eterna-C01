@@ -5,7 +5,7 @@ type:
 ---
 ## Berberoka
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.
-* **Tier:** 2 (Control / Agguato)
+* **Tier:** 2 (Controllore / Agguato)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 28
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Berberoka"
 description: "Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi."
 tier: "2"
-ruolo: "Control / Agguato"
+ruolo: "Controllore / Agguato"
 difficolta: "15"
 hp: "5"
 stress: "4"

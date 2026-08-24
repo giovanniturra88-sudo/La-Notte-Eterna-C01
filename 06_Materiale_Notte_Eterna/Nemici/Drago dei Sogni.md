@@ -5,7 +5,7 @@ type:
 ---
 ## Drago dei Sogni
 * **Descrizione:** Entità cosmica tessitrice dei reami onirici, messaggero della dea Lanie in grado di intrappolare i mortali nelle proprie illusioni.
-* **Tier:** 4 (Solo / Boss)
+* **Tier:** 4 (Solo / Avversario)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 28 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 10 | **Stress:** 9
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Drago dei Sogni"
 description: "Entità cosmica tessitrice dei reami onirici, messaggero della dea Lanie in grado di intrappolare i mortali nelle proprie illusioni."
 tier: "4"
-ruolo: "Solo / Boss"
+ruolo: "Solo / Avversario"
 difficolta: "21"
 hp: "10"
 stress: "9"

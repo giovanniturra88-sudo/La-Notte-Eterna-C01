@@ -5,7 +5,7 @@ type:
 ---
 ## Regina dello Sciame
 * **Descrizione:** Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita.
-* **Tier:** 3 (Leader / Solo)
+* **Tier:** 3 (Capo / Solo)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 16 | Maggiore: 30 | Grave: 50
 * **Punti Ferita:** 8 | **Stress:** 6
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Regina dello Sciame"
 description: "Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita."
 tier: "3"
-ruolo: "Leader / Solo"
+ruolo: "Capo / Solo"
 difficolta: "17"
 hp: "8"
 stress: "6"

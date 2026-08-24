@@ -5,7 +5,7 @@ type:
 ---
 ## Bararumm
 * **Descrizione:** Grosso bovino cieco dal pelo folto e con un singolo corno frontale. Utilizza la vista cieca/udito radar per orientarsi.
-* **Tier:** 1 (Bruiser / Caccia)
+* **Tier:** 1 (Picchiatore / Caccia)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 6 | Maggiore: 9 | Grave: 17
 * **Punti Ferita:** 4 | **Stress:** 3
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Bararumm"
 description: "Grosso bovino cieco dal pelo folto e con un singolo corno frontale. Utilizza la vista cieca/udito radar per orientarsi."
 tier: "1"
-ruolo: "Bruiser / Caccia"
+ruolo: "Picchiatore / Caccia"
 difficolta: "12"
 hp: "4"
 stress: "3"

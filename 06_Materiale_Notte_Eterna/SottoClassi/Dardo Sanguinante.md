@@ -5,7 +5,7 @@ classe:
 Dominio:
  - "[[MezzaNotte]]"
  - "[[Grazia]]"
-spellcast_trait: Finesse
+spellcast_trait: Astuzia
 source: La Notte Eterna
 location:
  - "[[Mendulia's Rock]]"
@@ -30,7 +30,7 @@ Ottieni vantaggio a tutte le prove di caratteristica effettuate per negoziare co
 ## Caratteristiche di Maestria
 
 ### Dardo Letale
-La tua lama cerca istintivamente le ferite aperte dei tuoi avversari. Ottieni vantaggio a tutti i tiri d'attacco effettuati contro bersagli affetti dalla condizione **Sanguinante** o sotto l'effetto di veleni. Quando colpisci con successo una di queste creature, puoi aggiungere il tuo modificatore di **Finezza** direttamente ai danni dell'arma. Se il bersaglio viene sconfitto da questo attacco, recuperi immediatamente 1 Punto Ferita o 2 Stress.
+La tua lama cerca istintivamente le ferite aperte dei tuoi avversari. Ottieni vantaggio a tutti i tiri d'attacco effettuati contro bersagli affetti dalla condizione **Sanguinante** o sotto l'effetto di veleni. Quando colpisci con successo una di queste creature, puoi aggiungere il tuo modificatore di **Astuzia** direttamente ai danni dell'arma. Se il bersaglio viene sconfitto da questo attacco, recuperi immediatamente 1 Punto Ferita o 2 Stress.
 
 ---
 

@@ -37,7 +37,7 @@ Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione
 
 #### **AZIONI**
 - **Multiattacco:** Effettua fino a tre attacchi con la sua Spada Maledetta.
-- **Spada Maledetta:** Attacco con Arma da Mischia: +4 al tiro per colpire (bonus d'attacco del Tier 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni taglienti e necrotici.
+- **Spada Maledetta:** Attacco con Arma da Mischia: +4 al tiro d'attacco (bonus d'attacco del Tier 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni taglienti e necrotici.
 - **Lama del Crepuscolo (una volta per scena):** Miharu sferra un fendente che rilascia un'onda di energia oscura in un cono di 9 m. Le creature nell'area subiscono 3d12+5 danni necrotici (Tiro di Reazione di Forza Difficoltà 16 per dimezzare).
 
 #### **REAZIONI**

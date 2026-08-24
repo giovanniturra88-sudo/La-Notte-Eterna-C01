@@ -11,12 +11,12 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 - **DOMINI -** [[MezzaNotte]] & [[Saggio]]
 - **EVASIONE INIZIALE -** 12
 - **Punti Ferita INIZIALI -** 6
-- **Punti Stress INIZIALI -** 6
+- **Stress INIZIALI -** 6
 - **OGGETTI DI CLASSE -** Una bussola d'argento che indica sempre il Nord Celeste o un mantello logoro ricavato dalla pelliccia di un lupo invernale.
 ---
-- **TRATTI SUGGERITI -** +2 Agilità, -1 Forza, +1 Finezza, +1 Istinto, 0 Presenza, 0 Conoscenza
+- **TRATTI SUGGERITI -** +2 Agilità, -1 Forza, +1 Astuzia, +1 Istinto, 0 Presenza, 0 Conoscenza
 - **ARMA PRINCIPALE SUGGERITA -** Arco Corto dell'Ombra (Agilità Lontano - d6+3 fisici - Due Mani)
-- **ARMA SECONDARIA SUGGERITA -** Pugnale d'Argento (Finezza Mischia - d8 fisici - Una Mano)
+- **ARMA SECONDARIA SUGGERITA -** Pugnale d'Argento (Astuzia Mischia - d8 fisici - Una Mano)
 - **ARMATURA SUGGERITA -** Armatura di Cuoio (Soglie 6/13 - Evasione 3)
 ---
 
@@ -30,11 +30,11 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 # Caratteristiche di Classe
 
 ## Focus dell'Ombra (Shadow Focus)
-Spendi un punto Speranza ed effettua un attacco contro un bersaglio che si trova in condizioni di luce fioca o oscurità. In caso di successo, infliggi il danno normale dell'arma e rendi temporaneamente quel bersaglio il tuo **Focus**. 
+Spendi un punto Speranza ed effettua un attacco contro un bersaglio che si trova in condizioni di luce fioca o oscurità. In caso di successo, infliggi il danno normale dell'arma e rendi temporaneamente quel bersaglio la tua **Priorità**. 
 Finché questa caratteristica rimane attiva o finché non marchi un altro Focus, ottieni i seguenti benefici:
 * **Sguardo Penetrante:** Conosci sempre l'esatta posizione del tuo Focus, anche se si nasconde dietro coperture totali, muri o se diventa invisibile.
 * **Tormento del Fato:** Una volta per turno, quando infliggi danno al tuo Focus, questi deve marcare immediatamente **1 Stress** a causa del terrore psicologico che gli incuti.
-* **Ineluttabilità:** Se fallisci un tiro di attacco contro il tuo Focus, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi della Dualità.
+* **Ineluttabilità:** Se fallisci un tiro di attacco contro la tua Priorità, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi della Dualità.
 
 ## Passo Silenzioso (Shadow Stride)
 Il tuo movimento è naturalmente privo di suono. Ottieni vantaggio permanente su tutti i tiri di azione o reazione effettuati per muoverti silenziosamente o per nasconderti in aree ricoperte da ombre, nebbia o vegetazione di alberi-fungo.

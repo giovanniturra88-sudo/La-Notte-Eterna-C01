@@ -5,7 +5,7 @@ type:
 ---
 ## Elementale delle Nuvole
 * **Descrizione:** Creatura eterea e tempestosa fatta di nebbia densa, fulmini e venti impetuosi.
-* **Tier:** 2 (Skirmisher / Area)
+* **Tier:** 2 (Furtivo / Area)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 26
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Elementale delle Nuvole"
 description: "Creatura eterea e tempestosa fatta di nebbia densa, fulmini e venti impetuosi."
 tier: "2"
-ruolo: "Skirmisher / Area"
+ruolo: "Furtivo / Area"
 difficolta: "15"
 hp: "5"
 stress: "4"

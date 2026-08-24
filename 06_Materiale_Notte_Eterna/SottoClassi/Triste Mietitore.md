@@ -1,6 +1,6 @@
 ---
 type: Sottoclasse
-classe: "[[Blood Hunter]]"
+classe: "[[Blood Cacciatore]]"
 Dominio:
  - "[[Sangue]]"
  - "[[Ossa]]"

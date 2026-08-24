@@ -35,11 +35,11 @@ Nefertiri è una maestra assassina e spia senza pari, capace di fondersi lettera
 
 #### **TRATTI SPECIALI**
 - **Passo nell'Ombra:** Finché si trova in luce fioca o oscurità, Nefertiri può spendere un'azione per teletrasportarsi fino a 18 m in uno spazio non occupato anch'esso nell'oscurità.
-- **Attacco Furtivo (una volta per turno):** Nefertiri infligge 21 danni extra quando colpisce un bersaglio con un attacco con arma di precisione ed ha vantaggio al tiro per colpire.
+- **Attacco Furtivo (una volta per turno):** Nefertiri infligge 21 danni extra quando colpisce un bersaglio con un attacco con arma di precisione ed ha vantaggio al tiro d'attacco.
 
 #### **AZIONI**
 - **Multiattacco:** Effettua fino a tre attacchi con i Pugnali d'Ombra.
-- **Pugnale d'Ombra:** Attacco con Arma da Mischia o a Distanza: +4 al tiro per colpire (bonus d'attacco del Tier 3), portata 1,5 m o gittata 6/18 m, un bersaglio. Colpito: 3d10+3 danni perforanti e necrotici.
+- **Pugnale d'Ombra:** Attacco con Arma da Mischia o a Distanza: +4 al tiro d'attacco (bonus d'attacco del Tier 3), portata 1,5 m o gittata 6/18 m, un bersaglio. Colpito: 3d10+3 danni perforanti e necrotici.
 - **Bomba di Tenebra (una volta per scena):** Nefertiri scaglia una sfera d'ombra in un punto entro 12 m. L'area crea un'oscurità magica di 6 m di raggio per 1 minuto. Ogni creatura nemica catturata all'interno deve superare un Tiro di Reazione di Forza Difficoltà 18 o essere accecata per 1 minuto.
 
 #### **REAZIONI**

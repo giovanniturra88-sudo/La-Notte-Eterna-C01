@@ -5,7 +5,7 @@ type:
 ---
 ## Bonguru
 * **Descrizione:** Cinghiale deformato dalla magia della meteora, con tre teste sovrapposte, funghi tossici sul dorso e nidi di calabroni giganti tra le piaghe.
-* **Tier:** 2 (Bruiser / Infettivo)
+* **Tier:** 2 (Picchiatore / Infettivo)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 11 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Bonguru"
 description: "Cinghiale deformato dalla magia della meteora, con tre teste sovrapposte, funghi tossici sul dorso e nidi di calabroni giganti tra le piaghe."
 tier: "2"
-ruolo: "Bruiser / Infettivo"
+ruolo: "Picchiatore / Infettivo"
 difficolta: "14"
 hp: "6"
 stress: "4"

@@ -5,7 +5,7 @@ type:
 ---
 ## Haqrüt
 * **Descrizione:** Bestia predatrice delle desolate brughiere di Cenere, cacciatore implacabile e solitario.
-* **Tier:** 2 (Skirmisher)
+* **Tier:** 2 (Furtivo)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 9 | Maggiore: 14 | Grave: 27
 * **Punti Ferita:** 5 | **Stress:** 3
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Haqrüt"
 description: "Bestia predatrice delle desolate brughiere di Cenere, cacciatore implacabile e solitario."
 tier: "2"
-ruolo: "Skirmisher"
+ruolo: "Furtivo"
 difficolta: "14"
 hp: "5"
 stress: "3"

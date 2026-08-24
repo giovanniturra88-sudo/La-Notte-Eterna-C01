@@ -5,7 +5,7 @@ type:
 ---
 ## Kurna
 * **Descrizione:** Demone minore strisciante, stridulo e pestilenziale, inviato per diffondere morbi e disperazione.
-* **Tier:** 1 (Skirmisher)
+* **Tier:** 1 (Furtivo)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 6 | Maggiore: 8 | Grave: 15
 * **Punti Ferita:** 4 | **Stress:** 3
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Kurna"
 description: "Demone minore strisciante, stridulo e pestilenziale, inviato per diffondere morbi e disperazione."
 tier: "1"
-ruolo: "Skirmisher"
+ruolo: "Furtivo"
 difficolta: "12"
 hp: "4"
 stress: "3"

@@ -5,7 +5,7 @@ type:
 ---
 ## Guardiano di Sangue
 * **Descrizione:** Costrutto o non-morto rituale animato dal sangue e dal sacrificio, guardiano irremovibile di cripte e reliquie.
-* **Tier:** 3 (Elite / Defender)
+* **Tier:** 3 (Scelto / Difensore)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 16 | Maggiore: 30 | Grave: 48
 * **Punti Ferita:** 6 | **Stress:** 5
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Guardiano di Sangue"
 description: "Costrutto o non-morto rituale animato dal sangue e dal sacrificio, guardiano irremovibile di cripte e reliquie."
 tier: "3"
-ruolo: "Elite / Defender"
+ruolo: "Scelto / Difensore"
 difficolta: "17"
 hp: "6"
 stress: "5"

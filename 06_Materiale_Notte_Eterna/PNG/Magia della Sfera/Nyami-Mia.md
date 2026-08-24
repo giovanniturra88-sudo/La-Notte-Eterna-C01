@@ -38,7 +38,7 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 
 #### **AZIONI**
 - **Multiattacco:** Nyami-mia effettua fino a due attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
-- **Colpo di Coda:** Attacco con Arma da Mischia: +5 al tiro per colpire (bonus d'attacco del Tier 4), portata 4,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti.
+- **Colpo di Coda:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Tier 4), portata 4,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti.
 - **Maelstrom Abissale (una volta per scena):** Nyami-mia evoca un vortice d'acqua travolgente in una sfera di 9 m entro 27 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere ristretta e trascinata nel vortice.
 
 #### **REAZIONI**

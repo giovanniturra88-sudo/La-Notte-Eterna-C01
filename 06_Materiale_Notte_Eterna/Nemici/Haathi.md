@@ -5,7 +5,7 @@ type:
 ---
 ## Haathi
 * **Descrizione:** Gigantesco pachiderma da guerra a quattro zanne, addestrato per abbattere fortificazioni e travolgere ranghi di fanteria.
-* **Tier:** 3 (Bruiser / Siege)
+* **Tier:** 3 (Picchiatore / Assedio)
 * **Difficoltà:** 16
 * **Soglie di Danno:** Minore: 18 | Maggiore: 35 | Grave: 42
 * **Punti Ferita:** 8 | **Stress:** 3
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Haathi"
 description: "Gigantesco pachiderma da guerra a quattro zanne, addestrato per abbattere fortificazioni e travolgere ranghi di fanteria."
 tier: "3"
-ruolo: "Bruiser / Siege"
+ruolo: "Picchiatore / Assedio"
 difficolta: "16"
 hp: "8"
 stress: "3"

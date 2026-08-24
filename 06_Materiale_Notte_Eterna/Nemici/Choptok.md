@@ -5,7 +5,7 @@ type:
 ---
 ## Choptok
 * **Descrizione:** Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatti di foglie.
-* **Tier:** 1 (Skirmisher / Supporto)
+* **Tier:** 1 (Furtivo / Supporto)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 14
 * **Punti Ferita:** 3 | **Stress:** 3
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Choptok"
 description: "Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatti di foglie."
 tier: "1"
-ruolo: "Skirmisher / Supporto"
+ruolo: "Furtivo / Supporto"
 difficolta: "13"
 hp: "3"
 stress: "3"

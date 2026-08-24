@@ -5,7 +5,7 @@ type:
 ---
 ## Vaïkas
 * **Descrizione:** Insettoide predatore dalle lunghe zampe affilate come lame, agile arrampicatore di pareti rocciose.
-* **Tier:** 2 (Skirmisher)
+* **Tier:** 2 (Furtivo)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 25
 * **Punti Ferita:** 4 | **Stress:** 3
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Vaïkas"
 description: "Insettoide predatore dalle lunghe zampe affilate come lame, agile arrampicatore di pareti rocciose."
 tier: "2"
-ruolo: "Skirmisher"
+ruolo: "Furtivo"
 difficolta: "14"
 hp: "4"
 stress: "3"

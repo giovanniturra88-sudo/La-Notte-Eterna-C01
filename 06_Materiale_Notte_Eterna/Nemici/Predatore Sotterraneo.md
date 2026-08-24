@@ -5,7 +5,7 @@ type:
 ---
 ## Predatore Sotterraneo
 * **Descrizione:** Enorme verme o rettile scuro che striscia al di sotto dei pavimenti di pietra e delle rovine abbandonate.
-* **Tier:** 3 (Bruiser / Ambush)
+* **Tier:** 3 (Picchiatore / Agguato)
 * **Difficoltà:** 16
 * **Soglie di Danno:** Minore: 14 | Maggiore: 24 | Grave: 42
 * **Punti Ferita:** 7 | **Stress:** 3
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Predatore Sotterraneo"
 description: "Enorme verme o rettile scuro che striscia al di sotto dei pavimenti di pietra e delle rovine abbandonate."
 tier: "3"
-ruolo: "Bruiser / Ambush"
+ruolo: "Picchiatore / Agguato"
 difficolta: "16"
 hp: "7"
 stress: "3"

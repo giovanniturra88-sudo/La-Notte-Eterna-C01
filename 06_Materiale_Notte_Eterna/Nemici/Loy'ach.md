@@ -6,7 +6,7 @@ type:
 ![[Pasted image 20260805185428.png|700]]
 ## Loy'ach
 * **Descrizione:** Orribili mastini demoniaci ombra evocati per dare la caccia agli eroi, usati originariamente da [[Najestarr]].
-* **Tier:** 2 (Hunter)
+* **Tier:** 2 (Cacciatore)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 26
 * **Punti Ferita:** 4 | **Stress:** 4
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Loy'ach"
 description: "Orribili mastini demoniaci ombra evocati per dare la caccia agli eroi, usati originariamente da Najestarr."
 tier: "2"
-ruolo: "Hunter"
+ruolo: "Cacciatore"
 difficolta: "14"
 hp: "4"
 stress: "4"

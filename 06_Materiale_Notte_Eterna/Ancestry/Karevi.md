@@ -13,7 +13,7 @@ source: La Notte Eterna
 
 ## Tratti Ancestrali (Meccaniche)
 - **Visione del Velo**: Puoi vedere attraverso l'oscurità magica e percepire i flussi di energia necrotica entro distanza ravvicinata.
-- **Sintonia con l'Ombra**: Quando ti trovi in una zona di oscurità (naturale o magica), puoi marcare 1 *Stress* per ottenere *Vantaggio* su una prova di *Finezza* o *Istinto*.
+- **Sintonia con l'Ombra**: Quando ti trovi in una zona di oscurità (naturale o magica), puoi marcare 1 *Stress* per ottenere *Vantaggio* su una prova di *Astuzia* o *Istinto*.
 - **Passo Transdimensionale**: Una volta per sessione, puoi teletrasportarti in un punto visibile entro distanza ravvicinata. Usare questa abilità genera 1 *Fear Point* per il GM.
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Per un Karevi, la Notte Eterna è il suo ambiente naturale. Non soffrono penalità ambientali nelle zone corrotte.

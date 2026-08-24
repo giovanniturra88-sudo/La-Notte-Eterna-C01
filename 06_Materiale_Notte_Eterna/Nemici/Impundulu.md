@@ -5,7 +5,7 @@ type:
 ---
 ## Impundulu (Uccello del Fulmine)
 * **Descrizione:** Creatura mitologica simile a un enorme rapace in grado di evocare fulmini e trasformarsi in forma umana.
-* **Tier:** 3 (Skirmisher / Elementale)
+* **Tier:** 3 (Furtivo / Elementale)
 * **Difficoltà:** 17
 * **Soglie di Danno:** Minore: 12 | Maggiore: 24 | Grave: 38
 * **Punti Ferita:** 5 | **Stress:** 5
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Impundulu (Uccello del Fulmine)"
 description: "Creatura mitologica simile a un enorme rapace in grado di evocare fulmini e trasformarsi in forma umana."
 tier: "3"
-ruolo: "Skirmisher / Elementale"
+ruolo: "Furtivo / Elementale"
 difficolta: "17"
 hp: "5"
 stress: "5"

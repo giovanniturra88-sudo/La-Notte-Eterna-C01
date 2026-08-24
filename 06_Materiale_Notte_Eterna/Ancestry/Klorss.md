@@ -13,7 +13,7 @@ source: La Notte Eterna
 ## Tratti Ancestrali (Meccaniche)
 - **Vista del Vuoto**: Non sei mai penalizzato dall'oscurità, naturale o magica. Inoltre, puoi vedere entità invisibili entro distanza ravvicinata.
 - **Sintonia Ectoplasmica**: Quando subisci danni magici o necrotici, puoi marcare 1 *Stress* per dimezzare il danno ricevuto.
-- **Tocco del Velo**: Puoi tentare di influenzare la mente di un avversario nelle vicinanze. Usare questa capacità genera 1 punto di *Tensione* nel pool del GM.
+- **Tocco del Velo**: Puoi tentare di influenzare la mente di un avversario nelle vicinanze. Usare questa capacità genera 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Klorss sono creature del crepuscolo perenne; la loro vista si è adattata a percepire le variazioni di temperatura e energia anche dove non esiste alcuna fonte luminosa.
@@ -21,4 +21,4 @@ source: La Notte Eterna
 
 ## Note di Adattamento
 - *Base Daggerheart di riferimento*: **Elfo** (adattato per le tematiche del Vuoto).
-- *Modifiche apportate*: Abbiamo rimosso le abilità silvane e di agilità tipiche per concentrarci su capacità di resistenza magica e manipolazione psichica, bilanciando il potere con l'accumulo di *Tensione*.
+- *Modifiche apportate*: Abbiamo rimosso le abilità silvane e di agilità tipiche per concentrarci su capacità di resistenza magica e manipolazione psichica, bilanciando il potere con l'accumulo di *Paura*.

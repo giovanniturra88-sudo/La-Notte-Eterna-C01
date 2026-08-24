@@ -5,7 +5,7 @@ type:
 ---
 ## Titano Tloxa
 * **Descrizione:** Versione colossale degli anfibi tloxa, veneratore antico delle forze abissali.
-* **Tier:** 3 (Bruiser / Boss)
+* **Tier:** 3 (Picchiatore / Avversario)
 * **Difficoltà:** 18
 * **Soglie di Danno:** Minore: 20 | Maggiore: 35 | Grave: 42
 * **Punti Ferita:** 8 | **Stress:** 5
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Titano Tloxa"
 description: "Versione colossale degli anfibi tloxa, veneratore antico delle forze abissali."
 tier: "3"
-ruolo: "Bruiser / Boss"
+ruolo: "Picchiatore / Avversario"
 difficolta: "18"
 hp: "8"
 stress: "5"

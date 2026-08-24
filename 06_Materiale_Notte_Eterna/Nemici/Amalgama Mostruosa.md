@@ -5,7 +5,7 @@ type:
 ---
 ## Amalgama Mostruosa
 * **Descrizione:** Abominio nato dalla fusione magica di più animali a causa della caduta delle meteore. Può variare notevolmente in forma e attacchi.
-* **Tier:** 2 (Bruiser)
+* **Tier:** 2 (Picchiatore)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 10 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 3
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Amalgama Mostruosa"
 description: "Abominio nato dalla fusione magica di più animali a causa della caduta delle meteore. Può variare notevolmente in forma e attacchi."
 tier: "2"
-ruolo: "Bruiser"
+ruolo: "Picchiatore"
 difficolta: "13"
 hp: "6"
 stress: "3"

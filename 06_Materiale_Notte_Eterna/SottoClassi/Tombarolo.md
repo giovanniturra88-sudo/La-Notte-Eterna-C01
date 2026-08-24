@@ -5,7 +5,7 @@ classe:
 Dominio:
  - "[[MezzaNotte]]"
  - "[[Grazia]]"
-spellcast_trait: Finesse
+spellcast_trait: Astuzia
 source: La Notte Eterna
 location:
  - "[[Favoleggiate Rovine di Gundazar]]"

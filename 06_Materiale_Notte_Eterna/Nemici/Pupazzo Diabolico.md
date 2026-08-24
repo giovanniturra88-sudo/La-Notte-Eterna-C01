@@ -5,7 +5,7 @@ type:
 ---
 ## Pupazzo Diabolico
 * **Descrizione:** Costrutto animato da una maligna entità spirituale, apparentemente un giocattolo innocuo.
-* **Tier:** 1 (Lurker)
+* **Tier:** 1 (Furtivo)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 4 | Maggiore: 8 | Grave: 14
 * **Punti Ferita:** 3 | **Stress:** 3
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Pupazzo Diabolico"
 description: "Costrutto animato da una maligna entità spirituale, apparentemente un giocattolo innocuo."
 tier: "1"
-ruolo: "Lurker"
+ruolo: "Furtivo"
 difficolta: "13"
 hp: "3"
 stress: "3"

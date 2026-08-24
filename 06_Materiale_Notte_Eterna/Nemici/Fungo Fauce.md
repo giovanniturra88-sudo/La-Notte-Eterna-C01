@@ -5,7 +5,7 @@ type:
 ---
 ## Fungo Fauce
 * **Descrizione:** Pianta carnivora trappola mimetizzata tra la flora fungina con grandi fauci dentate radicate nel terreno.
-* **Tier:** 1 (Lurker / Trappola)
+* **Tier:** 1 (Furtivo / Trappola)
 * **Difficoltà:** 13
 * **Soglie di Danno:** Minore: 6 | Maggiore: 8 | Grave: 15
 * **Punti Ferita:** 4 | **Stress:** 2
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Fungo Fauce"
 description: "Pianta carnivora trappola mimetizzata tra la flora fungina con grandi fauci dentate radicate nel terreno."
 tier: "1"
-ruolo: "Lurker / Trappola"
+ruolo: "Furtivo / Trappola"
 difficolta: "13"
 hp: "4"
 stress: "2"

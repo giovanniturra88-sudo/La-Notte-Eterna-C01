@@ -5,7 +5,7 @@ type:
 ---
 ## Qal
 * **Descrizione:** Demone volatile d'ombra e piume scure che nidifica nelle rovine abbandonate.
-* **Tier:** 1 (Skirmisher)
+* **Tier:** 1 (Furtivo)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 5 | Maggiore: 8 | Grave: 15
 * **Punti Ferita:** 3 | **Stress:** 2
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Qal"
 description: "Demone volatile d'ombra e piume scure che nidifica nelle rovine abbandonate."
 tier: "1"
-ruolo: "Skirmisher"
+ruolo: "Furtivo"
 difficolta: "12"
 hp: "3"
 stress: "2"

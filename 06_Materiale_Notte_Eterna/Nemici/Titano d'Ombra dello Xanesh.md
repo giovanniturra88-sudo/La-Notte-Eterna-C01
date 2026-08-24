@@ -5,7 +5,7 @@ type:
 ---
 ## Titano d'Ombra dello Xanesh
 * **Descrizione:** Colosso di pura ombra legato ai rituali proibiti della principessa Xanesh.
-* **Tier:** 4 (Solo / Boss)
+* **Tier:** 4 (Solo / Avversario)
 * **Difficoltà:** 21
 * **Soglie di Danno:** Minore: 28 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 11 | **Stress:** 8
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Titano d'Ombra dello Xanesh"
 description: "Colosso di pura ombra legato ai rituali proibiti della principessa Xanesh."
 tier: "4"
-ruolo: "Solo / Boss"
+ruolo: "Solo / Avversario"
 difficolta: "21"
 hp: "11"
 stress: "8"

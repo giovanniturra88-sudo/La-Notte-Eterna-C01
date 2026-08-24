@@ -22,7 +22,7 @@ Mago d'accademia rinomato per l'identificazione, l'uso e l'affinità assoluta co
 ---
 
 ### Specializzazione
-**_Incantamento Meraviglioso:_** Durante un riposo, puoi sottrarre il potere dall'oggetto vincolato fino al riposo successivo. L'oggetto perde temporaneamente i suoi effetti, ma tu ottieni un bonus di +1d4 a tutti i tiri per colpire con incantesimi fino al riposo successivo.
+**_Incantamento Meraviglioso:_** Durante un riposo, puoi sottrarre il potere dall'oggetto vincolato fino al riposo successivo. L'oggetto perde temporaneamente i suoi effetti, ma tu ottieni un bonus di +1d4 a tutti i tiri d'attacco con incantesimi fino al riposo successivo.
 
 ---
 

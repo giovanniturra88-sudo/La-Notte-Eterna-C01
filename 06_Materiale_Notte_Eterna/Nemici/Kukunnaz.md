@@ -5,7 +5,7 @@ type:
 ---
 ## Kūkunnaz
 * **Descrizione:** Insettoide gigante corazzato scavatore di gallerie sotterranee, dotato di chele e mandibole devastanti.
-* **Tier:** 2 (Bruiser)
+* **Tier:** 2 (Picchiatore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 11 | Maggiore: 17 | Grave: 32
 * **Punti Ferita:** 6 | **Stress:** 3
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Kūkunnaz"
 description: "Insettoide gigante corazzato scavatore di gallerie sotterranee, dotato di chele e mandibole devastanti."
 tier: "2"
-ruolo: "Bruiser"
+ruolo: "Picchiatore"
 difficolta: "15"
 hp: "6"
 stress: "3"

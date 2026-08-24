@@ -5,7 +5,7 @@ type:
 ---
 ## Kraven
 * **Descrizione:** Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio.
-* **Tier:** 1 (Minion / Horde)
+* **Tier:** 1 (Minion / Orda)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 11
 * **Punti Ferita:** 3 | **Stress:** 2
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Kraven"
 description: "Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio."
 tier: "1"
-ruolo: "Minion / Horde"
+ruolo: "Minion / Orda"
 difficolta: "12"
 hp: "3"
 stress: "2"

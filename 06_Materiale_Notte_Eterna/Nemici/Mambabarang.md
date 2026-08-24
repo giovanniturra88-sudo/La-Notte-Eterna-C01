@@ -5,7 +5,7 @@ type:
 ---
 ## Mambabarang
 * **Descrizione:** Strega o sciamano corrotto che evoca sciami di insetti e maledizioni viscerali dal proprio corpo.
-* **Tier:** 3 (Caster / Leader)
+* **Tier:** 3 (Incantatore / Capo)
 * **Difficoltà:** 16
 * **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 32
 * **Punti Ferita:** 5 | **Stress:** 6
@@ -20,7 +20,7 @@ layout: DaggerHeart Nemici
 name: "Mambabarang"
 description: "Strega o sciamano corrotto che evoca sciami di insetti e maledizioni viscerali dal proprio corpo."
 tier: "3"
-ruolo: "Caster / Leader"
+ruolo: "Incantatore / Capo"
 difficolta: "16"
 hp: "5"
 stress: "6"

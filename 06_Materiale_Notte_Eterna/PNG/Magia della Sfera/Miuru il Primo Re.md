@@ -36,7 +36,7 @@ Miuru è stato il grande unificatore delle tribù mortali prima dell'avvento del
 
 #### **AZIONI**
 - **Multiattacco:** Effettua fino a tre attacchi con lo Scettro del Dominio.
-- **Scettro del Dominio:** Attacco con Arma da Mischia: +5 al tiro per colpire (bonus d'attacco del Tier 4), portata 1,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti e radianti.
+- **Scettro del Dominio:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Tier 4), portata 1,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti e radianti.
 - **Grido di Conquista (una volta per scena):** Miuru emette un ruggito di comando. Ogni nemico entro 12 m deve superare un Tiro di Reazione di Presenza Difficoltà 19 o subire 4d10+10 danni psichici ed essere stordito per 1 turno.
 
 #### **REAZIONI**

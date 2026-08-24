@@ -5,7 +5,7 @@ type:
 ---
 ## Akamud
 * **Descrizione:** Aberrazione alata rettiliana proveniente dal Monte delle Anime Perdute, usata come cavalcatura da guerra rapida e letale.
-* **Tier:** 2 (Skirmisher / Volante)
+* **Tier:** 2 (Furtivo / Volante)
 * **Difficoltà:** 14
 * **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 26
 * **Punti Ferita:** 5 | **Stress:** 4
@@ -21,7 +21,7 @@ layout: DaggerHeart Nemici
 name: "Akamud"
 description: "Aberrazione alata rettiliana proveniente dal Monte delle Anime Perdute, usata come cavalcatura da guerra rapida e letale."
 tier: "2"
-ruolo: "Skirmisher / Volante"
+ruolo: "Furtivo / Volante"
 difficolta: "14"
 hp: "5"
 stress: "4"

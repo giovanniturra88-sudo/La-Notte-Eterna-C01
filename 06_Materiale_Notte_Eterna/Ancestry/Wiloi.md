@@ -13,7 +13,7 @@ source: La Notte Eterna
 ## Tratti Ancestrali (Meccaniche)
 - **Sensi acuti**: Ottieni vantaggio alle prove di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
 - **Passo rapido**: Quando effettui un'azione di movimento, puoi marcare 1 *Stress* per muoverti fino a una gittata aggiuntiva senza provocare attacchi di opportunità.
-- **Memoria dimensionale**: Una volta per sessione, puoi consultare la tua "memoria ancestrale" per ottenere una conoscenza specifica su un portale o un fenomeno magico, generando però 1 punto di *Tensione* nel pool del GM.
+- **Memoria dimensionale**: Una volta per sessione, puoi consultare la tua "memoria ancestrale" per ottenere una conoscenza specifica su un portale o un fenomeno magico, generando però 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Essendo abituati a cieli lontani, i Wiloi percepiscono la Notte Eterna non come un limite, ma come un'assenza che cercano di colmare con la loro curiosità. Non subiscono penalità in condizioni di scarsa illuminazione.
@@ -21,4 +21,4 @@ source: La Notte Eterna
 
 ## Note di Adattamento
 - *Base Daggerheart di riferimento*: **Katari** (adattato per la mobilità e la percezione).
-- *Modifiche apportate*: Abbiamo adattato le abilità di movimento tipiche della razza base per riflettere il loro essere esuli ("Passo rapido") e la loro natura di "cercatori di vie" ("Memoria dimensionale"), legando l'uso delle loro abilità più potenti all'accumulo di Tensione (Fear Points).
+- *Modifiche apportate*: Abbiamo adattato le abilità di movimento tipiche della razza base per riflettere il loro essere esuli ("Passo rapido") e la loro natura di "cercatori di vie" ("Memoria dimensionale"), legando l'uso delle loro abilità più potenti all'accumulo di Paura.

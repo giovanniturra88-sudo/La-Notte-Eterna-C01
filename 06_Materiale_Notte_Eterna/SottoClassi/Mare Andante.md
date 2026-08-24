@@ -20,7 +20,7 @@ I membri della prestigiosa Gilda del Gonfalone Azzurro di Mendulia's Rock sono m
 ## Caratteristiche di Fondazione
 
 ### Legge della Marea
-Possiedi una profonda sintonia con le correnti cosmiche de La Notte Eterna. All'inizio di ogni combattimento, ricevi una riserva speciale di **Gettoni Marea** (pari al tuo Tier). Quando tu o un alleato entro portata Vicina effettuate un tiro d'azione o di reazione che si risolve con **Timore**, aggiungi **1 Gettone Marea** alla tua riserva (fino a un massimo pari al tuo livello). Puoi spendere questi gettoni prima di effettuare un tuo tiro per colpire o per i danni, aggiungendo un bonus di **+1** per ogni gettone marea consumato.
+Possiedi una profonda sintonia con le correnti cosmiche de La Notte Eterna. All'inizio di ogni combattimento, ricevi una riserva speciale di **Gettoni Marea** (pari al tuo Tier). Quando tu o un alleato entro portata Vicina effettuate un tiro d'azione o di reazione che si risolve con **Timore**, aggiungi **1 Gettone Marea** alla tua riserva (fino a un massimo pari al tuo livello). Puoi spendere questi gettoni prima di effettuare un tuo tiro d'attacco o per i danni, aggiungendo un bonus di **+1** per ogni gettone marea consumato.
 
 ## Caratteristiche di Specializzazione
 

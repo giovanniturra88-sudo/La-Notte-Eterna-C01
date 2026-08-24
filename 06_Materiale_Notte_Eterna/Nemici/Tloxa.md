@@ -5,7 +5,7 @@ type:
 ---
 ## Tloxa
 * **Descrizione:** Umanoide anfibio abitatore delle zone costiere e delle rovine sommerse, devoto a demoni del mare.
-* **Tier:** 1 (Minion / Skirmisher)
+* **Tier:** 1 (Minion / Furtivo)
 * **Difficoltà:** 12
 * **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 11
 * **Punti Ferita:** 3 | **Stress:** 2
@@ -17,7 +17,7 @@ layout: DaggerHeart Nemici
 name: "Tloxa"
 description: "Umanoide anfibio abitatore delle zone costiere e delle rovine sommerse, devoto a demoni del mare."
 tier: "1"
-ruolo: "Minion / Skirmisher"
+ruolo: "Minion / Furtivo"
 difficolta: "12"
 hp: "3"
 stress: "2"

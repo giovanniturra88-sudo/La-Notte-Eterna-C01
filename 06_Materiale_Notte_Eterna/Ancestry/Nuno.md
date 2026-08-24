@@ -13,7 +13,7 @@ source: La Notte Eterna
 ## Tratti Ancestrali (Meccaniche)
 - **Sensi ipogei**: Possiedi una vista eccezionale nel buio assoluto; non subisci alcuna penalità per oscurità naturale o magica.
 - **Istinto di Sopravvivenza**: Quando ti trovi in una zona di terreno difficile (caverne, rovine, detriti), puoi marcare 1 *Stress* per ignorare le penalità di movimento.
-- **Percezione delle Vibrazioni**: Puoi percepire i movimenti tellurici o le presenze vicine entro distanza ravvicinata. Usare questa abilità in modo prolungato genera 1 punto di *Tensione* nel pool del GM.
+- **Percezione delle Vibrazioni**: Puoi percepire i movimenti tellurici o le presenze vicine entro distanza ravvicinata. Usare questa abilità in modo prolungato genera 1 punto di *Paura* nella riserva del GM.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Nuno non considerano la Notte Eterna un ostacolo, ma una condizione necessaria per la loro esistenza. Sono immuni agli effetti di disorientamento tipici delle zone corrotte dalla nebbia abissale.
@@ -21,4 +21,4 @@ source: La Notte Eterna
 
 ## Note di Adattamento
 - *Base Daggerheart di riferimento*: **Dwarf** (adattato per la resistenza sotterranea).
-- *Modifiche apportate*: Abbiamo enfatizzato la capacità di navigazione in ambienti estremi e la percezione sensoriale, sostituendo la resilienza fisica classica con abilità di orientamento che generano *Tensione* (Fear Points) a causa dell'attenzione che attirano dal sottosuolo.
+- *Modifiche apportate*: Abbiamo enfatizzato la capacità di navigazione in ambienti estremi e la percezione sensoriale, sostituendo la resilienza fisica classica con abilità di orientamento che generano *Paura* (Fear Points) a causa dell'attenzione che attirano dal sottosuolo.
