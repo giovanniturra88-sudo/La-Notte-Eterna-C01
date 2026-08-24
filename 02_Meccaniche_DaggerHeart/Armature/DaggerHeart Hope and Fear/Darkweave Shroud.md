@@ -2,11 +2,11 @@
 type: 
   - "[[Armatura]]"
 original_name: "Darkweave Shroud"
-alias: ["Sudario Tescuro"]
+alias: ["Sudario di Trama Oscura"]
 tier: 4
 ---
 
-# Sudario Tescuro
+# Sudario di Trama Oscura
 
 **Livello 8–10** _Armatura_
 

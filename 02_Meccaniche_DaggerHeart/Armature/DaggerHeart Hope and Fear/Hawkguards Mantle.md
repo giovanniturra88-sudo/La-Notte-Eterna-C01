@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 9 / 20
 - **Punteggio di Armatura:** 4
 
-> Volo: Puoi planare fino a Lontananza e sei immune al danno da caduta.
+> Volo: Puoi planare fino a portata Lontana e sei immune al danno da caduta.

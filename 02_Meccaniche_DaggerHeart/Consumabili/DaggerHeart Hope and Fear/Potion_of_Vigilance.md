@@ -9,4 +9,4 @@ roll: 40
 
 # Pozione di Vigilanza
 
-Puoi bere questa pozione per ottenere un bonus di +1 alla tua Elusione finché non segni un Punto Ferita.
+Puoi bere questa pozione per ottenere un bonus di +1 alla tua Evasione finché non segni un Punto Ferita.

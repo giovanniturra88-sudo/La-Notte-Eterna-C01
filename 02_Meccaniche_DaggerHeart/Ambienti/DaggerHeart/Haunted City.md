@@ -17,7 +17,7 @@ type:
 
 - **Successo Critico:** ottieni informazioni preziose e un oggetto utile correlato.
 - **Successo con Speranza:** ottieni informazioni preziose.
-- **Successo con Paura:** scoperte informazioni vaghe o incomplete.
+- **Successo con Paura:** ottieni informazioni vaghe o incomplete.
 - **Qualsiasi Fallimento:** segna uno Stress per trovare un indizio dopo una ricerca estenuante.
 
 **_Forma Spettrale - Passiva:_** Gli avversari che compaiono qui hanno una forma spettrale. Hanno resistenza ai danni fisici e possono **segnare uno Stress** per muoversi fino a portata Ravvicinata attraverso gli oggetti solidi. _Quali ferite della loro forma fisica raccontano la loro causa di morte? Quale scopo incompiuto li trattiene nel Piano Mortale?_

@@ -13,4 +13,4 @@ tier: 4
 - **Soglie di Danno:** 12 / 39
 - **Punteggio di Armatura:** 7
 
-> Sintonizzato: Il massimo carte dominio nel tuo equipaggiamento è ridotto di uno, ma ottieni un bonus alle soglie di danno pari al tuo tier.
+> Sintonizzato: Il numero massimo di carte Dominio nel tuo equipaggiamento è ridotto di uno, ma ottieni un bonus alle soglie di danno pari al tuo rango.

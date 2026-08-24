@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 10 / 21
 - **Punteggio di Armatura:** 5
 
-> Passi Leggeri: Non puoi essere Ritenuto e ti muovi fino a Lontananza come parte di un lancio Azione.
+> Passi Leggeri: Non puoi essere Trattenuto e ti muovi fino a portata Lontana come parte di un Tiro Azione.

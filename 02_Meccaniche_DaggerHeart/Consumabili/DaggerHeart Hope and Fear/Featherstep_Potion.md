@@ -9,4 +9,4 @@ roll: 60
 
 # Pozione del Passo Piumato
 
-Puoi bere questa pozione per far crescere piccole ali dalle tue caviglie che ti danno un bonus alla tua Elusione pari al tuo livello fino al tuo prossimo riposo.
+Puoi bere questa pozione per far crescere piccole ali dalle tue caviglie che ti danno un bonus alla tua Evasione pari alla tua Competenza fino al tuo prossimo riposo.

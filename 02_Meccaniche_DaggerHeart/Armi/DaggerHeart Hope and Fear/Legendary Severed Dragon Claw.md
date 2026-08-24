@@ -12,7 +12,7 @@ tier: 4
 ruolo: "primaria"
 ---
 
-### Zanna del Drago Tronca Leggendario
+### Zanna del Drago Troncata Leggendaria
 
 **_Distruttivo: −1 ad Agilità; con un attacco riuscito, tutti gli avversari entro gittata Prossima devono segnare uno Stress_**
 

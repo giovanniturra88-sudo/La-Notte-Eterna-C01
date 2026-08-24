@@ -9,4 +9,4 @@ roll: 27
 
 # Pozione Mnemonica
 
-Puoi bere questa pozione per Utilizzare un'Esperienza senza spendere una Speranza.
+Puoi bere questa pozione per utilizzare un'Esperienza senza spendere una Speranza.

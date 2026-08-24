@@ -19,7 +19,7 @@ type:
 
 **_Astrologio Lunare - Passiva:** In cima alla torre più alta della capitale c'è una macchina dei sogni di cristallo in grado di riprodurre la storia. Un PG che riesce in un Tiro di Conoscenza può riparare la macchina. Una volta riparata la macchina, un PG che riesce in un Tiro di Presenza può metterla in funzione per conoscere la storia dell'ascesa e della caduta del Regno della Luna.
 
- - **Successo Critico:** Il PG riceve informazioni chiare sugli eventi e le figure chiave della storia del Regno della Luna e ottiene 1d4 Speranza, che può distribuire tra i PG con cui condivide le sue visioni.
+ - **Successo Critico:** Il PG riceve informazioni chiare sugli eventi e le figure chiave della storia del Regno della Luna e ottiene 1d4 Speranze, che può distribuire tra i PG con cui condivide le sue visioni.
  - **Successo:** Il PG riceve informazioni chiare sugli eventi e le figure chiave della storia del Regno della Luna.
  - **Qualsiasi tiro con Paura:** Il PG riceve brevi lampi e sensazioni legati alla fine cataclismatica del regno. Se il tiro era un fallimento, il PG subisce 4d10+5 danni magici mentre le visioni assalgono la sua psiche.
 

@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama d'Ossa di Bestia
 
-**_Primitivo: Quando sconfiggi una creatura con questa arma, ottieni Punti Ferita temporanei pari al tuo grado_**
+**_Primitivo: Quando sconfiggi una creatura con questa arma, ottieni Punti Ferita temporanei pari al tuo rango_**
 
 ---

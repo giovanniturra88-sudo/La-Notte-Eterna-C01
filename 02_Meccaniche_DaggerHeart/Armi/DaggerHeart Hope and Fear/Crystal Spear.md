@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lancia di Cristallo
 
-**_Perforante: I danni inflitti con questa arma trattano la soglia Maggior del bersaglio come se avesse una penalità di −2_**
+**_Perforante: I danni inflitti con questa arma trattano la soglia Maggiore del bersaglio come se avesse una penalità di −2_**
 
 ---

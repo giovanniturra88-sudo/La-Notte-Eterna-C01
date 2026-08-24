@@ -5,15 +5,15 @@ source: DaggerHeart Hope and Fear
 ---
 
 ## Profilo
-- **Descrizione Visiva**: Gli Emberkin sono umanoidi il cui corpo è fatto di carne e fuoco. Discendenti da elementali del fuoco, la loro forma è costituita da un nucleo di fuoco vivo racchiuso in una "guscio" — materiale che varia dalla pelle spessa quanto l'armatura piastrata alla corteccia o al cuoio. Le scintille e le fiamme possono essere emesse dalle bocce oculari, dalle orecchie e dalla bocca quando emozionati. La colorazione richiama carbone, cenere e legna ardente. Quando muoiono, il loro fuoco si spegne per sempre e i corpi si disintegrano in polvere di cenere.
+- **Descrizione Visiva**: Gli Emberkin sono umanoidi il cui corpo è fatto di carne e fuoco. Discendenti da elementali del fuoco, la loro forma è costituita da un nucleo di fuoco vivo racchiuso in una "guscio" — materiale che varia dalla pelle spessa quanto l'armatura piastrata alla corteccia o al cuoio. Le scintille e le fiamme possono essere emesse dai bulbi oculari, dalle orecchie e dalla bocca quando emozionati. La colorazione richiama carbone, cenere e legna ardente. Quando muoiono, il loro fuoco si spegne per sempre e i corpi si disintegrano in polvere di cenere.
 - **Origine**: Nati dalla discendenza degli elementali del fuoco, gli Emberkin iniziano la vita come una scintilla racchiusa in materiale combustibile. Invecchiano rapidamente per circa 120 anni, con altezza adulta tra 1,50 e 2 metri. La forma è influenzata dal materiale che racchiude il loro fuoco interno.
 - **Archetipo**: Distruttori Infuocati, Portatori della Fiamma Eterna, Guerrieri della Cenere, Spie Ardenti.
 
 ## Tratti Ancestrali (Meccaniche Daggerheart)
 
-- **Immunità al Fuoco (Fireproof)**: Non subisci danno dal fuoco e non ti ammali degli effetti non normali da esposizione al fuoco.
+- **Immunità al Fuoco (Fireproof)**: Non subisci danno dal fuoco e non subisci gli effetti anomali da esposizione al fuoco.
   
-- **Accensione**: Quando marchi 1 slot *Stress*, il tuo prossimo attacco a Distanza Ravvicinata diventa infuocato: causa +6 danni e, se colpisce, incendia gli equipaggiamenti dell'obiettivo.
+- **Accensione**: Quando segni una Casella Stress, il tuo prossimo attacco entro portata Ravvicinata diventa infuocato: causa +6 danni e, se colpisce, incendia gli equipaggiamenti dell'obiettivo.
 
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Emberkin sono visti come forze della natura — distruttivi ma anche purificatori. Le comunità che li accettano li utilizzano per forgiatura, riscaldamento e difesa. Quelli repressi possono esplodere in violenza incontrollata.

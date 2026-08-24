@@ -7,6 +7,6 @@ original_rarity: "Rare"
 roll: 33
 ---
 
-# Bastone del Rivalsamento
+# Bastone dell'Inversione
 
 Puoi rompere questo bastone contro il terreno per invertire una trasformazione o un effetto magico entro gittata Lontana.

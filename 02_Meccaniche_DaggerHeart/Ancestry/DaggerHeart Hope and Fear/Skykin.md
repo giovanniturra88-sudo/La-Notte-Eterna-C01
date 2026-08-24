@@ -11,9 +11,9 @@ source: DaggerHeart Hope and Fear
 
 ## Tratti Ancestrali (Meccaniche Daggerheart)
 
-- **Forza del Temporale (Gale Force)**: Una volta per scena, quando un nemico a Distanza Ravvicinata ti colpisce con un attacco, puoi costringerlo a fare una prova di Resistenza (Volontà). Se fallisce, il nemico viene spinto indietro di 4 metri e cade.
+- **Forza del Temporale (Gale Force)**: Una volta per scena, quando un nemico entro portata Ravvicinata ti colpisce con un attacco, puoi costringerlo a fare un Tiro di Reazione. Se fallisce, il nemico viene spinto indietro di 4 metri e cade.
   
-- **Occhio del Temporale (Eye of the Storm)**: Quando subisci un danno da un effetto o un'abilità, puoi spendere 1 *Speranza* per ricevere un bonus al tuo punteggio di *Elusione* fino all'inizio del tuo prossimo turno. Il bonus è uguale al dado dell'effetto che ha causato il danno.
+- **Occhio del Temporale (Eye of the Storm)**: Quando subisci un danno da un effetto o un'abilità, puoi spendere 1 *Speranza* per ricevere un bonus al tuo punteggio di *Evasione* fino all'inizio del tuo prossimo turno. Il bonus è uguale al dado dell'effetto che ha causato il danno.
 
 ## Integrazione in La Notte Eterna
 - **Presenza nel Mondo**: Gli Skykin sono visti come figure enigmatiche — a volte alleati, a volte nemici. La loro natura mutevole e difficile da afferrare li rende perfetti per spionaggio ed evasioni. Le fazioni che li comprendono sanno quanto sia preziosa la loro lealtà.

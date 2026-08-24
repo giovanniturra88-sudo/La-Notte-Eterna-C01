@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama di Starmetal
 
-**_Seghettato: Quando tiri un 1 su un dado di danno, infligge 8 danni invece_**
+**_Seghettato: Quando tiri un 1 su un dado di danno, infligge invece 8 danni_**
 
 ---
