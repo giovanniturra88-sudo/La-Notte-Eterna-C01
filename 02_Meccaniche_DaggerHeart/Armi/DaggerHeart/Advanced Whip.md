@@ -2,7 +2,7 @@
 alias: ["Frusta Avanzata"]
 categoria: equipaggiamento
 danno: d6+4
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Advanced Whip"
 ruolo: secondaria

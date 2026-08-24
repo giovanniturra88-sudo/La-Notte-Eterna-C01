@@ -2,7 +2,7 @@
 alias: ["Rune della Rovina"]
 categoria: equipaggiamento
 danno: d20+4
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Runes of Ruination"
 ruolo: primaria

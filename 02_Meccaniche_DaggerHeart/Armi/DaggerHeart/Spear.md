@@ -2,7 +2,7 @@
 alias: ["Lancia"]
 categoria: equipaggiamento
 danno: d8+3
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Spear"
 ruolo: primaria

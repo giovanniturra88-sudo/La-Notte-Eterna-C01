@@ -2,10 +2,10 @@
 alias: []
 categoria: "equipaggiamento"
 danno: "d8+12"
-gittata: "far"
-ingombro: "two-handed"
+gittata: "lontano"
+ingombro: "due mani"
 tipo_danno: "fisica"
-tratto: "strength"
+tratto: "forza"
 type:
   - "[[Arma]]"
 tier: 4

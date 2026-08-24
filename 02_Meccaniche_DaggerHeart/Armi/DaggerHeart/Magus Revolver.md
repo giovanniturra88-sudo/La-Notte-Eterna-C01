@@ -2,7 +2,7 @@
 alias: ["Revolver del Magus"]
 categoria: arma
 danno: d6+13
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "una mano"
 original_name: "Magus Revolver"
 ruolo: primaria

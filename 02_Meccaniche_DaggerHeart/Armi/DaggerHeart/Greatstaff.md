@@ -2,7 +2,7 @@
 alias: ["Gran Bastone"]
 categoria: equipaggiamento
 danno: d6
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Greatstaff"
 ruolo: primaria

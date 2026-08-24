@@ -2,7 +2,7 @@
 alias: ["Bastone Maggiore Migliorato"]
 categoria: equipaggiamento
 danno: d6+3
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Improved Greatstaff"
 ruolo: primaria

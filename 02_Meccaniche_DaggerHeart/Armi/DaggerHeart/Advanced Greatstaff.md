@@ -2,7 +2,7 @@
 alias: ["Bastone Maggiore Avanzato"]
 categoria: equipaggiamento
 danno: d6+6
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Advanced Greatstaff"
 ruolo: primaria

@@ -2,7 +2,7 @@
 alias: ["Alabarda"]
 categoria: equipaggiamento
 danno: d10+2
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Halberd"
 ruolo: primaria

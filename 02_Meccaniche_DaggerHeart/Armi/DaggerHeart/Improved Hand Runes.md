@@ -2,7 +2,7 @@
 alias: ["Runes della Mano Migliorate"]
 categoria: equipaggiamento
 danno: d10+3
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Improved Hand Runes"
 ruolo: primaria

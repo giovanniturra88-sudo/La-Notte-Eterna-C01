@@ -2,10 +2,10 @@
 alias: []
 categoria: "equipaggiamento"
 danno: "d6+6"
-gittata: "melee"
-ingombro: "one-handed"
+gittata: "mischia"
+ingombro: "una mano"
 tipo_danno: "fisica"
-tratto: "presence"
+tratto: "presenza"
 type:
   - "[[Arma]]"
 tier: 2

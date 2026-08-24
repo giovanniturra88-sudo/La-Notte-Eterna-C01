@@ -2,7 +2,7 @@
 alias: ["Frusta Lama"]
 categoria: equipaggiamento
 danno: d8+3
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Bladed Whip"
 ruolo: primaria

@@ -2,7 +2,7 @@
 alias: ["Falce da Guerra"]
 categoria: equipaggiamento
 danno: d8+5
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "War Scythe"
 ruolo: primaria

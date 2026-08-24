@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d6+3 phy"
-gittata: "very_close"
-ingombro: "one-handed"
+danno: "d6+3"
+gittata: "prossimo"
+ingombro: "una mano"
 tipo_danno: "fisica"
-tratto: "finesse"
+tratto: "astuzia"
 type:
   - "[[Arma]]"
 tier: 2

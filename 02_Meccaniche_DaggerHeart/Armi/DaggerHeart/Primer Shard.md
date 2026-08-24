@@ -2,7 +2,7 @@
 alias: ["Frammento Primer"]
 categoria: arma
 danno: d4
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Primer Shard"
 ruolo: secondaria

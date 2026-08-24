@@ -2,7 +2,7 @@
 alias: ["Frusta Leggendaria"]
 categoria: equipaggiamento
 danno: d6+6
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Legendary Whip"
 ruolo: secondaria

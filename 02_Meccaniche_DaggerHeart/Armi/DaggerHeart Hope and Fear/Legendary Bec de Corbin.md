@@ -2,10 +2,10 @@
 alias: []
 categoria: "equipaggiamento"
 danno: "d10+9"
-gittata: "very_close"
-ingombro: "two-handed"
+gittata: "prossimo"
+ingombro: "due mani"
 tipo_danno: "fisica"
-tratto: "agility"
+tratto: "agilità"
 type:
   - "[[Arma]]"
 tier: 4

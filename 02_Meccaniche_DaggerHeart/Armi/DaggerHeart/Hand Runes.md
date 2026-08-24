@@ -2,7 +2,7 @@
 alias: ["Runi della Mano"]
 categoria: equipaggiamento
 danno: d10
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Hand Runes"
 ruolo: primaria

@@ -2,7 +2,7 @@
 alias: ["Sigilli Avanzati della Mano"]
 categoria: equipaggiamento
 danno: d10+6
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Advanced Hand Runes"
 ruolo: ""

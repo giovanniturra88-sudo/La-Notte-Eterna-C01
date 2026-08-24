@@ -2,7 +2,7 @@
 alias: ["Alabarda Migliorata"]
 categoria: equipaggiamento
 danno: d10+5
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Improved Halberd"
 ruolo: primaria

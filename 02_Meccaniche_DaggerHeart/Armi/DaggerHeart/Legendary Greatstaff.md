@@ -2,7 +2,7 @@
 alias: ["Bastone Maggiore Leggendario"]
 categoria: equipaggiamento
 danno: 1d6+9
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Legendary Greatstaff"
 ruolo: primaria

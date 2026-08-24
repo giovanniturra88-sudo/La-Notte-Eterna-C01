@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d10+12 mag"
-gittata: "very_far"
-ingombro: "two-handed"
+danno: "d10+12"
+gittata: "remoto"
+ingombro: "due mani"
 tipo_danno: "magica"
-tratto: "agility"
+tratto: "agilità"
 type:
   - "[[Arma]]"
 tier: 4

@@ -2,7 +2,7 @@
 alias: ["Anelli Luminosi"]
 categoria: equipaggiamento
 danno: d10+2
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Glowing Rings"
 ruolo: primaria

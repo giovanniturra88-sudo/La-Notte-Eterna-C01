@@ -2,7 +2,7 @@
 alias: ["Guanti della Fusione"]
 categoria: equipaggiamento
 danno: d6+9
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Fusion Gloves"
 ruolo: primaria

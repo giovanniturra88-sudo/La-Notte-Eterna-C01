@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d8 phy"
-gittata: "melee"
-ingombro: "one-handed"
+danno: "d8"
+gittata: "mischia"
+ingombro: "una mano"
 tipo_danno: "fisica"
-tratto: "finesse"
+tratto: "astuzia"
 type:
   - "[[Arma]]"
 tier: 1

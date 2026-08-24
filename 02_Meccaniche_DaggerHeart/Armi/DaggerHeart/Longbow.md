@@ -2,7 +2,7 @@
 alias: ["Arco Lungo"]
 categoria: equipaggiamento
 danno: d8+3
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Longbow"
 ruolo: primaria

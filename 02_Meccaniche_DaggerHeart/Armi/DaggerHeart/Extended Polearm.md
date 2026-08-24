@@ -2,7 +2,7 @@
 alias: ["Lancia Prolungata"]
 categoria: arma
 danno: d8+10
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Extended Polearm"
 ruolo: primaria

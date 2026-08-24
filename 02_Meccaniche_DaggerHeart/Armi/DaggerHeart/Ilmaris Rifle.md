@@ -2,7 +2,7 @@
 alias: ["Fucile di Ilmari"]
 categoria: arma
 danno: d6+6
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "una mano"
 original_name: "Ilmari's Rifle"
 ruolo: primaria

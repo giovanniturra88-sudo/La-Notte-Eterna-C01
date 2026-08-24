@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d8+6 mag"
-gittata: "close"
-ingombro: "one-handed"
+danno: "d8+6"
+gittata: "ravvicinato"
+ingombro: "una mano"
 tipo_danno: "magica"
-tratto: "knowledge"
+tratto: "conoscenza"
 type:
   - "[[Arma]]"
 tier: 1

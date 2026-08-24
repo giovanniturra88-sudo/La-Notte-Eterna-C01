@@ -2,7 +2,7 @@
 alias: ["Fionda da Mano"]
 categoria: arma
 danno: d6+4
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "una mano"
 original_name: "Hand Sling"
 ruolo: secondaria

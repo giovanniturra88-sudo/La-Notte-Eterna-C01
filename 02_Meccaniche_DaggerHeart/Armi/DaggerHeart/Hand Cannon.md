@@ -2,7 +2,7 @@
 alias: ["Cannone da Mano"]
 categoria: arma
 danno: d6+12
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "una mano"
 original_name: "Hand Cannon"
 ruolo: primaria

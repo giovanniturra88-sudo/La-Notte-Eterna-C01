@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d6+4 phy"
-gittata: "very_close"
-ingombro: "one-handed"
+danno: "d6+4"
+gittata: "prossimo"
+ingombro: "una mano"
 tipo_danno: "fisica"
-tratto: "agility"
+tratto: "agilità"
 type:
   - "[[Arma]]"
 tier: 2

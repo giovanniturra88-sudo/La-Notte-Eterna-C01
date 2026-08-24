@@ -2,7 +2,7 @@
 alias: ["Arco Lungo Leggendario"]
 categoria: equipaggiamento
 danno: d8+12
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Legendary Longbow"
 ruolo: primaria

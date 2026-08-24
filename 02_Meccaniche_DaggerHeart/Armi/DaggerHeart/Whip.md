@@ -2,7 +2,7 @@
 alias: ["Frusta"]
 categoria: equipaggiamento
 danno: d6
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Whip"
 ruolo: secondaria

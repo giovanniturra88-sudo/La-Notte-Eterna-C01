@@ -2,10 +2,10 @@
 alias: []
 categoria: "equipaggiamento"
 danno: "d8+10"
-gittata: "far"
-ingombro: "two-handed"
+gittata: "lontano"
+ingombro: "due mani"
 tipo_danno: "fisica"
-tratto: "knowledge"
+tratto: "conoscenza"
 type:
   - "[[Arma]]"
 tier: 4

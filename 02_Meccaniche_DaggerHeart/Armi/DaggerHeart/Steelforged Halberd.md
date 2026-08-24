@@ -2,7 +2,7 @@
 alias: ["Alabarda Forgiata nell'Acciaio"]
 categoria: equipaggiamento
 danno: d8+4
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Steelforged Halberd"
 ruolo: primaria

@@ -2,7 +2,7 @@
 alias: ["Lancia Avanzata"]
 categoria: equipaggiamento
 danno: 1d8+9
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Advanced Spear"
 ruolo: primaria

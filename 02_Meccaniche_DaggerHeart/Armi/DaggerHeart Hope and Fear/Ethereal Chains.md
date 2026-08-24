@@ -2,10 +2,10 @@
 alias: []
 categoria: "equipaggiamento"
 danno: "d8+2"
-gittata: "very_close"
-ingombro: "two-handed"
+gittata: "prossimo"
+ingombro: "due mani"
 tipo_danno: "fisica"
-tratto: "presence"
+tratto: "presenza"
 type:
   - "[[Arma]]"
 tier: 1

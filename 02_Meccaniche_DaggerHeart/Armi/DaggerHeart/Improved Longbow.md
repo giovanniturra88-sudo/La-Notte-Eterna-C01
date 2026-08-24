@@ -2,7 +2,7 @@
 alias: ["Arco Lungo Migliorato"]
 categoria: equipaggiamento
 danno: d8+6
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Improved Longbow"
 ruolo: primaria

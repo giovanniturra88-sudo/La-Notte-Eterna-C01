@@ -2,7 +2,7 @@
 alias: ["Arco Finehair"]
 categoria: equipaggiamento
 danno: 1d6+5
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Finehair Bow"
 ruolo: primaria

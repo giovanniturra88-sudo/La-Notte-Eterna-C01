@@ -2,7 +2,7 @@
 alias: ["Frusta Migliorata"]
 categoria: equipaggiamento
 danno: d6+2
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "una mano"
 original_name: "Improved Whip"
 ruolo: secondaria

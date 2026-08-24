@@ -2,7 +2,7 @@
 alias: ["Doppia Frusta"]
 categoria: equipaggiamento
 danno: d10+8
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Double Flail"
 ruolo: primaria

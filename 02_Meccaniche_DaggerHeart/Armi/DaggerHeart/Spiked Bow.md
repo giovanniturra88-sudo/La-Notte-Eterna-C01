@@ -2,7 +2,7 @@
 alias: ["Arco Spinoso"]
 categoria: arma
 danno: d6+7
-gittata: "molto lontano"
+gittata: "remoto"
 ingombro: "due mani"
 original_name: "Spiked Bow"
 ruolo: primaria

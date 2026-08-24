@@ -2,7 +2,7 @@
 alias: ["Lancia Migliorata"]
 categoria: equipaggiamento
 danno: d8+6
-gittata: "molto vicino"
+gittata: "prossimo"
 ingombro: "due mani"
 original_name: "Improved Spear"
 ruolo: primaria

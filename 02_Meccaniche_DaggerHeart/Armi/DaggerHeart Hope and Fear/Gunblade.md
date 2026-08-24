@@ -1,11 +1,11 @@
 ---
 alias: []
 categoria: "equipaggiamento"
-danno: "d6+6 mag"
-gittata: "far"
-ingombro: "one-handed"
+danno: "d6+6"
+gittata: "lontano"
+ingombro: "una mano"
 tipo_danno: "magica"
-tratto: "agility"
+tratto: "agilità"
 type:
   - "[[Arma]]"
 tier: 1
