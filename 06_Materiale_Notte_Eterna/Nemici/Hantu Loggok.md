@@ -13,7 +13,7 @@ type:
  * **Tocco Gelido dell'Anima:** +3 | Ravvicinata | 2d8+4 Freddo/Necrotico
 * **Tratti e Capacità:**
  * **Incorporeo:** Ignora i terreni e attraversa gli ostacoli solidi.
- * **Lamento dell'Agonia (1 Paura):** Cause terrore puro e infligge danni da Stress ai nemici nell'area.
+ * **Lamento dell'Agonia (1 Paura):** Causa terrore puro e infligge danni da Stress ai nemici nell'area.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -33,5 +33,5 @@ tratti:
   - name: "Incorporeo"
     desc: "Ignora i terreni e attraversa gli ostacoli solidi."
   - name: "Lamento dell'Agonia"
-    desc: "Causa terrore puro e infligge danni da Stress ai nemici nell'area."
+    desc: "*(Costo: 1 Paura)* Causa terrore puro e infligge danni da Stress ai nemici nell'area."
 ```

@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 3 | **Stress:** 3
 * **Attacchi:**
  * **Spada Lunga Minuscola:** +2 | Ravvicinata | 1d6+2 Tagliente
- * **Cerbottana Avvelenata:** +3 | Media | 1d4+3 Perforante + Stato Avvelenato/Addormentato
+ * **Cerbottana Avvelenata:** +3 | Lontana | 1d4+3 Perforante + avvelenato o addormentato
 * **Tratti e Capacità:**
  * **Invisibilità Magica (1 Stress):** Diventa invisibile fino al suo prossimo attacco.
  * **Occhiolino Accecante:** Abbaglia i nemici vicini accecandoli temporaneamente.
@@ -31,7 +31,7 @@ attacchi:
   - name: "Spada Lunga Minuscola"
     desc: "**+2** | Ravvicinata | **1d6+2** Tagliente"
   - name: "Cerbottana Avvelenata"
-    desc: "**+3** | Media | **1d4+3** Perforante + Stato Avvelenato/Addormentato"
+    desc: "**+3** | Lontana | **1d4+3** Perforante + avvelenato o addormentato"
 tratti:
   - name: "Invisibilità Magica"
     desc: "*(Costo: 1 Stress)* Diventa invisibile fino al suo prossimo attacco."

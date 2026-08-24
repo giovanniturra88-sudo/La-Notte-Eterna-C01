@@ -11,9 +11,9 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
  * **Artigli e Morso:** +3 | Ravvicinata | 2d8+5 Perforante
- * **Soffio Acido:** +3 | Cono Corto | 2d10+4 Acido
+ * **Soffio Acido:** +3 | Area Prossima | 2d10+4 Acido
 * **Tratti e Capacità:**
- * **Accecare (1 Stress):** L'unico grande occhio dell'Akamud emette un lampo accecante. Le creature vicine devono superare un tiro Agilità/Saggezza Difficoltà 14 o essere Accecate per 1 turno.
+ * **Accecare (1 Stress):** L'unico grande occhio dell'Akamud emette un lampo accecante. Le creature vicine devono superare un Tiro di Reazione di Agilità o Istinto (Difficoltà 14) o essere accecate per 1 turno.
 * **Volatore Rapido:** Può posizionarsi rapidamente ingaggiando o disingaggiando senza subire attacchi gratuiti.
 
 ```statblock
@@ -31,10 +31,10 @@ attacchi:
   - name: "Artigli e Morso"
     desc: "**+3** | Ravvicinata | **2d8+5** Perforante"
   - name: "Soffio Acido"
-    desc: "**+3** | Cono Corto | **2d10+4** Acido"
+    desc: "**+3** | Area Prossima | **2d10+4** Acido"
 tratti:
   - name: "Accecare (Costo: 1 Stress)"
-    desc: "L'unico grande occhio dell'Akamud emette un lampo accecante. Le creature vicine devono superare un tiro Agilità/Saggezza Difficoltà 14 o essere Accecate per 1 turno."
+    desc: "L'unico grande occhio dell'Akamud emette un lampo accecante. Le creature vicine devono superare un Tiro di Reazione di Agilità o Istinto (Difficoltà 14) o essere accecate per 1 turno."
   - name: "Volatore Rapido"
     desc: "Può posizionarsi rapidamente ingaggiando o disingaggiando senza subire attacchi gratuiti."
 ```

@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 12 | **Stress:** 10
 * **Attacchi:**
  * **Morso e Artigli Divini:** +6 | Ravvicinata | 4d10+12 Tagliente/Radiante
- * **Soffio Divino:** +5 | Cono Grande | 4d12+10 Radiante
+ * **Soffio Divino:** +5 | Area Lontana | 4d12+10 Radiante
 * **Tratti e Capacità:**
  * **Scaglie di Adamantio:** Immune ai colpi critici.
  * **Pioggia di Meteore (3 Paura):** Evoca 6 rocciose meteore antiche infuocate sul campo di battaglia (5d10 danni da Fuoco e Contundenti).
@@ -32,7 +32,7 @@ attacchi:
   - name: "Morso e Artigli Divini"
     desc: "**+6** | Ravvicinata | **4d10+12** Tagliente/Radiante"
   - name: "Soffio Divino"
-    desc: "**+5** | Cono Grande | **4d12+10** Radiante"
+    desc: "**+5** | Area Lontana | **4d12+10** Radiante"
 tratti:
   - name: "Scaglie di Adamantio"
     desc: "Immune ai colpi critici."

@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 4
 * **Attacchi:**
  * **Sferzata d'Ombra:** +3 | Ravvicinata | 2d8+4 Necrotico
- * **Buio Terrificante:** +3 | Area Ravvicinata | 2d10 Necrotico + Stato Spaventato
+ * **Buio Terrificante:** +3 | Area Ravvicinata | 2d10 Necrotico + terrorizzato
 * **Tratti e Capacità:**
  * **Forma d'Ombra:** Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti.
  * **Lanciare il Buio (1 Stress):** Avvolge l'area nell'oscurità totale rendendo i nemici privi di vista.
@@ -31,7 +31,7 @@ attacchi:
   - name: "Sferzata d'Ombra"
     desc: "**+3** | Ravvicinata | **2d8+4** Necrotico"
   - name: "Buio Terrificante"
-    desc: "**+3** | Area Ravvicinata | **2d10** Necrotico + Stato Spaventato"
+    desc: "**+3** | Area Ravvicinata | **2d10** Necrotico + terrorizzato"
 tratti:
   - name: "Forma d'Ombra"
     desc: "Resistenza ai danni fisici non magici; vulnerabile ai danni Radianti."

@@ -5,7 +5,7 @@ type:
 ---
 ## Ninfa della Discordia
 * **Descrizione:** Spirito corrotto della natura che instilla odio, paranoia e follia tra i compagni di viaggio.
-* **Rango:** 2 (Social / Controllore)
+* **Rango:** 2 (Sociale / Controllore)
 * **Difficoltà:** 15
 * **Soglie di Danno:** Minore: 7 | Maggiore: 14 | Grave: 22
 * **Punti Ferita:** 4 | **Stress:** 5
@@ -19,7 +19,7 @@ layout: DaggerHeart Nemici
 name: "Ninfa della Discordia"
 description: "Spirito corrotto della natura che instilla odio, paranoia e follia tra i compagni di viaggio."
 tier: "2"
-ruolo: "Social / Controllore"
+ruolo: "Sociale / Controllore"
 difficolta: "15"
 hp: "4"
 stress: "5"

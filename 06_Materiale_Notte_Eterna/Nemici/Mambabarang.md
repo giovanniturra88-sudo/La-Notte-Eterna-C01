@@ -11,9 +11,9 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 6
 * **Attacchi:**
  * **Bastone Maledetto:** +3 | Ravvicinata | 2d6+4 Necrotico
- * **Sciame di Insetti:** +4 | Media | 3d6+5 Veleno
+ * **Sciame di Insetti:** +4 | Lontana | 3d6+5 Veleno
 * **Tratti e Capacità:**
- * **Maledizione dei Parassiti (1 Paura):** Il bersaglio subisce danni prolungati e lo stato Indebolito.
+ * **Maledizione dei Parassiti (1 Paura):** Il bersaglio subisce danni prolungati e lo stato indebolito.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -30,8 +30,8 @@ attacchi:
   - name: "Bastone Maledetto"
     desc: "**+3** | Ravvicinata | **2d6+4** Necrotico"
   - name: "Sciame di Insetti"
-    desc: "**+4** | Media | **3d6+5** Veleno"
+    desc: "**+4** | Lontana | **3d6+5** Veleno"
 tratti:
   - name: "Maledizione dei Parassiti"
-    desc: "Il bersaglio subisce danni prolungati e lo stato Indebolito (1 Paura)."
+    desc: "Il bersaglio subisce danni prolungati *(Costo: 1 Paura)* Il bersaglio subisce danni prolungati e lo stato indebolito."
 ```

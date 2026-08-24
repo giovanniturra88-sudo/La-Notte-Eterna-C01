@@ -33,5 +33,5 @@ attacchi:
     desc: "**+4** | Ravvicinata | **3d8+8** Contundente"
 tratti:
   - name: "Carica Devastante"
-    desc: "Travolge tutte le creature sulla sua traiettoria infliggendo danni e abbattendole."
+    desc: "*(Costo: 1 Paura)* Travolge tutte le creature sulla sua traiettoria infliggendo danni e abbattendole."
 ```

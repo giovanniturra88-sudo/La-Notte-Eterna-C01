@@ -10,8 +10,8 @@ type:
 * **Soglie di Danno:** Minore: 30 | Maggiore: 48 | Grave: 88
 * **Punti Ferita:** 12 | **Stress:** 10
 * **Attacchi:**
- * **Morso Astrale / Artigli:** +5 | Ravvicinata | 3d12+10 Perforante/Forza
- * **Soffio Lunare / Esiliante:** +5 | Area Lontana | 4d10+12 Forza/Freddo
+ * **Morso Astrale / Artigli:** +5 | Ravvicinata | 3d12+10 Perforante/Magico
+ * **Soffio Lunare / Esiliante:** +5 | Area Lontana | 4d10+12 Magico/Freddo
 * **Tratti e Capacità:**
  * **Atmosfera Lunare (2 Paura):** Rimuove l'ossigeno in un'area Ravvicinata, soffocando le creature viventi.
  * **Proiezione della Luna Piena (2 Stress):** Evoca una sfera lunare volante che infligge danni da Freddo e rallenta tutti i nemici nell'area.
@@ -29,9 +29,9 @@ esperienza: "+7"
 soglia_danni: "Minore: 30 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morso Astrale / Artigli"
-    desc: "**+5** | Ravvicinata | **3d12+10** Perforante/Forza"
+    desc: "**+5** | Ravvicinata | **3d12+10** Perforante/Magico"
   - name: "Soffio Lunare / Esiliante"
-    desc: "**+5** | Area Lontana | **4d10+12** Forza/Freddo"
+    desc: "**+5** | Area Lontana | **4d10+12** Magico/Freddo"
 tratti:
   - name: "Atmosfera Lunare"
     desc: "*(Costo: 2 Paura)* Rimuove l'ossigeno in un'area Ravvicinata, soffocando le creature viventi."

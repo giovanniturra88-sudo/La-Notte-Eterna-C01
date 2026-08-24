@@ -14,7 +14,7 @@ type:
  * **Esplosione Ematica:** +3 | Area Ravvicinata | 2d10 Necrotico
 * **Tratti e Capacità:**
  * **Legame di Sangue:** Succhia la vitalità dei nemici feriti per ripristinare la propria integrità.
- * **Inviolabile:** Immune a paura, sonno e veleno.
+ * **Inviolabile:** Immune alla paura, sonno e veleno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -36,5 +36,5 @@ tratti:
   - name: "Legame di Sangue"
     desc: "Succhia la vitalità dei nemici feriti per ripristinare la propria integrità."
   - name: "Inviolabile"
-    desc: "Immune a paura, sonno e veleno."
+    desc: "Immune alla paura, sonno e veleno."
 ```

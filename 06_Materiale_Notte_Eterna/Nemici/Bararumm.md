@@ -11,9 +11,9 @@ type:
 * **Punti Ferita:** 4 | **Stress:** 3
 * **Attacchi:**
  * **Incornata:** +2 | Ravvicinata | 1d10+3 Perforante
- * **Pestone:** +2 | Ravvicinata (su bersaglio prono) | 2d6+2 Contundente
+ * **Pestone:** +2 | Ravvicinata (su bersaglio a terra) | 2d6+2 Contundente
 * **Tratti e Capacità:**
- * **Sense Radar:** Possiede Vista Cieca entro media distanza basata sull'udito. Se Assordato, perde la capacità di individuare i bersagli non adiacenti.
+ * **Sense Radar:** Possiede Vista Cieca entro portata Lontana basata sull'udito. Se assordato, perde la capacità di individuare i bersagli non adiacenti.
  * **Carica Travolgente:** Se si muove in linea retta prima dell'attacco, infligge +1d6 danni e atterra il bersaglio.
 
 ```statblock
@@ -31,10 +31,10 @@ attacchi:
   - name: "Incornata"
     desc: "**+2** | Ravvicinata | **1d10+3** Perforante"
   - name: "Pestone"
-    desc: "**+2** | Ravvicinata (su bersaglio prono) | **2d6+2** Contundente"
+    desc: "**+2** | Ravvicinata (su bersaglio a terra) | **2d6+2** Contundente"
 tratti:
   - name: "Sense Radar"
-    desc: "Possiede Vista Cieca entro media distanza basata sull'udito. Se Assordato, perde la capacità di individuare i bersagli non adiacenti."
+    desc: "Possiede Vista Cieca entro portata Lontana basata sull'udito. Se assordato, perde la capacità di individuare i bersagli non adiacenti."
   - name: "Carica Travolgente"
     desc: "Se si muove in linea retta prima dell'attacco, infligge +1d6 danni e atterra il bersaglio."
 ```

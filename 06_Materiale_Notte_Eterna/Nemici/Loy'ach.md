@@ -3,7 +3,6 @@ type:
  - "[[Creatura]]"
  - "[[Standard]]"
 ---
-![[Pasted image 20260805185428.png|700]]
 ## Loy'ach
 * **Descrizione:** Orribili mastini demoniaci ombra evocati per dare la caccia agli eroi, usati originariamente da [[Najestarr]].
 * **Rango:** 2 (Cacciatore)

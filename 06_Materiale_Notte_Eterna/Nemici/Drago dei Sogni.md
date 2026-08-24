@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 10 | **Stress:** 9
 * **Attacchi:**
  * **Zanna e Artiglio Onirico:** +5 | Ravvicinata | 3d10+10 Perforante/Acido
- * **Soffio Addormentante / Acido:** +4 | Cono Lontano | 3d12+8 Acido / Stato Sonno Magico
+ * **Soffio Addormentante / Acido:** +4 | Area Lontana | 3d12+8 Acido / addormentato (sonno magico)
 * **Tratti e Capacità:**
  * **Dominare i Sogni (2 Paura):** Entra nella mente dei bersagli modificando l'ambiente e la realtà percepita.
  * **Individuazione dei Pensieri:** Anticipa le mosse degli avversari fornendosi vantaggio alle difese.
@@ -31,7 +31,7 @@ attacchi:
   - name: "Zanna e Artiglio Onirico"
     desc: "**+5** | Ravvicinata | **3d10+10** Perforante/Acido"
   - name: "Soffio Addormentante / Acido"
-    desc: "**+4** | Cono Lontano | **3d12+8** Acido / Stato Sonno Magico"
+    desc: "**+4** | Area Lontana | **3d12+8** Acido / addormentato (sonno magico)"
 tratti:
   - name: "Dominare i Sogni"
     desc: "*(Costo: 2 Paura)* Entra nella mente dei bersagli modificando l'ambiente e la realtà percepita."

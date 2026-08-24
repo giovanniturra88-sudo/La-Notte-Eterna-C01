@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 5 | **Stress:** 5
 * **Attacchi:**
  * **Tocco Fungino:** +3 | Ravvicinata | 2d6+4 Veleno
- * **Nube di Spore:** +3 | Area Ravvicinata | 2d8 Veleno + Stato Allucinato/Avvelenato
+ * **Nube di Spore:** +3 | Area Ravvicinata | 2d8 Veleno + allucinato o avvelenato
 * **Tratti e Capacità:**
  * **Esplosione alla Morte:** Quando sconfitto, esplode rilasciando una nube tossica a corto raggio.
 
@@ -30,7 +30,7 @@ attacchi:
   - name: "Tocco Fungino"
     desc: "**+3** | Ravvicinata | **2d6+4** Veleno"
   - name: "Nube di Spore"
-    desc: "**+3** | Area Ravvicinata | **2d8** Veleno + Stato Allucinato/Avvelenato"
+    desc: "**+3** | Area Ravvicinata | **2d8** Veleno + allucinato o avvelenato"
 tratti:
   - name: "Esplosione alla Morte"
     desc: "Quando sconfitto, esplode rilasciando una nube tossica a corto raggio."

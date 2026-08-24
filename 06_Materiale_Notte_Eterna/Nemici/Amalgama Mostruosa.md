@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 6 | **Stress:** 3
 * **Attacchi:**
  * **Incornata / Morso Multiplo:** +3 | Ravvicinata | 2d8+6 Fisico
- * **Carica Caotica:** +2 | Media distanza | 2d10+4 Contundente
+ * **Carica Caotica:** +2 | Lontana | 2d10+4 Contundente
 * **Tratti e Capacità:**
  * **Mutazione del Caos:** All'inizio dell'incontro, tira 1d6: 1-2 Carapace (+2 Difficoltà), 3-4 Veleno (aggiunge 1d6 danno da Veleno), 5-6 Ali/Volante.
 * **Corpo Imponente:** Vantaggio sulle prove per buttare a terra o spingere gli avversari.
@@ -31,7 +31,7 @@ attacchi:
   - name: "Incornata / Morso Multiplo"
     desc: "**+3** | Ravvicinata | **2d8+6** Fisico"
   - name: "Carica Caotica"
-    desc: "**+2** | Media distanza | **2d10+4** Contundente"
+    desc: "**+2** | Lontana | **2d10+4** Contundente"
 tratti:
   - name: "Mutazione del Caos"
     desc: "All'inizio dell'incontro, tira 1d6: 1-2 Carapace (+2 Difficoltà), 3-4 Veleno (aggiunge 1d6 danno da Veleno), 5-6 Ali/Volante."

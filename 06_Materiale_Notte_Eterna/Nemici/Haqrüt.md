@@ -12,7 +12,7 @@ type:
 * **Attacchi:**
  * **Artigli della Cenere:** +3 | Ravvicinata | 2d8+5 Tagliente
 * **Tratti e Capacità:**
- * **Scatto Predatorio:** Può coprire la distanza Media in un istante per cogliere la preda di sorpresa.
+ * **Scatto Predatorio:** Può coprire la distanza Lontana in un istante per cogliere la preda di sorpresa.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -30,5 +30,5 @@ attacchi:
     desc: "**+3** | Ravvicinata | **2d8+5** Tagliente"
 tratti:
   - name: "Scatto Predatorio"
-    desc: "Può coprire la distanza Media in un istante per cogliere la preda di sorpresa."
+    desc: "Può coprire la distanza Lontana in un istante per cogliere la preda di sorpresa."
 ```
