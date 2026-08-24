@@ -27,4 +27,4 @@ Puoi brandire più armi con spaventosa naturalezza. Quando hai successo in un at
 
 ## Caratteristica di Maestria (Mastery)
 **Preparazione Marziale (Martial Preparation):**
-Insegni e addestri i tuoi compagni. Il gruppo acquisisce l'accesso alla mossa di downtime **Preparazione Marziale** durante i riposi. Quando la scegliete, descrivi come vi addestrate insieme: tu e ciascun alleato che partecipa guadagnate un Dado dello Sterminatore d6, spendibile per aggiungerlo a un tiro di attacco o di danno a scelta.
+Insegni e addestri i tuoi compagni. Il gruppo acquisisce l'accesso alla mossa di tempo libero **Preparazione Marziale** durante i riposi. Quando la scegliete, descrivi come vi addestrate insieme: tu e ciascun alleato che partecipa guadagnate un Dado dello Sterminatore d6, spendibile per aggiungerlo a un tiro di attacco o di danno a scelta.

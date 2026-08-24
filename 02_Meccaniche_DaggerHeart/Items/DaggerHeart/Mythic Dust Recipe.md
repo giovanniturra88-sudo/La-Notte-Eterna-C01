@@ -7,4 +7,4 @@ type:
 
 **_Item_**
 
-Come mossa di tempi morti, puoi usare una manciata di polvere d'oro fine per creare Polvere Mistica.
+Come mossa di tempo libero, puoi usare una manciata di polvere d'oro fine per creare Polvere Mistica.

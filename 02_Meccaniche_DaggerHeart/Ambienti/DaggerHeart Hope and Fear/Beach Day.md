@@ -13,7 +13,7 @@ type:
 
 ### CARATTERISTICHE
 
-**_Riposo e Relax - Passiva:** Il gruppo si trova in un luogo dove le preoccupazioni e i conflitti del mondo esterno si dissolvono. Quando i PG si riposano qui, ottengono una mossa di downtime aggiuntiva, il GM non ottiene Paura e nessun conto alla rovescia a lungo termine avanza. _Cosa c'è di così rilassante in questo posto? Ti ricorda un luogo in cui sei già stato?_
+**_Riposo e Relax - Passiva:** Il gruppo si trova in un luogo dove le preoccupazioni e i conflitti del mondo esterno si dissolvono. Quando i PG si riposano qui, ottengono una mossa di tempo libero aggiuntiva, il GM non ottiene Paura e nessun conto alla rovescia a lungo termine avanza. _Cosa c'è di così rilassante in questo posto? Ti ricorda un luogo in cui sei già stato?_
 
 **_"La nostra storia finora..." - Passiva:** Una volta per scena, quando un PG racconta un momento memorabile della campagna conversando con un altro PG, entrambi ottengono una Speranza. _Quali suoni, odori o sensazioni evoca quel ricordo nella tua mente? In che modo quel momento ti ha cambiato in modo permanente — o ha cambiato la tua opinione sul tuo compagno?_
 

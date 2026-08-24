@@ -7,4 +7,4 @@ type:
 
 **_Item_**
 
-Durante i tempi morti, elimini automaticamente uno Stress.
+Durante il tempo libero, elimini automaticamente uno Stress.

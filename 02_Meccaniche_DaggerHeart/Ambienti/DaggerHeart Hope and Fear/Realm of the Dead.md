@@ -15,7 +15,7 @@ type:
 
 **_Mare di Desolazione - Passiva:** Questo reame è un oceano d'argento sconfinato avvolto da un'oscurità grigia, senza stelle né orizzonte visibili. La corrente sottile tira inesorabilmente le gambe dei PG, ma è troppo delicata per turbare la superficie piatta e specchiata dell'acqua. I tiri d'azione per attraversare questo reame subiscono svantaggio. _Quali pericoli si nascondono sotto la superficie? Come si trova il confine di un mondo senza fine, e cosa si trova al di là di esso?_
 
-**_Il Fardello della Veglia - Passiva:** Qui è impossibile dormire. Quando il gruppo si riposa, ogni PG può scegliere solo una mossa di downtime. _Quali pensieri tengono svegli i PG qui? Come possono sostenersi a vicenda senza soccombere alla disperazione essi stessi?_
+**_Il Fardello della Veglia - Passiva:** Qui è impossibile dormire. Quando il gruppo si riposa, ogni PG può scegliere solo una mossa di tempo libero. _Quali pensieri tengono svegli i PG qui? Come possono sostenersi a vicenda senza soccombere alla disperazione essi stessi?_
 
 **_Abitanti Toccati dalla Morte - Passiva:** Tutte le creature mortali prima o poi attraversano questo luogo nel loro viaggio verso l'altro mondo, ma coloro che si soffermano o vagano vengono deformati e mutati dall'oscurità. Qualsiasi avversario che il gruppo incontra qui è Svanito. Descrivi come il tempo trascorso qui li ha deformati in qualcosa di peggiore della morte. Quando un PG subisce danni da un attacco di un avversario Svanito, deve anche segnare uno Stress. Se un PG viene sconfitto qui, diventa un avversario Svanito controllato dal GM invece di effettuare una Mossa finale. _Perché queste creature rifiutano di andare oltre? C'è uno schema nelle forme in cui l'oscurità li fa svanire?_
 

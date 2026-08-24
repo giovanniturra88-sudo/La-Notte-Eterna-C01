@@ -17,18 +17,18 @@ Paladini votati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da 
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Come azione, spendi 2 Speranza per marchiare un avversario entro portata Ravvicinata. I tuoi attacchi contro di esso infliggono +1d6 danni magici radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
+**_Marchio di Laon:_** Come azione, spendi 2 Speranze per marchiare un avversario entro portata Ravvicinata. I tuoi attacchi contro di esso infliggono +1d6 danni magici radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
 
 ---
 
 ### Specializzazione
-**_Sentinella Eterna:_** Una volta per riposo lungo, quando vieni ridotto a 0 Punti Ferita, puoi spendere 1 Speranza (invece di svenire o effettuare una mossa di morte) per rimanere a 1 Punto Ferita ed effettuare immediatamente un attacco di mischia.
+**_Sentinella Eterna:_** Una volta per riposo lungo, quando vieni ridotto a 0 Punti Ferita, puoi spendere 1 Speranza (invece di svenire o effettuare la Mossa finale) per rimanere a 1 Punto Ferita ed effettuare immediatamente un attacco di mischia.
 **_Sacra Ira:_** I tuoi attacchi con arma infliggono +1d8 danni extra quando hai almeno 4 Stress marcati.
 
 ---
 
 ### Maestria
-**_Araldo dell'Ultima Luce:_** Una volta per riposo lungo, spendendo 3 Speranza, ti trasformi in un campione alato di Laon per la durata della scena. Ottieni velocità di volo pari a 12 m, emani luce intensa che infligge svantaggio ai non morti, e tutti i tuoi attacchi infliggono +1d10 danni magici radianti extra.
+**_Araldo dell'Ultima Luce:_** Una volta per riposo lungo, spendendo 3 Speranze, ti trasformi in un campione alato di Laon per la durata della scena. Ottieni velocità di volo pari a 12 m, emani luce intensa che infligge svantaggio ai non morti, e tutti i tuoi attacchi infliggono +1d10 danni magici radianti extra.
 
 ---
 

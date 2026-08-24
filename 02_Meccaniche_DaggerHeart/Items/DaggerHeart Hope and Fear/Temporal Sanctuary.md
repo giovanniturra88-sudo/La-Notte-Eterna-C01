@@ -9,4 +9,4 @@ roll: 50
 
 # Santuario Temporale
 
-Un PG che effettua un riposo nel santuario temporale può scegliere una mossa di tempi morti aggiuntiva.
+Un PG che effettua un riposo nel santuario temporale può scegliere una mossa di tempo libero aggiuntiva.

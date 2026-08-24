@@ -9,4 +9,4 @@ roll: 47
 
 # Ciondolo del Cronometrista
 
-Puoi scegliere una mossa di tempi morti aggiuntiva a ogni riposo.
+Puoi scegliere una mossa di tempo libero aggiuntiva a ogni riposo.

@@ -29,7 +29,7 @@ Dopo aver effettuato un tiro d'azione per impressionare, persuadere o offendere 
 Le tue parole commoventi sollevano il morale. Una volta per sessione, quando incoraggi un alleato, puoi fare una delle seguenti cose:
 * Consentirgli di trovare un oggetto o uno strumento comune di cui ha bisogno.
 * Aiutare un Alleato (*Help an Ally*) senza spendere Speranza.
-* Concedergli una mossa di downtime aggiuntiva durante il suo prossimo riposo.
+* Concedergli una mossa di tempo libero aggiuntiva durante il suo prossimo riposo.
 
 ## Caratteristica di Maestria (Mastery)
 **Poesia Epica (Epic Poetry):**

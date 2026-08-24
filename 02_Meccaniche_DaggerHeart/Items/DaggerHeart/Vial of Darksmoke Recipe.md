@@ -7,4 +7,4 @@ type:
 
 **_Item_**
 
-Come mossa di tempi morti, puoi segnare uno Stress per creare una Fiala di Fumo Oscuro.
+Come mossa di tempo libero, puoi segnare uno Stress per creare una Fiala di Fumo Oscuro.
