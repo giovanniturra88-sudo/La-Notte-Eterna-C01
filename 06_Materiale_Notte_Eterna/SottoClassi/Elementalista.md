@@ -4,8 +4,8 @@ classe:
  - "[[Sorcerer]]"
 spellcast_trait: Istinto (Instinct)
 Dominio:
- - "[[Arcana]]"
- - "[[MezzaNotte]]"
+ - "[[Arcano]]"
+ - "[[Mezzanotte]]"
 source: La Notte Eterna
 location:
  - "[[Cenere di Lanie]]"

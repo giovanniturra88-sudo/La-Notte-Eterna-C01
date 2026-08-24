@@ -24,7 +24,7 @@ ruolo: "Picchiatore / Assedio"
 difficolta: "16"
 hp: "8"
 stress: "3"
-esperienza: "+4"
+esperienza: "Enorme +4"
 soglia_danni: "Minore: 18 | Maggiore: 35 | Grave: 42"
 attacchi:
   - name: "Zannata Imponente"

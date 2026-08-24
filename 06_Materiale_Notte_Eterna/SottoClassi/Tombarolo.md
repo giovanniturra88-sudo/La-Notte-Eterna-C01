@@ -3,7 +3,7 @@ type: Sottoclasse
 classe:
  - "[[Rogue]]"
 Dominio:
- - "[[MezzaNotte]]"
+ - "[[Mezzanotte]]"
  - "[[Grazia]]"
 spellcast_trait: Astuzia
 source: La Notte Eterna

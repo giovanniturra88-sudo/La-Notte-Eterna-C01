@@ -21,7 +21,7 @@ ruolo: "Solo / Avversario"
 difficolta: "21"
 hp: "11"
 stress: "8"
-esperienza: "+6"
+esperienza: "Ombra +6"
 soglia_danni: "Minore: 28 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Schianto d'Ombra"

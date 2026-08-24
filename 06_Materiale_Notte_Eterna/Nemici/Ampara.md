@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Sociale]]"
+ - "[[Ambiente]]"
 ---
 ## Ampara
 * **Descrizione:** Piccola tartaruga acquatica ultra-longeva dal guscio simile a una pietra levigata del fiume. Sacra ai druidi e ricercata dagli alchimisti.
@@ -24,7 +24,7 @@ ruolo: "Ambiente / Innocuo"
 difficolta: "10"
 hp: "2"
 stress: "2"
-esperienza: "+0"
+esperienza: "Acqua +0"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
   - name: "Piccolo Morso"

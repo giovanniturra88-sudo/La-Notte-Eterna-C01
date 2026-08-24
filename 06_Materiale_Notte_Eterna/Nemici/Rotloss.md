@@ -21,7 +21,7 @@ ruolo: "Minion"
 difficolta: "11"
 hp: "3"
 stress: "2"
-esperienza: "+2"
+esperienza: "Putrefazione +2"
 soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 15"
 attacchi:
   - name: "Artigli Marci"

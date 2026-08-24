@@ -26,7 +26,7 @@ ruolo: "Solo / Avversario Mitico"
 difficolta: "21"
 hp: "12"
 stress: "10"
-esperienza: "+8"
+esperienza: "Stelle +8"
 soglia_danni: "Minore: 35 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morso e Artigli Divini"

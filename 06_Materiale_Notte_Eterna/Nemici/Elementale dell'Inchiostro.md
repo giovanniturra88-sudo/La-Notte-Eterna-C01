@@ -25,7 +25,7 @@ ruolo: "Picchiatore / Speciale"
 difficolta: "14"
 hp: "5"
 stress: "4"
-esperienza: "+3"
+esperienza: "Conoscenza +3"
 soglia_danni: "Minore: 10 | Maggiore: 17 | Grave: 28"
 attacchi:
   - name: "Schianto Vischioso"

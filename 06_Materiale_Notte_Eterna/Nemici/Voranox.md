@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Capo]]"
+ - "[[Furtivo]]"
 ---
 ## Voranox
 * **Descrizione:** Bestia velenosa alata dal corpo serpentiforme e fauci cariche di tossine corrosive.
@@ -21,7 +21,7 @@ ruolo: "Furtivo / Avversario"
 difficolta: "17"
 hp: "6"
 stress: "5"
-esperienza: "+4"
+esperienza: "Veleno +4"
 soglia_danni: "Minore: 14 | Maggiore: 28 | Grave: 44"
 attacchi:
   - name: "Zanna Pestilenziale"

@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Nâtsik
 * **Descrizione:** Creatura rettiliana anfibia che caccia nelle paludi e lungo i fiumi sommersi di Neir.
@@ -23,7 +23,7 @@ ruolo: "Furtivo"
 difficolta: "13"
 hp: "4"
 stress: "3"
-esperienza: "+3"
+esperienza: "Paludi +3"
 soglia_danni: "Minore: 7 | Maggiore: 14 | Grave: 22"
 attacchi:
   - name: "Morsicone Palustre"

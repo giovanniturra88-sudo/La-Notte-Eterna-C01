@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Supporto]]"
+ - "[[Furtivo]]"
 ---
 ## Hantu Loggok
 * **Descrizione:** Spettro maligno della foresta scaturito da un suicidio o omicidio cruento tra gli alberi-fungo.
@@ -24,7 +24,7 @@ ruolo: "Furtivo / Spettro"
 difficolta: "14"
 hp: "4"
 stress: "5"
-esperienza: "+3"
+esperienza: "Terrorizzare +3"
 soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 25"
 attacchi:
   - name: "Tocco Gelido dell'Anima"

@@ -4,7 +4,7 @@ classe:
  - "[[Assassin]]"
 Dominio:
  - "[[Lama]]"
- - "[[MezzaNotte]]"
+ - "[[Mezzanotte]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
 location:

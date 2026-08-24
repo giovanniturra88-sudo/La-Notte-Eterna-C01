@@ -1,7 +1,6 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
 ---
 ## Loy'ach
 * **Descrizione:** Orribili mastini demoniaci ombra evocati per dare la caccia agli eroi, usati originariamente da [[Najestarr]].
@@ -23,7 +22,7 @@ ruolo: "Cacciatore"
 difficolta: "14"
 hp: "4"
 stress: "4"
-esperienza: "+3"
+esperienza: "Cacciatore +3"
 soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 26"
 attacchi:
   - name: "Morso delle Ombre"

@@ -4,7 +4,7 @@ classe:
  - "[[Witch]]"
 spellcast_trait: Conoscenza
 Dominio:
- - "[[Saggio]]"
+ - "[[Saggezza]]"
  - "[[Terrore]]"
 source: La Notte Eterna
 location:

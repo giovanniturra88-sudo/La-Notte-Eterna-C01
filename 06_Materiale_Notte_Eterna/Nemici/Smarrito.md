@@ -21,7 +21,7 @@ ruolo: "Minion"
 difficolta: "11"
 hp: "2"
 stress: "3"
-esperienza: "+2"
+esperienza: "Spettrale +2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 12"
 attacchi:
   - name: "Tocco Desolato"

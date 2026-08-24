@@ -10,7 +10,7 @@ type:
 * **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 11
 * **Punti Ferita:** 3 | **Stress:** 2
 * **Attacchi:**
- * **Tridente Spinato:** +2 | Ravvicinata/Media | 1d8+3 Perforante
+ * **Tridente Spinato:** +2 | Ravvicinata/Lontana | 1d8+3 Perforante
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -21,9 +21,9 @@ ruolo: "Minion / Furtivo"
 difficolta: "12"
 hp: "3"
 stress: "2"
-esperienza: "+2"
+esperienza: "Acqua +2"
 soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 11"
 attacchi:
   - name: "Tridente Spinato"
-    desc: "**+2** | Ravvicinata/Media | **1d8+3** Perforante"
+    desc: "**+2** | Ravvicinata/Lontana | **1d8+3** Perforante"
 ```

@@ -23,7 +23,7 @@ ruolo: "Sociale / Controllore"
 difficolta: "15"
 hp: "4"
 stress: "5"
-esperienza: "+3"
+esperienza: "Discordia +3"
 soglia_danni: "Minore: 7 | Maggiore: 14 | Grave: 22"
 attacchi:
   - name: "Sguardo di Discordia"

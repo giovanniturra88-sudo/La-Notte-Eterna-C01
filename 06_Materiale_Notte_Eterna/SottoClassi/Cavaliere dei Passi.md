@@ -4,7 +4,7 @@ classe:
  - "[[Ranger]]"
 Dominio:
  - "[[Ossa]]"
- - "[[Saggio]]"
+ - "[[Saggezza]]"
 spellcast_trait: Istinto
 source: La Notte Eterna
 location:

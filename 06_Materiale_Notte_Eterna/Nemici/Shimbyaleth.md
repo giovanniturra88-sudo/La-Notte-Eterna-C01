@@ -23,7 +23,7 @@ ruolo: "Solo / Avversario"
 difficolta: "20"
 hp: "10"
 stress: "8"
-esperienza: "+5"
+esperienza: "Abisso +5"
 soglia_danni: "Minore: 25 | Maggiore: 48 | Grave: 80"
 attacchi:
   - name: "Sferzata Tentacolare"

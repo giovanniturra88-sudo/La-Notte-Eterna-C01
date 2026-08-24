@@ -4,8 +4,8 @@ classe:
  - "[[Druid]]"
 spellcast_trait: Istinto
 Dominio:
- - "[[Saggio]]"
- - "[[Arcana]]"
+ - "[[Saggezza]]"
+ - "[[Arcano]]"
 source: La Notte Eterna
 location:
  - "[[Landa di Edeber]]"

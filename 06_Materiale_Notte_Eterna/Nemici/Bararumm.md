@@ -25,7 +25,7 @@ ruolo: "Picchiatore / Caccia"
 difficolta: "12"
 hp: "4"
 stress: "3"
-esperienza: "+2"
+esperienza: "Sensi del Tremore +2"
 soglia_danni: "Minore: 6 | Maggiore: 9 | Grave: 17"
 attacchi:
   - name: "Incornata"

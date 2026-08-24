@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Supporto]]"
+ - "[[Furtivo]]"
 ---
 ## Choptok
 * **Descrizione:** Piccolo folletto acquatico con il volto da pesce gatto, ossessionato dall'oro e ricoperto di vestiti fatti di foglie.
@@ -25,7 +25,7 @@ ruolo: "Furtivo / Supporto"
 difficolta: "13"
 hp: "3"
 stress: "3"
-esperienza: "+2"
+esperienza: "Oro +2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
   - name: "Spada Lunga Minuscola"

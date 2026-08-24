@@ -3,8 +3,8 @@ type: Sottoclasse
 classe:
  - "[[Sorcerer]]"
 Dominio:
- - "[[Arcana]]"
- - "[[MezzaNotte]]"
+ - "[[Arcano]]"
+ - "[[Mezzanotte]]"
 spellcast_trait: Conoscenza (Knowledge)
 source: La Notte Eterna
 location:

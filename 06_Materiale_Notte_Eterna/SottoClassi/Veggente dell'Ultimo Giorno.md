@@ -3,8 +3,8 @@ type: Sottoclasse
 classe:
  - "[[Cacciatore delle Ombre]]"
 Dominio:
- - "[[MezzaNotte]]"
- - "[[Saggio]]"
+ - "[[Mezzanotte]]"
+ - "[[Saggezza]]"
 spellcast_trait: Istinto (Instinct)
 source: La Notte Eterna
 location:

@@ -23,7 +23,7 @@ ruolo: "Picchiatore"
 difficolta: "15"
 hp: "6"
 stress: "3"
-esperienza: "+3"
+esperienza: "Scavo +3"
 soglia_danni: "Minore: 11 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Chela Gigante"

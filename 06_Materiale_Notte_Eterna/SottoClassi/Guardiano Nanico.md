@@ -5,7 +5,7 @@ classe:
 spellcast_trait: Istinto (Instinct)
 Dominio:
  - "[[Ossa]]"
- - "[[Saggio]]"
+ - "[[Saggezza]]"
 location: "[[Valle Nuvolosa]]"
 source: La Notte Eterna
 ---

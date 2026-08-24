@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Impundulu (Uccello del Fulmine)
 * **Descrizione:** Creatura mitologica simile a un enorme rapace in grado di evocare fulmini e trasformarsi in forma umana.
@@ -24,7 +24,7 @@ ruolo: "Furtivo / Elementale"
 difficolta: "17"
 hp: "5"
 stress: "5"
-esperienza: "+4"
+esperienza: "Fulmini +4"
 soglia_danni: "Minore: 12 | Maggiore: 24 | Grave: 38"
 attacchi:
   - name: "Artigli Elettrici"

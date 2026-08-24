@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Supporto]]"
+ - "[[Furtivo]]"
 ---
 ## Elementale del Buio
 * **Descrizione:** Ombra gigantesca e amorfa originaria di Hadaknaton, che assorbe la luce e riduce ogni forma di vita al nulla.
@@ -25,7 +25,7 @@ ruolo: "Furtivo / Controllore"
 difficolta: "15"
 hp: "5"
 stress: "4"
-esperienza: "+3"
+esperienza: "Buio +3"
 soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 28"
 attacchi:
   - name: "Sferzata d'Ombra"

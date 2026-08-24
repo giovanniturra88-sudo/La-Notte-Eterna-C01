@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Haqrüt
 * **Descrizione:** Bestia predatrice delle desolate brughiere di Cenere, cacciatore implacabile e solitario.
@@ -23,7 +23,7 @@ ruolo: "Furtivo"
 difficolta: "14"
 hp: "5"
 stress: "3"
-esperienza: "+3"
+esperienza: "Predatore +3"
 soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 27"
 attacchi:
   - name: "Artigli della Cenere"

@@ -1,7 +1,6 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Supporto]]"
 ---
 ## Elementale delle Spore
 * **Descrizione:** Abominio vegetale composto da spore tossiche e miceli bioluminescenti delle Terre Nascoste.
@@ -24,7 +23,7 @@ ruolo: "Controllore / Veleno"
 difficolta: "14"
 hp: "5"
 stress: "5"
-esperienza: "+3"
+esperienza: "Veleno +3"
 soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 27"
 attacchi:
   - name: "Tocco Fungino"

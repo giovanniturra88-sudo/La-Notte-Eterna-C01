@@ -1,7 +1,6 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
 ---
 ## Berberoka
 * **Descrizione:** Ammasso intelligente di alghe lacustri/marine con linfa bluastra luminescente che cattura e trascina le prede negli abissi.
@@ -25,7 +24,7 @@ ruolo: "Controllore / Agguato"
 difficolta: "15"
 hp: "5"
 stress: "4"
-esperienza: "+3"
+esperienza: "Acqua +3"
 soglia_danni: "Minore: 9 | Maggiore: 14 | Grave: 28"
 attacchi:
   - name: "Frusta di Alghe"

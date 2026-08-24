@@ -1,7 +1,6 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Solo]]"
 ---
 ## Guardiano di Sangue
 * **Descrizione:** Costrutto o non-morto rituale animato dal sangue e dal sacrificio, guardiano irremovibile di cripte e reliquie.
@@ -25,7 +24,7 @@ ruolo: "Scelto / Difensore"
 difficolta: "17"
 hp: "6"
 stress: "5"
-esperienza: "+4"
+esperienza: "Sangue +4"
 soglia_danni: "Minore: 16 | Maggiore: 30 | Grave: 48"
 attacchi:
   - name: "Lama Ematica"

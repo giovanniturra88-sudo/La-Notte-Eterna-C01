@@ -25,7 +25,7 @@ ruolo: "Picchiatore / Difensore"
 difficolta: "16"
 hp: "7"
 stress: "4"
-esperienza: "+4"
+esperienza: "Funghi +4"
 soglia_danni: "Minore: 15 | Maggiore: 24 | Grave: 42"
 attacchi:
   - name: "Pugno di Tronco"

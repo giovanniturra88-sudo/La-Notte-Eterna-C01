@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Qal
 * **Descrizione:** Demone volatile d'ombra e piume scure che nidifica nelle rovine abbandonate.
@@ -21,7 +21,7 @@ ruolo: "Furtivo"
 difficolta: "12"
 hp: "3"
 stress: "2"
-esperienza: "+2"
+esperienza: "Ombra +2"
 soglia_danni: "Minore: 5 | Maggiore: 8 | Grave: 15"
 attacchi:
   - name: "Artigli d'Ombra"

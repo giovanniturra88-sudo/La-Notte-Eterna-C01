@@ -21,7 +21,7 @@ ruolo: "Picchiatore / Avversario"
 difficolta: "18"
 hp: "8"
 stress: "5"
-esperienza: "+4"
+esperienza: "Abissi +4"
 soglia_danni: "Minore: 20 | Maggiore: 35 | Grave: 42"
 attacchi:
   - name: "Mazza Primordiale"

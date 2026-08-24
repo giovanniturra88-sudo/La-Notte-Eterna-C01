@@ -25,7 +25,7 @@ ruolo: "Solo / Avversario"
 difficolta: "21"
 hp: "10"
 stress: "9"
-esperienza: "+6"
+esperienza: "Sogni +6"
 soglia_danni: "Minore: 28 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Zanna e Artiglio Onirico"

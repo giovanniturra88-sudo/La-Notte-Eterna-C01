@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Akamud
 * **Descrizione:** Aberrazione alata rettiliana proveniente dal Monte delle Anime Perdute, usata come cavalcatura da guerra rapida e letale.
@@ -25,7 +25,7 @@ ruolo: "Furtivo / Volante"
 difficolta: "14"
 hp: "5"
 stress: "4"
-esperienza: "+3"
+esperienza: "Volo +3"
 soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 26"
 attacchi:
   - name: "Artigli e Morso"

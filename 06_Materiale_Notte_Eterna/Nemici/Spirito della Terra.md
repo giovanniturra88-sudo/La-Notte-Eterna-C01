@@ -23,7 +23,7 @@ ruolo: "Supporto / Terreno"
 difficolta: "13"
 hp: "3"
 stress: "4"
-esperienza: "+3"
+esperienza: "Terra +3"
 soglia_danni: "Minore: 5 | Maggiore: 8 | Grave: 15"
 attacchi:
   - name: "Scossa di Terra"

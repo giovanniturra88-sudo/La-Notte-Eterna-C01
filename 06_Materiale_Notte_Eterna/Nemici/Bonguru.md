@@ -25,7 +25,7 @@ ruolo: "Picchiatore / Infettivo"
 difficolta: "14"
 hp: "6"
 stress: "4"
-esperienza: "+3"
+esperienza: "Veleno +3"
 soglia_danni: "Minore: 11 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Zanne Feroci"

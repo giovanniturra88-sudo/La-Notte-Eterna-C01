@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Kurna
 * **Descrizione:** Demone minore strisciante, stridulo e pestilenziale, inviato per diffondere morbi e disperazione.
@@ -23,7 +23,7 @@ ruolo: "Furtivo"
 difficolta: "12"
 hp: "4"
 stress: "3"
-esperienza: "+2"
+esperienza: "Pestilenza +2"
 soglia_danni: "Minore: 6 | Maggiore: 8 | Grave: 15"
 attacchi:
   - name: "Morso Appestato"

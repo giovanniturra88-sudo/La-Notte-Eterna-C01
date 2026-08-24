@@ -7,7 +7,7 @@ classe:
 spellcast_trait: Istinto (Instinct)
 Dominio:
  - "[[Ossa]]"
- - "[[Saggio]]"
+ - "[[Saggezza]]"
  - "[[Lama]]"
 source: La Notte Eterna
 location:

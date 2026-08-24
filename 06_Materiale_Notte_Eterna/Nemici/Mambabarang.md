@@ -24,7 +24,7 @@ ruolo: "Incantatore / Capo"
 difficolta: "16"
 hp: "5"
 stress: "6"
-esperienza: "+4"
+esperienza: "Maledizione +4"
 soglia_danni: "Minore: 10 | Maggiore: 20 | Grave: 32"
 attacchi:
   - name: "Bastone Maledetto"

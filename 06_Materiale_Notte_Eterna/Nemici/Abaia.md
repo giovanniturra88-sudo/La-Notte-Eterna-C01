@@ -4,6 +4,7 @@ type:
  - "[[Solo]]"
 aliases:
  - Il principe delle Anguille
+
 ---
 * **Descrizione:** Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche.
 * **Rango:** 4 (Solo / Avversario Leggendario)
@@ -28,7 +29,7 @@ ruolo: "Solo / Avversario Leggendario"
 difficolta: "21"
 hp: "12"
 stress: "8"
-esperienza: "+5"
+esperienza: "Mare Abissale +5"
 soglia_danni: "Minore: 25 | Maggiore: 48 | Grave: 70"
 attacchi:
   - name: "Morso della Murena / Artigli"

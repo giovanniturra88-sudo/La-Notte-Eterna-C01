@@ -25,7 +25,7 @@ ruolo: "Solo / Avversario Epico"
 difficolta: "21"
 hp: "12"
 stress: "10"
-esperienza: "+7"
+esperienza: "Luna +7"
 soglia_danni: "Minore: 30 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morso Astrale / Artigli"

@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Supporto]]"
+ - "[[Furtivo]]"
 ---
 ## Fungo Fauce
 * **Descrizione:** Pianta carnivora trappola mimetizzata tra la flora fungina con grandi fauci dentate radicate nel terreno.
@@ -24,7 +24,7 @@ ruolo: "Furtivo / Trappola"
 difficolta: "13"
 hp: "4"
 stress: "2"
-esperienza: "+2"
+esperienza: "Trappole +2"
 soglia_danni: "Minore: 6 | Maggiore: 8 | Grave: 15"
 attacchi:
   - name: "Morsicone Spinoso"

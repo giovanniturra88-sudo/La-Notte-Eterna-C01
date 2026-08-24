@@ -5,10 +5,10 @@ source: La Notte Eterna
 
 # Il Cacciatore delle Ombre
 
-Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte perenne di [[Neir]]. Unendo il dominio di [[MezzaNotte]] (che governa l'oscurità, l'occultamento e l'illusione) a quello del [[Saggio]] (che governa la natura, la sopravvivenza e l'istinto animale), questo Ranger diventa un predatore spettrale, invisibile tra i fitti alberi-fungo della Verde Foresta o nei cunicoli oscuri del Sottosuolo.
+Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte perenne di [[Neir]]. Unendo il dominio di [[Mezzanotte]] (che governa l'oscurità, l'occultamento e l'illusione) a quello del [[Saggezza]] (che governa la natura, la sopravvivenza e l'istinto animale), questo Ranger diventa un predatore spettrale, invisibile tra i fitti alberi-fungo della Verde Foresta o nei cunicoli oscuri del Sottosuolo.
 
 ---
-- **DOMINI -** [[MezzaNotte]] & [[Saggio]]
+- **DOMINI -** [[Mezzanotte]] & [[Saggezza]]
 - **EVASIONE INIZIALE -** 12
 - **Punti Ferita INIZIALI -** 6
 - **Stress INIZIALI -** 6

@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Vaïkas
 * **Descrizione:** Insettoide predatore dalle lunghe zampe affilate come lame, agile arrampicatore di pareti rocciose.
@@ -21,7 +21,7 @@ ruolo: "Furtivo"
 difficolta: "14"
 hp: "4"
 stress: "3"
-esperienza: "+3"
+esperienza: "Agilità +3"
 soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 25"
 attacchi:
   - name: "Lama di Zampa"

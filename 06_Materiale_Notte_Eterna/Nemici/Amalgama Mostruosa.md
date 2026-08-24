@@ -25,7 +25,7 @@ ruolo: "Picchiatore"
 difficolta: "13"
 hp: "6"
 stress: "3"
-esperienza: "+3"
+esperienza: "Magia +3"
 soglia_danni: "Minore: 10 | Maggiore: 17 | Grave: 32"
 attacchi:
   - name: "Incornata / Morso Multiplo"

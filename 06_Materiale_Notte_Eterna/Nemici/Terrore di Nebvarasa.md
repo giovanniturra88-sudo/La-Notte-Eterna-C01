@@ -1,7 +1,6 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Capo]]"
 ---
 ## Terrore di Nebvarasa
 * **Descrizione:** La quintessenza dell'incubo: mostruosità epica creata dai residui di magia della Guerra Celeste.
@@ -23,7 +22,7 @@ ruolo: "Avversario Mitico"
 difficolta: "21"
 hp: "12"
 stress: "10"
-esperienza: "+7"
+esperienza: "Incubo +7"
 soglia_danni: "Minore: 30 | Maggiore: 48 | Grave: 88"
 attacchi:
   - name: "Morsa Distruttiva"

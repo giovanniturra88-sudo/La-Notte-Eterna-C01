@@ -21,7 +21,7 @@ ruolo: "Picchiatore"
 difficolta: "15"
 hp: "5"
 stress: "3"
-esperienza: "+3"
+esperienza: "Veleno +3"
 soglia_danni: "Minore: 10 | Maggiore: 17 | Grave: 28"
 attacchi:
   - name: "Chele e Pungiglione"

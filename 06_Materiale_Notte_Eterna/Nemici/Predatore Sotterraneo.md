@@ -23,7 +23,7 @@ ruolo: "Picchiatore / Agguato"
 difficolta: "16"
 hp: "7"
 stress: "3"
-esperienza: "+4"
+esperienza: "Sensi del Tremore +4"
 soglia_danni: "Minore: 14 | Maggiore: 24 | Grave: 42"
 attacchi:
   - name: "Morso della Voragine"

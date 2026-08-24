@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Minion]]"
+ - "[[Furtivo]]"
 ---
 ## Pupazzo Diabolico
 * **Descrizione:** Costrutto animato da una maligna entità spirituale, apparentemente un giocattolo innocuo.
@@ -23,7 +23,7 @@ ruolo: "Furtivo"
 difficolta: "13"
 hp: "3"
 stress: "3"
-esperienza: "+2"
+esperienza: "Camuffamento +2"
 soglia_danni: "Minore: 4 | Maggiore: 8 | Grave: 14"
 attacchi:
   - name: "Bisturi / Stiletto"

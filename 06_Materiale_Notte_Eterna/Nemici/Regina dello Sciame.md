@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Solo]]"
+ - "[[Capo]]"
 ---
 ## Regina dello Sciame
 * **Descrizione:** Insetto titanico dominante che comanda legioni di parassiti e difende il proprio nido a costo della vita.
@@ -23,7 +23,7 @@ ruolo: "Capo / Solo"
 difficolta: "17"
 hp: "8"
 stress: "6"
-esperienza: "+4"
+esperienza: "Sciame +4"
 soglia_danni: "Minore: 16 | Maggiore: 30 | Grave: 50"
 attacchi:
   - name: "Pungiglione Acido"

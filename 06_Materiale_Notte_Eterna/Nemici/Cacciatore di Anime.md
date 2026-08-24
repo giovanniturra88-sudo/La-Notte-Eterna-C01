@@ -1,7 +1,7 @@
 ---
 type:
  - "[[Creatura]]"
- - "[[Standard]]"
+ - "[[Furtivo]]"
 ---
 ## Cacciatore di Anime
 * **Descrizione:** Non-morto alato agile e spietato, creato dai necromanti xaan per cacciare ed estrarre le anime di viventi e spettri.
@@ -25,7 +25,7 @@ ruolo: "Furtivo / Nemico Scelto"
 difficolta: "17"
 hp: "6"
 stress: "5"
-esperienza: "+4"
+esperienza: "Cacciatore +4"
 soglia_danni: "Minore: 14 | Maggiore: 24 | Grave: 42"
 attacchi:
   - name: "Risucchiare Vita"

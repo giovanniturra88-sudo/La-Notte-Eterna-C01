@@ -23,7 +23,7 @@ ruolo: "Minion / Orda"
 difficolta: "12"
 hp: "3"
 stress: "2"
-esperienza: "+2"
+esperienza: "Buio +2"
 soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 11"
 attacchi:
   - name: "Picco / Pugnale arrugginito"
