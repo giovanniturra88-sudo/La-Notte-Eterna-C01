@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Eseguiteli! - Azione:** **Spendere una Paura** per un PG nel gruppo per far sì che il gruppo venga condannato per crimini reali o immaginari. Un PG che supera un Tiro di Presenza può chiedere un processo in combattimento o un'altra forma speciale di giudizio.
  * **Corte Reale - Azione:** Una volta per scena, **Segnare uno Stress** per evocare sei Servitori di Rango 3, che appaiono in portata Ravvicinata per far rispettare la volontà del Monarca.
- * **Casus Belli - Reazione: Conto alla Rovina (8):** **Spendere una Paura** per attivare dopo che il desiderio di guerra del Monarca è stato rivelato per la prima volta. Quando scatta, il Monarca ha una ragione per radunare la nazione in guerra e il sostegno per agire su questa ragione. Guadagni **1d4** Paura.
+ * **Casus Belli - Reazione: Conto alla rovescia (8):** **Spendere una Paura** per attivare dopo che il desiderio di guerra del Monarca è stato rivelato per la prima volta. Quando scatta, il Monarca ha una ragione per radunare la nazione in guerra e il sostegno per agire su questa ragione. Guadagni **1d4** Paura.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,5 +38,5 @@ capacita_speciali:
   - name: "Corte Reale"
     desc: "*- Azione:* Una volta per scena, Segnare uno Stress per evocare sei Servitori di Rango 3, che appaiono in portata Ravvicinata per far rispettare la volontà del Monarca."
   - name: "Casus Belli"
-    desc: "*- Reazione: Conto alla Rovina (8):* Spendere una Paura per attivare dopo che il desiderio di guerra del Monarca è stato rivelato per la prima volta. Quando scatta, il Monarca ha una ragione per radunare la nazione in guerra e il sostegno per agire su questa ragione. Guadagni 1d4 Paura."
+    desc: "*- Reazione: Conto alla rovescia (8):* Spendere una Paura per attivare dopo che il desiderio di guerra del Monarca è stato rivelato per la prima volta. Quando scatta, il Monarca ha una ragione per radunare la nazione in guerra e il sostegno per agire su questa ragione. Guadagni 1d4 Paura."
 ```

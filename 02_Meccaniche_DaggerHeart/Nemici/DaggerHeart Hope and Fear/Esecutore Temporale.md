@@ -17,7 +17,7 @@ aliases:
  * **Martello di Adamantio:** +4 | Prossima | 40 fisico diretto
 * **Tratti e Capacità:**
  * **Inesorabile (2) - Passiva:** L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
- * **Loop Temporale - Passiva:** Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi.
+ * **Loop Temporale - Passiva:** Conto alla rovescia (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi.
  * **Muoversi tra i Momenti - Azione:** Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Remota, poi mettilo a fuoco di nuovo.
  * **Riavvolgimento Istantaneo - Reazione:** Quando l'Esecutore fallisce un attacco, puoi spendere una Paura per rilanciare il dado.
  * **Invertire la Polarità - Reazione:** Fino a tre volte per scena, puoi spendere una Paura per ribaltare qualsiasi dado lanciato sul suo risultato dritto. Questo effetto non può essere usato per alterare un successo critico.
@@ -40,7 +40,7 @@ tratti:
   - name: "Inesorabile (2)"
     desc: "*- Passiva:* L'Esecutore può essere messo a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
   - name: "Loop Temporale"
-    desc: "*- Passiva:* Conto alla Rovina (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi."
+    desc: "*- Passiva:* Conto alla rovescia (Loop 2d6). Quando l'Esecutore appare per la prima volta, attiva il conto alla rovina. Si riduce quando l'Esecutore viene messo a fuoco. Quando scatta, l'Esecutore rimuove tutti i PF, lo Stress e le condizioni. Rilancia il conto alla rovina quando l'Esecutore subisce danni Gravi."
 capacita_speciali:
   - name: "Muoversi tra i Momenti"
     desc: "*- Azione:* Segnare uno Stress per far teletrasportare l'Esecutore a un punto entro portata Remota, poi mettilo a fuoco di nuovo."

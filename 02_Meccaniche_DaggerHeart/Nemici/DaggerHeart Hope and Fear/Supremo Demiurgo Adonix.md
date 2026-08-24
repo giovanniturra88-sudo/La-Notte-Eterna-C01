@@ -23,7 +23,7 @@ aliases:
  3. **Fulmine.** Effettua un attacco contro un bersaglio entro portata Remota, infliggendo 4d8 danni magici in caso di successo. Se tutti i risultati sono pari, effettua lo stesso attacco contro un bersaglio diverso, ripetendo il ciclo finché non tiri un risultato dispari o finisci i bersagli.
  4. **Tempesta di Ghiaccio.** Ogni PG entro portata Ravvicinata deve superare un Tiro di Reazione di Forza o segnare 1d4 Stress e diventare *Trattenuto* finché non spende una Speranza per fuggire.
  * **Alfa a Omega - Evoluzione:** Quando Adonix viene sconfitto, risorge in forma Omega con tutti i PF e lo Stress rimossi. Ogni PG entro portata Remota deve superare un Tiro di Reazione di Presenza o perdere una Speranza. Guadagni una Paura per ogni Speranza persa in questo modo. Adonix guadagna i seguenti tratti in questa forma:
- * **Abbandonato - Azione:** Spendere una Paura per scegliere un PG e attivare un Conto alla Rovina dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla Rovina dell'Abbandono attivo alla volta.
+ * **Abbandonato - Azione:** Spendere una Paura per scegliere un PG e attivare un Conto alla rovescia dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla rovescia dell'Abbandono attivo alla volta.
  * **Armageddon - Reazione:** Quando Adonix viene di nuovo sconfitto, scatena una tempesta della realtà che scuote i regni fino alle loro fondamenta. Tira un d6. Su un risultato di 5–6, ogni PG deve effettuare una Mossa finale.
 
 ```statblock
@@ -49,7 +49,7 @@ capacita_speciali:
   - name: "Alfa a Omega (Evoluzione)"
     desc: "*- Evoluzione:* Quando Adonix viene sconfitto, risorge in forma Omega con tutti i PF e lo Stress rimossi. Ogni PG entro portata Remota deve superare un Tiro di Reazione di Presenza o perdere una Speranza. Guadagni una Paura per ogni Speranza persa. Adonix guadagna i tratti 'Abbandonato' e 'Armageddon'."
   - name: "Abbandonato"
-    desc: "*- Azione:* Spendere una Paura per scegliere un PG e attivare un Conto alla Rovina dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla Rovina dell'Abbandono attivo alla volta."
+    desc: "*- Azione:* Spendere una Paura per scegliere un PG e attivare un Conto alla rovescia dell'Abbandono (1d8) per lui. Si riduce quando Adonix viene messo a fuoco. Quando scatta, il PG deve segnare tutti i suoi PF. Il conto alla rovina termina se Adonix subisce danni Gravi. Puoi avere solo un Conto alla rovescia dell'Abbandono attivo alla volta."
   - name: "Armageddon"
     desc: "*- Reazione:* Quando Adonix viene di nuovo sconfitto, scatena una tempesta della realtà che scuote i regni fino alle loro fondamenta. Tira un d6. Su un risultato di 5–6, ogni PG deve effettuare una Mossa finale."
 ```

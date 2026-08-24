@@ -17,7 +17,7 @@ type:
  * **Conflagrazione - Azione:** **Spendere una Paura** per liberare una tempesta di fuoco divorante ed attaccare tutti i bersagli in portata Ravvicinata. I bersagli contro cui lo Stregone ha successo subiscono **2d10+6** danni magici diretti.
  * **Tavolozza dell'Incubo - Azione:** **Segnare uno Stress** per intrappolare un bersaglio in portata Lontana in una potente illusione delle sue peggiori paure. Mentre è intrappolato, il bersaglio è _Trattenuto_ e _Vulnerabile_ fino a quando non si libera, rimuovendo entrambe le condizioni, con un successo su un Tiro di Istinto.
  * **Scivoloso - Reazione:** Quando lo Stregone subisce danni da un attacco, può teletrasportarsi in portata Lontana.
- * **Catene della Colpa - Reazione: Conto alla Rovina (2d6):** Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla Rovina. Quando si attiva, tutti i bersagli in portata Lontana diventano _Vulnerabili_ e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza.
+ * **Catene della Colpa - Reazione: Conto alla rovescia (2d6):** Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla rovescia. Quando si attiva, tutti i bersagli in portata Lontana diventano _Vulnerabili_ e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -41,5 +41,5 @@ capacita_speciali:
   - name: "Scivoloso"
     desc: "*- Reazione:* Quando lo Stregone subisce danni da un attacco, può teletrasportarsi in portata Lontana."
   - name: "Catene della Colpa"
-    desc: "*- Reazione: Conto alla Rovina (2d6):* Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla Rovina. Quando si attiva, tutti i bersagli in portata Lontana diventano Vulnerabili e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza."
+    desc: "*- Reazione: Conto alla rovescia (2d6):* Quando lo Stregone è a fuoco per la prima volta, attiva il Conto alla rovescia. Quando si attiva, tutti i bersagli in portata Lontana diventano Vulnerabili e devono segnare uno Stress mentre rivivono i loro maggiori rimpianti. Un bersaglio può liberarsi dal suo rimorso con un successo su un Tiro di Presenza o Forza. Quando un PG fallisce nel liberarsi, perde una Speranza."
 ```

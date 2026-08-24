@@ -14,8 +14,8 @@ type:
 * **Attacchi:**
  * **Bastone:** +2 | Lontana | 1d6+2 magico
 * **Tratti e Capacità:**
- * **Maledizione - Azione:** Scegli un bersaglio in portata Lontana e _Maledirlo_ temporaneamente. Mentre il bersaglio è _Maledetto_, puoi **segnare una Paura** quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece.
- * **Flusso Caotico - Azione:** Effettua un attacco contro fino a tre bersagli in portata Prossima. **Segnare una Paura** per infliggere **2d6+3** danni magici ai bersagli contro cui il Maledetto ha avuto successo.
+ * **Maledizione - Azione:** Scegli un bersaglio in portata Lontana e _Maledirlo_ temporaneamente. Mentre il bersaglio è _Maledetto_, il GM **guadagna una Paura** quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece.
+ * **Flusso Caotico - Azione:** Effettua un attacco contro fino a tre bersagli in portata Prossima. **Spendere una Paura** per infliggere **2d6+3** danni magici ai bersagli contro cui il Maledetto ha avuto successo.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -33,7 +33,7 @@ attacchi:
     desc: "**+2** | Lontana | **1d6+2** magico"
 capacita_speciali:
   - name: "Maledizione"
-    desc: "*- Azione:* Scegli un bersaglio in portata Lontana e Maledirlo temporaneamente. Mentre il bersaglio è Maledetto, puoi segnare una Paura quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece."
+    desc: "*- Azione:* Scegli un bersaglio in portata Lontana e Maledirlo temporaneamente. Mentre il bersaglio è Maledetto, il GM guadagna una Paura quando quel bersaglio effettua un tiro con Speranza, facendo sì che il tiro avvenga con Paura invece."
   - name: "Flusso Caotico"
-    desc: "*- Azione:* Effettua un attacco contro fino a tre bersagli in portata Prossima. Segnare una Paura per infliggere 2d6+3 danni magici ai bersagli contro cui il Maledetto ha avuto successo."
+    desc: "*- Azione:* Effettua un attacco contro fino a tre bersagli in portata Prossima. Spendere una Paura per infliggere 2d6+3 danni magici ai bersagli contro cui il Maledetto ha avuto successo."
 ```

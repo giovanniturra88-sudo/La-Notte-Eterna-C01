@@ -17,7 +17,7 @@ type:
  * **Terrificante - Passiva:** Quando il Cacciatore effettua un attacco riuscito, tutti i PG entro portata Lontana perdono una Speranza e tu guadagni una Paura.
  * **Blocco della Morte - Azione:** **Spendere una Paura** per maledire un bersaglio entro portata Prossima con un _Blocco della Morte_ necrotico fino alla fine della scena. Gli attacchi effettuati dal Cacciatore contro un bersaglio _Bloccato_ infliggono danni diretti. Il Cacciatore può mantenere solo un _Blocco della Morte_ alla volta.
  * **Morte Inevitabile - Azione:** **Segnare uno Stress** per mettere a fuoco **1d4** alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono metà danni.
- * **Razziata - Reazione: Conto alla Rovina (Ciclo 1d6):** Quando il Cacciatore viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, sposta il Cacciatore in linea retta verso un punto entro portata Lontana ed effettua un attacco contro tutti i bersagli sul suo percorso. I bersagli colpiti subiscono **2d8+2** danni fisici.
+ * **Razziata - Reazione: Conto alla rovescia (Ciclo 1d6):** Quando il Cacciatore viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, sposta il Cacciatore in linea retta verso un punto entro portata Lontana ed effettua un attacco contro tutti i bersagli sul suo percorso. I bersagli colpiti subiscono **2d8+2** danni fisici.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -42,5 +42,5 @@ capacita_speciali:
   - name: "Morte Inevitabile"
     desc: "*- Azione:* Segnare uno Stress per mettere a fuoco 1d4 alleati. Gli attacchi che effettuano mentre sono a fuoco in questo modo infliggono metà danni."
   - name: "Razziata"
-    desc: "*- Reazione: Conto alla Rovina (Ciclo 1d6):* Quando il Cacciatore viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, sposta il Cacciatore in linea retta verso un punto entro portata Lontana ed effettua un attacco contro tutti i bersagli sul suo percorso. I bersagli colpiti subiscono 2d8+2 danni fisici."
+    desc: "*- Reazione: Conto alla rovescia (Ciclo 1d6):* Quando il Cacciatore viene messo a fuoco per la prima volta, attiva il conto alla rovina. Quando scatta, sposta il Cacciatore in linea retta verso un punto entro portata Lontana ed effettua un attacco contro tutti i bersagli sul suo percorso. I bersagli colpiti subiscono 2d8+2 danni fisici."
 ```

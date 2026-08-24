@@ -18,7 +18,7 @@ type:
  * **Raggio di Decadimento - Azione:** **Segnare 2 Stress** per far sì che tutti i bersagli entro portata Lontana effettuino un Tiro di Reazione di Forza. I bersagli che falliscono subiscono **2d20+12** danni magici e tu guadagni una Paura. I bersagli che riescono subiscono metà danno. Un bersaglio che segna 2 o più PF deve anche segnare **2 Stress** e diventa _Vulnerabile_ fino a quando non tira con Speranza.
  * **Apri le Porte della Morte - Azione:** **Spendere una Paura** per evocare una Legione di Zombie, che appare a portata Ravvicinata e subito viene messa a fuoco.
  * **Non Oggi, Care Mie - Reazione:** Quando il Necromante ha segnato 7 o più dei suoi PF, puoi **spendere una Paura** per farlo teletrasportare in una posizione sicura per riprendersi. Un PG che riesce su un Tiro di Istinto può rintracciare la magia del teletrasporto fino alla sua destinazione.
- * **La Tua Vita È Mia - Reazione: Conto alla Rovina (Ciclo 2d6):** Quando il Necromante ha segnato 6 o più dei suoi PF, attiva il conto alla rovina. Quando scatta, infliggi **2d10+6** danni magici diretti a un bersaglio entro portata Ravvicinata. Il Necromante quindi **rimuove una quantità di Stress o PF** uguale al numero di PF segnati dal bersaglio in questo attacco.
+ * **La Tua Vita È Mia - Reazione: Conto alla rovescia (Ciclo 2d6):** Quando il Necromante ha segnato 6 o più dei suoi PF, attiva il conto alla rovina. Quando scatta, infliggi **2d10+6** danni magici diretti a un bersaglio entro portata Ravvicinata. Il Necromante quindi **rimuove una quantità di Stress o PF** uguale al numero di PF segnati dal bersaglio in questo attacco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -44,5 +44,5 @@ capacita_speciali:
   - name: "Non Oggi, Care Mie"
     desc: "*- Reazione:* Quando il Necromante ha segnato 7 o più dei suoi PF, puoi spendere una Paura per farlo teletrasportare in una posizione sicura per riprendersi. Un PG che riesce su un Tiro di Istinto può rintracciare la magia del teletrasporto fino alla sua destinazione."
   - name: "La Tua Vita È Mia"
-    desc: "*- Reazione: Conto alla Rovina (Ciclo 2d6):* Quando il Necromante ha segnato 6 o più dei suoi PF, attiva il conto alla rovina. Quando scatta, infliggi 2d10+6 danni magici diretti a un bersaglio entro portata Ravvicinata. Il Necromante quindi rimuove una quantità di Stress o PF uguale al numero di PF segnati dal bersaglio in questo attacco."
+    desc: "*- Reazione: Conto alla rovescia (Ciclo 2d6):* Quando il Necromante ha segnato 6 o più dei suoi PF, attiva il conto alla rovina. Quando scatta, infliggi 2d10+6 danni magici diretti a un bersaglio entro portata Ravvicinata. Il Necromante quindi rimuove una quantità di Stress o PF uguale al numero di PF segnati dal bersaglio in questo attacco."
 ```

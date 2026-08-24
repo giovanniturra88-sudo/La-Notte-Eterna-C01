@@ -17,7 +17,7 @@ aliases:
  * **Nodosa di Teschi:** +2 | Prossima | 1d8+1 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Trollo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
- * **Armatura Rubata - Passiva: Conto alla Rovina.** Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi "Trollo della Montagna Incazzato").
+ * **Armatura Rubata - Passiva: Conto alla rovescia.** Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi "Trollo della Montagna Incazzato").
  * **Sferzata della Nodosa - Azione:** Segnare uno Stress per effettuare un attacco contro tutti i bersagli davanti al Trollo entro portata Prossima. I bersagli contro cui il Trollo ha successo subiscono 2d8+2 danni fisici.
  * **Trollo della Montagna Incazzato - Evoluzione:** Il Trollo perde i tratti "Armatura Rubata" e "Sferzata della Nodosa", poi guadagna un bonus di +1 alla sua Difficoltà. Inoltre, guadagna il tratto "Doppia Sferzata" e sostituisce "Nodosa di Teschi" con il seguente attacco standard:
  * **Sferzata degli Artigli:** Prossima | 1d10+3 fisico
@@ -41,7 +41,7 @@ tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Il Trollo può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco."
   - name: "Armatura Rubata"
-    desc: "*- Passiva: Conto alla Rovina.* Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi 'Trollo della Montagna Incazzato')."
+    desc: "*- Passiva: Conto alla rovescia.* Quando il combattimento inizia, attiva un conto alla rovina con un valore pari al numero di PG. Quando il Trollo subisce danni, riduci la gravità di una soglia, poi riduci il conto alla rovina. Quando scatta, il Trollo evolve (vedi 'Trollo della Montagna Incazzato')."
 capacita_speciali:
   - name: "Sferzata della Nodosa"
     desc: "*- Azione:* Segnare uno Stress per effettuare un attacco contro tutti i bersagli davanti al Trollo entro portata Prossima. I bersagli contro cui il Trollo ha successo subiscono 2d8+2 danni fisici."

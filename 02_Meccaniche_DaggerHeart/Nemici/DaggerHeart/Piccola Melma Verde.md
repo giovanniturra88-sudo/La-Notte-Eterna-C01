@@ -8,7 +8,7 @@ type:
 * **Descrizione:** Una piccola montagna mobile di melma traslucida verde.
 * **Rango:** 1 (Furtivo)
 * **Difficoltà:** 14
-* **Soglie di Danno:** 4/Nessuna
+* **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 2 | **Stress:** 1
 * **Attacchi:**
  * **Appendice di Melma:** -1 | Ravvicinata | 1d4+1 magico
@@ -24,7 +24,7 @@ ruolo: "Furtivo"
 difficolta: "14"
 hp: "2"
 stress: "1"
-soglia_danni: "4/Nessuna"
+soglia_danni: "Nessuna"
 attacchi:
   - name: "Appendice di Melma"
     desc: "**-1** | Ravvicinata | **1d4+1** magico"

@@ -17,7 +17,7 @@ aliases:
  * **Morso e Taglio:** +8 | Ravvicinata | 4d10+10 fisico
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Mitera può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
- * **Pelle di Diamante - Passiva:** Conto alla Rovina (7). Quando Mitera appare per la prima volta, attiva il conto alla rovina. Mitera guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Si riduce dalla capacità "Sette Teste" di Mitera. Quando il conto alla rovina scatta, Mitera diventa *Vulnerabile* e guadagna un bonus di +2 ai tiri d'attacco.
+ * **Pelle di Diamante - Passiva:** Conto alla rovescia (7). Quando Mitera appare per la prima volta, attiva il conto alla rovina. Mitera guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Si riduce dalla capacità "Sette Teste" di Mitera. Quando il conto alla rovina scatta, Mitera diventa *Vulnerabile* e guadagna un bonus di +2 ai tiri d'attacco.
  * **Soffio Elementale - Azione:** Segnare uno Stress per far scatenare a Mitera energia elementale da una testa a tua scelta:
  1. **Fuoco.** Infliggi 4d12 danni magici a 1d4+1 bersagli entro portata Ravvicinata. I bersagli che subiscono danni devono segnare una Casella Armatura o 2 PF aggiuntivi.
  2. **Fulmine.** Infliggi 4d12 danni magici a 1d6 bersagli entro portata Lontana, purché ogni bersaglio oltre il primo sia entro portata Ravvicinata del bersaglio precedente.
@@ -48,7 +48,7 @@ tratti:
   - name: "Inesorabile (3)"
     desc: "*- Passiva:* Mitera può essere messa a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
   - name: "Pelle di Diamante"
-    desc: "*- Passiva:* Conto alla Rovina (7). Quando Mitera appare per la prima volta, attiva il conto alla rovina. Mitera guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Si riduce dalla capacità 'Sette Teste' di Mitera. Quando il conto alla rovina scatta, Mitera diventa *Vulnerabile* e guadagna un bonus di +2 ai tiri d'attacco."
+    desc: "*- Passiva:* Conto alla rovescia (7). Quando Mitera appare per la prima volta, attiva il conto alla rovina. Mitera guadagna un bonus alla sua Difficoltà pari al valore attuale del dado del conto alla rovina. Si riduce dalla capacità 'Sette Teste' di Mitera. Quando il conto alla rovina scatta, Mitera diventa *Vulnerabile* e guadagna un bonus di +2 ai tiri d'attacco."
 capacita_speciali:
   - name: "Soffio Elementale"
     desc: "*- Azione:* Segnare uno Stress per far scatenare a Mitera energia elementale da una testa a tua scelta: Fuoco, Fulmine, Acido, Veleno, Ghiaccio, Oscurità, Luce."

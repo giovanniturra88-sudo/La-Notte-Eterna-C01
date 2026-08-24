@@ -20,7 +20,7 @@ type:
  * **Pressione Schiacciante - Reazione:** Quando il Roc effettua un attacco standard riuscito, puoi segnare uno Stress per far schiacciare al Roc il bersaglio con i suoi artigli, costringendolo a segnare 1d4 Stress e *Rendendo Trattenuto* il bersaglio finché non supera un Tiro di Forza (20).
  * **Guardiano del Nido - Evoluzione:** Quando le uova del Roc sono minacciate, guadagna i seguenti tratti:
  * **Sdegnato - Passiva:** Il Roc guadagna un bonus di +2 alla sua Difficoltà e un bonus ai tiri sui danni pari al numero di Stress che ha segnato.
- * **Aurea Elettificante - Passiva:** Il Roc ha resistenza ai danni magici. I PG che falliscono un tiro entro portata Prossima devono spendere una Speranza o segnare 1d4 Stress.
+ * **Aura Elettificante - Passiva:** Il Roc ha resistenza ai danni magici. I PG che falliscono un tiro entro portata Prossima devono spendere una Speranza o segnare 1d4 Stress.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -47,5 +47,5 @@ capacita_speciali:
   - name: "Pressione Schiacciante"
     desc: "*- Reazione:* Quando il Roc effettua un attacco standard riuscito, puoi segnare uno Stress per far schiacciare al Roc il bersaglio con i suoi artigli, costringendolo a segnare 1d4 Stress e *Rendendo Trattenuto* il bersaglio finché non supera un Tiro di Forza (20)."
   - name: "Guardiano del Nido (Evoluzione)"
-    desc: "*- Evoluzione:* Quando le uova del Roc sono minacciate, guadagna i tratti 'Sdegnato' e 'Aurea Elettificante'."
+    desc: "*- Evoluzione:* Quando le uova del Roc sono minacciate, guadagna i tratti 'Sdegnato' e 'Aura Elettificante'."
 ```

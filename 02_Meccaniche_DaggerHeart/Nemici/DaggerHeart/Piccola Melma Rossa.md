@@ -8,7 +8,7 @@ type:
 * **Descrizione:** Una piccola montagna mobile di slime rosso traslucido in fiamme.
 * **Rango:** 1 (Furtivo)
 * **Difficoltà:** 11
-* **Soglie di Danno:** 5/Nessuna
+* **Soglie di Danno:** Nessuna
 * **Punti Ferita:** 2 | **Stress:** 1
 * **Attacchi:**
  * **Appendice Melma:** -1 | Ravvicinata | 1d4+2 magico
@@ -24,7 +24,7 @@ ruolo: "Furtivo"
 difficolta: "11"
 hp: "2"
 stress: "1"
-soglia_danni: "5/Nessuna"
+soglia_danni: "Nessuna"
 attacchi:
   - name: "Appendice Melma"
     desc: "**-1** | Ravvicinata | **1d4+2** magico"

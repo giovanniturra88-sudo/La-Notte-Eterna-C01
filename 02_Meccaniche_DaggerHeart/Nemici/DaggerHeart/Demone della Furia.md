@@ -17,7 +17,7 @@ type:
  * **Rabbia Ininterrotta - Passiva:** Gli attacchi del Demone infliggono danni diretti.
  * **Sete di Battaglia - Azione:** **Spendere una Paura** per far bollire il sangue di tutti i PG entro portata Lontana. Usano un d20 come Dado Paura fino alla fine della scena.
  * **Rappresaglia - Reazione:** Quando il Demone subisce danni da un attacco entro portata Ravvicinata, puoi **segnare uno Stress** per effettuare un attacco standard contro l'attaccante.
- * **Sangue e Anime - Reazione: Conto alla Rovina (Ciclo 6):** Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca **1d4** Demoni Minori, che appaiono entro portata Ravvicinata.
+ * **Sangue e Anime - Reazione: Conto alla rovescia (Ciclo 6):** Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca **1d4** Demoni Minori, che appaiono entro portata Ravvicinata.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -42,5 +42,5 @@ capacita_speciali:
   - name: "Rappresaglia"
     desc: "*- Reazione:* Quando il Demone subisce danni da un attacco entro portata Ravvicinata, puoi segnare uno Stress per effettuare un attacco standard contro l'attaccante."
   - name: "Sangue e Anime"
-    desc: "*- Reazione: Conto alla Rovina (Ciclo 6):* Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca 1d4 Demoni Minori, che appaiono entro portata Ravvicinata."
+    desc: "*- Reazione: Conto alla rovescia (Ciclo 6):* Si attiva la prima volta che il Demone viene messo a fuoco. Si riduce quando un PG compie un'azione violenta. Quando scatta, evoca 1d4 Demoni Minori, che appaiono entro portata Ravvicinata."
 ```

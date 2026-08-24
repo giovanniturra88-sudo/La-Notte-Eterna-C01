@@ -17,7 +17,7 @@ aliases:
 * **Tratti e Capacità:**
  * **Minion (4) - Passiva:** La Lampiona viene sconfitta quando subisce qualsiasi danno. Per ogni 4 danni che un PG infligge alla Lampiona, il PG sconfigge un Minion aggiuntivo entro portata contro cui l'attacco avrebbe successo.
  * **Attacco di Gruppo - Azione:** Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Lampiona entro portata Ravvicinata di esso. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina questi danni.
- * **Risata Gelerante - Reazione:** Quando un PG entro portata Prossima tira con Paura, puoi segnare uno Stress per guadagnare una Paura aggiuntiva.
+ * **Risata Gelante - Reazione:** Quando un PG entro portata Prossima tira con Paura, puoi segnare uno Stress per guadagnare una Paura aggiuntiva.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -38,6 +38,6 @@ tratti:
 capacita_speciali:
   - name: "Attacco di Gruppo"
     desc: "*- Azione:* Spendere una Paura per scegliere un bersaglio e mettere a fuoco tutte le Lampiona entro portata Ravvicinata di esso. Quei Minion si muovono in portata Ravvicinata del bersaglio ed effettuano un tiro d'attacco condiviso. In caso di successo, infliggono 6 danni fisici ciascuno. Combina questi danni."
-  - name: "Risata Gelerante"
+  - name: "Risata Gelante"
     desc: "*- Reazione:* Quando un PG entro portata Prossima tira con Paura, puoi segnare uno Stress per guadagnare una Paura aggiuntiva."
 ```

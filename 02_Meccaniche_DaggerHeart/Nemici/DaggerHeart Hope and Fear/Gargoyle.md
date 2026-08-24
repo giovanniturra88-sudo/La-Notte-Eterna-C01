@@ -14,7 +14,7 @@ type:
 * **Attacchi:**
  * **Artigli di Pietra:** +2 | Ravvicinata | 2d10+3 fisico
 * **Tratti e Capacità:**
- * **Non-Vivente - Passiva:** Il Gargoyle ha resistenza ai danni magici.
+ * **Non-Morto - Passiva:** Il Gargoyle ha resistenza ai danni magici.
  * **Colpo in Tuffo - Azione:** Scegli un punto entro portata Lontana. Il Gargoyle si muove a quel punto ed effettua un attacco standard contro un bersaglio lungo il suo percorso.
  * **Taglio Petrificante - Reazione:** Quando il Gargoyle infligge danni, il bersaglio deve superare un Tiro di Reazione di Forza o diventare *Vulnerabile*. Se il bersaglio è già *Vulnerabile*, diventa *Trattenuto*. Se il bersaglio è già *Vulnerabile* e *Trattenuto*, deve effettuare una Mossa finale. Il PG può spendere una Speranza per condizione per rimuoverla.
 
@@ -33,7 +33,7 @@ attacchi:
   - name: "Artigli di Pietra"
     desc: "**+2** | Ravvicinata | **2d10+3** fisico"
 tratti:
-  - name: "Non-Vivente"
+  - name: "Non-Morto"
     desc: "*- Passiva:* Il Gargoyle ha resistenza ai danni magici."
 capacita_speciali:
   - name: "Colpo in Tuffo"
