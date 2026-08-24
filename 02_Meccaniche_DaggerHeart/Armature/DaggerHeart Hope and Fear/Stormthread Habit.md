@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 9 / 20
 - **Punteggio di Armatura:** 4
 
-> Assorbente: Una volta per scena quando subisci danno magico, puoi liberare uno slot Armatura.
+> Assorbente: Una volta per scena quando subisci danno magico, puoi liberare una Casella Armatura.

@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 12 / 26
 - **Punteggio di Armatura:** 5
 
-> Risplendente: Una volta per scena quando spendi Speranza, puoi liberare uno slot Armatura.
+> Risplendente: Una volta per scena quando spendi Speranza, puoi liberare una Casella Armatura.

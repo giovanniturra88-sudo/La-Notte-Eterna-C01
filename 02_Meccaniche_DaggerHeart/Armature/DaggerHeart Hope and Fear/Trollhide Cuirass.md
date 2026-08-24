@@ -13,4 +13,4 @@ tier: 2
 - **Soglie di Danno:** 11 / 23
 - **Punteggio di Armatura:** 5
 
-> Auto-Rigenerante: Quando riposi, libera uno slot Armatura.
+> Auto-Rigenerante: Quando riposi, libera una Casella Armatura.

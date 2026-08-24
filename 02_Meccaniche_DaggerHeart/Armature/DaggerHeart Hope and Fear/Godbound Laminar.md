@@ -13,4 +13,4 @@ tier: 4
 - **Soglie di Danno:** 13 / 36
 - **Punteggio di Armatura:** 6
 
-> Divino: Quando segni uno slot Armatura, ottieni una Speranza.
+> Divino: Quando segni una Casella Armatura, ottieni una Speranza.
