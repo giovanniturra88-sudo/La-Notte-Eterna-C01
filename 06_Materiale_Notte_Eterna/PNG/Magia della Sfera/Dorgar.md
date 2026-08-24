@@ -23,23 +23,23 @@ Dorgar è un imponente guerriero nano la cui tempra è pari solo alla roccia del
  * **Martello della Rupe:** +4 | Prossima | 3d10+4 danni contundenti e magici
 * **Tratti e Capacità:**
  * **Resilienza Nanica - Passiva:** Vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
- * **Inamovibile - Passiva:** Non può essere spinto, buttato prono o mosso contro la sua volontà finché si trova su una superficie di pietra o terra.
+ * **Inamovibile - Passiva:** Non può essere spinto, buttato a terra o mosso contro la sua volontà finché si trova su una superficie di pietra o terra.
  * **Resistenza al Danno - Passiva:** Resiste ai danni da veleno e ai danni fisici; è immune all'avvelenamento.
  * **Scurovisione - Passiva:** vede nel buio (18 m).
  * **Attacchi Multipli - Azione:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
- * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
+ * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata a terra.
  * **Proteggere l'Alleato - Reazione:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
 
 ---
 
 #### **TRATTI SPECIALI**
 - **Resilienza Nanica:** Dorgar ha vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
-- **Inamovibile:** Dorgar non può essere spinto, buttato prono o mosso contro la sua volontà se si trova su una superficie di pietra o terra.
+- **Inamovibile:** Dorgar non può essere spinto, buttato a terra o mosso contro la sua volontà se si trova su una superficie di pietra o terra.
 
 #### **AZIONI**
 - **Attacchi Multipli:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
 - **Martello della Rupe:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d10+4 danni contundenti e magici.
-- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata prona.
+- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata a terra.
 
 #### **REAZIONI**
 - **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.

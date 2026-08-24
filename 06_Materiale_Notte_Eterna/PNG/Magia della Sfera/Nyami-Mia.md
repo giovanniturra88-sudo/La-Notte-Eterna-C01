@@ -26,8 +26,8 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
  * **Forma Acquatica - Passiva:** in acqua si muove attraverso spazi stretti (fino a 2,5 cm) senza costrizioni.
  * **Scurovisione - Passiva:** vede nel buio (36 m).
  * **Vista Cieca - Passiva:** percepisce le creature entro 18 m anche senza vederle.
- * **Multiattacco:** con un'unica azione Nyami-mia effettua fino a 2 attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
- * **Maelstrom Abissale - Azione (una volta per scena):** evoca un vortice d'acqua travolgente in una sfera di 9 m (Area Ravvicinata) entro 27 m (Media); ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere trattenuta e trascinata nel vortice.
+ * **Azione:** con un'unica azione Nyami-mia effettua fino a 2 attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
+ * **Maelstrom Abissale - Azione (una volta per scena):** evoca un vortice d'acqua travolgente in una sfera di 9 m (Area Ravvicinata) entro 27 m (Lontana); ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere trattenuta e trascinata nel vortice.
  * **Onda Protettiva - Reazione:** quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, aumentando di +4 la Difficoltà contro quell'attacco.
 
 ---
@@ -37,7 +37,7 @@ Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua 
 - **Forma Acquatica:** Nyami-mia può muoversi attraverso uno spazio stretto fino a 2,5 cm senza doversi stringere finché si trova in acqua.
 
 #### **AZIONI**
-- **Multiattacco:** Nyami-mia effettua fino a due attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
+- **Azione:** Nyami-mia effettua fino a due attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
 - **Colpo di Coda:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Rango 4), portata 4,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti.
 - **Maelstrom Abissale (una volta per scena):** Nyami-mia evoca un vortice d'acqua travolgente in una sfera di 9 m entro 27 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere trattenuta e trascinata nel vortice.
 

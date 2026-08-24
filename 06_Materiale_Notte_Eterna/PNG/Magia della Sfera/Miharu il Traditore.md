@@ -24,7 +24,7 @@ Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione
 * **Tratti e Capacità:**
  * **Scurovisione - Passiva:** vede nel buio (18 m).
  * **Aura di Terrore - Passiva:** qualsiasi creatura ostile che inizia il proprio turno entro 3 m (Prossima) da Miharu deve effettuare un Tiro di Reazione di Istinto Difficoltà 16 o rimanere impaurita per 1 turno.
- * **Multiattacco:** con un'unica azione Miharu effettua fino a 3 attacchi di Spada Maledetta.
+ * **Azione:** con un'unica azione Miharu effettua fino a 3 attacchi di Spada Maledetta.
  * **Punizione Oscura (3 volte per scena):** quando Miharu colpisce con un attacco in mischia, infligge 18 danni necrotici aggiuntivi.
  * **Lama del Crepuscolo - Azione (una volta per scena):** sferra un fendente che rilascia un'onda di energia oscura in un cono di Area Ravvicinata (9 m); le creature nell'area subiscono 3d12+5 danni necrotici (Tiro di Reazione di Forza Difficoltà 16 per dimezzare).
  * **Ritorsione d'Ombra - Reazione:** quando viene colpito da un attacco in mischia, risponde immediatamente con un attacco di Spada Maledetta contro l'attaccante.
@@ -36,7 +36,7 @@ Un tempo nobile paladino e difensore del popolo, Miharu cadde nella disperazione
 - **Punizione Oscura (3 volte per scena):** Quando Miharu colpisce con un attacco in mischia, può infliggere 18 danni necrotici aggiuntivi.
 
 #### **AZIONI**
-- **Multiattacco:** Effettua fino a tre attacchi con la sua Spada Maledetta.
+- **Azione:** Effettua fino a tre attacchi con la sua Spada Maledetta.
 - **Spada Maledetta:** Attacco con Arma da Mischia: +4 al tiro d'attacco (bonus d'attacco del Rango 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni taglienti e necrotici.
 - **Lama del Crepuscolo (una volta per scena):** Miharu sferra un fendente che rilascia un'onda di energia oscura in un cono di 9 m. Le creature nell'area subiscono 3d12+5 danni necrotici (Tiro di Reazione di Forza Difficoltà 16 per dimezzare).
 

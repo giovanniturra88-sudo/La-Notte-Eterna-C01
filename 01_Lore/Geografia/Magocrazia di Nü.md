@@ -38,7 +38,7 @@ Anno 4636, E.S. Impero e Lega uniscono le forze riuscendo nell'impresa di distru
 Anno 4631, E.S. Dopo cinque anni di navigazione, i [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]] giungono sulle sponde dell'Arcipelago che chiameranno Nū, "Rinascita", in segno di buon auspicio.
 Anno 4600 circa, E.S. Superate le difficoltà iniziali, i [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]] fondano i primi insediamenti che con il tempo cresceranno fino a diventare le città più importanti della [[Magocrazia di Nü|Magocrazia]]: [[Città di Nü|Nü]], [[Azkabel]] e [[Daragoss]].
 Anno 4542, E.S. Il dragone rosso Klarugg il Possente rade al suolo [[Daragoss]]. La città viene riedificata più bella e grande di prima.
-Anno 3431, E.S. Le tre città si riuniscono in Magocrazia, nominando [[Nü]] come capitale.
+Anno 3431, E.S. Le tre città si riuniscono in Magocrazia, nominando [[Città di Nü|Nü]] come capitale.
 Anno 2322, E.S. La [[Magocrazia di Nü]] stringe alleanza con l'Impero di [[Gundazar]] nella Guerra delle Anime.
 Anno 2264, E.S. Kurash, arcimago di [[Daragoss]], scopre il fuoco primevo da cui la magia ha origine. Scrive i Dettami di Kurash, divulgandone i contenuti nelle accademie di Nü.
 Anno 2240, E.S. Kurash muore alla venerabile età di 368 anni senza aver rivelato a nessuno l'ubicazione segreta del Fuoco.

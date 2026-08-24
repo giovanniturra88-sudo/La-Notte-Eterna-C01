@@ -26,8 +26,8 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
  * **Maestro del Duello - Passiva:** Quando impugna un'arma da mischia con una sola mano e nessun'altra arma, ottiene +2 alle prove di danno (già calcolato) e +2 alla Difficoltà dei tiri d'attacco contro di lui.
  * **Riflessi Fulminei - Passiva:** Ha una reazione extra a ogni round, utilizzabile solo per Parata o un attacco di opportunità.
  * **Resistenza Fisica - Passiva:** Resiste ai danni fisici (contundenti, perforanti e taglienti).
- * **Imperturbabile - Passiva:** Immune alla condizione Spaventato.
- * **Multiattacco - Azione:** Effettua fino a 3 attacchi con le Lame Danzanti.
+ * **Imperturbabile - Passiva:** Immune alla paura.
+ * **Azione:** Effettua fino a 3 attacchi con le Lame Danzanti.
  * **Furia di Lame (una volta per scena) - Azione:** Esegue una serie fulminea di colpi rotanti: ogni creatura entro 3 m (Prossima) deve superare un Tiro di Reazione di Agilità con Difficoltà 18 o subire 3d12+5 danni taglienti (metà danni in caso di successo).
  * **Parata - Reazione:** Aggiunge 4 alla Difficoltà contro un attacco da mischia che lo colpirebbe (deve vedere l'attaccante e impugnare un'arma da mischia).
 
@@ -38,7 +38,7 @@ Arkanis delle Lame è uno dei più celebri maestri d'arme e duellanti della stor
 - **Riflessi Fulminei:** Arkanis ha una reazione extra ad ogni round, utilizzabile solo per effettuare Parata o Attacco di Opportunità.
 
 #### **AZIONI**
-- **Multiattacco:** Arkanis effettua fino a 3 attacchi con le sue Lame Danzanti.
+- **Azione:** Arkanis effettua fino a 3 attacchi con le sue Lame Danzanti.
 - **Lama Danzante:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+5 danni taglienti e radianti.
 - **Furia di Lame (una volta per scena):** Arkanis esegue una serie fulminea di colpi rotanti. Ogni creatura entro 3 m (Prossima) deve effettuare un Tiro di Reazione di Agilità con Difficoltà 18, subendo 3d12+5 danni taglienti in caso di fallimento, o la metà dei danni in caso di successo.
 

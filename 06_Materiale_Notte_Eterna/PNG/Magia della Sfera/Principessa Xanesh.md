@@ -24,24 +24,24 @@ Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pia
 * **Tratti e Capacità:**
  * **Scurovisione - Passiva:** vede nel buio (18 m).
  * **Volo - Passiva:** Può muoversi volando.
- * **Telepatia - Passiva:** Comunica telepaticamente entro 18 m (Media).
- * **Comando della Sovrana - Passiva:** Un alleato entro 18 m (Media) che possa sentirla può effettuare un attacco come reazione quando Xanesh usa l'azione di attacco.
+ * **Telepatia - Passiva:** Comunica telepaticamente entro 18 m (Lontana).
+ * **Comando della Sovrana - Passiva:** Un alleato entro 18 m (Lontana) che possa sentirla può effettuare un attacco come reazione quando Xanesh effettua un attacco.
  * **Resistenza Magica - Passiva:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
  * **Resistenza Psichica e Necrotica - Passiva:** Resiste ai danni psichici e necrotici.
- * **Multiattacco - Azione:** Effettua fino a 2 attacchi con la Sciabola Cosmica (o con i Dardi di Energia Astrale).
- * **Sguardo di Dominio (una volta per scena) - Azione:** Fissa un bersaglio entro 18 m (Media), che deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato e obbedire ai suoi ordini verbali per 1 minuto.
+ * **Azione:** Effettua fino a 2 attacchi con la Sciabola Cosmica (o con i Dardi di Energia Astrale).
+ * **Sguardo di Dominio (una volta per scena) - Azione:** Fissa un bersaglio entro 18 m (Lontana), che deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato e obbedire ai suoi ordini verbali per 1 minuto.
  * **Deviazione Telecinetica - Reazione:** Quando viene bersagliata da un attacco o da una capacità a distanza, crea un campo di forza telecinetico che riduce il danno di 15.
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Comando della Sovrana:** Un alleato entro 18 m (Media) che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa usa l'azione di attacco.
+- **Comando della Sovrana:** Un alleato entro 18 m (Lontana) che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa Xanesh attacca.
 - **Resistenza Magica:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
 
 #### **AZIONI**
-- **Multiattacco:** La Principessa Xanesh effettua fino a 2 attacchi con la Sciabola Cosmica o con i dardi di Energia Astrale.
+- **Azione:** La Principessa Xanesh effettua fino a 2 attacchi con la Sciabola Cosmica o con i dardi di Energia Astrale.
 - **Sciabola Cosmica:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+5 danni taglienti e psichici.
-- **Sguardo di Dominio (una volta per scena):** La Principessa Xanesh fissa un bersaglio entro 18 m (Media). Il bersaglio deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
+- **Sguardo di Dominio (una volta per scena):** La Principessa Xanesh fissa un bersaglio entro 18 m (Lontana). Il bersaglio deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
 
 #### **REAZIONI**
 - **Deviazione Telecinetica:** Quando viene bersagliata da un attacco o da una capacità a distanza, la Principessa crea un campo di forza telecinetico che riduce il danno di 15.

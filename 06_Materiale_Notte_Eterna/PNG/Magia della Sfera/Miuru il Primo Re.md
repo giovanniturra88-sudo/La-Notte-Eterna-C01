@@ -22,20 +22,20 @@ Miuru è stato il grande unificatore delle tribù mortali prima dell'avvento del
 * **Attacchi:**
  * **Scettro del Dominio:** +5 | Prossima | 4d8+10 contundenti e radianti
 * **Tratti e Capacità:**
- * **Presenza Regale - Passiva:** tutti gli alleati entro 18 m (Media) da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla condizione Impaurito.
- * **Multiattacco:** con un'unica azione Miuru effettua fino a 3 attacchi di Scettro del Dominio.
- * **Ispirazione del Sovrano - Azione (3 volte per scena):** Miuru consente a un alleato entro 18 m (Media) di effettuare immediatamente un attacco o di muoversi della propria velocità.
+ * **Presenza Regale - Passiva:** tutti gli alleati entro 18 m (Lontana) da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla paura.
+ * **Azione:** con un'unica azione Miuru effettua fino a 3 attacchi di Scettro del Dominio.
+ * **Ispirazione del Sovrano - Azione (3 volte per scena):** Miuru consente a un alleato entro 18 m (Lontana) di effettuare immediatamente un attacco o di muoversi della propria velocità.
  * **Grido di Conquista - Azione (una volta per scena):** Miuru emette un ruggito di comando; ogni nemico entro 12 m (Area Ravvicinata) deve superare un Tiro di Reazione di Presenza Difficoltà 19 o subire 4d10+10 danni psichici ed essere stordito per 1 turno.
  * **Guardia Imperiale - Reazione:** quando un attacco sta per colpire Miuru, egli può scambiare la propria posizione con quella di un alleato volenteroso entro 1,5 m (Prossima), che subisce l'attacco al suo posto.
 
 ---
 
 #### **TRATTI SPECIALI**
-- **Presenza Regale:** Tutti gli alleati entro 18 m da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla condizione Impaurito.
+- **Presenza Regale:** Tutti gli alleati entro 18 m da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla paura.
 - **Ispirazione del Sovrano (3 volte per scena):** Con un'azione, Miuru permette a un alleato entro 18 m di effettuare immediatamente un attacco o di muoversi della propria velocità.
 
 #### **AZIONI**
-- **Multiattacco:** Effettua fino a tre attacchi con lo Scettro del Dominio.
+- **Azione:** Effettua fino a tre attacchi con lo Scettro del Dominio.
 - **Scettro del Dominio:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Rango 4), portata 1,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti e radianti.
 - **Grido di Conquista (una volta per scena):** Miuru emette un ruggito di comando. Ogni nemico entro 12 m deve superare un Tiro di Reazione di Presenza Difficoltà 19 o subire 4d10+10 danni psichici ed essere stordito per 1 turno.
 

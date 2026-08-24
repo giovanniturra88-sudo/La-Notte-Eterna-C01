@@ -24,5 +24,5 @@ A causa delle varie culture e delle origini storiche delle razze su Neir, vengon
 ---
 
 ## 🔗 Note Correlate
-- [[La Società e il Conto degli Anni]]
+- [[Società e Conto degli Anni]]
 - [[Neir]]

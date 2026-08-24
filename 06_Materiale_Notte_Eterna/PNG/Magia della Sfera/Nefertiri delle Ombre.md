@@ -21,13 +21,13 @@ Nefertiri è una maestra assassina e spia senza pari, capace di fondersi lettera
 * **Punti Ferita:** 8 | **Stress:** 5
 * **Esperienza:** Furtività +5, Rapidità di Mano +5, Acrobazia +5, Percepire +3
 * **Attacchi:**
- * **Pugnale d'Ombra:** +4 | Prossima o Ravvicinata (6/18 m) | 3d10+3 perforanti e necrotici
+ * **Pugnale d'Ombra:** +4 | Prossima o Ravvicinata | 3d10+3 perforanti e necrotici
 * **Tratti e Capacità:**
  * **Scurovisione - Passiva:** vede nel buio (36 m).
  * **Vista Cieca - Passiva:** percepisce le creature entro 9 m anche senza vederle.
- * **Passo nell'Ombra - Azione:** finché si trova in luce fioca o oscurità, Nefertiri può teletrasportarsi fino a 18 m (Media) in uno spazio non occupato anch'esso in oscurità.
+ * **Passo nell'Ombra - Azione:** finché si trova in luce fioca o oscurità, Nefertiri può teletrasportarsi fino a 18 m (Lontana) in uno spazio non occupato anch'esso in oscurità.
  * **Attacco Furtivo (una volta per turno):** quando colpisce un bersaglio con un attacco con arma di precisione in circostanze di vantaggio, Nefertiri infligge 21 danni extra.
- * **Multiattacco:** con un'unica azione Nefertiri effettua fino a 3 attacchi di Pugnale d'Ombra.
+ * **Azione:** con un'unica azione Nefertiri effettua fino a 3 attacchi di Pugnale d'Ombra.
  * **Bomba di Tenebra - Azione (una volta per scena):** scaglia una sfera d'ombra in un punto entro 12 m (Ravvicinata), creando un'oscurità magica di 6 m di raggio (Area Ravvicinata) per 1 minuto; ogni creatura nemica nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o essere accecata per 1 minuto.
  * **Schivata Incorporea - Reazione:** quando viene colpita da un attacco mentre si trova nell'oscurità, si trasforma temporaneamente in ombra pura, annullando il danno dell'attacco.
 
@@ -38,8 +38,8 @@ Nefertiri è una maestra assassina e spia senza pari, capace di fondersi lettera
 - **Attacco Furtivo (una volta per turno):** Nefertiri infligge 21 danni extra quando colpisce un bersaglio con un attacco con arma di precisione ed ha vantaggio al tiro d'attacco.
 
 #### **AZIONI**
-- **Multiattacco:** Effettua fino a tre attacchi con i Pugnali d'Ombra.
-- **Pugnale d'Ombra:** Attacco con Arma da Mischia o a Distanza: +4 al tiro d'attacco (bonus d'attacco del Rango 3), portata 1,5 m o gittata 6/18 m, un bersaglio. Colpito: 3d10+3 danni perforanti e necrotici.
+- **Azione:** Effettua fino a tre attacchi con i Pugnali d'Ombra.
+- **Pugnale d'Ombra:** Attacco con Arma da Mischia o a Distanza: +4 al tiro d'attacco (bonus d'attacco del Rango 3), portata 1,5 m o gittata Ravvicinata, un bersaglio. Colpito: 3d10+3 danni perforanti e necrotici.
 - **Bomba di Tenebra (una volta per scena):** Nefertiri scaglia una sfera d'ombra in un punto entro 12 m. L'area crea un'oscurità magica di 6 m di raggio per 1 minuto. Ogni creatura nemica catturata all'interno deve superare un Tiro di Reazione di Forza Difficoltà 18 o essere accecata per 1 minuto.
 
 #### **REAZIONI**

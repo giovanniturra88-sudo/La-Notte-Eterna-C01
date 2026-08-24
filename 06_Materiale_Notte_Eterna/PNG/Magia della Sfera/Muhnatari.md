@@ -26,7 +26,7 @@ Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni 
  * **Percezione Tellurica - Passiva:** percepisce le vibrazioni nel terreno entro 12 m.
  * **Nube di Spore Tossiche - Passiva:** una creatura che inizia il proprio turno entro 3 m (Prossima) da Muhnatari deve superare un Tiro di Reazione di Forza Difficoltà 17 o subire 9 danni da veleno ed essere avvelenata.
  * **Sintonia Fungina - Passiva:** comunica telepaticamente con qualsiasi vegetale o Elementale delle Spore entro 36 m (Lontana).
- * **Multiattacco:** con un'unica azione Muhnatari effettua fino a 2 attacchi di Bastone del Decompositore.
+ * **Azione:** con un'unica azione Muhnatari effettua fino a 2 attacchi di Bastone del Decompositore.
  * **Eruzione di Spore - Azione (una volta per scena):** libera una densa nube di spore in un raggio di 9 m (Area Ravvicinata); ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 17 o subire 3d12+5 danni da veleno ed essere stordita per 1 minuto (può ripetere il tiro alla fine di ciascun suo turno).
  * **Scudo di Funghi - Reazione:** quando subisce danni, evoca una barriera di spugnosi funghi giganti che riduce il danno subito di 12.
 
@@ -37,7 +37,7 @@ Muhnatari è un'antica e misteriosa druida che ha abbracciato le trasformazioni 
 - **Sintonia Fungina:** Muhnatari può comunicare telepaticamente con qualsiasi vegetale o elementale delle spore entro 36 m.
 
 #### **AZIONI**
-- **Multiattacco:** Effettua fino a due attacchi con il Bastone del Decompositore.
+- **Azione:** Effettua fino a due attacchi con il Bastone del Decompositore.
 - **Bastone del Decompositore:** Attacco con Arma da Mischia: +4 al tiro d'attacco (bonus d'attacco del Rango 3), portata 1,5 m, un bersaglio. Colpito: 3d10+5 danni contundenti e necrotici (o da acido).
 - **Eruzione di Spore (una volta per scena):** Muhnatari libera una densa nube di spore in un raggio di 9 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 17 o subire 3d12+5 danni da veleno ed essere stordita per 1 minuto (può ripetere il tiro alla fine di ciascun suo turno).
 
