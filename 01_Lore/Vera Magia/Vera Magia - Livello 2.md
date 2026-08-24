@@ -16,7 +16,7 @@ tags:
 * **Gittata:** Mischia
 
 Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumirne uno:
-- **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `1d20+3` PF se usate le regole opzionali sui Punti Ferita).
+- **Uso Curativo:** Rimuove **1 Gettone Danno** (o cura `1d20+3` PF se usate le regole opzionali sui Punti Ferita).
 - **Uso Disintossicante:** Rimuove lo stato **Avvelenato** o **Infezione**.
 
 ---

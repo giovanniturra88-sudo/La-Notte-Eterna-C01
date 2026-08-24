@@ -4,9 +4,9 @@ type:
 source: DaggerHeart
 ---
 
-# Token
+# Gettone
 
-Segnalino posizionato su una scheda (statblock, carta abilità) per tracciare accumuli di effetti (es. token di danno, token di carica, token del GM).
+Gettone posizionato su una scheda (statblock, carta abilità) per tracciare accumuli di effetti (es. gettoni di danno, gettoni di carica, gettone del GM).
 
 ## Voci correlate
 - [[Stress]]

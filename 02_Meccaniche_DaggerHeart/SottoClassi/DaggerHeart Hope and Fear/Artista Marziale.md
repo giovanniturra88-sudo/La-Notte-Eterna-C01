@@ -20,7 +20,7 @@ Gli artisti marziali canalizzano la propria risolutezza interiore attraverso la 
 Canalizzi la tua concentrazione per assumere speciali **Posizioni Marziali** (stances) che ti conferiscono benefici unici in battaglia.
 - Prendi la scheda delle Posizioni Marziali e scegli due posizioni di Rango 1.
 - Ogni volta che sali di livello, scegli una posizione addizionale dal tuo rango o inferiore.
-- Spendi un segnalino **Concentrazione** (Focus) per entrare o cambiare posizione durante il tuo turno.
+- Spendi un gettone **Concentrazione** (Focus) per entrare o cambiare posizione durante il tuo turno.
 
 ## Caratteristiche di Specializzazione (Rango 2)
 
@@ -53,7 +53,7 @@ Su un attacco andato a segno a portata di Mischia, puoi spendere Concentrazione 
 Su un attacco andato a segno, costringi il bersaglio a marcare **uno Stress**.
 
 #### Stabile (Stable)
-Puoi spendere un segnalino Concentrazione invece di marcare una Casella Armatura per ridurre i danni subiti.
+Puoi spendere un gettone Concentrazione invece di marcare una Casella Armatura per ridurre i danni subiti.
 
 #### Vigile (Vigilant)
 Quando sei il bersaglio di un attacco, puoi marcare uno Stress per guadagnare un bonus di **+1d6 alla tua Evasione** contro quell'attacco.

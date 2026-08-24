@@ -15,13 +15,13 @@ type:
 
 **_Sabbie Infinite - Passiva:** Avvia un Conto alla Rovescia (8). Per attraversare il deserto, il gruppo deve completare il conto alla rovescia. Scorre ogni volta che un PG riesce in un tiro d'azione per orientarsi in questa distesa apparentemente infinita. _Come viaggiano i PG attraverso il deserto? Cosa, oltre all'estrema distanza e alla mancanza d'acqua, rende difficile attraversare questa zona?_
 
-**_Riserva d'Acqua - Passiva:** Quando il gruppo inizia il suo viaggio, posiziona su questa scheda un numero di token pari a 1 + il numero di PG nella scena. Rimuovi un token alla fine di ogni riposo lungo o quando un PG fallisce un tiro d'azione per orientarsi nel deserto. Quando un token dovrebbe essere rimosso ma non ce ne sono più, ogni PG deve segnare un PF e uno Stress. Un PG può aggiungere un token a questo statblock usando una mossa di tempo libero ed effettuando un Tiro di Conoscenza riuscito per cercare acqua. _Quali tipi di flora che conserva l'acqua o di caratteristiche del terreno hanno sentito dire i PG che si potrebbero trovare in questo deserto? Come raccolgono e trasportano i PG l'acqua che trovano?_
+**_Riserva d'Acqua - Passiva:** Quando il gruppo inizia il suo viaggio, posiziona su questa scheda un numero di gettoni pari a 1 + il numero di PG nella scena. Rimuovi un gettone alla fine di ogni riposo lungo o quando un PG fallisce un tiro d'azione per orientarsi nel deserto. Quando un gettone dovrebbe essere rimosso ma non ce ne sono più, ogni PG deve segnare un PF e uno Stress. Un PG può aggiungere un gettone a questo statblock usando una mossa di tempo libero ed effettuando un Tiro di Conoscenza riuscito per cercare acqua. _Quali tipi di flora che conserva l'acqua o di caratteristiche del terreno hanno sentito dire i PG che si potrebbero trovare in questo deserto? Come raccolgono e trasportano i PG l'acqua che trovano?_
 
 **_Sabbie Mobili - Passiva:** Le dune in continuo movimento e il vento che frusta rendono difficile seguire le tracce delle creature in questo ambiente. I tiri d'azione per seguire le tracce delle creature nel deserto vengono effettuati con svantaggio. _Come cambiano le dune e il paesaggio ogni volta che gli eroi si riposano? Cosa viene coperto o scoperto dal vento?_
 
 **_Temporale - Azione:** Spendi una Paura per far sì che un acquazzone torrenziale inzuppi la terra. Ogni PG deve cercare riparo dalla tempesta o raccogliere l'acqua piovana. Ogni PG che cerca riparo segna uno Stress. I PG che raccolgono l'acqua piovana effettuano un tiro d'azione di gruppo.
-- Su un successo con Speranza, aggiungi 1d4 token alla Riserva d'Acqua.
-- Su un successo con Paura, aggiungi 1 token alla Riserva d'Acqua.
+- Su un successo con Speranza, aggiungi 1d4 gettoni alla Riserva d'Acqua.
+- Su un successo con Paura, aggiungi 1 gettone alla Riserva d'Acqua.
 - Su un fallimento con Speranza, ogni PG che ha preso parte al tiro d'azione di gruppo segna uno Stress.
 - Su un fallimento con Paura, ogni PG che ha preso parte al tiro d'azione di gruppo segna uno Stress, e il PG che ha tirato il risultato più basso subisce 2d8+4 danni fisici dalla tempesta.
 _Come appare la tempesta agli eroi mentre si avvicina da miglia di distanza? La tempesta è naturale o innaturale? Come puoi capirlo?_

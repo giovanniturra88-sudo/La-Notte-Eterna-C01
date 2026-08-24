@@ -19,12 +19,12 @@ I membri della Gilda dei Tossicologi (o degli Avvelenatori) preferiscono indebol
 ## Caratteristiche di Fondazione (Rango 1)
 
 ### Miscele Tossiche (Toxic Concoctions)
-Marca uno Stress per posizionare **1d4+1 segnalini** su questa carta. Quando metti a segno un attacco con arma con successo, puoi spendere un segnalino per affliggere il bersaglio con un veleno a tua scelta tra quelli che conosci:
+Marca uno Stress per posizionare **1d4+1 gettoni** su questa carta. Quando metti a segno un attacco con arma con successo, puoi spendere un gettone per affliggere il bersaglio con un veleno a tua scelta tra quelli che conosci:
 - **Petalo Spettrale (Ghost Petal):** Il bersaglio diventa temporaneamente **Vulnerabile**.
 - **Spora Tombale (Grave Spore):** Il bersaglio deve marcare immediatamente **uno Stress**.
 - **Alga Sanguisuga (Leech Weed):** Infliggi **+1d6 danni extra** su questo attacco.
 
-Elimina tutti i segnalini rimasti su questa carta quando effettui un riposo lungo.
+Elimina tutti i gettoni rimasti su questa carta quando effettui un riposo lungo.
 
 ## Caratteristiche di Specializzazione (Rango 2)
 
@@ -34,7 +34,7 @@ Aggiungi i seguenti veleni alla tua lista di tossine conosciute per la caratteri
 - **Radice di Gorgone (Gorgon Root):** Il bersaglio diventa temporaneamente **Trattenuto** (Restrained).
 
 ### Zanna Gemella (Twin Fang)
-Quando applichi un veleno a un bersaglio attualmente _Marchiato per la Morte_, puoi spendere un segnalino addizionale per infliggergli contemporaneamente **l'effetto di un secondo veleno** che conosci.
+Quando applichi un veleno a un bersaglio attualmente _Marchiato per la Morte_, puoi spendere un gettone addizionale per infliggergli contemporaneamente **l'effetto di un secondo veleno** che conosci.
 
 ## Caratteristiche di Maestria (Rango 3)
 

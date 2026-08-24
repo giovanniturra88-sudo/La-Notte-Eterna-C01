@@ -7,4 +7,4 @@ Tipologia Carta: "[[Magia]]"
 Titolo Inglese:
 ---
 
-Effettua un **Tiro Incantesimo (15)**. Se ha successo, piazza un numero di token uguale alla tua Agilità su questa carta (minimo 1). Quando effettui un lancio d'azione mentre voli, spendi un token da questa carta. Dopo che l'azione che spende l'ultimo token è stata risolta, atterri sul punto direttamente sotto di te.
+Effettua un **Tiro Incantesimo (15)**. Se ha successo, piazza un numero di gettoni uguale alla tua Agilità su questa carta (minimo 1). Quando effettui un lancio d'azione mentre voli, spendi un gettone da questa carta. Dopo che l'azione che spende l'ultimo gettone è stata risolta, atterri sul punto direttamente sotto di te.

@@ -7,7 +7,7 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-La tua parola è carica di potere. Dopo un riposo lungo, posiziona un numero di token su questa carta uguale alla tua Presenza. Quando parli con un alleato, puoi spendere un token da questa carta per dargli uno dei seguenti benefici:
+La tua parola è carica di potere. Dopo un riposo lungo, posiziona un numero di gettoni su questa carta uguale alla tua Presenza. Quando parli con un alleato, puoi spendere un gettone da questa carta per dargli uno dei seguenti benefici:
 
 - Il tuo alleato rimuove uno Stress.
 
@@ -15,4 +15,4 @@ La tua parola è carica di potere. Dopo un riposo lungo, posiziona un numero di 
 
 - Il tuo alleato guadagna una Speranza.
 
-Quando fai un riposo lungo, rimuovi tutti i token non spesi.
+Quando fai un riposo lungo, rimuovi tutti i gettoni non spesi.

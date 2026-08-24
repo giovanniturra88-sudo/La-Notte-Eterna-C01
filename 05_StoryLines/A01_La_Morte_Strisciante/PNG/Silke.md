@@ -166,7 +166,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 
 * **Sensibilità alla Luce (Luce Intensa):** Quando Silke agisce in piena luce solare o sotto un'intensa illuminazione magica, le sue prove hanno uno svantaggio (o i giocatori ottengono +2 alla difesa contro di lei).
 * **Mano Putrefatta (Prezzo Arcano):** Silke nasconde una mano in stato avanzato di decomposizione. Quando spende 1 Stress, può toccare un bersaglio a portata da mischia infliggendo `1d6` Danno Diretto e paralizzandolo fino al suo turno successivo.
-* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Segnalino Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 PF ciascuno per bloccare i PG.
+* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Gettone Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 PF ciascuno per bloccare i PG.
 * **Immagine Speculare / Movimenti del Ragno:** Spende 1 Stress per evitare un attacco fisico o per posizionarsi istantaneamente su pareti/soffitti fuori dalla portata da mischia.
 
 ---

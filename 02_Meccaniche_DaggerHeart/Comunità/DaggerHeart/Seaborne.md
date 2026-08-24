@@ -12,4 +12,4 @@ _I Seaborne sono spesso franchi, collaborativi, esuberanti, fieri, risoluti e te
 
 ### TRATTO DI COMUNITÀ
 
-**_Conoscere la Marea:_** Puoi percepire il flusso e riflusso della vita. Quando tiri con Paura, metti un [[Token|token]] sulla tua carta della comunità. Puoi accumulare un numero di [[Token|token]] pari al tuo livello. Prima di effettuare un tiro d'azione, puoi spendere un numero qualsiasi di questi [[Token|token]] per ottenere un bonus di +1 al tiro per ogni [[Token|token]] speso. Alla fine di ogni sessione, rimuovi tutti i [[Token|token]] non spesi.
+**_Conoscere la Marea:_** Puoi percepire il flusso e riflusso della vita. Quando tiri con Paura, metti un [[Gettone|gettone]] sulla tua carta della comunità. Puoi accumulare un numero di [[Gettone|gettone]] pari al tuo livello. Prima di effettuare un tiro d'azione, puoi spendere un numero qualsiasi di questi [[Gettone|gettone]] per ottenere un bonus di +1 al tiro per ogni [[Gettone|gettone]] speso. Alla fine di ogni sessione, rimuovi tutti i [[Gettone|gettone]] non spesi.

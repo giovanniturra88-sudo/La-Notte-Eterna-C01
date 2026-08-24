@@ -15,7 +15,7 @@ type:
  * **Ago:** +1 | Ravvicinata | 1d10+1 fisico
 * **Tratti e Capacità:**
  * **Mente Collettiva - Passiva:** Il Mechanorb guadagna un bonus di +1 alla sua Difficoltà per ogni altro Mechanorb entro portata Ravvicinata.
- * **Tattiche Adattive - Passiva: Riserva.** Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un segnalino alla Riserva del Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di segnalini nella Riserva del Mechanorb. Rimuovi tutti i segnalini quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto.
+ * **Tattiche Adattive - Passiva: Riserva.** Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un gettone alla Riserva del Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di gettoni nella Riserva del Mechanorb. Rimuovi tutti i gettoni quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -35,5 +35,5 @@ tratti:
   - name: "Mente Collettiva"
     desc: "*- Passiva:* Il Mechanorb guadagna un bonus di +1 alla sua Difficoltà per ogni altro Mechanorb entro portata Ravvicinata."
   - name: "Tattiche Adattive"
-    desc: "*- Passiva: Riserva.* Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un segnalino alla Riserva del Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di segnalini nella Riserva del Mechanorb. Rimuovi tutti i segnalini quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto."
+    desc: "*- Passiva: Riserva.* Quando il Mechanorb fallisce un tiro d'attacco, aggiungi un gettone alla Riserva del Mechanorb. Tutti i Mechanorb nella scena guadagnano un bonus ai tiri d'attacco pari al numero di gettoni nella Riserva del Mechanorb. Rimuovi tutti i gettoni quando un qualsiasi Mechanorb subisce danni Gravi o viene sconfitto."
 ```

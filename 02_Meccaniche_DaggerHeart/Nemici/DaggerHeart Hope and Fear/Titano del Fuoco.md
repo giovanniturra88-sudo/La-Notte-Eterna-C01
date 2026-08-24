@@ -20,7 +20,7 @@ aliases:
  * **Armatura d'Opera d'Arte - Passiva:** Conto alla rovescia (3). Quando il Titano appare per la prima volta, attiva il conto alla rovescia. Si riduce quando il Titano subisce danni Maggiori o Gravi. Finché il conto alla rovescia non scatta, riduci i danni subiti di 1d12. Quando scatta, il Titano guadagna un bonus di +1 alla sua Difficoltà e ai tiri d'attacco.
  * **Slancio - Passiva:** Quando il Titano effettua un attacco riuscito contro un PG, guadagni una Paura.
  * **Lancia Roccia - Azione:** Segnare uno Stress per scegliere un punto entro portata Lontana, poi effettuare un attacco contro tutti i bersagli tra il Titano e quel punto. I bersagli contro cui il Titano ha successo subiscono 3d12 danni fisici.
- * **Frantumatore di Cranio - Azione:** Segnare uno Stress per posizionare un segnalino su questa scheda. La prossima volta che il Titano viene messo a fuoco, devi spendere il segnalino da questo statblock ed effettuare un attacco contro un PG entro portata Ravvicinata. In caso di successo, infliggi 3d20+5 danni fisici diretti. In caso di fallimento, il bersaglio segna uno Stress.
+ * **Frantumatore di Cranio - Azione:** Segnare uno Stress per posizionare un gettone su questa scheda. La prossima volta che il Titano viene messo a fuoco, devi spendere il gettone da questo statblock ed effettuare un attacco contro un PG entro portata Ravvicinata. In caso di successo, infliggi 3d20+5 danni fisici diretti. In caso di fallimento, il bersaglio segna uno Stress.
  * **Cuore Ardente - Reazione:** Quando il Titano segna metà o più dei suoi PF, puoi spendere una Paura e segnare qualsiasi numero di Stress per rimuovere un numero di PF pari al numero di Stress segnati.
 
 ```statblock
@@ -48,7 +48,7 @@ capacita_speciali:
   - name: "Lancia Roccia"
     desc: "*- Azione:* Segnare uno Stress per scegliere un punto entro portata Lontana, poi effettuare un attacco contro tutti i bersagli tra il Titano e quel punto. I bersagli contro cui il Titano ha successo subiscono 3d12 danni fisici."
   - name: "Frantumatore di Cranio"
-    desc: "*- Azione:* Segnare uno Stress per posizionare un segnalino su questa scheda. La prossima volta che il Titano viene messo a fuoco, devi spendere il segnalino da questo statblock ed effettuare un attacco contro un PG entro portata Ravvicinata. In caso di successo, infliggi 3d20+5 danni fisici diretti. In caso di fallimento, il bersaglio segna uno Stress."
+    desc: "*- Azione:* Segnare uno Stress per posizionare un gettone su questa scheda. La prossima volta che il Titano viene messo a fuoco, devi spendere il gettone da questo statblock ed effettuare un attacco contro un PG entro portata Ravvicinata. In caso di successo, infliggi 3d20+5 danni fisici diretti. In caso di fallimento, il bersaglio segna uno Stress."
   - name: "Cuore Ardente"
     desc: "*- Reazione:* Quando il Titano segna metà o più dei suoi PF, puoi spendere una Paura e segnare qualsiasi numero di Stress per rimuovere un numero di PF pari al numero di Stress segnati."
 ```

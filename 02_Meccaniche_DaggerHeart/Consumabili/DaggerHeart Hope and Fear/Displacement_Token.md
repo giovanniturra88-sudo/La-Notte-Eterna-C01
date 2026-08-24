@@ -7,6 +7,6 @@ original_rarity: "Uncommon"
 roll: 23
 ---
 
-# Token dello Spostamento
+# Gettone dello Spostamento
 
-Puoi ingoiare questo token per evocare due illusioni di te stesso che puoi controllare. Ogni illusione dura finché non subisce danni o fino al tuo prossimo riposo.
+Puoi ingoiare questo gettone per evocare due illusioni di te stesso che puoi controllare. Ogni illusione dura finché non subisce danni o fino al tuo prossimo riposo.

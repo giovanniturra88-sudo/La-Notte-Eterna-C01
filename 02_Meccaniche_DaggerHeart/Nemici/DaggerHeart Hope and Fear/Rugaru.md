@@ -16,7 +16,7 @@ type:
 * **Tratti e Capacità:**
  * **Inesorabile (3) - Passiva:** Il Rugaru può essere messo a fuoco fino a tre volte per turno del GM. Spendere Paura come di consueto per metterlo a fuoco.
  * **Figlio della Notte - Passiva:** Mentre è sotto la luce lunare, il Rugaru guadagna un bonus di +2 alla sua Difficoltà.
- * **Sanguinario - Passiva:** Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un segnalino a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di segnalini su questa scheda. Rimuovi tutti i segnalini quando il Rugaru subisce danni Gravi.
+ * **Sanguinario - Passiva:** Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un gettone a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di gettoni su questa scheda. Rimuovi tutti i gettoni quando il Rugaru subisce danni Gravi.
  * **Ululato alla Luna - Azione:** Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Presenza (15). I bersagli che falliscono perdono una Speranza. Guadagna una Paura per ogni Speranza persa. Se un PG non ha Speranze, deve segnare uno Stress e diventare *Vulnerabile* finché non tira con Speranza.
  * **Straziatore di Carne - Azione:** Segnare uno Stress per effettuare un attacco contro un bersaglio entro portata Ravvicinata. In caso di successo, infliggi 1d12+2 danni fisici diretti.
 
@@ -40,7 +40,7 @@ tratti:
   - name: "Figlio della Notte"
     desc: "*- Passiva:* Mentre è sotto la luce lunare, il Rugaru guadagna un bonus di +2 alla sua Difficoltà."
   - name: "Sanguinario"
-    desc: "*- Passiva:* Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un segnalino a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di segnalini su questa scheda. Rimuovi tutti i segnalini quando il Rugaru subisce danni Gravi."
+    desc: "*- Passiva:* Quando un PG segna PF dall'attacco standard del Rugaru, aggiungi un gettone a questo statblock. Il Rugaru guadagna un bonus ai tiri d'attacco pari al numero di gettoni su questa scheda. Rimuovi tutti i gettoni quando il Rugaru subisce danni Gravi."
 capacita_speciali:
   - name: "Ululato alla Luna"
     desc: "*- Azione:* Segnare uno Stress per costringere ogni PG entro portata Lontana a effettuare un Tiro di Reazione di Presenza (15). I bersagli che falliscono perdono una Speranza. Guadagna una Paura per ogni Speranza persa. Se un PG non ha Speranze, deve segnare uno Stress e diventare *Vulnerabile* finché non tira con Speranza."
