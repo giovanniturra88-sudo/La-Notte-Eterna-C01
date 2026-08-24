@@ -8,10 +8,10 @@ tier: 4
 
 **_Rango 4_** _(Opzioni di Rango 1 o Rango 2 Potenziate)_
 
-- **Bonus di Tratto:** <no value>
-- **Bonus di Evasione:** <no value>
-- **Attacco:** <no value>
-- **Vantaggi:** <no value>
+- **Bonus di Tratto:** +2 al tratto usato dalla forma (Evoluto)
+- **Bonus di Evasione:** +3 (Evoluto)
+- **Attacco:** quello della forma scelta (v. Evoluto)
+- **Vantaggi:** quelli della forma scelta (v. Evoluto)
 
 ### CARATTERISTICHE
 

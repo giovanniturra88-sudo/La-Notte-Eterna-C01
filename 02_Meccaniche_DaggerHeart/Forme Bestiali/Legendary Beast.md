@@ -8,10 +8,10 @@ tier: 3
 
 **_Rango 3_** _(Opzioni di Rango 1 Potenziate)_
 
-- **Bonus di Tratto:** <no value>
-- **Bonus di Evasione:** <no value>
-- **Attacco:** <no value>
-- **Vantaggi:** <no value>
+- **Bonus di Tratto:** +1 al tratto usato dalla forma (Evoluto)
+- **Bonus di Evasione:** +2 (Evoluto)
+- **Attacco:** quello della forma scelta (v. Evoluto)
+- **Vantaggi:** attaccare, nuotare, rintracciare
 
 ### CARATTERISTICHE
 

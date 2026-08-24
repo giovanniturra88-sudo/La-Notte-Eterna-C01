@@ -11,7 +11,7 @@ tier: 3
 - **Bonus di Tratto:** Forza +2
 - **Bonus di Evasione:** Evasione +3
 - **Attacco:** Mischia Forza d10+8 fisici
-- **Vantaggi:** <no value>
+- **Vantaggi:** 4 a scelta dalle opzioni di Rango 1-2 scelte
 
 ### CARATTERISTICHE
 
