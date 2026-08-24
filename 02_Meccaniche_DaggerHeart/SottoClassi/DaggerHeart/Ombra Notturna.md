@@ -30,7 +30,7 @@ Mentre possiedi la condizione Vulnerabile, aggiungi il tuo livello a tutti i tuo
 
 ## Caratteristica di Maestria (Mastery)
 **Ombra Fuggevole (Fleeting Shadow):**
-Ottieni un bonus permanente di +1 alla tua Evasione. Inoltre, puoi utilizzare la tua caratteristica **Passo dell'Ombra** per riapparire entro portata Remota (*Very Far*).
+Ottieni un bonus permanente di +1 alla tua Evasione. Inoltre, puoi utilizzare la tua caratteristica **Passo dell'Ombra** per riapparire entro portata Remota.
 
 **Atto di Sparizione (Vanishing Act):**
 Puoi marcare uno Stress per diventare istantaneamente Ammantato (Cloaked) in qualsiasi momento. Quando lo fai, ti liberi automaticamente dalla condizione Trattenuto (*Restrained*). Rimani Ammantato finché non effettui un tiro con Paura o fino al prossimo riposo.

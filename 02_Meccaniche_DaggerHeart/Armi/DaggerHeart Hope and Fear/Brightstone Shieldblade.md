@@ -14,6 +14,6 @@ ruolo: "primaria"
 
 ### Lama-Scudo di Brightstone
 
-**_Protettivo: +2 al Punteggio di Armatura. Con un attacco riuscito, puoi trasferire la tua CA a un alleato entro gittata di Mischia_**
+**_Protettivo: +2 al Punteggio di Armatura. Con un attacco riuscito, puoi trasferire il tuo Punteggio di Armatura a un alleato entro gittata di Mischia_**
 
 ---

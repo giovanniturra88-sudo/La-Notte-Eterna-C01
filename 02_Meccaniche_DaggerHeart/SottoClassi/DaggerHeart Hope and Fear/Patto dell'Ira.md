@@ -27,7 +27,7 @@ Quando marchi un qualsiasi numero di Punti Ferita a causa di un attacco subito, 
 ## Caratteristiche di Specializzazione (Rango 2)
 
 ### Portata Minacciosa (Menacing Reach)
-Spendi un Favore per aumentare la gittata della tua arma primaria di un gradino (es. da Mischia a Prossimo, o da Prossimo a Ravvicinato) fino a una gittata massima di **Remoto** (Very Far). Questo effetto termina quando metti a segno un attacco con successo con quell'arma.
+Spendi un Favore per aumentare la gittata della tua arma primaria di un gradino (es. da Mischia a Prossimo, o da Prossimo a Ravvicinato) fino a una gittata massima di **Remoto**. Questo effetto termina quando metti a segno un attacco con successo con quell'arma.
 
 ### Indebolire i Nemici (Diminish My Foes)
 Quando metti a segno un successo con Speranza su un tiro di azione contro un bersaglio, puoi spendere un qualsiasi numero di Favori per costringere il bersaglio a marcare **un pari numero di Stress**.

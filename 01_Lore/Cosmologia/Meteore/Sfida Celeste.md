@@ -18,7 +18,7 @@ In una feroce battaglia, Nàmhaid, un angelo appartenente a ciò che resta delle
  * **Spada Corta d'Ombra:** +3 | Ravvicinata | 2d20 danni necrotici
  * **Pugnale Infido:** +3 | Prossima | 1d20+2 perforanti; il bersaglio colpito deve superare un Tiro di Reazione di Forza (Difficoltà 15) o segnare uno Stress da veleno.
 * **Tratti e Capacità:**
- * **Multiattacco - Azione:** Effettua fino a tre Attacchi con la Spada Corta d'Ombra.
+ * **Attacchi Multipli - Azione:** Effettua fino a tre Attacchi con la Spada Corta d'Ombra.
  * **Emanare Ombre - Azione (una volta per scena):** Avvolge di ombre un'area entro portata Ravvicinata, rendendo l'oscuramento (adattamento del tratto 5e "Emanare Ombre", 3/Giorno).
 
 ## Statblock — Nàmhaid
@@ -30,7 +30,7 @@ In una feroce battaglia, Nàmhaid, un angelo appartenente a ciò che resta delle
 * **Attacchi:**
  * **Spadone Angelico:** +3 | Ravvicinata | 2d20+9 danni radianti
 * **Tratti e Capacità:**
- * **Multiattacco - Azione:** Effettua fino a due Attacchi con lo Spadone Angelico.
+ * **Attacchi Multipli - Azione:** Effettua fino a due Attacchi con lo Spadone Angelico.
  * **Armi Angeliche - Passiva:** I danni inflitti dall'angelo con le sue armi sono radianti.
  * **Tocco Curativo - Azione (3 volte per scena):** Toccando una creatura entro portata Prossima, libera 1 PF o 1 Stress a sua scelta.
  * **Aura di Gloria - Azione (una volta per scena):** Gli alleati entro portata Ravvicinata hanno vantaggio sul loro prossimo tiro d'azione.

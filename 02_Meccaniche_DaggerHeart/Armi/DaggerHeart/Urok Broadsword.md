@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Mortale:_** Quando infliggi un Danno Severo, il bersaglio deve segnare un PV aggiuntivo.
+**_Mortale:_** Quando infliggi un danno Grave, il bersaglio deve segnare un Punto Ferita aggiuntivo.
 ---

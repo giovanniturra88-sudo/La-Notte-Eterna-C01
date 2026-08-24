@@ -24,7 +24,7 @@ Ti avvicini al cratere fumante, attirato dal bagliore ultraterreno visibile da l
  * **Morso:** +2 | Prossima | 1d10+4 perforanti
 * **Tratti e Capacità:**
  * **Resistenza agli Incantesimi - Passiva:** I Tiri Incantesimo contro il Demone subiscono Svantaggio; ha resistenza ai danni da fuoco e da freddo ed è immune ai danni da veleno.
- * **Vista del Demone - Passiva:** Scurovisione 36 m; vede attraverso illusioni e magie di occultamento.
- * **Multiattacco - Azione:** Effettua due Attacchi Artiglio e un attacco Morso come parte della stessa azione.
+ * **Vista del Demone - Passiva:** Scurovisione: vede nel buio (36 m); vede attraverso illusioni e magie di occultamento.
+ * **Attacchi Multipli - Azione:** Effettua due Attacchi Artiglio e un attacco Morso come parte della stessa azione.
  * **Frenesia - Reazione:** Quando il Demone riduce una creatura a 0 PF, può effettuare immediatamente un altro attacco standard.
  * **Mutare Forma - Azione:** Usando il [[Bracciale delle Molte Forme]], può assumere l'aspetto di qualsiasi creatura (vedi l'artefatto per i limiti).
