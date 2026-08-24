@@ -25,7 +25,7 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota all'antico cult
  * **Aura di Devozione - Passiva:** Mendulia e gli alleati in portata Ravvicinata non possono essere affascinati o spaventati.
  * **Immunità alla Luce - Passiva:** Immune ai danni radianti.
  * **Percezione:** 15.
- * **Incantesimi del Chierico - Azione:** Canalizza capacità di cura, protezione e danno radiante (Difficoltà 17), come Colpo Infuocato e Parola della Guarigione.
+ * **Incantesimi del Chierico - Azione:** Canalizza capacità di cura e danno radiante (Difficoltà 17): **Colpo Infuocato (a volontà)**: attacco con capacità magica a Distanza, gittata Lontana, un bersaglio. Colpito: 3d8+3 danni radianti e da fuoco. **Parola della Guarigione (3 volte per scena)**: un alleato entro portata Ravvicinata recupera 2d10 Punti Ferita.
  * **Scacciare Abomini (3 volte per scena) - Azione:** Mostra il simbolo sacro. Ogni non morto o immondo in portata Ravvicinata deve superare un Tiro di Reazione di Istinto con Difficoltà 17 o essere scacciato, o distrutto se di rango pari o inferiore a 2.
  * **Intercessione Divina - Reazione:** Quando un alleato in portata Ravvicinata subisce danni, Mendulia li riduce di 16 (3d10) ponendosi come scudo spirituale.
 
@@ -33,7 +33,7 @@ Mendulia è una figura venerata tra i superstiti di Neir. Devota all'antico cult
 
 #### **TRATTI SPECIALI**
 - **Aura di Devozione:** Mendulia e gli alleati in portata Ravvicinata non possono essere affascinati o spaventati.
-- **Incantesimi Chierico:** Mendulia è un'incantatrice di Rango 3 (Difficoltà 17, +4 ai tiri d'attacco magici). Ha accesso a capacità di cura, protezione e danno radiante (es. Colpo Infuocato, Parola della Guarigione).
+- **Incantesimi del Chierico:** Mendulia è un'incantatrice di Rango 3 (Difficoltà 17, +4 ai tiri d'attacco magici). **Colpo Infuocato (a volontà):** attacco con capacità magica a Distanza: +3, gittata Lontana, un bersaglio. Colpito: 3d8+3 danni radianti e da fuoco. **Parola della Guarigione (3 volte per scena):** un alleato entro portata Ravvicinata recupera 2d10 Punti Ferita.
 
 #### **AZIONI**
 - **Mazza Radiosa:** Attacco con Arma da Mischia: +3 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+3 danni contundenti e radianti.
