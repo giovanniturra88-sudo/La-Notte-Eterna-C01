@@ -19,7 +19,7 @@ L'Inarrestabile (Juggernaut) è una forza della natura distruttiva sul campo di 
 Guadagni un bonus permanente di **+3 alla tua soglia di danno Grave** (Severe damage threshold).
 
 ### Sopraffare (Overwhelm)
-Quando metti a segno un attacco con successo contro un bersaglio, puoi spendere una Speranza per **scaraventarlo** entro portata Ravvicinata (Close range) o per costringerlo a marcare **uno Stress**.
+Quando metti a segno un attacco con successo contro un bersaglio, puoi spendere una Speranza per **scaraventarlo** entro portata Ravvicinata (gittata Ravvicinata) o per costringerlo a marcare **uno Stress**.
 
 ## Caratteristiche di Specializzazione (Rango 2)
 

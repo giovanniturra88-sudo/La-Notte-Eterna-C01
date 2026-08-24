@@ -17,20 +17,20 @@ Ranger nani specializzati nel depistaggio non letale e nell'uso di illusioni mon
 
 ### Fondazione
 **_Munizioni di Depistaggio:_** Durante un riposo breve o lungo, puoi preparare 3 frecce speciali. Quando attacchi, spendi una freccia per scatenare un effetto (non infligge danni):
-- **Spettrale**: Bersagli entro portata Prossima devono superare un TS Istinto o essere Spaventati per 1 round.
-- **Luminosa**: Bersagli entro Close range devono superare un TS Costituzione o essere Accecati per 1 round.
-- **Stordente**: Bersagli entro Close range devono superare un TS Costituzione o essere Assordati per 1 round.
+- **Spettrale**: Bersagli entro portata Prossima devono superare un Tiro di Reazione di Istinto o essere Spaventati per 1 round.
+- **Luminosa**: Bersagli entro gittata Ravvicinata devono superare un Tiro di Reazione di Forza o essere Accecati per 1 round.
+- **Stordente**: Bersagli entro gittata Ravvicinata devono superare un Tiro di Reazione di Forza o essere Assordati per 1 round.
 
 ---
 
 ### Specializzazione
 **_Guardiano Illusorio:_** Quando vieni bersagliato da un attacco in mischia, puoi usare la tua reazione e spendere 1 Stress per lanciare *Immagine Speculare* (Mirror Image).
-**_Frecce del Sonno:_** Puoi marcare uno Stress per scoccare una freccia speciale. Il bersaglio deve effettuare un TS Saggezza o cadere addormentato per 1 round.
+**_Frecce del Sonno:_** Puoi marcare uno Stress per scoccare una freccia speciale. Il bersaglio deve effettuare un Tiro di Reazione di Istinto o cadere addormentato per 1 round.
 
 ---
 
 ### Maestria
-**_Via da Qui:_** Una volta per riposo lungo, spendendo 2 Speranza, puoi forzare un bersaglio visibile a effettuare un TS Carisma. In caso di fallimento, viene teletrasportato in un luogo sicuro precedentemente visitato da te entro portata Lontana.
+**_Via da Qui:_** Una volta per riposo lungo, spendendo 2 Speranza, puoi forzare un bersaglio visibile a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, viene teletrasportato in un luogo sicuro precedentemente visitato da te entro portata Lontana.
 
 ---
 

@@ -28,7 +28,7 @@ Barbaro e guerriero nativo delle gelide tundre delle Valli dei Giganti, temprato
 ---
 
 ### Maestria
-**_Vento Glaciale:_** Una volta per scena, puoi esalare un soffio di gelo in un cono di 4,5 metri. L'area diventa terreno difficile per 1 minuto. Ogni nemico nell'area deve superare un TS Costituzione o subire 4d6 danni da gelo e avere la propria velocità dimezzata per 1 minuto.
+**_Vento Glaciale:_** Una volta per scena, puoi esalare un soffio di gelo in un cono di 4,5 metri. L'area diventa terreno difficile per 1 minuto. Ogni nemico nell'area deve superare un Tiro di Reazione di Forza o subire 4d6 danni da gelo e avere la propria velocità dimezzata per 1 minuto.
 
 ---
 
