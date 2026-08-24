@@ -23,7 +23,7 @@ Paladini risorti per volere di Krea, che non seguono la via del bene o del male 
 
 ### Specializzazione
 **_Aura dell'Oltretomba:_** Emani un'aura verdastra entro portata Ravvicinata. Gli spiriti e le creature invisibili all'interno dell'aura diventano visibili. Le creature incorporee che entrano nell'area perdono la loro capacità di movimento incorporeo per la durata della scena.
-**_Cupo Raccolto:_** Quando infliggi danni necrotici, recuperi HP pari a un quarto dei danni inflitti.
+**_Cupo Raccolto:_** Quando infliggi danni necrotici, recuperi Punti Ferita pari a un quarto dei danni inflitti.
 
 ---
 

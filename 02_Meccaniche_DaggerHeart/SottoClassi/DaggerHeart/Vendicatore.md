@@ -22,7 +22,7 @@ Annichilire chiunque osi attaccare te o ferire i tuoi protetti.
 Ottieni uno slot di Stress aggiuntivo permanente alla creazione del personaggio.
 
 **Vendetta (Revenge):**
-Quando un avversario entro portata di Mischia ha successo in un attacco contro di te, puoi marcare 2 Stress per costringere l'attaccante a marcare un Punto Ferita (HP).
+Quando un avversario entro portata di Mischia ha successo in un attacco contro di te, puoi marcare 2 Stress per costringere l'attaccante a marcare un Punto Ferita.
 
 ## Caratteristica di Specializzazione (Specialization)
 **Atto di Rappresaglia (Act of Reprisal):**

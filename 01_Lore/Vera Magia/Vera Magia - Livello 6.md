@@ -64,7 +64,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 6 | Costo: 2 Speranza
 * **Tempo di Esecuzione:** 1 settimana (Rituale)
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 * **Durata:** Permanente / Istantanea
 
 Trasferisci in modo permanente il potere di un oggetto magico consumabile o permanente in un altro oggetto non magico che tocchi durante il lancio. L'oggetto magico originale viene distrutto nel processo.

@@ -126,7 +126,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 * **Eredità (Ancestry):** Klorss (Elfo delle Profondità / Drow)
 * **Comunità (Community):** Underborne / Sottoterra (o Scuola d'Arcano)
 * **Classe:** Sorcerer / Wizard (Specializzazione Necromanzia / Arcanista)
-* **Ruolo / Tier:** PNG / Avversario (Tier 1 Leader o Solo)
+* **Ruolo / Rango:** PNG / Avversario (Rango 1 Capo o Solo)
 * **Aspetto:** Elegante e raffinata, veste sempre con abiti di seta e pizzo nero. Ha pelle d'alabastro/grigio pallido, capelli ramati raccolti con gioielli d'oro e rubini. Indossa sempre un raffinato guanto di seta nera sulla mano sinistra per nascondere l'arto tumefatto e putrefatto, prezzo pagato per le sue ricerche necromantiche.
 
 ---
@@ -140,7 +140,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 
 ---
 
-## 📊 Daggerheart Adversary Stats (Tier 1 Leader / Major NPC)
+## 📊 Statistiche Avversario Daggerheart (Rango 1 Capo / PNG Principale)
 
 ### Statistiche Base
 * **Difficulty (Difficoltà):** 14
@@ -157,8 +157,8 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 ## ⚔️ Attacchi e Azioni (Moves & Actions)
 
 ### Attacchi
-* **Bastone Ferrato (Melee):** `+2` vs Difficoltà | **Danno:** `1d8+2` Fisico (Portata da Mischia).
-* **Tocco Gelido / Raggio di Infermità (Far):** `+4` vs Difficoltà | **Danno:** `1d10+4` Magico/Sconfiggente (Portata Lontana). *Spende 1 Stress per applicare la condizione **Vulnerabile** al bersaglio.*
+* **Bastone Ferrato:** `+2` vs Difficoltà | **Danno:** `1d8+2` Fisico (Portata da Mischia).
+* **Tocco Gelido / Raggio di Infermità:** `+4` vs Difficoltà | **Danno:** `1d10+4` Magico/Sconfiggente (Portata Lontana). *Spende 1 Stress per applicare la condizione **Vulnerabile** al bersaglio.*
 
 ---
 
@@ -166,7 +166,7 @@ Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storylin
 
 * **Sensibilità alla Luce (Luce Intensa):** Quando Silke agisce in piena luce solare o sotto un'intensa illuminazione magica, le sue prove hanno uno svantaggio (o i giocatori ottengono +2 alla difesa contro di lei).
 * **Mano Putrefatta (Prezzo Arcano):** Silke nasconde una mano in stato avanzato di decomposizione. Quando spende 1 Stress, può toccare un bersaglio a portata da mischia infliggendo `1d6` Danno Diretto e paralizzandolo fino al suo turno successivo.
-* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Segnalino Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 HP ciascuno per bloccare i PG.
+* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Segnalino Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 PF ciascuno per bloccare i PG.
 * **Immagine Speculare / Movimenti del Ragno:** Spende 1 Stress per evitare un attacco fisico o per posizionarsi istantaneamente su pareti/soffitti fuori dalla portata da mischia.
 
 ---

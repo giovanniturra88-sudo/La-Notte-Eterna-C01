@@ -6,7 +6,7 @@
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** 10 minuti (Preparazione)
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 * **Durata:** 1 Ora (dall'assunzione)
 
 Preparati un elisir titanico. Quando una creatura beva il composto, subisce una trasformazione impressionante per la durata di 1 ora:
@@ -59,12 +59,12 @@ Tutte le creature viventi nell'area dell'esplosione devono effettuare un **Tiro 
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 3 Speranza
 * **Tempo di Esecuzione:** 5 ore (Rituale)
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 * **Durata:** Finché non viene attivato
 
 Predisponi la sala degli specchi, posizionando gli specchi lungo il perimetro di un'area non superiore a un raggio di 9 m (per esempio le pareti di una stanza) e cospargendo le superfici riflettenti di polvere di platino (componente consumata). Al termine, gli specchi diventano impossibili da percepire se non con vista pura, visione del vero o effetti simili.
 
-L'area delimitata dagli specchi diventa, a tutti gli effetti, una trappola pronta a scattare. Puoi affinare l'innesco in modo che si attivi solo in certe circostanze (caratteristiche fisiche come altezza o peso, tipo di creatura, allineamento) o stabilire le condizioni per le creature che non lo innescano (es. una parola d'ordine).
+L'area delimitata dagli specchi diventa, a tutti gli effetti, una trappola pronta a scattare. Puoi affinare l'innesco in modo che si attivi solo in certe circostanze (caratteristiche fisiche come altezza o peso, tipo di creatura, indole) o stabilire le condizioni per le creature che non lo innescano (es. una parola d'ordine).
 
 Quando una creatura innesca la trappola, deve superare un **Tiro di Reazione di Istinto (Difficoltà 18)**: se fallisce, resta imprigionata in una gabbia mentale. La creatura percepisce la gabbia come un labirinto di immagini speculari riflesse all'infinito e, mentre è imprigionata, è incapace di agire e non ha percezione di ciò che le accade attorno.
 
@@ -78,7 +78,7 @@ Ogni 10 minuti trascorsi nella sala, la creatura ripete il Tiro di Reazione di I
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 8 | Costo: 4 Speranza
 * **Tempo di Esecuzione:** 1 ora (Rituale)
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 * **Durata:** 2 ore
 
 Tracci un quadrato con lato di 12 m usando una mistura di polveri metalliche (componente consumata). Al termine, l'incantesimo crea una barriera di luce azzurra e rossa che occupa un cubo con spigolo di 12 m.

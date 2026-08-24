@@ -27,7 +27,7 @@ I druidi proteggono la natura selvaggia e ne traggono un potere magico immenso, 
 Scegli tra la sottoclasse [[Custode degli Elementi]] o [[Custode del Rinnovamento]].
 
 # Caratteristiche di Classe
-**_Forma Bestiale (Beastform):_** Marca uno Stress per trasformarti magicamente in una creatura del tuo tier o inferior dal listino delle [[Forme Bestiali]]. Ottieni l'Evasione e l'attacco della forma scelta, ma non puoi usare armi o lanciare magie delle carte dominio finché sei trasformato.
+**_Forma Bestiale (Beastform):_** Marca uno Stress per trasformarti magicamente in una creatura del tuo rango o inferiore dal listino delle [[Forme Bestiali]]. Ottieni l'Evasione e l'attacco della forma scelta, ma non puoi usare armi o lanciare magie delle carte dominio finché sei trasformato.
 **_Tocco Selvatico (Wildtouch):_** Puoi eseguire piccoli effetti magici innocui legati alla natura (far sbocciare un fiore, accendere un piccolo fuoco, creare una brezza) a piacimento.
 
 # Domande di Sfondo

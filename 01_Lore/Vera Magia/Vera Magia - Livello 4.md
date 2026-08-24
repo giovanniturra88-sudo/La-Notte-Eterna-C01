@@ -13,7 +13,7 @@ tags:
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Istantaneo
-* **Gittata:** Remoto (Very Far)
+* **Gittata:** Remoto
 
 Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce automaticamente infliggendo `2d20` danni magici. Inoltre ogni dardo genera un'onda d'urto in un'area Prossima: le creature coinvolte subiscono `1d20` danni magici extra (metà in caso di successo) a meno che non superino un Tiro di Reazione di Agilità.
 
@@ -35,7 +35,7 @@ Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al mome
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Istinto/Conoscenza)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Linea Retta fino a Lontano (Far)
+* **Gittata:** Linea Retta fino a Lontano
 
 Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devono superare un Tiro di Reazione di Agilità: se falliscono subiscono `4d20` danni da fuoco (se superano, metà danno). Con una mossa nel tuo turno puoi riorientare il raggio.
 

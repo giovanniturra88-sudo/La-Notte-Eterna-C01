@@ -13,7 +13,7 @@ tags:
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Istantaneo
-* **Gittata:** Remoto (Very Far)
+* **Gittata:** Remoto
 
 Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `7d20` danni magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Ravvicinata** dal punto d'impatto, spingendoli indietro e infliggendo `2d20` danni magici a meno che non superino un Tiro di Reazione di Forza.
 
@@ -49,9 +49,9 @@ Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il b
 * **Costo:** 2 Speranza
 * **Tiro d'Attacco / Magia:** Automatico
 * **Durata:** 1 Scena
-* **Gittata:** Contatto / Personale
+* **Gittata:** Mischia / Personale
 
-Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene **Vantaggio a TUTTI i Tiri di Reazione** e un bonus di **+2 all'Evasione (Evasion)** per la durata della Scena. Se viene attaccato in mischia, può immediatamente spendere una reazione per effettuare un attacco di risposta.
+Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene **Vantaggio a TUTTI i Tiri di Reazione** e un bonus di **+2 all'Evasione** per la durata della Scena. Se viene attaccato in mischia, può immediatamente spendere una reazione per effettuare un attacco di risposta.
 
 ---
 

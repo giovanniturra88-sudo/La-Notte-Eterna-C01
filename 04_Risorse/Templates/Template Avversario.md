@@ -13,7 +13,7 @@ type:
 * **Esperienza:** Tratto +2
 * **Attacchi:**
  * **Nome Attacco 1:** +X | Distanza | XdX+X tipo danno
- * **Nome Attacco 2:** +X | Da Vicino | XdX+X tipo danno
+ * **Nome Attacco 2:** +X | Ravvicinata | XdX+X tipo danno
 * **Tratti e Capacità:**
  * **Nome Tratto Passivo:** Descrizione dell'effetto passivo o condizionale.
  * **Nome Mossa (Costo: 1 Paura):** Descrizione dell'abilità speciale che consuma risorse del GM o Stress.
@@ -33,7 +33,7 @@ attacchi:
   - name: "Nome Attacco 1"
     desc: "**+X** | Distanza | **XdX+X** tipo danno"
   - name: "Nome Attacco 2"
-    desc: "**+X** | Da Vicino | **XdX+X** tipo danno"
+    desc: "**+X** | Ravvicinata | **XdX+X** tipo danno"
 tratti:
   - name: "Nome Tratto Passivo"
     desc: "Descrizione dell'effetto passivo o condizionale."

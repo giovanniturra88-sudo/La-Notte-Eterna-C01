@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Stordente:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata Contatto a rientrare in portata Ravvicinata.
+**_Stordente:_** Segna un livello di Stress per scoccare la frusta e costringere tutti gli avversari entro portata di Mischia a rientrare in portata Ravvicinata.
 ---

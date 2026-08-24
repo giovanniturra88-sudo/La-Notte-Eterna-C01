@@ -13,7 +13,7 @@ tags:
 * **Costo:** 1 Speranza
 * **Tempo di Preparazione:** 5 minuti
 * **Durata:** Fino al prossimo Riposo Lungo
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 
 Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumirne uno:
 - **Uso Curativo:** Rimuove **1 Segnalino Danno** (o cura `1d20+3` PF se usate le regole opzionali sui Punti Ferita).
@@ -26,7 +26,7 @@ Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Automatico (Incantatore)
 * **Durata:** 1 Scena
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 
 Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'attacco e ai tiri di danno**, emana una fioca luce e infligge **+1d6 Danni Aggiuntivi** in base alla fase lunare:
 - **Luna Piena:** Danni Radiosi.
@@ -42,7 +42,7 @@ Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Personale
 
-La tua pelle si ricopre di sigilli luminosi. La tua **Evasione (Evasion)** aumenta di **+2** e la tua Evasione non può essere inferiore a 16. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `1d6` Danni Magici di ritorsione.
+La tua pelle si ricopre di sigilli luminosi. La tua **Evasione** aumenta di **+2** e la tua Evasione non può essere inferiore a 16. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `1d6` Danni Magici di ritorsione.
 
 ---
 

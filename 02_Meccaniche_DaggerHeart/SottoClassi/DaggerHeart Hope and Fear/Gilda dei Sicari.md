@@ -27,7 +27,7 @@ La tua caratteristica di classe _Marchiato per la Morte_ (Marked for Death) util
 ## Caratteristiche di Specializzazione (Rango 2)
 
 ### Colpo Mortale (Death Strike)
-Quando infliggi danni Gravi (Severe) o superiori a una creatura, puoi marcare uno Stress per costringerla a marcare **un Punto Ferita (HP) addizionale**.
+Quando infliggi danni Gravi (Severe) o superiori a una creatura, puoi marcare uno Stress per costringerla a marcare **un Punto Ferita addizionale**.
 
 ### Portamento dello Scorpione (Scorpion's Poise)
 Guadagni un bonus di **+2 alla tua Evasione** contro tutti gli attacchi effettuati da una creatura che hai attualmente _Marchiata per la Morte_.

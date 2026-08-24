@@ -23,7 +23,7 @@ Dal tuo corpo fuoriescono vapori verdastri e miasmi di morte che ricoprono la zo
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Conoscenza o Presenza)
 * **Durata:** Istantaneo
-* **Gittata:** Lontano (Far)
+* **Gittata:** Lontano
 
 Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana** che colpisce automaticamente infliggendo `1d20+5` danni Magici. Inoltre, l'impatto genera un'esplosione in un'area Ravvicinata: le creature adiacenti devono superare un Tiro di Reazione di Agilità (Difficoltà 12) o subire `1d20` danni magici (metà in caso di successo).
 
@@ -34,7 +34,7 @@ Scagli un massiccio dardo d'energia azzurra su un bersaglio a gittata **Lontana*
 * **Costo:** 1 Speranza
 * **Tempo di Preparazione:** 10 minuti
 * **Durata:** 1 Scena
-* **Gittata:** Contatto
+* **Gittata:** Mischia
 
 Infondi di energia una lappola. Quando consumata da te o un alleato, dona per **1 minuto** **Vantaggio** ai Tiri di Reazione e alle prove basati su *Forza*, **Resistenza** ai danni da Veleno e la possibilità di effettuare un attacco in mischia senza spendere un'azione. Al termine dell'effetto, chi ne ha usufruito subisce **1 Stress** e non può usare capacità che richiedono la parola per il resto della sessione.
 

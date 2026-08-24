@@ -15,5 +15,5 @@ type:
 
 ### EFFETTO
 
-**_Aggancio:_** Se il tuo attacco colpisce, puoi spendere una Speranza per Immobilizzare il bersaglio o trascinarlo nella tua portata di Contatto.
+**_Aggancio:_** Se il tuo attacco colpisce, puoi spendere una Speranza per Immobilizzare il bersaglio o trascinarlo nella tua portata di Mischia.
 ---

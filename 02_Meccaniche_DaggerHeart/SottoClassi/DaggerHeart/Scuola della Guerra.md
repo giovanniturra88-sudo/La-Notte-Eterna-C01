@@ -19,7 +19,7 @@ Combattere nelle prime linee della battaglia, amplificando la potenza distruttiv
 
 ## Caratteristica di Fondazione (Foundation)
 **Mago da Battaglia (Battlemage):**
-Hai concentrato i tuoi studi per diventare una forza indistruttibile sul campo di battaglia. Guadagni uno slot Punto Ferita (HP) aggiuntivo permanente alla creazione del personaggio.
+Hai concentrato i tuoi studi per diventare una forza indistruttibile sul campo di battaglia. Guadagni uno slot Punto Ferita aggiuntivo permanente alla creazione del personaggio.
 
 **Affronta la Paura (Face Your Fear):**
 Quando hai successo con Paura (*Fear*) in un tiro d'attacco, infliggi **1d10** danni magici extra.

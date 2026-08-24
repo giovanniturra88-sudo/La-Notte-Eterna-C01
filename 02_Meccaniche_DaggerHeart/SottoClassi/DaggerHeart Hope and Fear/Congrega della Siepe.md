@@ -19,7 +19,7 @@ Le streghe della Congrega della Siepe (Hedge Coven) praticano la stregoneria tra
 ## Caratteristiche di Fondazione (Rango 1)
 
 ### Rimedi Erboristici (Herbal Remedies)
-Sei un'esperta di filtri e pozioni. Quando tu o un alleato nella scena recuperate 1 o più Punti Ferita (HP) o Stress grazie all'uso di un consumabile (come una pozione o un unguento), **aumentate l'ammontare recuperato di 1**.
+Sei un'esperta di filtri e pozioni. Quando tu o un alleato nella scena recuperate 1 o più Punti Ferita o Stress grazie all'uso di un consumabile (come una pozione o un unguento), **aumentate l'ammontare recuperato di 1**.
 
 ### Talismano Incantato (Enchanted Talisman)
 Una volta per riposo, puoi infondere un piccolo oggetto della tua essenza protettiva. Spendi un qualsiasi numero di Speranza per posizionare un pari numero di segnalini su questa carta. Quando la persona che tiene il talismano subisce danni, spende un segnalino per **ridurre di uno i Punti Ferita marcati**. Rimuovi tutti i segnalini rimasti su questa carta quando effettui un riposo.

@@ -13,7 +13,7 @@ tags:
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Breve / 3 Utilizzi
-* **Gittata:** Ravvicinata (Close) / Lancio
+* **Gittata:** Ravvicinata / Lancio
 
 Evochi una lama di energia bluastra con 3 Cariche di Potere. Puoi attivarla come attacco o reazione:
 - Ad ogni attacco consumi 1 Carica ed infliggi il tuo danno base (1d4) + `2d20` Danni Magici. 
@@ -59,6 +59,6 @@ Mentre ti muovi, i tuoi passi scuotono il suolo. Ogni creatura a terra entro git
 * **Costo:** 1 Speranza
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Conoscenza)
 * **Durata:** mantenimento dell'effetto
-* **Gittata:** Area Ravvicinata (Close)
+* **Gittata:** Area Ravvicinata
 
 Un'aura necromantica fa spuntare mani scheletriche dal terreno in un'area attorno a te. Chiunque non sia designato da te ed entri nell'area deve superare un Tiro di Reazione di Agilità: chi fallisce subisce `1d20+4` danni necrotici (metà in caso di successo) ed è **Trattenuto**. All'inizio del proprio turno, una creatura trattenuta subisce nuovamente `1d20+4` danni necrotici.
