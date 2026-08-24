@@ -11,7 +11,7 @@ Capita assai di rado ma a volte succede che un vampiro nutra un secondo fine nei
 ## Tratti del Vampiro
 I vampiri sono creature della notte dotati di capacità soprannaturali. In basso riportiamo quelle più comuni ma alcuni non morti potrebbero esibire caratteristiche uniche in base alle particolari circostanze con cui furono generati.
 ### Incremento dei Punteggi di Caratteristica
-Il punteggio di Agilità del vampiro aumenta di 2 e il punteggio di Carisma aumenta di 1.
+Il punteggio di Destrezza del vampiro aumenta di 2 e il punteggio di Carisma aumenta di 1.
 ### Tipo
 Non morto
 ### Taglia
