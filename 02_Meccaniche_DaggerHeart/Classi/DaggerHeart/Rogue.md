@@ -21,7 +21,7 @@ I ladri sono maestri dell'ombra, del sotterfugio e del crimine. Si muovono nell'
 # Speranza
 
 ## Caratteristica Speranza
-**_Schivata del Ladro:_** Spendi 3 Punti Speranza per ottenere +2 all'Evasione finché un attacco non va a segno contro di te, o fino al prossimo riposo.
+**_Schivata del Ladro:_** Spendi 3 Speranze per ottenere +2 all'Evasione finché un attacco non va a segno contro di te, o fino al prossimo riposo.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Ombra Notturna]] o [[Ladro]].

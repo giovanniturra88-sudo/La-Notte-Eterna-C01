@@ -20,7 +20,7 @@ I guerrieri dedicano la vita allo studio e alla maestria delle armi da mischia. 
 # Speranza
 
 ## Caratteristica Speranza
-**_Nessuna Pietà:_** Spendi 3 Punti Speranza per ottenere un bonus di +1 ai tiri di attacco fino al prossimo riposo.
+**_Nessuna Pietà:_** Spendi 3 Speranze per ottenere un bonus di +1 ai tiri di attacco fino al prossimo riposo.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Chiamata del Coraggio]] o [[Chiamata dello Sterminatore]].

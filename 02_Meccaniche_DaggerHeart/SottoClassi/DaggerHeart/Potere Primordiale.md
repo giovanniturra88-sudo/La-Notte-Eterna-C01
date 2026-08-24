@@ -12,9 +12,9 @@ spellcast_trait: Istinto
 # Potere Primordiale (Primal Origin)
 
 *Sottoclasse della classe:* [[Sorcerer]]
-*Caratteristica di Spellcast:* **Istinto (Instinct)**
+*Tratto da Incantatore:* **Istinto (Instinct)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Manipolare la struttura innata e caotica degli incantesimi per deviare la realtà.
 
 ## Caratteristica di Fondazione (Foundation)

@@ -12,9 +12,9 @@ spellcast_trait: Istinto
 # Potere Elementale (Elemental Origin)
 
 *Sottoclasse della classe:* [[Sorcerer]]
-*Caratteristica di Spellcast:* **Istinto (Instinct)**
+*Tratto da Incantatore:* **Istinto (Instinct)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Incanalare il potere grezzo degli elementi naturali.
 
 ## Caratteristica di Fondazione (Foundation)

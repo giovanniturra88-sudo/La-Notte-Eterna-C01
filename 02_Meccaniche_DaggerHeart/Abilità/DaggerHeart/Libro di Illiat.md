@@ -8,7 +8,7 @@ Titolo Inglese:
 ---
 
 ## Sonno
-Fai un **Tiro di Lancio di Magia** contro un bersaglio entro portata Prossima. Se riesci, il bersaglio è _Addormentato_ fino a quando non subisce danni o il GM spende una Paura al suo turno per rimuovere questa condizione.
+Fai un **Tiro Incantesimo** contro un bersaglio entro portata Prossima. Se riesci, il bersaglio è _Addormentato_ fino a quando non subisce danni o il GM spende una Paura al suo turno per rimuovere questa condizione.
 
 ## Barriera Arcana
 Una volta per riposo, **spendi qualsiasi numero di Speranza** e lancia proiettili magici che colpiscono un bersaglio a tua scelta entro portata Ravvicinata. Lancia un numero di **d6** uguale alla Speranza spesa e infliggi quel tanto di danni magici al bersaglio.

@@ -12,9 +12,9 @@ spellcast_trait: Istinto
 # Custode degli Elementi (Warden of the Elements)
 
 *Sottoclasse della classe:* [[Druid]]
-*Caratteristica di Spellcast:* **Istinto (Instinct)**
+*Tratto da Incantatore:* **Istinto (Instinct)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Incarnare gli elementi naturali delle terre selvagge per scatenare fiamme, tempeste o difese impenetrabili.
 
 ## Caratteristica di Fondazione (Foundation)

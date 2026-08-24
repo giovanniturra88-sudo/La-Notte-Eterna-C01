@@ -20,7 +20,7 @@ Gli stregoni nascono con un talento magico innato, un potere grezzo che scorre n
 # Speranza
 
 ## Caratteristica Speranza
-**_Magia Volatile:_** Spendi 3 Punti Speranza per ripetere qualsiasi numero di dadi di danno su un attacco che infligge danno magico.
+**_Magia Volatile:_** Spendi 3 Speranze per ripetere qualsiasi numero di dadi di danno su un attacco che infligge danno magico.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Potere Elementale]] o [[Potere Primordiale]].

@@ -12,9 +12,9 @@ spellcast_trait:
 # Chiamata del Coraggio (Call of the Brave)
 
 *Sottoclasse della classe:* [[Warrior]]
-*Caratteristica di Spellcast:* **Nessuno (No Spellcast)**
+*Tratto da Incantatore:* **Nessuno (No Spellcast)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Ispirare gli alleati e guidare il gruppo con eroismo e sprezzo del pericolo.
 
 ## Caratteristica di Fondazione (Foundation)

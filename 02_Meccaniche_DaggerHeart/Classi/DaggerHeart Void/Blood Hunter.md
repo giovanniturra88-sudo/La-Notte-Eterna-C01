@@ -20,7 +20,7 @@ I Blood Hunter sono cacciatori oscuri che brandiscono i poteri della magia del s
 # Speranza
 
 ## Caratteristica Speranza
-**_Maledizione del Sangue:_** Spendi 3 Punti Speranza quando un avversario a portata Ravvicinata mette a segno un attacco per costringerlo a ripetere il tiro con svantaggio.
+**_Maledizione del Sangue:_** Spendi 3 Speranze quando un avversario a portata Ravvicinata mette a segno un attacco per costringerlo a ripetere il tiro con svantaggio.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Ordine dello Spettro]], [[Ordine del Mutante]] o [[Ordine del Licantropo]].

@@ -13,4 +13,4 @@ tier: 3
 - **Soglie di Danno:** 11 / 26
 - **Punteggio di Armatura:** 5
 
-> Fodera: Segna un Stress per negare danno Minore.
+> Fodera: Segna uno Stress per negare danno Minore.

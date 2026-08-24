@@ -20,14 +20,14 @@ I warlock stipulano patti sacrileghi con potenti patroni celesti, fatati o abiss
 # Speranza
 
 ## Caratteristica Speranza
-**_Dono del Patrono (Patron's Boon):_** Quando fallisci un tiro d'azione, spendi 3 Punti Speranza per ripetere il tiro con vantaggio.
+**_Dono del Patrono (Patron's Boon):_** Quando fallisci un tiro d'azione, spendi 3 Speranze per ripetere il tiro con vantaggio.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Patto dell'Infinito]] o [[Patto dell'Ira]].
 
 # Caratteristiche di Classe
 **_Patto del Patrono (Patron's Pact):_** Scegli il nome e la Sfera d'Influenza (es. Caos, Morte, Guerra) del tuo patrono. Prima di effettuare un tiro legato alla Sfera d'Influenza, puoi spendere un Favore per tirare il tuo Dado del Patrono (d6 al livello 1, d8 al livello 5) e sommarlo al risultato.
-**_Favore:_** Inizi con 3 Favori. Puoi compiere un rito di tributo durante un riposo per riguadagnare Favori pari al tuo tratto di Incantesimo.
+**_Favore:_** Inizi con 3 Favori. Puoi compiere un rito di tributo durante un riposo per riguadagnare Favori pari al tuo tratto da Incantatore.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

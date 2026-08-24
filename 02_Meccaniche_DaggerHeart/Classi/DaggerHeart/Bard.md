@@ -21,7 +21,7 @@ I bardi sono i maestri della captazione e del fascino in tutti i regni. Esperti 
 # Speranza
 
 ## Caratteristica Speranza
-**_Fare Scena:_** Spendi 3 Punti Speranza per Distrarre temporaneamente un bersaglio entro portata Ravvicinata, infliggendogli una penalità di -2 alla sua Difficoltà.
+**_Fare Scena:_** Spendi 3 Speranze per Distrarre temporaneamente un bersaglio entro portata Ravvicinata, infliggendogli una penalità di -2 alla sua Difficoltà.
 
 # Sottoclassi
 Scegli tra la sottoclasse del [[Trovatore]] o del [[Oratore]].

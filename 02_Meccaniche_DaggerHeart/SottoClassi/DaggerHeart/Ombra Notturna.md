@@ -12,9 +12,9 @@ spellcast_trait: Astuzia
 # Ombra Notturna(Nightwalker)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Astuzia (Astuzia)**
+*Tratto da Incantatore:* **Astuzia (Finesse)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Fondersi con l'oscurità e spostarsi istantaneamente tra le ombre.
 
 ## Caratteristica di Fondazione (Foundation)
@@ -33,4 +33,4 @@ Mentre possiedi la condizione Vulnerabile, aggiungi il tuo livello a tutti i tuo
 Ottieni un bonus permanente di +1 alla tua Evasione. Inoltre, puoi utilizzare la tua caratteristica **Passo dell'Ombra** per riapparire entro portata Remota (*Very Far*).
 
 **Atto di Sparizione (Vanishing Act):**
-Puoi marcare uno Stress per diventare istantaneamente Nascosto in qualsiasi momento. Quando lo fai, ti liberi automaticamente dalla condizione Trattenuto (*Restrained*). Rimani Nascosto finché non effettui un tiro con Paura o fino al prossimo rest.
+Puoi marcare uno Stress per diventare istantaneamente Nascosto in qualsiasi momento. Quando lo fai, ti liberi automaticamente dalla condizione Trattenuto (*Restrained*). Rimani Nascosto finché non effettui un tiro con Paura o fino al prossimo riposo.

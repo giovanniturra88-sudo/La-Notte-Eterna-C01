@@ -12,9 +12,9 @@ spellcast_trait: Forza
 # Sentinella Alata (Winged Sentinel)
 
 *Sottoclasse della classe:* [[Seraph]]
-*Caratteristica di Spellcast:* **Forza (Strength)**
+*Tratto da Incantatore:* **Forza (Strength)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Prendere il volo e scagliare colpi devastanti dall'alto.
 
 ## Caratteristica di Fondazione (Foundation)

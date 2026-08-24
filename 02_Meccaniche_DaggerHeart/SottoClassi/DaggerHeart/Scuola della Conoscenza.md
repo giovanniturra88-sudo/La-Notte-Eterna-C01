@@ -12,9 +12,9 @@ spellcast_trait: Conoscenza
 # Scuola della Conoscenza(School of Knowledge)
 
 *Sottoclasse della classe:* [[Wizard]]
-*Caratteristica di Spellcast:* **Conoscenza (Knowledge)**
+*Tratto da Incantatore:* **Conoscenza (Knowledge)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Esplorare e catalogare l'antico sapere del mondo, manipolando le pergamene e le memorie.
 
 ## Caratteristica di Fondazione (Foundation)
@@ -29,7 +29,7 @@ Quando Utilizzi un'Esperienza (*Utilize an Experience*), puoi marcare uno Stress
 Prendi una carta dominio aggiuntiva del tuo livello o inferiore da uno dei domini a cui hai accesso.
 
 **Richiamo Perfetto (Perfect Recall):**
-Una volta per rest, quando recuperi (richiami) una carta dominio presente nella tua riserva (vault), puoi ridurre il suo costo di Richiamo (*Recall Cost*) di 1.
+Una volta per riposo, quando recuperi (richiami) una carta dominio presente nella tua riserva (dotazione), puoi ridurre il suo costo di Richiamo (*Recall Cost*) di 1.
 
 ## Caratteristica di Maestria (Mastery)
 **Brillante (Brilliant):**

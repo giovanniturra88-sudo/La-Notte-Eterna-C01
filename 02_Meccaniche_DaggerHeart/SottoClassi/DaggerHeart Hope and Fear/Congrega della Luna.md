@@ -28,7 +28,7 @@ All'inizio di ogni sessione o di un riposo lungo, tira un dado (d6) per determin
 - **4: Luna Piena (Full)** -> Ottieni un bonus di **+3 alle tue soglie di danno** (damage thresholds).
 - **5-6: Luna Calante (Waning)** -> Ottieni un bonus di **+1 alla tua Evasione**.
 
-Una volta per rest, puoi spendere una Speranza per **aumentare il valore di questo dado di uno** (un 6 diventa un 1).
+Una volta per riposo, puoi spendere una Speranza per **aumentare il valore di questo dado di uno** (un 6 diventa un 1).
 
 ## Caratteristiche di Specializzazione (Rango 2)
 Le streghe lunari ottengono una profonda sintonia con le ombre celesti, potendo sbloccare e preparare incantesimi della luna e del crepuscolo e manipolare la mente dei propri avversari attraverso visioni e sogni.

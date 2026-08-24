@@ -12,9 +12,9 @@ spellcast_trait: Agilità
 # Esploratore (Wayfinder)
 
 *Sottoclasse della classe:* [[Ranger]]
-*Caratteristica di Spellcast:* **Agilità (Agility)**
+*Tratto da Incantatore:* **Agilità (Agility)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Tracciare, scovare e colpire le prede prescelte con colpi letali e precisione ineguagliabile.
 
 ## Caratteristica di Fondazione (Foundation)
@@ -26,8 +26,8 @@ Quando viaggi verso un luogo che hai già visitato o trasporti un oggetto che è
 
 ## Caratteristica di Specializzazione (Specialization)
 **Predatore Sfuggente (Elusive Predator):**
-Quando il tuo **Focus** effettua un attacco contro di te, ottieni un bonus di +2 alla tua Evasione contro quell'attacco.
+Quando la tua **Priorità** effettua un attacco contro di te, ottieni un bonus di +2 alla tua Evasione contro quell'attacco.
 
 ## Caratteristica di Maestria (Mastery)
 **Predatore Alfa (Apex Predator):**
-Prima di effettuare un tiro d'attacco contro il tuo Focus, puoi spendere una Speranza. Se l'attacco ha successo, rimuovi un punto di Paura (*Fear*) dalla riserva del GM.
+Prima di effettuare un tiro d'attacco contro la tua Priorità, puoi spendere una Speranza. Se l'attacco ha successo, rimuovi un punto di Paura (*Fear*) dalla riserva del GM.

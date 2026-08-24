@@ -20,7 +20,7 @@ I guardiani sono formidabili difensori, pronti a lanciarsi nel pericolo per asso
 # Speranza
 
 ## Caratteristica Speranza
-**_Difensore di Prima Linea:_** Spendi 3 Punti Speranza per liberare/ripristinare 2 slot Armatura marcati.
+**_Difensore di Prima Linea:_** Spendi 3 Speranze per liberare/ripristinare 2 slot Armatura marcati.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Valoroso]] o [[Vendicatore]].

@@ -12,9 +12,9 @@ spellcast_trait:
 # Vendicatore (Vengeance)
 
 *Sottoclasse della classe:* [[Guardian]]
-*Caratteristica di Spellcast:* **Nessuno (No Spellcast)**
+*Tratto da Incantatore:* **Nessuno (No Spellcast)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Annichilire chiunque osi attaccare te o ferire i tuoi protetti.
 
 ## Caratteristica di Fondazione (Foundation)

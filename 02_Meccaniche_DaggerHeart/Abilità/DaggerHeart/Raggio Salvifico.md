@@ -7,4 +7,4 @@ Tipologia Carta: "[[Incantesimo]]"
 Titolo Inglese:
 ---
 
-Effettua un **Tiro Incantamento (16)**. In caso di successo, **segna qualsiasi numero di Stress** per individuare una linea di alleati entro portata Lontana. Puoi rimuovere Punti Ferita dai bersagli pari al numero di Stress segnati, distribuiti come preferisci tra di loro.
+Effettua un **Tiro Incantesimo (16)**. In caso di successo, **segna qualsiasi numero di Stress** per individuare una linea di alleati entro portata Lontana. Puoi rimuovere Punti Ferita dai bersagli pari al numero di Stress segnati, distribuiti come preferisci tra di loro.

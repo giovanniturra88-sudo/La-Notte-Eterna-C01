@@ -11,9 +11,9 @@ spellcast_trait: Forza
 # Campione Divino (Divine Wielder)
 
 *Sottoclasse della classe:* [[Seraph]]
-*Caratteristica di Spellcast:* **Forza (Strength)**
+*Tratto da Incantatore:* **Forza (Strength)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Impugnare un'arma sacra leggendaria e colpire i nemici scagliandola a distanza.
 
 ## Caratteristica di Fondazione (Foundation)

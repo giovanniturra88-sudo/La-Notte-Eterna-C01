@@ -12,9 +12,9 @@ spellcast_trait: Presenza
 # Trovatore (Troubadour)
 
 *Sottoclasse della classe:* [[Bard]]
-*Caratteristica di Spellcast:* **Presenza (Presence)**
+*Tratto da Incantatore:* **Presenza (Presence)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Sostenere e potenziare gli alleati attraverso canti, ballate e musiche sacre.
 
 ## Caratteristica di Fondazione (Foundation)

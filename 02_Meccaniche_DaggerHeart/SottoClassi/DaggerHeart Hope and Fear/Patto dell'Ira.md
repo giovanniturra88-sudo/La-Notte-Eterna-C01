@@ -38,4 +38,4 @@ Quando metti a segno un successo con Speranza su un tiro di azione contro un ber
 Spendi un Favore per ripetere il tiro di un qualsiasi numero di tuoi dadi di danno. Puoi continuare a spendere Favori per usare questa capacità sul medesimo tiro di danno.
 
 ### Ira d'Altri Mondi (Otherworldly Ire)
-Una volta per rest, quando subisci danni, puoi spendere un qualsiasi numero di Favori per tirare quel numero di Dadi del Patrono e prendere come bersaglio un numero di creature entro portata Ravvicinata pari al risultato più alto ottenuto sui dadi. Ciascun bersaglio deve marcare immediatamente un Punto Ferita.
+Una volta per riposo, quando subisci danni, puoi spendere un qualsiasi numero di Favori per tirare quel numero di Dadi del Patrono e prendere come bersaglio un numero di creature entro portata Ravvicinata pari al risultato più alto ottenuto sui dadi. Ciascun bersaglio deve marcare immediatamente un Punto Ferita.

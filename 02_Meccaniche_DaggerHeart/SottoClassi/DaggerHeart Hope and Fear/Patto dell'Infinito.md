@@ -22,7 +22,7 @@ Il Patto dell'Infinito (Pact of the Endless) concede al warlock il potere di res
 Spendi un Favore (Favor) per ammantarti di un aspetto terrificante del tuo Patrono. Questo effetto dura finché non subisci danni Gravi (Severe) o superiori, o finché la scena non termina. Finché questo effetto è attivo, guadagni un bonus alle tue soglie di danno pari al tuo rango e hai vantaggio sui tiri di azione per intimidire un bersaglio.
 
 ### Abbraccio Immortale (Deathless Embrace)
-Una volta per rest (riposo), spendi un qualsiasi numero di Favori per tirare un pari numero di Dadi del Patrono. Per ogni risultato pari a 4 o superiore, **cura/recupera un Punto Ferita (HP)**.
+Una volta per riposo (riposo), spendi un qualsiasi numero di Favori per tirare un pari numero di Dadi del Patrono. Per ogni risultato pari a 4 o superiore, **cura/recupera un Punto Ferita (HP)**.
 
 ## Caratteristiche di Specializzazione (Rango 2)
 
@@ -30,7 +30,7 @@ Una volta per rest (riposo), spendi un qualsiasi numero di Favori per tirare un 
 Quando un avversario prende come bersaglio te o un alleato entro portata Prossima con un attacco, puoi spendere un Favore per **imporre svantaggio** al suo tiro. Se l'avversario fallisce il tiro, deve anche marcare uno Stress.
 
 ### Assorbitore di Danni (Damage Sink)
-Una volta per rest, puoi spendere un Favore per **dimezzare** i danni in arrivo da una singola fonte.
+Una volta per riposo, puoi spendere un Favore per **dimezzare** i danni in arrivo da una singola fonte.
 
 ## Caratteristiche di Maestria (Rango 3)
 

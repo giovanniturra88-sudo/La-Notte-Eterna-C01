@@ -12,9 +12,9 @@ spellcast_trait:
 # Chiamata dello Sterminatore (Call of the Slayer)
 
 *Sottoclasse della classe:* [[Warrior]]
-*Caratteristica di Spellcast:* **Nessuno (No Spellcast)**
+*Tratto da Incantatore:* **Nessuno (No Spellcast)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Focalizzarsi sull'abbattimento di bersagli singoli accumulando letalità nei colpi.
 
 ## Caratteristica di Fondazione (Foundation)

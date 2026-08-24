@@ -12,9 +12,9 @@ spellcast_trait: Astuzia
 # Ladro (Syndicate)
 
 *Sottoclasse della classe:* [[Rogue]]
-*Caratteristica di Spellcast:* **Astuzia (Astuzia)**
+*Tratto da Incantatore:* **Astuzia (Finesse)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Sfruttare una fitta rete sotterranea di alleati, contatti e spie in ogni angolo del mondo.
 
 ## Caratteristica di Fondazione (Foundation)

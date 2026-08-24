@@ -12,9 +12,9 @@ spellcast_trait: Presenza
 # Oratore (Wordsmith)
 
 *Sottoclasse della classe:* [[Bard]]
-*Caratteristica di Spellcast:* **Presenza (Presence)**
+*Tratto da Incantatore:* **Presenza (Presence)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Utilizzare giochi di parole arguti, dialoghi accattivanti e discorsi capaci di dominare la mente e ispirare le masse.
 
 ## Caratteristica di Fondazione (Foundation)

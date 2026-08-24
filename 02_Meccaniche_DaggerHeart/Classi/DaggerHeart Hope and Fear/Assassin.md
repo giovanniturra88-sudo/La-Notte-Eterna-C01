@@ -21,7 +21,7 @@ Gli assassini sono professionisti della morte. Usano la furtività assoluta, i v
 # Speranza
 
 ## Caratteristica Speranza
-**_Determinazione Letale:_** Spendi 3 Punti Speranza per rimuovere 2 Stress.
+**_Determinazione Letale:_** Spendi 3 Speranze per rimuovere 2 Stress.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Gilda dei Sicari]] o [[Gilda dei Tossicologi]].

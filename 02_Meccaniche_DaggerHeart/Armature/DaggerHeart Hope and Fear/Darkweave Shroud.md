@@ -13,4 +13,4 @@ tier: 4
 - **Soglie di Danno:** 13 / 36
 - **Punteggio di Armatura:** 5
 
-> Fantasma: Una volta per riposo, segna un Stress per muoverti fino a Ravvicinatanza attraverso oggetti solidi.
+> Fantasma: Una volta per riposo, segna uno Stress per muoverti fino a Ravvicinata attraverso oggetti solidi.

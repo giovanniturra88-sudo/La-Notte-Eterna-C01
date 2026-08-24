@@ -12,9 +12,9 @@ spellcast_trait: Conoscenza
 # Scuola della Guerra (School of War)
 
 *Sottoclasse della classe:* [[Wizard]]
-*Caratteristica di Spellcast:* **Conoscenza (Knowledge)**
+*Tratto da Incantatore:* **Conoscenza (Knowledge)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Combattere nelle prime linee della battaglia, amplificando la potenza distruttiva degli incantesimi con la propria armatura.
 
 ## Caratteristica di Fondazione (Foundation)

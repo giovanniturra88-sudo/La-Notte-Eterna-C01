@@ -20,7 +20,7 @@ I brawler sono esperti del combattimento corpo a corpo senz'armi. Trasformano i 
 # Speranza
 
 ## Caratteristica Speranza
-**_Faccia a Faccia (Square Up):_** Spendi 3 Punti Speranza per intimidire un bersaglio entro portata Ravvicinata, rendendolo temporaneamente Vulnerabile.
+**_Faccia a Faccia (Square Up):_** Spendi 3 Speranze per intimidire un bersaglio entro portata Ravvicinata, rendendolo temporaneamente Vulnerabile.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Colosso]] o [[Artista Marziale]].

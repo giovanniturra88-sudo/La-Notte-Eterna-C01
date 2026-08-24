@@ -20,13 +20,13 @@ Le streghe comunicano con gli spiriti degli antenati e le forze elementali. Attr
 # Speranza
 
 ## Caratteristica Speranza
-**_Fascino della Strega:_** Quando tu o un alleato entro portata Lontana fallite un tiro di azione, spendi 3 Punti Speranza per trasformarlo in un successo con Paura.
+**_Fascino della Strega:_** Quando tu o un alleato entro portata Lontana fallite un tiro di azione, spendi 3 Speranze per trasformarlo in un successo con Paura.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Congrega della Siepe]] o [[Congrega della Luna]].
 
 # Caratteristiche di Classe
-**_Fattura (Hex):_** Marca uno Stress per lanciare una Fattura a un bersaglio entro portata Lontana. Il bersaglio subisce una penalità ai tiri di danno e alla Difficoltà pari al tuo rango. Massimo bersagli affetti pari al tuo tratto di Incantesimo.
+**_Fattura (Hex):_** Marca uno Stress per lanciare una Fattura a un bersaglio entro portata Lontana. Il bersaglio subisce una penalità ai tiri di danno e alla Difficoltà pari al tuo rango. Massimo bersagli affetti pari al tuo tratto da Incantatore.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

@@ -12,9 +12,9 @@ spellcast_trait:
 # Valoroso (Stalwart)
 
 *Sottoclasse della classe:* [[Guardian]]
-*Caratteristica di Spellcast:* **Nessuno (No Spellcast)**
+*Tratto da Incantatore:* **Nessuno (No Spellcast)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Assorbire colpi colossali, resistere alle ferite più letali e bloccare i nemici.
 
 ## Caratteristica di Fondazione (Foundation)

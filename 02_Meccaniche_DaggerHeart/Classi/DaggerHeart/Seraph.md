@@ -21,13 +21,13 @@ I serafini sono guerrieri celesti imbevuti di potere divino, scelti dalle divini
 # Speranza
 
 ## Caratteristica Speranza
-**_Supporto Vitale:_** Spendi 3 Punti Speranza per curare 1 Punto Ferita a un alleato entro portata Ravvicinata.
+**_Supporto Vitale:_** Spendi 3 Speranze per curare 1 Punto Ferita a un alleato entro portata Ravvicinata.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Campione Divino]] o [[Sentinella Alata]].
 
 # Caratteristiche di Classe
-**_Dadi della Preghiera (Prayer Dice):_** All'inizio di ogni sessione, lancia d4 pari al tratto di incantesimo della tua sottoclasse. Puoi spendere questi dadi per ridurre il danno subito, aggiungere il valore a un tiro d'azione dopo il lancio o ottenere punti Speranza pari al risultato.
+**_Dadi della Preghiera (Prayer Dice):_** All'inizio di ogni sessione, lancia d4 pari al tratto da Incantatore della tua sottoclasse. Puoi spendere questi dadi per ridurre il danno subito, aggiungere il valore a un tiro d'azione dopo il lancio o ottenere Speranza pari al risultato.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

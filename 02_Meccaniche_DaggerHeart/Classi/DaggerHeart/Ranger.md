@@ -20,13 +20,13 @@ I ranger sono cacciatori provetti e maestri della sopravvivenza nelle terre selv
 # Speranza
 
 ## Caratteristica Speranza
-**_Tenerli a Bada:_** Spendi 3 Punti Speranza quando metti a segno un attacco con arma per applicare lo stesso risultato di attacco contro due avversari aggiuntivi entro la gittata dell'arma.
+**_Tenerli a Bada:_** Spendi 3 Speranze quando metti a segno un attacco con arma per applicare lo stesso risultato di attacco contro due avversari aggiuntivi entro la gittata dell'arma.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Ferale]] o [[Esploratore]].
 
 # Caratteristiche di Classe
-**_Focus del Ranger (Ranger's Focus):_** Spendi 1 Speranza ed effettua un attacco contro un bersaglio. In caso di successo, infliggi danno normale e rendi temporaneamente il bersaglio il tuo Focus. Ottieni vantaggi letali contro il tuo Focus, costringendolo a marcare Stress quando subisce danno.
+**_Priorità del Ranger (Ranger's Focus):_** Spendi 1 Speranza ed effettua un attacco contro un bersaglio. In caso di successo, infliggi danno normale e rendi temporaneamente il bersaglio la tua Priorità. Ottieni vantaggi letali contro la tua Priorità, costringendolo a marcare Stress quando subisce danno.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

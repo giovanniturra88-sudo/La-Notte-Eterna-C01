@@ -21,7 +21,7 @@ I druidi proteggono la natura selvaggia e ne traggono un potere magico immenso, 
 # Speranza
 
 ## Caratteristica Speranza
-**_Evoluzione:_** Spendi 3 Punti Speranza per trasformarti in una Forma Bestiale senza marcare Stress. Quando lo fai, aumenta un tratto a tua scelta di +1 finché non lasci quella forma.
+**_Evoluzione:_** Spendi 3 Speranze per trasformarti in una Forma Bestiale senza marcare Stress. Quando lo fai, aumenta un tratto a tua scelta di +1 finché non lasci quella forma.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Custode degli Elementi]] o [[Custode del Rinnovamento]].

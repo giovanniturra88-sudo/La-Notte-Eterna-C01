@@ -13,4 +13,4 @@ tier: 3
 - **Soglie di Danno:** 11 / 27
 - **Punteggio di Armatura:** 5
 
-> Stellare: Segna un Stress per avere vantaggio su un lancio Incantesimo.
+> Stellare: Segna uno Stress per avere vantaggio su un Tiro Incantesimo.

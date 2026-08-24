@@ -12,9 +12,9 @@ spellcast_trait: Agilità
 # Ferale (Beastbound)
 
 *Sottoclasse della classe:* [[Ranger]]
-*Caratteristica di Spellcast:* **Agilità (Agility)**
+*Tratto da Incantatore:* **Agilità (Agility)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Combattere in perfetta simbiosi con un fedele compagno animale.
 
 ## Caratteristica di Fondazione (Foundation)

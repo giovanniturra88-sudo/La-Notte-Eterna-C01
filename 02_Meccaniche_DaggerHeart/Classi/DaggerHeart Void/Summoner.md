@@ -20,7 +20,7 @@ I Summoner sono incantatori occulti che aprono varchi planari per evocare e coma
 # Speranza
 
 ## Caratteristica Speranza
-**_Aiuto degli Spiriti:_** Spendi 3 Punti Speranza per evocare l'aiuto dell'oltretomba. Distribuisci 2 Punti Speranza tra uno o più altri PG a portata Lontana e tu rimuovi 1 Stress.
+**_Aiuto degli Spiriti:_** Spendi 3 Speranze per evocare l'aiuto dell'oltretomba. Distribuisci 2 Speranze tra uno o più altri PG a portata Lontana e tu rimuovi 1 Stress.
 
 # Sottoclassi
 Scegli tra la sottoclasse [[Necromante]] o [[Teurga]].

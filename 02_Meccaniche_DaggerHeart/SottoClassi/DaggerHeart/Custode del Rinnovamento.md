@@ -12,9 +12,9 @@ spellcast_trait: Istinto
 # Custode del Rinnovamento (Warden of Renewal)
 
 *Sottoclasse della classe:* [[Druid]]
-*Caratteristica di Spellcast:* **Istinto (Instinct)**
+*Tratto da Incantatore:* **Istinto (Instinct)**
 
-## Descrizione e Focus
+## Descrizione e Priorità
 Sostenere la vita e la salute degli alleati con formidabili cure naturali.
 
 ## Caratteristica di Fondazione (Foundation)

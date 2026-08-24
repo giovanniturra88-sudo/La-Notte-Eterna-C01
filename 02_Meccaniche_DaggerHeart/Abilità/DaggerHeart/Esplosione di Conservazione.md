@@ -7,4 +7,4 @@ Tipologia Carta: "[[Magia]]"
 Titolo Inglese:
 ---
 
-Effettua un **Tiro di Lancio di Magia** contro tutti i bersagli entro portata di mischia. I bersagli contro cui riesci a colpire vengono spinti indietro fino alla portata lontana e subiscono **d8+3** danni magici utilizzando la tua caratteristica Lancio di Magia.
+Effettua un **Tiro Incantesimo** contro tutti i bersagli entro portata di mischia. I bersagli contro cui riesci a colpire vengono spinti indietro fino alla portata lontana e subiscono **d8+3** danni magici utilizzando la tua tratto da Incantatore.
