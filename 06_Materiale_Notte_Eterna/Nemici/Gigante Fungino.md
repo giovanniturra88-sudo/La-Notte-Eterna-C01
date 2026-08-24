@@ -11,7 +11,7 @@ type:
 * **Punti Ferita:** 7 | **Stress:** 4
 * **Attacchi:**
  * **Pugno di Tronco:** +4 | Ravvicinata | 3d8+6 Contundente
- * **Lancio di Sporocarpi:** +3 | Media | 2d8+5 Veleno
+ * **Lancio di Sporocarpi:** +3 | Lontana | 2d8+5 Veleno
 * **Tratti e Capacità:**
  * **Rigenerazione Micolica:** Recupera PF se si trova sopra un terreno fungino ricco.
  * **Pelle Coriacea:** Riduce di 3 ogni danno fisico subito.
@@ -31,7 +31,7 @@ attacchi:
   - name: "Pugno di Tronco"
     desc: "**+4** | Ravvicinata | **3d8+6** Contundente"
   - name: "Lancio di Sporocarpi"
-    desc: "**+3** | Media | **2d8+5** Veleno"
+    desc: "**+3** | Lontana | **2d8+5** Veleno"
 tratti:
   - name: "Rigenerazione Micolica"
     desc: "Recupera PF se si trova sopra un terreno fungino ricco."

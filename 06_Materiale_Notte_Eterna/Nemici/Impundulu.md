@@ -33,5 +33,5 @@ attacchi:
     desc: "**+4** | Lontana | **2d10+6** Fulmine"
 tratti:
   - name: "Mutaforma"
-    desc: "Assume l'aspetto di un attraente umanoide per ingannare le sue vittime (1 Stress)."
+    desc: "Assume l'aspetto di un attraente umanoide per ingannare le sue vittime *(Costo: 1 Stress)*."
 ```
