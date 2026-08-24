@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-Splendor è il dominio della **vita.** Attraverso questa magia, i seguaci acquisiscono la capacità di guarire e, in misura limitata, controllare la morte. Splendor offre ai suoi discepoli la magnifica capacità di dare e porre fine alla vita. Il dominio Splendor può essere accesso alle classi [[Seraph]] e [[Wizard]].
+Lo Splendore è il dominio della **vita.** Attraverso questa magia, i seguaci acquisiscono la capacità di guarire e, in misura limitata, controllare la morte. Lo Splendore offre ai suoi discepoli la magnifica capacità di dare e porre fine alla vita. Il dominio Splendor può essere utilizzato alle classi [[Seraph]] e [[Wizard]].
 
 ### CARTE DEL DOMINIO
 

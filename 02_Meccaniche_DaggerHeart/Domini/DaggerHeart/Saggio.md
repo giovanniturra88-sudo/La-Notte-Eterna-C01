@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-Il Saggio è il dominio **del mondo naturale.** Coloro che percorrono questa via si connettono al potere senza limiti della terra e delle sue creature per liberare una magia grezza. Il Saggio concede ai suoi seguaci la vitalità di un fiore in fiore e la ferocia di un predatore affamato. Il dominio del Saggio può essere utilizzato dalle classi [[Druid]], [[Ranger]] e [[Witch]].
+La Saggezza è il dominio **del mondo naturale.** Coloro che percorrono questa via si connettono al potere senza limiti della terra e delle sue creature per liberare una magia grezza. La Saggezza concede ai suoi seguaci la vitalità di un fiore in fiore e la ferocia di un predatore affamato. Il dominio della Saggezza può essere utilizzato dalle classi [[Druid]], [[Ranger]] e [[Witch]].
 
 ### CARTE DEL DOMINIO
 

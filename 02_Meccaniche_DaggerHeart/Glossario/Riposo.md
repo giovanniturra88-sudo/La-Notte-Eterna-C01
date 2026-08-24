@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Riposo
 
-Pausa narrativa del gruppo. Riposo breve: 30 minuti circa, si ripristinano alcune risorse. Riposo lungo: una notte, ripristino completo di PF, Stress and risorse a volontà.
+Pausa narrativa del gruppo. Riposo breve: circa un'ora, si ripristinano alcune risorse. Riposo lungo: una notte, ripristino completo di PF, Stress e risorse a volontà.
 
 ## Voci correlate
 - [[Riposo Breve]]

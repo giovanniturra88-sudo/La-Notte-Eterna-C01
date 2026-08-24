@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-Arcana è il dominio della magia **innata e istintiva**. Chi sceglie questa via si collega alle forze grezze ed enigmatiche dei regni per manipolare sia la propria energia che gli elementi. Arcana offre poteri volatili, ma sono incredibilmente potenti quando vengono canalizzati correttamente. Il dominio Arcana può essere accesso dalle classi [[Druid]] e [[Wizard]].
+L'Arcano è il dominio della magia **innata e istintiva**. Chi sceglie questa via si collega alle forze grezze ed enigmatiche dei regni per manipolare sia la propria energia che gli elementi. L'Arcano offre poteri volatili, ma sono incredibilmente potenti quando vengono canalizzati correttamente. Il dominio dell'Arcano può essere utilizzato dalle classi [[Druid]] e [[Wizard]].
 
 ### CARTE DEL DOMINIO
 

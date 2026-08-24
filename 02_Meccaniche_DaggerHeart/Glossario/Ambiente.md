@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Ambiente
 
-Scenario o luogo di gioco con effetti ambientali, pericoli, tesori e narrative beats (es. un bosco abbandonato, una miniera, una nave).
+Scenario o luogo di gioco con effetti ambientali, pericoli, tesori e battute narrative (es. un bosco abbandonato, una miniera, una nave).
 
 ## Voci correlate
 - [[Template Scena]]

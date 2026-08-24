@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-Il Valore è il dominio della **protezione**. Che si tratti di attacco o difesa, chi sceglie questa disciplina canalizza una forza formidabile per proteggere gli alleati in battaglia. Il dominio del Valore offre grande potere a chi alza lo scudo per difendere gli altri. Il dominio del Valore può essere accesso dalle classi [[Guardian]], [[Seraph]] e [[Brawler]].
+Il Valore è il dominio della **protezione**. Che si tratti di attacco o difesa, chi sceglie questa disciplina canalizza una forza formidabile per proteggere gli alleati in battaglia. Il dominio del Valore offre grande potere a chi alza lo scudo per difendere gli altri. Il dominio del Valore può essere utilizzato dalle classi [[Guardian]], [[Seraph]] e [[Brawler]].
 
 ### CARTE DEL DOMINIO
 

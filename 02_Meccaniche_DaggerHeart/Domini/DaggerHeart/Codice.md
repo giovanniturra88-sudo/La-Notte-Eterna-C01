@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-Il Codice è il dominio dello **studio magico intenso**. Coloro che cercano conoscenza magica si rivolgono alle equazioni di potere registrate nei libri, scritte sulle pergamene, incise nelle pareti o tatuate sul corpo. Il dominio del Codice offre una comprensione dominante e versatile della magia ai devoti che perseguono la conoscenza al di là dei confini della saggezza comune. Il dominio del Codice può essere accesso alle classi [[Bard]] e [[Wizard]].
+Il Codice è il dominio dello **studio magico intenso**. Coloro che cercano conoscenza magica si rivolgono alle equazioni di potere registrate nei libri, scritte sulle pergamene, incise nelle pareti o tatuate sul corpo. Il dominio del Codice offre una comprensione dominante e versatile della magia ai devoti che perseguono la conoscenza al di là dei confini della saggezza comune. Il dominio del Codice può essere utilizzato alle classi [[Bard]] e [[Wizard]].
 
 ### CARTE DEL DOMINIO
 

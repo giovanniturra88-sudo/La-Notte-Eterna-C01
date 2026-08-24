@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Successo
 
-Esito di un tiro in cui almeno un dado della Dualità supera la Difficoltà. Con entrambi i dadi si ottiene un successo critico.
+Esito di un tiro in cui almeno un dado Dualità supera la Difficoltà. Con entrambi i dadi si ottiene un successo critico.
 
 ## Voci correlate
 - [[Fallimento]]

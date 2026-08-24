@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Furtivo
 
-Ruolo (Skirmisher): avversario agile che colpisce e si sposta, spesso elusivo.
+Ruolo (Skulk): avversario agile che colpisce e si sposta, spesso elusivo.
 
 ## Voci correlate
 - [[Ruolo]]

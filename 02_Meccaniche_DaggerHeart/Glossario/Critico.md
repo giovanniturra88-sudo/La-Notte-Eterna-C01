@@ -6,7 +6,7 @@ source: DaggerHeart
 
 # Critico
 
-Successo critico: entrambi i dadi della Dualità superano la Difficoltà → effetto potenziato e spesso a costo ridotto.
+Successo critico: entrambi i dadi Dualità superano la Difficoltà → effetto potenziato e spesso a costo ridotto.
 
 ## Voci correlate
 - [[Successo]]

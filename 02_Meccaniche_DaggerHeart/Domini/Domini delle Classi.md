@@ -2,6 +2,8 @@
 type: Indice
 ---
 
+# Domini delle Classi
+
 Ogni classe concede l'accesso a due domini fra [[Codice]], [[Grazia]], [[Arcana]], [[Saggio]], [[Lama]], [[Valore]], [[Ossa]], [[MezzaNotte]], [[Splendore]], [[Terrore]] e [[Sangue]].
 I PG acquisiscono due carte di dominio di livello 1 alla creazione del personaggio e una carta di dominio aggiuntiva a livello o inferiore ogni volta che salgono di livello.
 # Carte del Dominio
