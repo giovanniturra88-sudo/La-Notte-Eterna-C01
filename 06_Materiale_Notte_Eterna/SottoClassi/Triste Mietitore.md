@@ -28,7 +28,7 @@ Paladini risorti per volere di Krea, che non seguono la via del bene o del male 
 ---
 
 ### Maestria
-**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo 3 Speranza, ti trasforma in un campione scheletrico di Krea per la durata della scena. Ottieni velocità di volo (levitazione) pari a 9 m, immunità totale ai danni Necrotici, e i tuoi attacchi fisici e magici convertono metà del danno inflitto in cura per te stesso.
+**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo 3 Speranze, ti trasforma in un campione scheletrico di Krea per la durata della scena. Ottieni velocità di volo (levitazione) pari a 9 m, immunità totale ai danni Necrotici, e i tuoi attacchi fisici e magici convertono metà del danno inflitto in cura per te stesso.
 
 ---
 

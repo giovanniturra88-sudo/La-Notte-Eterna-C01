@@ -4,7 +4,7 @@
 
 ### Astro Oscuro di Najestarr
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 9 | Costo: 5 Speranza
+* **Requisiti:** Livello 9 | Costo: 5 Speranze
 * **Tempo di Esecuzione:** 1 Mese (Grande Ritualistica)
 * **Gittata:** Regione / Mappa Intera
 * **Durata:** Istantanea
@@ -20,7 +20,7 @@ Il rituale supremo della distruzione. Reciti la capacità magica da una pergamen
 
 ### Circolo della Luna Piena
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 9 | Costo: 4 Speranza
+* **Requisiti:** Livello 9 | Costo: 4 Speranze
 * **Tempo di Esecuzione:** 8 ore
 * **Gittata:** Zona Remota
 * **Durata:** Fino a 10 Minuti (Scena di Combattimento)
@@ -37,7 +37,7 @@ Disperdi in aria la leggendaria polvere di Yolamhra. Scegli qualsiasi numero di 
 
 ### Proiezione Temporale
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 9 | Costo: 4 Speranza
+* **Requisiti:** Livello 9 | Costo: 4 Speranze
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Prossima (fino a 4 alleati)
 * **Durata:** Fino a 1 Ora (nel passato)
@@ -52,7 +52,7 @@ Proietti lo spirito tuo e dei tuoi compagni nel passato verso un'epoca legata a 
 
 ### Sigillo dell'Immortalità
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 9 | Costo: 5 Speranza
+* **Requisiti:** Livello 9 | Costo: 5 Speranze
 * **Tempo di Esecuzione:** 12 ore
 * **Gittata:** Personale
 * **Durata:** Permanente
@@ -67,7 +67,7 @@ Sigilli la tua anima e la tua forza vitale all'interno di un reliquiario, anello
 
 ### Uragano Mortale di Aej'Nagrizzt
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 9 | Costo: 4 Speranza
+* **Requisiti:** Livello 9 | Costo: 4 Speranze
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Regione intera (3 km)
 * **Durata:** mantenimento dell'effetto

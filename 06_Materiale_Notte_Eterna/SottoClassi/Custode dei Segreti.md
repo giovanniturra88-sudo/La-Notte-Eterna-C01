@@ -29,7 +29,7 @@ Druidi del Circolo dei Segreti, protettori della fonte primigenia del Fuoco Segr
 ---
 
 ### Maestria
-**_Tutt'uno con la Fiamma:_** Una volta per riposo lungo, quando fallisci un Tiro di Reazione o una prova contro un effetto magico nemico, puoi spendere 2 Speranza per annullare completamente l'effetto magico su di te.
+**_Tutt'uno con la Fiamma:_** Una volta per riposo lungo, quando fallisci un Tiro di Reazione o una prova contro un effetto magico nemico, puoi spendere 2 Speranze per annullare completamente l'effetto magico su di te.
 
 ---
 

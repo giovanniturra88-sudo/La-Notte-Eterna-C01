@@ -10,7 +10,7 @@ tags:
 
 ### Dardo Incantato Supremo
 * **Livello:** 5
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Istantaneo
 * **Gittata:** Remoto
@@ -21,7 +21,7 @@ Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta 
 
 ### Frusta Arcana di Nelen
 * **Livello:** 5
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Ravvicinata
@@ -35,7 +35,7 @@ Crea una frusta d'energia arcana che infligge `2d20` danni magici. Nei turni suc
 
 ### Fulmine Istantaneo di Fahrn
 * **Livello:** 5
-* **Costo:** 2 Speranza + 1 Paura concessa al GM
+* **Costo:** 2 Speranze + 1 Paura concessa al GM
 * **Tiro Incantesimo:** Automatico / Tiro di Reazione del Bersaglio
 * **Durata:** Istantaneo
 * **Gittata:** Remota (entro il raggio visivo/mappa)
@@ -46,7 +46,7 @@ Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il b
 
 ### Preveggenza Arcana
 * **Livello:** 5
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Automatico
 * **Durata:** 1 Scena
 * **Gittata:** Mischia / Personale
@@ -57,7 +57,7 @@ Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene
 
 ### Raggio Lunare di Najestarr
 * **Livello:** 5
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Lontana

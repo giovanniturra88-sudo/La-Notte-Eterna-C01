@@ -16,7 +16,7 @@ type:
  * **Minaccia a Teste Multiple - Passiva:** L'Idra inizia con tre teste e ne può avere fino a cinque. Quando l'Idra subisce danni Gravi o maggiori, perde una testa.
  * **Inesorabile (X) - Passiva:** L'Idra può essere messa a fuoco X volte per turno del GM, dove X è il numero di teste dell'Idra. Spendere Paura normalmente per metterla a fuoco.
  * **Rigenerazione - Azione:** Se l'Idra ha dei PF segnati, **Spendere una Paura** per rimuovere un PF e farne crescere due.
- * **Coro Terrificante - Azione:** Tutti i PG in portata Lontana perdono 2 Speranza.
+ * **Coro Terrificante - Azione:** Tutti i PG in portata Lontana perdono 2 Speranze.
  * **Debolezza Magica - Reazione:** Quando l'Idra subisce danni magici, diventa _Confusa_ fino al prossimo tiro con Paura. Mentre è _Confusa_, non può usare la sua azione di Rigenerazione ma è immune ai danni magici.
 
 ```statblock
@@ -41,7 +41,7 @@ capacita_speciali:
   - name: "Rigenerazione"
     desc: "*- Azione:* Se l'Idra ha dei PF segnati, Spendere una Paura per rimuovere un PF e farne crescere due."
   - name: "Coro Terrificante"
-    desc: "*- Azione:* Tutti i PG in portata Lontana perdono 2 Speranza."
+    desc: "*- Azione:* Tutti i PG in portata Lontana perdono 2 Speranze."
   - name: "Debolezza Magica"
     desc: "*- Reazione:* Quando l'Idra subisce danni magici, diventa Confusa fino al prossimo tiro con Paura. Mentre è Confusa, non può usare la sua azione di Rigenerazione ma è immune ai danni magici."
 ```

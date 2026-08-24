@@ -22,14 +22,14 @@ Sostenere la vita e la salute degli alleati con formidabili cure naturali.
 Una volta per riposo lungo, puoi creare uno spazio di serenità naturale entro portata Ravvicinata. Quando trascorri alcuni minuti a riposare in questo spazio, cancella uno Stress pari al tuo Istinto, distribuendolo a tua scelta tra te e i tuoi alleati.
 
 **Rigenerazione (Regeneration):**
-Tocca una creatura e spendi 3 Speranza. Quella creatura cancella/cura **1d4** Punti Ferita.
+Tocca una creatura e spendi 3 Speranze. Quella creatura cancella/cura **1d4** Punti Ferita.
 
 ## Caratteristica di Specializzazione (Specialization)
 **Portata Rigenerativa (Regenerative Reach):**
 Puoi prendere come bersaglio creature entro portata Prossima con la tua caratteristica **Rigenerazione**.
 
 **Protezione del Custode (Warden's Protection):**
-Una volta per riposo lungo, spendi 2 Speranza per curare/cancellare 2 Punti Ferita su un numero di alleati da 1 a 4 (1d4) entro portata Ravvicinata.
+Una volta per riposo lungo, spendi 2 Speranze per curare/cancellare 2 Punti Ferita su un numero di alleati da 1 a 4 (1d4) entro portata Ravvicinata.
 
 ## Caratteristica di Maestria (Mastery)
 **Difensore (Defender):**

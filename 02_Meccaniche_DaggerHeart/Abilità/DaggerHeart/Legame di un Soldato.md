@@ -7,4 +7,4 @@ Tipologia Carta: "[[Abilità]]"
 Titolo Inglese:
 ---
 
-Una volta per riposo lungo, quando complimenti qualcuno o gli chiedi informazioni su qualcosa in cui eccelle, entrambi potrete guadagnare 3 Speranza.
+Una volta per riposo lungo, quando complimenti qualcuno o gli chiedi informazioni su qualcosa in cui eccelle, entrambi potrete guadagnare 3 Speranze.

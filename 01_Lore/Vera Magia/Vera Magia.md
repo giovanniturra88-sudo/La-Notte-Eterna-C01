@@ -43,7 +43,7 @@ Per apprendere una capacità magica di Vera Magia è necessario uno studio/addes
 
 ### Regola del Cast (Costo in Speranza e Paura):
 Lanciare la Vera Magia richiede un tributo di energia vitale e mentale:
-* **Costo Standard:** Spendere **1 Speranza** per attivare una capacità magica di Livello 1-3; **2 Speranza** per una capacità magica di Livello 4-6.
+* **Costo Standard:** Spendere **1 Speranza** per attivare una capacità magica di Livello 1-3; **2 Speranze** per una capacità magica di Livello 4-6.
 * **Fallimento o Tiro con Paura:** Se il Tiro Incantesimo fallisce o viene effettuato con **Paura**, il GM ottiene **1 Paura** addizionale oltre alla risoluzione standard della mossa.
 
 ---

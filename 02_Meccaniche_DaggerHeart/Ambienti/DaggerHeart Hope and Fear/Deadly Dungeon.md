@@ -15,7 +15,7 @@ type:
 
 **_Giri e Rigiri - Passiva:** Conto alla Rovescia (6). Quando il gruppo entra nel dungeon, attiva il conto alla rovescia. Scorre quando un PG riesce in un tiro d'azione per orientarsi nei corridoi. Quando scatta, i PG raggiungono la parte più profonda, buia e meglio difesa del dungeon. _Quale ricompensa si trova nel cuore del labirinto? Chi ha costruito questo labirinto per proteggerla?_
 
-**_Tasche Profonde - Passiva:** Una volta per riposo, i PG possono trovare una riserva di tesoro nel dungeon, sia sui cadaveri di precedenti esploratori sia dietro porte nascoste. Su un tiro riuscito per orientarsi nel dungeon, un PG può spendere fino a 5 Speranza per tirare altrettanti d6. Ogni risultato ottenuto regala al gruppo il seguente bottino o equipaggiamento:
+**_Tasche Profonde - Passiva:** Una volta per riposo, i PG possono trovare una riserva di tesoro nel dungeon, sia sui cadaveri di precedenti esploratori sia dietro porte nascoste. Su un tiro riuscito per orientarsi nel dungeon, un PG può spendere fino a 5 Speranze per tirare altrettanti d6. Ogni risultato ottenuto regala al gruppo il seguente bottino o equipaggiamento:
 1. Gemme sfuse, gioielli, ninnoli o monete pari a una manciata d'oro
 2. Un oggetto o consumabile comune
 3. Un oggetto o consumabile non comune

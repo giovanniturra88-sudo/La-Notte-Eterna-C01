@@ -29,7 +29,7 @@ Monaci assassini e sicari della Chiesa di [[Garod]], in grado di fondersi con le
 ---
 
 ### Maestria
-**_Benedizione di Garod:_** Una volta per riposo lungo, spendendo 2 Speranza, puoi fonderti completamente con l'oscurità per la durata della scena. Mentre sei in questa forma, ottieni +2 all'Evasione, velocità di movimento raddoppiata e resistenza a tutti i danni fisici.
+**_Benedizione di Garod:_** Una volta per riposo lungo, spendendo 2 Speranze, puoi fonderti completamente con l'oscurità per la durata della scena. Mentre sei in questa forma, ottieni +2 all'Evasione, velocità di movimento raddoppiata e resistenza a tutti i danni fisici.
 
 ---
 

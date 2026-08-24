@@ -33,7 +33,7 @@ Utilizzi tossine mutageniche create per migliorare le tue abilità. Quando compl
 
 #### Mutageni Migliorati (Improved Mutagens)
 Quando selezioni un beneficio mutageno, le tue opzioni includono anche le seguenti:
-- **Nerves of Steel (Nervi d'Acciaio):** Ogni volta che devi segnare 1 Stress, puoi scegliere di spendere **2 Speranza** al suo posto.
+- **Nerves of Steel (Nervi d'Acciaio):** Ogni volta che devi segnare 1 Stress, puoi scegliere di spendere **2 Speranze** al suo posto.
 - **Rapidity (Rapidità):** La tua Evasione aumenta di **1**.
 - **Ironskin (Pelle di Ferro):** La tua soglia di danno Grave (Severe) aumenta di un valore pari alla tua attuale Competenza.
 

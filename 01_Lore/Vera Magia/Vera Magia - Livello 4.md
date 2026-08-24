@@ -10,7 +10,7 @@ tags:
 
 ### Dardo Incantato Superiore
 * **Livello:** 4
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** Istantaneo
 * **Gittata:** Remoto
@@ -21,7 +21,7 @@ Scagli 3 dardi di energia pura su uno o più bersagli. Ogni dardo colpisce autom
 
 ### Miraggio Lunare
 * **Livello:** 4
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Ravvicinata
@@ -32,7 +32,7 @@ Evochi un'imponente sfera di energia lunare. Chiunque si trovi nell'area al mome
 
 ### Raggio Vulcanico
 * **Livello:** 4
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Istinto/Conoscenza)
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Linea Retta fino a Lontano
@@ -43,7 +43,7 @@ Proietti una linea fiammeggiante rovente. Le creature travolte dalla linea devon
 
 ### Sfera Mentale di Najestarr
 * **Livello:** 4
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Presenza/Conoscenza)
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Remota
@@ -54,7 +54,7 @@ Crea un globo violaceo opaco. Le creature all'interno della sfera devono superar
 
 ### Suprema Illusione di Sagister
 * **Livello:** 4
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo (Grazia/Presenza)
 * **Durata:** 1 Scena / Alcune Ore
 * **Gittata:** Lontana

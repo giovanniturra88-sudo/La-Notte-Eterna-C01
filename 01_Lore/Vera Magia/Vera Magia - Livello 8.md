@@ -4,7 +4,7 @@
 
 ### Benedizione del Devastatore
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 8 | Costo: 3 Speranza
+* **Requisiti:** Livello 8 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 10 minuti (Preparazione)
 * **Gittata:** Mischia
 * **Durata:** 1 Ora (dall'assunzione)
@@ -22,7 +22,7 @@ Preparati un elisir titanico. Quando una creatura beva il composto, subisce una 
 
 ### Circolo di Stelle
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 8 | Costo: 2 Speranza
+* **Requisiti:** Livello 8 | Costo: 2 Speranze
 * **Tempo di Esecuzione:** 10 minuti
 * **Gittata:** Zona Lontana
 * **Durata:** Fino al prossimo Riposo Breve
@@ -38,7 +38,7 @@ Evochi un numero di stelle fluttuanti pari al tuo valore di **Conoscenza** o **P
 
 ### Esplosione di Morte
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 8 | Costo: 4 Speranza
+* **Requisiti:** Livello 8 | Costo: 4 Speranze
 * **Tempo di Esecuzione:** 16 ore (Rituale oscuro)
 * **Gittata:** Zona Remota (Vasta Area)
 * **Durata:** Istantanea
@@ -57,7 +57,7 @@ Tutte le creature viventi nell'area dell'esplosione devono effettuare un **Tiro 
 
 ### Sala degli Specchi di Sagister
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 8 | Costo: 3 Speranza
+* **Requisiti:** Livello 8 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 5 ore (Rituale)
 * **Gittata:** Mischia
 * **Durata:** Finché non viene attivato
@@ -76,7 +76,7 @@ Ogni 10 minuti trascorsi nella sala, la creatura ripete il Tiro di Reazione di I
 
 ### Vero Campo Anti-magia di Nelen
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 8 | Costo: 4 Speranza
+* **Requisiti:** Livello 8 | Costo: 4 Speranze
 * **Tempo di Esecuzione:** 1 ora (Rituale)
 * **Gittata:** Mischia
 * **Durata:** 2 ore

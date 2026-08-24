@@ -32,7 +32,7 @@ Quando utilizzi la caratteristica di classe dello Stregone *Incanalare Potere Gr
 ## Caratteristiche di Maestria
 
 ### Araldo di Lanie
-Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranza** per assumere la forma spettrale di un Araldo di Lanie per la durata di una scena. Durante questo stato, ottieni una velocità di volo (fluttuare) pari a 12 metri, emani luce argentata intensa in un raggio di 6 metri (e luce fioca per altri 6 metri) e ottieni resistenza ai danni **Radiosi e Necrotici**.
+Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere la forma spettrale di un Araldo di Lanie per la durata di una scena. Durante questo stato, ottieni una velocità di volo (fluttuare) pari a 12 metri, emani luce argentata intensa in un raggio di 6 metri (e luce fioca per altri 6 metri) e ottieni resistenza ai danni **Radiosi e Necrotici**.
 
 ---
 

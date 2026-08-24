@@ -7,7 +7,7 @@ Tipologia Carta: "della"
 Titolo Inglese:
 ---
 
-Quando colpisci con successo in modo critico, puoi **spendere fino a 3 Speranza** e scegliere una delle seguenti opzioni per ogni Speranza spesa:
+Quando colpisci con successo in modo critico, puoi **spendere fino a 3 Speranze** e scegliere una delle seguenti opzioni per ogni Speranza spesa:
 - Rimuovi un Punto Ferita.
 - Rimuovi una Caselle Armatura.
 - Il target deve segnare un Punto Ferita aggiuntivo.

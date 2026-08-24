@@ -4,4 +4,4 @@ type: "[[Consumabile]]"
 
 # Foglie di Varik
 
-Puoi mangiare queste foglie in coppia per guadagnare immediatamente 2 Speranza.
+Puoi mangiare queste foglie in coppia per guadagnare immediatamente 2 Speranze.

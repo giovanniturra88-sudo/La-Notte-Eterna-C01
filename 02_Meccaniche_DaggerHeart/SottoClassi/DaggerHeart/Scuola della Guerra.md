@@ -26,7 +26,7 @@ Quando hai successo con Paura (*Fear*) in un tiro d'attacco, infliggi **1d10** d
 
 ## Caratteristica di Specializzazione (Specialization)
 **Evoca Scudo (Conjure Shield):**
-Puoi mantenere una barriera magica difensiva. Finché possiedi almeno 2 Speranza, aggiungi la tua Competenza alla tua Evasione.
+Puoi mantenere una barriera magica difensiva. Finché possiedi almeno 2 Speranze, aggiungi la tua Competenza alla tua Evasione.
 
 **Alimentato dalla Paura (Fueled by Fear):**
 Il danno magico extra concesso dalla tua caratteristica **Affronta la Paura** aumenta a **2d10**.

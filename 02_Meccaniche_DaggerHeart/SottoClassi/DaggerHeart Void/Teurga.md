@@ -49,7 +49,7 @@ Il tuo *Arcangelo* può aiutare un alleato entro portata Lontana su un Tiro d'Az
 Puoi evocare una *Manifestazione Divina* (Divine Manifestation) alla volta utilizzando il tuo **Quarto Cerchio** di evocazione.
 
 #### Speranza Consacrata (Consecrated Hope)
-Una volta per scena, quando tu o un alleato effettuate un Tiro d'Azione, puoi **spendere 2 Speranza** per trasformarlo automaticamente in un **successo critico**.
+Una volta per scena, quando tu o un alleato effettuate un Tiro d'Azione, puoi **spendere 2 Speranze** per trasformarlo automaticamente in un **successo critico**.
 
 #### Parentela Ultraterrena (Otherworldly Kinship)
 Puoi utilizzare la magia degli spiriti per vedere attraverso le illusioni e percepire creature e oggetti invisibili nel tuo campo visivo. Se una creatura o un oggetto nel tuo campo visivo è stato trasformato dalla magia, puoi vederne la vera forma.

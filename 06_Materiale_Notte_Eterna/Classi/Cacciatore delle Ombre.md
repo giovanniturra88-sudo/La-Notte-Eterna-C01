@@ -23,7 +23,7 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 # Speranza
 
 ## Velo della Notte
-**Spendi 3 Speranza** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Nascosto** (Cloaked) fino all'inizio del tuo prossimo turno, anche se ti trovi sotto la diretta osservazione di un nemico o in piena luce intensa.
+**Spendi 3 Speranze** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Nascosto** (Cloaked) fino all'inizio del tuo prossimo turno, anche se ti trovi sotto la diretta osservazione di un nemico o in piena luce intensa.
 
 ---
 

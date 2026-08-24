@@ -34,7 +34,7 @@ Evochi un vento gelido in una sfera dal raggio di 12 m entro gittata **Remota**.
 
 ### Marchio della Luna Calante
 * **Livello:** 3
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** 1 Scena
 * **Gittata:** Lontana

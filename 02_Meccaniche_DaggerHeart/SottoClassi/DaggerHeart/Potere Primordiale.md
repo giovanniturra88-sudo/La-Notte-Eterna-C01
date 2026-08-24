@@ -31,7 +31,7 @@ Puoi potenziare la magia altrui con la tua essenza. Quando offri l'azione Aiutar
 
 ## Caratteristica di Maestria (Mastery)
 **Carica Arcana (Arcane Charge):**
-Puoi accumulare energia per potenziare i tuoi attacchi. Quando subisci danni magici o spendi 2 Speranza, entri nello stato **Carico** (*Charged*). Quando metti a segno un attacco che infligge danni magici mentre sei Carico, puoi scaricare questa energia per scegliere di:
+Puoi accumulare energia per potenziare i tuoi attacchi. Quando subisci danni magici o spendi 2 Speranze, entri nello stato **Carico** (*Charged*). Quando metti a segno un attacco che infligge danni magici mentre sei Carico, puoi scaricare questa energia per scegliere di:
 * Ottenere un bonus di +10 al tiro di danno.
 * Incrementare di +3 la Difficoltà di un tiro di reazione causato dal tuo incantesimo.
 * Lo stato Carico cessa al tuo prossimo riposo lungo.

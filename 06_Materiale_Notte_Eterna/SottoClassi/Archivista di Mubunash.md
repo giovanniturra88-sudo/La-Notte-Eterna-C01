@@ -28,7 +28,7 @@ Conosci storie, aneddoti e tattiche applicate in battaglie e imperi ormai scompa
 ## Caratteristiche di Maestria
 
 ### Contemplazione della Polvere
-Hai compreso l'inevitabile scorrere del tempo e gli errori del passato. Quando effettui un tiro d'azione o di reazione basato su *Conoscenza* e il tuo Dado del Timore (Fear Die) mostra un risultato superiore al tuo Dado della Speranza (Hope Die) determinando un tiro con **Timore**, puoi spendere **2 Speranza** per convertire il fallimento in un **Successo con Speranza**, descrivendo come un lampo di genio accademico ti mostri la via d'uscita.
+Hai compreso l'inevitabile scorrere del tempo e gli errori del passato. Quando effettui un tiro d'azione o di reazione basato su *Conoscenza* e il tuo Dado del Timore (Fear Die) mostra un risultato superiore al tuo Dado della Speranza (Hope Die) determinando un tiro con **Timore**, puoi spendere **2 Speranze** per convertire il fallimento in un **Successo con Speranza**, descrivendo come un lampo di genio accademico ti mostri la via d'uscita.
 
 ---
 

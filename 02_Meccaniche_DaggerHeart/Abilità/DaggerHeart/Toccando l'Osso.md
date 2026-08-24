@@ -10,4 +10,4 @@ Titolo Inglese:
 Quando 4 o più delle carte del dominio nella tua dotazione appartengono al Dominio dell'Ossa, ottieni i seguenti vantaggi:
 
 - +1 di bonus all'Agilità
-- Una volta per riposo, puoi **spendere 3 Speranza** per far fallire un attacco che ha avuto successo contro di te.
+- Una volta per riposo, puoi **spendere 3 Speranze** per far fallire un attacco che ha avuto successo contro di te.

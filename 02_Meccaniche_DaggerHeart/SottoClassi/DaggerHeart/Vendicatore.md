@@ -30,4 +30,4 @@ Quando un avversario danneggia un alleato entro portata di Mischia, guadagni un 
 
 ## Caratteristica di Maestria (Mastery)
 **Nemesi (Nemesis):**
-Spendi 2 Speranza per designare una creatura come tua **Nemesi** fino al tuo prossimo riposo. Quando effettui un attacco contro la tua Nemesi, puoi scambiare i risultati dei tuoi dadi di Speranza e Paura. Puoi avere una sola Nemesi attiva alla volta.
+Spendi 2 Speranze per designare una creatura come tua **Nemesi** fino al tuo prossimo riposo. Quando effettui un attacco contro la tua Nemesi, puoi scambiare i risultati dei tuoi dadi di Speranza e Paura. Puoi avere una sola Nemesi attiva alla volta.

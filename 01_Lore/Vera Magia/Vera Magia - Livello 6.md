@@ -10,7 +10,7 @@ tags:
 
 ### Circolo della Furia Terrestre
 * **Livello:** 6
-* **Costo:** 3 Speranza
+* **Costo:** 3 Speranze
 * **Tempo di Lancio:** 1 Ora / Ritualistico
 * **Durata:** Permanenza / Giorni
 * **Gittata:** Vasta Area / Intera Mappa di Gioco
@@ -24,7 +24,7 @@ Se il rito viene ripetuto nello stesso luogo nei giorni successivi:
 
 ### Cuore del Caos Elementale
 * **Livello:** 6
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tempo di Preparazione:** 10 minuti
 * **Durata:** Fino al prossimo Riposo Lungo
 * **Gittata:** Personale
@@ -35,7 +35,7 @@ Carichi di energia primordiale un cuore organico ed ingerendolo ottieni **Resist
 
 ### Marchio della Luna Crescente
 * **Livello:** 6
-* **Costo:** 2 Speranza
+* **Costo:** 2 Speranze
 * **Tiro d'Attacco / Magia:** Tiro Incantesimo
 * **Durata:** mantenimento dell'effetto
 * **Gittata:** Lontana
@@ -44,7 +44,7 @@ Imponi un marchio argentato che rivela la creatura anche se invisibile. Tutti i 
 
 ### Reale Miraggio di Sagister
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 6 | Costo: 2 Speranza
+* **Requisiti:** Livello 6 | Costo: 2 Speranze
 * **Tempo di Esecuzione:** 1 ora
 * **Gittata:** Incantatore (Zona Ravvicinata / Cubo)
 * **Durata:** Fino al prossimo Riposo Lungo (Estendibile)
@@ -62,7 +62,7 @@ Delimiti un'area cubica pari a una **Zona Ravvicinata** disponendo i reagenti ai
 
 ### Superba Infusione Arcana
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 6 | Costo: 2 Speranza
+* **Requisiti:** Livello 6 | Costo: 2 Speranze
 * **Tempo di Esecuzione:** 1 settimana (Rituale)
 * **Gittata:** Mischia
 * **Durata:** Permanente / Istantanea

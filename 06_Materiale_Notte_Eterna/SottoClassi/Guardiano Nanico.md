@@ -30,7 +30,7 @@ Ranger nani specializzati nel depistaggio non letale e nell'uso di illusioni mon
 ---
 
 ### Maestria
-**_Via da Qui:_** Una volta per riposo lungo, spendendo 2 Speranza, puoi forzare un bersaglio visibile a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, viene teletrasportato in un luogo sicuro precedentemente visitato da te entro portata Lontana.
+**_Via da Qui:_** Una volta per riposo lungo, spendendo 2 Speranze, puoi forzare un bersaglio visibile a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, viene teletrasportato in un luogo sicuro precedentemente visitato da te entro portata Lontana.
 
 ---
 
