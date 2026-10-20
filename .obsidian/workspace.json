@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9696bc176beaa2",
+        "id": "9a3e9f8fa7bfcb8f",
         "type": "tabs",
         "children": [
           {
-            "id": "224737f5551fcc56",
+            "id": "855391d5483e36d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -87,16 +83,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55f25d622ef48e66",
+        "id": "1e49828831520cef",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4943d3146f502c",
+            "id": "9bdbdecd00b962ae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/Nemici/Loy'ach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,12 +105,11 @@
             }
           },
           {
-            "id": "2a88ec7e23615e81",
+            "id": "8c96b744e2283ee5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/Nemici/Loy'ach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -124,7 +118,7 @@
             }
           },
           {
-            "id": "edb5ed61dd76d8a4",
+            "id": "ee24caf612c8f4fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +133,7 @@
             }
           },
           {
-            "id": "72269705d522d88c",
+            "id": "8af270748b9826a7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,12 +147,11 @@
             }
           },
           {
-            "id": "fbd79627cc19ce68",
+            "id": "48cf7cd0640ac44d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/Nemici/Loy'ach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,40 +159,13 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
-          },
-          {
-            "id": "904b9dfa5920c579",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_188a8b0baa1b",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 18,
-                    "month": 7,
-                    "year": 1
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_2a7a0bd9bbb9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 463.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +183,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "224737f5551fcc56",
+  "active": "855391d5483e36d7",
   "lastOpenFiles": [
-    "Benvenuto.md",
-    "00_Dashboard/Home.md",
-    "01_Lore/Divinità/Unthamarand.md",
-    "01_Lore/Divinità/Divinità.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Vampirismo.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Teriantropia.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Ispirazione Divina.md",
-    "01_Lore/Società e Conto degli Anni/Luna di Neir.md",
-    "01_Lore/Cosmologia/Mondo di Neir.md",
+    "01_Lore/Cosmologia/Meteore/Demone X.md",
+    "2026-09-14.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Cacciatore Mortale.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Capitano Pirata.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Branco Demoniaco.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Bandito con Lama Seghettata.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Assassino Velenoso.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Assassino Apprendista.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/ArcoNecromante.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Arciere Spettrale.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Arciere Maledetto.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Aquila Gigante.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Alto Serafino.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Anguille Elettriche.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Agglomerato di Carcasse Zombie.md",
+    "02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Adepto Cultista.md",
     "06_Materiale_Notte_Eterna/Nemici/Abaia.md",
-    "06_Materiale_Notte_Eterna/Nemici/Akamud.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Trino.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Xaan.md",
-    "01_Lore/Società e Conto degli Anni/Fasi del Giorno.md",
-    "01_Lore/Geografia/La Repubblica di Mendulia's Rock/Mendulia's Rock/Base della Marina.md",
-    "01_Lore/Geografia/La Repubblica di Mendulia's Rock/Mendulia's Rock/Accademia delle Sette Arti.md",
-    "01_Lore/Geografia/La Repubblica di Mendulia's Rock/Mendulia's Rock/Banco del Mare.md",
-    "01_Lore/Geografia/La Repubblica di Mendulia's Rock/Mendulia's Rock.md",
-    "01_Lore/Società e Conto degli Anni/Società e Conto degli Anni.md",
-    "01_Lore/Società e Conto degli Anni/Scorrere del Tempo nelle Terre Nascoste.md",
-    "01_Lore/Società e Conto degli Anni/Ricchezze e Valute.md",
-    "01_Lore/Società e Conto degli Anni/Linguaggi di Neir.md",
-    "01_Lore/Società e Conto degli Anni/Calendario Comune.md",
-    "01_Lore/Società e Conto degli Anni/Tenore di Vita e Guadagni.md",
-    "01_Lore/Società e Conto degli Anni/Calendari di Neir.md",
-    "01_Lore/Razze_e_Popoli/Vampiro.md",
+    "05_StoryLines/A02_Grosso Guaio a Varshold/Overview.md",
+    "05_StoryLines/A02_Grosso Guaio a Varshold/Conversione Daggerheart.md",
+    "05_StoryLines/A02_Grosso Guaio a Varshold/A02_Grosso Guaio a Varshold.md",
+    "05_StoryLines/A08_The Star Gazer/Gruppi e Fazioni Operative/Chiesa di Garod.md",
+    "05_StoryLines/A08_The Star Gazer/Creature/Voranox.md",
+    "05_StoryLines/A08_The Star Gazer/Creature/Mephit della Polvere.md",
+    "05_StoryLines/A08_The Star Gazer/Creature/Cacciatori tloxa.md",
+    "05_StoryLines/A09_When Angels Cry/PNG/Ĭzafer.md",
+    "05_StoryLines/A09_When Angels Cry/Creature/Mal'akh Okel.md",
     "scripts/translate_arms_hope_fear.py",
     "scripts/dump_output.txt",
     "scripts/translate_items.py",

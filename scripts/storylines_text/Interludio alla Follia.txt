@@ -1,0 +1,1381 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+3
+ 
+ 
+Interludio 
+alla Follia
+Avventura per La Notte Eterna,  
+ambientazione dark epic fantasy per 5e OGL 1.0.
+Autori: Michele Dal Bo, Jason R. Forbus
+Cover art: Angela Gubert 
+Art Director: Steven Forbus
+Grafica e impaginazione: Gennaro De Filippis
+Mappe dungeon: Michele Dal Bo
+Grazie di cuore a Kevin Stacy, In taverna da Kurt, ASD La 
+Triade, Fortytwo APS, Paolo Mazza e Federico V eltri per aver 
+fatto piovere meteore sui tavoli da gioco di questo mondo 
+della Dimensione della Materia. 
+GDR: La Notte Eterna
+Pubblicato da MyCatPortal Lab per AliRibelli Edizioni 2024© 
+AliRibelli Edizioni, Gaeta www.aliribelli.com
+lanotteterna@aliribelli.com 
+È severamente vietata la riproduzione, anche parziale del 
+testo, effettuata con qualsiasi mezzo, senza l’espressa auto-
+rizzazione dell’Editore. 
+Questo progetto è stato finanziato su Kickstarter. Siamo 
+molto grati ai nostri backer. Un ringraziamento speciale va ai 
+Chosen of the Gods: Abdulaziz Al-Kaboor, Alberto Gervasio, 
+Alessandro Tararan, Alberto Battaglia, Andrea Propersi, Bra-
+dley Hamm, Brad Powers, Charles M. Beavers, Christopher 
+Royer, Christopher Thomas Lezer, Davide Gibin, Derren 
+Mckenna, Evan Taylor Fails, Giuseppe Angelo d’Amico, 
+Jason Cummings, Jayson Santiago, Josh Kanapkey, Joshua 
+L. Knous, Justin Gardin, Justin Joseph Lafser, Justin Offer-
+mann, Katharine Wright, Marco Carvelli, Michael Peter 
+Henry Young, Randy Marsh, Reka Reynolds, Rita Balloriani, 
+Robert Earl Barnhill, Robert Griswold, Sara Schlögl, Sean 
+Bradley, Sebastian Coulter, Seth Maxson, Stefano Chierchini, 
+Trevor Orion Nelson, Tyler Russell, William J. Mapp. 
+Manuali base:
+La Notte Eterna ambientazione 5e 
+Mostri ed Eroi 
+La Canzone di Nebvarasa 
+Avventure: 
+Accademia della Magia Profonda 
+Grosso Guaio a Varshold 
+La Bestia Sacra 
+La Morte Strisciante 
+La Tavoletta Proibita 
+L’Oscura Chiesa di Tenebris 
+Pioggia di Fuoco 
+Racconti della Notte Eterna 
+The Star Gazer
+Pronti a ballare al ritmo di una musica dannata? 
+Scansionando il codice QR in basso potrete scaricare 
+la mappa completa della dimora di Mortimer
+https://tinyurl.com/lnehaunt
+
+
+===== PAGE 4 =====
+4
+SOMMARIO
+INTRODUZIONE........................................................................................................................... 5
+SOMMARIO DELLE SCENE........................................................................................................ 6
+SCENA 1: LA NOTA DI ENTRATA, IL MI................................................................................. 7
+SCENA 2: LA DIMORA DI MORTIMER, IL SOL..................................................................... 9
+LE SEZIONI DELLA CASA........................................................................................................... 9
+IL SALOTTO E LA CUCINA............................................................................................ 9
+LA CAMERA DA LETTO................................................................................................. 10
+IL GIARDINO..................................................................................................................... 11
+L’INGRESSO CARRAIO................................................................................................... 11
+L’INGRESSO DEL SEMIPIANO...................................................................................... 11
+L’INGRESSO E USCITA DEL SEMIPIANO................................................................... 11
+LA CHIAVE DI VIOLINO................................................................................................. 11
+L’ENIGMA DEL RITUALE............................................................................................... 11
+SCENA 3: LA CHIAVE DEL SOL, IL SI....................................................................................... 12
+LE RIGHE DEL PENTAGRAMMA.............................................................................................. 13
+RIGO 1: NOTA MI.............................................................................................................. 13
+RIGO 2: NOTA SOL........................................................................................................... 13
+RIGO 3: NOTA SI............................................................................................................... 13
+RIGO 4: NOTA RE............................................................................................................. 13
+RIGO 5: NOTA FA............................................................................................................. 13
+RIGO 6: NOTA SENZA-SUONO..................................................................................... 13
+LE STANZE DEL PENTAGRAMMA........................................................................................... 14
+STANZA A.......................................................................................................................... 14
+STANZA B........................................................................................................................... 14
+STANZA C.......................................................................................................................... 14
+STANZA D.......................................................................................................................... 14
+SCENA 4: IL PENTAGRAMMA. IL RE....................................................................................... 15
+CONCLUSIONE: IL FA................................................................................................................. 16
+PERSONAGGI NON GIOCANTI................................................................................................. 17
+CHIOMABIANCA.............................................................................................................. 19
+MORTIMER....................................................................................................................... 20
+CHIAVE DI VIOLINO....................................................................................................... 20
+PENTAGRAMMA MAGICO DI MORTIMER.............................................................. 20
+
+===== PAGE 5 =====
+5
+INTRODUZIONE 
+I 
+nterludio alla Follia è un’avventura indirizzata 
+a personaggi di 7° livello ed è ambientata nelle 
+Favoleggiate Rovine di Gundazar.
+In questa storia i personaggi saranno tenuti 
+costantemente sotto controllo dal macabro sguardo di 
+Chiomabianca, una pericolosa banshee prigioniera di un 
+semipiano. Questa pericolosa missione li condurrà verso la 
+dimora del misterioso bardo Mortimer, accompagnati dal 
+suo Magico Pentagramma: un antico oggetto magico che 
+evolverà nel corso dell’avventura, rivelando sempre più note 
+e indizi fino alla scoperta della canzone segreta di Mortimer.
+Solo coloro che dimostreranno coraggio, astuzia e forza 
+interiore potranno sopravvivere a questa avventura e sco -
+prire i segreti nascosti tra le mura della dimora del bardo. 
+Gli avventurieri scopriranno che a condurre Mortimer 
+alla pazzia fu l’ardente desiderio di rendere unico il proprio 
+canto, celebrando un rituale con cui rubare la voce di una 
+banshee. Il rituale non è andato a buon fine e lo stesso Mor-
+timer è caduto sotto la furia allo spirito urlante.
+Il GM dovrà tenere alta la tensione dell’avventura come 
+se stesse conducendo un’orchestra: i personaggi sono parte 
+dell’ensemble di Chiomabianca, che tenterà di attirarli a sé 
+per farli impazzire.
+La casa di Mortimer è una dimora eccentrica che nasconde 
+una struttura centrale a forma di chiave di violino, dove è 
+situato l’ingresso al semipiano in cui si sarebbe dovuto svol-
+gere il rituale. Qui gli avventurieri dovranno attraversare 
+una struttura labirintica irta di mostri e trappole, fino ad 
+affrontare Chiomabianca.
+Il Game Master può decidere come far trovare il Magico 
+Pentagramma, che diventerà lo “spirito guida” dell’intera 
+avventura. In basso sono elencate sei modalità di ritrova -
+mento del Magico Pentagramma di Mortimer, in aggiunta 
+alla possibile avventura secondaria da proporre prima di ini-
+ziare quella principale. Il GM può anche tirare a sorte (1d4) 
+e leggere il risultato:
+Il rituale (1). Uno dei personaggi ha assistito a un rituale 
+magico durante il quale un’entità gli ha affidato una mis -
+sione di grande importanza: trovare lo spirito di Mortimer. 
+Per raggiungere la dimora del defunto bardo, il gruppo deve 
+seguire il misterioso pentagramma che fungerà da guida in 
+questo viaggio oltre i confini della realtà materiale, verso le 
+Favoleggiate Rovine di Gundazar...
+Il Collegio della Musica Proibita (2). Alcuni danse macabre 
+incaricano il gruppo di recarsi nelle rovine di Gundazar e 
+mettere fine alla maledizione di Mortimer. Il pentagramma 
+è la chiave per trovarlo e una ricca ricompensa li attende.
+Il Mercante (3). Un mercante di meteore ha avvicinato 
+uno dei personaggi e gli ha venduto un oggetto unico nel 
+suo genere, un pentagramma magico che ha al suo interno 
+l’indicazione per un tesoro inestimabile. Lo cede per poche 
+monete perché è troppo vecchio per affrontare un simile 
+viaggio.
+Lo spirito dannato (4). Durante il sonno, uno spirito dal 
+volto scuro e le labbra bianche ha contattato lo Spiritualista 
+del gruppo, indicandogli una pietra particolare. Seguendo 
+l’indicazione, lo Spiritualista ha trovato lo spartito di Mor-
+timer che indica la direzione verso cui condurre la ricerca.
+Il GM può collegare questa avventura a La tavoletta proi-
+bita e creare un intermezzo.
+Ultimata quell’avventura, i personaggi potrebbero tra -
+scorrere del tempo in paese: l’archivista nonché bibliotecaria 
+della città potrebbe descrivergli la natura del Magico Pen -
+tagramma di Mortimer, mettendoli sulla giusta direzione 
+verso le rovine di Gundazar.
+
+
+===== PAGE 6 =====
+SOMMARIO DELLE SCENE
+SCENA 1: La Nota di Entrata, il MI
+Dove i personaggi attraverseranno le Favoleggiate Rovine 
+di Gundazar fino a giungere presso la dimora di Mortimer. 
+Qui dovranno affrontare sfide e pericoli prima di giun-
+gere alle rovine della casa isolata.
+SCENA 2: La Dimora di Mortimer, il SOL
+Dove i personaggi potranno perlustrare l’antica dimora 
+del bardo e scoprire la sua storia tra spiriti, invocazioni, 
+mostri erranti e un misterioso enigma.
+SCENA 3: La Chiave di violino, il SI
+Dove i personaggi si avventureranno nel semipiano 
+all’interno della chiave di violino. 
+In questo labirinto dovranno sopravvivere alle note della 
+voce di Mortimer, a mostri e temibili trappole.
+SCENA 4: Il Pentagramma, il RE
+Dove i personaggi scopriranno di essere caduti in una 
+trappola e dovranno trovare il modo di sconfiggere lo spirito 
+di Chiomabianca.
+CONCLUSIONE, il FA
+L’epilogo della vicenda, con alcuni spunti per future 
+avventure.
+6
+
+===== PAGE 7 =====
+SCENA 1:  
+La Nota di Entrata, il MI
+Il Magico Pentagramma (1 livello di potere) è una mappa che 
+indica precisamente dove si trovano la dimora del bardo folle 
+e i suoi incredibili tesori: un punto a sud di Gundazar, tra le 
+rovine periferiche dell’antica metropoli.
+Il viaggio verso le Favoleggiate Rovine di Gundazar dura 
+circa dieci giorni dall’estremo sud della V ecchia Strada.
+Il gruppo attraverserà una terra brulla e desolata, inter-
+vallata da radi boschi di alberi rinsecchiti e strani fiori color 
+cenere. Ammassi di sinistre rovine svettano come denti spez-
+zati in mezzo a una nebbia fitta che puzza di putrefazione, 
+tra torrenti prosciugati e strade rese impraticabili da macerie 
+e pantani. In qualche tratto l’acqua stantia ha creato delle 
+paludi su cui aleggiano vapori mefitici e bluastri. L’oscurità e 
+la morte sembrano avere preso il sopravvento e i colori sono 
+tutti sulla tonalità del grigio, del blu profondo e del nero.
+I carri faranno fatica ad attraversare queste vie e anche i 
+cavalli dovranno essere condotti al passo per evitare che si 
+rompano le caviglie nelle buche che la nebbia e il pantano 
+rendono particolarmente difficili da individuare.
+In questo luogo la sete e la fame, se non si è adeguata -
+mente equipaggiati, rappresentano un grave pericolo, come 
+potrebbero confermare le centinaia di avventurieri che qui 
+sono morti di stenti ancor prima di arrivare a vedere le prime 
+guglie distrutte di Gundazar.
+Anche il cuore degli avventurieri viene assalito da una 
+sorta di tristezza e di fiacchezza man mano che avanzano nel 
+profondo delle terre desolate: per ogni giorno di cammino 
+in queste terre desolate i personaggi potrebbero avere delle 
+allucinazioni da viaggio. Ogni personaggio deve effettuare un 
+tiro salvezza su Saggezza (CD 12) o subire l’effetto dell’incan-
+tesimo trama ipnotica: vedrà delle scie luminose che sembrano 
+invitarlo a seguirle e anche se crederà di muoversi verso di 
+loro, in realtà non muoverà un solo passo, risultando nella 
+condizione incapacitato. L’illusione termina se la creatura 
+subisce danni, se qualcun altro usa un’azione per scuoterla, 
+destandola dallo stato confusionale o dopo 5 minuti.
+Chi si avvicina a meno di cinque metri alle zone paludose 
+e agli acquitrini putridi, udirà una serie di sussurri sinistri 
+provenire dall’acqua, e dovrà effettuare un tiro salvezza su 
+Saggezza (CD 10) per non subire gli effetti dell’incantesimo 
+sussurri dissonanti (3d6 danni psichici e il personaggio deve 
+allontanarsi di corsa dalla palude).
+Per ogni giorno di cammino il GM deve tirare sulla 
+tabella sottostante.
+Nessun evento (1 e 8). La giornata prosegue senza intoppi 
+e i personaggi viaggiano nelle terre brulle senza avvistare 
+nulla di sospetto. Il viaggio tra desolazione e odori nauseanti 
+potrebbe indurgli un senso di profonda malinconia: dopo un 
+giorno senza nessun evento, il tiro Saggezza per gli effetti 
+delle allucinazioni da viaggio aumenta a CD 14.
+Spettri (2). In una zona paludosa i personaggi incontreranno 
+degli spettri a difesa dell’acquitrino che considerano come 
+la propria dimora (si applica l’effetto dei sussurri sinistri 
+degli acquitrini) e combatteranno fino all’annientamento 
+INCONTRI CASUALI
+1d10 Incontro
+1 Nessun evento
+2 2d4 Spettri (di cui almeno 1 che protegge il tesoro sotto la palude)
+3 Elfi dei boschi (pedaggio)
+4 1 Fantasma a protezione di un tesoro
+5 1d4 Smarriti
+6 1 Elementale delle Spore che protegge un tesoro nella palude
+7 Elfi dei boschi (perlustrazione)
+8 Nessun Evento
+9 1d2 Berberoka
+10 1d8 Rotloss
+7
+
+===== PAGE 8 =====
+8
+per difendere i propri tesori. Se i personaggi sconfiggono 
+gli spettri potranno cercare di recuperare i tesori immersi 
+nella palude all’interno di vecchi scrigni (tabella Tesori negli 
+Acquitrini).
+Per questi scontri il GM può utilizzare la mappa “Gun-
+dazar – Terre Brulle”.
+Pedaggio (3). Diversi gruppi di elfi dei boschi abitano le 
+rovine di antiche tombe e ville monumentali che hanno tra-
+sformato in villaggi fortificati. I personaggi si imbattono in 
+un loro fortilizio dove potranno procurarsi alcune provviste 
+ma dovranno pagare un pedaggio agli elfi che vi dimorano. 
+Il GM può utilizzare la mappa “Gundazar – Fortezza degli 
+Elfi dei Boschi”.
+Fantasma (4). Questo fantasma infesta le rovine della villa 
+che abitò in vita. Si tratta dello spirito di una facoltosa ari -
+stocratica che poco prima di morire era in procinto di con-
+cludere l’acquisto di una sontuosa dimora a Petralta. Durante 
+la stipula, la donna fu assalita e uccisa dal lestofante che si 
+spacciava per il proprietario dell’immobile e che era in com-
+butta con il notaio: delle ricchezze della donna riuscì a salvarsi 
+solo uno scrigno, che il suo fantasma custodisce gelosamente 
+da allora (tabella Tesori nelle Rovine). Il GM può utilizzare 
+la mappa “Gundazar – Rovine”.
+Smarriti (5). Queste creature sono ciò che resta di alcuni 
+messi imperiali morti di stenti a ridosso dell’imminente 
+caduta di Gundazar. Sono infastiditi dai rumori forti, dalle 
+canzoni o dagli strumenti musicali. Se sopravvivono allo 
+scontro, gli avventurieri possono trovare avanzi putrefatti 
+di cadaveri con qualche oggetto utile e monete sparse supe-
+rando una prova di Indagare CD 13. Il GM può utilizzare la 
+mappa “Gundazar – Terre Brulle”.
+Elementale delle Spore (6). Mentre gli avventurieri avan-
+zano con cautela attraverso fitti rovi, una calma naturale 
+avvolge l’area. All’improvviso, un Elementale delle Spore 
+emerge dai rovi, la sua forma silenziosa pulsa con una miriade 
+di funghi tossici e spore (Percezione CD 15).
+Perlustrazione (7). In queste terre desolate può capitare di 
+incontrare una squadra di perlustrazione costituita da 1d3+2 
+elfi dei boschi. Gli elfi porranno numerose domande ai perso-
+naggi e li scherniranno per la morte certa cui vanno incontro. 
+Se i personaggi dovessero reagire ci sarà uno scontro, mentre 
+se riescono a farseli amici o a restare indifferenti sarà per-
+messo loro di proseguire indisturbati. Il GM può utilizzare 
+la mappa “Gundazar – Terre Brulle”.
+TESORI NEGLI ACQUITRINI
+1d8 Tesoro
+1 Nessun tesoro, solo cocci rotti e vesti strappate e sudicie.
+2 200 imperiali d’argento, Pozione di Guarigione, Calice di rame.
+3 Giavellotto del Fulmine, bracciale con lapislazzuli (10 mo).
+4 100 imperiali d’argento, braccialetto d’argento (25 mo).
+5 Armatura di Cuoio del Marinaio, Occhio di tigre maledetto 
+(pietra, 15 mo).
+6 20 Imperiali d’argento, coppia di dadi in osso (5 mo).
+7 Pozione di Resistenza, Mantello Elfico (maledetto).
+8 Piccolo specchio con cornice d’oro (10 mo), 2 anelli con pietre 
+preziose (20 mo)
+
+
+===== PAGE 9 =====
+9
+Berberoka (9). Adagiato sul fondale a qualche metro di pro-
+fondità in un acquitrino, gli avventurieri notano qualcosa 
+di luccicante. Appena si immergono nell’acqua vengono 
+attaccati da un berberoka in agguato. L’oggetto luccicante si 
+rivelerà un elmo ammaccato e privo di valore.
+Le terre che circondano Gundazar sono impregnate di 
+una malvagità che può infettare persino gli oggetti, renden-
+doli temporaneamente maledetti. Il GM può utilizzare la 
+seguente tabella per determinare gli oggetti maledetti che 
+i personaggi potrebbero incontrare durante il loro viaggio, 
+oppure gli effetti che aleggiano nelle rovine e nelle paludi 
+che si troveranno lungo il cammino, aumentando così la 
+tensione e l’atmosfera tenebrosa dell’avventura.
+SCENA 2: La Dimora di 
+Mortimer, il SOL
+Dopo un viaggio estenuante e difficile attraverso le terre 
+brulle che circondano l’antica Gundazar, i personaggi giun-
+geranno finalmente in vista di un complesso in rovina, in 
+cima a una collina ai margini della città distrutta. La mappa 
+del pentagramma magico li guiderà proprio verso questa biz-
+zarra costruzione. Mentre i personaggi seguono il sentiero 
+che conduce in cima alla collina, noteranno che la vegeta -
+zione qui sembra essere viva, nonostante il vento freddo 
+che soffia nella zona: erba verde e alberi-fungo crescono nei 
+pressi dell’abitazione. 
+Una volta in cima, la pergamena attiverà il secondo 
+livello di magia: Scritto Macabro.  A questo punto lo 
+spirito di Chiomabianca inizierà a scrivere direttamente ai 
+personaggi, invitandoli a entrare nella sua casa. Se il gruppo 
+volesse andarsene o accamparsi fuori dalla casa, la banshee 
+cercherà di essere più diretta: chiunque legga i messaggi 
+dovrà effettuare un tiro salvezza su Saggezza CD 15 o subire 
+gli effetti dell’incantesimo comando; se non supera la prova, 
+il personaggio si recherà direttamente dentro la casa come 
+se conoscesse la dimora e sentendosi finalmente a casa. L’ef-
+fetto dura fino a che non arriva dentro e si siede su una delle 
+poltrone o accende il fuoco nel camino del salotto.
+L’edificio è diviso in quattro sezioni principali: le due 
+sezioni a nord (1 e 2) fanno parte della casa e sono coperte 
+de un tetto cadente ma non del tutto rotto), mentre le zone 
+a sud (3 e 4) sono zone circondate da mura e a cielo aperto.
+Al centro della struttura è presente una struttura in mura-
+tura, che non ha subito alcun danno esterno e non presenta 
+porte né finestre o altra tipologia di accesso. Superare una 
+prova di Arcano (CD 14) farà scoprire che la parte centrale è 
+costruita come una grande ’chiave di violino’ ed è permeata 
+di magia.
+Le sezioni della casa:
+1 - Il Salotto e la Cucina. Questa sezione 
+di casa è la parte più “calda” della casa, 
+al riparo dal freddo vento all’esterno. 
+Appena entrati dalla porta sulla parete 
+sud, i personaggi si trovano davanti a 
+quello che ha tutta l’aria di un salotto.
+Sul lato ovest c’è un elegante pia-
+noforte mangiato dalle tarme e scordato, 
+ma ancora funzionante. Dietro di esso c’è 
+una piccola libreria rovinata a causa di 
+una perdita del soffitto, l’acqua che è 
+filtrata ha rovinato in maniera irre-
+cuperabile i manoscritti. 
+Sulla parete est è presente un 
+camino di marmo rosso con 
+inserti in acciaio. È funzio -
+TESORI NELLE ROVINE
+1d8 Tesoro
+1 Nessun tesoro, solo cocci e ossa spappolate.
+2 Scudo +2, Onice nero (50 mo).
+3 30 imperiali d’argento, 1 Calcedonio (pietra, bianco opaco) (50 mo).
+4 Stivali Elfici (Maledetti), 20 imperiali d’argento.
+5 200 Imperiali d’argento, V erga Inamovibile.
+6 Armatura della Resistenza (Maledetta).
+7 50 imperiali d’argento, bracciale in oro (30 mo), pozione della 
+Forza dei Giganti delle Colline.
+8 Pozione della Guarigione Maggiore, 2 quarzi gialli (50mo).
+MALEDIZIONI
+1d6 Maledizione
+1
+Malore. Tiro salvezza su Costituzione CD 14 o il personaggio 
+si sente stanco e vomita ogni 4 ore, subendo svantaggio a tutte 
+le prove. Durata 1 giorno.
+2
+Allucinazioni Uditive.  Tiro salvezza su Saggezza CD 13 o 
+il personaggio sente delle voci che lo chiamano, causandogli 
+svantaggio a tutte le prove. Durata 4 ore.
+3
+Avvelenato.  Tiro salvezza su Costituzione CD 15 o il personaggio 
+subisce la condizione avvelenato appena tocca l’oggetto maledetto. 
+Durata 1d8 round.
+4
+Indebolito. Tiro salvezza su Costituzione CD 15 o il personaggio 
+viene pervaso da un profondo senso di stanchezza che comporta 
+svantaggio a tutte le prove. Durata 4 ore.
+5
+Colpo necrotico. Tiro salvezza su Destrezza CD 15 o il per -
+sonaggio viene colpito da un guizzo di un’ombra che infligge 
+3d10 danni necrotici.
+6
+Paralizzato. Questa maledizione va associata a un combatti -
+mento, se non c’è combattimento in corso tirare 1d5 per altro 
+effetto.  Tiro salvezza su Costituzione CD 15 o il personaggio 
+resta paralizzato per 1d10 round, può ritentare il tiro al termine 
+del suo turno successivo per terminare l’effetto in anticipo.
+
+
+===== PAGE 10 =====
+10
+nante e i personaggi possono accenderlo procurandosi della 
+legna asciutta. Il calore emanato dal fuoco risulterà parti -
+colarmente piacevole e rassicurante, per un lieve effetto 
+di charme di Chiomabianca. Nell’angolo sud-est un piccolo 
+altare distrutto reca qualche segno di rituali e statuette rotte. 
+Alcune librerie e colonne separano il salotto dalla cucina. 
+Se i personaggi cercheranno libri o rovisteranno tra le librerie 
+risveglieranno un Elementale dell’inchiostro e troveranno 
+lo spartito della Danza Macabra di Mortimer (enigma A).
+La cucina contiene un grande tavolo e diverse poltrone 
+e sedie, anche se alcune sono marce e sfondate. Sulla parete 
+nord si trovano i resti di un grande camino rovinato e con la 
+canna ostruita, accanto al quale c’è una credenza contenente 
+pentole e utensili, rotti o arrugginiti. Sulla parete ovest è 
+presente un enorme specchio a volta perfettamente intatto, 
+con una pesante cornice d’argento e il vecchio timone di una 
+nave incastonato nel muro. Nell’angolo nord-est è presente 
+un’alcova circolare in cui è collocato uno scrigno: i perso -
+naggi troveranno 300 imperiali d’argento, una veste di seta 
+con ricami dorati (250 mo), una collana d’argento con pietra 
+preziosa (100 mo) e una spada corta +2. Solo lo specchio e 
+lo scrigno con il suo contenuto sembrano essere stati rispar-
+miati dalla distruzione e dal logorio del tempo.
+Lo specchio è magico e permette di passare direttamente 
+nella sezione 2 della casa suonando la nota SOL, utilizzando 
+il pianoforte oppure lo strumento di uno dei personaggi. Il 
+SOL fa apparire l’immagine dell’altra stanza e i personaggi 
+potranno passarvi attraverso. Con la nota MI lo specchio farà 
+apparire all’interno della stanza delle chiavi di SOL (lettera 
+B). Se vengono suonate altre note singole il personaggio 
+dovrà effettuare un tiro salvezza su Saggezza CD 20 o subirà 
+3d10 danni psichici. Suonare accordi di note non farà acca-
+dere nulla di particolare. Se la pergamena viene interrogata 
+sull’uso dello specchio apparirà la seguente scritta:
+Suonate la pura nota primigenia e le meraviglie della 
+casa si apriranno ai vostri occhi. Suonate la nota quinta 
+e troverete l’accesso ai miei segreti. Ogni altra nota è 
+mera cacofonia alle mie orecchie.
+2 – La Camera da Letto. Questa sezione era la camera da letto 
+di Mortimer, la stessa dove conduceva i suoi rituali. Sulla 
+parete est si trova uno specchio analogo alla stanza 1 (con le 
+stesse funzioni magiche) e un pianoforte che è l’esatta copia 
+di quello nel salotto: stessi tarli, stessi tasti scordati e qual-
+siasi cambiamento viene apportato su uno compare anche 
+sull’altro. 
+Al centro della stanza è presente una piattaforma di marmo 
+distrutta dove sono riconoscibili delle rune magiche: è il 
+portale che conduce all’interno della chiave di violino. Può 
+essere riparato con almeno 5 utilizzi del trucchetto riparare, 
+o mezzi analoghi.
+Una volta risistemato, potrà essere attivato e comparirà una 
+sfera gialla, che consente di raggiungere la zona A dopo aver 
+suonato la giusta melodia (vedi l’Enigma del Rituale). 
+
+
+===== PAGE 11 =====
+Nell’angolo a nord-ovest, all’interno di un’alcova circolare 
+è presente uno scrigno chiuso: in realtà si tratta di un mimic 
+in agguato!
+Nella parete ovest è presente un camino non funzionante, 
+accanto ci sono i resti di un letto con delle coperte logore. 
+La porta di entrata a sud della sezione 2 è un’illusione: 
+in realtà si tratta di un muro di spine (come l’incantesimo) 
+reso permanente.
+3 – Il Giardino. Quest’area recintata presenta una delle possi-
+bili entrate alla casa di Mortimer. Dall’arco di entrata a ovest 
+i personaggi si troveranno direttamente in un lugubre giar-
+dino dove crescono funghi di varia grandezza e fitti cespugli 
+di rovi. Appena si introdurranno in questa zona, il gruppo 
+verrà attaccato da 1d4+2 funghi fauce (vedi The Star Gazer 
+n. 5) che sorvegliano il giardino e il tesoro nascosto oltre un 
+basso muretto nella parete a sud-ovest.
+Lo scrigno contiene 50 imperiali d’argento, un bastone 
+della guarigione e delle manette dimensionali.
+A nord di quest’area una porta permetteva di entrare 
+nella sezione 2: ora invece la soglia è bloccata da un muro di 
+spine; agisce come l’incantesimo ma ha durata permanente e 
+può essere considerato spesso 1,5 metri.
+4 – L’Ingresso Carraio. Questa sezione era l’entrata principale: 
+passando sotto l’arcata ad est si entra in una parte lastricata 
+di pietra con una fontana non funzionante, ma integra, che 
+raffigura degli strumenti musicali scolpiti nella pietra. Nella 
+zona sud-est si trova una struttura dal tetto coperto con stalli 
+per i cavalli. Parzialmente sepolto da delle macerie in legno 
+si può vedere un barile sigillato che in realtà è un mimic in 
+agguato.
+A nord di quest’area una porta di ferro battuto conduce 
+nella sezione 1 della casa.
+5 – L’Ingresso del Semipiano. Questa sezione centrale della 
+chiave di violino è il solo modo per raggiungere l’entrata 
+del semipiano e accedere al luogo in cui doveva essere ese -
+guito il rituale. Per giungervi, bisogna superare l’Enigma dello 
+Stregone.
+6 – L’Ingresso e Uscita del Semipiano. Questo punto può essere 
+raggiunto risolvendo l’Enigma del Rituale della chiave di vio-
+lino e rappresenta la sola via d’uscita dal semipiano una volta 
+sconfitta Chiomabianca.
+La Chiave di Violino. Questa parte dell’edificio ha la forma 
+di ’chiave di violino’ e racchiude il segreto per poter entrare 
+nel semipiano in cui Mortimer aveva predisposto il rituale. 
+I personaggi possono rimanere nella casa per alcuni giorni, 
+per rifocillarsi, esplorare tutte le sezioni e conversare con lo 
+spirito di Mortimer, che in realtà è Chiomabianca, attraverso 
+la pergamena. “Mortimer” sarà molto accogliente e gentile, 
+ma non svelerà mai direttamente come si accede alla chiave di 
+violino: riferirà che il vincolo a cui è sottoposto gli impedisce 
+di parlare chiaramente ma che nella casa è presente tutto ciò 
+che serve per raggiungerlo.
+Durante le chiacchierate attraverso la pergamena i PG 
+verranno ingannati con questa storia:
+Sognavo di esibirmi in una grande piazza nella ricca città 
+di Gundazar. Avevo trovato il modo, grazie all’aiuto di 
+uno stregone, di costruire la mia casa e la chiave di vio-
+lino, fonte della mia ispirazione. Quello stesso stregone 
+divenne però invidioso e un giorno decise di rinchiu -
+dermi in un sotterraneo, costruito come prigione. Un 
+attimo prima di essere sigillato, sono riuscito a far pas-
+sare una pergamena magica permeata da un frammento 
+della mia anima nella speranza che qualcuno la trovasse e 
+venisse a soccorrermi. Aiutatemi! Entrate nella mia casa 
+e cercate il modo di aprire i sigilli che mi imprigionano!
+In realtà Chiomabianca durante questa fase cerca di cono-
+scerli meglio, per avere maggiori possibilità di catturarli e 
+renderli suoi schiavi. Ci sono due possibili soluzioni per 
+entrare nel semipiano:
+L’Enigma del Rituale. 
+I personaggi possono accedere al semipiano risolvendo l’e-
+nigma che inizia dalla riparazione della piattaforma rituale 
+nella sezione 2. Questo enigma è più difficile dell’Enigma 
+dello Stregone. I passaggi per risolverlo sono:
+Per riparare la piattaforma nella sezione 2 della casa 
+occorrono almeno 5 utilizzi del trucchetto riparare, o altri 
+metodi equivalenti.
+Una volta ripristinata la piattaforma, al di sopra di essa 
+comparirà un globo di luce giallo. Per attivare il passaggio 
+è necessario suonare le prime note della danza macabra di 
+Mortimer. Lo spartito può essere recuperato nella libreria 
+della sezione 1. La melodia può essere suonata con il piano-
+forte presente nella casa, o con gli strumenti posseduti dai 
+personaggi. Se proveranno a suonare note a caso o prese da 
+altri spartiti sparsi in casa, tutte le creature all’interno della 
+casa subiranno 2d12 danni necrotici.
+Una volta suonata la melodia giusta, il globo si trasfor -
+merà in un disco, aprendo un varco che conduce nella zona 
+A all’interno della Chiave di Violino. Questa stanza è com-
+pletamente sigillata e il passaggio magico a nord è sorvegliato 
+da 2 mummie, che attaccheranno immediatamente gli intrusi 
+ma non li inseguiranno oltre il varco.
+Una volta sconfitte le mummie i personaggi possono 
+accedere alla sezione 6 ed entrare nel semipiano, la cui entrata 
+si presenta come una scalinata che scende in un sotterraneo. 
+Se stanno uscendo da esso, significa che hanno sconfitto la 
+banshee: i passaggi saranno completamente liberi e il varco 
+attivo, potendo raggiungere liberamente la sezione 2. 
+I personaggi possono accedere al semipiano risolvendo l’e-
+nigma che parte dalla scoperta della porta magica degli spec-
+chi. I passaggi per risolvere l’enigma sono:
+11
+
+===== PAGE 12 =====
+12
+I personaggi devono suonare la nota Mi davanti allo specchio 
+magico, potendo così accedere alla stanza B. Qui si trova un 
+cerchio magico verde, al di sopra del quale vedranno com-
+parire un disco verde che serve da portale per la sezione B 
+della Chiave di Violino.
+In questa stanza è presente un portale a sud, ma a guar-
+dia c’è un cacciatore di anime (vedi Mostri ed Eroi de La 
+Notte Eterna) che si presenterà ai personaggi come uno 
+stregone malvagio che vuole impedirgli di entrare. Questa 
+entità è stata soggiogata e vincolata al ruolo di guardiano, 
+per cui è costretto a seguire la pantomima ordinatagli da 
+Chiomabianca. Non attaccherà immediatamente gli intrusi, 
+ma li minaccerà e cercherà di convincerli ad andarsene. Se 
+qualcuno dovesse cercare di attraversare la stanza invece 
+attaccherà immediatamente, ma non seguirà i personaggi 
+attraverso il varco. 
+Una volta sconfitto il cacciatore di anime, i PG potranno 
+varcare il portale che conduce alla sezione 5 e all’entrata del 
+semipiano, che si presenta come una scalinata che scende a 
+un sotterraneo.
+SCENA 3: La chiave del 
+SOL, il SI
+Il semipiano contiene una struttura costruita come un rigo 
+del pentagramma e le stanze sono state modellate con la 
+forma  di note.
+Appena scese le scale, il Magico Pentagramma di Mor-
+timer attiverà il terzo livello di magia: lo Spirito di 
+Chiomabianca. Da questo momento la banshee inizierà 
+a minacciarli e tentarli con ricchezze e potere, facendo leva 
+su quanto ha appreso sul gruppo per seminare zizzania e 
+mettere l’uno contro l’altro.
+Questa scena dovrebbe essere gestita con tensione cre -
+scente, i personaggi si rendono conto che la loro vita è in 
+pericolo: l’unico modo per fuggire è arrivare alla stanza del 
+pentagramma e sconfiggere Chiomabianca.
+Il pentagramma è stato nei decenni un “richiamo per 
+le allodole” tentando numerosi ignari avventurieri con la 
+promessa di ricchezze. Ogni volta che la banshee mieteva le 
+proprie vittime, la pergamena del Pentagramma Magico 
+veniva inviata all’esterno, verso un nuovo 
+mercato o biblioteca per essere 
+di nuovo trovata.
+Chiomabianca è uno spi-
+rito irrequieto che odia qual-
+siasi mortale, reo nella sua 
+mente malata di aver tentato 
+di rubarle la voce. Morti -
+mer in realtà è già morto da 
+tempo e nulla potrà essere fatto per lui, se 
+non liberare la sua anima dalla maledizione. 
+La sua danza macabra, opera inedita e tormen-
+tata, è la storia della sua vita, senza un finale.
+Saranno i personaggi a trovare la giusta fine 
+anche per questa melodia? O soccomberanno a loro 
+volta al potere della banshee?
+Il sotterraneo richiama il doppio significato della 
+parola pentagramma: sia le cinque righe che compongono 
+la base dove scrivere le note, che il simbolo a cinque punte 
+che viene utilizzato per i rituali. Il potere di questo semi -
+piano è intrappolare le anime, imprigionare le voci. Ogni 
+“rigo” cattura una delle note della voce di 
+una creatura e le vincola al simbolo del 
+pentacolo nella stanza F.
+Una volta sconfitta Chiomba -
+chianca, le anime - e le voci - saranno 
+liberate rilasciando una splendida melo-
+dia nell’area circostante. La dimora di 
+Mortimer crollerà su se stessa pochi 
+istanti dopo, gli avventurieri dovranno 
+affrettarsi ad abbandonare la struttura per 
+evitare di finire sotto le macerie.
+
+
+===== PAGE 13 =====
+13
+Le Righe del Pentagramma.
+Il sotterraneo contenuto in questo semipiano è composto 
+da cinque righe, che rappresentano il rigo dei pentagrammi. 
+Ogni rigo ha al suo interno un mimic con le sembianze di 
+pianoforte che suona una nota specifica, rubando quella stessa 
+nota dalla voce di chi lo ascolta. Il 6° rigo è una linea di con-
+fine tra la il reale e il semipiano, sarà anche l’unico mezzo 
+per i personaggi di tornare a casa. Una volta scese le scale, si 
+accorgeranno che sono sparite nel nulla. Lanciare l’incante-
+simo Individuazione del magico o Arcana CD 16 rivelerà al 
+gruppo di essere in un semipiano dove i normali incantesimi 
+per spostarsi tra le dimensioni sembrano non funzionare. 
+Rigo 1: Nota Mi. Il rigo del Mi presenta un pianoforte mimic 
+con la facoltà di creare confusione: finché il pianoforte suona, 
+tutto il rigo è sotto l’effetto dell’incantesimo confusione (CD 
+13); chi supera il tiro salvezza sarà immune all’effetto di con-
+fusione. Se un personaggio immune esce dal rigo del Mi e 
+poi vi rientra e il pianoforte suona ancora, perde l’immunità 
+e dovrà ripetere il tiro salvezza su Saggezza.
+In questo corridoio sono presenti 2 cubi gelatinosi a guar-
+dia del pianoforte, e tre trappole a tenaglia che emergono 
+dal pavimento causando 2d8 danni perforanti, dimezzabili 
+superando un tiro salvezza su Destrezza CD 14, e che si riar-
+mano da sole dopo 1d3+2 turni.
+È collegato a una stanza a forma di nota (stanza C). In 
+fondo a est del corridoio è presente una porta segreta che può 
+essere azionata risolvendo l’enigma presente sotto la testa di 
+drago della stanza C: il passaggio segreto una volta aperto 
+conduce alla stanza D.
+Rigo 2: Nota Sol. Questo è il rigo di entrata dei personaggi: una 
+volta che saranno entrati tutti, le scale scompariranno e non 
+potranno più andarsene se non sconfiggendo Chiomabianca. 
+Il semipiano è considerato separato dalla casa di Mortimer e 
+quindi cercare di distruggere le pareti o il soffitto non ripor-
+terà i personaggi alla dimensione reale. Il rigo 6 è il ‘cordone 
+ombelicale che unisce il semipiano a Neir ma potrà essere 
+raggiunto solo dopo aver sconfitto la banshee.
+Il rigo del Sol presenta un pianoforte mimic con la facoltà 
+di suonare una melodia maledetta: finché il pianoforte suona, 
+tutto il rigo è sotto l’effetto dell’incantesimo scagliare male-
+dizione CD 13, chi fallisce il tiro salvezza su Saggezza subirà 
+svantaggio a tutti i tiri per colpire, soffrendo spasmi invo-
+lontari a tempo di musica; chi supera il tiro salvezza sarà 
+immune alla maledizione. Se un personaggio immune esce 
+dal rigo del Sol e poi vi rientra e il pianoforte suona ancora, 
+perde l’immunità e dovrà ripetere il tiro salvezza su Saggezza. 
+Il rigo 2 è collegato a due stanze (A e B) dove è presente una 
+scala che scende e risale, facendo passare gli avventurieri 
+sotto il livello del passaggio tra la stanza B e C.
+Rigo 3: Nota Si. Per accedere al rigo 3 i personaggi devono 
+aver scoperto il passaggio segreto della stanza D. Il rigo del Si 
+presenta un pianoforte mimic con la facoltà di creare alluci-
+nazioni: finché il pianoforte suona tutto il rigo è sotto l’effetto 
+dell’incantesimo allucinazione di forza CD 15, chi fallisce il tiro 
+salvezza su Intelligenza subirà l’allucinazione di massi che si 
+staccano dal soffitto colpendolo, spuntoni che sbucano dal 
+pavimento e altre trappole, subendo 3d6 danni psichici; chi 
+supera il tiro salvezza sarà immune all’allucinazione. Se un 
+personaggio immune esce dal rigo del Si e poi vi rientra e il 
+pianoforte suona ancora, perde l’immunità e dovrà ripetere 
+il tiro salvezza su Saggezza. Il rigo 3 è collegato a due stanze 
+(D ed E), e due passaggi di scale che passano sotto ai corridoi 
+delle stanze A, C e B. Il sottopassaggio a est nasconde una vera 
+trappola a soffitto: se viene attivata fa scendere delle lame 
+acuminate che infliggono 2d10 danni perforanti, dimezzabili 
+con un tiro salvezza su Destrezza CD 12.
+Rigo 4: Nota Re. Il rigo del Re è accessibile solamente trovando 
+il passaggio segreto celato nella stanza D (CD 16). Questo rigo 
+non ha stanze collegate.
+Il rigo del Re presenta un pianoforte mimic con la facoltà 
+di animare i defunti: appena la porta verrà aperta e i perso-
+naggi sentiranno la musica, delle ossa sul pavimento inizie-
+ranno ad animarsi e il gruppo verrà attaccato da 8 scheletri, 
+8 zombi e un wight, che i PG potranno identificare come il 
+corpo defunto di Mortimer. Finché il pianoforte suonerà, il 
+wight non potrà essere sconfitto. Se scende a 0 PF ritornerà 
+dopo 1 round evocando altri 2 scheletri e 2 zombi. Se i per-
+sonaggi distruggeranno il pianoforte il wight si trasformerà 
+in una statua di cristallo, mentre l’anima del bardo sarà final-
+mente libera, senza però poter uscire dal semipiano fino alla 
+sconfitta di Chiomabianca. 
+Rigo 5: Nota FA. L’ultima riga è la nota del Fa e vi si accede 
+soltanto dalla stanza F. Questo rigo presenta un pianoforte 
+mimic con la facoltà di evocare uno shimbyaleth (Mostri ed 
+Eroi): la creatura apparirà davanti al pianoforte e attaccherà 
+tutti gli intrusi. Se viene uccisa, un altro shimbyaleth viene 
+evocato nel turno successivo dal pianoforte mimic, finché il 
+pianoforte non viene distrutto.
+Sono presenti inoltre 2 cubi gelatinosi come guardiani e 
+sono presenti tre trappole a tenaglia che emergono dal pavi-
+mento causando 2d8 danni perforanti, dimezzabili superando 
+un tiro salvezza su destrezza CD 14, e che si riarmano da sole 
+dopo 1d3 turni.
+Rigo 6: Nota Senza-Suono. Il rigo 6 è un corridoio diverso dagli 
+altri, creato per collegare la Chiave di Violino con il semi-
+piano. Vi si accede attraverso la porta segreta della stanza D, 
+che può essere aperta solo dopo avere ucciso Chiomabianca 
+o aver distrutto tutti e cinque i pianoforti mimic.
+Mentre attraversano questo corridoio, i personaggi 
+rivivranno delle immagini della vera storia di Mortimer e i 
+principali avvenimenti della sua vita che lo hanno condotto a 
+creare il rituale con cui voleva impossessarsi della voce della 
+banshee, al fine di accrescere il proprio potere e comporre 
+
+===== PAGE 14 =====
+un finale unico alla sua danza macabra. Saranno testimoni 
+dell‘ossessione del bardo per la voce e per i suoni e della sua 
+caduta nella follia. 
+Il rituale non è andato a buon fine e nell’ultima scena 
+vedranno Mortimer che viene avvinghiato da uno spettro, 
+bellissimo e terrificante allo stesso tempo: questo essere 
+strappa la voce al bardo, dividendola in cinque pianoforti che 
+continueranno a suonare le note della danza macabra incom-
+piuta, riducendo Mortimer a uno spettro e la sua dimora nel 
+tempio della musica maledetta. 
+Le Stanze del Pentagramma.
+Il sotterraneo contenuto in questo semipiano è composto 
+da stanze edificate a forma di note musicali, dove sono pre-
+senti trappole e mostri guardiani. Mentre i righi hanno un 
+pavimento lastricato in mattonelle bianche lucide, le stanze 
+sono pavimentate con mattonelle opache in ceramica nera.
+Stanza A. La prima stanza che i personaggi trovano dopo 
+essere entrati nel sotterraneo mostra delle curiose pareti 
+curve. 
+A ridosso della parete sud è presente la statua di un uma-
+noide alato. Appena i personaggi entreranno nella stanza la 
+statua si anima: si tratta di un guardiano protettore che li 
+attaccherà senza però uscire dalla zona con le mattonelle nere. 
+Nella parte nord della stanza, dopo un lungo corridoio 
+dritto, è presente uno scrigno che sembra essere fatto di un 
+materiale traslucido: in origine era collegato magicamente 
+con la casa e serviva per spostare oggetti tra le due dimen -
+sioni. Ora è accessibile solo da qui e contiene diversi tesori: 
+300 imperiali d’argento, una Lama del Sole e due pozioni 
+della Guarigione Maggiore.
+Stanza B. La stanza B ha le pareti e il soffitto completamente 
+dipinti da spartiti musicali di ogni tipologia di musica. Questi 
+sembrano muoversi quando non vengono guardati diretta-
+mente, creando un effetto bizzarro e inquietante, ma senza 
+altre conseguenze. A nord c’è un corridoio che collega alla 
+stanza C.
+Stanza C . Sulla parete sud di questa stanza è presente una testa 
+di drago nero impagliata. Dalle sue fauci aperte fuoriesce un 
+gas velenoso che riempie tutta la stanza. Il gas è incolore, ha 
+un leggero odore d’erba marcia ma non esce dal tracciato delle 
+mattonelle nere, come se una forza invisibile lo trattenesse 
+all’interno della stanza.
+I personaggi che entrano nella stanza devono effettuare 
+un tiro salvezza su Costituzione CD 14 o essere avvelenati e 
+subire 2d8 danni da veleno per ogni round in cui rimangono 
+all’interno della stanza. Per interrompere il flusso di gas è 
+necessario chiudere la bocca del drago, individuando il mec-
+canismo nascosto nella mascella con una prova di Indagare 
+CD 12. Interrotto il flusso, la stanza si purifica in 1d4 round. 
+Con una seconda prova di Indagare CD 14 è possibile indi -
+viduare il meccanismo che sblocca il passaggio segreto che 
+dal rigo 1 permette di accedere alla stanza D.
+Stanza D. A questa stanza si accede solo attraverso la porta 
+segreta dal rigo 1 dopo aver sbloccato il meccanismo nella 
+testa di drago della stanza C. Sulla parete nord-ovest è pre-
+sente un enorme occhio bulboso, incastonato in una cornice 
+d’oro con bassorilievi di strumenti musicali. L’occhio dor -
+miente si ridesterà appena i PG vi passano davanti e parlerà 
+loro attraverso una comunicazione mentale.
+14
+
+===== PAGE 15 =====
+15
+Gli porrà diverse domande, in quest’ordine:
+Chi siete?
+Qual è il vostro scopo?
+Volete vivere o morire?
+Volete conoscere o essere conosciuti?
+Sapete suonare “Arbacam Aznad”?
+Fino a che non avranno risposto alle prime quattro 
+domande, l’occhio non risponderà a nessuna delle loro 
+domande e ripeterà la domanda a cui non hanno ancora 
+risposto, dopodiché sarà disposto a conversare con loro.
+La quinta domanda verrà fatta solo dopo qualche loro 
+curiosità riguardo Mortimer: questa domanda è l’enigma da 
+risolvere per aprire la porta segreta a nord che conduce al rigo 
+4. Si tratta di suonare le prime note al contrario della danza 
+macabra (al contrario “Arbacam Aznad”). Quando verranno 
+eseguite, l’occhio svelerà il passaggio segreto che porta al rigo 
+4, dove vagano i resti animati di Mortimer.
+L’occhio ha 110 PF e CA 16. Se viene attaccato si difen -
+derà con i seguenti incantesimi, che eseguirà con l’ordine 
+descritto fino alla sua distruzione o finché i PG non lasce -
+ranno la stanza: 
+Sguardo penetrante (nauseato);
+Onda distruttiva (danni necrotici);
+Catena di fulmini.
+Nella parte sud è presente uno scrigno che contiene i seguenti 
+tesori: 1000 imperiali d’argento, pugnale d’argento +2 
+(maledetto), una pozione della Chiaroveggenza e 
+una pietra di Ioun (sostentamento).
+Stanza E. Questa stanza è completamente 
+immersa in una sorta di nebbia maleo-
+dorante: il pavimento è pieno di 
+ossa e ed ectoplasma. Al suo 
+interno si nasconde uno 
+spettro. È l’ultimo 
+guardiano prima di 
+incontrare Chioma -
+bianca: lo spettro 
+attacca la prima 
+volta con sorpresa 
+se i PG non supe -
+rano una prova di 
+Percezione (CD 16). 
+Lo spettro non inse -
+guirà i personaggi 
+fuori dalle matto -
+nelle nere.
+A nord si apre 
+un corridoio che 
+conduce alla stanza F.
+SCENA 4: Il Pentagramma. il RE
+Stanza F. Questa stanza è il cuore del sotterraneo, in cui 
+avviene l’incontro con Chiomabianca. Se i PG non l’hanno 
+ancora scoperto, qui sapranno che Mortimer non esiste più 
+e che sono caduti preda di una potente banshee: Chioma -
+bianca.
+I personaggi dovranno sconfiggere Chiomabianca: finché 
+rimarrà all’interno del pentagramma ogni danno inferto alla 
+banshee viene dimezzato. Sulla parete sud è presente una 
+testa di drago che può venire azionata dalla banshee una 
+volta sola e che spruzzerà un cono di 15 m, infliggendo 3d6 
+danni da acido dimezzabili superando un tiro salvezza su 
+Destrezza (CD 12).
+Se un PG viene ridotto a 0 PF, nel suo turno successivo 
+il suo spirito viene ingabbiato nella dimensione di Chioma-
+bianca, dove dimorerà nel lamento eterno e nella follia finché 
+la banshee non viene sconfitta: (il corpo dello sventurato si 
+accascia al suolo senza vita con una espressione di terrore 
+sul volto).
+Se tutti i PG dovessero essere imprigionati nella dimen-
+sione di lamento e follia, Chiomabianca rianimerebbe i loro 
+corpi come zombi nel rigo 4, e invierebbe di nuovo il Penta-
+gramma Magico su Neir, per attirare nuove vittime. 
+Se Chiomabianca viene uccisa, la sua forma esplode in 
+una luce accecante e un ultimo, terribile lamento si 
+insinuerà nella testa dei PG. Le anime dei PG che 
+sono stati imprigionati vengono rilasciate e si 
+riuniscono al proprio corpo (sempre che questi 
+ultimi siano ancora interi).
+
+
+===== PAGE 16 =====
+CONCLUSIONE: il FA
+Dopo la morte di Chiomabianca, o la distruzione di tutti e 
+cinque i pianoforti mimic, si aprirà il passaggio segreto nella 
+parete a sud della stanza D, consentendo di accedere al sesto 
+rigo e guadagnando così l’uscita dal semipiano.
+L’avventura “Interludio alla follia” può finire in tre modi:
+Lo spettacolo è finito. I PG sconfiggono Chiomabianca ed 
+escono dal rigo 6, rivivendo la vicenda di Mortimer. Una 
+volta usciti dal semipiano, nella casa del bardo si udirà una 
+melodia crescente, macabra e liberatoria allo stesso tempo, e 
+in breve tempo la Chiave di Violino imploderà su se stessa, 
+chiudendo il passaggio al semipiano. Il Pentagramma Magico 
+di Mortimer si attiverà al 4° livello di potere, mostrando allo 
+stesso tempo lo spartito della danza macabra del bardo, ora 
+completa di un finale.
+Eterno lamento. Tutte le anime dei PG vengono impri -
+gionate dalla banshee e una nuova pergamena viene scritta 
+e inviata in superficie per attrarre nuove prede per Chio -
+mabianca.
+Musica interrotta. I PG fuggono senza uccidere Chioma-
+bianca, attraversano la porta del rigo 6, rivivendo la vita di 
+Mortimer. Una volta fuori dal semipiano, scopriranno che la 
+casa è svanita e non saranno mai più in grado di ritrovarla.
+16
+
+===== PAGE 17 =====
+Almaredh 
+Lo stregone Almaredh è famoso per la sua profonda cono-
+scenza nel creare luoghi magici per rituali. Prima stregone 
+di corte e poi libero avventuriero, si è sempre interessato 
+a studiare i luoghi più adatti dove concentrare le energie 
+magiche e divine per effettuare il rituale perfetto. Incurio-
+sito dal desiderio di Mortimer di imprigionare una banshee, 
+aiutò il bardo a creare un luogo sospeso tra la materia e la 
+dimensione del canto, un piano adatto per il rituale. Dopo 
+aver completato la costruzione è ripartito, non prestando 
+fede al patto che lo legava a Mortimer nell’eventualità in cui 
+qualcosa fosse andato storto.
+La vita ha preso una piega inaspettata e tragica per lui quando 
+ha perso un duello magico contro W onderrod, il potente 
+necromante della Scuola delle Parole che Uccidono. 
+W onderrod ha condotto esperimenti innominabili su Alma-
+redh, manipolandone il potenziale arcano e dirottandolo 
+verso un oceano di energia necrotica, esperimento che ha 
+trasformato lo stregone in uno spiritualista.
+Ormai ombra di quello che è stato molti anni addietro, il 
+sonno di Almaredh è tormentato dallo spirito di Mortimer 
+che fa la sua apparizione in un incubo, sempre lo stesso da 
+molti anni. Per liberarsi dal terribile peso che gli grava sulla 
+coscienza, Almaredh potrebbe inviare qualcuno dei suoi spi-
+riti agli avventurieri per metterli sulla direzione della casa di 
+Mortimer, senza però fare la sua apparizione...
+Personaggi  
+Non Giocanti
+“Interludio alla Follia” è una storia di tradimenti e destini 
+tragicamente intrecciati sui righi di un pentagramma. C’è 
+Almaredh, lo stregone che ha violato un patto d’onore con 
+Mortimer, tradendone la fiducia ma ricevendo a sua volta 
+un duro colpo dal fato; Chiomabianca, l’elfa derubata di 
+tutto quanto ebbe caro in vita, a partire dal proprio nome, 
+sprofondando nella follia e trasformandosi in una banshee; 
+e Mortimer, il punto di contatto tra queste vicende, il bardo 
+che la sfortuna ha portato su un cattivo sentiero, e che la 
+musica proibita ha definitivamente condannato a una pri -
+gionia tormentata.
+I mostri presenti nella dimora di Mortimer sono descritti 
+all’interno del bestiario “Mostri ed Eroi” de La Notte Eterna 
+5e, e sul manuale dei mostri di 5e. Unitamente alle trappole e 
+ai personaggi non giocanti descritti in questo capitolo, met-
+teranno alla prova i giocatori con enigmi e sfide in grado di 
+far ballare anche gli avventurieri più veterani al ritmo di una 
+musica maledetta.
+17
+
+===== PAGE 18 =====
+Chiomabianca
+In vita era un’elfa di eccelse doti canore. Forse per invidia o 
+qualche intrigo ai suoi danni, venne imprigionata dalla sua 
+gente. Durante la sua lunga cattività, lasciata completamente 
+sola in una cella angusta, la sua mente iniziò a scivolare nel 
+baratro più profondo della pazzia. E quando la morte final-
+mente la colse, ormai vecchia pantomima di quello che era 
+stata in giovinezza, il suo spirito si avvinghiò alla terra con 
+mani artigliate, trasformandosi in una banshee. Chioma -
+bianca è legata alla maledizione di rivivere la condanna della 
+sua gente a causa della propria voce e bellezza. Per secoli 
+ha infestato la terra dando la caccia ai bardi, che nella sua 
+follia reputa colpevoli di averle rubato la meravigliosa voce. 
+Il suo nome è ben noto ai Danse Macabre che ne invocano 
+il lamento carico di follia e dolore in alcune delle loro ballate 
+più struggenti.
+Nella sua ricerca per la voce sublime, Mortimer individuò 
+questo spirito urlante e lo imprigionò nella chiave di violino. 
+Ma quando il bardo provò a rubarle la voce, Chiomabianca 
+invertì il rituale uccidendo il bardo e assorbendo anche il suo 
+flebile lamento. Mortimer, temendo che qualcosa potesse 
+andare storto, aveva creato una pergamena magica, che 
+sarebbe servita per chiedere aiuto ad Almaredh, lo stregone 
+che aveva ingaggiato per la creazione del rituale.  Ma Alma-
+redh non rispose mai alla chiamata e la pergamena passò di 
+mano in mano, attirando ignari avventurieri nella casa di 
+Mortimer. A Chiomabianca non occorse molto tempo per 
+notare che grazie alla pergamena giungevano da lei molte 
+vittime; ha appreso come controllarla, servendosene per 
+attirare nuove prede, non potendo uscire dal semipiano in 
+cui è stata confinata.
+Ditemi almeno perché mi avete imprigionata, vi scon-
+giuro... Prometto che non canterò più al sorgere della 
+luna, che mai più le mie parole spezzeranno il sacro 
+silenzio, turbando i vostri animi. Se è questo il motivo 
+per cui avete sottratto ogni cosa, vi prego, accogliete 
+questa mia supplica e liberatemi.
+«A ogni giro di chiave 
+Lei perdeva una parola 
+E quando rimase senza voce 
+Si scavò dentro per cercarla 
+Consumandosi.» 
+- Dalla Canzone di Chiomabianca
+18
+
+===== PAGE 19 =====
+Chiomabianca 
+Non-morto Medio, caotico malvagio
+Classe Armatura: 14 
+Punti Ferita: 110 (20d8+20)
+Velocità: 0 m, volare 12 m (fluttuare)
+Tiri Salvezza: Saggezza +4, Carisma +8
+Resistenze al Danno: acido, fulmine, fuoco, tuono; 
+contundente, perforante e tagliente da attacchi non 
+magici
+Immunità al Danno: freddo, necrotico, veleno
+Immunità alle Condizioni: affascinato, afferrato, av-
+velenato, indebolito, paralizzato, pietrificato, prono, 
+spaventato, trattenuto
+Sensi: Scurovisione 18 m, Percezione passiva 12
+Lingue: Imperiale, Elfico
+Sfida: 9 (5000 PE)
+Natura Non Morta. Chiomabianca non ha bisogno di 
+aria, cibo, bevande o sonno.
+Individuazione della Vita. Chiomabianca può percepi-
+re magicamente la presenza di creature che non siano 
+non morti e costrutti entro un raggio di 7,5 chilometri. 
+Conosce la direzione generale in cui si trovano, ma non 
+la loro precisa ubicazione.
+Movimento Incorporeo. Chiomabianca può muoversi 
+attraverso altre creature e oggetti come se fossero 
+terreno difficile. Subisce 5 (1d10) danni da forza se 
+termina il suo turno all’interno di un oggetto.
+Incantesimi Innati. La caratteristica da incantatore di 
+Chiomabianca è Carisma (tiro salvezza degli incante-
+simi CD 14, +9 ai tiri per colpire con gli incantesimi). 
+Può lanciare i seguenti incantesimi innati, che non 
+richiedono alcuna componente materiale:
+A volontà: tocco gelido
+3/giorno: passo velato, scagliare maledizione
+1/giorno: contagio
+AZIONI
+Multiattacco. Chiomabianca usa Volto Terrificante, poi 
+può fare due attacchi con Tocco Corruttore.
+Tocco Corruttore. Attacco con Incantesimo in Mischia: 
++7 al tiro per colpire, portata 1,5 m, una creatura. 
+Colpito: 20 (5d6+4) danni necrotici.
+Volto Terrificante. Ogni creatura che non sia un non 
+morto situata entro 27 metri da Chiomabianca e che 
+sia in grado di vederla deve superare un tiro salvez-
+za su Saggezza con CD 15, altrimenti è spaventata 
+per 1 minuto. Un bersaglio spaventato può ripetere 
+il tiro salvezza alla fine di ogni suo turno, subendo 
+svantaggio se Chiomabianca si trova entro la linea di 
+vista; se supera il tiro, l’effetto termina per lui. Se 
+un bersaglio supera il tiro salvezza o l’effetto per lui 
+termina, quel bersaglio è immune al Volto Terrificante 
+di Chiomabianca per le successive 24 ore.
+Lamento (1/Giorno). Chiomabianca emette un lamen-
+to funesto, purché non sia esposta alla luce del sole. 
+Questo lamento non ha alcun effetto su costrutti e non 
+morti. Ogni altra creatura situata entro 18 metri da 
+lei e in grado di udirla deve effettuare un tiro salvez-
+za su Costituzione con CD 15; se lo fallisce, scende a 
+0 punti ferita, mentre se lo supera subisce 17 (5d6) 
+danni psichici.
+ FOR DES COS INT SAG CAR
+ 1 (-5) 16 (+3) 12 (+1) 14 (+2) 13 (+1) 18 (+4)
+19
+
+===== PAGE 20 =====
+Mortimer
+La storia di Mortimer è fatta di sogni, di scommesse e di una 
+vita dedicata alla musica. Fin da giovane si esibiva nelle strade 
+delle città cantando: la sua voce era talmente particolare, che 
+fu notata da un ricco signore che lo volle alla propria corte. 
+Durante uno dei tanti ricevimenti, Mortimer perse una 
+scommessa e dovette recarsi nelle stanze della figlia del 
+signore e dedicarle una serenata: decise di comporre una can-
+zone tutta per lei, perché in fondo era davvero innamorato 
+della fanciulla. Avrebbe dovuto suonare bendato finché non 
+si fosse presentata, lo sventurato giovane non poteva imma-
+ginare che in realtà gli avevano teso un tranello: il balcone 
+era quello della moglie del nobile, che sentendolo suonare lo 
+fece imprigionare nelle segrete con l’accusa di tradimento.
+Mortimer si ritrovò a dividere la cella con una vecchia Danse 
+Macabre, la quale gli rivelò il segreto della voce delle ban -
+shee e lo iniziò al cammino della musica proibita. Quando 
+venne rilasciato, il giovane diventato uomo iniziò un viaggio 
+verso il potere. Accecato dal desiderio di avere una voce unica 
+iniziò a creare musiche e canzoni che sfidassero le note e 
+che potessero essere adatte solo al proprio canto. L’idea di 
+imprigionare la voce e il lamento di una Chiomabianca lo 
+tormentò fino a diventare un’ossessione. Rintracciò uno stre-
+gone di nome Almaredh e lo convinse ad aiutarlo a costruire 
+la Chiave di Violino. Ci vollero altri anni per trovare il modo 
+di invitare una Chiomabianca nel semipiano collegato alla sua 
+dimora, ma infine riuscì a sigillarla al suo interno... 
+Al culmine del rituale, Mortimer tentò di strappare la voce 
+della banshee ma Chiomabianca invertì il processo, rubando 
+la voce del bardo e dividendola tra cinque pianoforti, cat -
+turando la sua anima e rianimandone i resti come wight. 
+Contravvenendo al loro patto, Almaredh non accorse in aiuto 
+del suo cliente, abbandonandolo al suo destino. Che cosa ne 
+sia stato dello stregone nessuno lo sa...
+Chiave di Violino 
+Questo luogo è stato creato magicamente per contenere il 
+rituale di separazione della voce. Creato in un piano dimen-
+sionale circoscritto, permette di separare le 5 note di una 
+voce di qualunque essere venga imprigionato al suo interno. 
+L’essere deve venire imprigionato con l’inganno e deve poter 
+parlare. Al suo interno ci deve essere un conduttore musicale 
+che dal pentagramma (pentacolo) orchestra gli spiriti per 
+poi indebolire l’essere e infine rubargli la voce. Purtroppo, 
+il luogo non è stato mai perfezionato e resta un semipiano 
+sperimentale. Infatti, il rituale con la banshee non ha funzio-
+nato, trasformando il semipiano in uno spazio dimensionale 
+colmo di follia e rabbia. Le mura della Chiave di Violino sono 
+impenetrabili e indistruttibili (solo una volta sconfitta la ban-
+shee la Chiave di Violino imploderà su se stessa, chiudendo 
+il piano temporaneo costruito dallo stregone).
+Pentagramma Magico di 
+Mortimer
+Oggetto meraviglioso, leggendario (richiede sintonia) 
+L’oggetto è uno spartito magico che si attiva non appena 
+viene trovato da un danse macabre o da uno spiritualista. 
+Ha tre livelli che si attiveranno al raggiungimento di deter-
+minate condizioni:
+1° livello: Mappa del Viaggio. Indica la locazione della casa 
+di Mortimer, narrando la storia del bardo folle che ha creato 
+la musica perfetta e dei grandi tesori che ha raccolto nella 
+propria dimora.
+2° livello: Scritto Macabro. Non appena la pergamena si 
+trova sopra la collina su cui sorge la dimora, si trasforma in 
+un libro su cui è possibile scrivere per interagire, almeno in 
+apparenza, con lo spirito di Mortimer. In realtà è Chioma-
+bianca a rispondere, spacciandosi per il bardo.
+Sognavo di esibirmi in una grande piazza nella ricca città 
+di Gundazar. Avevo trovato il modo, grazie all’aiuto di 
+uno stregone, di costruire la mia casa e la chiave di vio-
+lino, fonte della mia ispirazione. Quello stesso stregone 
+divenne però invidioso e un giorno decise di rinchiu -
+dermi in un sotterraneo, costruito come prigione. Un 
+attimo prima di essere sigillato, sono riuscito a far pas-
+sare una pergamena magica permeata da un frammento 
+della mia anima nella speranza che qualcuno la trovasse e 
+venisse a soccorrermi. Aiutatemi! Entrate nella mia casa 
+e cercate il modo di aprire i sigilli che mi imprigionano!
+3° livello: Lo Spirito di Chiomabianca. Una volta entrati nel 
+semipiano, il pentagramma diventerà un contatto diretto con 
+Chiomabianca, che li confonderà con promesse di enormi 
+tesori e terribili minacce. La banshee cercherà di sfruttare 
+quanto ha scoperto sul gruppo, cercando di seminare discor-
+dia e mettendoli l’uno contro l’altro.
+4° livello: Interludio Funebre di Mortimer. Solo se i perso -
+naggi uccideranno Chiomabianca e usciranno dalla casa si 
+attiverà il 4° livello di potere. Si tratta di uno spartito magico 
+che suonerà l’ultimo pezzo di danza macabra per Mortimer 
+prima di diventare una pergamena magica che permette 
+di lanciare una volta al giorno tre incantesimi: modificare 
+memoria (5° livello), legame telepatico (5° livello) e suggestione 
+di massa (6° livello).
+20
+
+===== PAGE 21 =====
+LEGAL INFORMATION
+Permission to copy, modify and distribute the files collectively 
+known as the System Reference Document 5.1 (“SRD5”) is 
+granted solely through the use of the Open Gaming License, 
+V ersion 1.0a.
+This material is being released using the Open Gaming 
+License V ersion 1.0a and you should read and understand the 
+terms of that license before using this material.
+The text of the Open Gaming License itself is not Open 
+Game Content. Instructions on using the License are pro -
+vided within the License itself.
+The following items are designated Product Identity, as 
+defined in Section 1(e) of the Open Game License V ersion 
+1.0a, and are subject to the conditions set forth in Section 7 
+of the OGL, and are not Open Content: Dungeons & Dra-
+gons, D&D, Player’s Handbook, Dungeon Master, Monster 
+Manual, d20 System, Wizards of the Coast, d20 (when used 
+as a trademark), Forgotten Realms, Faerûn, proper names 
+(including those used in the names of spells or items), places, 
+Underdark, Red Wizard of Thay, the City of Union, Heroic 
+Domains of Ysgard, Ever- ‐- Changing Chaos of Limbo, 
+Windswept Depths of Pandemonium, Infinite Layers of the 
+Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, 
+Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal 
+Battlefield of Acheron, Clockwork Nirvana of Mechanus, 
+Peaceable Kingdoms of Arcadia, Seven Mounting Heavens 
+of Celestia, Twin Paradises of Bytopia, Blessed Fields of 
+Elysium, Wilderness of the Beastlands, Olympian Glades of 
+Arborea, Concordant Domain of the Outlands, Sigil, Lady 
+of Pain, Book of Exalted Deeds, Book of Vile Darkness, 
+beholder, gauth, carrion crawler, tanar’ri, baatezu, displa -
+cer beast, githyanki, githzerai, mind flayer, illithid, umber 
+hulk, yuan- ‐-ti.
+All of the rest of the SRD5 is Open Game Content as 
+described in Section 1(d) of the License.
+The terms of the Open Gaming License V ersion 1.0a 
+are as follows:
+OPEN GAME LICENSE V ersion 1.0a
+The following text is the property of Wizards of the 
+Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a)”Contributors” means  the copyright 
+and/or trademark owners who have contributed Open Game 
+Content; (b)”Derivative Material” means copyrighted mate-
+rial including derivative works and translations (including 
+into other computer languages), potation, modification, 
+correction, addition, extension, upgrade, improvement, 
+compilation, abridgment or other form in which an exi -
+sting work may be recast, transformed or adapted; (c) “Distri-
+bute” means to reproduce, license, rent, lease, sell, broadcast, 
+publicly display, transmit or otherwise distribute; (d)”Open 
+Game Content” means the game mechanic and includes the 
+methods, procedures, processes and routines to the extent 
+such content does not embody the Product Identity and is an 
+enhancement over the prior art and any additional content 
+clearly identified as Open Game Content by the Contribu-
+tor, and means any work covered by this License, including 
+translations and derivative works under copyright law, but 
+specifically excludes Product Identity. (e) “Product Identity” 
+means product and product line names, logos and identi -
+fying marks including trade dress; artifacts; creatures cha -
+racters; stories, storylines, plots, thematic elements, dialogue, 
+incidents, language, artwork, symbols, designs, depictions, 
+likenesses, formats, poses, concepts, themes and graphic, 
+photographic and other visual  or audio representations; 
+names and descriptions of characters, spells, enchantments, 
+personalities, teams, personas, likenesses and special abili -
+ties; places, locations, environments, creatures, equipment, 
+magical or supernatural abilities or effects, logos, symbols, or 
+graphic designs; and any other trademark or registered trade-
+mark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open 
+Game Content; (f) “Trademark” means the logos, names, 
+mark, sign, motto, designs that are used by a Contributor 
+to identify itself or its products or the associated products 
+contributed to the Open Game License by the Contributor (g) 
+“Use”, “Used” or “Using” means to use, Distribute, copy, edit, 
+format, modify, translate and otherwise create Derivative 
+Material of Open Game Content. (h) “You”or “Your” means 
+the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game 
+Content that contains a notice indicating that the Open 
+Game Content may only be Used under and in terms of this 
+License. You must affix such a notice to any Open Game Con-
+tent that you Use. No terms may be added to or subtracted 
+from this License except as described by the License itself. 
+No other terms or conditions may be applied to any Open 
+Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game 
+Content You indicate Your acceptance of the terms of this 
+License.
+4. Grant and Consideration: In consideration for agreeing 
+to use this License, the Contributors grant You a perpetual, 
+worldwide, royalty- ‐-free, non- ‐- exclusive license with the 
+exact terms of this License  to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are 
+contributing original material as Open Game Content, You 
+represent that Your Contributions are Your original creation 
+and/or You have sufficient rights to grant the rights conveyed 
+by this License.
+6. Notice of License Copyright: You must update the 
+COPYRIGHT NOTICE portion of this License to include the 
+exact text of the COPYRIGHT NOTICE of any Open Game 
+
+===== PAGE 22 =====
+Content You are copying, modifying or distributing, and 
+You must add the title, the copyright date, and the copyright 
+holder’s name to the COPYRIGHT NOTICE of any original 
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any 
+Product Identity, including as an indication as to compati-
+bility, except as expressly licensed in another, independent 
+Agreement with the owner of each element of that Pro -
+duct Identity. You agree not to indicate compatibility or co- 
+‐-adaptability with any Trademark or Registered Trademark 
+in conjunction with a work containing Open Game Content 
+except as expressly licensed in another, independent Agre-
+ement with the owner of such Trademark or Registered 
+Trademark. The use of any Product Identity in Open Game 
+Content does not constitute a challenge to the ownership 
+of that Product Identity. The owner of any Product Identity 
+used in Open Game Content shall retain all rights, title and 
+interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content 
+You must clearly indicate which portions of the work that 
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents 
+may publish updated versions of this License. You may use 
+any authorized version of this License to copy, modify and 
+distribute any Open Game Content originally distributed 
+under any version of this License.
+10. Copy of this License: You MUST include a copy of 
+this License with every copy of the Open Game Content 
+You Distribute.
+11. Use of Contributor Credits: You may not market or 
+advertise the Open Game Content using the name of any 
+Contributor unless You have written permission from the 
+Contributor to do so.
+12. Inability to Comply: If it is impossible for You to 
+comply with any of the terms of this License with respect to 
+some or all of the Open Game Content due to statute, judicial 
+order, or governmental regulation then You may not Use any 
+Open Game Material so affected.
+13. Termination: This License will terminate automati-
+cally if You fail to comply with all terms herein and fail to cure 
+such breach within 30 days of becoming aware of the breach. 
+All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held 
+to be unenforceable, such provision shall be reformed only 
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of 
+the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards 
+of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, 
+Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, 
+Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve 
+Townshend, based on original material by E. Gary Gygax 
+and Dave Arneson.
+END OF LICENSE
+S
+eguendo le note oscure di un pentagramma magico, proprietà 
+del bardo folle Mortimer Karozza, i personaggi partiranno 
+alla ricerca di indizi nelle Favoleggiate Rovine di Gundazar. 
+I tesori e la promessa di conoscenza illimitata li condurranno 
+lungo un percorso accidentato; danzeranno con Krea o perderanno la ragione 
+nel tunnel della pazzia? Il sesto elemento del pentagramma sarà l’anello di con-
+giunzione tra le vite dei personaggi e il loro abile e spietato direttore d’orchestra.
+
+===== PAGE 23 =====
+S
+eguendo le note oscure di un pentagramma magico, proprietà 
+del bardo folle Mortimer Karozza, i personaggi partiranno 
+alla ricerca di indizi nelle Favoleggiate Rovine di Gundazar. 
+I tesori e la promessa di conoscenza illimitata li condurranno 
+lungo un percorso accidentato; danzeranno con Krea o perderanno la ragione 
+nel tunnel della pazzia? Il sesto elemento del pentagramma sarà l’anello di con-
+giunzione tra le vite dei personaggi e il loro abile e spietato direttore d’orchestra.
