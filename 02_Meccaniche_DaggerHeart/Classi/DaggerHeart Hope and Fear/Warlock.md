@@ -27,7 +27,10 @@ Scegli tra la sottoclasse [[Patto dell'Infinito]] o [[Patto dell'Ira]].
 
 # Caratteristiche di Classe
 **_Patto del Patrono (Patron's Pact):_** Scegli il nome e la Sfera d'Influenza (es. Caos, Morte, Guerra) del tuo patrono. Prima di effettuare un tiro legato alla Sfera d'Influenza, puoi spendere un Favore per tirare il tuo Dado del Patrono (d6 al livello 1, d8 al livello 5) e sommarlo al risultato.
-**_Favore:_** Inizi con 3 Favori. Puoi compiere un rito di tributo durante un riposo per riguadagnare Favori pari al tuo tratto da Incantatore.
+**_Favore:_** Inizi con 3 Favori. Puoi compiere un rito di tributo durante un riposo per riguadagnare Favori pari al tuo tratto da Incantatore. Inoltre, quando hai successo con Speranza su un tiro d'azione, puoi scegliere di guadagnare un Favore al posto di una Speranza.
+
+# Esempi di Sfera d'Influenza
+Ambizione, Artisti, Caos, Oscurità, Morte, Giocatori d'azzardo, Onore, Giustizia, Leader, Amore, Misericordia, Mischief, Natura, Protettori, Vendetta, Studiosi, Segreti, Soldati, Forza, Viaggiatori, Tricchi, Verità, Guerra, Saggezza.
 
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._

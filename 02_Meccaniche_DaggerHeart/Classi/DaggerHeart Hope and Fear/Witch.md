@@ -28,6 +28,11 @@ Scegli tra la sottoclasse [[Congrega della Siepe]] o [[Congrega della Luna]].
 # Caratteristiche di Classe
 **_Fattura (Hex):_** Marca uno Stress per lanciare una Fattura a un bersaglio entro portata Lontana. Il bersaglio subisce una penalità ai tiri di danno e alla Difficoltà pari al tuo rango. Numero massimo di bersagli affetti pari al tuo tratto da Incantatore.
 
+**_Comunione (Commune):_** Una volta per riposo lungo, durante un momento di calma, puoi comunicare con un antenato, una divinità, uno spirito o un essere ultraterreno. Poni una domanda, poi tira un numero di d6 pari al tuo tratto da Incantatore. Scegli uno dei risultati e consulta la tabella:
+- **1–3:** assaggi un sapore, senti un odore o una sensazione rilevante alla risposta.
+- **4–5:** senti suoni o vedi una visione rilevante alla risposta.
+- **6:** esperisci psicologicamente una scena rilevante alla risposta come se ci fossi.
+
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._
 - Chi nella tua comunità d'origine temeva il tuo mestiere magico? Quale voce infondata ha diffuso su di te?

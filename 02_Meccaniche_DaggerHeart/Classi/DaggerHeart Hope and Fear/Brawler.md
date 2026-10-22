@@ -28,6 +28,8 @@ Scegli tra la sottoclasse [[Colosso]] o [[Artista Marziale]].
 # Caratteristiche di Classe
 **_Io Sono l'Arma (I Am the Weapon):_** I tuoi attacchi senz'armi sono letali. Quando non hai altre armi attive, sei equipaggiato con l'arma primaria Colpo del Combattente (Brawler's Strike) (Mischia, usa un tratto a scelta, infligge d8+d6 fisici scalando con la Competenza). Ottieni inoltre +1 all'Evasione.
 
+**_Colpo Combinato (Combo Strike):_** Dopo aver tirato il danno su un attacco riuscito con un'arma in Mischia, puoi marcare uno Stress per iniziare un colpo combinato. Quando lo fai, tira il tuo Dado Combo e nota il risultato, poi continua a tirare il tuo Dado Combo finché il risultato più recente è inferiore a quello precedente. Infliggi danno extra pari alla somma di tutti i risultati del Dado Combo su questo attacco. I risultati non possono essere modificati in alcun modo. Il tuo Dado Combo inizia come d4. Una volta per rango, puoi aumentare il tuo Dado Combo di un passo come opzione di avanzamento di livello.
+
 # Domande di Sfondo
 _Rispondi a una qualsiasi delle seguenti domande di background._
 - Dove hai trascorso i tuoi anni di formazione che ti hanno insegnato a combattere a mani nude?
