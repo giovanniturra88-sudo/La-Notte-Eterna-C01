@@ -1,0 +1,2576 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+3
+ 
+ 
+La Sacra Bestia
+Avventura per La Notte Eterna,  
+ambientazione dark epic fantasy per 5e OGL 1.0.
+Quest per PG di 9° livello
+Autore: Jason R. Forbus
+Art Director: Steven Forbus
+Grafica e impaginazione: Gennaro De Filippis
+Mappe dungeon: Michele Dal Bo
+Cover Art: Tiziana Ruiu, Steven Forbus
+Illustrazioni: Lyrium, Luca Bossetti, Tiziana F. Ruiu
+Grazie di cuore a Kevin Stacy, In taverna da Kurt, ASD La 
+Triade, Fortytwo APS, Paolo Mazza e Federico V eltri per aver 
+fatto piovere meteore sui tavoli da gioco di questo mondo 
+della Dimensione della Materia. 
+GDR: La Notte Eterna
+Pubblicato da MyCatPortal Lab per AliRibelli Edizioni 2024© 
+AliRibelli Edizioni, Gaeta www.aliribelli.com
+lanotteterna@aliribelli.com 
+È severamente vietata la riproduzione, anche parziale del 
+testo, effettuata con qualsiasi mezzo, senza l’espressa auto-
+rizzazione dell’Editore. 
+Questo progetto è stato finanziato su Kickstarter. Siamo 
+molto grati ai nostri backer. Un ringraziamento speciale va ai 
+Chosen of the Gods: Abdulaziz Al-Kaboor, Alberto Gervasio, 
+Alessandro Tararan, Alberto Battaglia, Andrea Propersi, Bra-
+dley Hamm, Brad Powers, Charles M. Beavers, Christopher 
+Royer, Christopher Thomas Lezer, Davide Gibin, Derren 
+Mckenna, Evan Taylor Fails, Giuseppe Angelo d’Amico, 
+Jason Cummings, Jayson Santiago, Josh Kanapkey, Joshua 
+L. Knous, Justin Gardin, Justin Joseph Lafser, Justin Offer-
+mann, Katharine Wright, Marco Carvelli, Michael Peter 
+Henry Young, Randy Marsh, Reka Reynolds, Rita Balloriani, 
+Robert Earl Barnhill, Robert Griswold, Sara Schlögl, Sean 
+Bradley, Sebastian Coulter, Seth Maxson, Stefano Chierchini, 
+Trevor Orion Nelson, Tyler Russell, William J. Mapp. 
+Manuali base:
+La Notte Eterna ambientazione 5e 
+Mostri ed Eroi 
+La Canzone di Nebvarasa 
+Avventure: 
+Accademia della Magia Profonda 
+Grosso Guaio a Varshold 
+La Bestia Sacra 
+La Morte Strisciante 
+La Tavoletta Proibita 
+L’Oscura Chiesa di Tenebris 
+Pioggia di Fuoco 
+Racconti della Notte Eterna 
+The Star Gazer
+Scansionando i codici QR potrete scaricare 
+le mappe complete e a colori del dungeon della Regina del Gelo. 
+Copritevi bene, c’è un freddo micidiale lì dentro!
+https://tinyurl.com/sacredbeast
+
+
+===== PAGE 4 =====
+4
+SOMMARIO
+INTRODUZIONE........................................................................................................................... 5
+FAZIONI RIV ALI............................................................................................................... 6
+LA METEORA SI SCHIANTA......................................................................................... 7
+ATTO 1: AGGUATO.......................................................................................................... 8
+ATTO 2: IL CIRCOLO DEI SEGRETI ATTACCA......................................................... 9
+TRAPPOLA DELLE SABBIE MOBILI............................................................................ 9
+ATTO 3: SPIEGAZIONI.................................................................................................... 10
+ATTO 4: ARRIVO A CAJETA.......................................................................................... 10
+INCONTRI CASUALI IN LOCANDA............................................................................. 11
+ATTO 5: UN’OFFERTA ALLETTANTE......................................................................... 12
+ATTO 7: OMBRE SUSSURRANTI.................................................................................. 13
+IL MALE DENTRO............................................................................................................ 14
+INCONTRI CASUALI PER METTERE ALLA PROV A GLI AVVENTURIERI........ 14
+ATTO 8: CONFRONTO ALLA TORRE.......................................................................... 15
+ATTO 9: AMMONIZIONE DEL CIRCOLO................................................................... 16
+ATTO 11: NIENTE SARÀ PIÙ LO STESSO.................................................................... 17
+CONCLUSIONI.................................................................................................................. 18
+MOSTRI E PERSONAGGI NON GIOCANTI............................................................................ 19
+ALYSARA........................................................................................................................... 20
+ENELI................................................................................................................................... 22
+ENELI: COMANDANTE DELLE LEGIONI INFERNALI............................................ 23
+ENELI: GIUDICE DEI MONDI......................................................................................... 26
+GHYZZMAN....................................................................................................................... 29
+GOLEM DI ARGILLA POTENZIATO............................................................................. 30
+PRESCELTO DALLE TENEBRE..................................................................................... 31
+TUMBROD IL SERPENTE............................................................................................... 32
+ÚRUDRAV.......................................................................................................................... 34
+CUSTODI DEI SEGRETI............................................................................................................... 35
+ELARA................................................................................................................................. 35
+LYRA................................................................................................................................... 36
+ORIONE.............................................................................................................................. 36
+ZARAND............................................................................................................................. 37
+IL SANTUARIO DI AGLILAKA................................................................................................... 38
+ABBRACCIO DELLA TEMPESTA.................................................................................. 38
+CONCHIGLIA DELLE MAREE ARMONIOSE............................................................. 39
+LACRIME DELL’ABBRACCIO DEL MARE.................................................................. 39
+CORONA DEL DOMINIO ACQUATICO...................................................................... 40
+
+===== PAGE 5 =====
+5
+a trarre in salvo Eneli: la protessero per anni anche a costo 
+di ritardare la loro traslazione definitiva nella Canzone di 
+Nebvarasa.
+La bambina è cresciuta in fretta. Compiuti sedici anni, i 
+suoi poteri hanno iniziato a manifestarsi attirando attenzioni 
+indesiderate. Le anime hanno compreso che sarebbe stato 
+impossibile proteggere Eneli, e loro malgrado ne hanno affi-
+dato le sorti al destino, proiettandola sottoforma di meteora 
+verso la Dimensione della Materia e nello specifico su Neir, 
+dove sono meno profonde le ingerenze celestiali e immonde.  
+Introduzione
+S
+iamo a cinquanta chilometri a ovest della Baia di 
+Redoro. Una meteora si è da poco schiantata al 
+suolo, generando un profondo cratere avvolto 
+da un vortice di cenere. Gli avventurieri hanno 
+assistito all’evento e decidono di avvicinarsi con cautela al 
+luogo dell’impatto. Mentre si guardano intorno con atten -
+zione, vedono una creatura emergere dai detriti, a prima vista 
+sembrerebbe trattarsi di una fanciulla ferita e barcollante.
+La fanciulla è Eneli, un essere di lignaggio celestiale e 
+immondo nato dall’amore proibito tra una celestiale e un 
+diavolo, Seraphiel e Moraxius. Seraphiel, radiosa e com-
+passionevole, aveva sviluppato una profonda avversione nei 
+confronti della rigida gerarchia celeste. Troppi angeli e cam-
+pioni mortali avevano perso la vita a causa della guerra, e a 
+che scopo? Detronizzare Garod e offrire il comando assoluto 
+ad Halthea.
+Anche Moraxius, diavolo affascinante e astuto, era stanco 
+di combattere in nome di Garod. La distruzione indiscri -
+minata causata dai suoi simili pesava sulla sua coscienza, 
+portandolo a desiderare l’impensabile: un’esistenza oltre i 
+confini della servitù infernale.
+L’incontro tra Seraphiel e Moraxius avvenne in maniera 
+fortuita durante una breve tregua. Ragionando sulle con -
+quiste e sconfitte di quei giorni, i due palesarono la propria 
+insoddisfazione rispetto a una guerra che ritenevano un futile 
+capriccio divino.
+Questa prima ammissione li portò ad aprire i propri 
+cuori, facendogli scoprire un comune desiderio di pace e 
+liberazione. La stima e il rispetto si trasformarono rapida -
+mente in amore e amicizia, ovunque combattessero cer -
+cavano l’uno lo sguardo dell’altra, sempre più convinti e 
+determinati a lasciarsi Rengaria alle spalle per iniziare una 
+nuova vita altrove.
+Fuggirono in un atollo disabitato tra le Isole dei Virtuosi. 
+La pace sublime di quel luogo gli fece presto dimenticare i 
+tormenti della guerra, e la speranza iniziò a colmare le loro 
+anime immortali.
+Ma l’idillio non era destinato a durare. Celestiali e 
+immondi si misero alla ricerca dei disertori, l’onta che ave-
+vano gettato sui rispettivi eserciti non poteva restare impu-
+nita. Dopo una lunga ricerca tra i piani della Dimensione 
+dello Spirito, una pattuglia di assassini angelici trovò i fug-
+gitivi, che dopo una feroce battaglia riuscirono a distruggere. 
+Mentre setacciavano il nido d’amore di Seraphiel e Moraxius, 
+gli angeli scoprirono una bambina in fasce: Eneli, frutto proi-
+bito di un amore dannato. Mentre si accingevano a distrug-
+gere l’infante, sul luogo arrivò una pattuglia di diavoli. Le 
+Isole dei Virtuosi furono allora scosse da una seconda terri-
+bile battaglia, eco della Guerra Celeste che aveva raggiunto 
+anche quel luogo di pace e contemplazione. Mentre angeli e 
+diavoli combattevano, le anime di alcuni mortali riuscirono 
+
+===== PAGE 6 =====
+6
+Fazioni rivali
+Distrutti Seraphiel e Moraxius e vendicata 
+l’onta subita, Halthea e Garod mirano ora 
+ad assumere il controllo sull’immenso 
+potere della fanciulla:
+La Chiesa di Garod ambisce ad elevare 
+Eneli alla posizione di Comandante delle 
+Legioni Infernali.
+La Chiesa di Halthea ambisce ad elevare 
+Eneli a Giudice dei Mondi.
+I druidi del Circolo dei Segreti mirano 
+invece a distruggere Eneli, la cui mera esi-
+stenza è ritenuta un affronto all’equilibrio 
+di Nebvarasa.
+In mezzo a questa complessa rete di 
+conflitti, gli avventurieri giocano un ruolo 
+cruciale. Possono scegliere di allinearsi con 
+una delle tre fazioni rivali e affidare loro 
+Eneli, plasmando potenzialmente il corso 
+della Guerra Celeste. In alternativa, pos -
+sono scegliere di porre Eneli sotto la tutela 
+dell’enigmatico Saggio della Montagna. 
+Questo eremita devoto di Lurtan risiede 
+in cima a un picco difficilmente raggiun -
+gibile, ed è il solo in grado di proteggere 
+Eneli dalle mire celesti e mortali. Grazie 
+alla guida del saggio, Eneli potrà esplo -
+rare e padroneggiare i suoi straordinari 
+poteri, affrontando le sfide offerte dalla 
+sua duplice natura.
+Note per il Game Master
+Questa avventura è suddivisa in atti che 
+seguono un’organizzazione sequenziale 
+coerente. Tuttavia, le decisioni dei gio-
+catori possono avere un impatto signi-
+ficativo sullo svolgimento delle vicende, 
+e il Game Master dovrà essere pronto a 
+ricalibrare l’avventura se necessario.
+In quest’ottica, i luoghi e gli incontri pos-
+sono essere riorganizzati al fine di indiriz-
+zare il gruppo verso una delle tre fazioni 
+rivali o il Saggio della Montagna. La flessibi-
+lità è essenziale per garantire un’esperienza 
+coinvolgente e dinamica per i giocatori.
+
+
+===== PAGE 7 =====
+7
+La meteora si schianta
+L’ampio cratere causato dall’impatto dalla meteora è avvolto 
+da una spessa coltre di cenere. Avanzando con cautela notate 
+quella che sembra una esile fanciulla emergere barcollante 
+dai detriti, ferita e in evidente stato di shock. Un sinistro 
+ululato echeggia dal fitto della selva, capite che non siete 
+soli e che qualcosa si sta avvicinando a grande velocità. Semi 
+accecati dalla fuliggine, coprite velocemente la fanciulla con 
+una coperta e fuggite verso un luogo sicuro. Illuminata dalla 
+luce della vostra lanterna, riuscite finalmente a osservare 
+l’esile ragazza che avete tratto in salvo.
+La possibilità che si trattasse di una contadina intenta a 
+raccogliere funghi e radici nel bosco e miracolosamente uscita 
+indenne dall’impatto della meteora viene spazzata via appena 
+notate le sue magnifiche ali angeliche fare capolino da sotto 
+la coperta. I capelli chiari e delicati come seta della fanciulla 
+sembrano danzare verso l’alto come se fossero accarezzati 
+da correnti divine. Ma sopra ogni altra cosa, sono le sue 
+mani ad attirare la vostra curiosità: quella destra emana un 
+flebile bagliore dorato, quella sinistra una luce cremisi. Vi 
+siete imbattuti in un angelo caduto dal cielo? Allora perché 
+tra la chioma della fanciulla spuntano delle corna?
+Siete incappati in un mistero inspiegabile e, senza saperlo, 
+in un gioco più grande di voi...
+
+
+===== PAGE 8 =====
+8
+Atto 1: Agguato
+Gli avventurieri ed Eneli hanno trovato rifugio ai piedi di 
+un colossale albero-fungo nel fitto della selva. Il tenue ronzio 
+emesso dalla vegetazione circostante si unisce al suono di 
+una pioggerella sottile, creando una sinfonia carica di attesa. 
+I latrati uditi in precedenza sono svaniti e gli avventurieri 
+decidono di proseguire con cautela.
+Mentre sono occupati a orientarsi (Sopravvivenza CD 
+13) per trovare la via di uscita dalla selva, dalle ombre emer-
+gono delle misteriose figure ammantate di nero: sono i Pre-
+scelti dalle Tenebre, e sono armati fino ai denti! I personaggi 
+devono superare una prova di Percezione CD 16 o essere 
+colti alla sprovvista. L’agilità di questi assassini rasenta il 
+soprannaturale, si muovono molto velocemente e appare 
+subito chiaro che il loro obiettivo è la ragazza.
+Mentre gli avventurieri rispondono all’agguato, sulla 
+scena fa la sua apparizione Alysara, una sacerdotessa di Hal-
+thea, che con la sua spada e magia divina scatena la furia della 
+dea ardita sui Prescelti dalle Tenebre, aiutando gli avventu-
+rieri ad avere la meglio sugli assassini.
+Sui corpi degli assassini non rinvengono particolari indizi 
+sul motivo dell’agguato e, ad eccezione dell’equipaggiamento 
+e di un sacchetto di fiori di erth essiccati, non trovano null’al-
+tro di valore o di interessante.
+Una volta che la situazione è nuovamente sotto controllo, 
+Alysara si presenta, la sua voce carica di urgenza. Spiega che 
+la caduta della ragazza celeste, Eneli, era stata predetta. «Sono 
+stata inviata dalla Chiesa dell’Ardita per condurre la fanciulla 
+in salvo a Öuin». Un solenne avvertimento le sfugge dalle 
+labbra mentre condivide le terribili conseguenze che atten-
+dono il mondo se i Prescelti dalle Tenebre dovessero catturare 
+Eneli: «Sfrutteranno la sua natura diabolica, trasformandola 
+in una potente campionessa del male», avverte Alysara, i suoi 
+occhi carichi di determinazione. «Ciò deve essere evitato a 
+tutti i costi, poiché farebbe pendere la bilancia in favore di 
+Garod e delle sue legioni immonde.»
+Alysara invita gli avventurieri a condurre lei ed Eneli in 
+salvo a Cajeta, la cittadella fortificata da cui le due donne si 
+imbarcheranno per il lungo viaggio via mare per il Ducato 
+di Öuin. In cambio della loro scorta armata fino a Öuin, gli 
+avventurieri riceveranno una generosa ricompensa di 1000 
+monete di platino che potranno dividere equamente tra loro.
+Nota. Se gli avventurieri rifiutano la sua offerta, Alysara si 
+congeda, impegnandosi a cercare un altro momento oppor-
+tuno per completare la sua missione.
+Fare riferimento alle schede dei personaggi di Alysara e 
+del Paladino di Halthea.
+
+
+===== PAGE 9 =====
+9
+Atto 2: Il Circolo dei Segreti 
+attacca
+Gli avventurieri riprendono il loro viaggio verso Cajeta, 
+inconsapevolmente attirati in una pericolosa trappola di 
+sabbie mobili creata dai Custodi dei Segreti: i druidi hanno 
+raggiunto il punto di impatto della meteora in ritardo rispetto 
+ad Alysara e ai Prescelti delle Tenebre, ma sono determinati a 
+catturare Eneli. Riescono a recuperare terreno rispetto agli 
+avventurieri e, seguendone gli sposamenti, pianificano una 
+trappola lungo il loro percorso.
+Trappola delle sabbie mobili
+La trappola si estende in un’area di 18 metri di raggio, in un 
+leggero avvallamento circondato da bassi declivi, indistingu-
+ibile dal territorio circostante anche ad un’attenta analisi. La 
+strada che vi separa da Cajeta è piuttosto lunga e anche poco 
+battuta in questo periodo dell’anno, quando i traffici marit-
+timi provenienti da nord sono resi pericolosi dalla nebbia 
+che avvolge l’infida costa di Redoro.
+Lo scontro con i Prescelti dalle Tenebre vi ha scosso 
+profondamente e non fate che guardarvi intorno, pronti a 
+cogliere ogni minimo segnale di pericolo per sguainare la 
+spada e prepararvi al combattimento.
+Procedete in ordine di marcia e concedendovi solo raris -
+simi momenti di riposo, continuando a scrutare le tenebre 
+che vi circondano e senza prestare particolare attenzione 
+alla strada, sempre uguale, sotto i 
+vostri piedi: errore fatale! D’un 
+tratto i vostri passi affondano in 
+qualcosa di molle e la terra bat -
+tuta si rivela per quello che è 
+realmente, un’ampia area 
+di sabbie mobili che 
+coprono questo 
+tratto di strada. 
+Non fate in tempo 
+a districavi che 
+dalla boscaglia 
+emergono delle 
+figure, selvaggi 
+da come sono 
+conciati che 
+rispondono alle 
+vostre invoca-
+zioni di aiuto 
+con una gra -
+gnuola di colpi 
+e incantesimi.
+Le sabbie mobili possono causare quattro condizioni, di 
+pericolosità crescente:
+Invischiato: velocità base su terreno dimezzata;
+Sprofondato: velocità base su terreno ridotta a 0, mezza 
+copertura;
+Immerso: velocità base su terreno ridotta a 0, tre quarti 
+copertura;
+Inghiottito: velocità base su terreno ridotta a 0, copertura 
+totale.
+Quando entra nell’area la prima volta in un turno o vi 
+termina il proprio turno, una creatura deve effettuare un 
+tiro salvezza su Destrezza CD 15: superandolo, il personaggio 
+mantiene l’equilibrio, evitando di essere risucchiato dalle 
+sabbie mobili; se un personaggio fallisce il tiro salvezza, 
+inciampa e cade prono, restando invischiato nelle sabbie 
+mobili. La presa immobilizzante della sabbia che affonda si fa 
+più salda, rendendo sempre più difficile liberarsi senza aiuto. 
+Nel suo turno un personaggio invischiato può ripetere il tiro 
+salvezza su Forza CD 17 per liberarsi: in caso di successo il 
+personaggio riesce a risalire e può spostarsi liberamente; in 
+caso di fallimento scende ancora di più diventando sprofon-
+dato. L’aiuto di un alleato con una corda fornisce vantaggio 
+alla prova.
+Se un personaggio sprofondato fallisce il tiro salvezza su 
+Forza CD 19, la sua situazione peggiora e diventa immerso, 
+con la sabbia fino al collo; superando il tiro invece riesce 
+a risalire e diventa invischiato . La necessità di assistenza 
+immediata da parte di alleati o mezzi esterni diventa dispe-
+rata, poiché la fuga si fa sempre più difficile.
+Se un personaggio immerso fallisce un tiro salvezza su 
+Forza CD 21 soccombe alla presa implacabile delle sabbie 
+mobili: il personaggio si ritrova completamente inghiottito 
+dalla sabbia: inizia a soffocare immediatamente senza avere 
+la possibilità di trattenere il fiato. Se supera il tiro salvezza 
+torna ad essere sommerso.
+Un personaggio inghiottito può sopravvivere per un 
+numero di round pari al proprio modificatore di Costituzione 
+(minimo 1 round). All’inizio del suo turno successivo, scende 
+a 0 punti ferita ed è morente: non può recuperare punti ferita 
+o venire stabilizzato finché non torna a respirare. 
+Se il personaggio riceve aiuto dai compagni tramite una 
+corda o qualche incantesimo adeguato, ottiene vantaggio alle 
+prove per sfuggire alle sabbie mobili.
+Attenzione! Mentre gli avventurieri sono intenti a sfug -
+gire alla trappola, i druidi cercheranno di sottrargli Eneli e 
+al tempo stesso li bersaglieranno con incantesimi e armi a 
+distanza (consulta le schede dei personaggi dei Custodi dei 
+Segreti).
+Al termine dello scontro, Eneli balbetta per la prima volta 
+alcune parole in una lingua che gli avventurieri sono in grado 
+di capire: “G-grazie per il vostro aiuto”.
+
+
+===== PAGE 10 =====
+10
+Atto 3: Spiegazioni
+Appena fermi per riposare o alla prima occasione utile, Aly-
+sara rivela agli avventurieri le incredibili origini di Eneli, 
+facendo luce sui pericolosi nemici che le danno la caccia. 
+Spiega loro che i druidi che li hanno attaccati hanno l’obiet-
+tivo di eliminare Eneli, riconoscendo la minaccia che la sua 
+stessa esistenza rappresenta all’equilibrio della natura, mentre 
+i karevi sono guidati dal desiderio di sfruttare l’immenso 
+potere della fanciulla, corrompendolo.
+Alysara sottolinea la necessità di una vigilanza costante, 
+esortando gli avventurieri a diffidare di chiunque gli si avvi-
+cini. Diventa inequivocabilmente chiaro agli avventurieri che 
+Eneli è un essere unico, in possesso di una profonda riserva di 
+potere sopito che la rende una risorsa per i potenziali alleati 
+e una calamità terribile per gli avversari.
+Atto 4: Arrivo a Cajeta
+Dopo due faticose notti di viaggio, gli avventurieri ormai 
+esausti si trovano finalmente in vista delle formidabili mura 
+di Cajeta, una possente cittadella arroccata su una falesia a 
+strapiombo sul mare: le onde ruggenti che si infrangono sulle 
+rocce offrono una veduta davvero impressionante.
+Il porto ai piedi della falesia brulica di vita: navi mercantili 
+provenienti da terre lontane si mescolano armoniosamente 
+con imponenti navi da guerra, mostrando con orgoglio le 
+bandiere di diverse nazioni. L’aria è pregna dei profumi di 
+spezie esotiche, delle grida dei venditori e della vista di mari-
+nai con i volti segnati dalle intemperie.
+In cerca di ristoro dal loro viaggio, gli avventurieri pos-
+sono trovare accoglienza in un’invitante locanda nel cuore 
+della cittadella. Tra le sue mura, troveranno il conforto e il 
+sollievo che i loro corpi e spiriti esausti bramano dispera -
+tamente.
+
+
+===== PAGE 11 =====
+11
+Incontri casuali in locanda 
+(tira 1d6):
+Il Danse Macabre: Mentre gli avventurieri riposano all’in-
+terno della locanda, una melodia inquietante si diffonde 
+nell’aria, catturando la loro attenzione. Una musicista al 
+centro della stanza sta intonando un brano piuttosto inso-
+lito, facendo danzare le dita sinuose sulle corde di un liuto. 
+Con voce carica di malinconia, tesse i versi di una storia 
+tragica, la leggenda di Alastro (vedi avventura “La Tavoletta 
+Proibita”). “Nella sua ricerca per dare vita a un terreno arido, 
+la mente di Alastro è finita per appassire, lasciando dietro di 
+sé un paesaggio desolato dove crescono solo frutti maledetti.”
+La Rissa Alcolica: In un angolo della locanda, un turbolento 
+gruppo di marinai mendus è impegnato in un’accesa discus-
+sione che rapidamente degenera in una vera e propria rissa: 
+tavoli e sedie vengono rovesciati mentre iniziano a volare 
+boccali e pugni per tutta la stanza.
+Lo Straniero Misterioso: Una figura riservata occupa silen-
+ziosamente un angolo appartato e fiocamente illuminato 
+della locanda, tenendo il volto nascosto nell’ombra: è Axrul 
+De Vaars (fare riferimento a “La Notte Eterna 5e”). Lo stra-
+niero potrebbe fornire agli avventurieri alcune informazioni 
+preziose sulle Favoleggiate Rovine di Gundazar, regione che 
+ha conosciuto nei suoi viaggi.
+Il Mercante Perduto: Una mercante 
+gnoma dall’aria stravolta caracolla nella 
+locanda, nei suoi occhi il panico è evi-
+dente. Spiega di essere stata sepa-
+rata dalla sua carovana a seguito 
+di un attacco di banditi, ed è alla 
+disperata ricerca di qualcuno che la 
+aiuti a ritrovare i suoi compagni (e 
+la sua merce!). 
+Gli avventurieri possono sce-
+gliere di aiutare la mercante 
+addentrandosi negli insidiosi 
+vicoli di Cajeta, sconfiggendo i 
+banditi e recuperando la refur -
+tiva. La gnoma li ricompenserà 
+offrendogli un pugnale d’argento.
+L’Indovino: Un misterioso individuo col-
+loca un tavolino vicino al camino della locanda, 
+offrendosi di leggere il futuro a coloro che sono 
+disposti ad ascoltarlo. Gli avventurieri possono 
+scegliere di ascoltare le previsioni dell’indo -
+vino, ricevendo intuizioni criptiche sul futuro 
+che li attende, al costo di 5 monete d’oro.
+Sede dei Dardi Sanguinanti: Gli avventurieri non 
+sanno che la locanda funge da sede per la gilda 
+dei Dardi Sanguinanti di Cajeta. Mentre 
+pasteggiano saranno testimoni di uno 
+scambio segreto di merce rubata o di una tesa trattativa tra 
+fazioni rivali (fare riferimento alla scheda dei Dardi San -
+guinanti).
+Il tempo trascorso tra i confortanti confini della locanda 
+ha risvegliato il vivace appetito di Eneli: gli occhi della 
+ragazza brillano di una fame insaziabile mentre si concede 
+avidamente abbondanti quantità di cibo e bevande, assapo-
+rando ogni boccone con trasporto.
+Man mano che la ragazza recupera le energie, l’essenza 
+celestiale di Eneli si manifesta in momenti di tenera vulnera-
+bilità. Mentre conversa con gli avventurieri, occasionalmente 
+inizia a parlare in un linguaggio divino sconosciuto, le parole 
+intrise di un potere etereo che trascende i semplici linguaggi 
+conosciuti dai mortali. In questi fugaci momenti, la comuni-
+cazione si estende oltre le parole pronunciate, offrendo scorci 
+della natura celeste di Eneli attraverso la telepatia. La natura 
+immonda di Eneli resta invece sopita, salvo eventi partico-
+lari descritti più dettagliatamente in basso che potrebbero 
+risvegliarla…
+Nota per il GM: Gli avventurieri dovranno aver cura a 
+occultare Eneli sotto un ampio mantello con cappuccio 
+per celarne le origini ultraterrene.
+
+
+===== PAGE 12 =====
+12
+Atto 5: Un’offerta allettante
+Alla locanda gli avventurieri faranno la conoscenza di 
+Zethan, rinomato mercante specializzato in rari oggetti 
+magici, comprese le meteore. Dopo aver rotto il ghiaccio, 
+Zethan presenta agli avventurieri un’offerta allettante: 9.000 
+pezzi d’oro per l’acquisto di Eneli. Se i personaggi rifiutano, 
+Zethan si congederà da loro in modo cordiale, per poi infor-
+mare prontamente i Prescelti dalle Tenebre, di cui è emis -
+sario, che agiranno segretamente per sabotare l’unica nave 
+diretta verso Öuin.
+Atto 6: Tragedia in mare
+La nave salpa al sorgere della luna con a bordo gli avventu-
+rieri. Il viaggio sembra procedere tranquillo ma dopo due 
+giorni di navigazione gli avventurieri fanno una scoperta 
+sconfortante: il vascello è stato deliberatamente sabotato dai 
+Prescelti dalle Tenebre, i danni sono estremamente gravi e 
+non possono essere riparati. I seguaci di Garod sanno che 
+in caso di naufragio solo Eneli riuscirebbe a trarsi in salvo, e 
+contano di individuarne la presenza attraverso mezzi magici 
+e, quindi, di recuperarla in un secondo momento.
+A causa dei danni, il capitano è costretto a rischiare un 
+approdo di emergenza. Da calmo, il mare si fa improvvisa -
+mente burrascoso e coglie il vascello di sorpresa, facendolo 
+schiantare contro la scogliera. L’impatto è tremendo e uccide 
+l’intero equipaggio: solo i poteri di Eneli riescono a far uscire 
+Alysara e gli avventurieri incolumi dal naufragio, che si tro-
+veranno però naufraghi su uno scoglio in mezzo al mare.
+Le profondità oceaniche si agitano tumultuose, antici -
+pando la comparsa di una enorme creatura marina dall’a -
+spetto feroce: Tumbrod il Serpente. Un tempo fervente 
+chierico di Glumdrung, Tumbrod perse la retta via, ripu -
+diando la benevolenza del dio e facendo calare un’ombra sulla 
+comunità di pescatori che era chiamato a proteggere. Per 
+punizione Glumdrung trasformò Tumbrod in un orribile 
+serpente marino e lo condannò al ruolo di custode di un 
+santuario sommerso. Nelle profondità di questo luogo sacro 
+sono custoditi i resti di Aglilaka, una regina sirena che fu la 
+sposa mortale di Glumdrung. I ricordi di Tumbrod dei propri 
+peccati si sono diluiti nelle profondità salmastre, sostituiti da 
+una fame insaziabile e la ferma determinazione a proteggere 
+l’eterno riposo di Aglilaka a ogni costo.
+Per le statistiche di Tumbrod e il Santuario di Aglilaka, 
+fai riferimento al capitolo Mostri e PNG alla fine di questa 
+avventura.
+
+
+===== PAGE 13 =====
+13
+Atto 7: Ombre sussurranti
+Sopravvissuti alla terribile furia di Tumbrod, gli avven-
+turieri potranno provare a orientarsi.
+Il naufragio è avvenuto a circa quattrocento 
+chilometri a nord di Cajeta, a est delle Favo-
+leggiate Rovine di Gundazar.
+Senza scorte di viveri ed equipag-
+giamento utile, agli avventurieri 
+non resta altra scelta che proce-
+dere verso ovest, sperando di 
+raggiungere un insediamento 
+nell’entroterra.
+Quando arrivano in 
+vista delle inquietanti 
+rovine della metropoli, 
+una influenza sinistra 
+inizia a impadronirsi di 
+Eneli, manifestandosi in 
+crescenti poteri infernali.
+La voce della ragazza 
+diviene a tratti profonda 
+e rimbombante, in altri 
+momenti acuta e sibilante, 
+in ogni caso spaventosa e 
+ultraterrena mentre la sua 
+pelle inizia a emanare un 
+pungente odore di zolfo.
+Fatto ancor più preoccu -
+pante, il suo carattere si fa scon -
+troso e polemico, Eneli inizia a 
+dubitare delle capacità degli avventu-
+rieri, tra tutti prendendo di mira Aly -
+sara se la sacerdotessa viaggia ancora al 
+loro seguito. 
+“Guarda come siamo ridotti, ci siamo 
+persi in questo buco di posto e tutto perché tu 
+e i tuoi amici siete dei totali incapaci. Forse 
+farei meglio a continuare per conto mio, 
+almeno non dovrei sopportare il vostro 
+continuo blaterare”.
+Occorrerà una certa abilità diplo -
+matica e tanta pazienza per affrontare 
+l’atteggiamento ostile di Eneli e il desolato 
+paesaggio che li circonda non aiuta di certo.
+
+
+===== PAGE 14 =====
+14
+Il male dentro
+La natura immonda della ragazza si è destata, da questo 
+momento in poi, le azioni e le scelte degli avventurieri pos-
+sono avere un profondo impatto su Eneli, risvegliando la sua 
+natura infernale che parte con 1 livello. Gli atti compiuti dai 
+personaggi porteranno relativi effetti sulla natura infernale 
+di Eneli, come illustrato in basso:
+Azioni malvagie (+2 livelli infernali). Compiere atti 
+malvagi, quali stringere accordi con entità immonde o recare 
+danno a creature innocenti, aumenta significativamente il 
+livello infernale di Eneli.
+Azioni virtuose (-1 livello infernale). Agire in 
+maniera retta e leale, mostrare compassione e altruismo 
+verso i bisognosi diminuisce il livello infernale di Eneli.
+Tentazioni (+1 o -1 livello infernale). Quando gli 
+avventurieri vengono posti davanti a situazioni difficili, 
+possono essere tentati di abbracciare il lato oscuro, aumen-
+tando il livello infernale di Eneli, o compiere la scelta giusta 
+e diminuirne il livello.
+Reliquie sacre (-2 livelli infernali). Ritrovare e utiliz-
+zare potenti reliquie sacre o artefatti celesti può purificare 
+la natura di Eneli.
+Intervento divino (-2 livelli infernali). La guida e l’as-
+sistenza di Alysara consente ai personaggi di officiare rituali 
+o preghiere in grado di purificare la natura infernale di Eneli.
+Al raggiungimento di 5 livelli infernali, viene superata 
+una soglia critica ed Eneli si trasforma in Comandante 
+delle Legioni Infernali, soccombendo completamente 
+alla sua natura malvagia.
+Incontri casuali per 
+mettere alla prova gli 
+avventurieri (tira 1d8):
+La misteriosa meteora: Mentre 
+esplorano delle antiche rovine gli 
+avventurieri si imbattono in una 
+camera nascosta contenente un 
+potente artefatto che irradia 
+un’aura inquietante. I personaggi si rendono conto che, 
+nonostante la natura intrinsecamente malvagia dell’og -
+getto, esso può essere utilizzato sia per scopi buoni che per 
+scopi malvagi. Dovranno decidere se rivendicare il manu-
+fatto per se stessi, rischiando la sua influenza corruttrice, 
+o distruggerlo per impedire a chiunque di abusare del 
+suo potere. Il Game Master può scegliere una meteora 
+adatta allo scopo nella tabella riportata nel manuale 
+de “La Notte Eterna 5e”.
+La supplica del mendicante: Un mendicante 
+dall’aria afflitta, un pastore, si avvicina agli 
+avventurieri chiedendo loro assistenza per sfa-
+mare la propria famiglia affamata. È sincero e il 
+
+===== PAGE 15 =====
+15
+suo bisogno è reale: gli avventurieri dovranno decidere se 
+offrirgli aiuto, privandosi delle loro limitate razioni, o con-
+gedarlo per dare la priorità al proprio viaggio.
+Le creature schiavizzate: Durante il viaggio, gli avventu-
+rieri subiranno l’imboscata di due umani. Non rappresen -
+tano una seria minaccia e si arrenderanno appena messi alle 
+strette: tra le lacrime racconteranno di essere stati ridotti 
+in schiavitù dalla magia di un orco stregone e costretti ad 
+assalire i viandanti. Gli avventurieri dovranno decidere se 
+affrontare l’ira del potente stregone e liberare gli schiavi o 
+ignorare le loro sofferenze e proseguire per la loro strada 
+evitando il pericolo.
+Il cimitero infestato: Mentre transitano nei pressi dei resti 
+di un tetro cimitero abbandonato, gli avventurieri si imbat-
+tono in alcuni spiriti inquieti. Queste entità non sono ostili 
+e chiedono giustizia contro un necromante che si è insediato 
+nelle cripte e sta violando la sacralità del loro riposo. Gli 
+avventurieri dovranno decidere se aiutare gli spiriti e ripor-
+tare la pace alle loro anime inquiete o evitare il pericoloso 
+scontro, lasciando gli spiriti al loro tormento.
+Le acque corrotte: Seguendo il corso di un fiume dalle 
+acque terribilmente inquinate, gli avventurieri incontrano 
+un gruppo di elfi dei boschi afflitti da una misteriosa malattia 
+causata dall’acqua contaminata. Gli avventurieri dovranno 
+decidere se risalire il corso d’acqua per trovare un modo di 
+purificare la fonte, affrontando la fonte della contaminazione, 
+o ignorare la situazione e proseguire il viaggio in sicurezza.
+La viandante smarrita: Mentre cercano di attraversare una 
+infida palude, gli avventurieri si imbattono in una umana 
+sulla trentina, disorientata e visibilmente ferita. È una tom-
+barola che trasporta oggetti molto preziosi, frutto del recente 
+saccheggio di tombe abbandonate. Gli avventurieri dovranno 
+decidere se offrire assistenza, curando e conducendo la vian-
+dante al sicuro in un villaggio nei dintorni, o depredarla 
+e abbandonarla al proprio destino, approfittando della sua 
+vulnerabilità.
+Il Boschetto Sacro: Gli avventurieri si imbattono nel cuore 
+di un antico boschetto che ospita un incontaminato santuario 
+protetto da potenti spiriti della natura. Questi esseri sono 
+stati indeboliti a causa dell’oscura influenza necromantica 
+che si irradia da Gundazar. Gli avventurieri dovranno deci-
+dere se impiegare tempo e risorse per scoprire il modo per 
+ripristinare i poteri degli spiriti della natura o saccheggiare 
+il santuario degli artefatti che vi sono custoditi.
+La bestia selvaggia: Un unicorno impazzito minaccia un 
+insediamento di elfi dei boschi. Quando l’unicorno incro -
+cia la strada degli avventurieri, questi dovranno decidere se 
+ucciderlo e porre fine alla minaccia che rappresenta, anche 
+se ciò distruggerebbe una creatura magnifica, o impegnarsi 
+a trovare una soluzione alternativa, come attirare l’unicorno 
+lontano dalla vicina comunità di elfi dei boschi, magari ten-
+tando di guarire la pazzia che si è impadronita della bestia e 
+individuarne i motivi.
+Atto 8: Confronto alla Torre
+I Prescelti dalle Tenebre sono ancora sulle loro tracce: la 
+caccia è guidata da Ghyzzman, il vescovo di Garod nella 
+provincia di Petralta, scortato da due soldati immondi. Gli 
+avventurieri vengono raggiunti nei pressi di una vecchia 
+torre in rovina sulla strada per Gundazar, dove inizia una 
+battaglia all’ultimo sangue. Ghyzzman si oppone al piano di 
+Alysara di fare di Eneli una campionessa di Halthea: cercherà 
+di tenere un discorso agli avventurieri, affermando che la 
+Chiesa di Garod è determinata a restituire la ragazza ai suoi 
+genitori, lontano da chi vuole sfruttarla o ucciderla (i perso-
+naggi possono capire che sta mentendo superando una prova 
+di Intuizione CD 15). Dopo alcuni turni di combattimento, 
+Ghyzzman offrirà agli avventurieri un’ultima opportunità di 
+consegnare Eneli in cambio dell’incredibile cifra di 20.000 
+monete di platino e delle loro vite.
+Se gli avventurieri rifiutano, la battaglia prosegue fino alla 
+morte. Se decidono di rinunciare a Eneli e accettare la ricom-
+pensa, Alysara tenterà un ultimo eroico e disperato attacco. 
+Non molto tempo dopo gli avventurieri verranno a sapere 
+che la ragazza che conoscevano non esiste più: trasformata 
+in un potente campione del male è rinata come Comandante 
+delle Legioni Infernali. Questo possibile finale può servire 
+da spunto per una campagna.
+
+
+===== PAGE 16 =====
+16
+Atto 9: Ammonizione del 
+Circolo
+Recuperate le energie, dopo l’eventuale scontro alla torre, gli 
+avventurieri riprendono il loro viaggio verso il più vicino 
+tempio di Halthea, all’estremità occidentale della regione 
+corrotta di Gundazar. Man mano che si avvicinano al termine 
+del loro viaggio, Alysara rivela sempre più chiaramente le 
+proprie convinzioni fanatiche, sostenendo il bisogno di puri-
+ficare Nebvarasa dal caos in qualsiasi forma esso si presenti. 
+Farà anche allusioni al ruolo che avrà Eneli nel purificare il 
+mondo dalla corruzione attraverso il fuoco e l’acciaio.
+Mentre il gruppo è intento ad attraversare le rive di un 
+canale d’acqua torbida, appare davanti a loro l’ologramma 
+dell’archimandrita Fahrn. La figura li ammonisce sui pericoli 
+associati all’esistenza di Eneli e chiede loro di consegnare la 
+ragazza perché venga sacrificata al Fuoco Segreto. Subito 
+dopo aver pronunciato questo avvertimento, la terra si apre 
+rivelando un profondo baratro oscuro, e l’ologramma solle-
+cita gli avventurieri a gettarvi dentro Eneli.
+Manifestazione Primitiva
+Illusione, Druido, 4° livello
+Tempo di Lancio: 1 azione
+Gittata: 500 km
+Componenti: V, S, M (un piccolo prisma di cristallo)
+Durata: Concentrazione, fino a 1 ora
+La Manifestazione Primitiva viene talvolta utilizzata dai 
+druidi per comunicare con fratelli e sorelle di altre enclavi, 
+ammonendoli su pericoli ed eventi che potrebbero riguar-
+darli.
+Il druido attinge all’essenza primordiale della natura per 
+trascenderne la mera manifestazione fisica, evocando una 
+proiezione visiva di se stesso, un oggetto o una creatura che 
+è in grado di vedere entro 36 metri. L’ologramma è un per-
+fetto riflesso dell’originale ma appare agli osservatori leg -
+germente fuori fuoco. Attraverso l’ologramma, il druido è 
+in grado di comunicare ma non può interagire in altro modo 
+con l’ambiente e gli oggetti circostanti. Una volta evocato in 
+un punto, l’ologramma non può essere spostato. Il druido 
+può cessare l’incantesimo prima della sua fine terminando 
+la concentrazione.
+Ai Livelli Superiori. Quando lanci questo incantesimo 
+utilizzando uno slot incantesimo di 5º livello o superiore, 
+la durata massima aumenta di 1 ora per ogni slot di livello 
+superiore al 4º. Questa connessione più intima con la natura 
+ti concede un controllo maggiore sulla manifestazione olo-
+grafica.
+Se gli avventurieri decidono di assecondare Fahrn, Aly-
+sara ed Eneli tenteranno di scappare e combattere.
+Se i personaggi rifiutano la richiesta dell’archimandrita, la 
+fossa si allarga ulteriormente e da essa emerge un Golem 
+di Argilla Potenziato di taglia enorme che ingaggia gli 
+avventurieri in una feroce battaglia. Durante la lotta contro 
+il golem di argilla potenziato, Alysara si lancerà in difesa 
+della ragazza soccombendo sotto gli implacabili attacchi del 
+mostro. Se tra gli avventurieri è presente un guaritore, e se 
+Alysara viene soccorsa entro 3 round dal momento in cui è 
+caduta, gli avventurieri avranno l’opportunità di salvarla. 
+Altrimenti, con le sue ultime parole la sacerdotessa-guerriera 
+chiederà agli avventurieri di condurre Eneli al suo giusto 
+destino presso il Tempio di Halthea.
+Atto 10: Il Saggio della 
+Montagna
+Sia che gli avventurieri scelgano di continuare il loro viag -
+gio verso il Tempio di Halthea o di dirigersi verso qualche 
+altra direzione, dal punto in cui si trovano finiscono inevi -
+tabilmente per scorgere a una certa distanza una maestosa 
+catena montuosa. Il loro cammino incrocerà una processione 
+di fedeli, minatori impoveriti e famiglie al seguito diretti 
+verso il Saggio della Montagna, eremita noto per la sua pro-
+fonda saggezza. Sentendo parlare di questo individuo, Eneli 
+esprime apertamente e per la prima volta i propri pensieri. 
+Afferma di non aver mai visto né sentito parlare del Saggio, 
+ma ogni fibra del suo corpo sembra tendere verso una fiducia 
+incondizionata nei confronti dell’eremita. Rivela quindi agli 
+avventurieri il proprio profondo desiderio di sicurezza e di 
+conforto sotto la protezione del Saggio, lontano da coloro 
+che cercano soltanto di danneggiarla o di sfruttarla.
+Affidare Eneli alla protezione del Saggio della Montagna 
+segna il culmine dell’avventura e ne rappresenta l’esito più 
+favorevole. Per ulteriori dettagli, fare riferimento alla sezione 
+Conclusioni che fornisce ulteriori informazioni sulle possi-
+bili soluzioni alla storia.
+
+
+===== PAGE 17 =====
+17
+Atto 11: Niente sarà più lo 
+stesso
+Se gli avventurieri si rifiutano di affidare Eneli alla pro-
+tezione del Saggio, mentre viaggiano verso il Tempio di Hal-
+thea incontreranno un piccolo distaccamento di paladini di 
+Halthea (20 paladini di Halthea, ciascuno di 8° livello): il loro 
+comandante offrirà in modo deciso e che non ammette rifiuto 
+di scortarli al tempio della dea più vicino: Öuin dista troppi 
+giorni di viaggio da percorrere a piedi, e agire di urgenza è 
+ormai imperativo.
+Giunti finalmente tra le possenti mura di un tempio-for-
+tezza, gli avventurieri vengono accolti dai sacerdoti e ricom-
+pensati con le 1.000 monete di platino promesse per il loro 
+supporto. Invitati a trattenersi al tempio per qualche giorno, 
+noteranno un flusso costante di chierici e paladini della dea 
+giungere sul posto: sta ovviamente per accadere qualcosa di 
+molto importante e il culto di Halthea si sta preparando 
+a far sì che nulla possa turbarlo.
+Gli avventurieri saranno lasciati liberi di 
+girovagare ma in segreto 
+vengono osservati da 
+alcuni paladini inca -
+ricati di non 
+togliergli gli 
+occhi di dosso e 
+assicurarsi che non com-
+piano atti che possano danneggiare i pre-
+parativi del rituale che sta per compiersi. 
+Ovviamente, gli avventurieri potranno ten-
+tare un’impresa folle: affrontare 10 paladini di 
+Halthea - il numero minimo di questi campioni 
+sacri che sorveglierà Eneli - e fuggire, ma il combat-
+timento rischia di sopraffarli facilmente.
+Se non liberano Eneli, finalmente ha luogo il rituale 
+sacro: l’avatar di Halthea scende dal cielo tra gli adora -
+tori in preghiera, un flusso di gelida luce bianca inonda 
+il tempio mentre i tratti celesti di Eneli si fanno sempre più 
+marcati, indurendosi. Al termine del rituale, la ragazza si 
+trasforma nel Giudice dei Mondi, proclamando a gran voce 
+l’inizio della crociata di purificazione. Anche se è troppo 
+tardi, gli avventurieri potrebbero ricordare l’avvertimento 
+del Circolo dei Segreti o pensare al Saggio della Montagna, 
+che hanno ignorato lungo la strada...
+
+===== PAGE 18 =====
+18
+Conclusioni
+L’avventura offre finali diversi a seconda delle scelte com -
+piute dai giocatori. Ecco i possibili esiti:
+Saggio della Montagna: Gli avventurieri accolgono la 
+supplica di Eneli e scortano la ragazza fino alla dimora del 
+Saggio della Montagna. Eneli considererà gli avventurieri 
+come i suoi veri e leali amici, apprezzando il loro costante 
+supporto e protezione durante il viaggio. Dopo che avranno 
+affidato la ragazza al Saggio della Montagna, egli in segno 
+di gratitudine conferisce agli avventurieri la Benedizione di 
+Lurtan: ogni personaggio ottiene un bonus permanente alla 
+Costituzione di +2, immunità ai danni da veleno e immunità 
+alla condizione di avvelenato.
+Giudice dei Mondi: Eneli viene affidata al Tempio di Hal-
+thea, dove viene eseguito un rituale volto ad eliminare il 
+retaggio infernale dalla sua anima, sigillandolo in un’ampolla 
+speciale come simbolo della giustizia che prevale sul male. 
+Trasformata nel Giudice dei Mondi, Eneli si mette a capo di 
+un esercito di celestiali, paladini e chierici di Halthea, dando 
+inizio a una guerra santa per eradicare il caos e il male dai 
+reami di Neir. Lungo la marcia di questa crociata potrebbero 
+essere immolate decine di migliaia di vite, a meno che qual-
+cuno non si opponga per fermarla. Una possibilità sarebbe 
+quella di recuperare la fiaschetta contenente il retaggio infer-
+nale di Eneli e riunirla alla ragazza attraverso un pericoloso e 
+difficile rituale. La fiaschetta è custodita da potenti angeli nel 
+Tempio di Halthea a Öuin, e recuperarla sarà una missione 
+tutt’altro che semplice…
+Comandante delle Legioni Infernali: Eneli viene con-
+segnata alla Chiesa di Garod, dove si svolge un rituale per 
+estrarre l’essenza celestiale dall’anima della ragazza, intrap -
+polandola in un’ampolla speciale come testimonianza del 
+trionfo della tirannia su tutto ciò che è giusto. Trasformata 
+nel Comandante delle Legioni Infernali, Eneli guida un eser-
+cito di diavoli, paladini e chierici di Garod, intraprendendo 
+una guerra empia per sradicare il bene e la giustizia dai reami 
+di Neir. Questa campagna mieterà decine di migliaia di vite, 
+a meno che qualcuno non agisca per contrastarla. Gli avven-
+turieri potrebbero tentare di recuperare la fiaschetta conte-
+nente l’anima essenza celestiale di Eneli e riunirla alla ragazza.
+Distruzione mediante il Fuoco Segreto: Eneli viene conse-
+gnata al Circolo dei Segreti, che la conduce alla Radura delle 
+Pietre Grigie nella Foresta di Edeber dove viene svolto un 
+rituale druidico nel quale viene evocato il Fuoco Segreto che 
+in pochi istanti consuma il corpo della ragazza, distruggendo 
+definitivamente ogni traccia di energie celesti e infernali. 
+È una fine dolorosa per la triste esistenza della sventurata 
+ragazza. Nessun altro al di fuori di  Eneli perderà la vita 
+come conseguenza di questa scelta, ma le fazioni di Garod e 
+Halthea potrebbero cercare vendetta.
+Ciascuno di questi finali presenta conseguenze distinte 
+e potenziali trame per ulteriori avventure.
+
+
+===== PAGE 19 =====
+19
+Mostri e 
+personaggi non 
+giocanti
+I
+n questo capitolo sono riportate le schede dei 
+mostri e dei PNG incontrati nel corso dell’av-
+ventura, oltre ai loro oggetti magici. 
+Eneli, il personaggio centrale, ha tre schede dif-
+ferenti: una descrive la sua forma iniziale appena precipitata 
+su Neir, mentre le altre due mostrano la possibile trasfor -
+mazione di Eneli in Comandante delle Legioni Infernali o 
+Giudice dei Mondi.
+
+===== PAGE 20 =====
+20
+Alysara
+Nata in una ricca famiglia di mercanti öued, Alysara è cre-
+sciuta con un forte senso di giustizia grazie alla guida del 
+padre, uomo leale che ha sempre riservato un trattamento 
+equo e inflessibile ai suoi servi. La sua famiglia dispone di 
+empori e proprietà immobiliari sia a Öuin che a Towerbri-
+dge. Piuttosto che ereditare la fiorente attività di famiglia, 
+Alysara preferì cedere la propria parte di eredità alla sorella 
+minore per votarsi interamente al servizio di Halthea.
+Grazie al buon nome della propria famiglia appartenente 
+all’alta borghesia cittadina i Cygna, Alysara è stata da subito 
+bene accolta. Con dedizione e zelo, ha scalato i ranghi del 
+clero, diventando una figura riverita per la sua abilità nel 
+risolvere le controversie tra compagni di fede.
+Il compito affidatole di recuperare Eneli e scortarla al 
+tempio non solo rappresenta un grande onore per Alysara 
+ma anche un’occasione importante per dimostrare la propria 
+incrollabile devozione. A giocare un ruolo importante nel 
+difficile compito affidatole è anche l’ambizione di Alysara 
+che mira alla carica di Gran Sacerdotessa. Spinta da deter-
+minazione granitica, la sacerdotessa in arme affronterà senza 
+esitazione qualsiasi ostacolo pur di assicurarsi il successo.
+Si dimostrerà cordiale e comprensiva rispetto agli avven-
+turieri fin tanto che questi saranno allineati al suo disegno.
+Se dovessero discostarsene interverrebbe in maniera 
+decisa, possibilmente richiamando in suo aiuto i paladini 
+di Halthea.
+Dal fitto della selva emerge una figura austera, una guer-
+riera alta e slanciata avvolta in un lungo mantello bianco 
+decorato con intricati ricami dorati che riflettono debol-
+mente la luce delle vostre torce. A chiudere il mantello 
+una lastra in argento che reca inciso il simbolo della 
+casata Cygna, un cigno bianco con le ali spiegate.
+Dal suo cappuccio affiorano ciocche di capelli castani 
+mentre i suoi occhi verdi vi scrutano con attenzione 
+nell’oscurità.
+Quando vi parla lo fa con il tono perentorio di chi è 
+abituato a comandare: “Sono Alysara,” esordisce, “sacer-
+dotessa di Halthea, custode della giustizia. Sono qui per 
+aiutarvi a condurre la ragazza in salvo.”
+
+
+===== PAGE 21 =====
+21
+Alysara 
+Umanoide Medio (umano), legale neutrale
+Classe Armatura. 18 (armatura a piastre com-
+plete)
+Punti Ferita. 142 (15d8 + 75)
+Velocità. 9 m
+Tiri salvezza. Sag +9, Car +7
+Abilità. Intuizione +9, Religione +5
+Resistenze ai danni. Radiante
+Immunità alle condizioni. Spaventato
+Sensi. Percezione passiva 15
+Linguaggi. Imperiale, celestiale
+Grado sfida. 12 (8400 PE)
+Intervento Divino. Alysara può chiedere ad 
+Halthea di intervenire in suo favore. Una vol -
+ta per riposo lungo, può usare la sua azione 
+per richiedere l’aiuto di Halthea, effettuando 
+una prova di Saggezza con CD 17. In caso di 
+successo, Halthea potrebbe intervenire, come 
+ritiene appropriato alla situazione. Una volta 
+usata questa capacità non può essere utilizzata 
+prima che sia trascorsa 1 settimana.
+Grazia Divina. Alysara aggiunge il suo modifi-
+catore di Saggezza (+5) a tutti i tiri salvezza.
+Incantesimi. Alysara è un’incantatrice di 12° 
+livello. La sua caratteristica da incantatore è 
+Saggezza (tiro salvezza degli incantesimi CD 17, 
++9 al tiro per colpire degli attacchi con incan-
+tesimo). Ha preparato i seguenti incantesimi 
+da chierico:
+Trucchetti (a volontà): fiamma sacra, guida, 
+taumaturgia
+1° livello (4 slot): benedizione, cura ferite, 
+individuare il bene e il male, scudo della fede
+2° livello (3 slot): aiuto, arma spirituale, ri-
+storare inferiore
+3° livello (3 slot): dissolvi magie, rinascita, 
+spiriti guardiani
+4° livello (3 slot): guardiano della fede, in -
+terdizione alla morte, libertà di movimento
+5° livello (2 slot): colpo infuocato, punizione 
+esiliante
+6° livello (1 slot): guarigione
+ FOR DES COS INT SAG CAR
+ 16 (+3) 10 (+0) 18 (+4) 12 (+1) 20 (+5) 16 (+3)
+AZIONI:
+Equilibrio del Serafino. Attacco con Arma da 
+Mischia: +8 al tiro per colpire, portata 3 m, 
+un bersaglio. Colpito: 10/12 (1d8/1d10 + 4) 
+danni taglienti più 1d6 danni radianti. Il danno 
+radiante aumenta di 1d6 se l’acqua santa di -
+stillata dalla fonte benedetta di Halthea viene 
+applicata all’arma.
+Incanalare Divinità (Ricarica 5-6): Onda Sacra. 
+Alysara spende un uso di Incanalare Divinità per 
+scatenare un’onda di energia divina. Ogni crea-
+tura a sua scelta entro 9 metri deve effettuare 
+un tiro salvezza su Destrezza CD 17, subendo 
+22 (5d8) danni radianti se fallisce il tiro, o la 
+metà di quei danni se lo supera.
+Scacciare gli Ingiusti (2/Giorno). Come azione, 
+Alysara esibisce il simbolo sacro di Halthea e 
+pronuncia una preghiera, costringendo fino a 
+5 creature a sua scelta che possono sentirla 
+entro 9 metri a effettuare un tiro salvezza su 
+Saggezza con CD 17. In caso di tiro salvezza 
+fallito, la creatura è spaventata per 1 minuto. 
+Le creature influenzate possono ripetere il tiro 
+salvezza alla fine di ciascuno dei propri turni, 
+terminando l’effetto in caso di successo.
+AZIONI BONUS:
+Incanalare Divinità (3/Giorno). Come azione 
+bonus, Alysara può spendere un uso di Inca -
+nalare Divinità per infondere il suo prossimo 
+attacco con il potere di Halthea. Se colpisce con 
+successo con Equilibrio del Serafino, il bersaglio 
+subisce 1d6 danni radianti aggiuntivi. Il danno 
+radiante aumenta di 1d6 se l’acqua santa di -
+stillata dalla fonte benedetta di Halthea viene 
+applicata all’arma.
+Guida Divina. Alysara può usare la sua azione 
+bonus per toccare una creatura consenziente, 
+concedendole vantaggio alla successiva prova 
+di caratteristica o tiro salvezza entro il minuto 
+successivo.
+Equipaggiamento. Armatura a piastre com -
+plete, scudo, Equilibrio del Serafino (+1 spada 
+lunga benedetta), simbolo sacro di Halthea, kit 
+del guaritore, ampolle di acqua santa.
+
+===== PAGE 22 =====
+22
+Eneli 
+Medio Mezzo Celestiale/Immondo, legale neutrale
+Eneli si è da poco schiantata sul mondo mortale 
+sotto forma di meteora, pura e ignara di ciò 
+che la attende...
+Classe Armatura. 13
+Punti ferita. 78 (12d8 + 24)
+Velocità: 9m, 9m volo
+Tiri salvezza. Des +6, Car +7
+Abilità. Acrobazia +6, Intuizione +5, Percezione 
++5, Persuasione +7
+Resistenza ai danni. Radianti, Fuoco
+Sensi. Scurovisione 36m, Percezione passiva 15
+Lingue. Celestiale, infernale
+Grado sfida. 6 (2300 PE)
+Corpo arcano. I colpi senz’armi di Eneli sono 
+considerati magici. Inoltre, se colpisce con suc-
+cesso una creatura con un colpo senz’armi, può 
+scegliere di infliggere danni radianti o da fuoco 
+(a sua scelta) invece di danni contundenti.
+Incantesimi. Eneli è un’incantatrice di 4° li -
+vello. La sua caratteristica da incantatore è 
+Carisma (tiro salvezza degli incantesimi CD 15, 
++6 al tiro per colpire con attacchi con incantesi-
+mi). Eneli ha preparato i seguenti incantesimi:
+Trucchetti (A volontà): fiamma sacra, tauma-
+turgia
+1° livello (4 slot): cura ferite, dardo traccian-
+te, intimorire infernale, scudo della fede
+2° livello (3 slot): ristorare inferiore, arma 
+spirituale
+AZIONI
+Multiattacco. Eneli effettua due attacchi 
+senz’armi.
+Colpo senz’armi. Attacco in mischia: +6 a col-
+pire, portata 1,5m, un bersaglio. Colpisce: 6 
+(1d6 + 3) danni contundenti.
+ FOR DES COS INT SAG CAR
+ 12 (+1) 16 (+3) 14 (+2) 10 (+0) 14 (+2) 18 (+4)
+
+
+===== PAGE 23 =====
+23
+Eneli: Comandante  
+delle Legioni Infernali 
+Immondo Medio, legale malvagio
+La natura diabolica di Eneli ha trionfato, sopraf-
+facendo la sua essenza celestiale e alimentando 
+l’insaziabile desiderio di conquistare e soggio-
+gare tutti coloro che le si oppongono. Mentre 
+si compie la sua trasformazione, formidabili 
+artefatti si materializzano su Eneli, simboli 
+inconfutabili della volontà di Garod di farne 
+la sua Comandante delle Legioni Infernali. Al 
+completamento della sua metamorfosi, ad Eneli 
+spuntano ali infuocate che lasciano dietro di sé 
+una scia di cenere e desolazione.
+Classe Armatura. 23 (Zahalthiel’thaqas’hal)
+Punti Ferita. 304 (32d8 + 160)
+Velocità. 12 m, volare 18 m
+Tiri Salvezza. For +12, Cos +12, Car +13
+Abilità. Arcano +10, Inganno +13, Intimidire 
++13, Persuasione +13
+Immunità ai danni. Fuoco, necrotico, veleno; 
+Contundenti, perforanti e taglienti da attacchi 
+non magici.
+Immunità alle condizioni. Spaventato, Affasci-
+nato, Avvelenato, Esausto.
+Sensi. Scurovisione 36m, Percezione passiva 13
+Lingue. Tutte, telepatia 36 m
+Grado sfida. 22 (41000 PE)
+Presenza Infernale. La sola presenza di Eneli 
+infonde paura e disagio in chi la circonda. Le 
+creature entro 12 (9 senza falcione) metri da 
+lei hanno svantaggio ai tiri salvezza contro gli 
+effetti che provocano paura.
+Rigenerazione diabolica. Eneli recupera 20 
+punti ferita all’inizio del proprio turno se ha 
+almeno 1 punto ferita rimanente.
+Volo Infernale: Usando un’azione bonus, Eneli 
+può accresce -
+re la poten -
+za delle sue 
+ali di fuoco e 
+aumentare la 
+propria veloci-
+tà di volo a 18 
+metri.
+ FOR DES COS INT SAG CAR
+ 20 (+5) 18 (+4) 20 (+5) 16 (+3) 16 (+3) 22 (+6)
+Incantesimi. Eneli è un’incantatrice di 12° li-
+vello. La sua caratteristica da incantatrice è 
+Carisma (tiro salvezza degli incantesimi CD 21, 
++13 al tiro per colpire con attacchi con incante-
+simi). Eneli ha preparato i seguenti incantesimi:
+Trucchetti (A volontà): deflagrazione occulta, 
+mano magica, illusione minore, prestidigita -
+zione
+Incantesimi di 1° livello (4 slot): charme su 
+persone, intimorire infernale, scudo
+Incantesimi di 2° livello (3 slot): immagine 
+speculare, invisibilità, oscurità
+Incantesimi di 3° livello (3 slot): controincan-
+tesimo, palla di fuoco
+Incantesimi di 4° livello (3 slot): muro di fuo-
+co, porta dimensionale, tentacoli neri
+Incantesimi di 5° livello (2 slot): dominare 
+persone, telecinesi
+Incantesimi di 6° livello (1 slot): cerchio di 
+morte, suggestione di massa
+AZIONI
+Multiattacco. Eneli effetua due attacchi di fal-
+cione e un attacco con la presa del fuoco.
+Falcione del Mietitore d’Anime. Attacco con 
+Arma da Mischia: +12 al tiro per colpire, portata 
+3 m, un bersaglio. Colpito: 16 (2d10 + 5) danni 
+taglienti più 4 (1d8) danni necrotici.
+Presa del Fuoco Infernale. Attacco in mischia: 
++12 a colpire, portata 1,5m, un bersaglio. Col-
+pisce: 16 (2d10 + 5) danni da fuoco. Il bersaglio 
+deve anche effettuare un tiro salvezza su De -
+strezza CD 20 o essere avvolto dalle fiamme, 
+subendo 7 (2d6) danni da fuoco aggiuntivi all’i-
+nizio di ciascuno dei propri turni per 1 minuto.
+AZIONI LEGGENDARIE
+Eneli può effettuare 3 azioni leggendarie, sce-
+gliendo tra le opzioni seguenti. È possibile uti-
+lizzare solo un’opzione di azione leggendaria 
+alla volta e solo alla fine del turno di un’altra 
+creatura. Eneli recupera le azioni leggendarie 
+spese all’inizio del proprio turno.
+Luce Corrotta. Eneli incanala la sua energia 
+immonda per curare se stessa risucchiando la 
+vita di una creatura che può vedere entro 9 
+m. Il bersaglio deve superare un tiro salvezza 
+su Costituzione CD 21 o subire 11 (2d10) danni 
+necrotici. Eneli recupera punti ferita pari ai 
+danni inflitti.
+
+
+===== PAGE 24 =====
+24
+Colpo Infernale. Eneli attacca con il Falcione 
+del Mietitore d’Anime.
+Oscurità Accecante (Costa 3 Azioni). Eneli ri-
+lascia un’esplosione di dense ombre entro un 
+raggio di 18 metri centrate su se stessa. Tutta 
+l’area è pesantemente oscurata per 1 minuto.
+Equipaggiamento:
+Nephkaleth’shar’mor (Falcione del 
+Mietitore d’Anime in linguaggio divino)
+Arma (falcione), leggendaria, richiede sintonia
+Il Falcione del Mietitore d’Anime è un’arma 
+formidabile la cui imponente asta è realizza -
+ta in ossidiana dura come l’acciaio. La lama è 
+una mezzaluna affilata, incisa con antiche rune 
+infernali che pulsano di un minaccioso bagliore 
+rosso. Forgiata nel Dominio di Garod, l’arma 
+emana energia oscura ed è sormontata da una 
+punta aguzza e sinistra. Quando viene impu -
+gnato, il falcione diventa un’estensione della 
+volontà del portatore, irradiando un’aura di do-
+minio che infonde paura e disagio in chiunque 
+si trovi nelle sue vicinanze. I colpi del falcione 
+sono infusi di potere necrotico e infliggono dan-
+ni devastanti alla carne e all’anima delle vitti-
+me. La semplice presenza dell’arma in battaglia 
+è sufficiente per affermare la potenza tirannica 
+di Garod, lasciando i nemici atterriti dalla sua 
+aura opprimente.
+Esorcizzare l’Arma: Pronunciando il vero nome 
+del Falcione del Mietitore d’Anime al contrario, 
+entro un raggio di 9 metri, i poteri dell’arma 
+vengono soppressi per una durata di 1d6+1 
+round. I poteri dell’arma possono essere an -
+nullati solo una volta al giorno.
+Danno: 11 (2d10) taglienti
+Proprietà: Pesante, a due mani, portata
+Colpi Adirati. Il falcione infligge 1d8 danni ne-
+crotici aggiuntivi.
+Aura di Dominio. Mentre brandisci il falcione 
+emani un’aura di dominio entro un raggio di 
+3 metri. Le creature a tua scelta all’interno 
+dell’aura hanno svantaggio ai tiri salvezza con-
+tro l’essere affascinati o spaventati.
+Comando del Tiranno. Una volta per riposo 
+lungo, come azione, puoi attivare il Comando 
+del Tiranno. Per 1 minuto, i tuoi attacchi con 
+il falcione sono potenziati infliggendo 9 (2d8) 
+danni psichici extra e ottengono automatica -
+mente un critico con un risultato di 19 o 20.
+Presenza Tirannica. Quando colpisci una cre-
+atura con il falcione, deve effettuare un tiro 
+salvezza su Saggezza (CD pari al tuo modifica-
+tore di Carisma + il tuo bonus di competenza) 
+o essere spaventata fino alla fine del suo turno 
+successivo.
+
+
+===== PAGE 25 =====
+25
+Ahrimahiel’na’makar 
+(Pendente dell’Araldo 
+del Destino in 
+linguaggio divino)
+Oggetto meraviglioso 
+(pendente), leggendario, 
+richiede sintonia
+Il Pendente dell’Araldo 
+del Destino è un sor-
+prendente pezzo di 
+artigianato divino. 
+Realizzato in ossi -
+diana, l’amuleto 
+presenta intricate 
+incisioni di ram -
+picanti contorti 
+e spinosi che si in -
+trecciano con punte 
+perfidamente affilate. 
+Al suo centro una gem -
+ma color cremisi pulsa di 
+energia ultraterrena, mentre 
+un inquietante bagliore rosso sembra danzare 
+nelle sue profondità... Quando viene indossato, 
+l’amuleto diventa più pesante e la sua presenza 
+infonde un misto di soggezione, paura e rive-
+renza nei confronti del portatore.
+Aura di Supremazia. Mentre indossi il pen -
+dente, emani un’aura di supremazia entro un 
+raggio di 9 metri. Gli alleati all’interno dell’au-
+ra ottengono vantaggio ai tiri salvezza contro 
+l’essere affascinati o spaventati.
+Presenza Dominante. Acquisisci competenza 
+nell’abilità Intimidire. Inoltre, quando effet -
+tui una prova di Intimidire, puoi aggiungere il 
+doppio del tuo bonus di competenza alla prova 
+invece del tuo normale bonus di competenza.
+Autorità Divina. Una volta per riposo lungo, 
+come azione, puoi attivare la capacità di Auto-
+rità Divina. Per 1 minuto, la tua voce acquisisce 
+l’autorità del dio-tiranno e ottieni vantaggio 
+alle prove di caratteristica basate sul Carisma 
+e ai tiri salvezza.
+Favore di Garod. Come reazione, quando tu 
+o un alleato entro 9 metri fallisce un tiro sal-
+vezza, puoi usare il tuo favore di Garod per 
+effettuare un altro tiro.
+Zahalthiel’thaqas’hal (Armatura del 
+Conquistatore Infernale in linguaggio 
+divino)
+Armatura (mezza a piastre), leggendaria, 
+richiede sintonia
+L’Armatura del Conquistatore Infernale è un 
+oscuro capolavoro di piastre nere in ossidiana 
+che emana un’aura di puro terrore. L’armatura 
+si adatta perfettamente alla forma di chi la 
+indossa ed è puntellata di spuntoni aguzzi. Le 
+incisioni sulle piastre raffigurano scene di con-
+quista, sottomissione e dominio legate al dogma 
+del dio-tiranno, mentre il suo elmo è dotato di 
+una visiera grottesca che conferisce agli occhi 
+di chi lo indossa un bagliore rosso decisamente 
+sinistro...
+Classe Armatura: 21 + modificatore di Destrez-
+za (massimo 2)
+Resistenza Divina. L’armatura garantisce van-
+taggio sui tiri salvezza contro incantesimi ed 
+effetti magici.
+Presenza Tirannica. Una volta per riposo lun-
+go, come azione, puoi attivare la Presenza Ti-
+rannica. Per 1 minuto, la tua presenza diventa 
+opprimente e le creature ostili entro 9 metri 
+subiscono svantaggio ai tiri per colpirti. Inoltre, 
+qualsiasi creatura che inizi il suo turno entro 9 
+metri da te deve effettuare un tiro salvezza su 
+Saggezza (CD pari al tuo modificatore di Carisma 
++ il tuo bonus di competenza) o essere spaven-
+tata fino all’inizio del suo turno successivo.
+
+
+===== PAGE 26 =====
+26
+Eneli: Giudice dei Mondi 
+Medio Celestiale, legale neutrale
+La natura celestiale di Eneli ha trionfato, tra-
+sformandola in una risoluta guardiana della leg-
+ge e dell’ordine. Dotata di un potente equipag-
+giamento appositamente forgiato da Halthea, 
+quella che fino a pochi istanti prima era una 
+timida e impacciata fanciulla giunge ad incar-
+nare la giustizia nella sua forma più inflessibile. 
+Eneli dispiega maestose ali piumate, ergendosi 
+suprema e intoccabile nel suo ruolo di Giudice 
+dei Mondi. Ogni fibra del suo corpo è ora volta 
+alla difesa della giustizia e a purgare il mondo 
+dalle forze del caos e non importa se questa 
+guerra santa causerà la morte di innumerevoli 
+innocenti.
+Classe Armatura. 24 (armatura naturale)
+Punti Ferita. 400 (32d8 + 256)
+Velocità. 12 m, volare 18 m
+Tiri salvezza: Destrezza +13, Cos +14, Sag +13, 
+Car +17
+Abilità: Intuizione +13, Percezione +13, Per -
+suasione +17
+Resistenze ai Danni: Necrotico, radiante, ve-
+leno; Contundenti, perforanti e taglienti da 
+attacchi non magici.
+Immunità alle condizioni: affascinato, avvele-
+nato, esausto, spaventato
+Sensi: Scurovisione 36 m, Percezione passiva 23
+Linguaggi: Tutti, telepatia 36 m
+Sfida: 23 (50.000 PE)
+Incantesimi Divini: La caratteristica da incan-
+tatore di Eneli è il Carisma (tiro salvezza degli 
+incantesimi CD 25, +17 al tiro per colpire degli 
+attacchi con incantesimo). Può lanciare in modo 
+innato i seguenti incantesimi, senza richiedere 
+componenti materiali:
+A volontà: individuazione del magico, oscurità
+3/giorno ognuno: punizione sacra, palla di fuo-
+co, dissolvi magie
+1 giorno ognuno: esilio, disintegrazione, dito 
+della morte
+Resistenza magica. Eneli ottiene vantaggio ai 
+tiri salvezza contro incantesimi e altri effetti 
+magici.
+ FOR DES COS INT SAG CAR
+ 26 (+8) 22 (+6) 24 (+7) 20 (+5) 22 (+6) 30 (+10)
+Aura Divina. Eneli emana un’aura di energia di-
+vina entro un raggio di 9 metri. All’inizio di ogni 
+suo turno, ogni creatura a sua scelta nell’aura 
+subisce 7 (2d6) danni radianti. Una creatura 
+che gode di copertura totale da Eneli non ne 
+è influenzata.
+Colpi Divini. Gli attacchi con le armi di Eneli 
+sono intrisi di energia divina. I suoi attacchi 
+con armi da mischia infliggono 7 (2d6) danni 
+radianti aggiuntivi.
+AZIONI
+Multiattacco. Eneli effettua due attacchi con 
+Castigo di Halthea.
+Castigo di Halthea. Attacco con Arma da Mi -
+schia: +15 al tiro per colpire, portata 1,5 m, un 
+bersaglio. Colpito: 15 (2d8 + 8) danni taglienti 
+più 7 (2d6) danni da forza. Vedi anche le pro -
+prietà speciali dell’arma.
+AZIONI BONUS
+Comando Divino (3/giorno). Eneli impartisce 
+un comando, prendendo di mira una creatura 
+entro 18 metri e costringendola a effettuare un 
+tiro salvezza su Saggezza CD 25. In caso di tiro 
+salvezza fallito, la creatura è affascinata e deve 
+eseguire i comandi di Eneli per 1 minuto. La 
+creatura affascinata può ripetere il tiro salvezza 
+alla fine di ciascuno dei suoi turni, terminando 
+l’effetto in caso di successo.
+REAZIONI
+Scudo Divino Reattivo. Eneli può invocare uno 
+scudo di energia divina, concedendole un bonus 
+di +5 alla CA fino all’inizio del suo prossimo 
+turno. Inoltre, qualsiasi creatura che colpisce 
+Eneli con un attacco in mischia subisce 18 (4d8) 
+danni radianti.
+
+
+===== PAGE 27 =====
+27
+AZIONI LEGGENDARIE
+Eneli può effettuare 3 azioni leggendarie, sce-
+gliendo tra le opzioni seguenti. È possibile uti-
+lizzare solo un’opzione di azione leggendaria 
+alla volta e solo alla fine del turno di un’altra 
+creatura. Eneli recupera le azioni leggendarie 
+spese all’inizio del proprio turno.
+Luce Curativa. Eneli incanala la sua energia 
+divina per curare se stessa o un alleato entro 9 
+metri. Il bersaglio recupera 4d10 punti ferita.
+Colpo Divino. Eneli attacca con Castigo di Hal-
+thea.
+Presenza Difensiva. Eneli irradia un’aura di 
+protezione, concedendo a se stessa e a tutti gli 
+alleati entro 9 metri un bonus di +2 alla CA fino 
+all’inizio del proprio turno successivo.
+Splendore Accecante (Costa 3 Azioni). Eneli 
+rilascia un’esplosione di radiosità accecante 
+in un raggio di 18 metri centrato su se stessa. 
+Ogni creatura in quell’area deve effettuare un 
+tiro salvezza su Costituzione CD 25 o rimanere 
+accecata per 1 minuto.
+Equipaggiamento:
+Vylthara Zephyr’nathal (Castigo di 
+Halthea in linguaggio divino)
+Arma (spada lunga), leggendaria, richiede 
+sintonia
+La lama Castigo di Halthea è forgiata in scintil-
+lante metallo celeste, la cui lama è immersa in 
+un bagliore etereo che sembra attingere luce 
+dalle stelle. L’elsa, sebbene disadorna, offre 
+una presa salda a chi la impugna. La spada 
+ronza di energia e ogni suo colpo ribadisce il 
+peso del giudizio divino di Halthea, punendo 
+severamente chiunque osi sfidare i sacri principi 
+della legge e dell’ordine.
+Esorcizzare l’Arma: Pronunciando il vero nome 
+del Castigo di Halthea al contrario, entro un 
+raggio di 9 metri, i poteri dell’arma vengono 
+soppressi per una durata di 1d6+1 round. I po-
+teri dell’arma possono essere annullati solo una 
+volta al giorno.
+Danno: 2d8 taglienti
+Proprietà: Versatile (2d10)
+Colpo Punitivo. Castigo di Halthea ha il man -
+dato divino di recare giustizia sugli agenti del 
+caos. Quando colpisci una creatura di allinea -
+mento caotico con Castigo di Halthea, questa 
+infligge 2d8 danni da forza aggiuntivi. La for -
+za scatenata dalla spada risuona nel profondo 
+dell’essenza caotica, costringendo il bersaglio a 
+effettuare un tiro salvezza su Carisma CD 18. Se 
+fallisce il tiro, la creatura viene sopraffatta da 
+un’ondata di castigo divino, subendo svantaggio 
+ai tiri per colpire e alle prove di caratteristica 
+fino alla fine del suo turno successivo.
+Impatto Eterico. Castigo di Halthea sfrutta il 
+potere dell’etere, manifestandosi come un’on-
+data di forza invisibile. Quando colpisci una 
+creatura con Castigo di Halthea, questa infligge 
+2d6 danni da forza aggiuntivi, accompagnati 
+da un’onda d’urto che si propaga nell’aria. La 
+forza dell’impatto costringe inoltre il bersaglio 
+a effettuare un tiro salvezza su Forza CD 18. Se 
+fallisce il tiro, il bersaglio cade prono, incapace 
+di resistere alla forza dell’arma.
+Zerthala Rylthyr’hraeth (Armatura 
+dell’Armoniosa Bilancia in linguaggio 
+divino)
+Armatura (mezza a piastre), leggendaria, 
+richiede sintonia
+Questa armatura divina in piastre incarna 
+l’essenza di Halthea. Realizzata con metallo 
+estratto dalle profondità di Rengaria, reca in-
+cise rune di potere ed è adornata con il sigillo 
+dell’Ardita. Quando viene indossata, infonde 
+nel portatore totale dedizione alla giustizia, 
+illuminando l’ambiente circostante di una luce 
+bianca e gelida. L’Armatura dell’Armoniosa 
+Bilancia garantisce a chi la indossa vantaggio 
+contro magie e poteri in grado di influenzare la 
+mente, un’aura di giustizia in grado di aiutare 
+gli alleati e il potere di ridurre i danni una volta 
+per riposo lungo.
+Classe armatura: 22 + modificatore di destrezza 
+(massimo 2)
+Forza della Legge. Mentre indossi l’Armatura 
+dell’Armoniosa Bilancia ottieni vantaggio sui 
+tiri salvezza contro incantesimi e poteri di in-
+fluenza mentale.
+Aura di Giustizia. Come azione, puoi invocare 
+l’Aura di Giustizia, provocando l’emanazione di 
+una luce radiosa dall’armatura entro un raggio 
+di 9 metri. Gli alleati all’interno di quest’au -
+
+===== PAGE 28 =====
+28
+ra ottengono vantaggio ai tiri salvezza contro 
+magie ed effetti che tentino di spaventare o 
+affascinare. Inoltre, ogni volta che una creatura 
+inizia il suo turno all’interno dell’aura, subisce 
+10 danni da forza se è di allineamento caotico.
+Armonia delle Bilance. Una volta per riposo 
+lungo puoi usare la tua reazione per ridurre 
+della metà il danno di un attacco in arrivo. 
+Questa capacità non può essere usata contro 
+attacchi che infliggono danni da forza.
+Nirithel’marindor (Eterna Radiosità 
+dell’Armonia in linguaggio divino)
+Oggetto meraviglioso (amuleto), leggendario, 
+richiede sintonia
+L’amuleto dell’Eterna Radiosità dell’Armonia 
+simboleggia l’impegno inflessibile di Halthea 
+nel dispensare giustizia in tutti i mondi di Neb-
+varasa. La collana dell’amuleto è in acciaio ro-
+busto e disadorno, mentre il ciondolo raffigura 
+una bilancia sorretta da una lama. Il portatore 
+in sintonia con questo amuleto giunge a tra -
+scendere i limiti mortali, diventando l’incar -
+nazione vivente della punizione divina.
+Giudizio Infallibile. Ottieni vantaggio alle pro-
+ve di Saggezza (Intuizione) per individuare fal-
+sità e vedere attraverso bugie. Il tuo sguardo 
+perspicace perfora i veli dell’inganno, rivelando 
+la verità che si cela nella menzogna.
+Comando dell’Anatema. Come azione bonus, 
+puoi invocare il potere dell’amuleto per pro -
+nunciare un anatema su un bersaglio entro 18 
+metri che ha commesso atti contro l’equilibrio 
+della legge e dell’ordine. Il bersaglio deve ef-
+fettuare un tiro salvezza su Saggezza CD 17 o 
+subire svantaggio ai tiri per colpire, alle prove 
+di caratteristica e ai tiri salvezza per 1 minu -
+to. Una volta utilizzata, questa capacità non 
+può essere riutilizzata fino al prossimo sorgere 
+della luna.
+Castigo del Giudizio. Una volta per riposo lun-
+go, quando colpisci con successo una creatura 
+con un attacco con un’arma da Mischia, puoi in-
+vocare l’energia divina dell’amuleto per emet-
+tere un giudizio risoluto. Il bersaglio subisce 
+2d6 danni da forza aggiuntivi e, se il bersaglio 
+è una creatura caotica, deve superare anche un 
+tiro salvezza su Costituzione CD 17 o rimanere 
+stordito fino alla fine del suo turno successivo.
+
+
+===== PAGE 29 =====
+29
+Ghyzzman
+La Chiesa Madre di Ezakran nominò Ghyzzman vescovo di 
+Petralta con il compito preciso di eradicare le credenze ereti-
+che e compassionevoli diffusesi tra i karevi di superficie, che 
+tendono a focalizzarsi sull’aspetto legale di Garod tralascian-
+done gli aspetti più oscuri. Spinto da incrollabile devozione 
+al dio-tiranno, Ghyzzman si è servito di ogni mezzo a sua 
+disposizione per conseguire lo scopo prefissato: lanciandosi 
+in accesi dibattiti teologici, pubblicando ammonimenti pub-
+blici e invitando il Governatore a sopprimere nel sangue ogni 
+tentativo di rivolta. Questa politica di terrore ha dato i suoi 
+frutti, diffondendo paura e obbedienza tra la popolazione 
+atterrita. Baluardo di fede, Ghyzzman tende a venerare il 
+lato malvagio del dio-tiranno e nel buio del suo cuore brama 
+l’evangelizzazione forzata di tutti i reami di Neir, da ridurre 
+in catene e alla cieca obbedienza.
+Ghyzzman 
+Umanoide Medio (Karevi), legale malvagio
+Classe Armatura. 18 (armatura a piastre)
+Punti Ferita. 104 (13d8 + 39)
+Velocità. 9 m
+Tiri salvezza. Sag +9, Car +8
+Abilità. Intuizione +9, Persuasione +8, Religione 
++5
+Sensi. Scurovisione 18 m, Percezione passiva 14
+Lingue. Karevi, imperiale, infernale
+Grado sfida. 10 (5900 PE)
+Incantesimi: Ghyzzman è un incantatore di 13° 
+livello. La sua caratteristica da incantatore è 
+Saggezza (tiro salvezza degli incantesimi CD 
+17, +9 al tiro per colpire con attacchi con in -
+cantesimi). Ghyzzman ha preparato i seguenti 
+incantesimi da Chierico:
+Trucchetti (a volontà): luce, guida, taumatur-
+gia
+1° livello (4 slot): comando, infliggi ferite, 
+scudo della fede
+2° livello (3 slot):  arma spirituale, presagio, 
+blocca persone
+3° livello (3 slot): dissolvi magie, scagliare 
+maledizione, spiriti guardiani
+4° livello (3 slot): divinazione, esilio, interdi-
+zione alla morte
+5° livello (2 slot): contagio, scrutare
+6° livello (1 slot): ferire, parola di ritiro
+7° livello (1 slot): parola divina
+ FOR DES COS INT SAG CAR
+ 14 (+2) 12 (+1) 16 (+3) 10 (+0) 18 (+4) 16 (+3)
+Intervento Divino: Ghyzzman può chiedere aiu-
+to a Garod effettuando una prova di Saggezza 
+con CD 17. In caso di successo, il dio-tiranno 
+potrebbe intervenire, come ritiene appropriato 
+alla situazione. Una volta usata. questa capa -
+cità non può essere utilizzata per 1 settimana.
+AZIONI
+Mazza. Attacco con Arma da Mischia: +7 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpi-
+to: 6 (1d6 + 2) danni contundenti.
+Incanalare Divinità (2/Giorno): Ghyzzman può 
+usare Incanalare Divinità per esercitare con -
+trollo e incutere paura. Può scegliere una delle 
+seguenti opzioni:
+Atterrire l’infedele: Come azione, ogni crea-
+tura a scelta di Ghyzzman entro 9 metri da lui 
+deve effettuare un tiro salvezza su Saggezza (CD 
+17) o essere spaventata per 1 minuto. Una crea-
+tura spaventata può ripetere il tiro salvezza alla 
+fine di ciascuno dei propri turni, terminando 
+l’effetto su sé stessa in caso di successo.
+Ordine a ogni costo: Come azione, Ghyzzman 
+esibisce il simbolo di Garod e pronuncia un co-
+mando a una creatura che può vedere entro 
+9 metri da lui. Il bersaglio deve superare un 
+tiro salvezza su Saggezza (CD 17) o seguire il 
+comando di Ghyzzman nel suo turno successivo.
+Equipaggiamento. Armatura a piastre, mazza, 
+simbolo sacro, kit del sacerdote, scudo, 2 po-
+zioni di guarigione, 15 metri di corda di canapa, 
+simbolo di Garod e 100 monete d’oro.
+
+===== PAGE 30 =====
+30
+Golem di Argilla 
+Potenziato 
+Costrutto Enorme, senza allineamento
+Classe Armatura. 18 (armatura naturale)
+Punti Ferita. 210 (20d12 + 80)
+Velocità. 12 m
+Immunità ai Danni acido, veleno, psichico; con-
+tundente, perforazione e taglio da attacchi non 
+magici con armi non adamantine
+Immunità alle condizioni ammaliato, avvele-
+nato, esausto, paralizzato, pietrificato, spa -
+ventato
+Sensi Scurovisione 18 m, Percezione passiva 9
+Lingue Comprende l’elfico ma non sa parlare.
+Sfida 15 (13.000 PE)
+Furia. Ogni volta che il golem inizia il suo tur-
+no con 110 punti ferita o meno, tira un d6. Se 
+ottieni 6, il golem cade in preda alla furia. Du-
+rante ogni suo turno mentre è in furia, il golem 
+attacca la creatura più vicina che può vedere. 
+Se non c’è nessuna creatura abbastanza vici -
+na da muoversi e attaccarla, il golem attacca 
+un oggetto, con preferenza per gli oggetti più 
+piccoli di lui. Una volta che il golem è andato 
+in furia, continuerà ad esserlo finché non viene 
+distrutto o recupera tutti i suoi punti ferita.
+Armi magiche. Gli attacchi del golem sono 
+magici.
+Assorbimento acido. Quando il golem subisce 
+danni da acido, non subisce il danno e si cura 
+di un ammontare pari ai danni da acido che 
+avrebbe dovuto subire.
+Forma immutabile. Il golem è immune a tut -
+te le magie o effetti che altererebbero la sua 
+forma.
+Natura di costrutto. Il golem non ha bisogno di 
+bere, mangiare, dormire o respirare.
+Resistenza alla magia. Il golem ha vantaggio ai 
+tiri salvezza contro incantesimi ed altri effetti 
+magici.
+Resistenza Leggendaria (3/giorno). Se il golem 
+fallisce un tiro salvezza, può invece scegliere 
+di superarlo.
+AZIONI
+Multiattacco. Il golem effettua due attacchi 
+di schianto.
+Schianto. Attacco con Arma da Mischia: +12 
+al tiro per colpire, portata 3 m, un bersaglio. 
+Colpito: 29 (4d10 + 7) danni contundenti. Se il 
+bersaglio è una creatura, deve riuscire un tiro 
+salvezza di Costituzione (CD 18) o vedere i suoi 
+punti ferita massimi ridotti di un ammontare 
+pari al danno subito. Il bersaglio muore se l’at-
+tacco riduce i suoi punti ferita massimi a 0. La 
+riduzione resta finché non viene rimossa dall’in-
+cantesimo ristorare superiore o altra magia
+AZIONI LEGGENDARIE
+Il golem di argilla potenziato può effettuare 3 
+azioni leggendarie, scegliendo tra le opzioni 
+seguenti. Può compiere solo un’azione leggen-
+daria alla volta e solo alla fine del turno di 
+un’altra creatura. Il golem recupera le azioni 
+leggendarie spese all’inizio del proprio turno.
+Schianto. Il golem effettua un attacco di 
+schianto.
+Onda di Argilla (Costa 2 Azioni). Il golem scio-
+glie la sua forma di argilla, trasformandosi in 
+un’onda vorticosa di argilla contaminata che 
+si abbatte sugli avventurieri. Ogni creatura in 
+un cono di 9 metri deve effettuare un tiro sal-
+vezza su Destrezza (CD 18), subendo 42 (8d10) 
+danni contundenti e 21 (6d6) danni necrotici 
+se lo fallisce, o la metà di questi danni se lo 
+supera. L’area influenzata da questa capacità 
+diventa terreno difficile fino all’inizio del turno 
+successivo del golem.
+ FOR DES COS INT SAG CAR
+ 24 (+7) 9 (-1) 18 (+4) 3 (-4) 8 (-1) 1 (-5)
+
+===== PAGE 31 =====
+31
+Prescelto dalle Tenebre 
+Umanoide medio (Karevi), legale malvagio
+Classe Armatura. 17 (Armatura naturale) 
+Punti ferita. 58 (9d8 + 18)
+Velocità. 13,5 m
+Tiri salvezza. Des +8, For +4
+Abilità. Acrobazia +8, Furtività +8, Intuito +7, 
+Inganno +6, Storia +5
+Resistenze ai danni. Necrotico
+Sensi. Scurovisione 18m, Percezione passiva 13
+Lingue. Imperiale, karevi
+Grado sfida. 8 (3900 PE)
+Punti Ki. Il prescelto possiede una riserva 
+di 9 punti Ki che può sfruttare per le sue 
+capacità.
+Verme nell’Ombra. Il prescelto ha com-
+petenza nell’abilità Furtività, e velocità di 
+movimento aumentata di 3 metri nell’oscu-
+rità o in penombra.
+Colpo di Tenebra. Una volta per turno, il 
+prescelto può spendere punti Ki (fino a 5) 
+per infliggere danni necrotici extra pari a 
+1d4 per punto Ki speso quando colpisce un 
+bersaglio nell’oscurità.
+Sussurri nel Buio. Il prescelto ha resistenza ai 
+danni necrotici. Spendendo 2 punti Ki quando si 
+trova nell’oscurità o in condizioni di luce fioca, 
+è in grado di lanciare l’incantesimo Individua 
+Pensieri con una durata di 10 minuti usando 
+saggezza come caratteristica da incantatore.
+Sudario di Tenebre. Il prescelto può spendere 
+4 punti Ki per cambiare aspetto a piacimento, 
+apparendo come qualsiasi creatura di taglia 
+grande o inferiore mentre si trova in zone di 
+oscurità o luce fioca.
+AZIONI
+Multiattacco. Il prescelto effettua 4 attacchi 
+in mischia o a distanza.
+Pugno. Attacco Senz’Armi da Mischia:  +8 al 
+tiro per colpire, portata 1,5 m, un bersaglio. 
+Colpito: 8 (1d6 + 4) danni contundenti.
+Dardo. Attacco con Arma da Lancio: +8 al tiro 
+per colpire, gittata 3/6 metri, un bersaglio. 
+Colpito: 5 (1d4 + 4) danni perforanti.
+ FOR DES COS INT SAG CAR
+ 10 (+0) 18 (+4) 15 (+2) 12 (+1) 16 (+3) 14 (+2)
+
+
+===== PAGE 32 =====
+32
+Tumbrod il Serpente 
+Mostruosità Enorme, caotico neutrale
+Classe Armatura. 20 (armatura naturale)
+Punti Ferita. 161 (14D12 + 70)
+Velocità. 12 m, nuotare 24 m
+Abilità. Percezione +6
+Immunità al danno. Freddo, veleno
+Immunità alle condizioni. Avvelenato
+Sensi. Scurovisione 18 m, Percezione passiva 16
+Lingue. Elementale
+Grado di sfida. 11 (7.200 XP)
+Natura Acquatica. Tumbrod può respirare sia 
+in aria che acqua.
+Bestia D’assedio. Tumbrod infligge danni doppi 
+alle strutture.
+Resistenza Leggendaria (3/giorno). Se Tum -
+brod fallisce un tiro salvezza, può invece sce-
+gliere di superarlo.
+AZIONI
+Multiattacco. Tumbrod effettua un attacco di 
+schiacciamento costrittivo e un attacco di colpo 
+di coda.
+Schiacciamento Costrittivo. Attacco con Arma 
+da Mischia: +10 al tiro per colpire, portata 3 
+m, una creatura. Colpito:  21 (3d8 + 6) danni 
+contundenti e il bersaglio è afferrato (CD 18 per 
+sfuggire). Finché questa lotta non termina, il 
+bersaglio è trattenuto e il serpente marino non 
+può stritolare un altro bersaglio.
+Colpo di Coda. Attacco con Arma da Mischia: 
++10 al tiro per colpire, portata 4,5 m, tutte le 
+creature entro 3 m dal serpente marino. Col-
+pito: 17 (2d10 + 6) danni contundenti.
+Morso Velenoso. Attacco con Arma da Mischia: 
++10 al tiro per colpire, portata 3 m, una cre -
+atura. Colpito: 13 (2d6 + 6) danni perforanti 
+più 14 (4d6) danni da veleno. Il bersaglio deve 
+effettuare un tiro salvezza su Costituzione (CD 
+18), subendo 27 (8d6) danni da veleno in caso 
+di fallimento, o la metà di quei danni in caso 
+di successo.
+AZIONI DI TANA
+Al conteggio di iniziativa 20 (perdendo i pareggi 
+di iniziativa), Tumbrod intraprende un’azione 
+tana per scatenare la sua padronanza sull’am-
+biente acquatico. Il mare stesso risponde al 
+comando del serpente, creando condizioni in-
+sidiose per i suoi avversari. Tumbrod può sce-
+gliere uno dei seguenti effetti:
+Impulso del Vortice. Tumbrod provoca la for-
+mazione di un violento vortice in un raggio di 
+9 metri centrato su un punto che può vedere 
+entro 36 metri. Ogni creatura in quell’area deve 
+superare un tiro salvezza su Forza (CD 18) o 
+essere trascinata di 3 metri verso il centro del 
+vortice. Se fallisce il tiro, una creatura subisce 
+14 (4d6) danni contundenti e cade prona. Un 
+tiro salvezza riuscito dimezza il danno e pre-
+viene la caduta prona.
+Furia del Maelstrom. Tumbrod attinge alla pura 
+potenza del mare, rilasciando un’esplosione 
+d’acqua torrenziale in un cono di 18 metri. 
+Ogni creatura in quell’area deve effettuare un 
+tiro salvezza su Destrezza (CD 18), subendo 27 
+(8d6) danni da freddo se lo fallisce, o la metà 
+di quei danni se lo supera. Inoltre, le creature 
+che falliscono il tiro salvezza vengono spinte a 
+3 metri di distanza da Tumbrod.
+Richiamo degli Abissi. Tumbrod evoca l’aiuto 
+di creature acquatiche entro 1,6 km dalla sua 
+tana. Come azione di tana, può costringere ma-
+gicamente fino a tre creature amichevoli a sua 
+scelta ad arrivare nella sua posizione entro 1d4 
+round. Queste creature evocate compaiono in 
+spazi non occupati entro 18 metri da Tumbrod 
+e agiscono subito dopo nell’ordine di iniziativa.
+Vortice di Desolazione. Tumbrod sfrutta il suo 
+dominio sull’acqua, creando un vortice di di -
+struzione. Il serpente marino sceglie un punto 
+che può vedere entro 36 metri e in quel punto 
+si forma un vortice del raggio di 12 metri. Il vor-
+tice rimane per 1 minuto o finché Tumbrod non 
+usa di nuovo questa azione tana. Ogni creatura 
+che inizia il suo turno all’interno del vortice 
+deve superare un tiro salvezza su Forza (CD 18) 
+o subire 21 (6d6) danni contundenti ed essere 
+trascinata per 6 metri verso il centro. Se il tiro 
+salvezza riesce, la creatura subisce la metà dei 
+danni e non viene trascinata.
+ FOR DES COS INT SAG CAR
+ 22 (+6) 14 (+2) 20 (+5) 10 (+0) 14 (+2) 12 (+1)
+
+===== PAGE 33 =====
+33
+AZIONI LEGGENDARIE
+Tumbrod può effettuare 3 azioni leggendarie 
+per round, scegliendo tra le opzioni seguenti. 
+È possibile utilizzare solo un’opzione di azione 
+leggendaria alla volta e solo alla fine del turno 
+di un’altra creatura. Tumbrod recupera le azio-
+ni leggendarie spese all’inizio del suo turno.
+Attacco di Coda. Tumbrod effettua un attacco 
+con la coda.
+Presa Costrittiva. Tumbrod tenta di afferrare 
+una creatura a portata di mano.
+Schiocco Velenoso (Costa 2 Azioni). Tumbrod 
+effettua un attacco con morso velenoso.
+
+
+===== PAGE 34 =====
+34
+Úrudrav 
+Immondo Medio (diavolo), legale malvagio
+Úrudrav era un mortale, un tempo, un paladi-
+no di Garod votato alla tirannia. Riconoscendo 
+l’inflessibile lealtà del cavaliere, il dio-tiranno 
+decise di elevarlo a suo campione sul mondo 
+di Neir. 
+Classe Armatura: 18 (armatura a piastre)
+Punti Ferita: 135 (18d8 + 54)
+Velocità: 9 m
+Tiri salvezza. For +8, Cos +7, Sag +6
+Abilità. Intimidazione +8, Percezione +6
+Resistenze ai Danni. freddo, psichico, veleno; 
+contundente, perforante e tagliente da attacchi 
+non magici da armi non argentee
+Immunità alle condizioni. spaventato, affasci-
+nato, avvelenato
+Sensi. Scurovisione 36 m, Percezione passiva 16
+Linguaggi. Infernale, Xaan
+Grado sfida. 9 (5000 PE)
+Vista del Diavolo. Úrudrav è in grado di vedere 
+anche attraverso l’oscurità magica.
+Resistenza Magica. Úrudrav ha vantaggio ai 
+tiri salvezza contro incantesimi e altri effetti 
+magici.
+Presenza Terrificante. Ogni creatura scelta da 
+Úrudrav entro 9 metri e che sia consapevole 
+della sua presenza deve superare un tiro sal -
+vezza su Saggezza CD 15 o rimanere spaventata 
+per 1 minuto. Una creatura spaventata può ri-
+petere il tiro salvezza alla fine di ciascuno dei 
+suoi turni, terminando l’effetto su se stessa in 
+caso di successo. Se il tiro salvezza di una cre-
+atura ha successo o l’effetto per essa termina, 
+la creatura è immune alla Presenza Terrificante 
+di Úrudrav per le successive 24 ore.
+Tempra Infernale. Quando Úrudrav viene ridot-
+to a 0 punti ferita ma non viene ucciso sul col-
+po, può invece scegliere di scendere a 1 punto 
+ferita. Non può usare di nuovo questa abilità 
+finché non termina un riposo lungo.
+AZIONI
+Multiattacco. Úrudrav effettua tre attacchi: 
+due con la sua alabarda e uno con Sguardo del 
+Tiranno.
+Alabarda. Attacco con Arma da Mischia: +8 al 
+tiro per colpire, portata 3 m, un bersaglio. Col-
+pito: 9 (1d10 + 4) danni taglienti.
+Sguardo del Tiranno. Úrudrav prende di mira 
+una creatura entro 9 metri da lui. Il bersaglio 
+deve superare un tiro salvezza su Saggezza CD 
+15 o essere spaventato per 1 minuto. Il bersa-
+glio spaventato può ripetere il tiro salvezza alla 
+fine di ciascuno dei propri turni, terminando 
+l’effetto su sé stesso in caso di successo.
+Evoca Rinforzi (1/giorno). Úrudrav evoca ma-
+gicamente 2d4 diavoli barbuti o 1d6 diavoli 
+uncinati. I diavoli evocati compaiono in spazi 
+non occupati entro 18 metri dall’immondo e 
+agiscono immediatamente dopo nell’ordine di 
+iniziativa. I diavoli evocati rimangono per 1 mi-
+nuto, finché loro o Úrudrav non vengono ridotti 
+a 0 punti ferita, o finché Úrudrav non li congeda 
+usando un’azione bonus.
+REAZIONI
+Castigo infernale. Quando Úrudrav subisce dan-
+ni da una creatura entro 9 metri, può usare 
+la sua reazione per effettuare un attacco con 
+l’alabarda contro quella creatura.
+ FOR DES COS INT SAG CAR
+ 18 (+4) 14 (+2) 16 (+3) 12 (+1) 14 (+2) 18 (+4)
+
+===== PAGE 35 =====
+35
+Elara 
+Medio Umanoide (Elfo dei Boschi), Neutrale
+La giovane leader del gruppo, Elara è in con-
+tatto diretto con l’archimandrita della propria 
+enclave, da cui riceve informazioni su dove si 
+trova Eneli.
+Classe Armatura. 15 (armatura di cuoio bor -
+chiato)
+Punti Ferita. 65 (10d8 + 20)
+Velocità. 9m
+Tiri salvezza. Int +4, Sag +6
+Abilità. Natura +4, Addestrare animali +6
+Sensi. Percezione passiva 13
+Lingue. Elfico, druidico
+Grado sfida. 5 (1800 PE)
+Incantesimi. Elara è un’incantatrice di 5° li -
+vello. La sua caratteristica da incantatrice è 
+Saggezza (tiro salvezza degli incantesimi CD 14, 
++6 al tiro per colpire con attacchi con incantesi-
+mi). Elara ha preparato i seguenti incantesimi:
+Trucchetti (a volontà): artificio druidico, pro-
+durre fiamma, randello incantato
+Incantesimi di 1° livello (4 slot): cura ferite, 
+intralciare, onda tonante
+Incantesimi di 2° livello (3 slot): lama infuo-
+cata, pelle coriacea
+Incantesimi di 3° livello (2 slot): invocare il 
+fulmine, crescita vegetale
+AZIONI
+Bastone ferrato. Attacco con Arma da Mischia: 
++3 al tiro per colpire, portata 1,5 m, una crea-
+tura. Colpito: 3 (1d6) danni contundenti.
+Dardo. Attacco con Arma da Lancio: +5 al tiro 
+per colpire, gittata 6/9 m, un bersaglio. Col-
+pito: 2 (1d4) danni perforanti.
+ FOR DES COS INT SAG CAR
+ 10 (+0) 16 (+3) 14 (+2) 12 (+1) 17 (+3) 8 (-1)
+Custodi dei Segreti 
+Q
+uesti druidi elfi dei boschi provengono da una 
+vicina enclave del Circolo dei Segreti: hanno 
+intrapreso una ricerca sacra per rintracciare e 
+distruggere Eneli, la cui stessa esistenza rap -
+presenta per loro una minaccia per il delicato equilibrio di 
+Nebvarasa. Con inflessibile determinazione, i Custodi dei 
+Segreti sono pronti ad affrontare qualsiasi pericolo, anche 
+se ciò significasse perdere la vita, 
+purché muoiano al servizio del 
+Fuoco Segreto e dell’equilibrio 
+cosmico.
+Tutti e quattro i Custodi 
+dei Segreti condividono i 
+seguenti privilegi di classe:
+Fuoco Segreto. Può spen -
+dere un uso di forma selva-
+tica per riguadagnare uno 
+slot incantesimo consu -
+mato di 1° o 2° livello.
+Percezione Arcana. 
+Può lanciare indivi-
+duazione del magico  
+come azione bonus 
+a volontà. Una 
+volta al giorno, 
+può lanciare 
+occhio arcano, 
+divinazione  
+e conoscenza 
+delle leggende 
+senza spen -
+dere uno slot 
+incantesimo.
+Uno con la 
+Fiamma.  
+Può diventare 
+immune agli 
+effetti di un 
+incantesimo o di 
+un’abilità magica 
+come reazione 
+dopo aver fallito 
+un tiro salvezza o 
+una prova di carat -
+teristica 3 volte al 
+giorno.
+
+
+===== PAGE 36 =====
+36
+Lyra 
+Medio Umanoide (Elfo dei Boschi), Caotico Neutrale
+La più giovane e agile del gruppo, Lyra si è 
+sempre dilettata nel tiro con l’arco e sarà pro-
+babilmente quella che inizierà l’attacco contro 
+gli avventurieri.
+Classe Armatura. 16 (armatura di cuoio bor -
+chiato)
+Punti Ferita. 52 (8d8 + 16)
+Velocità. 9m
+Tiri salvezza. Int +3, Sag +4
+Abilità. Religione +3, Intuito +4
+Sensi. Percezione passiva 12
+Lingue. Elfico, Druidico
+Grado sfida. 4 (1100 PE)
+Incantesimi. Lyra è un’incantatrice di 3° li -
+vello. La sua caratteristica da incantatrice è 
+Saggezza (tiro salvezza degli incantesimi CD 14, 
++6 al tiro per colpire con attacchi con incante-
+simi). Lyra ha preparato i seguenti incantesimi:
+Trucchetti (A volontà): artificio druidico, gui-
+da, spruzzo velenoso
+Incantesimi di 1° livello (4 slot): cura ferite, 
+intralciare, parola guaritrice
+Incantesimi di 2° livello (2 slot): lama infuo-
+cata, pelle coriacea
+AZIONI
+Scimitarra. Attacco con Arma da Mischia: +6 al 
+tiro per colpire, portata 1.5 m, una creatura. 
+Colpito: 7 (1d6 + 4) danni taglienti.
+Arco Corto. Attacco con Arma a Distanza: +6 al 
+tiro per colpire, gittata 24/96 m, un bersaglio. 
+Colpito: 7 (1d6 + 4) danni perforanti.
+ FOR DES COS INT SAG CAR
+ 8 (-1) 18 (+4) 14 (+2) 12 (+1) 15 (+2) 10 (+0)
+Orione 
+Medio Umanoide (Elfo dei Boschi), Neutrale
+Orione è il cugino di Elara ed è determinato a 
+dimostrare all’enclave il proprio impegno per 
+la causa. È il più forte del gruppo e si diverte 
+a dimostrare la sua abilità nel corpo a corpo.
+Classe Armatura. 17 (armatura di cuoio bor -
+chiato, Scudo di legno)
+Punti Ferita. 52 (8d8 + 16)
+Velocità. 9m
+Tiri salvezza. Int +2, Sag +4
+Abilità. Medicina +4, Sopravvivenza +4
+Sensi. Percezione passiva 12
+Lingue. Elfico, Druidico
+Grado sfida. 4 (1100 PE)
+Incantesimi. Orione è un incantatore di 3° li-
+vello. La sua caratteristica da incantatore è 
+Saggezza (tiro salvezza degli incantesimi CD 
+12, +4 al tiro per colpire con attacchi con in -
+cantesimi). 
+Orione ha preparato i seguenti incantesimi:
+Trucchetti (A volontà): artificio druidico, mor-
+sa del gelo, frusta di spine
+Incantesimi di 1° livello (4 slot): coltello di 
+ghiaccio, cura ferite, fuoco fatato
+Incantesimi di 2° livello (2 slot): pelle coria-
+cea, sfera infuocata
+AZIONI
+Scimitarra. Attacco con Arma da Mischia: +5 al 
+tiro per colpire, portata 1.5 m, una creatura. 
+Colpito: 6 (1d6 + 3) danni taglienti.
+Fionda. Attacco con Arma a Distanza: +3 al 
+tiro per colpire, gittata 9/36 m, un bersaglio. 
+Colpito: 3 (1d4 + 1) danni contundenti.
+ FOR DES COS INT SAG CAR
+ 12 (+1) 16 (+3) 14 (+2) 10 (+0) 15 (+2) 8 (+1)
+
+===== PAGE 37 =====
+37
+Zarand 
+Medio Umanoide (Elfo dei Boschi), Legale Neutrale
+Il meno convinto della missione, Zarand avverte 
+che l’impresa rischia di essere suicida: probabil-
+mente fuggirà dal combattimento non appena 
+le cose si mettono male.
+Classe Armatura. 14 (armatura di cuoio bor -
+chiato)
+Punti Ferita. 52 (8d8 + 16)
+Velocità. 9m
+Tiri salvezza. Int +3, Sag +5
+Abilità. Percezione +5, Arcano +3
+Sensi. Percezione passiva 15
+Lingue. Elfico, Druidico
+Grado sfida. 4 (1100 PE)
+Incantesimi. Zarand e è un incantatore di 3° 
+livello. La sua caratteristica da incantatore è 
+Saggezza (tiro salvezza degli incantesimi CD 
+13, +5 al tiro per colpire con attacchi con in -
+cantesimi). Zarand ha preparato i seguenti in-
+cantesimi:
+Trucchetti (A volontà): morsa del gelo, artifi-
+cio druidico, ferocia primordiale
+Incantesimi di 1° livello (4 slot): cura ferite, 
+bacche benefiche, intralciare
+Incantesimi di 2° livello (2 slot): lama infuo-
+cata, pelle coriacea
+AZIONI
+Bastone ferrato. Attacco con Arma da Mischia: 
++2 al tiro per colpire, portata 1.5 m, una crea-
+tura. Colpito: 3 (1d6) danni contundenti.
+Fionda. Attacco con Arma a Distanza: +2 al 
+tiro per colpire, gittata 9/36 m, un bersaglio. 
+Colpito: 2 (1d4) danni contundenti.
+ FOR DES COS INT SAG CAR
+ 10 (+0) 15 (+2) 15 (+2) 13 (+1) 16 (+3) 8 (-1)
+
+
+===== PAGE 38 =====
+38
+Abbraccio della 
+Tempesta 
+Arma (tridente), leggendaria (richiede sintonia)
+Abbraccio della Tempesta è un magnifico tri -
+dente in corallo imbevuto dell’essenza divina di 
+Glumdrung. Se brandita da un abile guerriero, 
+il tridente può scatenare il potere dei flutti in 
+attacchi devastanti.
+Sintonizzazione. Per sintonizzarsi con Abbrac-
+cio della Tempesta, è necessario immergere 
+l’arma nel cuore di una furiosa tempesta marina 
+e giurare fedeltà a Glumdrung.
+Maestria Nata dalla Tempesta. Una volta sin-
+tonizzato con l’arma, Abbraccio della Tempesta 
+conferisce le seguenti capacità:
+Colpi Tempestosi. Il tridente consente a chi 
+lo impugna di incanalare le energie selvagge 
+dell’oceano. Quando effettui un attacco con 
+Abbraccio della Tempesta, infligge 1d8 danni 
+da fulmine aggiuntivi. In caso di colpo critico, 
+questo danno extra è massimizzato.
+Ira delle Maree. Come azione, chi la impugna 
+può evocare l’ira delle maree attraverso il tri-
+dente, scatenando un’ondata di potere distrut-
+tivo entro un cono di 6 metri dall’arma. Tutte le 
+creature all’interno del cono devono effettuare 
+un tiro salvezza su Forza CD 18 o subire 8d10 
+danni da fulmine, se il tiro riesce, la creatura 
+subisce metà dei danni. Questa capacità può 
+essere usata una volta per lunalba.
+Resilienza del Mare. Il tridente conferisce al 
+portatore resistenza ai danni da fulmine e van-
+taggio ai tiri salvezza contro gli effetti legati 
+alle tempeste, quali essere buttato prono da 
+potenti raffiche o colpito da un fulmine.
+Impulso delle Correnti. Il portatore acquisi -
+sce competenza in Atletica e ottiene vantaggio 
+alle prove di caratteristica e ai tiri salvezza 
+relativi al nuoto e alla navigazione in ambienti 
+acquatici.
+Il Santuario di Aglilaka
+A
+ll’interno della tana di Tumbrod, il santuario 
+sommerso custodisce non solo i resti di Agli -
+laka, la Regina Sirena, ma anche uno scrigno 
+colmo di meravigliosi tesori che un tempo le 
+furono donati dallo stesso Glumdrung. Questi artefatti, ora 
+custoditi dal fiero serpente marino, raccontano del grande 
+amore tra Aglilaka e il dio dei flutti. Tra i tesori:
+
+
+===== PAGE 39 =====
+39
+Conchiglia delle Maree 
+Armoniose 
+Oggetto meraviglioso (strombo), raro, richiede sintonia
+Questa conchiglia d’oro splendidamente lavo-
+rata e lucente reca al suo interno l’essenza 
+delle armonie del mare. Quando impugnata 
+da qualcuno in sintonia con le sue proprietà 
+magiche, la conchiglia è in grado di produrre 
+potenti melodie che risuonano con le energie 
+curative dell’oceano. 
+Sintonizzazione. Per sintonizzarti con la Con-
+chiglia delle Maree Armoniose devi trascorrere 
+un riposo breve immerso nell’acqua salata men-
+tre ti concentri sulle armonie della conchiglia.
+Melodie risonanti. Come azione, mentre im -
+pugni la conchiglia, puoi soffiarci dentro per 
+rilasciare una melodia che riecheggia in tutta 
+l’area. Gli effetti della melodia dipendono dalla 
+tua intenzione:
+Melodia curativa. Tutti gli alleati entro un rag-
+gio di 9 metri da te recuperano punti ferita pari 
+a 2d8 + il tuo modificatore di Carisma (minimo 
+1). Questa capacità può essere usata una volta 
+per riposo lungo.
+Melodia rilassante. Tutte le creature alleate 
+entro un raggio di 9 metri da te ottengono 
+vantaggio ai tiri salvezza su Saggezza contro 
+l’essere spaventate o affascinate per 1 ora. 
+Questa capacità può essere usata una volta per 
+riposo breve.
+Melodia d’Evocazione. Puoi lanciare l’incan -
+tesimo evoca animali (come se usassi uno slot 
+incantesimo di 3° livello) per evocare una o 
+più creature acquatiche il cui numero di dadi 
+vita sia pari a 8 o inferiore. Le creature ap -
+paiono entro 18 metri e sono amichevoli con 
+te e i tuoi alleati, obbedendo ai tuoi comandi 
+verbali. Questa capacità può 
+essere usata una volta per 
+riposo lungo.
+Gli effetti delle melodie 
+risonanti non possono 
+sovrapporsi. Ad esem-
+pio, se hai già usato la 
+melodia curativa, non 
+puoi usare la melodia 
+calmante finché non 
+completi un lungo riposo.
+Lacrime dell’Abbraccio 
+del Mare 
+Oggetto meraviglioso (sfere), raro
+Le Lacrime dell’Abbraccio del Mare sono venti 
+sfere luccicanti sospese al soffitto del santua -
+rio sommerso. Ogni sfera contiene una medusa 
+bioluminescente che rischiara il santuario som-
+merso di splendore ultraterreno. Queste sfere 
+possiedono potenti proprietà magiche legate 
+alle energie curative dell’oceano.
+Esplosione Curativa. Quando vengono fran -
+tumate o disperse, le Lacrime dell’Abbraccio 
+del Mare rilasciano un’esplosione di energia 
+rigenerante che sommerge l’area di radiosità 
+lenitiva. Gli effetti dipendono dall’intenzione 
+di chi le utilizza:
+Impulso Curativo. Tutte le creature entro un 
+raggio di 9 metri centrato sulla sfera frantuma-
+ta recuperano punti ferita pari a 2d8 + il tuo 
+modificatore di Saggezza (minimo 1).
+Radianza Purificante. Tutte le creature entro 
+un raggio di 9 metri centrate sulla sfera frantu-
+mata sono guarite da malattie e veleni.
+Le sfere possono essere utilizzate una sola vol-
+ta. Distrutta la sfera, la medusa al suo interno 
+evapora e si disperde nell’aria.
+
+
+===== PAGE 40 =====
+40
+Corona del Dominio 
+Acquatico 
+Oggetto meraviglioso (corona), molto raro, richiede sintonia
+La Corona del Dominio Acquatico è un magnifico 
+copricapo ornato da intricati intagli, sapiente-
+mente realizzato con corallo raro e impreziosito 
+da perle preziose.
+Sintonizzazione. Per sintonizzarti con la Co -
+rona del Dominio Acquatico, devi indossarla 
+e completare un riposo lungo immerso nelle 
+acque di una baia.
+Dominio Acquatico. La Corona del Dominio Ac-
+quatico conferisce al portatore diverse abilità 
+straordinarie:
+Comando delle maree. Chi la indossa ottiene 
+il controllo delle maree e può usare un’azione 
+per evocare o calmare le correnti oceaniche 
+entro un raggio di 18 metri. Questa capacità 
+può essere usata una volta per riposo breve e 
+consente di creare piccoli vortici, reindirizzare 
+il flusso dell’acqua o creare una breve ondata 
+di marea. Gli effetti non sono dannosi e pos -
+sono essere utilizzati per scopi di navigazione, 
+creando diversivi o aiutando a nuotare.
+Adattamento Acquatico. Indossandola ottie -
+ni la capacità di respirare sia aria che acqua 
+senza sforzo. Puoi nuotare liberamente attra-
+verso acque turbolente senza impedimenti o 
+bisogno di aria, e puoi parlare e comprendere 
+l’elementale.
+Resilienza dell’Oceano. Mentre indossi la Coro-
+na del Dominio Acquatico ottieni vantaggio sui 
+tiri salvezza contro gli effetti legati all’acqua, 
+come essere trattenuto da creature acquati -
+che o essere influenzato da incantesimi come 
+controllare acqua. Inoltre ottieni resistenza ai 
+danni da freddo.
+Maestà dei Mari. La tua presenza trasuda la 
+maestosità dell’oceano. Ottieni vantaggio alle 
+prove di Carisma (Persuasione) effettuate quan-
+do interagisci con creature acquatiche.
+La Corona del Dominio Acquatico è un poten -
+te artefatto profondamente legato alla magia 
+dei flutti. I suoi poteri possono essere sfruttati 
+solo da coloro che mostrano vero rispetto per 
+il mondo acquatico e i suoi abitanti. Qualsiasi 
+tentativo di utilizzare la corona per fini egoistici 
+o distruttivi può portare alla perdita dei suoi 
+poteri fino a quando chi la indossa non espierà 
+e dimostrerà ancora una volta il proprio legame 
+con il dominio di Glumdrung.
+
+
+===== PAGE 41 =====
+LEGAL INFORMATION
+Permission to copy, modify and distribute the files collectively 
+known as the System Reference Document 5.1 (“SRD5”) is 
+granted solely through the use of the Open Gaming License, 
+V ersion 1.0a.
+This material is being released using the Open Gaming 
+License V ersion 1.0a and you should read and understand the 
+terms of that license before using this material.
+The text of the Open Gaming License itself is not Open 
+Game Content. Instructions on using the License are pro -
+vided within the License itself.
+The following items are designated Product Identity, as 
+defined in Section 1(e) of the Open Game License V ersion 
+1.0a, and are subject to the conditions set forth in Section 7 
+of the OGL, and are not Open Content: Dungeons & Dra-
+gons, D&D, Player’s Handbook, Dungeon Master, Monster 
+Manual, d20 System, Wizards of the Coast, d20 (when used 
+as a trademark), Forgotten Realms, Faerûn, proper names 
+(including those used in the names of spells or items), places, 
+Underdark, Red Wizard of Thay, the City of Union, Heroic 
+Domains of Ysgard, Ever- ‐- Changing Chaos of Limbo, 
+Windswept Depths of Pandemonium, Infinite Layers of the 
+Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, 
+Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal 
+Battlefield of Acheron, Clockwork Nirvana of Mechanus, 
+Peaceable Kingdoms of Arcadia, Seven Mounting Heavens 
+of Celestia, Twin Paradises of Bytopia, Blessed Fields of 
+Elysium, Wilderness of the Beastlands, Olympian Glades of 
+Arborea, Concordant Domain of the Outlands, Sigil, Lady 
+of Pain, Book of Exalted Deeds, Book of Vile Darkness, 
+beholder, gauth, carrion crawler, tanar’ri, baatezu, displa -
+cer beast, githyanki, githzerai, mind flayer, illithid, umber 
+hulk, yuan- ‐-ti.
+All of the rest of the SRD5 is Open Game Content as 
+described in Section 1(d) of the License.
+The terms of the Open Gaming License V ersion 1.0a 
+are as follows:
+OPEN GAME LICENSE V ersion 1.0a
+The following text is the property of Wizards of the 
+Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a)”Contributors” means  the copyright 
+and/or trademark owners who have contributed Open Game 
+Content; (b)”Derivative Material” means copyrighted mate-
+rial including derivative works and translations (including 
+into other computer languages), potation, modification, 
+correction, addition, extension, upgrade, improvement, 
+compilation, abridgment or other form in which an exi -
+sting work may be recast, transformed or adapted; (c) “Distri-
+bute” means to reproduce, license, rent, lease, sell, broadcast, 
+publicly display, transmit or otherwise distribute; (d)”Open 
+Game Content” means the game mechanic and includes the 
+methods, procedures, processes and routines to the extent 
+such content does not embody the Product Identity and is an 
+enhancement over the prior art and any additional content 
+clearly identified as Open Game Content by the Contribu-
+tor, and means any work covered by this License, including 
+translations and derivative works under copyright law, but 
+specifically excludes Product Identity. (e) “Product Identity” 
+means product and product line names, logos and identi -
+fying marks including trade dress; artifacts; creatures cha -
+racters; stories, storylines, plots, thematic elements, dialogue, 
+incidents, language, artwork, symbols, designs, depictions, 
+likenesses, formats, poses, concepts, themes and graphic, 
+photographic and other visual  or audio representations; 
+names and descriptions of characters, spells, enchantments, 
+personalities, teams, personas, likenesses and special abili -
+ties; places, locations, environments, creatures, equipment, 
+magical or supernatural abilities or effects, logos, symbols, or 
+graphic designs; and any other trademark or registered trade-
+mark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open 
+Game Content; (f) “Trademark” means the logos, names, 
+mark, sign, motto, designs that are used by a Contributor 
+to identify itself or its products or the associated products 
+contributed to the Open Game License by the Contributor (g) 
+“Use”, “Used” or “Using” means to use, Distribute, copy, edit, 
+format, modify, translate and otherwise create Derivative 
+Material of Open Game Content. (h) “You”or “Your” means 
+the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game 
+Content that contains a notice indicating that the Open 
+Game Content may only be Used under and in terms of this 
+License. You must affix such a notice to any Open Game Con-
+tent that you Use. No terms may be added to or subtracted 
+from this License except as described by the License itself. 
+No other terms or conditions may be applied to any Open 
+Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game 
+Content You indicate Your acceptance of the terms of this 
+License.
+4. Grant and Consideration: In consideration for agreeing 
+to use this License, the Contributors grant You a perpetual, 
+worldwide, royalty- ‐-free, non- ‐- exclusive license with the 
+exact terms of this License  to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are 
+contributing original material as Open Game Content, You 
+represent that Your Contributions are Your original creation 
+and/or You have sufficient rights to grant the rights conveyed 
+by this License.
+6. Notice of License Copyright: You must update the 
+COPYRIGHT NOTICE portion of this License to include the 
+exact text of the COPYRIGHT NOTICE of any Open Game 
+
+===== PAGE 42 =====
+Content You are copying, modifying or distributing, and 
+You must add the title, the copyright date, and the copyright 
+holder’s name to the COPYRIGHT NOTICE of any original 
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any 
+Product Identity, including as an indication as to compati-
+bility, except as expressly licensed in another, independent 
+Agreement with the owner of each element of that Pro -
+duct Identity. You agree not to indicate compatibility or co- 
+‐-adaptability with any Trademark or Registered Trademark 
+in conjunction with a work containing Open Game Content 
+except as expressly licensed in another, independent Agre-
+ement with the owner of such Trademark or Registered 
+Trademark. The use of any Product Identity in Open Game 
+Content does not constitute a challenge to the ownership 
+of that Product Identity. The owner of any Product Identity 
+used in Open Game Content shall retain all rights, title and 
+interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content 
+You must clearly indicate which portions of the work that 
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents 
+may publish updated versions of this License. You may use 
+any authorized version of this License to copy, modify and 
+distribute any Open Game Content originally distributed 
+under any version of this License.
+10. Copy of this License: You MUST include a copy of 
+this License with every copy of the Open Game Content 
+You Distribute.
+11. Use of Contributor Credits: You may not market or 
+advertise the Open Game Content using the name of any 
+Contributor unless You have written permission from the 
+Contributor to do so.
+12. Inability to Comply: If it is impossible for You to 
+comply with any of the terms of this License with respect to 
+some or all of the Open Game Content due to statute, judicial 
+order, or governmental regulation then You may not Use any 
+Open Game Material so affected.
+13. Termination: This License will terminate automati-
+cally if You fail to comply with all terms herein and fail to cure 
+such breach within 30 days of becoming aware of the breach. 
+All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held 
+to be unenforceable, such provision shall be reformed only 
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of 
+the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards 
+of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, 
+Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, 
+Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve 
+Townshend, based on original material by E. Gary Gygax 
+and Dave Arneson.
+END OF LICENSE
+A 
+ovest della Baia di Redoro, nel fitto di una selva di alberi-fungo, 
+la caduta di una meteora genera un ampio cratere. Tra la nube 
+di cenere gli avventurieri scoprono Eneli, una fanciulla di 
+lignaggio celestiale e immondo, nata dall’amore proibito tra 
+un angelo e un diavolo. Ora, divinità e fazioni rivali la bramano per i suoi straor-
+dinari poteri. La stessa esistenza della “Sacra Bestia” pone gli avventurieri davanti 
+una serie di dilemmi morali. Potranno scegliere di arrendersi alla violenza dei 
+Prescelti dalle Tenebre, elevarla a Giudice dei Mondi, distruggerla o affidarla alla 
+guida del Saggio della Montagna, un misterioso e potente eremita. In un susse-
+guirsi di colpi di scena, le loro scelte plasmeranno il corso della Guerra Celeste 
+e il futuro stesso di Nebvarasa.
+
+===== PAGE 43 =====
+A 
+ovest della Baia di Redoro, nel fitto di una selva di alberi-fungo, 
+la caduta di una meteora genera un ampio cratere. Tra la nube 
+di cenere gli avventurieri scoprono Eneli, una fanciulla di 
+lignaggio celestiale e immondo, nata dall’amore proibito tra 
+un angelo e un diavolo. Ora, divinità e fazioni rivali la bramano per i suoi straor-
+dinari poteri. La stessa esistenza della “Sacra Bestia” pone gli avventurieri davanti 
+una serie di dilemmi morali. Potranno scegliere di arrendersi alla violenza dei 
+Prescelti dalle Tenebre, elevarla a Giudice dei Mondi, distruggerla o affidarla alla 
+guida del Saggio della Montagna, un misterioso e potente eremita. In un susse-
+guirsi di colpi di scena, le loro scelte plasmeranno il corso della Guerra Celeste 
+e il futuro stesso di Nebvarasa.

@@ -1,47 +1,28 @@
 # Mutamorpho (Shapeshifter)
 
-I Mutamorpho possono cambiare la forma del loro corpo come desiderano. La capacità può essere congenita, ottenuta attraverso mutazioni magiche o alchemiche, o derivata da patti con altre creature. I nuovi Mutamorpho sembrano i tipici membri della loro stirpe, ma col tempo possono cambiare apparenza e fisiologia in molti modi. Alcuni cambiano completamente il colore della pelle, altri acquisiscono zanne affilate, artigli, ali, tentacoli, occhi aggiuntivi o arti.
+I mutamorpho sono creature che possono cambiare la loro forma fisica. Che siano nati con questa capacità, l'abbiano ottenuta come risultato di un'arte magica o di una maledizione, o l'abbiano ricevuta da un'entità ultraterrena, i mutamorpho hanno un rapporto unico con la loro identità. Poiché i mutamorpho possono trasformarsi in qualsiasi stirpe—un momento vivendo come un piccolo e agile fatato e il successivo come un grande e robusto galapa—le loro esperienze con il mondo esterno possono variare notevolmente da un giorno all'altro.
 
-Le storie descrivono molte Mutamorpho dotate di agilità aumentata, resistenza alle ferite o anche immunizzazione al dolore, ma molti sperimentano la perdita di controllo durante le trasformazioni e difficoltà a mantenere la propria identità mentre assumono caratteristiche inaspettate o pericolose. Un Mutamorpho può cambiare la propria forma per adattarsi a una situazione specifica, ma alcuni si ritrovano a fare cambiamenti più drastici: diventare selvaggi e instabili, o fondersi completamente con i corpi di creature che mangiano.
+Sebbene un mutamorpho sia tipicamente indistinguibile da un altro membro della stirpe in cui si trasforma, ogni mutamorpho ha una caratteristica che non cambia indipendentemente dalla sua forma, come i suoi occhi, la sua colorazione o un segno di nascita unico. Non possono inoltre imitare l'aspetto di una persona specifica, poiché diventano una versione diversa di sé in un nuovo corpo.
+
+Assumere una nuova forma non consente inoltre di avere o usare immediatamente tutte le caratteristiche della nuova forma—devono concentrare i loro sforzi sulle caratteristiche fisiche che desiderano di più usare. I mutamorpho potrebbero aver bisogno di tempo per imparare come incarnare una nuova forma, portando talvolta a un'apparenza o a un comportamento inquietante finché non si abituano al loro corpo.
 
 ---
 
 ## Domande di Trasformazione
 
-- Qual è il tuo ricordo preferito della prima volta che ti sei trasformato?
-- Un'opinione comune dice che non si può mai tornare a come eravamo prima. Come descriveresti te stesso ora rispetto a prima di questa trasformazione?
-- In quale momento hai perso la tua umanità per un attimo, e cosa è successo in quel momento?
-- Cosa è cresciuto sulla tua spalla una notte. Non sei sicuro che sia umano o animale. Cos'è, e perché pensi sia lì?
-- Hai mangiato qualcuno in una delle tue forme. Chi era, e come si sente ora?
-- Quale mostro hai visto per primo di notte, che ti ha fatto sentire il cuore battere? Cosa era, e lo hai ucciso o scacciato?
+- Credi di avere una "forma vera", ma non l'hai mai vista. Cosa pensi che sia, e come sai che è lì?
+- Quale trucco hai sviluppato per identificare altri mutamorpho?
+- Qualcuno che amavi profondamente ti ha abbandonato quando ha scoperto la tua capacità di cambiare forma. Chi era, e cosa è successo?
+- Qual è una forma che hai giurato di non assumere mai, e perché?
+- Quale stirpe vivi più delle altre? Perché trascorri così tanto tempo in questa forma?
+- Qualcuno che conosci può riconoscerti istantaneamente, indipendentemente dalla tua forma. Come affermano di identificarti e cosa significa la loro familiarità per te?
 
 ---
 
 ## Caratteristiche della Trasformazione
 
-### Cambiamento Formale (Shape Change)
-Quando segni 1 Stress, puoi segnare **d2** tra Danni Fisici o Stress. Descrivi il cambiamento che avviene al tuo corpo mentre cambi forma.
+### Cambia Forma (Change Shape)
+Durante un riposo, puoi usare un movimento di tempo libero per scambiare la tua stirpe attuale con un'altra. Quando lo fai, descrivi come cambia la tua apparenza.
 
-Puoi cambiare solo una parte del tuo corpo (ali, artigli, occhi aggiuntivi, zanne affilate), o la tua intera fisiologia e apparenza, ma non entrambi allo stesso tempo. Quando cambia solo una parte, gli altri possono richiedere un'azione per notarlo a meno che il cambiamento non sia ovvio o fatto in vista.
-
----
-
-## Possibili Cambiamenti
-
-I Mutamorpho possono sviluppare:
-- **Ali**: Per volo o equilibrio
-- **Artigli**: Per attacchi corpo a corpo aggiuntivi
-- **Occhi aggiuntivi**: Per percezione potenziata
-- **Zanne affilate**: Per morso come attacco
-- **Tentacoli**: Per presa o manipolazione
-- **Cambiamento del colore della pelle**: Per mimetismo
-- **Altre caratteristiche**: Dipende dalla narrazione
-
----
-
-## Note di Gioco
-
-- Il costo per cambiare forma è segnare 1 Stress.
-- Ogni trasformazione segna d2 tra Danni Fisici o Stress.
-- I cambiamenti parziali sono più difficili da notare; i cambiamenti completi della fisiologia sono immediatamente evidenti.
-- La perdita di controllo durante le trasformazioni è un tema narrativo importante.
+### Solo in Superficie (Only Skin Deep)
+Ottieni il beneficio di una sola delle caratteristiche della tua stirpe scelta, che selezioni quando scegli la stirpe. Puoi usare un movimento di tempo libero per scegliere una caratteristica diversa da quella stirpe.

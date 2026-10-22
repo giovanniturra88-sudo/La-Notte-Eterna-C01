@@ -1,0 +1,1403 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+3
+ 
+ 
+Grosso Guaio 
+a Varshold
+Avventura per La Notte Eterna,  
+ambientazione dark epic fantasy per 5e OGL 1.0.
+Autore avventura: Davide Carnevale
+Autore La Notte Eterna: Jason R. Forbus
+Cover: Angela Gubert, Steven Forbus
+Art Director: Steven Forbus
+Grafica e impaginazione: Gennaro De Filippis
+Mappe dungeon: Michele Dal Bo
+Grazie di cuore a Kevin Stacy, In taverna da Kurt, ASD La 
+Triade, Fortytwo APS, Paolo Mazza e Federico V eltri per aver 
+fatto piovere meteore sui tavoli da gioco di questo mondo 
+della Dimensione della Materia. 
+GDR: La Notte Eterna
+Pubblicato da MyCatPortal Lab per AliRibelli Edizioni 2024© 
+AliRibelli Edizioni, Gaeta www.aliribelli.com
+lanotteterna@aliribelli.com 
+È severamente vietata la riproduzione, anche parziale del 
+testo, effettuata con qualsiasi mezzo, senza l’espressa auto-
+rizzazione dell’Editore. 
+Questo progetto è stato finanziato su Kickstarter. Siamo 
+molto grati ai nostri backer. Un ringraziamento speciale va ai 
+Chosen of the Gods: Abdulaziz Al-Kaboor, Alberto Gervasio, 
+Alessandro Tararan, Alberto Battaglia, Andrea Propersi, Bra-
+dley Hamm, Brad Powers, Charles M. Beavers, Christopher 
+Royer, Christopher Thomas Lezer, Davide Gibin, Derren 
+Mckenna, Evan Taylor Fails, Giuseppe Angelo d’Amico, 
+Jason Cummings, Jayson Santiago, Josh Kanapkey, Joshua 
+L. Knous, Justin Gardin, Justin Joseph Lafser, Justin Offer-
+mann, Katharine Wright, Marco Carvelli, Michael Peter 
+Henry Young, Randy Marsh, Reka Reynolds, Rita Balloriani, 
+Robert Earl Barnhill, Robert Griswold, Sara Schlögl, Sean 
+Bradley, Sebastian Coulter, Seth Maxson, Stefano Chierchini, 
+Trevor Orion Nelson, Tyler Russell, William J. Mapp. 
+Manuali base:
+La Notte Eterna ambientazione 5e 
+Mostri ed Eroi 
+La Canzone di Nebvarasa 
+Avventure: 
+Accademia della Magia Profonda 
+Grosso Guaio a Varshold 
+La Bestia Sacra 
+La Morte Strisciante 
+La Tavoletta Proibita 
+L’Oscura Chiesa di Tenebris 
+Pioggia di Fuoco 
+Racconti della Notte Eterna 
+The Star Gazer
+Occhio al tombino!  
+Potresti cadere nelle grinfie de Il Rana. 
+Scansiona il codice QR in basso 
+per scaricare la mappa del dungeon:
+https://tinyurl.com/varshold
+
+
+===== PAGE 4 =====
+4
+SOMMARIO
+INTRODUZIONE.............................................................................................................. 5
+RETROSCENA................................................................................................................... 5
+SOMMARIO DELLE SCENE........................................................................................................ 6
+SCENA 1: ALLA FESTA SENZA INVITO................................................................................... 6
+BUTTAFUORI.................................................................................................................... 8
+SCENA 2: L’ASTA DELLA LUNA SMUNTA.............................................................................. 8
+LESTER............................................................................................................................... 9
+LE METEORE................................................................................................................................. 10
+SCUDO TORRE DELLA FAMIGLIA DEMURAND.................................................... 10
+LANCIA DELLA TEMPESTA.......................................................................................... 10
+ANELLO STELLARE......................................................................................................... 11
+LAMA DELL’ACROBATA................................................................................................ 11
+SCENA 3: ALLA CORTE DEL RANA.......................................................................................... 12
+SGHERRO DE IL RANA................................................................................................... 13
+SCENA 4: DIETRO LE SBARRE.................................................................................................. 14
+CAPO CARCERIERE........................................................................................................ 15
+SCENA 5: DALLA PADELLA ALLA BRACE.............................................................................. 16
+LA MANO........................................................................................................................... 17
+GUARDIA SCELTA........................................................................................................... 18
+APPENDICE: PNG, MOSTRI E OGGETTI................................................................................ 19
+IL RANA.............................................................................................................................. 19
+LA MANO........................................................................................................................... 19
+ANDHREAA....................................................................................................................... 19
+IL CONTE E LA CONTESSA DEMURAND.................................................................. 20
+GUSTAV RENDA............................................................................................................... 20
+GUERCIO............................................................................................................................ 20
+TRE SPANNE..................................................................................................................... 20
+GAMBINO.......................................................................................................................... 21
+GARLAN KAMOS............................................................................................................. 21
+LESTER LEE....................................................................................................................... 21
+GORBAHD.......................................................................................................................... 21
+
+===== PAGE 5 =====
+Introduzione
+Grosso Guaio a Varshold  è un’avventura rivolta a per -
+sonaggi di 8° livello ambientata nei sotterranei della 
+città-fortezza di Varshold, un reame della regione di 
+Xanesh, nel labirintico covo del suo più importante 
+signore del crimine, “Il Rana”. 
+L
+a Notte della Luna Smunta è una delle ricor -
+renze più rappresentative di Varshold, in cui 
+si celebra il giorno della fondazione della città 
+con festeggiamenti che durano fino al sorgere 
+della luna. Camminando per le strade in fermento, gli avven-
+turieri sentono più di una voce raccontare di una misteriosa 
+asta che si terrebbe ogni anno proprio durante la Notte della 
+Luna Smunta. A organizzarla si dice che sia nientemeno 
+che Il Rana, il criminale più importante dei bassifondi, e 
+pare che in vendita ci siano sempre articoli strabilianti. Gli 
+avventurieri potrebbero essere allettati all’idea di partecipare 
+all’evento nel sentire che a tenere l’asta sarà il famoso mer-
+cante di meteore Gorbhad, e che molti dei pezzi che saranno 
+presentati provengono direttamente dalla sua collezione. O 
+potrebbero essere incuriositi dai pettegolezzi che vogliono 
+che l’asta nasconda ben altre attrattive, per quanto nessuno 
+sappia dire con esattezza quali. Il Game Master dovrebbe 
+indirizzare i personaggi a recarsi nei bassifondi e raggiungere 
+la famigerata locanda La Vacca Gravida, dove a quanto si dice 
+è possibile avere maggiori informazioni sull’asta e trovare un 
+modo per prendervi parte.
+Retroscena
+Grosso guaio a Varshold è un’avventura d’investigazione e d’a-
+zione, in cui i personaggi dovranno dimostrare scaltrezza e 
+sangue freddo per riuscire a infiltrarsi nell’asta de Il Rana 
+e sgominare i piani criminali di quest’ultimo. I personaggi 
+potrebbero anche decidere di partecipare all’asta per puro tor-
+naconto personale, spinti dal desiderio di accaparrarsi alcuni 
+dei rari articoli messi in vendita, ma anche in questo caso, 
+non essendo tra gli invitati, dovranno fare molta attenzione 
+per non essere scoperti dagli uomini del Rana e diventare 
+mangime per lo Scolo. Il Game Master dovrebbe incoraggiare 
+i giocatori ad utilizzare l’ingegno, il dialogo e le specificità 
+dei propri personaggi, ma ciò non toglie che nel corso della 
+pericolosa missione si verranno a creare diverse occasioni da 
+cui sarà impossibile uscire senza ricorrere alla forza.
+Sui giocatori incomberà sempre l’ombra de Il Rana, il più 
+potente criminale di Varshold che, se in un primo momento 
+apparirà più come una presenza astratta di cui tutti hanno 
+paura senza averlo mai visto, avanzando nell’avventura 
+diverrà una presenza concreta e pericolosa. Il Rana sa bene 
+che l’asta può rappresentare per i suoi avversari il momento 
+perfetto per attaccare la sua organizzazione criminale, ma 
+sa altrettanto bene che mostrare il fianco di tanto in tanto 
+può rivelarsi utile, soprattutto per far uscire allo scoperto 
+nemici insospettati. Proprio per questo, se da un lato corre 
+il rischio di aprire le porte del suo covo, dall’altro aumenta 
+esponenzialmente i sistemi di controllo, affinché solo un 
+numero selezionato di invitati possa partecipare all’asta. Per 
+i personaggi la sfida iniziale sarà quindi quella di riuscire a 
+infiltrarsi all’evento senza essere scoperti, per poi decidere 
+se pensare solo ai propri interessi o rischiare la propria vita 
+per mettere fine ai piani disumani de Il Rana.
+La prima parte dell’avventura si svolgerà interamente 
+all’interno della locanda La Vacca Gravida, nel cuore dei 
+bassifondi, un luogo che è al tempo stesso un porto sicuro e 
+un covo di pericolosi tagliagole: anche i furfanti più incalliti 
+sanno che la locandiera Andhreaa non permette disordini 
+nel suo locale. La seconda parte, più lunga e pericolosa, si 
+svolgerà nelle catacombe sotterranee della città di Varshold, 
+che Il Rana ha trasformato da tempo nel proprio rifugio 
+segreto, un intricato sistema di cunicoli in cui è facile per-
+dersi, strettamente sorvegliato dagli uomini del criminale. 
+Più i personaggi andranno avanti nell’avventura, addentran-
+dosi nell’oscuro mondo criminale che si cela sotto le fonda-
+menta della città, e più il Game Master dovrà essere bravo 
+a mantenere alta la tensione, facendo sentire ai giocatori la 
+perenne paura di essere scoperti e il pericolo costante che 
+incombe sulle loro vite…
+5
+
+===== PAGE 6 =====
+6
+Sommario delle Scene
+Scena 1: Alla festa senza invito
+Dove i personaggi arrivano alla locanda La Vacca Gravida, 
+unendosi ai festeggiamenti per la Notte della Luna Smunta 
+e iniziano ad indagare. Conosceranno la variopinta clientela 
+della locanda e cercheranno di ottenere un invito per l’asta, 
+prima che questa inizi.
+Scena 2: L’asta della Luna Smunta
+Dove i personaggi partecipano all’asta, intenzionati a fare 
+qualche buon affare e scoprire qualcosa di più sui traffici 
+illegali de Il Rana. Faranno nuove conoscenze e capiranno 
+che l’onestà alle volte è la migliore offerta.
+Scena 3: Alla corte del Rana
+Dove i personaggi riescono a superare le difese de Il Rana 
+e iniziano ad esplorare il suo nascondiglio. Dovranno dare 
+fondo alle loro abilità furtive o aprirsi la strada con la spada 
+in pugno.
+Scena 4: Dietro le sbarre
+Dove i personaggi raggiungeranno le prigioni de Il Rana, o 
+perché catturati dagli sgherri del criminale, o grazie alla for-
+tuna e alla loro capacità di sopravvivere anche nelle situazioni 
+più difficili. Scopriranno il vero piano del potente criminale 
+e il marciume che si cela sotto le strade di Varshold.
+Scena 5: Dalla padella alla brace
+Dove i personaggi si ritrovano faccia a faccia con Il Rana, ad 
+un passo dalla libertà. Dovranno convincerlo con la diploma-
+zia o affrontare le conseguenze della loro intrusione.
+Conclusione: A riveder le stelle
+Dopo aver attraversato l’oscuro reame del Rana i personaggi 
+raggiungono nuovamente la superficie, portando con sé il 
+peso delle loro scelte.
+Scena 1:  
+Alla festa senza invito
+D
+urante i festeggiamenti in strada per la Notte 
+della Luna Smunta, i personaggi sono venuti 
+a conoscenza di voci insistenti: alla fine della 
+festa, al calar della luna, sotto la città si terrà 
+una fantomatica asta organizzata dal potente criminale cono-
+sciuto come Il Rana. Le voci sostengono che ogni anno ven-
+gono messi in vendita oggetti straordinari, per lo più meteore 
+che per una ragione o per un’altra non possono essere messe 
+sul mercato. Incuriositi, i personaggi si recano alla locanda La 
+Vacca Gravida, nel cuore dei bassifondi, dove hanno sentito 
+che è possibile ottenere un invito per partecipare all’asta. La 
+Vacca Gravida è una stamberga in genere frequentata solo 
+da predoni e tagliaborse, ma la festa sembra averla popolata 
+di ogni sorta di avventori: i giocatori dovranno interagire 
+con i vari clienti della locanda per riuscire ad ottenere infor-
+mazioni sull’asta e un invito per accedervi. Per fare ciò sono 
+molte le vie perseguibili:
+Parlare con Andhreaa, la burbera proprietaria del locale, 
+non si dimostrerà risolutivo, ma permetterà ai giocatori di 
+ottenere importanti informazioni sull’asta. Andhreaa è da 
+tempo in accordi con l’organizzazione de Il Rana, e conosce 
+molto bene i dettagli dell’evento. Inoltre, l’accesso segreto 
+alla sala dove si terrà l’asta si trova proprio nella cantina della 
+locanda, dietro un’enorme botte vuota. Superando una prova 
+di Persuasione (CD 20), Andhreaa darà ai personaggi gran 
+parte delle informazioni che questi stanno cercando. Il tiro 
+di Persuasione può essere abbassato in maniera proporzio-
+nale ai soldi che i personaggi spenderanno in locanda, man 
+mano che si faranno amica la proprietaria, fino a scendere 
+a un minimo di CD 15. Andhreaa spiegherà loro che per 
+accedere all’asta bisogna essere in possesso di una speciale 
+moneta d’argento raffigurante una luna. La locandiera ha 
+infatti ordine di portare in cantina, davanti all’ingresso per 
+l’asta, solo coloro che possiedono questo particolare invito. 
+La mezzorca spiegherà inoltre che la moneta non è suffi -
+ciente per accedere all’asta, e che occorre conoscere anche 
+una frase segreta: “L’albero di sangue brucerà d’oro”. Tuttavia 
+rivelerà la frase segreta ai personaggi solo nel momento in 
+cui sarà sicura di potersi fidare di loro e solo dopo aver visto 
+la loro generosità come clienti. Non accetterà invece alcuna 
+forma di corruzione: se i personaggi dovessero offrirle del 
+denaro, la locandiera lo rifiuterebbe e aumenterebbe l’ostilità 
+nei confronti dei personaggi (aumentando di 5 la difficoltà 
+delle prove di Persuasione). 
+Tra gli avventori della locanda spicca senza dubbio la 
+coppia formata dal conte e dalla contessa DeMurand. I due 
+nobili allampanati, un po’ avanti con gli anni, sono seduti 
+al bancone e osservano con morbosa curiosità e mal celato 
+ribrezzo la variegata clientela del posto. La contessa ha peren-
+nemente un fazzoletto schiacciato davanti al naso, mentre il 
+
+
+===== PAGE 7 =====
+marito sta sorseggiando un whiskey con fare più divertito. 
+I due posseggono una moneta a testa e sono a conoscenza 
+della frase segreta. Sono particolarmente interessati all’asta, 
+essendo venuti a conoscenza che tra gli articoli venduti ci 
+sarà anche un antico cimelio della loro famiglia (uno scudo 
+torre raffigurante il loro stemma nobiliare); per tale ragione 
+non cederanno mai entrambe le loro monete. I personaggi 
+possono tuttavia ricavare dalla coppia sia la frase segreta che 
+una moneta. Per ottenere la moneta occorrerà disgustare a tal 
+punto la contessa da convincerla a tornare a casa, lasciando 
+al marito il compito di concludere l’affare e recuperare lo 
+scudo. A quel punto il conte acconsentirà a cedere la moneta 
+per soldi (200 mo) o, se i giocatori dovessero riuscire a far 
+credere al conte di essere dei possibili rivali nell’acquisto 
+dello scudo, in cambio della promessa ad aiutarlo a vincere 
+l’agognato cimelio. Per ottenere dall’uomo la frase, l’unica 
+via è invece quella di farlo ubriacare: il conte dimostrerà 
+sin da subito di non reggere bene l’alcool dei bassifondi, e 
+se sollecitato a bere finirà presto per ubriacarsi, diventando 
+così molto più loquace.  
+Il modo più veloce per far sì che tutti i personaggi abbiano 
+la loro moneta è certamente quella di rivolgersi a Gustav 
+Renda. Il truffatore, infatti, dirà ai personaggi di essere 
+entrato in possesso di due monete per l’asta e che è dispo -
+sto a disfarsene per il giusto prezzo (250 mo per ciascuna 
+moneta). In realtà le monete non sono altro che delle abili 
+contraffazioni, truffa che può essere scoperta studiando i 
+modi di fare dell’uomo, con una prova di Intuizione (CD 
+15), o analizzando una delle monete, con una prova di Per-
+cezione (CD 20). I personaggi potrebbero anche decidere di 
+rischiare e acquistare le monete contraffatte, nel qual caso 
+dovranno convincere gli uomini de Il Rana di essere stati 
+ingannati e di non essere a conoscenza della truffa con una 
+prova di Inganno (CD 10). Riuscendo nell’inganno, i perso-
+naggi potranno accedere all’asta, altrimenti i buttafuori de 
+Il Rana non consentiranno loro di passare. 
+Il Guercio, insieme al suo compare Tre Spanne, ha 
+puntato i gioielli della contessa DeMurand, ed è in attesa 
+della giusta occasione per derubare l’anziana nobildonna. 
+Entrambi i criminali posseggono una moneta e conoscono la 
+parola d’ordine per accedere all’asta, e sono disposti a cedere 
+entrambe ai personaggi in cambio del loro aiuto nel furto. Più 
+i personaggi saranno utili alla riuscita del furto dei gioielli e 
+più saranno bendisposti verso di loro i due tagliaborse. Ad 
+ogni modo, a discrezione del GM, il Guercio potrebbe alla 
+fine decidere di imbrogliare i personaggi e non dare loro 
+assolutamente nulla, minacciandoli di rivelare alle autorità il 
+loro coinvolgimento nella rapina. A quel punto l’unico modo 
+per recuperare dai due malviventi le monete sarà affrontarli 
+direttamente nel vicolo dietro la locanda, dove i due si riu-
+niranno per dividersi il bottino.
+Gambino è seduto nell’angolo più isolato della locanda, 
+con i dadi poggiati sul tavolo in attesa di uno sfidante. Gene-
+ralmente squattrinato per colpa del vizio del gioco, le sue 
+ultime danze con Maskarr, il protettore dei furfanti, sono 
+state fortunate, e ora non vede l’ora di giocare a dadi tutto 
+quello che ha guadagnato. Nelle sue tasche, oltre a 150 mo, 
+frutto delle precedenti vincite, ha anche due monete per 
+l’asta, vinte in una mano fortunata. Gambino, tuttavia, non 
+sa che farsene, e le metterà come posta in gioco dopo aver 
+perso tutto l’oro. L’unico modo che i personaggi hanno per 
+ottenere le monete da Gambino è quindi giocare e vincere 
+a dadi.
+A sua discrezione, il Game Master può integrare queste 
+possibilità di ottenere le monete e la frase segreta con qualsi-
+asi altra attività che si attagli al contesto della locanda e della 
+festa, inserendo altri avventori e altre prove da superare. Una 
+volta che i personaggi saranno entrati in possesso di una 
+moneta speciale ciascuno, verranno condotti dalla locan -
+diera Andhreaa nella cantina, davanti al passaggio segreto per 
+l’asta, dove due uomini de Il Rana controlleranno le monete 
+e chiederanno loro la frase segreta. Se i personaggi dovessero 
+cercare di entrare con la forza verrebbero immediatamente 
+attaccati dai due buttafuori, che chiameranno immediata -
+mente aiuto. Dopo il secondo turno del combattimento arri-
+veranno altri 4 buttafuori a dare loro manforte.
+7
+
+===== PAGE 8 =====
+Scena 2:  
+L’asta della Luna Smunta
+D
+opo aver superato la finta botte che nasconde il 
+passaggio segreto e sceso una ripida scalinata, i 
+personaggi si troveranno nell’atrio antecedente 
+la sala dove si sta svolgendo l’asta (Area 1), dove 
+4 uomini de Il Rana chiederanno loro di lasciare le armi. 
+Con una prova di Furtività (CD 15) i personaggi potranno 
+provare a nascondere sotto i vestiti armi di taglia Piccola 
+(mentre per armi di taglia Media la CD sarà di 20). Una 
+volta che gli uomini de Il Rana saranno persuasi che tutti i 
+personaggi sono disarmati, daranno loro libero accesso alla 
+sala dove si sta tenendo l’asta (Area 2). L’ampia stanza otta-
+gonale presenta una serie di panche già gremite di persone, 
+un grosso tavolo su cui dei valletti dispongono gli articoli 
+in vendita e un piccolo pulpito per il banditore. La stanza è 
+riccamente decorata con arazzi, quadri e ricchi tessuti, ma 
+oltre ad una piccola porta sul lato sud-ovest, non presenta 
+finestre o altri possibili accessi. Ad un’occhiata più attenta 
+(Percezione, CD 10), i personaggi noteranno due grandi 
+quadri che campeggiano sulle altre decorazioni, uno subito 
+dietro il tavolo, raffigurante un uomo vestito di nero, con 
+il viso nascosto da un ampio cappuccio, e uno sul lato nord, 
+che propone una vista notturna della città di Varshold. Con 
+una prova di Percezione (CD 15) i personaggi rileveranno 
+che il grande quadro sul muro a nord presenta lungo i bordi 
+della cornice dei piccoli cardini, scoprendo in questo modo 
+il passaggio segreto verso il vero e proprio covo de Il Rana.  
+Con un risultato alla prova di Percezione di 20 o più, i gio-
+catori noteranno inoltre che gli occhi della figura ritratta nel 
+grande quadro che campeggia sul muro a ovest si muovono. 
+Il quadro consente infatti, grazie a uno spioncino, di osser-
+vare quanto accade all’interno del salone. Dietro il quadro c’è 
+nientemeno che Il Rana, che osserva il procedere dell’asta.
+Prima che l’asta inizi, i personaggi avranno il tempo di 
+conoscere gli altri ospiti dell’evento. In base a quanto accaduto 
+precedentemente in locanda potranno ritrovare entrambi i 
+nobili DeMurand o solo il conte, Gustav Renda, Guercio e 
+Tre Spanne. Tra i numerosi partecipanti all’evento spiccano 
+Garlan Kamos e Lester Lee: entrambi saranno molto curiosi 
+di conoscere i personaggi, sebbene per ragioni per molti versi 
+opposte, e se non saranno questi ultimi ad avvicinarsi, lo 
+faranno loro (sempre separatamente). Se i personaggi accen-
+neranno al fatto di aver sentito che l’asta nasconde altro, i 
+due si comporteranno in maniera molto diversa. 
+Garlan confermerà i sospetti dei personaggi, ma si terrà 
+vago, mostrando una certa diffidenza verso di loro. Il successo 
+in una prova di Inganno o Intrattenere (CD 15) aumenterà 
+la sua fiducia, facendogli rivelare di essere un investigatore 
+al servizio della guardia cittadina e di essersi infiltrato per 
+verificare che i suoi sospetti siano fondati. Rivelerà quindi 
+ai personaggi che l’asta in realtà è uno specchietto per le 
+Buttafuori 
+Umanoide Medio (Mezzorco), legale malvagio
+Classe Armatura 17 (corazza a strisce)
+Punti Ferita 58 (9d8 + 18)
+Velocità 9 m
+Abilità Atletica +5, Percezione +2
+Sensi Percezione passiva 12
+Linguaggi Gergo ladresco, Xaan
+Sfida 3 (700 PE)
+AZIONI
+Multiattacco. Il buttafuori effettua due attacchi con la 
+mazza ferrata. Se ha sfoderato una spada corta, può 
+effettuare un attacco con la spada corta.
+Mazza ferrata. Attacco con Arma da Mischia: +5 al 
+tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 
+7 (1d8 + 3) danni contundenti o 8 (1d10 +3) danni 
+contundenti se usata a due mani.
+Spada Corta. Attacco con Arma da Mischia: +5 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 6 
+(1d6 +3) danni perforanti.
+Balestra Pesante. Attacco con Arma a Distanza: +3 
+al tiro per colpire, gittata 30/120 m, un bersaglio. 
+Colpito: 6 (1d10 +1) danni perforanti.
+ FOR DES COS INT SAG CAR
+ 16 (+3) 13 (+1) 14 (+2) 10 (+0) 11 (+0) 10 (+0)
+8
+
+===== PAGE 9 =====
+allodole, un modo per nascondere il vero affare che Il Rana 
+concluderà quella notte, ovvero la vendita di un gruppo di 
+schiavi Urakian.
+Lester, viceversa, si dimostrerà molto più loquace e 
+disponibile verso i personaggi: il suo intento è quello di 
+ingannarli, convincendoli che Garlan è un noto criminale 
+in fuga e che lui si trova lì in incognito per neutralizzarlo una 
+volta per tutte. Lester è davvero un membro della guardia 
+cittadina, ma è da molti anni sul libro paga de Il Rana. La 
+guardia corrotta ha avvisato il criminale che la guardia citta-
+dina ha assoldato Garlan per indagare sui suoi traffici illeciti 
+e ha il compito di fermare l’uomo qualora la sua presenza 
+dovesse farsi troppo scomoda. Lester tuttavia è un pusil-
+lanime, e non metterebbe mai a rischio direttamente 
+la sua persona. Cercherà quindi di convincere i perso-
+naggi di aiutarlo ad assassinare Garlan, promettendo 
+loro parte della ricca taglia sulla sua testa. In ogni caso 
+Lester non agirà direttamente, tranne che nel caso non 
+si veda costretto dagli eventi. Cercherà allora di colpire 
+Garlan con un pugnale avvelenato datogli da Il Rana, 
+cercando di finirlo con un singolo colpo grazie al suo 
+attacco furtivo. 
+Lester 
+Umanoide Medio (Umano), neutrale malvagio
+Classe Armatura 12 (vesti aristocratiche)
+Punti Ferita 27 (6d8)
+Velocità 9 m
+Abilità Furtività +4, Indagare +5*, Inganno +5, Intui -
+zione +4, Percezione +6*, Persuasione +5, Rapidità di 
+Mano +4
+Sensi Percezione passiva 16
+Linguaggi Imperiale, Xaan
+Sfida 1 (200 PE)
+*lester raddoppia la sua competenza in queste abilità. 
+Azione Scaltra. A ogni suo turno, Lester può usare 
+un’azione bonus per effettuare l’azione di Scatto, Di-
+simpegno o Nascondersi.
+Attacco Furtivo. Una volta per turno, Lester infligge 
+7 (2d6) danni extra quando colpisce un bersaglio con 
+un attacco con un’arma e dispone di vantaggio al tiro 
+per colpire, oppure quando il bersaglio si trova entro 
+1,5 metri da un alleato di Lester (purché l’alleato non 
+sia incapacitato e Lester non subisca svantaggio al tiro 
+per colpire). 
+AZIONI
+Pugnale Avvelenato. Attacco con Arma da Mischia: 
++4 al tiro per colpire, portata 1,5 m, un bersaglio. 
+Colpito: 4 (1d4 + 2) danni perforanti e il bersaglio deve 
+effettuare un tiro salvezza su Costituzione con CD 15; 
+se lo fallisce subisce 10 (3d6) danni da veleno, mentre 
+se lo supera, subisce la metà di quei danni.
+ FOR DES COS INT SAG CAR
+ 10 (+2) 15 (+2) 10 (+0) 12 (+1) 14 (+2) 16 (+3)
+9
+
+===== PAGE 10 =====
+Le Meteore 
+Dopo che i personaggi avranno fatto la conoscenza con i 
+nuovi PNG, da una porticina di ferro a sud-ovest farà il suo 
+ingresso nella sala il banditore dell’asta, l’elfo Gorbahd, che 
+dopo un giro di presentazioni prenderà posto sul podio, 
+iniziando a presentare - tra oggetti artistici di valore quali 
+candelabri, antichi vasi e quadri - le seguenti meteore:
+Scudo Torre della Famiglia DeMurand
+Armatura (scudo), molto raro (richiede sintonia)
+Questo massiccio scudo a torre, adornato con lo stemma della 
+famiglia DeMurand, un guanto che stringe una rosa, pos -
+siede proprietà uniche che garantiscono protezione contro gli 
+incantesimi. Mentre impugni questo scudo, ottieni i seguenti 
+benefici:
+Assorbimento degli Incantesimi (3 volte al giorno): 
+Quando sei bersaglio di un incantesimo che richiede un tiro 
+salvezza, puoi usare la tua reazione per ottenere vantaggio 
+nel tiro salvezza. Superando il tiro salvezza non subisci danni 
+dall’incantesimo. Inoltre, se l’incantesimo avrebbe dovuto 
+infliggerti una condizione, non ne subisci gli effetti.
+Resistenza agli Incantesimi (1 volta al giorno): Come 
+azione, puoi attivare l’aura protettiva dello scudo, creando 
+una barriera scintillante di energia magica che si estende 
+entro un raggio di 3 metri. L’aura dura per 1 minuto o finché 
+non la interrompi come azione bonus. Mentre l’aura è attiva, 
+tu e qualsiasi alleato all’interno dell’aura ottenete un bonus 
+di +2 alla CA contro gli attacchi magici e resistenza ai danni 
+da incantesimi.
+Una volta utilizzate queste caratteristiche, non puoi 
+usarle di nuovo fino a quando non completi un riposo lungo.
+Lancia della Tempesta
+Arma (lancia), raro (richiede sintonia)
+Questo bastone ferrato unico nel suo genere, noto come la 
+Lancia della Tempesta, canalizza il potere del tuono e dei 
+fulmini. La lancia ha 4 cariche e recupera 1d4 cariche spese 
+a ogni lunalba. Una volta utilizzate tutte le sue cariche, la 
+lancia non è in grado di scagliare ulteriori fulmini fino alla 
+prossima lunalba. Mentre sei sintonizzato alla lancia ottieni 
+i seguenti benefici:
+Colpo Tonante: Quando colpisci una creatura con un 
+attacco corpo a corpo utilizzando la Lancia della Tempesta, il 
+bersaglio subisce 1d8 danni da tuono aggiuntivi. Inoltre, se il 
+bersaglio è una creatura o un oggetto che indossa o trasporta 
+del metallo, deve superare un tiro salvezza su Destrezza (CD 
+15) o essere spinto di 3 metri lontano da te e cadere prono.
+Lampo di Fulmini: Come azione, puoi consumare una 
+carica della Lancia della Tempesta per scagliare un potente 
+fulmine. Ogni creatura all’interno di una linea larga 1,5 metri 
+e lunga 18 metri deve effettuare un tiro salvezza su Destrezza 
+(CD 15), subendo 4d8 danni da fulmine se fallisce, o la metà 
+se lo supera.
+10
+
+===== PAGE 11 =====
+11
+Anello Stellare
+Oggetto meraviglioso (Anello), non comune (richiede sintonia)
+L’Anello Stellare è un piccolo e raffinato gioiello che rac -
+chiude l’essenza delle stelle. Quando sei sintonizzato a questo 
+anello, ottieni le seguenti abilità:
+Aura Stellare: Mentre indossi l’Anello Stellare, emetti 
+una luce tenue in un raggio di 3 metri. Questa luce non 
+richiede concentrazione e può essere attivata o disattivata 
+come azione bonus. La luce illumina fiocamente per ulteriori 
+3 metri oltre il raggio.
+Guida Stellare: Una volta al giorno, puoi usare la tua 
+azione per affidarti alle stelle. Tira un d20 e sostituiscilo a un 
+tiro per colpire, tiro salvezza o prova di abilità effettuato da 
+te o da una creatura che puoi vedere entro 9 metri. Devi deci-
+dere di usare questa abilità prima che venga effettuato il tiro.
+Lama dell’Acrobata
+Arma (spada lunga), rara (richiede sintonia)
+Questa straordinaria spada lunga, conosciuta come la Lama 
+dell’Acrobata, spicca per il manico realizzato con una funi-
+cella intrecciata. Quando sei sintonizzato con questa lama, 
+ottieni i seguenti benefici:
+Manovre Evasive: L’agilità della lama ti garantisce una 
+maggiore mobilità in battaglia. Mentre impugni la Lama 
+dell’Acrobata, hai un bonus di +2 alla tua Classe Armatura 
+contro gli attacchi di opportunità.
+Danza del Derviscio: Come azione, puoi eseguire un 
+intricato movimento di scherma, mettendo in mostra la mae-
+stria della lama. Ogni creatura a tua scelta entro un raggio 
+di 3 metri deve effettuare un tiro salvezza su Destrezza (DC 
+15) o subire 3d6 danni taglienti, o la metà di questi danni se 
+il tiro ha successo. Questa capacità può essere utilizzata una 
+volta per riposo breve o lungo.
+I nobili DeMurand sono interessati esclusivamente all’antico 
+scudo torre appartenuto alla loro famiglia. L’oggetto è in 
+realtà magico e i due anziani coniugi sono disposti a spen-
+dere una fortuna pur di accaparrarselo, arrivando a offrire 
+fino a 10.000 mo. Se i personaggi si fossero accordati con 
+loro e non rispettassero i patti, i due rinuncerebbero allo 
+scudo, ma si vendicherebbero rilanciando a tutte le offerte 
+che questi dovessero fare per le altre meteore, rendendo di 
+fatto molto più difficile e dispendioso l’ottenimento degli 
+altri oggetti. In generale il Game Master può condurre l’asta 
+come meglio crede, aggiungendo ad esempio ulteriori oggetti 
+magici a quelli proposti, in base alle necessità e ai desideri 
+dei personaggi.
+
+
+===== PAGE 12 =====
+SCENA 3:  
+ALLA CORTE DEL RANA
+Q
+ualora i personaggi, spinti dalle informazioni 
+ricevute, decidessero di proseguire nella loro 
+esplorazione, avrebbero un solo momento per 
+superare il passaggio segreto: ad asta finita, gli 
+ospiti si allontaneranno scortati dagli uomini de Il Rana, 
+lasciando la sala incustodita per qualche minuto. Un ulte -
+riore accesso è rappresentato dalla porticina di ferro sul lato 
+sud-ovest della sala, ma sarà chiusa da una complessa ser -
+ratura. Un personaggio con competenza in Scassinare e in 
+possesso degli attrezzi da scasso potrà tentare di forzare la 
+serratura effettuando una prova su Rapidità di Mano (CD 
+20). I personaggi saranno seguiti da Garlan Kamos, pronto a 
+mettersi in gioco in prima persona pur di provare che i suoi 
+sospetti sui traffici illegali sono fondati. Il gruppo potrà acco-
+glierlo o meno nei suoi ranghi: nel primo caso l’investigatore 
+condividerà con i personaggi le poche informazioni che ha 
+sull’organizzazione criminale e il suo nascondiglio, altrimenti 
+saluterà tutti frettolosamente e si muoverà autonomamente 
+per risolvere il caso. 
+Una volta lasciata la sala dove si è tenuta l’asta, i per -
+sonaggi dovranno fare maggiore attenzione ad ogni loro 
+movimento: da questo momento in poi saranno a tutti gli 
+effetti degli intrusi e non dei semplici imboscati senza invito. 
+Gli uomini de Il Rana in cui incapperanno li considereranno 
+immediatamente come nemici, e cercheranno di sbarazzarsi 
+di loro nel minor tempo possibile, richiamando più rin -
+forzi possibile. In genere lungo i cunicoli del covo girano 
+sempre pattuglie di criminali (2d6 Sgherri de Il Rana). Il 
+Game Master dovrebbe quindi incentivare uno stile di gioco 
+cauto e furtivo. Se i personaggi dovessero essere scoperti e 
+sopraffatti, tuttavia, non verrebbero uccisi: non spetta a dei 
+semplici sottoposti tale piacere. Sarebbero invece condotti 
+nelle celle del covo, in attesa che il Rana abbia il tempo di 
+occuparsi della questione. In questo caso si passerà diretta-
+mente alla Scena 4: Dietro le sbarre. 
+Area 3 - Questo lungo stanzone ha chiaramente la fun-
+zione di dormitorio. Due fila di letti occupano la maggior 
+parte dell’ambiente, e ai piedi di ognuno di essi si trova un 
+vecchio baule, con all’interno i pochi averi degli sgherri de 
+Il Rana. I personaggi troveranno nella stanza 1d4 briganti 
+addormentati, che urleranno chiedendo aiuto appena doves-
+sero accorgersi degli intrusi, per poi attaccarli immediata -
+mente.
+Area 4 - La stanza privata de La Mano si presenta come 
+un ambiente spoglio e spartano, come del resto appare anche 
+il suo proprietario. I personaggi (che sapranno di trovarsi 
+nel rifugio del braccio destro del Rana solo nel caso Garlan 
+Kamos viaggi con loro) fortunatamente non troveranno al 
+suo interno lo spietato assassino e potranno esplorare libe-
+ramente l’ambiente. Attaccate ad una rastrelliera troveranno 
+diverse armi esotiche, con cui La Mano si allena quotidiana-
+mente utilizzando dei grandi manichini di legno che cam -
+12
+
+
+===== PAGE 13 =====
+13
+peggiano al centro della stanza. Oltre a questi, l’unico altro 
+elemento presente nella stanza è un piccolo letto, composto 
+da poco più di due assi di legno affiancate.
+Area 5 - Questo piccolo ambiente funge da armeria, come 
+si evince dalle rastrelliere cariche di armi attaccate ai muri 
+e dai barili carichi di frecce e quadrelli sparsi in giro. Al 
+suo interno ci sono sempre almeno due uomini di guardia, 
+che cercheranno di suonare una campana d’allarme attaccata 
+al muro appena si accorgeranno della presenza di intrusi. I 
+personaggi dovrebbero cercare di neutralizzare le guardie 
+prima che queste riescano a dare l’allarme, per evitare l’ar -
+rivo di altri 1d6 banditi. Nell’armeria personaggi potranno 
+recuperare qualsiasi tipo di arma semplice, oltre ad alcuni 
+scudi leggeri, avendo così l’occasione di equipaggiarsi nuo-
+vamente dopo aver lasciato le proprie armi ai buttafuori. 
+Appese a dei ganci troveranno anche diverse cotte di maglia 
+annerite e delle armature di cuoio borchiato in buono stato. 
+Questi indumenti, così come gli scudi, sono decorati con lo 
+stemma de Il Rana, un anfibio stilizzato su un campo rosso, 
+e potrebbero essere utilizzati per camuffarsi da criminali e 
+riuscire a muoversi indisturbati all’interno del covo. 
+Area 6 - Questo piccolo ambiente fa da anticamera agli 
+alloggi privati de Il Rana. È sempre sorvegliato da due uomini 
+scelti, che non permetteranno a nessuno di avvicinarsi. 
+Area 7 - La stanza privata de Il Rana è resa inaccessibile 
+da una pesante porta di ottone sempre chiusa. Esiste un’u-
+nica chiave, che il criminale porta sempre con sé. Sebbene 
+la serratura sia molto complessa, un personaggio addestrato 
+a scassinare le serrature e in possesso degli attrezzi da scasso 
+può tentare di sbloccarla con una prova di Rapidità di mano 
+(CD 20). Qualsiasi tentativo di sfondare la porta (prova su 
+Forza, CD 30) sarebbe talmente rumoroso da attirare in 
+pochi istanti l’attenzione di tutti gli sgherri de Il Rana nelle 
+vicinanze. All’interno della stanza, riccamente decorata da 
+arazzi e tappeti, i personaggi potranno trovare i libri contabili 
+del criminale, scritti chiaramente in codice. Un personag -
+gio che conosce il Gergo Ladresco sarebbe però in grado di 
+decodificarlo in breve tempo, scoprendo al suo interno varie 
+annotazioni relative agli affari de Il Rana, una cifra che non 
+sembra avere nulla a che fare con estorsioni e ricavati di affari 
+clandestini. Si tratta in realtà del codice della cassaforte che Il 
+Rana tiene dietro uno degli arazzi appesi al muro. Utilizzando 
+il codice la cassaforte si aprirà, mostrando ai personaggi un 
+ricco contenuto: circa 3000 monete di platino, il ricavato 
+dell’affare che Il Rana è in procinto di chiudere nel corso 
+della Notte della Luna Smunta. Nascosto sotto un grande 
+letto a baldacchino vi è inoltre una piccola valigetta di legno, 
+contenente una decina di boccette del potente veleno creato 
+dal criminale partendo dalle secrezioni di alcune rane mor-
+tali. Il veleno se ingerito infligge 15d6 danni (tiro salvezza 
+su Costituzione, CD 20), mentre se utilizzato sulle armi 5d6 
+(Costituzione dimezza, CD 15). Dopo una decina di minuti 
+dall’irruzione dei personaggi nella stanza, un gruppo di 6 
+uomini de Il Rana si accorgerà nel corso del loro giro di ronda 
+che qualcosa non va ed entrerà per controllare.
+Sgherro de il Rana 
+Umanoide Medio (Umano), legale malvagio
+Classe Armatura 18 (armatura di cuoio borchiato)
+Punti Ferita 78 (12d8 + 20)
+Velocità 9 m
+Tiri Salvezza For +5, Des +5, Sag +2
+Abilità Atletica +5, Percezione +2
+Sensi Percezione passiva 10
+Linguaggi Gergo ladresco, Imperiale, Xaan
+Sfida 3 (700 PE)
+AZIONI
+Multiattacco. Lo sgherro de Il Rana effettua tre at -
+tacchi in mischia: due con la morning star e uno con 
+il pugnale. 
+Morning Star. Attacco con Arma da Mischia: +5 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 7 
+(1d8 +3) danni contundenti o 8 (1d10 +3) danni con-
+tundenti se usata a due mani.
+Pugnale. Attacco con Arma da Mischia: +5 al tiro per 
+colpire, portata 1,5 m o gittata 6/18 m, un bersaglio. 
+Colpito: 5 (1d4 +3) danni perforanti e il bersaglio deve 
+effettuare un tiro salvezza su Costituzione (CD 15); se 
+lo fallisce subisce 10 (3d6) danni da veleno, mentre se 
+lo supera, subisce la metà di quei danni.
+ FOR DES COS INT SAG CAR
+ 16 (+3) 16 (+3) 14 (+2) 14 (+2) 11 (+0) 16 (+2)
+
+
+===== PAGE 14 =====
+Scena 4: Dietro le sbarre
+L
+a scena inizierà dal momento in cui i personaggi 
+raggiungeranno le prigioni del covo del Rana, 
+sia che essi vi siano condotti con la forza dopo 
+essere stati sconfitti dagli uomini del criminale, 
+sia che raggiungano il posto in autonomia durante la loro 
+esplorazione.
+Area 8 – Solamente quattro celle disposte lungo uno 
+stretto cunicolo illuminato dalle torce compongono le pri-
+gioni del Rana: gli ospiti dello spietato criminale raramente 
+sopravvivono a lungo. Le celle attualmente sono infatti tutte 
+vuote, e verranno utilizzate per imprigionare i personaggi nel 
+caso questi dovessero avere la peggio in uno scontro con gli 
+uomini del Rana. Se i personaggi dovessero essere rinchiusi 
+nelle celle, venendo privati di tutti i loro averi, verrebbero 
+raggiunti dopo un po’ di tempo da Garlan Kamos, che por-
+terà loro una spada corta e un prezioso grimaldello (che lui 
+non è in grado di usare). Se invece Garlan fosse insieme ai 
+personaggi al momento della cattura, riuscirà comunque a 
+non far scoprire il grimaldello che porta con sé. L’investi -
+gatore proverà in ogni caso a fornire supporto al gruppo al 
+meglio delle sue possibilità, ma non farà nulla che metterebbe 
+a rischio la sua missione. 
+In fondo al cunicolo c’è la guardiola del capo carceriere, 
+una stanza dimessa con un tavolino di legno lurido e un 
+piccolo armadio. All’interno dell’armadio, con una prova di 
+Percezione (CD 10) i personaggi individueranno, tra gli averi 
+del carceriere, le chiavi delle celle. I personaggi troveranno il 
+capo carceriere addormentato, e muovendosi furtivamente 
+potranno recuperare le chiavi senza svegliarlo. Nel caso il 
+sonno profondo dell’uomo dovesse essere disturbato, questi 
+chiamerà immediatamente aiuto, facendo accorrere 6 sgherri, 
+e si scaglierà contro gli intrusi.
+14
+
+===== PAGE 15 =====
+Area 9 – Un finto muro removibile nasconde il passag-
+gio segreto che conduce alla cella degli schiavi urakian. Una 
+prova di Percezione o di Investigazione (CD 20) permet -
+terà ai personaggi di notare il passaggio segreto. Se con loro 
+è presente Garlan Kamos, quest’ultimo li avviserà di aver 
+sentito delle voci su un passaggio nascosto, consentendo ai 
+personaggi di avere vantaggio a tutti i tiri di Percezione o 
+Investigazione. Uno stretto corridoio condurrà il gruppo 
+davanti alle sbarre dell’ampia cella dove 6 urakian attendono 
+rassegnati il loro destino. Appena questi ultimi vedranno i 
+personaggi, cercheranno di attirare la loro attenzione, scon-
+giurandoli di liberarli. Racconteranno loro di essere stati 
+derubati e catturati circa una settimana prima dagli uomini 
+de Il Rana, e che saranno presto venduti al miglior offerente 
+come schiavi. I personaggi sono perfettamente a conoscenza 
+che lo schiavismo è severamente vietato a Varshold, così 
+come in gran parte dello Xanesh. 
+Finalmente venuti a conoscenza dei veri piani de Il Rana, 
+i personaggi dovranno decidere se portare con loro i pri -
+gionieri urakian o lasciarli lì. Se Garlan Kamos è con loro 
+farà di tutto per cercare di liberarli immediatamente, anche 
+affrontando direttamente il gruppo. 
+La cella in cui gli urakian sono tenuti prigionieri può 
+essere tranquillamente aperta con le chiavi del carceriere o, 
+se uno dei personaggi è competente nell’abilità di scassinare 
+e possiede gli arnesi da scasso, con una prova di Rapidità di 
+mano (CD 20). 
+Appena liberi gli urakian ringrazieranno i loro salvatori e 
+si uniranno a loro per essere condotti in superficie. Essendo 
+stremati dalla prigionia non forniranno aiuto in battaglia: 
+nel caso di scontro diretto si butteranno a terra tremanti 
+e attenderanno che la situazione torni ad essere sicura. Se 
+motivati con una prova di Persuasione (CD 15) forniranno 
+aiuto ai personaggi distraendo i malviventi con tutti i mezzi 
+a loro disposizione, permettendo così al gruppo di avere van-
+taggio sui tiri per colpire. Tuttavia gli urakian seguiranno 
+i personaggi solo fino a quando l’obiettivo principale sarà 
+quello di trovare un modo per uscire il prima possibile dal 
+covo de Il Rana. Se il gruppo dovesse decidere di tergiversare 
+o perseguire qualsiasi altro obiettivo, gli urakian smetteranno 
+di seguirli per iniziare a cercare autonomamente una via di 
+fuga, scortati da Garlan Kamos.
+Capo Carceriere 
+Umanoide Medio (Umano), legale malvagio
+Classe Armatura 15 (armatura di cuoio borchiato)
+Punti Ferita 124 (18d8 + 45)
+Velocità 9 m
+Tiri Salvezza For +7, Des +5, Cos +6
+Abilità Atletica +7, Intimidire +5
+Sensi Percezione passiva 11
+Linguaggi Gergo ladresco, Xaan
+Sfida 5 (1.800 PE)
+Bruto. Quando il Capo Carceriere colpisce con un’arma 
+da mischia, l’attacco infligge un dado extra del tipo di 
+danno dell’arma (già incluso nell’attacco).
+AZIONI
+Multiattacco. Il Capo Carceriere effettua tre attacchi 
+in mischia.
+Ascia bipenne. Attacco con Arma da Mischia: +7 al 
+tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 
+12 (1d12 +4) danni taglienti.
+Sfondamento. Attacco con Arma da Mischia: +7 al 
+tiro per colpire, portata 1,5 m, una creatura. Colpito: 
+9 (2d4 +4) danni contundenti. Se il bersaglio è una 
+creatura di taglia Media o inferiore, deve superare 
+un tiro salvezza su Forza con CD 15, altrimenti cade 
+a terra prono.
+ FOR DES COS INT SAG CAR
+ 18 (+4) 15 (+2) 16 (+3) 10 (+0) 12 (+1) 15 (+2)
+15
+
+===== PAGE 16 =====
+Scena 5:  
+Dalla padella alla brace
+S
+ia che vi arrivino autonomamente, sia che vi 
+siano condotti dagli uomini de Il Rana dopo 
+essere stati catturati, i personaggi si ritrove -
+ranno nell’ampia sala del trono del criminale. 
+Lo scranno de Il Rana campeggia sul lato est del salone, sopra 
+una serie di panche su cui sono seduti alcuni sgherri deside-
+rosi di godersi lo spettacolo, mentre un’enorme e profonda 
+fossa occupa gran parte dell’ambiente. Lo Scolo è sormontato 
+da una sottile passerella di legno, terminante in una sorta di 
+pedana rotonda più ampia. I personaggi saranno condotti 
+sulla pedana al cospetto de Il Rana, seduto sul suo trono, con a 
+lato il suo fedele luogotenente, La Mano. Sarà a tutti gli effetti 
+la prima e ultima occasione in cui i personaggi vedranno 
+con i loro occhi Il Rana (per la descrizione vedi Appendice), 
+che permetterà loro di giustificare la loro intrusione nel suo 
+covo con fare beffardo. Qualsiasi cosa i personaggi diranno 
+per convincerlo a liberarli sarà inutile, Il Rana è un mae -
+stro degli inganni e dei sotterfugi, e non presterà la minima 
+attenzione alle loro parole. Con un elegante gesto della mano 
+farà scattare un meccanismo, facendo precipitare il gruppo 
+nello Scolo, costringendo i prigionieri a lottare per salvarsi 
+la vita. Questa fossa con le pareti alte 9 metri (3d6 danni 
+da caduta) ospita al suo interno due formidabili mostri in 
+simbiosi tra loro: una amalgama mostruosa di Lanie, con il 
+corpo di serpente e la testa di rospo, e un hantu loggok (per 
+entrambi vedi Mostri ed Eroi). Le due creature hanno impa-
+rato a convivere e lottare insieme, istintivamente si aiutano 
+tra loro e cercheranno di eliminare per primi i personaggi 
+maggiormente feriti quando possibile. Le pareti dello Scolo 
+sono ricoperte di una sostanza viscida e melmosa, che rende 
+molto difficile i tentativi di scalarle senza supporti adeguati 
+(CD 20). 
+Se i personaggi saranno in grado di sconfiggere i mostri, 
+Il Rana inizierà a trattarli con più rispetto, benché il suo 
+cervello starà già lavorando per trovare un modo per farli 
+passare dalla sua parte e utilizzarli. Chiederà loro se sono 
+interessati a entrare nella sua guardia personale, cercando di 
+blandirli con una paga allettante, e alla fine concederà loro di 
+avere salva la vita e di lasciare incolumi il suo covo, a patto 
+però di lasciare indietro gli schiavi urakian. Se i personaggi 
+accetteranno, verranno scortati fino all’accesso delle fogne, 
+lasciando a loro l’onere di trovare una via per uscire in super-
+ficie. Se invece il gruppo dovesse rifiutarsi di abbandonare 
+i prigionieri, Il Rana darebbe ordine al suo luogotenente di 
+ucciderli tutti, teletrasportandosi lontano subito dopo grazie 
+ad un anello del teletrasporto che ha sempre con sé. A quel 
+punto i personaggi sarebbero costretti, dopo essere usciti 
+vivi dallo Scolo, ad affrontare La Mano e 6 uomini della 
+guardia scelta del Rana, nello scontro finale che deciderà il 
+loro destino. 
+16
+
+===== PAGE 17 =====
+La Mano 
+Umanoide Medio (Umano), legale malvagio
+Classe Armatura 17 (corazza a strisce)
+Punti Ferita 78 (12d8 + 24)
+Velocità 9 m
+Tiri Salvezza Des +6, Int +4
+Abilità Acrobazia +6, Furtività +9*, Inganno +6*, Per-
+cezione +3
+Resistenze ai Danni Veleno
+Sensi Percezione passiva 13
+Linguaggi Gergo Ladresco, Imperiale, Xaan
+Sfida 8 (3.900 PE)
+*la Mano raddoppia la sua competenza in queste abi-
+lità.
+Elusione. Se La Mano è soggetto a un effetto che gli 
+consente di effettuare un tiro salvezza su Destrezza 
+per subire danni dimezzati, non subisce alcun danno 
+se lo supera e solo metà dei danni se lo fallisce.
+Attacco Furtivo. Una volta per turno, La Mano infligge 
+14 (4d6) danni extra quando colpisce un bersaglio con 
+un attacco con un’arma e dispone di vantaggio al tiro 
+per colpire, oppure quando il bersaglio si trova entro 
+1,5 metri da un alleato della Mano (purché l’alleato 
+non sia incapacitato e La Mano non subisca svantaggio 
+al tiro per colpire). 
+AZIONI
+Multiattacco. La Mano effettua due attacchi con la 
+spada corta. 
+Spada Corta. Attacco con Arma da Mischia: +6 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 6 
+(1d6 +3) danni perforanti e il bersaglio deve effettuare 
+un tiro salvezza su Costituzione con CD 15; se lo fallisce 
+subisce 24 (7d6) danni da veleno, mentre se lo supera, 
+subisce la metà di quei danni.
+Balestra Leggera. Attacco con Arma a Distanza: +6 al 
+tiro per colpire, gittata 24/96 m, un bersaglio. Col-
+pito: 7 (1d8 +3) danni perforanti e il bersaglio deve 
+effettuare un tiro salvezza su Costituzione con CD 15; 
+se lo fallisce subisce 24 (7d6) danni da veleno, mentre 
+se lo supera, subisce la metà di quei danni.
+ FOR DES COS INT SAG CAR
+ 11 (+0) 16 (+3) 14 (+2) 13 (+1) 11 (+0) 10 (+0)
+17
+
+===== PAGE 18 =====
+18
+Area 11 - Quest’area è molto differente dall’ambiente in 
+cui si trova: sembra essere più una cavità naturale lasciata alla 
+sua forma originale che una vera e propria stanza costruita 
+dall’uomo. In effetti si tratta di una piccola grotta scavata 
+dall’acqua in cui, dopo che alcuni dei lavoratori che scava -
+rono il sistema fognario di Varshold non fecero più ritorno, 
+nessuno ha più voluto mettere piede per decenni. Gli uomini 
+de Il Rana sono convinti che al suo interno viva un mostro, 
+ma solo il potente criminale e i suoi luogotenenti sanno che 
+si tratta della tana di un’idra, cresciuta a tal punto da non 
+essere più in grado di uscire dalla stretta cavità. Il Rana nutre 
+di tanto in tanto la creatura con i suoi nemici, divertendosi ad 
+ascoltare le urla dei malcapitati. Qualora i personaggi doves-
+sero viaggiare con Garlan Kamos, questi li avviserebbe di 
+non avvicinarsi al posto, essendo venuto a conoscenza delle 
+dicerie degli sgherri de Il Rana. Se i personaggi dovessero 
+decidere di entrare malauguratamente all’interno della grotta 
+per riposare, sarebbero immediatamente attaccati dall’idra, 
+che bloccherebbe l’uscita con la coda per impedire qualsiasi 
+tentativo di fuga.
+Area 12 - Le fogne della città di Varshold sono come le 
+fogne di ogni altra grande città: umide, puzzolenti e labirinti-
+che. Senza una mappa è impossibile orientarsi lungo il dedalo 
+di cunicoli sempre uguali che forma il sistema fognario della 
+città. Fortunatamente Garlan Kamos conosce molto bene il 
+posto e potrà tranquillamente guidare i personaggi, se questi 
+avranno deciso di prendere con loro l’uomo. Altrimenti l’in-
+vestigatore li aspetterà al cancello che collega il covo de Il 
+Rana alle fogne, acconsentendo di guidare i personaggi solo 
+se con loro ci saranno anche i prigionieri Urakian che il cri-
+minale voleva vendere come schiavi, consentendo a tutti di 
+tornare in superficie e salvarsi. Nel malaugurato caso in cui 
+Garlan dovesse essere rimasto ucciso, i personaggi dovranno 
+cavarsela da soli, cercando di orientarsi grazie al loro istinto. 
+Superando tre prove di Sopravvivenza (CD 20), saranno in 
+grado di trovare un accesso alla superficie. Ogni tiro non 
+superato li porterà tuttavia a perdersi, facendoli incappare 
+nella pericolosa fauna che popola le fogne di Varshold:
+Guardia Scelta 
+Umanoide Medio (Umano), legale malvagio
+Classe Armatura 16 (armatura di cuoio borchiato, 
+scudo)
+Punti Ferita 112 (15d8 + 45)
+Velocità 9 m
+Tiri Salvezza For +7, Des +5, Cos +6
+Abilità Atletica +7, Intimidire +5
+Sensi Percezione passiva 11
+Linguaggi Gergo ladresco, Xaan
+Sfida 5 (1.800 PE)
+Bruto. Quando la guardia scelta colpisce con un’arma 
+da mischia, l’attacco infligge un dado extra del tipo di 
+danno dell’arma (già incluso nell’attacco).
+AZIONI
+Multiattacco. La guardia scelta effettua tre attacchi 
+in mischia o due attacchi a distanza.
+Morningstar. Attacco con Arma da Mischia: +7 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 8 
+(1d8 +4) danni contundenti o 10 (1d10 +4) danni con-
+tundenti se usata a due mani.
+Giavellotto. Attacco con Arma da distanza: +7 al tiro 
+per colpire, gittata 6/18 m, un bersaglio. Colpito: 11 
+(2d6 + 4) danni perforanti e il bersaglio deve effettuare 
+un tiro salvezza su Costituzione con CD 15; se lo fallisce 
+subisce 10 (3d6) danni da veleno, mentre se lo supera, 
+subisce la metà di quei danni.
+Scudo da Sfondamento. Attacco con Arma da Mischia: 
++7 al tiro per colpire, portata 1,5 m, una creatura. 
+Colpito: 9 (2d4 +4) danni contundenti. Se il bersaglio è 
+una creatura di taglia Media o inferiore, deve superare 
+un tiro salvezza su Forza con CD 15, altrimenti cade 
+a terra prono.
+REAZIONI
+Parata. La guardia scelta aggiunge 3 alla sua CA contro 
+un attacco in mischia che lo colpirebbe. Per farlo, la 
+guardia scelta deve vedere l’attaccante e deve impu-
+gnare un’arma da mischia.
+ FOR DES COS INT SAG CAR
+ 18 (+4) 15 (+2) 16 (+3) 10 (+0) 12 (+1) 15 (+2)
+INCONTRI NELLE FOGNE
+1d10 Incontro
+1 Nessun evento
+2 1d6 Ragni fase
+3 2d4 Zombi Tloxa
+4 1 Otyugh
+5 1d4 Hantu Loggok
+6 1d4 Fatali d’acqua a guardia del cadavere del mago che li 
+aveva evocati
+7 1 Sciame di insetti
+8 Nessun Evento
+9 1d4 Cumuli striscianti
+10 1 Sciame di topi
+
+===== PAGE 19 =====
+Appendice:  
+PNG, Mostri e Oggetti
+Il Rana
+Nessuno conosce il vero nome del signore del crimine di 
+Varshold: negli anni Il Rana ha fatto tutto ciò che era in 
+suo potere (vale a dire molto) per cancellare ogni traccia in 
+città della sua vita passata. Si vocifera nei bassifondi che un 
+tempo fosse un alchimista molto abile e che abbia iniziato la 
+sua carriera criminale sviluppando un nuovo tipo di droga 
+dal veleno di alcune rane. A dargli il suo nome da criminale 
+è stata però la guardia cittadina, mentre indagava sui tanti 
+omicidi che hanno lastricato la sua ascesa a re dei bassifondi, 
+tutti compiuti attraverso l’uso del potente veleno di una pic-
+colissima rana originaria dell’Oasi di Zey. Si dice che sia in 
+grado di avvelenare con una semplice stretta di mano, e che 
+allo stesso tempo lui stesso abbia assunto nel tempo una 
+grande quantità di veleni, allo scopo di diventarne immune. 
+L’aspetto del Rana rispecchia perfettamente la sua deformità 
+morale: i pochi che possono dire di averlo visto lo descrivono 
+come un uomo calvo, dal viso crudele, affetto da un’obe -
+sità quasi invalidante, che lo costringe a muoversi sorretto 
+da almeno un paio di servitori e con l’aiuto di un bastone. 
+Inoltre, il suo corpo appare ricoperto di spaventose cicatrici, 
+retaggio dei tanti esperimenti con i veleni compiuti sulla sua 
+stessa pelle. Il Rana è una persona scaltra, acuta e intelligente, 
+e nonostante l’aspetto ha gusti raffinati e atteggiamenti ari-
+stocratici. È un abile conversatore, in grado quasi di ipnotiz-
+zare con la voce gracchiante, che per uno strano scherzo del 
+destino, ricorda proprio il gracidare di una rana. 
+La Mano
+Conosciuto anche come L’Uomo Nero, La Mano è il fidato 
+luogotenente del Rana, per quanto il capo della guardia cit-
+tadina si ostini a dire che non si tratta che di un assassino 
+prezzolato. Alcuni sostengono che un tempo vivesse in sere-
+nità in una delle tante fattorie disperse nelle praterie dello 
+Xanesh, fino al giorno in cui un gruppetto di soldati ubriachi 
+non irruppe in casa violentando e uccidendo sua moglie e sua 
+figlia. Consumato dalla sete di vendetta, cercò a uno a uno 
+gli uomini che gli avevano distrutto la vita, massacrandoli 
+senza pietà. Diventato suo malgrado uno degli assassini più 
+abili della regione, trovò lavoro tra le fila degli sgherri de Il 
+Rana, conquistandone in breve tempo la fiducia. Nonostante 
+gli anni incalzino ha ancora un fisico asciutto e scattante, che 
+gli permette di essere incredibilmente agile, mentre il suo 
+volto è imperscrutabile, un pozzo oscuro privo di qualsiasi 
+espressione. È armato di due daghe dalla lama annerita, a cui 
+c’è chi giura si rivolga chiamandole con i nomi della moglie 
+e della figlia.
+Andhreaa
+Nessuno mette in dubbio che la proprietaria della locanda La 
+Vacca Gravida un tempo fosse una combattente dell’arena: 
+alta quasi due metri e quasi altrettanto larga, Andhreaa è una 
+mezzorca che non passa inosservata, con i suoi muscoli e il 
+suo volto sempre rubicondo. Se qualcuno dovesse non notarla 
+per il suo aspetto, ci penserebbero i suoi modi spicci ed ener-
+gici ad attirarne l’attenzione. In realtà il suo carattere burbero 
+e spigliato non è altro che uno scudo, che Andhreaa alza 
+tra sé il pericolo mondo dei bassifondi, mondo che sembra 
+aver eletto proprio La Vacca Gravida come suo puzzolente 
+ombelico. Per fortuna l’aspetto di Andhreaa è sufficiente a 
+far desistere da qualsiasi azione stupida l’eterogenea clientela 
+del suo locale, rendendo di fatto La Vacca Gravida un luogo 
+franco nel bel mezzo dei pericolosi bassifondi di Varshold. 
+Il mantenimento di questo status ha ovviamente un prezzo: 
+Andhreaa è stata costretta, suo malgrado, a rendere la sua 
+locanda uno degli accessi protetti al covo de Il Rana, ren -
+dendosi di fatto complice della sua organizzazione criminale.  
+19
+
+===== PAGE 20 =====
+Il conte e la contessa DeMurand
+Membri dell’ormai decaduta nobiltà di Varshold, il conte e la 
+contessa DeMurand si sono avventurati nei bassifondi esclu-
+sivamente per partecipare all’asta che si tiene in occasione 
+della Notte della Luna Smunta. In un ambiente così distante 
+dai raffinati salotti che sono soliti frequentare, appaiono 
+come due proverbiali pesci fuor d’acqua: la contessa si muove 
+tenendo premuto sul volto un fazzolettino bianco di seta, 
+tremando al rischio di qualsiasi contatto con cose o persone, 
+mentre il conte si agita come un ragazzino in gita, a metà 
+tra il disgustato e il divertito, mal celando la sua eccitazione 
+all’idea di stare vivendo una pericolosa trasgressione. Nono-
+stante l’ambiente poco raccomandabile, la contessa indossa 
+una gran quantità di gioielli (dal valore complessivo di circa 
+1.000 monete d’oro), che la rendono ancora più appariscente 
+e fuori luogo.
+Gustav Renda
+I baffoni a manubrio che adornano il viso di questo spietato 
+truffatore nascondono un sorriso perennemente sardonico. 
+Gustav sa di essere più intelligente della media della gente 
+che frequenta i bassifondi e sfoggia la tipica sfrontatezza 
+degli uomini che sanno di essere affascinanti e seduttori. 
+Partecipa ai festeggiamenti della Notte della Luna Smunta 
+fingendosi un uomo affranto per il recente tradimento della 
+donna amata, desideroso unicamente di rivendere gli inviti 
+per l’asta che aveva acquistato, non potendo più andarci in 
+sua compagnia. Gustav ama mettere a suo agio le persone 
+con cui conversa, tendendo spesso ad essere adulatorio, ma i 
+suoi modi affabili dissimulano un atteggiamento manipola-
+torio. Ad ogni modo, quando le lusinghe non si dimostrano 
+efficaci, Gustav non disdegna l’uso del suo coltello, affilato 
+quasi quanto la sua lingua.
+Guercio
+Basta un semplice sguardo al volto affilato di questo mise -
+revole oscuro per indovinare il perché del suo soprannome: 
+un buco disgustoso si apre nel punto un tempo occupato 
+dall’occhio destro dell’uomo, lasciando la cavità oculare 
+orrendamente esposta. Guercio, d’altra parte, non si è mai 
+preso il disturbo di coprire la vecchia ferita, divertendosi 
+piuttosto a guardare il disagio sul volto dei suoi interlocutori, 
+felice dell’aria da duro che questa gli assicura. Partecipa ai 
+festeggiamenti della Notte della Luna Smunta nella speranza 
+di riuscire a ripulire qualche riccone della Città Alta, anche 
+qualora questo volesse dire sgozzarlo nel vicolo dietro La 
+Vacca Gravida.
+Tre Spanne
+Affetto semplicemente da nanismo, Tre Spanne si diverte 
+a raccontare a chiunque che sua madre era una delle ultime 
+nane a vagare per lo Xanesh. Al di là della reale identità 
+della madre, tutti sanno che Tre Spanne è un vero figlio di 
+buona donna: sempre pronto a far scoppiare una rissa, è un 
+ubriacone molesto che si diverte a sguazzare nel caos, ancor 
+più se generato da lui. È in combutta con Guercio e, al pari 
+del suo compagno, non ha nessuna intenzione di tornare a 
+casa a mani vuote.  
+20
+
+===== PAGE 21 =====
+Gambino
+La figura allampanata di Gambino è stata vista raramente 
+lontana dal tavolo da gioco. Con i suoi modi da aristocratico 
+decaduto, il suo sorriso sardonico e i baffetti impomatati, 
+Gambino ha consacrato la sua vita al gioco d’azzardo, per -
+dendo tutti i suoi averi e il titolo nobiliare. Giocherebbe 
+anche sua madre, e c’è chi dice che lo abbia anche fatto. Ad 
+una mano fortunata ha vinto due degli inviti per l’asta della 
+Notte della Luna Smunta, ma sa bene che rimarrà nelle sue 
+mani per poco, come tutto quello che si vince al gioco. 
+Garlan Kamos
+Ombroso e scostante, Garlan è un vecchio segugio assoldato 
+dalla guardia cittadina per infiltrarsi nel covo de Il Rana in 
+occasione dell’asta della Notte della Luna Smunta. Grazie ad 
+una pietra magica è in grado di teletrasportarsi in qualsiasi 
+momento in un luogo sicuro, ma è disposto a rischiare per 
+dimostrare che i suoi sospetti sono fondati: durante l’asta non 
+saranno venduti solo oggetti preziosi e vecchie meteore, ma 
+anche schiavi. Convinto che Il Rana stia mettendo in piedi 
+una tratta di esseri umani, Garlan è disposto ad allearsi con 
+chiunque sia disposto ad aiutarlo a trovare prove dell’orribile 
+crimine. 
+Lester Lee
+Quello che si direbbe essere un semplice mercante interes-
+sato all’asta, è in realtà un membro corrotto della guardia 
+cittadina, il cui scopo è quello di tenere d’occhio Garlan per 
+impedire all’uomo di rovinare i piani de Il Rana. Lester è 
+pronto a fare il doppio gioco per cercare di convincere pos-
+sibili alleati che Garlan è un criminale latitante che la guardia 
+cittadina vuole morto. Non agirà tuttavia in prima persona, 
+a meno che la situazione non degeneri al punto tale che un 
+suo coinvolgimento si dimostri indispensabile.
+Gorbahd
+Calvo, alto e longilineo, l’elfo Gorbahd appare a suo agio in 
+ogni situazione, irradiando un senso di austerità ed eleganza 
+anche nei luoghi più sciatti. Si direbbe non avere neppure un 
+lembo di pelle privo di una qualche decorazione, che siano 
+gioielli o tatuaggi. Nel corso della sua lunga vita, l’elfo ha fatto 
+del suo corpo una vera e propria opera d’arte, al pari di quelle 
+che possono essere ammirate nel suo negozio. Un monito 
+al fatto che tutto può essere messo in vendita, e Gorbahd sa 
+che bisogna sempre sapersi vendere al miglior offerente. La 
+sua collezione di meteore è tra le più grandi dello Xanesh.
+21
+
+===== PAGE 22 =====
+22
+APPUNTI DEL GAME MASTER
+
+===== PAGE 23 =====
+23
+
+===== PAGE 24 =====
+24
+
+===== PAGE 25 =====
+LEGAL INFORMATION
+Permission to copy, modify and distribute the files collectively 
+known as the System Reference Document 5.1 (“SRD5”) is 
+granted solely through the use of the Open Gaming License, 
+V ersion 1.0a.
+This material is being released using the Open Gaming 
+License V ersion 1.0a and you should read and understand the 
+terms of that license before using this material.
+The text of the Open Gaming License itself is not Open 
+Game Content. Instructions on using the License are pro -
+vided within the License itself.
+The following items are designated Product Identity, as 
+defined in Section 1(e) of the Open Game License V ersion 
+1.0a, and are subject to the conditions set forth in Section 7 
+of the OGL, and are not Open Content: Dungeons & Dra-
+gons, D&D, Player’s Handbook, Dungeon Master, Monster 
+Manual, d20 System, Wizards of the Coast, d20 (when used 
+as a trademark), Forgotten Realms, Faerûn, proper names 
+(including those used in the names of spells or items), places, 
+Underdark, Red Wizard of Thay, the City of Union, Heroic 
+Domains of Ysgard, Ever- ‐- Changing Chaos of Limbo, 
+Windswept Depths of Pandemonium, Infinite Layers of the 
+Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, 
+Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal 
+Battlefield of Acheron, Clockwork Nirvana of Mechanus, 
+Peaceable Kingdoms of Arcadia, Seven Mounting Heavens 
+of Celestia, Twin Paradises of Bytopia, Blessed Fields of 
+Elysium, Wilderness of the Beastlands, Olympian Glades of 
+Arborea, Concordant Domain of the Outlands, Sigil, Lady 
+of Pain, Book of Exalted Deeds, Book of Vile Darkness, 
+beholder, gauth, carrion crawler, tanar’ri, baatezu, displa -
+cer beast, githyanki, githzerai, mind flayer, illithid, umber 
+hulk, yuan- ‐-ti.
+All of the rest of the SRD5 is Open Game Content as 
+described in Section 1(d) of the License.
+The terms of the Open Gaming License V ersion 1.0a 
+are as follows:
+OPEN GAME LICENSE V ersion 1.0a
+The following text is the property of Wizards of the 
+Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a)”Contributors” means  the copyright 
+and/or trademark owners who have contributed Open Game 
+Content; (b)”Derivative Material” means copyrighted mate-
+rial including derivative works and translations (including 
+into other computer languages), potation, modification, 
+correction, addition, extension, upgrade, improvement, 
+compilation, abridgment or other form in which an exi -
+sting work may be recast, transformed or adapted; (c) “Distri-
+bute” means to reproduce, license, rent, lease, sell, broadcast, 
+publicly display, transmit or otherwise distribute; (d)”Open 
+Game Content” means the game mechanic and includes the 
+methods, procedures, processes and routines to the extent 
+such content does not embody the Product Identity and is an 
+enhancement over the prior art and any additional content 
+clearly identified as Open Game Content by the Contribu-
+tor, and means any work covered by this License, including 
+translations and derivative works under copyright law, but 
+specifically excludes Product Identity. (e) “Product Identity” 
+means product and product line names, logos and identi -
+fying marks including trade dress; artifacts; creatures cha -
+racters; stories, storylines, plots, thematic elements, dialogue, 
+incidents, language, artwork, symbols, designs, depictions, 
+likenesses, formats, poses, concepts, themes and graphic, 
+photographic and other visual  or audio representations; 
+names and descriptions of characters, spells, enchantments, 
+personalities, teams, personas, likenesses and special abili -
+ties; places, locations, environments, creatures, equipment, 
+magical or supernatural abilities or effects, logos, symbols, or 
+graphic designs; and any other trademark or registered trade-
+mark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open 
+Game Content; (f) “Trademark” means the logos, names, 
+mark, sign, motto, designs that are used by a Contributor 
+to identify itself or its products or the associated products 
+contributed to the Open Game License by the Contributor (g) 
+“Use”, “Used” or “Using” means to use, Distribute, copy, edit, 
+format, modify, translate and otherwise create Derivative 
+Material of Open Game Content. (h) “You”or “Your” means 
+the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game 
+Content that contains a notice indicating that the Open 
+Game Content may only be Used under and in terms of this 
+License. You must affix such a notice to any Open Game Con-
+tent that you Use. No terms may be added to or subtracted 
+from this License except as described by the License itself. 
+No other terms or conditions may be applied to any Open 
+Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game 
+Content You indicate Your acceptance of the terms of this 
+License.
+4. Grant and Consideration: In consideration for agreeing 
+to use this License, the Contributors grant You a perpetual, 
+worldwide, royalty- ‐-free, non- ‐- exclusive license with the 
+exact terms of this License  to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are 
+contributing original material as Open Game Content, You 
+represent that Your Contributions are Your original creation 
+and/or You have sufficient rights to grant the rights conveyed 
+by this License.
+6. Notice of License Copyright: You must update the 
+COPYRIGHT NOTICE portion of this License to include the 
+exact text of the COPYRIGHT NOTICE of any Open Game 
+
+===== PAGE 26 =====
+Content You are copying, modifying or distributing, and 
+You must add the title, the copyright date, and the copyright 
+holder’s name to the COPYRIGHT NOTICE of any original 
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any 
+Product Identity, including as an indication as to compati-
+bility, except as expressly licensed in another, independent 
+Agreement with the owner of each element of that Pro -
+duct Identity. You agree not to indicate compatibility or co- 
+‐-adaptability with any Trademark or Registered Trademark 
+in conjunction with a work containing Open Game Content 
+except as expressly licensed in another, independent Agre-
+ement with the owner of such Trademark or Registered 
+Trademark. The use of any Product Identity in Open Game 
+Content does not constitute a challenge to the ownership 
+of that Product Identity. The owner of any Product Identity 
+used in Open Game Content shall retain all rights, title and 
+interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content 
+You must clearly indicate which portions of the work that 
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents 
+may publish updated versions of this License. You may use 
+any authorized version of this License to copy, modify and 
+distribute any Open Game Content originally distributed 
+under any version of this License.
+10. Copy of this License: You MUST include a copy of 
+this License with every copy of the Open Game Content 
+You Distribute.
+11. Use of Contributor Credits: You may not market or 
+advertise the Open Game Content using the name of any 
+Contributor unless You have written permission from the 
+Contributor to do so.
+12. Inability to Comply: If it is impossible for You to 
+comply with any of the terms of this License with respect to 
+some or all of the Open Game Content due to statute, judicial 
+order, or governmental regulation then You may not Use any 
+Open Game Material so affected.
+13. Termination: This License will terminate automati-
+cally if You fail to comply with all terms herein and fail to cure 
+such breach within 30 days of becoming aware of the breach. 
+All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held 
+to be unenforceable, such provision shall be reformed only 
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of 
+the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards 
+of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, 
+Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, 
+Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve 
+Townshend, based on original material by E. Gary Gygax 
+and Dave Arneson.
+END OF LICENSE
+L
+e voci dicono che durante i festeggiamenti della Notte della 
+Luna Smunta il re della criminalità di Varshold, conosciuto 
+come Il Rana, organizzerà una grande asta in cui verrà messa 
+in vendita una potente meteora recuperata nei pressi di Valle 
+Nuvolosa. Ma come ogni cosa nei bassifondi, anche questo evento nasconde 
+intenti più oscuri… Grosso Guaio a Varshold è un’avventura investigativa ricca 
+di azione, rivolta a personaggi di 8°livello, completa di schede e background di 
+alcuni dei personaggi più interessanti della città-fortezza di Varshold, nuovi 
+oggetti magici e meteore per il Game Master e ricche mappe a colori.
+
+===== PAGE 27 =====
+L
+e voci dicono che durante i festeggiamenti della Notte della 
+Luna Smunta il re della criminalità di Varshold, conosciuto 
+come Il Rana, organizzerà una grande asta in cui verrà messa 
+in vendita una potente meteora recuperata nei pressi di Valle 
+Nuvolosa. Ma come ogni cosa nei bassifondi, anche questo evento nasconde 
+intenti più oscuri… Grosso Guaio a Varshold è un’avventura investigativa ricca 
+di azione, rivolta a personaggi di 8°livello, completa di schede e background di 
+alcuni dei personaggi più interessanti della città-fortezza di Varshold, nuovi 
+oggetti magici e meteore per il Game Master e ricche mappe a colori.

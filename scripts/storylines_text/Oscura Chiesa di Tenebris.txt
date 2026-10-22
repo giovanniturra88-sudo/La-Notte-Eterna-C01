@@ -1,0 +1,1260 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+3
+ 
+ 
+Oscura Chiesa 
+di Tenebris
+Avventura per La Notte Eterna,  
+ambientazione dark epic fantasy per 5e OGL 1.0.
+Quest per PG di 8° livello
+Autore: Jason R. Forbus
+Art Director: Steven Forbus
+Grafica e impaginazione: Gennaro De Filippis
+Mappe dungeon: Michele Dal Bo
+Grazie di cuore a Kevin Stacy, In taverna da Kurt, ASD La 
+Triade, Fortytwo APS, Paolo Mazza e Federico V eltri per aver 
+fatto piovere meteore sui tavoli da gioco di questo mondo 
+della Dimensione della Materia. 
+GDR: La Notte Eterna
+Pubblicato da MyCatPortal Lab per AliRibelli Edizioni 2024© 
+AliRibelli Edizioni, Gaeta www.aliribelli.com
+lanotteterna@aliribelli.com 
+È severamente vietata la riproduzione, anche parziale del 
+testo, effettuata con qualsiasi mezzo, senza l’espressa auto-
+rizzazione dell’Editore. 
+Questo progetto è stato finanziato su Kickstarter. Siamo 
+molto grati ai nostri backer. Un ringraziamento speciale va ai 
+Chosen of the Gods: Abdulaziz Al-Kaboor, Alberto Gervasio, 
+Alessandro Tararan, Alberto Battaglia, Andrea Propersi, Bra-
+dley Hamm, Brad Powers, Charles M. Beavers, Christopher 
+Royer, Christopher Thomas Lezer, Davide Gibin, Derren 
+Mckenna, Evan Taylor Fails, Giuseppe Angelo d’Amico, 
+Jason Cummings, Jayson Santiago, Josh Kanapkey, Joshua 
+L. Knous, Justin Gardin, Justin Joseph Lafser, Justin Offer-
+mann, Katharine Wright, Marco Carvelli, Michael Peter 
+Henry Young, Randy Marsh, Reka Reynolds, Rita Balloriani, 
+Robert Earl Barnhill, Robert Griswold, Sara Schlögl, Sean 
+Bradley, Sebastian Coulter, Seth Maxson, Stefano Chierchini, 
+Trevor Orion Nelson, Tyler Russell, William J. Mapp. 
+Manuali base:
+La Notte Eterna ambientazione 5e 
+Mostri ed Eroi 
+La Canzone di Nebvarasa 
+Avventure: 
+Accademia della Magia Profonda 
+Grosso Guaio a Varshold 
+La Bestia Sacra 
+La Morte Strisciante 
+La Tavoletta Proibita 
+L’Oscura Chiesa di Tenebris 
+Pioggia di Fuoco 
+Racconti della Notte Eterna 
+The Star Gazer
+Fà attenzione, avventuriero: 
+basta un passo falso per piombare tra le fiamme dell’inferno! 
+Scansiona il codice QR in basso per scaricare 
+le mappe a colori dell’Oscura Chiesa di T enebris.
+https://tinyurl.com/lnetdcot
+
+
+===== PAGE 4 =====
+4
+SOMMARIO
+DESCRIZIONE DEL TEMPIO...................................................................................................... 5
+OGGETTI MAGICI........................................................................................................................ 9
+AMBIENTATORE............................................................................................................. 9
+ARTIGLIO CORVINO DEL PAPA ACHERON............................................................. 9
+SPADA DELLA SANGUINARIA RETRIBUZIONE DI PAPA SANGUINARIUS..... 9
+PERLA NERA DELLA NEFRASTICA OSCURITÀ DI PAPA NEFRASTIS............... 9
+LIBRO DELLE CONOSCENZE PROIBITE DI PAPA OBSCURUS............................. 9
+CAMPANA SILENTE DI PAPA SILENTIUS.................................................................. 9
+TORCIA DEL FUOCO NERO DI PAPA IGNIFER........................................................ 10
+ALA OSCURA DI PAPA UMBRA................................................................................... 10
+CALICE DELL’ABISSO DI PAPA ABYSSUS.................................................................. 10
+CANTO PROIBITO DI PAPA SONORUS....................................................................... 10
+CORONA DEL CREPUSCOLO DI PAPA CREPUSCULUM....................................... 10
+PNG E MOSTRI.............................................................................................................................. 11
+ADEPTO DI TENEBRIS.................................................................................................... 11
+ASSASSINO DI TENEBRIS............................................................................................... 12
+BUROCRATE INFERNALE.............................................................................................. 13
+CAPITANO DEI PALADINI DI TENEBRIS.................................................................... 14
+PALADINI DI TENEBRIS.................................................................................................. 15
+PAPA ECLIPSIUS................................................................................................................ 16
+PREDATORE SOTTERRANEO........................................................................................ 18
+
+===== PAGE 5 =====
+5
+Descrizione del Tempio
+Dopo aver superato i cunicoli irti di trappole e mostri lasciati 
+scorrazzare liberamente con il preciso scopo di impedire a 
+eventuali intrusi l’accesso, vi trovate finalmente di fronte al 
+maestoso portale in adamantio dell’Oscura Chiesa di Tene-
+bris. Il portale reca scolpiti intricati motivi infernali, e se non 
+foste avventurieri temprati da ogni sorta di orrori, la sua sola 
+vista basterebbe a schiacciare la vostra volontà e a riprendere 
+la via dalla quale siete venuti. Il portale può essere aperto solo 
+recitando ad alta voce l’iscrizione in lingua infernale collocata 
+in cima al portale: “Tenebris, lux mea”. Un paladino o un 
+chierico di una divinità buona dovranno superare un tiro 
+salvezza su Costituzione CD 15 o subire 8d6 danni psichici 
+al solo pronunciare questa infausta invocazione. Eventuali 
+tentativi di aprire il portale scassinandolo o tentando di spez-
+zare l’incantesimo di cui è permeato sono destinati a fallire. 
+Una prova in Arcano CD 13 lascia intuire che l’incante-
+simo Dissolvi Magie è in grado di dissipare, almeno tempo-
+raneamente, l’allarme magico che segnala al Gran Sacerdote 
+l’arrivo di visitatori. 
+1 - Sala dell’accoglienza
+L’ampia sala è dotata di un colonnato ornato con sten -
+dardi su cui è inciso il simbolo del culto di Tenebris. Sul lato 
+opposto, di fronte al portone d’ingresso, si erge una grande 
+statua di Tenebris, il cui sguardo imperioso dà l’impressione 
+di seguire chi si muove nella stanza. Appena qualcuno varca 
+l’ingresso, sei guardie (paladini di Tenebris) si avvicineranno 
+all’entrata, interrogando chiunque entri per sapere se è un 
+vero fedele. Solo dopo che tutti hanno superato l’interroga-
+torio, le guardie apriranno loro la cancellata che dà accesso 
+alle scale che scendono al piano inferiore.
+2 – Guardiola
+Una stanza semplice, priva di decorazioni, al cui interno 
+si trovano una scrivania e delle sedie. Sulla parete nord è 
+presente una campana in grado di lanciare l’allarme in tutte 
+le stanze del tempio.
+3 - Cappella dei Bisbigli 
+Scendendo le scale dalla Sala dell’Accoglienza, si accede a 
+una grande cappella decorata da affreschi che raffigurano le 
+gesta di Tenebris durante la Guerra delle Anime. Fila ordinate 
+di panche in ebano riempiono la cappella. Sul lato est c’è un 
+altare in legno finemente decorato con simboli infernali, e 
+sulla parete retrostante è raffigurato Tenebris in sella a un 
+Incubo fiammeggiante.
+Camminando all’interno della Cappella dei Bisbigli, gli 
+avventurieri di allineamento buono e neutrale saranno messi 
+alla prova da bisbigli disturbanti che li inviteranno a peccare 
+in nome di Tenebris. I bisbigli faranno leva sulle debolezze di 
+ciascuno, orgoglio, lussuria, avidità, ingordigia, e così via. Per 
+resistere ai Bisbigli Melliflui, gli avventurieri devono superare 
+una prova su Saggezza CD 14 oppure cadere vittima della 
+loro debolezza, un personaggio particolarmente avido per 
+esempio cercherà di sottrarre tutte le monete e gli oggetti 
+preziosi dei suoi compagni, usando la forza se necessario; un 
+personaggio ingordo pasteggerà con tutte le razioni in suo 
+possesso, rischiando di rimanere soffocato; finché il perso-
+naggio è soggetto a Bisbigli Melliflui è considerato Affascinato 
+ma può ritentare il tiro salvezza alla fine di ogni suo turno.
+4 - Refettorio
+Questa sala è adibita a refettorio per le guardie e per i vari 
+adepti in pellegrinaggio. Le pietanze che vengono servite 
+sono saporite a abbondanti e non hanno nulla da invidiare ai 
+sontuosi banchetti dei monarchi. Al loro arrivo, gli avventu-
+rieri troveranno impegnati e pasteggiare 3 adepti e 2 paladini 
+serviti da fanciulli in catene.
+
+
+===== PAGE 6 =====
+6
+5 - Cucina 
+Dotata di forni, piani cottura e di utensili da cucina. Tra 
+le vettovaglie spiccano ingredienti piuttosto rari provenienti 
+da ogni regione di Neir e delle Terre Nascoste.
+6 - Armeria
+Per la difesa del tempio non si è badato a spese: qui sono 
+custodite armi e armature di qualsiasi tipo, tutte di pregia-
+tissima fattura. In un guardaroba opportunamente chiuso 
+a chiave con un lucchetto sono riposte alcune uniformi di 
+ufficiali e soldati della guardia cittadina, indice che la Chiesa 
+di Tenebris è riuscita o ha intenzione di infiltrare la milizia 
+di Mubunash.
+7 - Dormitorio 
+Questa sala è divisa in corridoi da paravento riccamente 
+decorati. Sono presenti comode brande per le guardie, 
+mentre i letti per gli ospiti più illustri si trovano in stanze 
+accessoriate di mobili raffinati.
+8 - Campo d’addestramento 
+È qui che si addestrano le guardie, gli assassini e i chie -
+rici-guerrieri del culto. Grazie alla presenza di un Ambien-
+tatore, l’addestramento che viene offerto non riguarda solo 
+scenari di combattimento tipici della Dimensione della Mate-
+ria, ma anche ambienti della Dimensione dello Spirito. Gli 
+avventurieri non riconosceranno immediatamente la fun -
+zione del congegno, e se l’adepto al comando dell’Ambien -
+tatore ha motivo di dubitare della loro fedeltà a Tenebris, 
+non esiterà a evocare delle creature da scagliargli contro. 
+Subito dopo, chiamerà a raccolta due assassini e un paladino 
+di Tenebris in suo aiuto.
+9 - Ufficio del Capitano delle Guardie 
+Il capitano delle guardie amministra da questa stanza le 
+spese e la difesa del tempio, intrattenendosi in conversazione 
+e dando incarichi speciali alle sue guardie di fiducia. 
+All’arrivo degli avventurieri, oltre al Capitano, nell’ufficio 
+è presente il suo segretario, un Burocrate Infernale che sta 
+sistemando una pila di documenti contenente diverse lettere 
+indirizzate a notabili di varie città dello Xanesh. Le lettere 
+riconducono a una congiura ai danni del Barone Hulbert e 
+finalizzata a collocare sul trono di Mubunash un sodale della 
+Chiesa. Sono prove schiaccianti della colpevolezza di alcune 
+famiglie della regione, per avere le quali il Barone sarebbe 
+ben disposto a pagare una cifra congrua.
+10 - Sala della Guerra 
+Al centro di questa stanza è stato collocato un grande 
+tavolo su cui è disegnata una mappa dettagliata di tutto lo 
+Xanesh: da qui si organizzano le operazioni e le missioni più 
+importanti del culto. È solo in questo luogo che vengono 
+aperti i dispacci sigillati, al cospetto dei più alti funzionari 
+del culto. Si può accedere al piano più basso del sotterraneo 
+tramite una scala a chiocciola nascosta: il meccanismo per 
+rilevarla si aziona tramite una chiave che il capitano delle 
+guardie porta al collo e che va posta in una serratura nascosta 
+sul bordo del tavolo, che può essere individuata superando 
+una prova di Indagare (CD 16).
+11 - Corridoio delle Trappole Rotanti
+Una volta discese le scale segrete dalla Sala della Guerra, 
+gli avventurieri giungeranno in un ampio corridoio irto di 
+trappole che si attivano in presenza di ospiti indesiderati. Le 
+trappole consistono in una decina di lame rotanti a forma di 
+mezzaluna che escono dal pavimento in sequenza. Per supe-
+rarle occorre riuscire in una prova di Acrobazia (CD 15); i 
+bardi possono invece effettuare una prova di Intrattenere 
+(CD 15) per studiare il ritmo con il quale le lame lasciano 
+sufficiente spazio libero per passare in sicurezza.
+12 - Grande Biblioteca
+In questa sala, riposti su alti scaffali in legno scuro, sono 
+custoditi i principali testi del culto e i più sacrileghi vangeli 
+di Tenebris e dei suoi apostoli dannati. V olumi unici che 
+in nessun altro posto del continente possono essere trovati 
+vengono letti e studiati sotto la luce rosso-sangue di contorti 
+candelabri.
+
+
+===== PAGE 7 =====
+7
+13 - Sala del Tesoro 
+Per poter mobilitare così tante spie e sicari in ogni parte 
+di Neir e tra i mondi di Nebvarasa, occorre un tesoro capace 
+di comprare un’intera nazione: questa stanza trabocca di casse 
+colme d’oro, gioielli e oggetti preziosi. 
+Si può entrare nella Sala del Tesoro solo azionando un 
+passaggio segreto posto dietro una statua (Indagare CD 17), 
+ma queste ricchezze non sono lasciate incustodite: un Pre-
+datore Sotterraneo Corrotto, che i cultisti di Tenebris sono 
+incredibilmente riusciti a catturare e incattivire nel corso 
+di lunghi anni di sevizie e prigionia, trasformandolo in una 
+belva temibilissima. La fiera attacca qualunque intruso con 
+ferocia.
+Se gli avventurieri riescono a sconfiggere il Predatore 
+Sotterraneo Corrotto, si troveranno davanti un tesoro ine-
+stimabile: l’equivalente di 250,000 monete d’oro tra gioielli, 
+oggetti preziosi e conio di varia valuta comprendente mone-
+tazione della Città Senza Nome.
+14 - Corridoio dell’Agonia 
+Questo corridoio, intriso della magia di Tenebris, rappre-
+senta l’insidia più sinistra del sotterraneo. Gli intrusi devono 
+superare l’illusione di un trauma passato, effettuando con 
+successo un tiro salvezza su Saggezza (CD 17) o subendo 12d6 
+danni psichici in caso di fallimento e la condizione spaventato 
+finché non escono dal tempio.
+“Inginocchiatevi a Tenebris, strisciate come vermi tra le 
+sale della sua dimora! Paura e dolore sono le naturali condi-
+zioni di un mortale.
+Flagelleremo i vostri ricordi spingendoli a destarsi dall’o-
+blio. Furiosi assaliranno quello che siete diventati; tornerete 
+schiavi, ciò cui siete destinati.”
+
+
+===== PAGE 8 =====
+8
+15 - Reliquiario
+In questa stanza sono custodite le spoglie e le armi di tutti 
+i passati pontefici del culto, la cui descrizione è riportata nel 
+capitolo “Oggetti Magici”. Ciascun oggetto è in possesso delle 
+mummie dei pontefici che li ebbero in vita e che riposano 
+all’interno di sarcofagi in pietra, collocati in punti diversi 
+e non in ordine cronologico. Per aprire i sarcofagi senza 
+causare il risveglio delle mummie e potergli così sottrarre gli 
+oggetti magici, occorre seguire un ordine preciso di apertura.
+Su ciascun sarcofago è scolpito un simbolo legato a eventi 
+significativi o attributi distintivi dei rispettivi pontefici. 
+Di seguito, sono forniti i simboli e l’ordine corretto in cui 
+devono essere attivati. Il tiro può essere effettuato una sola 
+volta, per gruppo, da parte di un singolo personaggio a scelta 
+dei giocatori. Una volta aperto un sarcofago secondo l’or -
+dine corretto, la magia necromantica che lo proteggeva viene 
+disattivata e gli avventurieri possono sottrarre l’oggetto al suo 
+interno senza risvegliare la mummia. In ogni momento, se 
+l’ordine seguito è inesatto, le mummie rimanenti si sveglie-
+ranno dal loro riposo per attaccare gli avventurieri.
+1. Simbolo del Corvo (Papa Acheron), CD 12 
+su Intelligenza (Religione): Diffuse il culto di 
+Tenebris in lungo e in largo per lo Xanesh, spesso 
+accompagnato da un famelico corvo nero come 
+l’inchiostro.
+2. Simbolo della Lama Insanguinata (Papa San -
+guinarius), CD 13 su Intelligenza (Religione): 
+Avviò una stagione di tremendi sacrifici in nome 
+di Tenebris.
+3. Simbolo della Perla Nera (Papa Nefrastis), CD 
+14 su Intelligenza (Religione): Usò una perla nera 
+per canalizzare le ombre all’interno di potenti male-
+dizioni.
+4. Simbolo del Libro Proibito (Papa Obscurus), 
+CD 15 su Intelligenza (Religione): Raccolse le 
+preghiere sacrileghe del culto nel Libro Proibito, 
+immortalando conoscenze altrimenti obliate e pla-
+smando il destino della Chiesa.
+5. Simbolo della Campana Silente (Papa Silen -
+tius), CD 16 su Intelligenza (Religione): Influenzò 
+le menti attraverso la Campana Silente, con cui 
+riuscì a sottomettere le volontà degli infedeli.
+6. Simbolo del Fuoco Nero (Papa Ignifer), CD 17 
+su Intelligenza (Religione): Accese le fiamme nere 
+durante rituali infernali, forgiando la torcia come 
+segno del suo dominio sul fuoco nero.
+7. Simbolo dell’Ala Oscura (Papa Umbra), CD 
+18 su Intelligenza (Religione): Abbracciò l’om-
+bra, ottenendo un’ala nera come simbolo della sua 
+padronanza sull’oscurità.
+8. Simbolo del Calice dell’Abisso (Papa Abyssus), 
+CD 19 su Intelligenza (Religione): Celebrò riti 
+con il Calice dell’Abisso, offrendo sacrifici immondi 
+di sangue.
+9. Simbolo del Canto Proibito (Papa Sonorus), CD 
+20 su Intelligenza (Religione): Scoprì un canto 
+proibito, influenzando le menti attraverso il suo 
+ritmo ipnotico.
+10. Simbolo della Corona del Crepuscolo (Papa 
+Crepusculum), non resta che questo sarcofago 
+che gli avventurieri possono aprire tranquil-
+lamente: Riuscì a celare la chiesa agli occhi del 
+mondo quando la marea volse in loro sfavore.
+16 - Celle dei Sacrifici 
+In questo luogo che trasuda morte e paura, vengono 
+tenute le persone rapite fino al momento in cui serviranno 
+per essere sacrificate nei rituali più sinistri e terribili del 
+culto. Al loro arrivo, gli avventurieri troveranno una ven -
+tina di persone, prevalentemente di estrazione sociale bassa 
+(fanno meno rumore quando spariscono!), sebbene il GM 
+può decidere di inserire prigionieri di rango o addirittura 
+un PNG incontrato in una precedente avventura, se ritenuto 
+funzionale alla campagna.
+17 - Sancta Sanctorum 
+Il cuore nero del tempio. È qui che vengono effettuati i 
+rituali più importanti. Ai lati della stanza vi sono statue di 
+Progenie Immonde ammantate e che indicano un’area cir -
+colare in ottone che funge da catalizzatore di magia oscura. 
+Quando sufficienti anime saranno state sacrificate a Tenebris, 
+il malvagio semidio tornerà dal suo esilio…
+A officiare la messa sacrilega è Papa Eclipsius in persona, 
+aiutato da due adepti e un paladino di Tenebris.
+Se gli avventurieri sono riusciti a non far scattare l’al -
+larme, gli officianti saranno colti alla sprovvista, in caso con-
+trario si saranno preparati ad affrontare il combattimento 
+nel migliore dei modi, quindi utilizzando incantesimi, impu-
+gnando le armi ed evocando creature.
+
+
+===== PAGE 9 =====
+9
+OGGETTI MAGICI
+I
+n aggiunta a un quantitativo di monete, effetti 
+personali ed equipaggiamento non magico in 
+dotazione alle guardie, nel tempio gli avventu-
+rieri potranno trovare i seguenti oggetti magici: 
+Ambientatore
+Oggetto magico di taglia grande, leggendario (richiede competenza 
+in Arcano)
+Questo intricato congegno, noto come Ambientatore, si 
+presenta come una sottile lastra d’oro di forma circolare e 
+incorniciata all’interno di una pesante struttura in acciaio 
+che funge da scranno per una serie di intricate leve e bottoni. 
+L’Ambientatore fu creato da un maestro evocatore wiloi per 
+facilitare l’addestramento dei propri alunni e insegnare loro 
+le opportunità e i pericoli che ciascuna creatura evocata può 
+rappresentare.
+Setacciando la Dimensione della Materia e dello Spirito, 
+l’Ambientatore è in grado di evocare, entro un’area di dodici 
+metri, diverse tipologie di ambiente e creature di grado sfida 
+9 o inferiore. Tuttavia, l’uso di questo potente strumento 
+richiede saggezza e maestria nelle arti arcane. L’ambienta -
+tore può essere attivato come azione e possiede 3 cariche, 
+distruggendosi dopo averle esaurite. L’ambiente e le creature 
+perdurano per 1 ora o finché non vengono uccise. Mantenere 
+l’ambiente attivo richiede concentrazione da parte dell’uti -
+lizzatore, nel caso egli perda la concentrazione, le creature e 
+l’ambiente svaniscono istantaneamente.
+Artiglio Corvino del Papa 
+Acheron
+Arma semplice (pugnale) Magica, Raro (richiede legame)
+Gli attacchi con questo artiglio infliggono danni aggiuntivi 
+necrotici pari a 10 (3d6), e usando un’azione il possessore può 
+evocare l’ombra di un corvo per 1d4 ore. L’ombra utilizza 
+le statistiche di un corvo con immunità ai danni necrotici, 
+veleno e psichici e immunità alle condizioni affascinato, spa-
+ventato e avvelenato. Inoltre il corvo conta come famiglio.
+Spada della Sanguinaria 
+Retribuzione di Papa 
+Sanguinarius
+Arma da guerra (spada lunga) Magica, Molto 
+Rara (richiede legame da una creatura che 
+possiede sangue)
+Questa spada, sempre intrisa di sangue, 
+aumenta il danno inflitto di 2 (1d4) ogni volta 
+che ferisce un nemico fino ad un massimo di 12 
+(5d4). Quando completamente imbevuta, il pos-
+sessore può usare un’azione bonus per sacrificare 
+parte della propria vitalità spendendo 5 dadi vita 
+e subendo danni pari al risultato del tiro per libe-
+rare un potente colpo che infligge i normali danni 
+dell’arma più i danni subiti tirando i dadi vita. Ogni 
+volta che il possessore manca un colpo quest’arma 
+reclama la sua vita infliggendogli 2 (1d4) danni 
+irriducibili.
+Perla Nera della Nefrastica 
+Oscurità di Papa Nefrastis
+Oggetto Magico, Rara 
+Questa perla conferisce al possessore il potere di oscurare 
+la luce circostante, creando un’area di ombra magica (come 
+l’incantesimo Oscurità). Chiunque si trovi all’interno dell’area 
+ottiene vantaggio su tiri salvezza contro incantesimi basati 
+sulla luce. La perla può generare 3 aree d’ombra per riposo 
+lungo.
+Libro delle Conoscenze Proibite 
+di Papa Obscurus
+Oggetto Magico, Molto Raro (Richiede Competenza in Arcano) 
+Studiando questo tomo, il possessore può apprendere 
+incantesimi proibiti e oscuri. Inoltre, il libro può contenere 
+informazioni cruciali su artefatti oscuri o riti sacrileghi. Leg-
+gere il tomo permette di apprendere i seguenti incantesimi 
+di vera magia: Vera Scurovisione, Tappeto di Morti, Raggio Vul-
+canico. Per ogni incantesimo di vera magia appreso in questo 
+modo, il lettore perde permanentemente 3 dadi vita di Pf.
+Campana Silente di Papa 
+Silentius 
+Oggetto Magico, Raro
+Suonare questa campana ha il potere di silenziare i suoni 
+nell’area circostante (come se si fosse lanciato l’incantesimo 
+Silenzio) 3 volte per riposo lungo.
+Grado 
+Sfida
+Prova di Arcano 
+Necessaria
+Ambiente 
+Creato
+Creature 
+Evocate
+1-4 15 Bosco incantato 1d4+1 Elfi
+5-8 20 Cripta oscura 1d6+1 Zombi
+9-12 25 Tempio celeste 1d3 + 1 Celestiali
+13-16 30 Abisso infernale 1d2 +1 Demoni
+
+
+===== PAGE 10 =====
+10
+Torcia del Fuoco Nero di Papa 
+Ignifer
+Oggetto Magico, Raro (richiede legame)
+Questa torcia emana fiamme nere che illuminano solo chi le 
+possiede. Chiunque tocchi la fiamma nera ottiene resistenza 
+ai danni da fuoco e necrotici per 1 ora. Una creatura può 
+beneficiare di questo bonus solo una volta per riposo lungo.
+Ala Oscura di Papa Umbra
+Oggetto Magico, Raro (richiede legame)
+Questo artiglio è una riproduzione di un’ala oscura. Chi lo 
+indossa aumenta la sua velocità di 4,5m e diviene invisibile 
+quando si trova in ombra o oscurità, finché non attacca una 
+creatura o lancia un incantesimo.
+Calice dell’Abisso di Papa Abyssus
+Oggetto Magico (Calice), Molto Raro
+Bevendo da questo calice, il possessore ottiene per 10 minuti 
+resistenza a danni necrotici e la capacità di infliggere danni 
+necrotici aggiuntivi con attacchi in mischia pari a 11 (2d10). 
+Durante questo tempo colui che ha bevuto dal calice emana 
+fumi oscuri dal suo corpo. Alla fine dell’effetto subisce la 
+condizione avvelenato fino alla fine del suo prossimo riposo 
+breve o lungo. Il calice può anche essere utilizzato per comu-
+nicare con entità oscure (come se si avesse lanciato l’incan-
+tesimo Presagio) 3 volte per riposo lungo. Il calice può essere 
+bevuto una volta al giorno e si riempie automaticamente al 
+seguente sorgere della luna.
+Canto Proibito di Papa Sonorus
+Oggetto Magico (Pergamena), Raro (richiede legame)
+Una pergamena in pelle umana che riporta un canto sacrilego 
+scritto con il sangue di un celestiale. Le sue parole melliflue 
+sono in grado di influenzare le emozioni degli ascoltatori 
+entro un’area di 9 metri. Chi ascolta il canto deve effettuare 
+un tiro salvezza Saggezza (CD 13) o venire affascinato o spa-
+ventato a scelta del possessore per 1 minuto. La pergamena 
+può essere utilizzata 3 volte per riposo lungo e una creatura 
+che resiste ai suoi effetti ne è immune per 24 ore.
+Corona del Crepuscolo di Papa 
+Crepusculum
+Oggetto Magico (Corona), Leggendario (richiede legame)
+La corona conferisce al possessore resistenza a danni psichici 
+e necrotici oltre alla capacità di evocare una volta per riposo 
+lungo un’oscura barriera difensiva che ha gli stessi effetti 
+dell’incantesimo Muro di Forza. Inoltre, l’oscura barriera evo-
+cata rende l’intera area entro 6 metri dal muro pesantemente 
+oscurata. 
+Chiunque indossi la corona può vedere attraverso le 
+ombre magiche e ha la sua scurovisione aumentata raddop-
+piata od ottiene scurovisione entro 18m se non la possedeva 
+in precedenza.
+
+
+===== PAGE 11 =====
+PNG E MOSTRI
+I
+n questo capitolo sono riportati in ordine alfa-
+betico mostri e personaggi non giocanti che 
+incontrerete nella vostra esplorazione dell’O -
+scura Chiesa di Tenebris. Le schede dei vari 
+servitori di Tenebris possono essere giocate in una possi -
+bile fase investigativa che condurrebbe gli eroi a scoprire 
+l’ubicazione del tempio.
+11
+Adepto di Tenebris 
+Medio Immondo, Legale Malvagio
+Degli adepti di Tenebris si dice fossero maghi, 
+un tempo, irretiti dalla magia nera di evoca -
+zione che i diavoli al servizio del semidio rie-
+scono a insinuare nelle volontà più permeabili 
+all’influenza del male.
+Anche loro indossano lunghe tuniche di colore 
+viola scuro, spesso decorate con trame d’oro 
+e rune infernali.
+Classe Armatura 15 (vesti magiche)
+Punti Ferita 90 (12d8 + 36)
+Velocità 9 m
+Tiri Salvezza Int +5, Sag +7
+Abilità Religione +5, Intuizione +7
+Immunità ai Danni Fuoco
+Immunità alle Condizioni Avvelenato, affasci-
+nato, spaventato 
+Sensi Scurovisione 18 m, Percezione passiva 14
+Linguaggi Xaan, Infernale 
+Sfida 6 (2,300 PE)
+BONUS COMPETENZA +3
+Incantatore. L’adepto è un incantatore di 9° 
+livello. La sua statistica da incantatore è la 
+saggezza (CD 15 per i tiri salvezza, +7 a colpi-
+re con incantesimi). Ha i seguenti incantesimi 
+armonizzati:
+Trucchetti (a volontà): deflagrazione occulta, 
+guida, taumaturgia, tocco gelido
+1° livello (4 slot): parola guaritrice, protezio-
+ne dal bene e dal male, mani brucianti, vita 
+falsata
+2° livello (3 slot): ingrandire/ridurre, invisibi-
+lità, raggio rovente 
+3° livello (3 slot): controincantesimo, lentezza, 
+palla di fuoco
+4° livello (3 slot): muro di fuoco, terreno illu-
+sorio, inaridire 
+5° livello (1 slot): circolo di potere, colpo in-
+fuocato
+AZIONI
+Pugnale. Attacco con Arma da Mischia o a Di-
+stanza: +6 a colpire, portata 1,5 m o gittata 
+6/18 m., un bersaglio. Colpito: 5 (1d4+3)
+ FOR DES COS INT SAG CAR
+ 12 (+1) 17 (+3) 16 (+3) 14 (+2) 18 (+4) 16(+3)
+
+===== PAGE 12 =====
+12
+Assassino di Tenebris 
+Medio Immondo, Legale Malvagio
+Il viola scuro è evidentemente uno dei colori 
+di elezione dell’Oscura Chiesa di Tenebris. Un 
+assassino devoto del semidio non manca mai 
+di indossare almeno un indumento di questo 
+colore, che sia la camicia, il mantello o il pan-
+talone. Predilige attaccare con il pugnale im-
+bevuto di veleno grazie al quale infligge ferite 
+più crudeli e difficili da curare.
+Classe Armatura 17 (mezza a piastre)
+Punti Ferita 144 (17d10 + 51)
+Velocità 9m
+Tiri Salvezza Des +9, Car +7, Cos +7
+Abilità Inganno +7, Furtività +9, Persuasione 
++7, Acrobazia +9
+Resistenze ai danni Contundente, perforante 
+e tagliente da attacchi non magici
+Immunità ai danni Veleno, fuoco
+Immunità alle condizioni avvelenato, spaven-
+tato
+Sensi Scurovisione 18 m, percezione passiva 10 
+Linguaggi Xaan, Infernale
+Sfida 9 (5,000 PE) 
+BONUS COMPETENZA +4
+Corsa nelle fiamme. L’assassino può effettua-
+re azione di scatto, disingaggio e nascondersi 
+come azione bonus, inoltre quando effettua 
+azione di scatto il suo corpo diviene di pure 
+fiamme potendo passare in spazi occupati da 
+altre creature o oggetti, una creatura che viene 
+passata da un assassino in questo modo subisce 
+7 (2d6) danni da fuoco, un oggetto prende fuoco 
+se infiammabile. 
+Attacco furtivo (1/turno). Quando l’assassino 
+colpisce una creatura disponendo di vantaggio 
+al tiro per colpire o se un suo alleato cosciente 
+è entro 1,5 m dalla creatura e l’assassino non 
+ha svantaggio al tiro per colpire, l’assassino 
+infligge 17 (5d6) danni extra.
+AZIONI
+Multiattacco. L’assassino effettua tre attacchi 
+con la spada corta e uno con il pugnale usando 
+l’azione bonus.
+Spada corta. Attacco con Arma da Mischia: +9 
+a colpire, portata 1,5 m, un bersaglio. Colpito: 
+8 (1d6+5). 
+Pugnale venefico. Attacco con Arma da Mischia 
+o a Distanza: +9 a colpire, portata 1,5 m o git-
+tata 6/18 m., un bersaglio. Colpito: 7 (1d4+5) 
+più 11 (2d10) danni veleno e il bersaglio deve 
+effettuare tiro salvezza costituzione (CD 17) o 
+essere avvelenato per 1 m. 
+Emanare fiamme (3/giorno). L’assassino può 
+emanare fiamme in un’area di 6 m attorno a sé, 
+ogni creatura nell’area effettua un tiro salvezza 
+Destrezza (CD 17) o subisce 21 (6d6) danni da 
+fuoco o la metà su un tiro superato.
+ FOR DES COS INT SAG CAR
+ 13 (+1) 20 (+5) 17 (+3) 14 (+2) 10 (+0) 16 (+3)
+
+
+===== PAGE 13 =====
+13
+Burocrate Infernale 
+Medio Immondo, Legale Malvagio
+La Città Senza Nome è governata da una buro-
+crazia sorretta da leggi e cavilli spesso nebulosi 
+e contraddittori; ottenere un semplice certi -
+ficato può far vacillare la sanità mentale del 
+più ligio sacerdote di Halthea, richiedere visite 
+a innumerevoli uffici dove immondi occhialuti 
+sommersi da montagne di scartoffie vi recite -
+ranno, rigo per rigo, interminabili regolamenti 
+e requisiti prima di indirizzarvi all’ennesimo 
+burocrate o alla consultazione di una specifica 
+sentenza della Cupa Tribuna…  
+A costituire l’impalcatura di questa tortuosa 
+scalinata verso la pazzia sono i burocrati infer-
+nali: diavoli impiegati nelle banche, negli uffici 
+governativi, nell’agenzia riscossioni e tributi 
+della Città Senza Nome. Immaginate che la vo-
+stra anima sia finita per sbaglio sul Monte delle 
+Anime Perdute: venire a capo della burocrazia 
+infernale per ottenere il trasferimento al pa -
+radiso (o inferno) che vi spetta rappresenterà 
+un’autentica impresa, tale che in molti finisco-
+no per arrendersi al loro grigio destino. Peggio 
+sarebbe se voleste aprire una qualsiasi attività 
+nella Città Senza Nome: i permessi necessari 
+comportano requisiti ideati da volontà malva-
+gie e contorte pronte a tutto per annientare la 
+vostra risolutezza. 
+Classe Armatura: 16 (armatura naturale) 
+Punti Ferita: 110 (13d8 + 52) 
+Velocità: 9 mt, volare 9 mt 
+Tiri salvezza Car +7, Sag + 6, Cos +7 
+Abilità Inganno +7, Persuasione +7, Percezione 
++6, Arcano +6, Storia +6 
+Resistenze ai Danni Freddo; contundente, per-
+forante e tagliente di attacchi non magici che 
+non siano argentati  
+Immunità ai Danni Fuoco, veleno 
+Immunità alle Condizioni Affascinato, avvele-
+nato, spaventato, indebolito  
+Sensi Scurovisione 36 m, Percezione passiva 16 
+Linguaggi Tutti 
+Sfida 5 (1800 PE) 
+BONUS COMPETENZA +3 
+Insondabilità Magica. Il burocrate infernale non 
+può essere individuato da incantesimi a meno 
+che non lo desideri. 
+Resistenza alla Magia: Il burocrate infernale ha 
+vantaggio ai tiri salvezza contro incantesimi e 
+altri effetti magici. 
+Vista del Diavolo: Il burocrate infernale è in 
+grado di vedere normalmente nell’oscurità, sia 
+magica che comune. 
+Incantesimi innati. La caratteristica da incan-
+tatore innato del burocrate infernale è Carisma 
+(tiro salvezza degli incantesimi CD 15, +7 al 
+tiro per colpire degli attacchi con incantesimo). 
+Può lanciare in modo innato i seguenti incante-
+simi, che non richiedono componenti materiali: 
+A volontà: individuazione dei pensieri, camuf-
+fare se stesso, ritirata rapida, inviare  
+3/giorno ciascuna: charme su persone, indi -
+viduazione del magico,  suggestione, zona di 
+verità, dissolvi magie 
+1/giorno ciascuna: visione del vero, esilio 
+AZIONI 
+Multiattacco: Il burocrate infernale  effettua 
+due attacchi di Artiglio. 
+Artiglio. Attacco con Arma da Mischia: +6 a col-
+pire, portata 1,5 m, un bersaglio. Colpito: 10 
+(2d6 + 3) danni taglienti e il bersaglio effettua 
+un tiro salvezza costituzione (CD 14) o essere 
+maledetto se è una creatura. 
+La maledizione magica ha effetto ogni volta 
+che il bersaglio inizia un riposo breve o lungo, 
+riempiendo i pensieri del bersaglio con imma-
+gini e sogni orribili. Il bersaglio maledetto non 
+ottiene alcun beneficio terminando un riposo 
+breve o lungo. 
+La maledizione dura finché non viene spezzata 
+da un incantesimo rimuovi maledizione.
+ FOR DES COS INT  SAG CAR
+ 16 (+3) 12 (+1) 18 (+4) 16 (+3) 16 (+3) 18 (+4)
+
+
+===== PAGE 14 =====
+14
+Capitano dei Paladini 
+di Tenebris 
+Medio Immondo, Legale Malvagio
+Basso e tarchiato, dietro l’armatura completa 
+del capitano si cela un immondo dai marca -
+ti tratti suini, coperto da una peluria ispida e 
+rossiccia. Ha l’abitudine di grugnire e non è 
+sempre facile comprendere quanto sta dicen -
+do. È particolarmente sadico e si diletta ad 
+annientare lo spirito dei propri prigionieri molto 
+prima che i loro corpi devastati cedano alle sue 
+torture. Creatura detestabile come poche, sulla 
+sua testa pende la condanna di tutto ciò che è 
+buono e giusto in Nebvarasa.
+Classe Armatura 20 (armatura completa a pia-
+stre, scudo)
+Punti Ferita 153 (18d8 + 72)
+Velocità 9 m
+Tiri Salvezza For +9, Sag +8, Car +11
+Abilità Religione +6, Intuizione +8, intimidire 
++11, Atletica +9
+Immunità ai Danni Fuoco; contundenti, perfo-
+ranti e taglienti da armi non magiche
+Immunità alle Condizioni Avvelenato, affasci-
+nato, spaventato 
+Sensi Scurovisione 18 m, Percezione passiva 14
+Linguaggi Imperiale, infernale, abissale
+Sfida 12 (8,400 PE)
+BONUS COMPETENZA +4
+Armi demoniache maggiori. Tutti gli attacchi 
+del paladino sono magici ed infliggono 5d8 danni 
+da fuoco extra (inclusi nell’attacco).
+Velo di fiamme infernali. Tutta l’area entro 3 
+m dal paladino è invasa da fiamme vorticanti, 
+una creatura che inizia il suo turno nell’area 
+o vi entra per la prima volta subisce 18 (4d8) 
+danni da fuoco. 
+Ogni oggetto infiammabile nell’area che non 
+sia trasportato o indossato prende automati -
+camente fuoco.                   
+AZIONI
+Multiattacco. Il capitano effettua due attacchi 
+di mazzafrusto.
+Mazzafrusto. Attacco con Arma da Mischia: +8 
+a colpire, portata 1,5 m, un bersaglio. Colpito: 
+10 (1d8 + 4) danni contundenti più 22 (5d8) 
+danni da fuoco. 
+Fiamme infernali maggiori ( Ricarica 5-6). Il 
+paladino evoca delle fiamme infernali dalle 
+sue carni che lo circondano, tutte le creature 
+in un’area di 6 m attorno al paladino devono 
+effettuare un tiro salvezza Destrezza (CD 17) 
+o subire 33 (10d6) danni da fuoco o la metà su 
+un tiro superato.
+AZIONI LEGGENDARIE 
+Il capitano può effettuare 2 azioni leggenda -
+rie, scegliendo tra le opzioni sottostanti. Può 
+effettuare solo un’azione leggendaria alla volta 
+e solo alla fine del turno di un’altra creatura. Il 
+capitano recupera le azioni leggendarie spese 
+all’inizio del proprio turno. 
+Mazzafrusto. Il capitano effettua un attacco 
+di mazzafrusto.
+Comando zelante (Costa 2 Azioni). Il capitano 
+sbraita un ordine ad un suo alleato che può 
+vedere entro 9m, da lui. 
+Se il bersaglio può sentire il comandante, può 
+utilizzare la sua reazione per eseguire un at -
+tacco contro una creatura nella sua portata 
+disponendo di vantaggio al tiro per colpire.
+ FOR DES COS INT SAG CAR
+ 20 (+5) 10 (+0) 18 (+4) 14 (+2) 19 (+4) 24 (+7)
+
+
+===== PAGE 15 =====
+15
+Paladini di Tenebris 
+Medio Immondo, Legale Malvagio
+L’armatura di questo paladino reca incise delle 
+rune infernali di protezione contro il bene, e 
+una maledizione sul torace, in lingua xaan, che 
+minaccia di terribili sciagure chi osasse colpir-
+lo. La maledizione non ha altro effetto se non 
+quello di incutere un timore reverenziale tra i 
+popolani delle campagne dello Xanesh.
+Un mantello con cappuccio di colore viola scuro 
+cinge il paladino dalle spalle fino alle caviglie 
+per proteggerlo dalle intemperie e dal fred -
+do, ma anche per farlo confondere tra la folla, 
+quando necessario.
+Classe Armatura 20 (armatura completa a pia-
+stre, scudo)
+Punti Ferita 102 (12d8 + 48)
+Velocità 9m
+Tiri Salvezza For +8, Sag +8, Car +10
+Abilità Religione +6, Intuizione +8, intimidire 
++10, Atletica +8
+Immunità ai Danni fuoco
+Immunità alle Condizioni avvelenato, affasci-
+nato, spaventato 
+Sensi Scurovisione 18 m, Percezione passiva 14
+Linguaggi Xaan, infernale, abissale
+Sfida 9 (5,000 PE)
+BONUS COMPETENZA +4
+Armi demoniache. Tutti gli attacchi del pa -
+ladino sono magici ed infliggono 3d8 danni da 
+fuoco extra (inclusi nell’attacco).
+Velo di fiamme. Tutta l’area entro 3m dal pa-
+ladino è cosparsa di fiamme vorticanti, una 
+creatura che inizia il suo turno nell’area o vi 
+entra per la prima volta subisce 9 (2d8) danni 
+da fuoco. Ogni oggetto infiammabile nell’area 
+che non sia trasportato o indossato prende au-
+tomaticamente fuoco.                   
+AZIONI
+Multiattacco. Il paladino effettua due attacchi 
+di mazzafrusto.
+Mazzafrusto. Attacco con Arma da Mischia: +8 
+a colpire, portata 1,5 m, un bersaglio. Colpito: 
+10 (1d8 + 4) danni contundenti più 13 (3d8) 
+danni da fuoco. 
+Fiamme infernali ( Ricarica 5-6). Il paladino 
+evoca delle fiamme infernali dalle sue carni che 
+lo circondano, tutte le creature in un’area di 6 
+m attorno al paladino devono effettuare un tiro 
+salvezza su Destrezza (CD 16) o subire 28 (8d6) 
+danni da fuoco o la metà su un tiro superato.
+ FOR DES COS INT SAG CAR
+ 18 (+4) 10 (+0) 18 (+4) 14 (+2) 19 (+4) 22 (+6)
+
+
+===== PAGE 16 =====
+16
+Papa Eclipsius 
+Immondo (ex progenie immonda), Legale Malvagio
+L’attuale Gran Sacerdote della Chiesa Nera è 
+Ravanath, asceso al soglio pontificio con il nome 
+di Papa Eclipsius. Questa progenie immonda 
+proviene dalla piccola aristocrazia di Belzifer. 
+L’educazione ricevuta da fanciullo gli ha confe-
+rito un raffinato savoir-faire aristocratico, che 
+Ravanath ha saputo sfruttare in maniera astuta 
+e spregiudicata. 
+Da giovane si trasferì a Mubunash per completa-
+re i propri studi e ottenere il diploma di Archivi-
+sta, ma tra gli scaffali polverosi della biblioteca 
+entrò in contatto con alcuni frammenti del li-
+bro di Papa Obscurus. Quelle parole sacrileghe 
+promettevano potere e conoscenza ben al di 
+là delle lezioni impartitegli dai suoi professori 
+occhialuti, e Ravanath ne fu immediatamen -
+te irretito. Con determinazione, sfruttò ogni 
+conoscenza e risorsa che il suo rango poteva 
+offrirgli, riuscendo a entrare in contatto con i 
+cultisti della Chiesa Nera e, in assenza di una 
+reale guida del culto, a prenderne il controllo. 
+Mentre indossava l’oscuro manto di pontefice, 
+Ravanath ebbe cura di preservare un’immagine 
+pubblica dignitosa, ottenendo il titolo di Pro -
+fessore Emerito presso la Corporazione degli 
+Archivisti e guadagnandosi la fiducia del Baro-
+ne Hulbert in persona, che non manca mai di 
+chiedere il suo parere per le situazioni più di-
+sparate. Gli avventurieri potrebbero aver incon-
+trato l’esimio Professor Ravanath presso la sede 
+degli Archivisti oppure a corte, apprezzandone 
+l’eleganza del linguaggio e la sua disposizione 
+apparentemente benevola e sempre prodiga di 
+consigli che cela realmente un carattere fred-
+do come il più gelido e remoto inferno della 
+Dimensione dello Spirito…
+Classe Armatura 20 (armatura completa a pia-
+stre +2)
+Punti Ferita 135 (18d8 + 54)
+Velocità 9 m
+Tiri Salvezza Sag +11, Car +8
+Abilità Arcano +8, Religione +8, Inganno +8, 
+Persuasione +8
+Immunità ai Danni necrotici, fuoco, veleno
+Immunità alle Condizioni avvelenato, affasci-
+nato, spaventato 
+Sensi Scurovisione 36 m, Percezione passiva 16
+Linguaggi Xaan, imperiale, abissale, infernale 
+Sfida 14 (11,500 PE)
+BONUS COMPETENZA +5
+Incantatore. Eclipsius è un incantatore di 17° 
+livello. La sua statistica da incantatore è la 
+saggezza (CD 19 per i tiri salvezza, +11 a colpi-
+re con incantesimi). Ha i seguenti incantesimi 
+armonizzati:
+Trucchetti (a volontà): deflagrazione occulta, 
+guida, taumaturgia, tocco gelido
+1° livello (4 slot): parola guaritrice, protezio-
+ne dal bene e dal male, raggio di infermità, 
+vita falsata
+2° livello (3 slot):  ingrandire/ridurre, invisi -
+bilità, raggio di affaticamento 
+3° livello (3 slot): controincantesimo, lentez-
+za, scagliare maledizione 
+4° livello (3 slot): tentacoli neri, terreno il-
+lusorio, inaridire 
+5° livello (2 slot): circolo di potere, cura ferite 
+ FOR DES COS INT SAG CAR
+ 17 (+3) 12 (+1) 16 (+3) 17 (+3) 22 (+6) 17 (+3)
+
+
+===== PAGE 17 =====
+di massa
+6° livello (1 slot): globo di invulnerabilità 
+7° livello (1 slot): dito della morte 
+8° livello (1 slot): aura sacra
+9° livello (1 slot): proiezione astrale
+AZIONI
+Multiattacco. Eclipsius può effettuare due at-
+tacchi di staffa oscura. 
+Scettro infernale. Attacco con Arma da Mi -
+schia: +8 a colpire, portata 1,5m, un bersaglio. 
+Colpito: 5 (1d6 + 3) danni contundenti più 13 
+(3d8) danni da fuoco.
+Tocco ustionante (3/giorno). Eclipsius tocca 
+un’altra creatura effettuando un attacco corpo 
+a corpo con incantesimo, su un tiro colpito la 
+creatura subisce 16 (3d8+6) danni da fuoco e la 
+creatura prende fuoco per 1 minuto subendo gli 
+stessi danni all’inizio di ogni suo turno a meno 
+che non utilizzi un’azione per spegnersi.
+Canale divino: In catene (2/giorno). Eclipsius 
+bersaglia una creatura che può vedere entro 
+6m, la creatura deve effettuare un tiro salvezza 
+su Forza (CD 19) o venire ristretta per 1 minuto. 
+La creatura può ripetere il tiro salvezza alla fine 
+dei suoi turni terminando l’effetto su se stessa 
+su un tiro superato.
+AZIONI LEGGENDARIE 
+Eclipsius può effettuare 3 azioni leggendarie, 
+scegliendo tra le opzioni sottostanti. Può ef -
+fettuare solo un’azione leggendaria alla volta 
+e solo alla fine del turno di un’altra creatura. 
+Eclipsius recupera le azioni leggendarie spese 
+all’inizio del proprio turno. 
+Scettro. Eclipisius effettua un attacco di scet-
+tro infernale.
+Esplosione di fiamme (Costa 2 Azioni). 
+Eclipsius incanala fiamme attorno a sé per poi 
+farle esplodere. Ogni creatura entro 3m da 
+Eclipsius deve effettuare un tiro salvezza de -
+strezza (CD 16) o subire 22 (5d8) danni da fuoco 
+e venire spinta di 6m lontano da Eclipsius, su 
+un tiro superato una creatura subisce solo la 
+metà dei danni e non viene spinta.
+17
+
+===== PAGE 18 =====
+18
+Predatore Sotterraneo 
+Mostruosità Grande, Neutrale
+Acquistato da giovane esemplare al grande 
+mercato generale di Mubunash, durante i suoi 
+trent’anni di esistenza la creatura non ha co-
+nosciuto altro che una lunga prigionia. La sua 
+indole già violenta è peggiorata a causa delle 
+sevizie e della crudeltà dei suoi padroni crudeli. 
+La sua unica consolazione è masticare le ossa 
+delle vittime che gli vengono date in pasto, cosa 
+che fa con grande accanimento e provando un 
+particolare piacere.
+Classe Armatura: 22 
+Punti Ferita: 230 (20d10+120) 
+Velocità: 12 m, scavare 12 m
+Tiri salvezza: Costituzione +11, Saggezza +7 
+Abilità: Percezione +7 
+Immunità ai Danni: Veleno, gelo, necrotico, 
+fuoco
+Resistenza ai danni: Contundente, perforante 
+e tagliente da attacchi non magici 
+Sensi: Scurovisione 18 m, Percezione tellurica 
+18 m, Percezione passiva 17 
+Immunità alle condizioni: Avvelenato, spaven-
+tato 
+Linguaggi: – 
+Sfida: 17 (18 000 PE) 
+Divoratore di carcasse. Dopo essersi nutrito per 
+anni di cadaveri e anime dannate il predatore 
+sotterraneo ha subito oscure mutazioni. Quan-
+do il divoratore uccide una creatura o divora 
+una carcassa, ottiene punti ferita temporanei 
+pari alla metà dei punti ferita massimi della 
+creatura uccisa o in caso di una carcassa ne ot-
+tiene 3d8+6. Inoltre la sua velocità aumenta di 
+3 m e ogni suo attacco infligge 16 (3d10) danni 
+necrotici aggiuntivi. Questi effetti perdurano 
+per 1 minuto.
+Cristallo infernale. I cristalli del divoratore 
+sono divenuti rosso sangue, carichi di energia 
+infernale. Quando il divoratore utilizza roto -
+lata di cristalli o polvere di cristallo, infligge 
+14 (4d6) danni da fuoco extra (inclusi nell’at -
+tacco). 
+AZIONI 
+Multiattacco. Il predatore sotterraneo può ef-
+fettuare due attacchi di Morso. 
+Morso. Attacco con Arma da Mischia: +11 al 
+tiro per colpire, portata 1,5 m, un bersaglio. 
+Colpito: 32 (4d12+6) danni taglienti. 
+Salto Mortale . Il predatore sotterraneo può 
+saltare fino a 4,5 m. Come parte del suo mo -
+vimento, può atterrare in piedi in uno spazio 
+che contiene una o più creature e attorno a lui 
+fuoriescono dal terreno grandi e aguzzi cristalli 
+che si frantumano alla fine del turno. Ciascuna 
+di queste creature deve effettuare con successo 
+un tiro salvezza di Forza o Destrezza con CD 16 
+(a scelta del bersaglio) o cadere prona e subire 
+16 (3d6+6) danni contundenti più 16 (3d6+6) 
+danni taglienti. Se il tiro salvezza riesce, la 
+creatura subisce solo la metà dei danni e non 
+cade prona. La creatura viene in ogni caso spin-
+ta di 1,5 m fuori dallo spazio del predatore 
+sotterraneo. 
+Rotolata di cristalli. Il predatore sotterraneo 
+con uno scatto si appallottola e rotola con 
+estrema potenza contro i bersagli. Per effet -
+tuare la rotolata il predatore sotterraneo deve 
+muoversi di almeno 6 m nel proprio turno. At-
+tacco con arma da mischia +11 a colpire portata 
+1,5 m. Colpito: 25 (3d12+6) contundenti più 19 
+(3d12) taglienti più 14 (4d6) danni da fuoco. 
+Polvere di cristallo. Il predatore sotterraneo 
+scuote il corpo con violenza, facendo cadere 
+polvere di cristallo dal suo dorso. Posandosi al 
+suolo la polvere provoca la fuoriuscita di gros-
+si cristalli che si frantumano all’istante. In un 
+cono di 9,5 m i bersagli effettuano un tiro sal-
+vezza su destrezza CD 19 o subiscono 55 (10d10) 
+danni perforanti più 14 (4d6) danni da fuoco. 
+Sotterrare. Se colpisce con tutti e due gli at -
+tacchi, il predatore sotterraneo può usare la sua 
+azione bonus per trascinare il bersaglio sotto-
+terra con sé. Alla fine del suo turno il bersaglio 
+può effettuare una prova di Forza contrapposta 
+contro il predatore sotterraneo per poter riusci-
+re a emergere dal terreno, altrimenti subisce 
+14 (4d6) danni taglienti.
+ FOR DES COS INT SAG CAR
+ 22 (+6) 16 (+3) 23 (+6) 4 (-3) 14 (+2) 10 (+0)
+
+
+===== PAGE 19 =====
+19
+
+
+===== PAGE 20 =====
+20
+APPUNTI DEL GAME MASTER
+
+===== PAGE 21 =====
+LEGAL INFORMATION
+Permission to copy, modify and distribute the files collectively 
+known as the System Reference Document 5.1 (“SRD5”) is 
+granted solely through the use of the Open Gaming License, 
+V ersion 1.0a.
+This material is being released using the Open Gaming 
+License V ersion 1.0a and you should read and understand the 
+terms of that license before using this material.
+The text of the Open Gaming License itself is not Open 
+Game Content. Instructions on using the License are pro -
+vided within the License itself.
+The following items are designated Product Identity, as 
+defined in Section 1(e) of the Open Game License V ersion 
+1.0a, and are subject to the conditions set forth in Section 7 
+of the OGL, and are not Open Content: Dungeons & Dra-
+gons, D&D, Player’s Handbook, Dungeon Master, Monster 
+Manual, d20 System, Wizards of the Coast, d20 (when used 
+as a trademark), Forgotten Realms, Faerûn, proper names 
+(including those used in the names of spells or items), places, 
+Underdark, Red Wizard of Thay, the City of Union, Heroic 
+Domains of Ysgard, Ever- ‐- Changing Chaos of Limbo, 
+Windswept Depths of Pandemonium, Infinite Layers of the 
+Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, 
+Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal 
+Battlefield of Acheron, Clockwork Nirvana of Mechanus, 
+Peaceable Kingdoms of Arcadia, Seven Mounting Heavens 
+of Celestia, Twin Paradises of Bytopia, Blessed Fields of 
+Elysium, Wilderness of the Beastlands, Olympian Glades of 
+Arborea, Concordant Domain of the Outlands, Sigil, Lady 
+of Pain, Book of Exalted Deeds, Book of Vile Darkness, 
+beholder, gauth, carrion crawler, tanar’ri, baatezu, displa -
+cer beast, githyanki, githzerai, mind flayer, illithid, umber 
+hulk, yuan- ‐-ti.
+All of the rest of the SRD5 is Open Game Content as 
+described in Section 1(d) of the License.
+The terms of the Open Gaming License V ersion 1.0a 
+are as follows:
+OPEN GAME LICENSE V ersion 1.0a
+The following text is the property of Wizards of the 
+Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a)”Contributors” means  the copyright 
+and/or trademark owners who have contributed Open Game 
+Content; (b)”Derivative Material” means copyrighted mate-
+rial including derivative works and translations (including 
+into other computer languages), potation, modification, 
+correction, addition, extension, upgrade, improvement, 
+compilation, abridgment or other form in which an exi -
+sting work may be recast, transformed or adapted; (c) “Distri-
+bute” means to reproduce, license, rent, lease, sell, broadcast, 
+publicly display, transmit or otherwise distribute; (d)”Open 
+Game Content” means the game mechanic and includes the 
+methods, procedures, processes and routines to the extent 
+such content does not embody the Product Identity and is an 
+enhancement over the prior art and any additional content 
+clearly identified as Open Game Content by the Contribu-
+tor, and means any work covered by this License, including 
+translations and derivative works under copyright law, but 
+specifically excludes Product Identity. (e) “Product Identity” 
+means product and product line names, logos and identi -
+fying marks including trade dress; artifacts; creatures cha -
+racters; stories, storylines, plots, thematic elements, dialogue, 
+incidents, language, artwork, symbols, designs, depictions, 
+likenesses, formats, poses, concepts, themes and graphic, 
+photographic and other visual  or audio representations; 
+names and descriptions of characters, spells, enchantments, 
+personalities, teams, personas, likenesses and special abili -
+ties; places, locations, environments, creatures, equipment, 
+magical or supernatural abilities or effects, logos, symbols, or 
+graphic designs; and any other trademark or registered trade-
+mark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open 
+Game Content; (f) “Trademark” means the logos, names, 
+mark, sign, motto, designs that are used by a Contributor 
+to identify itself or its products or the associated products 
+contributed to the Open Game License by the Contributor (g) 
+“Use”, “Used” or “Using” means to use, Distribute, copy, edit, 
+format, modify, translate and otherwise create Derivative 
+Material of Open Game Content. (h) “You”or “Your” means 
+the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game 
+Content that contains a notice indicating that the Open 
+Game Content may only be Used under and in terms of this 
+License. You must affix such a notice to any Open Game Con-
+tent that you Use. No terms may be added to or subtracted 
+from this License except as described by the License itself. 
+No other terms or conditions may be applied to any Open 
+Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game 
+Content You indicate Your acceptance of the terms of this 
+License.
+4. Grant and Consideration: In consideration for agreeing 
+to use this License, the Contributors grant You a perpetual, 
+worldwide, royalty- ‐-free, non- ‐- exclusive license with the 
+exact terms of this License  to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are 
+contributing original material as Open Game Content, You 
+represent that Your Contributions are Your original creation 
+and/or You have sufficient rights to grant the rights conveyed 
+by this License.
+6. Notice of License Copyright: You must update the 
+COPYRIGHT NOTICE portion of this License to include the 
+exact text of the COPYRIGHT NOTICE of any Open Game 
+
+===== PAGE 22 =====
+Content You are copying, modifying or distributing, and 
+You must add the title, the copyright date, and the copyright 
+holder’s name to the COPYRIGHT NOTICE of any original 
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any 
+Product Identity, including as an indication as to compati-
+bility, except as expressly licensed in another, independent 
+Agreement with the owner of each element of that Pro -
+duct Identity. You agree not to indicate compatibility or co- 
+‐-adaptability with any Trademark or Registered Trademark 
+in conjunction with a work containing Open Game Content 
+except as expressly licensed in another, independent Agre-
+ement with the owner of such Trademark or Registered 
+Trademark. The use of any Product Identity in Open Game 
+Content does not constitute a challenge to the ownership 
+of that Product Identity. The owner of any Product Identity 
+used in Open Game Content shall retain all rights, title and 
+interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content 
+You must clearly indicate which portions of the work that 
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents 
+may publish updated versions of this License. You may use 
+any authorized version of this License to copy, modify and 
+distribute any Open Game Content originally distributed 
+under any version of this License.
+10. Copy of this License: You MUST include a copy of 
+this License with every copy of the Open Game Content 
+You Distribute.
+11. Use of Contributor Credits: You may not market or 
+advertise the Open Game Content using the name of any 
+Contributor unless You have written permission from the 
+Contributor to do so.
+12. Inability to Comply: If it is impossible for You to 
+comply with any of the terms of this License with respect to 
+some or all of the Open Game Content due to statute, judicial 
+order, or governmental regulation then You may not Use any 
+Open Game Material so affected.
+13. Termination: This License will terminate automati-
+cally if You fail to comply with all terms herein and fail to cure 
+such breach within 30 days of becoming aware of the breach. 
+All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held 
+to be unenforceable, such provision shall be reformed only 
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of 
+the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards 
+of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, 
+Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, 
+Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve 
+Townshend, based on original material by E. Gary Gygax 
+and Dave Arneson.
+END OF LICENSE
+D
+opo mesi di indagini siete finalmente sulla pista giusta, quella che 
+promette di condurvi nelle viscere della terra e forse tra le fiamme 
+dell’inferno... L’Oscura Chiesa di Tenebris è il cuore nero del 
+culto sul mondo mortale, un tempio segreto dove si compiono 
+orrendi sacrifici in nome delle potenze diaboliche. Varcata la soglia affronterete 
+trappole, mostri e potenti campioni del male pronti a tutto per arrestare il vostro 
+cammino. Ogni battaglia vi condurrà un passo più vicino verso la battaglia finale. 
+Questo volume include numerosi oggetti magici per personaggi malvagi e non 
+solo, stat complete di mostri e PNG e le mappe scaricabili a colori del dungeon.
+
+===== PAGE 23 =====
+D
+opo mesi di indagini siete finalmente sulla pista giusta, quella che 
+promette di condurvi nelle viscere della terra e forse tra le fiamme 
+dell’inferno... L’Oscura Chiesa di Tenebris è il cuore nero del 
+culto sul mondo mortale, un tempio segreto dove si compiono 
+orrendi sacrifici in nome delle potenze diaboliche. Varcata la soglia affronterete 
+trappole, mostri e potenti campioni del male pronti a tutto per arrestare il vostro 
+cammino. Ogni battaglia vi condurrà un passo più vicino verso la battaglia finale. 
+Questo volume include numerosi oggetti magici per personaggi malvagi e non 
+solo, stat complete di mostri e PNG e le mappe scaricabili a colori del dungeon.

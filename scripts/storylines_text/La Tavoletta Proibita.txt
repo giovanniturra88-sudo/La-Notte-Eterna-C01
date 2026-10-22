@@ -1,0 +1,1659 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+3
+ 
+ 
+La Tavoletta 
+Proibita
+Avventura per La Notte Eterna,  
+ambientazione dark epic fantasy per 5e OGL 1.0.
+Quest per PG di 7° livello
+Autore: Michele Dal Bo
+Cover Art: Angela Gubert 
+Art Director: Steven Forbus
+Grafica e impaginazione: Gennaro De Filippis
+Mappe dungeon: Michele Dal Bo
+Grazie di cuore a Kevin Stacy, In taverna da Kurt, ASD La 
+Triade, Fortytwo APS, Paolo Mazza e Federico V eltri per aver 
+fatto piovere meteore sui tavoli di gioco di questo mondo 
+della Dimensione della Materia. 
+GDR: La Notte Eterna
+Pubblicato da MyCatPortal Lab per AliRibelli Edizioni 2024© 
+AliRibelli Edizioni, Gaeta www.aliribelli.com
+lanotteterna@aliribelli.com 
+È severamente vietata la riproduzione, anche parziale del 
+testo, effettuata con qualsiasi mezzo, senza l’espressa auto-
+rizzazione dell’Editore. 
+Questo progetto è stato finanziato su Kickstarter. Siamo 
+molto grati ai nostri backer. Un ringraziamento speciale va ai 
+Chosen of the Gods: Abdulaziz Al-Kaboor, Alberto Gervasio, 
+Alessandro Tararan, Alberto Battaglia, Andrea Propersi, Bra-
+dley Hamm, Brad Powers, Charles M. Beavers, Christopher 
+Royer, Christopher Thomas Lezer, Davide Gibin, Derren 
+Mckenna, Evan Taylor Fails, Giuseppe Angelo d’Amico, 
+Jason Cummings, Jayson Santiago, Josh Kanapkey, Joshua 
+L. Knous, Justin Gardin, Justin Joseph Lafser, Justin Offer-
+mann, Katharine Wright, Marco Carvelli, Michael Peter 
+Henry Young, Randy Marsh, Reka Reynolds, Rita Balloriani, 
+Robert Earl Barnhill, Robert Griswold, Sara Schlögl, Sean 
+Bradley, Sebastian Coulter, Seth Maxson, Stefano Chierchini, 
+Trevor Orion Nelson, Tyler Russell, William J. Mapp. 
+Manuali base:
+La Notte Eterna ambientazione 5e 
+Mostri ed Eroi 
+La Canzone di Nebvarasa 
+Avventure: 
+Accademia della Magia Profonda 
+Grosso Guaio a Varshold 
+La Bestia Sacra 
+La Morte Strisciante 
+La Tavoletta Proibita 
+L’Oscura Chiesa di Tenebris 
+Pioggia di Fuoco 
+Racconti della Notte Eterna 
+The Star Gazer
+Non serve buttarsi nel pozzo! 
+Scansiona il codice QR in basso 
+per scoprire le mappe di Erala e dei dungeon:
+https://tinyurl.com/lneforbidden
+
+
+===== PAGE 4 =====
+4
+SOMMARIO
+INTRODUZIONE ALL’AVVENTURA....................................................................................... 5
+RETROSCENA PER IL GM.......................................................................................................... 5
+SOMMARIO DELLE SCENE........................................................................................................ 6
+SCENA 1 - ERALA............................................................................................................. 6
+SCENA 2 - LA LEGGENDA DI MARUT........................................................................ 8
+SCENA 3 - IL CAMPO DESOLATO................................................................................ 11
+SCENA 4 - IL POZZO DEI SIGILLI................................................................................. 12
+CONCLUSIONE DELL’AVVENTURA....................................................................................... 15
+PERSONAGGI NON GIOCANTI................................................................................................. 16
+ALASTRO........................................................................................................................... 16
+CREMY................................................................................................................................ 17
+CROMPON SALISTRADE............................................................................................... 18
+NUMORK E CREMY........................................................................................................ 19
+MARUT............................................................................................................................... 20
+STOLKRA CAMPERK...................................................................................................... 22
+OGGETTI MAGICI........................................................................................................................ 24
+LIBRO DELLE LEGGENDE ANTICHE.......................................................................... 24
+SIGILLATORE.................................................................................................................... 24
+TAVOLETTA PROIBITA.................................................................................................. 25
+
+===== PAGE 5 =====
+5
+INTRODUZIONE  
+ALL’A VVENTURA
+N
+elle Pianure di Xanesh, lungo la strada che con-
+duce verso le terre a nord-est, si erge il piccolo 
+reame di Erala. Il suo principale insediamento è 
+un paese fortificato, famoso per i grandi campi 
+e la produzione di ricche coltivazioni che vengono vendute 
+fino alla Baronia di Mubunash.
+Recentemente una pioggia di meteore si è 
+abbattuta sulla zona e una di queste ha colpito 
+duramente una zona a nord di Erala: un campo 
+desolato, noto per essere l’unico dove nessuno 
+era mai riuscito a coltivare nemmeno un filo 
+d’erba, ha rivelato dopo l’impatto uno 
+strano e antico pozzo.
+È il mese di ados ed Erala è famosa 
+per la Festa delle Primizie: ogni abitante 
+fa sfoggio dei prodotti che metterà in 
+semina e preannuncia novità che poi 
+andranno a finire sulle tavole dei ricchi 
+signori.
+Alcuni mercanti hanno fatto 
+ritorno dal paese con delle notizie 
+alquanto contrastanti. La meteora si 
+è abbattuta vicino alla città, senza 
+aver danneggiato campi o la stessa 
+Erala: tuttavia voci parlano di una 
+“malattia della terra” e di diversi agri-
+coltori che si sono ammalati.
+Ha iniziato a circolare anche una 
+leggenda: il crudele Marut si è 
+risvegliato, maledicendo 
+la terra e rubando 
+le anime degli abi-
+tanti.
+Il raccolto 
+della nuova 
+annata è a 
+rischio, non solo 
+per Erala, ma per 
+molti dei reami delle 
+pianure di Xanesh.
+RETROSCENA PER IL GM
+Erala è stata colpita da una meteora che si è abbattuta sul 
+“Campo Desolato”, chiamato così dalla gente del luogo perché 
+era l’unico pezzo di terra che non dava alcun frutto.
+L’impatto ha riportato alla luce il Pozzo dei Sigilli, un 
+luogo magico e antico, e la Tavoletta Proibita: un 
+artefatto che permetteva all’antico stregone Marut di 
+assorbire l’anima delle persone fino a farle 
+diventare dei servitori non morti.
+Un giovane contadino, Alastro, ha rin-
+venuto la Tavoletta ed è stato soggiogato 
+dall’ombra di Marut: ora sta rubando la 
+forza vitale degli altri agricoltori e anche 
+contaminando i campi con le spore di 
+un fungo venefico che cresce nella 
+zona del Pozzo dei Sigilli.
+La leggenda del crudele Marut, 
+uno stregone corrotto da Garod, 
+ha iniziato a diffondersi come una 
+diceria tra gli abitanti di Erala e la 
+città si trova divisa tra chi crede 
+alla leggenda e chi è semplice-
+mente preoccupato dal danno 
+economico derivante da un cattivo 
+raccolto.
+I personaggi sono chiamati a 
+risolvere il problema della Tavo -
+letta Proibita e a trovare il modo di 
+sigillare il suo potere per liberare la 
+cittadina di Erala dalla corruzione di 
+Marut.
+Per compiere questa impresa dovranno 
+esplorare un sotterraneo, al cui interno si 
+trova il Sigillatore, raccogliendo gli elementi 
+necessari ad attivare il manufatto. Marut riven-
+dica il proprio antico potere: riusciranno i per-
+sonaggi a sigillare la Tavoletta Proibita e a 
+salvare Erala dal disastro?
+
+
+===== PAGE 6 =====
+SOMMARIO  
+DELLE SCENE
+SCENA 1: Erala. I personaggi arrivano ad Erala e iniziano a 
+raccogliere informazioni su quanto è accaduto nelle ultime 
+settimane, dopo la caduta della meteora.
+SCENA 2: La Leggenda di Marut. I personaggi devono trovare 
+la verità in mezzo alle voci e dicerie che circolano sulla leg-
+genda di Marut il Crudele. Gli indizi li porteranno a scoprire 
+l’autore materiale della situazione attuale in città.
+Quest secondaria “Lotta tra fazioni”: il GM può introdurre 
+anche la vicenda politica della famiglia Camperk contro il 
+reggente per cercare di destituirlo. I personaggi potranno 
+scegliere da che parte stare e aiutare una fazione rispetto 
+all’altra.
+SCENA 3: Il Campo Desolato. I personaggi si avventurano 
+verso il Campo Desolato e affrontano le difese erette da 
+Marut prima di poter raggiungere il Pozzo.
+SCENA 4: Il Pozzo dei Sigilli. I personaggi esplorano il sotter-
+raneo per trovare tutti gli elementi necessari ad attivare il 
+Sigillatore per vincolare la Tavoletta Proibita e liberare Erala 
+dalla maledizione che l’affligge.
+CONCLUSIONE: I personaggi vengono ricompensati per il 
+lavoro svolto. Erala potrà riprendere la semina e la Festa 
+delle Primizie potrà essere celebrata, ma un’ombra sembra 
+addensarsi sulle Pianure di Xanesh e il nome di Marut tornerà 
+a farsi sentire…
+SCENA 1 - Erala
+Il GM può descrivere l’arrivo al paese con queste parole:
+Le Pianure di Xanesh sono una regione vasta e variegata, 
+costellata da reami di diverse dimensioni, incontri com-
+merciali stabili e sporadiche lotte interne che rischiano 
+di destabilizzare le città e i villaggi. Tutti i reami sono 
+legati da un giuramento alla Baronia di Mubunash, che 
+spesso diventa l’elemento giudice e ammonitore delle 
+diverse discordie.
+La strada che state percorrendo è mantenuta in ottime 
+condizioni grazie al costante flusso di scambi commer-
+ciali: dalla direttrice, un bivio ben segnalato vi indirizza 
+verso Erala.
+Dopo diversi minuti giungete in vista delle mura che 
+difendono il paese: sono composte da grandi massi e 
+hanno un’altezza di circa cinque metri. Ad intervalli 
+regolari si elevano salde e forti torri di osservazione 
+e bastioni di guarnigione. Tre accessi permettono di 
+entrare a Erala, costituiti da doppie entrate: un primo 
+portone dà accesso ad un cortile, dove se necessario 
+vengono eseguite perquisizioni, prima di permettere ai 
+viaggiatori di accedere al secondo portone.
+Il paese è immerso nella florida Foresta delle Lanterne, 
+chiamata così per via dei particolari effetti luminescenti 
+delle piante, che sembrano invitare i viaggiatori verso 
+dei percorsi luminosi.
+A nord della città, il Lago Foskor permette di avere una 
+costante riserva di acqua per irrigare i campi interni alle 
+mura e coltivare numerose varietà di verdure, frutta e 
+cereali.
+Tutte le strade che entrano a Erala convergono verso la 
+piazza centrale, lastricata in ciottolato e pietra. In questa 
+piazza vengono svolti i maggiori eventi commerciali, come 
+il mercato delle spezie, il conteggio delle merci e anche l’asta 
+delle primizie.
+Su questa piazza si affacciano due importanti edifici, 
+il municipio e la biblioteca, mentre il Tempio della Morte 
+Tiranna si affaccia sulla strada nord e la Locanda delle Luc-
+ciole sulla strada ovest.
+6
+
+===== PAGE 7 =====
+7
+Municipio
+Il municipio è posizionato sul lato nord-ovest della piazza 
+e si staglia imponente rispetto agli edifici che lo affiancano. 
+Le pareti sono fatte di solida pietra e l’entrata è una grande 
+scalinata di marmo che conduce al portone, sorvegliato da 
+due guardie dentro una garitta militare. Il municipio è com-
+posto da tre piani di sale e uffici, dove vengono svolti quasi 
+tutti i compiti amministrativi.
+Il sindaco, o reggente, di Erala è Crompon Salistrade, 
+un progenie immonda dai modi sbrigativi e molto pratici. 
+I personaggi possono incontrarlo quasi sempre qui o nella 
+piazza antistante, intento a conversare con i mercanti di 
+passaggio, o nella Locanda delle Lucciole dove spesso passa 
+le serate.
+Biblioteca
+La biblioteca è stata eretta sul lato sud-est della piazza e 
+sembra quasi in contrapposizione con il municipio. La strut-
+tura portante è in pietra ma molti inserti in legno coperti 
+da piante rampicanti luminescenti completano le pareti di 
+questo edificio. Si tratta di una torre a pianta quadrata di tre 
+piani con una costruzione sul tetto adibita a osservatorio 
+astronomico, che la rende di fatto più alta del municipio.
+Al piano terra, sono presenti le sale di lettura e salette 
+private per gli accordi economici, circondate da numerose 
+scaffalature colme dei libri più comuni e richiesti.
+Al primo piano si trovano volumi legati alla produzione 
+agricola, alle semine e gli annuari che riportano tutte le vicis-
+situdini atmosferiche degli ultimi quindici anni.
+Il secondo piano e il terzo piano sono zone riservate e 
+non accessibili normalmente al pubblico. Al loro interno 
+sono collocate le sezioni magiche e i tomi religiosi, inoltre è 
+presente una piccola sezione astronomica.
+L’osservatorio astronomico è aperto al pubblico in alcune 
+occasioni, o su appuntamento, e l’accesso si trova su una 
+scala esterna che dal primo piano si collega direttamente 
+alla piattaforma.
+La biblioteca è gestita da Sabira , una sapiente monaca 
+molto accogliente e grande ascoltatrice, anche se dal carattere 
+lunatico.
+Tempio della Morte Tiranna
+Questo grande tempio è dedicato alle divinità Krea e Garod.
+Krea è la divinità della morte e viene invocata tramite 
+canti, preghiere e incensi per aiutare il defunto ad un viaggio 
+sereno verso l’aldilà. Garod è il dio della tirannide, presente 
+nella città con numerose invocazioni per il buon commercio 
+e per le molteplici leggi emanate negli ultimi anni, spesso a 
+favore di Erala. La sua struttura imponente di pietre nere e 
+pennacchi lo rendono una costruzione unica in tutta Erala. 
+Al suo interno numerosi spazi sono dedicati ai fedeli, che 
+possono donare offerte e intonare canti alla propria divinità. 
+Un ampio corridoio centrale viene utilizzato per le ricorrenze 
+funebri: il defunto passa sotto un arco dedicato a Krea e il 
+suo corpo viene cosparso con spezie, profumi e incenso, per 
+poi essere chiuso nella bara o cremato nel forno sul retro 
+del tempio.
+Locanda delle Lucciole
+Un eccentrico edificio lungo la strada ovest porta l’insegna 
+“Locanda delle Lucciole”. Il suo nome si deve alla presenza 
+di numerose lucciole che vengono utilizzate per illuminare 
+le stanze e che spesso si raccolgono anche sui muri esterni.
+Le lucciole sono molto numerose nella Foresta delle 
+Lanterne e alcuni agricoltori sono riusciti ad addestrarle e a 
+farle vivere molto più a lungo grazie a una particolare pianta 
+utilizzata come nutrimento per questi insetti.
+La locanda è stata costruita per accogliere i mercanti e i 
+viaggiatori: si presenta accogliente e conviviale, con nume-
+rosi tavoli e un grande fuoco al centro del salone principale. 
+Può ospitare nelle sue stanze numerosi viaggiatori e ha anche 
+due sale che possono essere riservate per trattative impor -
+tanti o ricorrenze private.
+Viene gestita da Numork e sua moglie Cremy, dei 
+progenie immonda molto competenti nell’economia e nella 
+ristorazione.
+
+
+===== PAGE 8 =====
+8
+Casa di Alastro
+Alastro è la fonte della situazione attuale a Erala. Qui vive 
+insieme ai suoi genitori e a tre fratelli più giovani. Il padre 
+è uno dei coltivatori più influenti e per questa ragione nella 
+loro casa vengono tenute regolarmente due sere alla settimana 
+le riunioni del comitato dei coltivatori. È in queste occasioni 
+che Alastro usa principalmente la tavoletta per assorbire le 
+energie vitali dei suoi concittadini. Sotto l’influsso di Marut, 
+il giovane si è fatto astuto e ha escogitato numerosi espe -
+dienti per far toccare la Tavoletta senza farsi notare: talvolta 
+la nasconde sotto un tappeto, altre la sostituisce alla seduta 
+di una sedia o la utilizza come vassoio per offrire pietanze. 
+Anche se con tocchi fugaci o ridotti dai tessuti, la Tavoletta 
+è riuscita pian piano a privare delle energie vitali gli agricol-
+tori. Alastro è attento a non esporre per troppo tempo una 
+singola persona, evitando di attirare attenzioni indesiderate. 
+Resta più tempo possibile in casa con la Tavoletta fingendosi 
+malato come gli altri agricoltori e le rare volte in cui si reca 
+al villaggio, per non destare troppi sospetti, la custodisce in 
+uno scrigno in uno scomparto segreto che ha ricavato sotto 
+al pavimento. Esce spesso durante la notte portando con sé 
+la Tavoletta: si reca prima al Campo Desolato per raccogliere 
+le spore fungine, poi si reca nei campi per spargerle con cura. 
+L’influsso dei Marut lo ha reso estremamente paranoico e 
+attento negli spostamenti, e nelle settimane che sono pas-
+sate ha affinato sempre di più le proprie abilità di furtività. I 
+personaggi possono partecipare liberamente alle riunioni del 
+comitato, anche se la loro presenza non passerà certamente 
+inosservata: per poter cogliere Alastro in azione dovrebbero 
+travestirsi o tenersi nascosti. Sorprenderlo durante i suoi giri 
+notturni è più facile, ma prima di muovere accuse devono 
+trovare delle prove credibili. 
+Fattoria dei Camperk
+Sul lato sud del paese il fiume che lo attraversa si biforca, 
+qui sorge la fattoria gestita dalla famiglia dei Camperk, degli 
+avidi e spocchiosi proprietari terrieri, agricoltori da nume-
+rose generazioni. La famiglia, composta da due sorelle e tre 
+fratelli, si impiccia in continuazione con la vita commerciale 
+e politica della città, tanto da essere presente praticamente 
+ovunque.
+I Camperk sono particolarmente spaventati dalla caduta 
+della meteora, tanto da essere sul piede di guerra contro il 
+Sindaco: stanno invocando il diritto di revoca del suo potere 
+come reggente.
+Infatti Stolkra Camperk, la attuale capofamiglia, desidera 
+assumere il potere di Erala e sta alimentando la tensione in 
+paese, potrebbe quindi avvicinare il gruppo per cercare di 
+assoldarlo contro il sindaco.
+SCENA 2 
+La Leggenda di Marut
+Dopo aver familiarizzato con i luoghi e gli abitanti più impor-
+tanti di Erala, i PG dovrebbero iniziare a raccogliere indizi 
+per capire esattamente cosa stia succedendo, e come fermare 
+la minaccia.
+A complicare la situazione ci sono i tentativi della fami-
+glia Camperk di rimuovere l’attuale sindaco Crompon 
+Salistrade. Stolkra Camperk addossa tutta la colpa delle 
+recenti sciagure a Crompon e ha sparso molte voci e dicerie 
+che indicano il reggente come un essere diabolico intento 
+a distruggere il paese. Cercando di ottenere altre prove per 
+screditare il rivale, la mezzorca avvicinerà il gruppo offrendo 
+una ricca ricompensa in cambio delle prove per incastrare 
+il colpevole.
+In effetti Crompon si comporta in modo sospetto: in 
+realtà sta organizzando un’asta di merci illegali in una stanza 
+della Locanda delle Lucciole, che si terrà una o due sere suc-
+cessive rispetto all’arrivo dei PG. Numork e Cremy, i due 
+proprietari della locanda, sono d’accordo con il sindaco e 
+sono molti anni che lo aiutano in questa attività. Se il gruppo 
+dovesse intervenire durante l’asta, Crompon cercherebbe di 
+giustificarsi: le merci sono illegali, ma l’uso che ne viene fatto 
+non è responsabilità di chi le produce. Come un fabbro non 
+è responsabile di come viene utilizzato un pugnale che ha 
+forgiato, così alcuni degli agricoltori di Erala coltivano in 
+segreto alcune specie di vegetali da cui possono essere estratte 
+droghe o veleni. Gli individui che partecipano a quest’asta 
+sono loschi, ma il sindaco è pronto a ribattere che, se non le 
+comprassero qui, acquisterebbero ugualmente certe merci 
+
+
+===== PAGE 9 =====
+9
+da altre parti. A parte la natura illegale delle merci, l’asta 
+si svolge in modo regolare e i soldi vanno agli agricoltori, 
+contribuendo al benessere del paese.
+Starà al gruppo decidere se denunciare il sindaco ai 
+concittadini, la quasi totalità all’oscuro di questi commerci, 
+oppure se tacere per non far degenerare una situazione già 
+molto tesa.
+In ogni caso sarà loro chiaro che Crompon non è respon-
+sabile dell’inaridimento dei campi e il male che affligge i col-
+tivatori: le indagini devono proseguire.
+Tra le strade della città di Erala si è diffusa la leggenda del 
+crudele Marut e sono oramai messe in giro diverse dicerie.
+La seguente tabella può essere utilizzata dal GM per defi-
+nire che tipo di diceria è presente in un dato luogo della città 
+o ascoltando delle conversazioni: può tirare 1d10 e fornire ai 
+personaggi la diceria corrispondente. Tra parentesi quadre 
+sono forniti chiarimenti per il GM.
+L’unico modo per fare chiarezza sulla leggenda è andare 
+nella biblioteca e consultare il Libro delle Leggende Anti-
+che. Sabira si mostrerà inizialmente sospettosa, volendo 
+chiarire le intenzioni dei personaggi, e andrà convinta delle 
+loro buone intenzioni.
+Una volta ottenuto l’accesso al libro, i PG dovranno 
+attivarlo usando almeno tre delle seguenti parole chiave: 
+“Marut”, “Tavoletta”, “Fargo”, “Pozzo”, “Sigilli”, “Anime”.
+Inserite le parole giuste comparirà la storia dello stregone, 
+i cui punti essenziali sono riportati di seguito:
+• Marut, conosciuto come “stregone delle anime”, era un 
+sacerdote di Krea che fungeva da mediatore delle anime 
+e del loro passaggio verso l’aldilà. L’arco all’interno della 
+chiesa è stato costruito in origine da Marut, e la funzione 
+che ancora oggi viene celebrata a Erala è una sua inven-
+zione. 
+• Marut ha scoperto i suoi poteri durante una cerimonia 
+nel lago Folkor, da allora ha iniziato a sentire una forza 
+oscura e tirannica parlare nei suoi sogni. Corrotto lenta-
+mente da Garod, ha stretto con lui un patto per ottenere 
+maggior potere.
+• Lo stregone ha ricevuto la Tavoletta Proibita dal dio 
+stesso, per poter imprigionare le anime e vincolarle al 
+proprio volere, trasformandole in servitori ai propri 
+ordini.
+• Un gruppo di eroi, non si sono tramandati i nomi, sono 
+arrivati in paese riuscendo a sconfiggere infine lo stre -
+gone. Non riuscendo però a distruggere la Tavoletta, 
+hanno commissionato ad un celebre artigiano di nome 
+Fargo la costruzione del Sigillatore e del Pozzo dei Sigilli. 
+• Il Pozzo contiene quattro altari necessari a caricare le 
+pietre che alimenteranno il Sigillatore: uno strumento 
+costruito con l’unico scopo di privare la Tavoletta Proi-
+bita del suo potere e vincolarla per sempre. 
+• Prima che le pietre fossero sufficientemente cariche per 
+completare il rituale, il gruppo di avventurieri era stato 
+costretto a ripartire per affrontare un’altra grande minac-
+cia, e da allora non si è più saputo nulla di loro.
+• Fargo ha custodito la Tavoletta il più a lungo possibile, 
+in attesa di poter completare il rituale, ma pian piano ha 
+ceduto alla corruzione esercitata dall’ombra di Marut. 
+Prima di perdere completamente il controllo ha comple-
+tato una lastra di pietra per sigillare l’entrata del Pozzo, 
+conscio che questo non avrebbe fermato la Tavoletta, 
+ma avrebbe garantito la sicurezza per il paese per molti 
+anni. Dopo aver dato precise disposizioni, si è gettato nel 
+pozzo insieme alla Tavoletta, prima che l’entrata venisse 
+richiusa con la lastra di sigillo.
+Quanto narrato nel libro si è svolto diverse generazioni 
+fa, e a Erala i fatti si sono mescolati al mito.
+I PG a questo punto dovrebbero avere tutte le infor -
+mazioni per capire la minaccia e come sventarla, in caso di 
+necessità il GM potrebbe dare qualche altro suggerimento 
+attraverso Sabira.
+La loro priorità dovrebbe essere individuare e recuperare 
+la Tavoletta, ma potrebbero volersi recare al Campo Desolato 
+senza di essa. Se lo ritiene il GM potrebbe far comparire 
+Alastro, richiamato sul posto dall’influsso di Marut, che li 
+attaccherà ma al contempo darà loro l’occasione di recuperare 
+la Tavoletta.
+Se cercano di scoprire più informazioni sul male che 
+affligge i coltivatori, possono arrivare a scoprire che ad 
+esserne afflitti sono principalmente i coltivatori e i braccianti, 
+soprattutto gli uomini (dato che più spesso partecipano alle 
+riunioni del comitato), e che questo morbo non sembra 
+diffondersi per contagio diretto: si sono ammalati diversi 
+individui in diverse case, senza che i loro famigliari mostras-
+sero alcun sintomo. Il morbo si manifesta con spossatezza, 
+letargia e un generale indebolimento fisico. I primi casi sono 
+comparsi dopo la caduta della meteora, in contemporanea 
+con la morìa delle coltivazioni, per questo buona parte della 
+popolazione è convinta che si tratti di due fenomeni correlati. 
+Anche i campi sembrano essere afflitti a caso: le chiazze di 
+vegetazione morente sono sparpagliate in diverse coltiva -
+zioni, non sembrano colpire un tipo di vegetale in particolare 
+e non sono stati individuati parassiti o altri animali infestanti. 
+I PG dovranno seguire la pista dei coltivatori ammalati o 
+dei campi inariditi, fino a cogliere Alastro sul fatto, recupe-
+rando così la Tavoletta. Cercare di separare con la forza Ala-
+stro dalla Tavoletta non sarà facile senza l’aiuto degli abitanti 
+di Erala, dato che il giovane farà di tutto per rientrarne in 
+possesso: la soluzione più semplice sarebbe utilizzare l’incan-
+tesimo rimuovere maledizione o un effetto simile per liberare 
+il contadino dall’influsso di Marut. Il giovane non cederà la 
+Tavoletta senza combattere, continuando a difenderla fino 
+alla morte all’occorrenza.
+
+===== PAGE 10 =====
+10
+d10 Dicerie sulla leggenda di Marut
+1
+Il crudele Marut è stato un potente stregone che rubava le anime delle persone scrivendo 
+con il sangue il loro nome su una tavoletta maledetta. [Parzialmente vero, la Tavoletta esiste 
+ma non è necessario scriverci nulla.]
+2
+Marut ha fondato questo villaggio dopo una dura lotta con i demoni: è un salvatore e non 
+un crudele stregone. [Falsa, Marut è vissuto dopo la fondazione del paese e ha stretto dei 
+patti con demoni].
+3
+Catturava le anime dei viandanti e le usava come sudditi per edificare la sua dimora infer-
+nale. Si dice che sia stato sconfitto da un solo eroe di nome Fargo. [Parzialmente vero, ma 
+è stato sconfitto da un gruppo di eroi. Fargo è il costruttore del Sigillatore.]
+4 Il suo potere era immenso. Ora si è risvegliato e si nutre di anime per tornare a essere lo stregone 
+potente di un tempo. [Vero, anche se a raccogliere le energie vitali è materialmente Alastro.]
+5 Marut era un demone infernale, solo in sacrificio di Fargo il Santo permise di sigillare la 
+malefica entità. [Parzialmente vero, Fargo si è sacrificato per sigillare la Tavoletta nel Pozzo.]
+6
+La dimora dello stregone era conosciuta come il Pozzo del Peccato, e al suo interno si 
+celavano orrori inimmaginabili.  [Falso, il Pozzo dei Sigilli è stato costruito in seguito alla 
+sconfitta di Marut, per sigillare la Tavoletta.]
+7
+Marut il cattura-anime, il potente signore dei morti. Siamo perduti, Erala diventerà una 
+città fantasma. Siamo spacciati! Dovremmo tutti andarcene finché siamo in tempo! [Vera, 
+anche se Marut ha già lasciato il paese le azioni di Alastro condurrebbero a quell’esito.]
+8
+Marut era un sacerdote che salvò il villaggio da una gravissima carestia, immolandosi in 
+un pozzo sacro per far tornare nuovamente la pioggia. [Falso, fu Fargo a sacrificarsi nel 
+pozzo per contenere la Tavoletta e i suoi effetti.]
+9
+Credo che si sbaglino: la leggenda era di Mariat, una crudele ammaliatrice che controllava 
+le persone incidendo dei sigilli sulla loro fronte. Marut non l’ho mai sentito. Secondo me 
+si confondono con Mariat. [Falsa, ma il riferimento ai sigilli si ricollega al pozzo.]
+10
+Si narra di un oggetto magico con cui pare Marut potesse incanalare le sue più malvagie 
+energie e catturare le anime delle persone. Ho sentito dire che era un globo di argilla conte-
+nente il cuore di un demone. [Parzialmente vera, non si tratta di un globo ma della Tavoletta.]
+
+===== PAGE 11 =====
+SCENA 3 
+Il Campo Desolato
+Il Campo Desolato è da tempo immemorabile un terreno 
+arido che si estende poco fuori dalle mura cittadine, dove 
+né la Foresta delle Lanterne né le coltivazioni sembrano 
+attecchire.
+Alastro si era deciso a capire perché su questo terreno 
+non crescesse nulla, e dopo diversi incroci sperimentali era 
+riuscito a trovare una pianta capace di attecchire qui. 
+La recente caduta della meteora ha riportato alla luce 
+un pozzo distruggendo la pietra che lo sigillava. Nel cratere 
+d’impatto ha spostato il terreno che ricopriva il pozzo e il 
+suo sigillo, che ora giace in frammenti sparsi, ha iniziato a 
+crescere una strana vegetazione fungina, nata dall’unione 
+dell’esperimento di Alastro e delle energie corrotte che sta-
+gnavano nel pozzo.
+Alastro, giunto sul posto per controllare lo stato del 
+suo esperimento dopo la caduta della meteora, ha trovato 
+un cadavere nel pozzo: il corpo di Fargo che si era impic -
+cato ad una catena lanciandosi dentro il pozzo, stringendo 
+tra le braccia un involto di tessuto. Il giovane spinto dalla 
+curiosità ha tratto fuori dal pozzo i resti mezzi mummificati 
+della creatura, e nell’involto ha trovato la Tavoletta Proi -
+bita. Appena l’ha toccata è stato invaso dal potere latente 
+dell’oggetto maledetto e ora si trova sotto il nefasto influsso 
+dell’ombra di Marut.
+Marut ha utilizzato il giovane Alastro proprio servitore, 
+spingendolo a spargere nei campi il fungo che cresce nel 
+cratere, rendendo aridi i terreni, e raccogliendo in segreto 
+le energie vitali dei concittadini per alimentare la Tavoletta.
+Anche se lo spirito dell’antico stregone è riuscito a pos-
+sedere un mercante lasciando la città, il suo legame con la 
+Tavoletta è ancora forte e Alastro continua a raccogliere forza 
+vitale per il suo padrone.
+Dal centro del Campo Desolato si estende ora una strana 
+vegetazione: ombre sinistre sembrano muoversi tra di essa, 
+senza però uscire dal limitare della macchia vegetale. 
+Primo Cerchio
+Un primo cerchio, più esterno, è ricoperto da una lussureg-
+giante vegetazione, al cui interno si celano 16 arbusti maligni 
+e 10 rampicanti maligni, che presidiano la zona senza però 
+uscire dal limitare del campo. 
+I personaggi che attraversano questa prima zona di piante 
+senza rimanere entro 3 metri dalla Tavoletta iniziano a muo-
+versi al rallentatore, come da effetti dell’incantesimo lentezza 
+(CD 16).
+Secondo Cerchio
+Il cratere di circa 10 metri di diametro con pareti molto 
+ripide, risultato dell’impatto della meteora, separa la zona più 
+interna del secondo cerchio. Sull’argine esterno del cratere 
+sono cresciuti degli strani funghi luminescenti, le cui spore 
+sono causa degli effetti dell’inaridimento dei campi della città.
+L’interno del cratere è invece completamente secco 
+e riarso: appena passata la cresta del cratere i personaggi 
+subiscono gli effetti dell’incantesimo inaridire (CD 14). Chi 
+si trova entro 3 metri dalla Tavoletta Proibita dimezza invece 
+i danni, o li annulla se superano il tiro salvezza.
+A guardia dell’entrata del pozzo ci sono due smarriti, 
+richiamati qui dal volere di Marut (Mostri ed Eroi de La Notte 
+Eterna). Gli smarriti non faranno passare nessuno, nemmeno 
+con la Tavoletta, ma non inseguiranno gli intrusi fuori dal 
+cratere.
+Frammenti del Sigillo Spezzato
+Nel cratere lasciato dall’impatto della meteora si possono 
+trovare i frammenti di una grossa roccia circolare su cui si 
+vedono i segni di rune e antichi glifi. Questi sono i resti di 
+un sigillo che era stato posto a tappare il pozzo, dopo che un 
+avventuriero vi si era gettato per contenere l’influsso della 
+Tavoletta, distrutto dall’impatto della meteora. 
+Il Pozzo - Entrata del Sotterraneo
+Questo ampio pozzo circolare è l’entrata per il sotterraneo 
+che contiene il Sigillatore. I personaggi dovranno ingegnarsi 
+per calarsi dal pozzo, fino a raggiungere l’apertura al com -
+plesso sotterraneo che si trova 6 metri più in basso, mentre 
+il pozzo scende ulteriormente fino a dell’acqua stagnante e 
+putrida, una decina di metri più in basso.
+11
+
+===== PAGE 12 =====
+SCENA 4 
+Il Pozzo dei Sigilli
+I personaggi dovranno esplorare il pozzo dei sigilli per otte-
+nere tutte le risorse a vincolare il potere della Tavoletta, met-
+tendo fine alla minaccia che incombe su Erala. Anche dopo 
+aver fermato Alastro e sigillata la Tavoletta, un’altra minaccia 
+aleggia all’orizzonte: l’anima di Marut sta ancora vagando per 
+le pianure di Xanesh e prima o poi esigerà vendetta.
+1 – La Stanza dei Serpenti
+Dopo circa 6 metri di discesa, sul lato del pozzo si trova 
+un’apertura che lascia intravedere una stanza, mentre il pozzo 
+scende ulteriormente fino a raggiungere dell’acqua stagnante 
+e putrida, una decina di metri più in basso.
+Attraversando l’apertura si entra in una stanza che con-
+tiene due enormi statue di serpenti, alte fino al soffitto, con 
+la faccia e la lingua rivolte verso il pozzo. Sono immortalati 
+in posizione di attacco e minacciosi.
+All’interno della bocca del serpente a nord è presente una 
+grossa chiave di metallo, che serve per la porta 3 e la porta 6, 
+e può essere individuata superando una prova di Percezione 
+(CD 15). Nella bocca del serpente a sud c’è uno strano pezzo 
+di stoffa magico che risulta sempre freddo, utile per prendere 
+la pietra azzurra 12, che può essere individuato superando 
+una prova di Percezione (CD 10).
+La stanza è molto umida e le pareti sono ricavate nella 
+nuda roccia grigia e nera. Non c’è alcun tipo d’illuminazione 
+oltre alla poca luce che potrebbe filtrare dal pozzo.
+Nell’angolo nord-est della stanza un anfratto circolare 
+contiene una piattaforma su cui è posto il Sigillatore (2). 
+Nella parete sud un grande arco conduce ad un corridoio 
+molto ampio su cui si affaccia una porta di metallo finemente 
+lavorata (3).
+2 - Il Sigillatore 
+In questa alcova semicircolare si trova una grossa base di 
+pietra grigia lavorata con antiche rune, al cui centro si trova 
+il Sigillatore. Questo antico strumento permette di sigillare 
+il potere di un oggetto magico e di privarlo di ogni forma 
+di magia. Il Sigillatore è composto da una colonna d’oro e 
+argento che termina in un piatto circolare da cui si allar -
+gano quattro raggi collegati a delle coppette di quattro colori 
+diversi: salmone, rosso, verde e blu. Sul piatto centrale va 
+posto l’oggetto su cui agire, mentre nelle quattro coppette 
+vanno posizionati gli ingredienti sigillanti, in questo caso 
+sono quattro pietre che si trovano nel sotterraneo. 
+3 - La Porta di Metallo Mimic
+Alla fine dell’ampio corridoio, il passaggio è bloccato da una 
+robusta porta di metallo finemente lavorata. È presente una 
+grossa serratura, la cui chiave si trova in una delle bocche 
+del serpente. Se si tenta di scassinarla, di colpirla o di usare 
+magie per aprirla, si attiva una trappola-mostro.
+In realtà la porta è un Mimic, tenuto in stasi dalla magia, 
+che si attiva se tenta di forzare la porta. Una volta sconfitto 
+il mostro, o utilizzando la chiave, la porta si apre su un cor-
+ridoio lungo e buio.
+Sulla parete sud, qualche metro oltre la porta, si trova un 
+muro illusorio (4) che può essere individuato superando una 
+prova di Percezione (CD 16) oppure tramite l’incantesimo 
+individuazione del magico.
+4 - La Stanza degli Scheletri
+A questa stanza si accede attraverso il muro illusorio: al di 
+là della soglia un forte odore di carne putrefatta, che non si 
+sente da oltre l’illusione, permea un corridoio che conduce 
+a una stanza il cui pavimento è pieno di ossa e sangue rat-
+trappito. Fitte ragnatele scendono come drappi dal soffitto e 
+impediscono di avere una perfetta visuale della stanza.
+Nella stanza si trovano cinque scheletri che si animano 
+non appena qualcuno supera la porta illusoria. Sono servitori 
+che devono proteggere il tesoro contenuto nella stanza.
+Nell’angolo nord-ovest si trova uno scrigno contente 
+1000 peku d’oro (8000 imperiali d’argento) e due oggetti 
+magici: una caraffa dell’acqua eterna e una pozione dell’e-
+roismo.
+Gli scheletri non superano la porta illusoria e se tutti i 
+personaggi escono dalla stanza essi ritornano a essere ossa e 
+polvere, rianimandosi se qualche intruso entra nuovamente.
+5 - La Pietra Sigillo Salmone
+Il corridoio incrocia questa stanza dividendola in due parti: 
+a nord una scaffalatura completamente distrutta conteneva 
+libri e tomi ridotti ormai in polvere e illeggibili; nella parte a 
+sud si trova il primo altare dei sigilli. Sopra di esso si staglia 
+in bella vista una pietra color salmone. Irradia una luminosità 
+che si espande in un raggio di 3 metri dall’altare. Chiunque 
+entri nella zona illuminata attiverà i suoi guardiani: due 
+melme grigie appariranno dai muri est e ovest, mentre una 
+terza apparirà da dietro la scaffalatura di libri.
+6 - La Porta di Metallo
+Questa è una normale porta di metallo che si presenta iden-
+tica alla precedente (3). In questo caso però non c’è nessuna 
+trappola: se i personaggi non avessero la chiave potrebbero 
+scassinarla o buttarla giù. Superata la porta il corridoio si 
+dirama in tre direzioni differenti.
+12
+
+===== PAGE 13 =====
+13
+7 - La Stanza dei Funghi
+Una corta scala di pietra scende verso un corridoio che piega 
+verso ovest. Al termine dei gradini, il pavimento è cosparso 
+da una fitta vegetazione bioluminescente, molto simile a 
+quella della Foresta delle Lanterne.
+Nella stanza alla fine del corridoio degli enormi funghi 
+hanno occupato tutto lo spazio. 
+Il terreno dove sorgono i funghi è considerato terreno 
+difficile: se i personaggi passano in mezzo ai funghi o li 
+tagliano, verranno investiti da uno sbuffo di spore velenose 
+e dovranno superare un tiro salvezza su Costituzione (CD 
+14) o divenire avvelenati per un’ora, oltre a subire 1d6 danni 
+da veleno per round fin quando rimangono all’interno della 
+nube di spore o questa non viene dispersa. Con una prova di 
+Percezione (CD 16) i PG potranno intravedere un passaggio 
+segreto nel muro a ovest.
+8 - La Pietra Sigillo Rossa
+Il passaggio segreto si apre con facilità, dato che una parte 
+è stata danneggiata dalle scosse causate dall’impatto della 
+meteora. La piccola stanza semicircolare contiene un altro 
+altare dei sigilli. Il pavimento è completamente cosparso di 
+sangue rappreso: il primo individuo che toccherà la pietra 
+per prenderla subirà 2d6 danni da forza e il suo sangue si 
+spargerà per terra. Ogni volta che la pietra viene passata da 
+una mano all’altra, il personaggio che la prende subirà 2d6 
+danni da forza. Se viene riposta in una sacca o altri conteni-
+tori, la pietra scompare e ritorna immediatamente sopra il 
+proprio altare. L’unico modo per trasportarla è che uno dei 
+personaggi la tenga in mano fino al Sigillatore.
+9 - La Stanza della Lava
+La diramazione a sud conduce di fronte a una statua raffigu-
+rante una figura umanoide con un mantello che la avvolge e 
+un cappuccio che copre parte del viso dalle fattezze femminili. 
+Dal mantello sporgono due mani: una molto affusolata che 
+regge una bottiglia di vetro vuota della grandezza di una 
+fiasca, l’altra, aperta con il palmo rivolto in alto, su cui arde 
+in maniera perenne del fuoco.
+Per accedere alla stanza della lava, i personaggi dovranno 
+riempire la fiasca con un liquido caldo (possono semplice -
+mente scaldare dell’acqua sulla fiamma e versarla nella fiasca). 
+Una volta risolto l’enigma la statua si sposta a rivelare la 
+stanza retrostante.
+In fondo ad essa è posizionata una bacinella di pietra 
+contenente della lava che sgorga da una fessura poco più in 
+alto. Uno scrigno è posto davanti a questa bacinella e sul pavi-
+mento a metà stanza dei rilievi rappresentano delle fiamme. 
+Quando vengono superate, dalla bacinella verrà evocato un 
+elementale del fuoco di taglia Media: è il guardiano dello 
+scrigno e non inseguirà nessuno oltre la soglia della stanza. 
+Se i personaggi sconfiggono l’elementale del fuoco potranno 
+accedere allo scrigno, che contiene 500 peku d’oro (4000 
+imperiali d’argento) e due oggetti magici: una pozione della 
+guarigione maggiore (4d4+4 punti ferita recuperati) e un 
+anello della resistenza (Necrotico).
+Se tutti i personaggi escono dalla stanza, la statua si chiu-
+derà di nuovo e il liquido nella fiasca svanisce, obbligando a 
+ripetere l’operazione di apertura. 
+10 - L’Altare di Krea
+Sulla parete sud del corridoio un anfratto contiene un altare 
+devozionale a Krea. L’altare è pieno di incensi ormai spenti e 
+di pietre e legni che formano delle piccole sculture devozio-
+nali. Una statua raffigurante Krea sembra essere stata scolpita 
+direttamente dalla pietra della parete.
+Se un personaggio si ferma a pregare e compie un gesto 
+di sincera devozione, come accendere un incenso o costruire 
+una scultura devozionale, l’altare lo cura 2d6 punti ferita o 
+permette di recuperare 2 slot di incantesimi di 1° livello o 
+1 slot di 2° livello. Questo effetto non si ripete sullo stesso 
+personaggio più di una volta al giorno.
+
+
+===== PAGE 14 =====
+11 - La Pietra Sigillo Verde  
+ e la Pietra Falsa
+A questa grande stanza si accede attraverso una breve scali-
+nata in pietra e un grande arco. Sulla parete nord sono pre-
+senti due alcove con due altari delle pietre dei sigilli. L’ altare 
+a sinistra contiene una pietra verde molto luminosa, mentre 
+quello a destra una pietra rossa con una luminosità più bassa: 
+quest’ultima pietra è falsa e non funziona come ingrediente 
+per attivare il Sigillatore, ma risulta identica nell’aspetto e nel 
+comportamento a quella nella stanza 8, salvo non provocare 
+danni quando viene raccolta.
+L’intero pavimento di questa stanza è cosparso da una 
+fitta vegetazione bioluminescente, molto simile a quella della 
+Foresta delle Lanterne. Sulla parte est sono cresciute delle 
+piante e dei funghi attorno ad una larga stalagmite, alla cui 
+base il tappeto vegetale è molto alto e rigoglioso: in realtà si 
+tratta di un affamato fustigatore in agguato.
+12 - La Pietra Sigillo Azzurra
+La breve scalinata scende per condurre in una stanza il cui 
+pavimento è cosparso da una fitta vegetazione biolumine -
+scente, molto simile a quella della Foresta delle Lanterne. 
+Sulla parete a sud, all’interno di un’alcova semicircolare si 
+trova un altare dei sigilli. Quando qualcuno entra nella stanza 
+alcune piante si animano per attaccarlo: otto arbusti maligni 
+e due rampicanti maligni sono stati posti a guardia.
+Sull’altare è presente una pietra di colore azzurro: se 
+raccolta, inizia rapidamente a sciogliersi per poi riapparire 
+di nuovo sull’altare. Per trasportarla deve essere mantenuta 
+al freddo con un incantesimo o qualche altro espediente, 
+oppure utilizzando il pezzo di stoffa che si trova nella bocca 
+del serpente nella stanza 1.
+Il Rituale di Sigillatura
+Una volta raccolte tutte le quattro pietre sigillo, i personaggi 
+possono iniziare il rituale di sigillatura.
+Devono posizionare la tavoletta proibita al centro del Sigilla-
+tore e poi inserire le pietre nelle apposite coppette identificate 
+dai colori.
+La pietra rossa corretta è quella custodita nella stanza 
+8, se venisse inserita la pietra rossa nella stanza 11 il rituale 
+semplicemente non inizierebbe. 
+Una volta inserite le quattro pietre corrette, il rituale 
+inizia automaticamente. Il GM può leggere o parafrasare le 
+seguenti parole:
+Una volta posata l’ultima pietra sigillo, una luce cangiante 
+avvolge il Sigillatore, allargandosi a formare una cupola che 
+copre tutta l’area circostante.
+La Tavoletta sembra reagire e, come se non volesse 
+opporsi al rituale, inizia ad emettere delle acute grida che 
+inondano la cupola. Dalla sua superfice si levano delle ombre 
+che premono contro la barriera, ma non sembrano avere la 
+forza per spezzare il vincolo magico.
+Le quattro pietre iniziano a illuminarsi la loro luce tra-
+figge le ombre fino a dissiparle.
+Dopo un lungo momento di silenzio, un urlo straziante 
+emerge dalla Tavoletta e sulla superfice appare per qualche 
+secondo la faccia di uno stregone, prima di essere inghiottita 
+da tutte le luci riunite.
+Le luci iniziano a condensarsi, formando dei filamenti che 
+avvolgono la Tavoletta, trasformandosi lentamente in catene 
+luminose che si solidificano a imbrigliare l’oscura magia.
+Nell’arco di pochi minuti la luce del Sigillatore si affievo-
+lisce fino a spegnersi del tutto, e nell’ultimo istante le quattro 
+pietre si dissolvono in una polvere colorata che si riversa 
+sul pavimento. 
+La Tavoletta ora giace sul piatto d’oro, vincolata con una 
+forza che nemmeno mille uomini potrebbero sollevare, inca-
+tenata e ferma: il suo malefico potere svanito.
+14
+
+
+===== PAGE 15 =====
+CONCLUSIONE  
+DELL’A VVENTURA
+U
+na volta concluso il rituale di sigillatura, la Tavo-
+letta Proibita sarà resa inerte. Tutti gli effetti 
+dei suoi poteri si dissiperanno nel giro di poche 
+ore e tutti gli abitanti indeboliti si sentiranno 
+gradualmente meglio.
+I funghi velenosi seminati nei campi seccheranno e in 
+pochi giorni si ridurranno in una innocua polvere nera e 
+grigia che verrà spazzata via dai venti.
+Se Alastro è rimasto vivo, non ricorderà molto di quello 
+che è successo da quando è andato a vedere come stavano le 
+sue piante nel campo desolato: solo pochi frammenti e una 
+voce che gli era entrata in testa. È però certo che Marut sia 
+risorto, e per alcuni giorni gli pareva che non parlasse solo 
+dalla Tavoletta, anche se non ha nessuna prova o dettaglio a 
+supporto di questo ricordo confuso.
+Erala potrà riprendere la sua consueta semina e festa delle 
+primizie e questo evento verrà ricordato come il “Giorno 
+della Nuova Semina”: i personaggi potranno rimanere per 
+godersi la festa e per riposarsi nella locanda del paese, dove 
+verranno celebrati come eroi.
+La minaccia di Marut è però lontana dall’essere sventata 
+completamente, e il nome dello stregone delle anime tornerà 
+a farsi vivo nelle Pianure di Xanesh.
+Marut ha infatti disseminato altri artefatti in grado di 
+portare a compimento i suoi oscuri piani, occultandoli in 
+altre aree dello Xanesh. 
+Un dispaccio innocente inviato dalla bibliotecaria di Erala 
+al quartier generale degli Archivisti ha messo in allerta la 
+gilda che da Mubunash sta preparando una squadra speciale 
+per scoprire l’ubicazione degli altri artefatti e possibilmente 
+recuperarli in sicurezza. Per farne esattamente cosa, però, 
+resta un mistero.
+Chi arriverà prima? Gli avventurieri o la squadra di 
+Archivisti? Dall’inferno in cui sta bruciando, Marut ghigna 
+divertito...
+15
+
+===== PAGE 16 =====
+Personaggi Non Giocanti
+Alastro
+Nato in una delle famiglie agricole proprietarie dei campi 
+intorno a Erala, suo padre è l’attuale presidente della comu-
+nità agricola. Alastro ha da sempre sgobbato e lavorato, 
+ma recentemente si è interessato del Campo Desolato e del 
+motivo per cui non vi cresce nulla. Dopo alcuni sperimentali 
+incroci con piante, ha scoperto che una di queste varietà 
+aveva attecchito nel campo: felice della scoperta, aveva tenuto 
+tutto nascosto, con l’intento di mostrarla alla fiera delle pri-
+mizie per venderla e farci dei soldi.
+Alastro ha trovato la Tavoletta dopo la caduta della meteora 
+ed è stato assoggettato dall’ombra di Marut. Diventato un 
+suo servo, ha contaminato i campi con le spore del fungo che 
+cresce intorno al cratere della meteora, al centro del Campo 
+Desolato, e ha iniziato ad assorbire le energie vitali degli agri-
+coltori. Tiene nascosta la Tavoletta nella propria abitazione, 
+ed esce raramente di casa. Solo durante la notte sgattaiola 
+fuori per andare al Campo a prendere le spore. Nelle due sere 
+alla settimana in cui viene tenuta una riunione del comitato 
+agricoltori a casa della sua famiglia si prodiga a rubare le ener-
+gie vitali dei presenti, compito in cui sta diventando sempre 
+più bravo. Se non viene fermato continuerà imperterrito in 
+queste sue attività, finché Erala non sarà ridotta ad una città 
+fantasma sotto l’influsso di Marut. 
+Alastro 
+Medio Umanoide (Umano), Buono Neutrale
+Classe Armatura. 13 (armatura imbottita)
+Punti Ferita. 6 (1d8 +2)
+Velocità. 9 m
+Tiri Salvezza. Carisma +6, Destrezza +4
+Abilità. Inganno +6, Intrattenere +6, Persuasione +6, 
+Arcana +4
+Sensi. Percezione passiva 12
+Lingue. Imperiale 
+Sfida. 1/2 (100 PE)
+Posseduto. Lo spirito di Marut abita il corpo di Alastro 
+ma non lo possiede. Alastro segue i comandi di Marut 
+come se fosse sotto l’effetto di “dominio mentale”, 
+Alastro inoltre possiede resistenza ai danni necrotici 
+e da fuoco ed è immune alla condizione spaventato 
+e affascinato. 
+Incantesimi.Alastro è un incantatore di 1° livello. La 
+sua caratteristica da incantatore è Carisma (tiro sal-
+vezza degli incantesimi CD 14, +6 al tiro per colpire 
+degli attacchi con incantesimo).
+Trucchetti (A Volontà): beffa crudele, illusione minore
+1° livello (2 slot): amicizia con gli animali, parlare 
+con gli animali, passo veloce, risata incontenibile
+AZIONI
+Scimitarra. Attacco con Arma in Mischia: +4 al tiro per 
+colpire, portata 1,5 m, un bersaglio. Colpito: 5 (1d6 
++2) danni taglienti.
+ FOR DES COS INT SAG CAR
+ 12 (+1) 15 (+2) 15 (+2) 15 (+2) 14 (+2) 18 (+4)
+16
+
+
+===== PAGE 17 =====
+Cremy
+Se la locanda ha prosperato a tal punto è anche grazie all’abi-
+lità di Cremy di sfruttare una materia prima poco considerata 
+dai suoi concittadini ma di cui c’è sempre grande abbondanza 
+a Erala.
+La morte di un povero contadino causa lutto e tristezza 
+per qualche settimana, se particolarmente amato addirittura 
+per qualche anno, ma la vita corre veloce e le spoglie dell’in-
+dividuo, ormai ridotte a poco più che ossa, vengono dimen-
+ticate sotto una pietra che reca appena le sue iniziali. Questi 
+macabri resti sono l’ingrediente perfetto per Cremy: nessuno 
+fa caso alla terra smottata intorno alla fossa del vecchio zio, 
+e la progenie immonda può rianimare lo scheletro in tutta 
+tranquillità nella cantina della locanda, dove il “Morto di 
+Fatica” lavora come un mulo e senza esigere un soldo né un 
+pasto per ricompensa. Su questi insoliti lavoratori Numork 
+e Cremy hanno costruito una piccola fortuna. 
+Cremy 
+Medio Umanoide (Progenie Immonda), Neutrale Pura
+Classe Armatura. 15 (armatura di cuoio borchiato)
+Punti Ferita. 27 (5d8 + 5)
+Velocità. 9m
+Tiri salvezza. Des +5, Int +4
+Abilità. Inganno +7*, Persuasione +7*, Percezione +5*, 
+Intuito +3, Furtività +5, Indagare +4
+Resistenze ai danni. Fuoco
+Sensi. Scurovisione. 18 metri, Percezione passiva 15
+Lingue. Imperiale, Xaan, Gergo ladresco
+Grado sfida. 1 (200 PE)
+*Cremy raddoppia la sua competenza in queste abilità 
+Morto di fatica (1/giorno). Cremy è in grado di usare 
+i cadaveri come operai usa e getta. Cremy  può bersa-
+gliare un cadavere di tipo umanoide di taglia media o 
+inferiore. Il cadavere si anima come scheletro o zombi 
+(a scelta), denominato “Morto di Fatica”. Cremy può 
+dare ordini al Morto di Fatica, che svolgerà al massimo 
+delle sue capacità. Il Morto di Fatica non è in grado 
+di attaccare o difendere e può solo svolgere semplici 
+compiti (es. portare una cosa da punto A fino a punto 
+B, scavare un buco, aprire una porta o un contenitore 
+ecc.). Il Morto di Fatica scompare se termina i suoi 
+punti ferita, se Cremy muore o se viene generato un 
+altro Morto di Fatica.
+Quando Cremy uccide una creatura umanoide di ta -
+glia media o inferiore, può usare la sua reazione per 
+generare un Morto di Fatica.
+Attacco furtivo (1/turno). Cremy sa come colpire abil-
+mente e sfruttare la distrazione del nemico, Cremy 
+può infliggere 10 (3d6) danni extra a una creatura 
+colpita con un attacco se ha vantaggio sul tiro per 
+colpire. L’attacco deve utilizzare un’arma accurata 
+o a distanza.
+Cremy non ha bisogno di vantaggio al tiro per colpire se 
+un altro nemico del bersaglio si trova entro 1,5 metri 
+da esso, e quel nemico non è incapacitato e Cremy 
+non ha svantaggio al tiro per colpire.
+AZIONI 
+Spada corta. Attacco con Arma in Mischia: +5 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 6 
+(1d6 +3) danni taglienti.
+ FOR DES COS INT SAG CAR
+ 10 (+0) 16 (+3) 12 (+1) 14 (+2) 12 (+1) 16 (+3)
+17
+
+
+===== PAGE 18 =====
+18
+Crompon Salistrade
+Il reggente Crompon è un progenie immonda dal fare molto 
+pratico che adora la sua città. Eletto per due mandati con -
+secutivi, si trova in una posizione di spicco grazie alla sua 
+cultura e temperanza, caratteristiche molto utili per dare una 
+spinta ai commerci del paese. Grazie a Crompon Salistrade, 
+Erala ha saputo raddoppiare il commercio di materie prime 
+con la capitale Mubunash, dando risalto alle proprie fattorie 
+e ai propri produttori. Il suo portamento è fiero e diventa 
+intrattabile con chi cerca di dagli ordini. Durante la festa delle 
+primizie, organizza in segreto delle aste private, in una sala 
+della Locanda delle Lucciole, in cui vengono vendute merci 
+illegali. A queste aste partecipano mercanti non propria -
+mente onesti, interessati a piante da cui si possono ricavare 
+droghe e veleni: nonostante si svolgano in segreto, queste 
+aste sono gestite come le altre e i proventi vanno normal -
+mente agli agricoltori che hanno coltivato le piante illegali. 
+Crompon non è felice di dover gestire le cose in questo modo, 
+ma il benessere del paese e dei suoi abitanti sono per lui una 
+priorità e per questo accetta di infrangere alcune leggi. 
+Crompon 
+Medio Umanoide (Progenie Immonda), Buono Neutrale
+Classe Armatura. 15 (armatura di cuoio borchiato)
+Punti Ferita. 27 (5d8 + 5)
+Velocità. 9m
+Tiri salvezza. Des +5, Car +6
+Abilità. Inganno +8*, Intuito +2, Persuasione +6, 
+Storia +4, Rapidità di mano +7*
+Resistenze ai danni. Fuoco
+Sensi. Scurovisione. 18 metri, Percezione passiva 10
+Lingue. Imperiale, Xaan, Elfico
+Grado sfida. 2 (450 PE)
+*Crompon raddoppia la sua competenza in queste 
+abilità 
+Presenza ispirante. Ogni creatura alleata di Crompon 
+entro 3m da lui può sommare un bonus di +2 alle sue 
+prove. Le azioni che vanno contro il volere di Crompon 
+anche se fatte da alleati non godono di questo bonus.
+Incantatore. Crompon è un incantatore di 5° livello. 
+La sua caratteristica da incantatore è Carisma (tiro 
+salvezza degli incantesimi CD 14, +6 al tiro per colpire 
+degli attacchi con incantesimo).
+Trucchetti (a volontà). colpo accurato, amicizia, mes-
+saggio
+1° Livello (4 slot). eroismo, charme su persone, ana-
+tema, individuazione del magico, sussurri dissonanti
+2° Livello (3 slot). riscaldare il metallo, zona di verità
+3° Livello (2 slot). trama ipnotica 
+AZIONI 
+Multiattacco. Se Crompon impugna due spade corte 
+può effettuare un secondo attacco utilizzando la sua 
+azione bonus.
+Spada corta. Attacco con Arma in Mischia: +5 al 
+tiro per colpire, portata 1,5 m, un bersaglio. 
+Colpito: 6 (1d6 +3) danni taglienti.tiro per 
+colpire, portata 1,5 m, un bersaglio. 
+Colpito: 6 (1d6 +3) danni taglienti.
+ FOR DES COS INT SAG CAR
+ 12 (+1) 16 (+3) 12 (+1) 14 (+2) 10 (+0) 18 (+4)
+18
+
+
+===== PAGE 19 =====
+19
+Numork 
+Medio Umanoide (Progenie Immonda), Neutrale Caotico
+Classe Armatura. 15 (difesa senza armatura)
+Punti Ferita. 82 (11d8 + 33)
+Velocità. 12m
+Tiri salvezza. For +6, Cos +5
+Abilità. Atletica +6, Intimidire +4, 
+Addestrare animali +1
+Resistenze ai danni. Fuoco
+Sensi. Scurovisione. 18 metri, Percezione passiva 9
+Lingue. Imperiale, Xaan
+Grado sfida. 3 (700 PE)
+AZIONI 
+Multiattacco. Numork può effettuare due attacchi.
+Ascia bipenne. Attacco con Arma in Mischia: +6 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 10 
+(1d12 +4) danni taglienti. 
+AZIONI BONUS
+Ira fiammeggiante (3/riposo lungo). Mentre è in ira, 
+Numork ottiene i seguenti benefici se non indossa 
+un’armatura pesante:
+Ha vantaggio alle prove di Forza e ai tiri salvezza su 
+Forza.
+Quando effettua un attacco con un’arma da mischia 
+usando la Forza, ottiene un bonus al tiro per i danni 
+pari a +2.
+Ha resistenza ai danni contundenti, perforanti e ta -
+glienti.
+La sua resistenza ai danni da fuoco diviene immunità 
+e ogni creatura che inizia il suo turno entro 1,5m da 
+Numork subisce 3 (1d6) danni da fuoco.
+L’ira di Numork dura 1 minuto. Termina se perde i 
+sensi o se il suo turno termina e non ha attaccato una 
+creatura ostile dal suo ultimo turno o non ha subito 
+danni da allora. Numork può anche porre fine alla sua 
+ira durante il suo turno come azione bonus.
+Una volta che sei andato in ira per il numero di volte 
+indicato per il tuo livello da barbaro nella colonna Ira 
+della tabella Barbaro, devi terminare un riposo lungo 
+prima di poter entrare di nuovo in ira.
+ FOR DES COS INT SAG CAR
+ 18 (+4) 14 (+2) 16 (+3) 12 (+1) 8 (-1) 14 (+2)
+Numork e Cremy
+I proprietari della “Locanda delle Lucciole” sono due proge-
+nie immonda dall’aspetto bizzarro e vestono sempre colori 
+sgargianti e luminosi. Hanno modi cordiali e sono esperti 
+ristoratori, tanto da essere tappa fissa di tutti i mercanti che 
+passano per Erala. Hanno un grande senso degli affari e sono 
+una coppia molto affiatata. Grazie anche alla loro amicizia 
+con Crompon la loro attività va a gonfie vele: spesso sono 
+loro a organizzare le aste private in cui vengono venduti i 
+prodotti illegali, in una sala riservata della locanda. Sono 
+entrati spesso in contrasto con la famiglia Camperk, ma allo 
+stesso tempo riescono a gestirla e fanno affari con loro a volte 
+anche molto redditizi. 
+19
+
+
+===== PAGE 20 =====
+Marut  
+(ombra nella tavoletta proibita)
+La storia di Marut si fonde con le tenebre e i diavoli delle 
+pianure di Xanesh. Fin da piccolo aveva dimostrato una pro-
+pensione alla religione: diventando dapprima un discepolo di 
+Krea, da essa impara a padroneggiare l’arte del passaggio tra la 
+vita e la morte, raggiungendo presto il ruolo di “trapassatore 
+di vita”. A lui si deve il rituale funebre del passaggio sotto 
+l’arco di pietra che si trova nel tempio di Erala che viene 
+officiato ancora oggi.
+Questo suo compito lo ha portato nel corso del tempo a 
+studiare le anime, restando abbagliato e incuriosito. Curiosità 
+che lo ha portato a conoscere una oscura devota di Garod, 
+che lo ha preso sotto le proprie ali protettrici e tiranniche 
+fino a trasformarlo: da devoto di Krea, amministratore del 
+passaggio delle anime, è diventato “Marut il divoratore di 
+anime”, stregone potente e tirannico. Ha stretto un accordo 
+con Garod, ottenendo la potente Tavoletta Proibita con cui 
+poté esercitare un potere ancora maggiore sulle anime dei 
+mortali.
+Al culmine del suo regno di terrore, un gruppo di eroi lo 
+hanno affrontato, riuscendo infine a ucciderlo. Tuttavia la sua 
+ombra malvagia era stata impressa nella tavoletta e poteva 
+ancora governare le menti deboli per renderle schiave attra-
+verso l’oggetto diabolico. Non potendo distruggere la Tavo-
+letta, gli eroi hanno commissionato a Fargo la costruzione 
+del Sigillatore e del Pozzo dei Sigilli. Un’altra emergenza ha 
+chiamato altrove gli eroi, lasciando all’artigiano l’onere di 
+custodire la Tavoletta fino al momento di poter completare 
+il rituale. Ma anche se ridotto ad un’ombra il potere di Marut 
+restava grande e Fargo fu costretto ad una soluzione estrema 
+e provvisoria: si è sacrificato prima di far chiudere il Pozzo 
+per contenere la Tavoletta.  Questa soluzione ha retto fino a 
+poche settimane fa, quando una meteora ha colpito il Campo 
+Desolato distruggendo la lastra che chiudeva il Pozzo. Marut 
+ha trovato in Alastro una mente debole, facile da governare: 
+ha spinto il giovane a raccogliere energie vitali e contami-
+nare i campi. Pochi giorni prima dell’arrivo dei PG, Marut è 
+riuscito ad accumulare abbastanza energie vitali dalle vittime 
+per trasferire una parte del proprio spirito in un mercante di 
+passaggio: ora si aggira nelle pianure di Xanesh, ancora colle-
+gato alla Tavoletta che gli invia energie. Anche se questo col-
+legamento venisse interdetto, Marut sarebbe già abbastanza 
+potente per cercare di dare inizio alla propria resurrezione. 
+Ma questa sarà un’altra storia.
+20
+
+===== PAGE 21 =====
+Marut 
+Medio Umanoide (Progenie immonda), Legale Malvagio
+Classe Armatura. 18 (armatura naturale)
+Punti Ferita. 120 (16d8 + 48)
+Velocità. 9m
+Tiri salvezza. Cos +7, Car +9
+Abilità. Religione +8, Inganno +9, Arcana +6, 
+Percezione +8
+Resistenze ai danni. Fuoco, necrotico
+Immunità ai danni. Veleno
+Immunità alle condizioni. Spaventato, Affascinato, 
+Avvelenato.
+Sensi. Scurovisione. 18 metri, Percezione passiva 18
+Lingue. Imperiale, Xaan
+Sfida. 12 (8,400 PE)
+Divoratore di anime. Quando una creatura che pos-
+siede un’anima muore entro 12m da Marut, egli ne 
+assorbe l’anima. Quando Marut assorbe un’anima ot-
+tiene punti ferita temporanei pari al livello o al grado 
+sfida (per gradi sfida inferiori a 1 Marut ottiene 1pf 
+temporaneo) della creatura deceduta, inoltre ottiene 
+un’abilità, senso o capacità a scelta che la creatura 
+possedeva. 
+Possessione a catena. Quando Marut muore, a meno 
+che non si trovi nel suo corpo originale il suo spirito 
+fuoriesce dal corpo posseduto. Quando è in forma di 
+spirito Marut utilizza le statistiche di un Wraith, e 
+tenta di possedere un altro corpo, Un umanoide, entro 
+1,5 metri e visibile a Marut, deve riuscire un tiro sal-
+vezza di Carisma (CD 17) o venire posseduto da Marut; 
+Marut poi scompare, e il bersaglio è inabile e perde il 
+controllo del suo corpo. Marut ora controlla il corpo. 
+La possessione dura finché il corpo scende a 0 punti 
+ferita, Marut la termina con un’azione bonus, o Marut 
+viene scacciato o espulso da un effetto come l’incante-
+simo dissolvi il bene e il male. Quando la possessione 
+termina, Marut riappare in uno spazio non occupato 
+entro 1,5 metri dal corpo. Il bersaglio è immune alla 
+Possessione di Marut per 24 ore dopo aver riuscito il 
+tiro salvezza o al termine della possessione.
+Incantatore. Marut è un incantatore di 10° livello, la 
+sua statistica da incantatore è il Carisma (+9 al bonus 
+per colpire con incantesimi, tiro salvezza contro incan-
+tesimi CD17). Marut può scagliare le seguenti magie:
+Trucchetti (a volontà): fiamma sacra, mano magica, 
+taumaturgia
+1° Livello (4 slot): curare ferite, sortilegio, intimorire 
+infernale, scudo della fede
+2° Livello (3 slot): arma spirituale, oscurità, blocca 
+persone
+3° Livello (3 slot): controincantesimo, rinascita, tocco 
+del vampiro
+4° Livello (3 slot): porta dimensionale, interdizione 
+alla morte
+5° Livello (2 slot): dominare persone, scrutare
+AZIONI
+Multiattacco. Marut può effettuare due attacchi con 
+raggio d’ombra. 
+Raggio d’Ombra. Attacco con Incantesimo a Distan -
+za: +9 al tiro per colpire, gittata 27 m, un bersaglio. 
+Colpito: 10 (3d6) danni necrotici.
+Ferire le Piaghe. Attacco con Incantesimo in Mischia: 
++9 al tiro per colpire, un bersaglio. Colpito: 22 (4d10) 
+danni necrotici.
+Dominio mentale (1/giorno). Marut tenta di vincolare 
+una creatura che può vedere entro 12m al suo volere. 
+La creatura effettua un tiro salvezza Saggezza (CD17) 
+o venire affascinato da Marut. Una creatura affascinata 
+in questo modo compie il volere di Marut al meglio 
+delle sue capacità senza però effettuare azioni suici-
+de o autolesioniste. Una creatura può ripetere il tiro 
+salvezza alla fine di un riposo lungo o se viene lanciato 
+su di lei un incantesimo come rimuovi maledizione, 
+terminando gli effetti su se stessa su un tiro superato. 
+Una creatura che supera il tiro salvezza è immune a 
+questo effetto per 1 settimana. 
+Equipaggiamento:
+Tomo delle Conoscenze Antiche
+ FOR DES COS INT SAG CAR
+ 12 (+1) 14 (+2) 16 (+3) 14 (+2) 18 (+4) 20 (+5)
+21
+
+===== PAGE 22 =====
+Stolkra Camperk
+La famiglia Camperk risiede da generazioni nei campi che 
+si estendono a sud di Erala e ha costruito una delle prime 
+fattorie. Stolkra, l’attuale capofamiglia, ha un modo burbero 
+di gestire la fattoria, tanto da essere una delle poche persone 
+che non fa parte del comitato di agricoltori di Erala. Il suo 
+spirito tirannico la rende furba, non vede l’ora di spodestare 
+il reggente e di portare il nome Camperk come nuova linea 
+di governo della città. Ha tre fratelli e una sorella che sono 
+completamente assoggettati al suo volere e la aiutano in tutto. 
+Spesso vagano per la città a seminare zizzania tra gli altri 
+agricoltori: la caduta della meteora e l’inaridirsi dei terreni 
+sono diventati per loro mezzi utili per mettere in cattiva luce 
+il reggente Crompon.
+Stolkra 
+Medio Umanoide (Umano), Malvagia Neutrale
+Classe Armatura. 17 (armature di scaglie, scudo)
+Punti Ferita. 32 (5d8 + 10)
+Velocità. 9m
+Tiri salvezza. For +5, Cos +4
+Abilità. Atletica +5, Intimidire +4, Sopravvivenza +3, 
+Storia +3
+Sensi., Percezione passiva 11
+Lingue. Imperiale
+Grado sfida. 2 (450 PE)
+Recuperare energie migliorato. Stolkra sa approfitta-
+re di ogni istante disponibile per rimettersi in forze: 
+può usare il suo privilegio Recuperare energie anche 
+come reazione. Inoltre Stolkra recupera punti ferita 
+extra pari al suo punteggio di Costituzione quando usa 
+Recuperare Energie. Qualsiasi quantità di punti ferita 
+che supera l’ammontare massimo viene convertita in 
+punti ferita temporanei.
+AZIONI 
+Multiattacco. Stolkra può effettuare due attacchi.
+Spada lunga. Attacco con Arma in Mischia: +5 al tiro 
+per colpire, portata 1,5 m, un bersaglio. Colpito: 7 
+(1d8 +3) danni taglienti o 8 (1d10 + 3) danni taglienti 
+se impugnata con due mani. 
+AZIONI BONUS
+Recuperare energie (1/riposo corto). Stolkra ha una 
+riserva di resistenza limitata a cui puoi attingere per 
+proteggerti dai danni. Durante il suo turno, Stolkra può 
+recuperare punti ferita pari a 1d10 + 5.
+ FOR DES COS INT SAG CAR
+ 16 (+3) 12 (+1) 14 (+2) 12 (+1) 12 (+1) 14 (+2)
+22
+
+===== PAGE 23 =====
+Sabira 
+Medio Umanoide (Karevi), Neutrale Legale
+Sabira è la bibliotecaria di Erala: è una persona molto 
+accogliente con alle spalle una storia intrigante che 
+la rende spesso lunatica e poco accondiscendente. 
+Era una monaca guerriera, diventata un sicario a pa-
+gamento: fin da giovane era stata pagata per molti 
+“servizi” scomodi, fino al giorno in cui uno “spirito 
+stella” non l’aveva avvisata che sarebbe morta. Il suo 
+ultimo incarico si rivelò una trappola e lo scontro con 
+un altro sicario più esperto la ridusse in fin di vita. Al 
+suo risveglio si ritrovò accudita da una druida e sulla 
+fronte le era apparso il tatuaggio di una stella. Da quel 
+giorno si è dedicata alla lettura e all’astronomia, fino 
+a diventare bibliotecaria ed archivista di zona di Erala. 
+Classe Armatura. 16 (difesa senza armatura)
+Punti Ferita. 52 (8d8 + 16)
+Velocità. 12m
+Tiri salvezza. Des +5, For +2
+Abilità. Furtività +7*, Intuito +5, Acrobazia +5, 
+Storia +4, Inganno +3, Persuasione +3 
+Sensi. Scurovisione. 18 metri, 
+Percezione passiva 10
+Lingue. Imperiale, Karevi
+Grado sfida. 3 (700 PE)
+*Sabira raddoppia la sua competenza in questa abilità.
+Karevi. Vedere le capacità di razza dei Karevi sul ma-
+nuale base de La Notte Eterna 5e.
+Verme nell’ombra. Quando Sabira si trova in oscurità 
+o in luce fioca la sua velocità di movimento aumenta 
+di 3m. 
+Colpo di tenebra (1/turno). Quando Sabira si trova in 
+condizioni di oscurità e colpisce una creatura con un 
+attacco, può infliggere danni necrotici al bersaglio, in 
+aggiunta ai danni dell’arma. I danni extra sono 7 (3d4). 
+AZIONI
+Multiattacco. Sabira può effettuare tre attacchi 
+senz’armi.
+Attacco senz’armi. Attacco senz’armi: +5 al tiro per 
+colpire, portata 1,5 m, un bersaglio. Colpito: 5 (1d4 
++3) danni contundenti.
+ FOR DES COS INT SAG CAR
+ 10 (+0) 16 (+3) 14 (+2) 14 (+2) 16 (+3) 12 (+1)
+23
+
+===== PAGE 24 =====
+Oggetti magici
+Libro delle Leggende Antiche
+Oggetto meraviglioso, raro
+Questo tomo ha il potere di assorbire le leggende e le storie 
+che vengono raccontate e trascriverle automaticamente al 
+proprio interno. Può contenere fino a 20 leggende o storie, 
+indipendentemente dalla loro lunghezza. L’utilizzatore può 
+richiamare una storia aprendolo sulla prima pagina e scri -
+vendo, o dicendo ad alta voce il titolo della leggenda che vuole 
+richiamare, o alcune parole chiave che la richiamino. Se il 
+libro contiene la leggenda, il testo apparirà nelle pagine suc-
+cessive, che rimarranno leggibili fin quando il libro rimarrà 
+aperto. Se non contiene la leggenda richiesta, il volume si 
+chiuderà automaticamente da solo. Un incantesimo come 
+identificare farà comparire il numero di leggende al suo 
+interno, ma non quali. Una volta scoperte saranno indicate 
+nell’indice del libro. Il libro può essere riaperto una volta 
+al giorno. 
+Sigillatore
+Artefatto, leggendario 
+Questo peculiare artefatto venne creato da un abile fabbro 
+per bloccare gli effetti e le proprietà di un oggetto magico 
+specifico; ciascun Sigillatore può infatti bloccare solo l’og -
+getto magico per cui è stato appositamente creato.
+Per creare un Sigillatore sono necessari: un luogo di 
+potere magico, composto da almeno una stanza più una 
+stanza per ogni ingrediente sigillo in cui erigere un altare; 2 
+o più ingredienti sigillanti in base alla rarità dell’oggetto da 
+sigillare, dal valore di almeno 500 imperiali d’oro ciascuno; 
+una struttura composta da una colonna d’oro e argento, un 
+piatto e un numero di bracci con coppette uguale al numero 
+di ingredienti sigillanti, dal valore minimo di 3000 imperiali 
+d’oro. Una volta edificate le stanze e creati gli altari, ogni 
+ingrediente sigillante deve essere posto su un altare, dove 
+inizia a caricarsi assorbendo magia dal luogo di potere. Il 
+tempo necessario a caricare gli ingredienti sigillanti dipende 
+dalla potenza del luogo di potere e dall’oggetto da sigillare. 
+Una volta che sono carichi, gli ingredienti devono essere 
+posti sui piattini del Sigillatore, e l’oggetto da sigillare sul 
+piatto centrale: il rituale si attiva in automatico incatenando 
+l’oggetto magico a sé e bloccando ogni suo potere.
+L’oggetto sigillato non è rimuovibile dal piatto e solo 
+un evento divino può fare una breccia e liberare l’oggetto 
+magico dal Sigillatore.
+24
+
+
+===== PAGE 25 =====
+Tavoletta Proibita
+Oggetto meraviglioso maledetto, leggendario (richiede sintonia) 
+Una tavoletta di pietra, delle dimensioni di un libro, 
+con incise delle rune e dei simboli oscuri riconducibili 
+a Garod, al cui centro è impressa la sagoma di una 
+mano aperta. La tavoletta proibita può creare gli 
+effetti dell’incantesimo protezione dal bene e dal male 
+3 volte al giorno (ha effetto su tutte le creature 
+in un’area di 3 metri centrata sulla Tavoletta).
+Una creatura che tocca la Tavoletta deve 
+fare un tiro salvezza su Saggezza (CD 20) o 
+subire l’effetto dell’incantesimo costrizione 
+(come 9° livello). In caso di fallimento 
+diviene un corrotto di Marut e seguendo 
+la voce del suo maestro si adopererà a 
+raccogliere energie vitali per alimentare 
+la Tavoletta stessa, conservandola con 
+morbosa ossessione. Una sola creatura 
+alla volta può essere influenzata da questo 
+effetto, nel caso in cui il corrotto dovesse 
+morire o la sintonia spezzata in altro 
+modo, la successiva creatura che toccherà 
+la tavoletta dovrà fare il tiro salvezza su 
+Saggezza.
+Tramite la Tavoletta, il corrotto di 
+Marut acquisisce la capacità di lanciare 
+1 volta al giorno ognuno dei seguenti 
+incantesimi (come un mago di 7° livello): 
+charme su persone, parlare con i morti, con-
+tagio.
+Inoltre, finché il portatore è sinto -
+nizzato con la Tavoletta, qualsiasi altra 
+creatura entri in contatto con la Tavo -
+letta, anche attraverso strati di stoffa o 
+tessuti, perde 1 punto ferita per round, 
+fino ad un massimo di 15 punti ferita al 
+giorno. Questi punti ferita vanno ad ali-
+mentare l’ombra di Marut: anche quanto 
+lo spirito dello stregone si è staccato 
+dalla Tavoletta, un legame mistico li lega 
+ancora indipendentemente dalla distanza. 
+Maledizione.
+Una creatura soggiogata dalla Tavo-
+letta la custodirà con morbosa osses -
+sione, rinunciando a portarla con sé solo 
+nei casi in cui nasconderla sia la solu -
+zione migliore. La sintonia non viene 
+interrotta dalla distanza, solo l’incante -
+simo rimuovi maledizione o una magia 
+analoga possono liberare il corrotto 
+dalla Tavoletta. Finché è in sintonia 
+con la tavoletta, il corrotto è immune 
+agli effetti di controllo mentale o pos -
+sessioni.
+25
+
+===== PAGE 26 =====
+LEGAL INFORMATION
+Permission to copy, modify and distribute the files collectively 
+known as the System Reference Document 5.1 (“SRD5”) is 
+granted solely through the use of the Open Gaming License, 
+V ersion 1.0a.
+This material is being released using the Open Gaming 
+License V ersion 1.0a and you should read and understand the 
+terms of that license before using this material.
+The text of the Open Gaming License itself is not Open 
+Game Content. Instructions on using the License are pro -
+vided within the License itself.
+The following items are designated Product Identity, as 
+defined in Section 1(e) of the Open Game License V ersion 
+1.0a, and are subject to the conditions set forth in Section 7 
+of the OGL, and are not Open Content: Dungeons & Dra-
+gons, D&D, Player’s Handbook, Dungeon Master, Monster 
+Manual, d20 System, Wizards of the Coast, d20 (when used 
+as a trademark), Forgotten Realms, Faerûn, proper names 
+(including those used in the names of spells or items), places, 
+Underdark, Red Wizard of Thay, the City of Union, Heroic 
+Domains of Ysgard, Ever- ‐- Changing Chaos of Limbo, 
+Windswept Depths of Pandemonium, Infinite Layers of the 
+Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, 
+Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal 
+Battlefield of Acheron, Clockwork Nirvana of Mechanus, 
+Peaceable Kingdoms of Arcadia, Seven Mounting Heavens 
+of Celestia, Twin Paradises of Bytopia, Blessed Fields of 
+Elysium, Wilderness of the Beastlands, Olympian Glades of 
+Arborea, Concordant Domain of the Outlands, Sigil, Lady 
+of Pain, Book of Exalted Deeds, Book of Vile Darkness, 
+beholder, gauth, carrion crawler, tanar’ri, baatezu, displa -
+cer beast, githyanki, githzerai, mind flayer, illithid, umber 
+hulk, yuan- ‐-ti.
+All of the rest of the SRD5 is Open Game Content as 
+described in Section 1(d) of the License.
+The terms of the Open Gaming License V ersion 1.0a 
+are as follows:
+OPEN GAME LICENSE V ersion 1.0a
+The following text is the property of Wizards of the 
+Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc 
+(“Wizards”). All Rights Reserved.
+1. Definitions: (a)”Contributors” means  the copyright 
+and/or trademark owners who have contributed Open Game 
+Content; (b)”Derivative Material” means copyrighted mate-
+rial including derivative works and translations (including 
+into other computer languages), potation, modification, 
+correction, addition, extension, upgrade, improvement, 
+compilation, abridgment or other form in which an exi -
+sting work may be recast, transformed or adapted; (c) “Distri-
+bute” means to reproduce, license, rent, lease, sell, broadcast, 
+publicly display, transmit or otherwise distribute; (d)”Open 
+Game Content” means the game mechanic and includes the 
+methods, procedures, processes and routines to the extent 
+such content does not embody the Product Identity and is an 
+enhancement over the prior art and any additional content 
+clearly identified as Open Game Content by the Contribu-
+tor, and means any work covered by this License, including 
+translations and derivative works under copyright law, but 
+specifically excludes Product Identity. (e) “Product Identity” 
+means product and product line names, logos and identi -
+fying marks including trade dress; artifacts; creatures cha -
+racters; stories, storylines, plots, thematic elements, dialogue, 
+incidents, language, artwork, symbols, designs, depictions, 
+likenesses, formats, poses, concepts, themes and graphic, 
+photographic and other visual  or audio representations; 
+names and descriptions of characters, spells, enchantments, 
+personalities, teams, personas, likenesses and special abili -
+ties; places, locations, environments, creatures, equipment, 
+magical or supernatural abilities or effects, logos, symbols, or 
+graphic designs; and any other trademark or registered trade-
+mark clearly identified as Product identity by the owner of the 
+Product Identity, and which specifically excludes the Open 
+Game Content; (f) “Trademark” means the logos, names, 
+mark, sign, motto, designs that are used by a Contributor 
+to identify itself or its products or the associated products 
+contributed to the Open Game License by the Contributor (g) 
+“Use”, “Used” or “Using” means to use, Distribute, copy, edit, 
+format, modify, translate and otherwise create Derivative 
+Material of Open Game Content. (h) “You”or “Your” means 
+the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game 
+Content that contains a notice indicating that the Open 
+Game Content may only be Used under and in terms of this 
+License. You must affix such a notice to any Open Game Con-
+tent that you Use. No terms may be added to or subtracted 
+from this License except as described by the License itself. 
+No other terms or conditions may be applied to any Open 
+Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game 
+Content You indicate Your acceptance of the terms of this 
+License.
+4. Grant and Consideration: In consideration for agreeing 
+to use this License, the Contributors grant You a perpetual, 
+worldwide, royalty- ‐-free, non- ‐- exclusive license with the 
+exact terms of this License  to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are 
+contributing original material as Open Game Content, You 
+represent that Your Contributions are Your original creation 
+and/or You have sufficient rights to grant the rights conveyed 
+by this License.
+6. Notice of License Copyright: You must update the 
+COPYRIGHT NOTICE portion of this License to include the 
+exact text of the COPYRIGHT NOTICE of any Open Game 
+
+===== PAGE 27 =====
+Content You are copying, modifying or distributing, and 
+You must add the title, the copyright date, and the copyright 
+holder’s name to the COPYRIGHT NOTICE of any original 
+Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any 
+Product Identity, including as an indication as to compati-
+bility, except as expressly licensed in another, independent 
+Agreement with the owner of each element of that Pro -
+duct Identity. You agree not to indicate compatibility or co- 
+‐-adaptability with any Trademark or Registered Trademark 
+in conjunction with a work containing Open Game Content 
+except as expressly licensed in another, independent Agre-
+ement with the owner of such Trademark or Registered 
+Trademark. The use of any Product Identity in Open Game 
+Content does not constitute a challenge to the ownership 
+of that Product Identity. The owner of any Product Identity 
+used in Open Game Content shall retain all rights, title and 
+interest in and to that Product Identity.
+8. Identification: If you distribute Open Game Content 
+You must clearly indicate which portions of the work that 
+you are distributing are Open Game Content.
+9. Updating the License: Wizards or its designated Agents 
+may publish updated versions of this License. You may use 
+any authorized version of this License to copy, modify and 
+distribute any Open Game Content originally distributed 
+under any version of this License.
+10. Copy of this License: You MUST include a copy of 
+this License with every copy of the Open Game Content 
+You Distribute.
+11. Use of Contributor Credits: You may not market or 
+advertise the Open Game Content using the name of any 
+Contributor unless You have written permission from the 
+Contributor to do so.
+12. Inability to Comply: If it is impossible for You to 
+comply with any of the terms of this License with respect to 
+some or all of the Open Game Content due to statute, judicial 
+order, or governmental regulation then You may not Use any 
+Open Game Material so affected.
+13. Termination: This License will terminate automati-
+cally if You fail to comply with all terms herein and fail to cure 
+such breach within 30 days of becoming aware of the breach. 
+All sublicenses shall survive the termination of this License.
+14. Reformation: If any provision of this License is held 
+to be unenforceable, such provision shall be reformed only 
+to the extent necessary to make it enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a Copyright 2000, Wizards of 
+the Coast, LLC.
+System Reference Document 5.1 Copyright 2016, Wizards 
+of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, 
+Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, 
+Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve 
+Townshend, based on original material by E. Gary Gygax 
+and Dave Arneson.
+END OF LICENSE
+
+===== PAGE 28 =====
+L
+a Festa delle Primizie di Erala, un piccolo reame dello Xanesh, 
+rischia di saltare a causa di eventi soprannaturali che hanno 
+sconvolto la cittadinanza. In molti attribuiscono la carestia 
+e le sciagure che si sono abbattute sulla città a una vecchia 
+storia riemersa dall’oblio, la leggenda dello stregone Marut e della sua irrefre-
+nabile brama di potere. Ad aggiungere paglia sul fuoco è la feroce lotta tra due 
+potenti famiglie rivali che rischia di trascinare Erala nel caos più totale. In questa 
+avventura per personaggi di 7° livello, gli avventurieri dovranno dimostrarsi abili 
+investigatori, diplomatici e guerrieri per uscire indenni dal pantano di Erala e 
+scoprire che cosa sta accadendo.

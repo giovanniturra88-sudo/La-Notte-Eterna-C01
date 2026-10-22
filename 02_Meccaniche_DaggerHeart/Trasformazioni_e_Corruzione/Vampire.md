@@ -22,32 +22,11 @@ Indipendentemente dall'apparenza, tutti i vampiri possiedono abilità potenziate
 ## Caratteristiche della Trasformazione
 
 ### Zanne (Fangs)
-Effettuare un attacco usando un tratto a tua scelta per mordere un bersaglio entro portata Mischia. In caso di successo, infliggi **d6 danni fisici** usando la tua Competenza.
+Effettua un attacco usando un tratto a tua scelta per mordere un bersaglio entro portata Mischia. In caso di successo, infliggi **d6 danni fisici** usando la tua Competenza.
 
 ### Nutrirsi (Feed)
-Dopo un attacco "Zanne" di successo contro una creatura che può sanguinare, puoi segnare 1 Stress per nutrirTi. Piazza un numero di gettoni su questa carta uguale al numero di Punti Ferita che segni alla creatura. Puoi tenere fino a **6 gettoni** totali.
+Dopo un attacco "Zanne" di successo contro una creatura che può sanguinare, puoi marcare uno Stress per nutrirsi. Piazza un numero di gettoni su questa carta uguale al numero di Punti Ferita **che la creatura segna**. Puoi tenere fino a **6 gettoni** alla volta.
 
 Prima di effettuare un tiro d'azione, puoi spendere un gettone per rendere il tuo Dado Paura un **d20**. Quando fai un riposo lungo, rimuovi un gettone.
 
-Quando non ci sono gettoni su questa carta, effettui tiri d'azione con **Svantaggio**.
-
----
-
-## Varianti di Vampiri
-
-### Vampiro Katari
-- I vampiri sono facilmente identificabili dalle loro zanne, incisivi o canini allungati sono i più comuni, ma alcuni hanno zanne in posizioni diverse o set multipli nella bocca.
-
-### Vampiro Skykin
-*(Variant available - specific features detailed in source)*
-
-### Vampiro Fatato
-*(Variant available - specific features detailed in source)*
-
----
-
-## Note di Gioco
-
-- I vampiri possono nutrirsi solo di creature che possono sanguinare.
-- Il potere dei vampiri diminuisce quando non hanno gettoni "Nutrirsi" disponibili (svantaggio ai tiri d'azione).
-- La gestione dei gettoni è cruciale: ogni morso è una scelta strategica tra potenza immediata e stabilità a lungo termine.
+Quando non ci sono gettoni su questa carta, effettui **tiri d'azione e di reazione** con **Svantaggio**.

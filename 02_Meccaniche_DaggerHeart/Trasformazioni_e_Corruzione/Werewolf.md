@@ -1,50 +1,26 @@
-# Lupo Mannaro (Lycan / Werewolf)
+# Lupo Mannaro (Werewolf)
 
-I Lupi Mannari sono mortali con il potere del Lupo nelle loro vene. Possono essere nati così, o possono aver ricevuto il potere da un Lupo primordiale o attraverso un patto con l'istinto selvaggio. I nuovi Lupi Mannari sembrano in genere membri tipici della loro stirpe, ma col tempo possono crescere più forti, sviluppare tratti canini e sperimentare il **Furore Uggiolante** durante momenti di grande stress.
+I lupi mannari sono creature che si trasformano in grandi lupi soprannaturali. Alcuni sono nati lupi mannari, altri subiscono questa trasformazione a causa di una maledizione, un'infezione attraverso il morso di un altro lupo mannaro, o un'altra causa innaturale. I lupi mannari sembrano membri tipici della loro stirpe finché non si trasformano, dopodiché si trasformano in un massiccio lupo ultraterreno. Alcuni potrebbero persino assumere una forma che è un amalgama della loro stirpe e della loro forma di lupo. Le storie descrivono i lupi mannari che si trasformano con le fasi della luna, sebbene l'esperienza individuale di questo cambiamento vari in base alla causa della loro trasformazione.
 
-Le storie descrivono i Lupi Mannari come dotati di forza aumentata, resistenza alle ferite o immunizzazione al dolore. Alcuni provano a controllare il Lupo in sé stessi; altri si trovano a fare scelte più drastiche: diventare completamente selvaggi e instabili, o fondere la propria mente con quella del branco.
+I lupi mannari spesso faticano a controllare il loro istinto di caccia e la violenza mentre sono nella loro forma di lupo, e devono avere un'immensa autodisciplina, usare energia significativa, o ricorrere alla fuga o al rinchiudersi per evitare di ferire i loro cari. Più a lungo un lupo mannaro ha esperienza con la sua condizione, più è probabile che abbia sviluppato metodi per controllarsi.
 
 ---
 
 ## Domande di Trasformazione
 
-- Qual è il tuo ricordo preferito della prima volta che ti sei trasformato?
-- Un'opinione comune dice che non si può mai tornare a come eravamo prima. Come descriveresti te stesso ora rispetto a prima di questa trasformazione?
-- In quale momento hai perso la tua umanità per un attimo, e cosa è successo in quel momento?
-- Cosa è cresciuto sulla tua spalla una notte. Non sei sicuro che sia umano o animale. Cos'è, e perché pensi sia lì?
-- Hai mangiato qualcuno in una delle tue forme. Chi era, e come si sente ora?
-- Quale mostro hai visto per primo di notte, che ti ha fatto sentire il cuore battere? Cosa era, e lo hai ucciso o scacciato?
+- Qualcuno ti sta dando la caccia. Chi è, e perché vuole la tua morte?
+- Di cosa avevi paura prima di diventare un lupo mannaro, e come ha cambiato quella paura il tuo nuovo potere?
+- Senti la tua forma di lupo nella tua testa come se fosse un'altra entità. Quale bugia ti racconta su di te, e perché stai iniziando a crederci?
+- Cosa ti ha portato a uccidere qualcuno che ami durante la tua furia?
+- Chi ti ha maledetto per diventare un lupo mannaro?
+- Un tempo ti è stato chiesto di unirti a un branco di altri lupi mannari. Come hai risposto?
 
 ---
 
 ## Caratteristiche della Trasformazione
 
 ### Forma del Lupo (Wolf Form)
-Quando segni 2 Stress, puoi segnare **d6** Danni Fisici. Descrivi la trasformazione che avviene al tuo corpo mentre diventi un Lupo Mannaro.
-
-> **Nota**: Le trasformazioni più ampie e le caratteristiche complete sono descritte nel manuale principale del gioco.
-
----
+Quando marchi 1 o più Punti Ferita, puoi marcare uno Stress per entrare nella tua Forma del Lupo. Mentre sei in questa forma, ottieni un bonus di 1d10 ai tiri di attacco e di danno. Quando tiri con Speranza mentre sei in Forma del Lupo, devi marcare uno Stress. La tua Forma del Lupo dura finché non entri nel tuo "Furore Uggiolante" o finché non fai un riposo.
 
 ### Furore Uggiolante (Howling Rampage)
-Quando segni 2 Stress, puoi segnare **d6** Danni Fisici. Questo rappresenta la tua trasformazione in una bestia furiosa.
-
----
-
-## Possibili Tratti Canini
-
-I Lupi Mannari possono sviluppare:
-- **Artigli affilati**: Per attacchi potenziati
-- **Zanne più grandi**: Per morso come attacco
-- **Mantello più folto**: Per resistenza al freddo
-- **Occhi più luminosi**: Per visione notturna
-- **Altri tratti**: Dipende dalla narrazione
-
----
-
-## Note di Gioco
-
-- Il costo per entrare in Forma del Lupo è segnare 2 Stress.
-- La trasformazione concede **d6** Danni Fisici.
-- Il controllo del Lupo è un tema narrativo centrale per i Lupi Mannari.
-- Il conflitto tra umanità e istinto selvaggio offre opportunità di sviluppo del personaggio.
+Quando marchi l'ultimo Stress mentre sei in Forma del Lupo, entri in una furia. Tira un numero di d20 pari al tuo rango e infliggi tanto danno fisico a tutte le creature entro portata Ravvicinata, poi esci dalla Forma del Lupo.
