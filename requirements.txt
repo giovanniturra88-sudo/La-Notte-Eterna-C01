@@ -1,2 +1,2 @@
 mkdocs-material
-mkdocs-obsidian-support-plugin
+mkdocs-roam-links-plugin
