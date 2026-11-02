@@ -3,9 +3,7 @@ type:
  - "[[Ancestry]]"
 source: La Notte Eterna
 ---
-
 ![[karevi_pic.png]]
-
 ## Essenza e Archetipo
 - **Descrizione Visiva**: figure snelle e affusolate, con pelle diafana che sembra assorbire la luce invece di rifletterla. I loro occhi sono completamente neri, i capelli corvini e/o rosso scuro a seconda dei casi, mentre la pelle è pallida. Leggermente più bassi e snelli dei comuni umani, sono di conseguenza piuttosto agili. 
 - **Origine**: Creature plasmate dalle correnti della Dimensione dello Spirito e della Materia. Sono nate quando il confine tra i mondi si è assottigliato durante i cataclismi che hanno preceduto e accompagnato la Guerra Celeste, rendendoli entità intrinsecamente legate all'equilibrio tra i piani.

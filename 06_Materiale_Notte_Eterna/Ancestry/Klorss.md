@@ -3,8 +3,7 @@ type:
  - "[[Ancestry]]"
 source: La Notte Eterna
 ---
-
-![[klorss_pic.png]]
+![[klorrs_pic.png]]
 ## Essenza e Archetipo
 - **Descrizione Visiva**: Un tempo elfi, dopo aver conquistato il Principato di Valle Nuvolosa i klorss caddero sotto l’influenza della malvagia Principessa Demone, Izàfer. Tra le montagne fondarono un dominio tirannico, macchiandosi di crimini ed efferatezze ai danni dei nani e causando una profonda e insanabile spaccatura nel Reame di Dor. L'influenza Izafer ne contaminò perfino il retaggio fatato, trasformandoli in elfi delle profondità alterandone la natura. Sconfitti da un esercito di nani ed elfi unito contro il malvagio dominio di Izaferi, Klorss trovarono rifugio nelle caverne a nord delle Terre Nascoste, dove hanno abbandonato le vie oscure per dare origine a una società in armonia con il nuovo ambiente in cui si sono stabiliti, formando tredici tribù distinte, ognuna delle quali ha caratteristiche uniche che saranno meglio descritte nel Tomo delle Terre Nascoste. Con l’avvento della Notte Eterna è divenuto più facile incontrare viandanti klorss sulla terra di superficie, sebbene in quantità di gran lunga inferiore rispetto ai karevi. I klorss hanno la pelle grigio cenere e folti capelli scuri striati da ciocche dorate, mentre i penetranti occhi viola riflettono la loro eredità abissale. Hanno una corporatura snella e agile, eccellendo spesso come abili cacciatori.
 - **Origine**: Discendenti delle antiche stirpi elfiche che hanno scelto di abitare gli abissi tra la Dimensione della Materia e la Dimensione dello Spirito, mutando nel tempo per sopravvivere al contatto con il Vuoto.

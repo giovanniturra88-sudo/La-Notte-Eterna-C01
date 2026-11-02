@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Materiale_Notte_Eterna/SottoClassi/Dardo Sanguinante.md",
+                "file": "Benvenuto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dardo Sanguinante"
+              "title": "Benvenuto"
+            }
+          },
+          {
+            "id": "2a02b6fd0187928c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,49 +202,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "172ba52dbfc44d4e",
+  "active": "2a02b6fd0187928c",
   "lastOpenFiles": [
-    "06_Materiale_Notte_Eterna/SottoClassi/Custode dei Segreti.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere dei Passi.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere di Kurash.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere Ospedaliere.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Cavaliere Pesante.md",
-    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart/Wizard.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Archivista di Mubunash.md",
-    "06_Materiale_Notte_Eterna/Items/Kumwrub il Grande.md",
-    "06_Materiale_Notte_Eterna/Items/Palchetto del Placido Sonno.md",
-    "06_Materiale_Notte_Eterna/Classi/Cacciatore delle Ombre.md",
-    "06_Materiale_Notte_Eterna/Armi/Bastoni Magici di Nũ.md",
-    "06_Materiale_Notte_Eterna/Armi/Alabarda dei Mondi.md",
-    "06_Materiale_Notte_Eterna/Armature/Gabbano dei Lupi d'Inverno.md",
-    "06_Materiale_Notte_Eterna/Armature/Abito del Messo.md",
-    "06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
-    "06_Materiale_Notte_Eterna/Ancestry/Wiloi.md",
-    "06_Materiale_Notte_Eterna/Ancestry/Urakian.md",
-    "06_Materiale_Notte_Eterna/Ancestry/Nuno.md",
+    "requirements.txt.md",
+    "requirements.txt",
+    "README.md",
+    "Benvenuto.md",
+    "00_Dashboard/Master e Players/Indice SottoClassi.md",
+    "06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
+    "04_Risorse/Pictures/klorrs_pic.png",
+    "docs",
     "06_Materiale_Notte_Eterna/Ancestry/Klorss.md",
+    "04_Risorse/Pictures/Pasted image 20260710132429.png",
     "06_Materiale_Notte_Eterna/Ancestry/Karevi.md",
-    "00_Dashboard/Master e Players/Indice Classi.md",
-    "02_Meccaniche_DaggerHeart/Classi/DaggerHeart Void/Summoner.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Veggente dell'Ultimo Giorno.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Triste Mietitore.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Tombarolo.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Spiritualista.md",
-    "00_Dashboard/Master e Players",
-    "00_Dashboard",
-    "scripts/translate_arms_hope_fear.py",
-    "scripts/dump_output.txt",
-    "scripts/translate_items.py",
-    "scripts/scan_items.py",
-    "scripts/dump_en_files.py",
-    "scripts/check_lang.py",
-    "scripts",
-    "00_Dashboard/Master",
-    "04_Risorse/Pictures/Pasted image 20260807005407.png",
+    "04_Risorse/Pictures/klorss_pic.png",
+    "04_Risorse/Pictures/karevi_pic.png",
+    "04_Risorse/Pictures/nuno_pic.png",
+    "04_Risorse/Pictures/nuno_pic.png",
+    "06_Materiale_Notte_Eterna/Ancestry/Nuno.md",
+    "04_Risorse/Pictures/urakian_pic.png",
     "04_Risorse/Pictures/Pasted image 20260806185438.png",
-    "04_Risorse/Pictures/Pasted image 20260805185428.png",
-    "04_Risorse/Pictures/Pasted image 20260804014346.png",
-    "04_Risorse/Pictures/Pasted image 20260802121721.png",
+    "06_Materiale_Notte_Eterna/Ancestry/Urakian.md",
+    "04_Risorse/Pictures/urakian_pic.png",
+    "04_Risorse/Pictures/wiloi_pic.png",
+    "06_Materiale_Notte_Eterna/Ancestry/Wiloi.md",
+    "06_Materiale_Notte_Eterna/SottoClassi/Lama di Dor.md",
+    "06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
+    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Necromante.md",
+    "06_Materiale_Notte_Eterna/SottoClassi/Dardo Sanguinante.md",
+    "04_Risorse/Templates/Template Scena.md",
+    "04_Risorse/Templates/Template Avversario.md",
+    "04_Risorse/Templates/Template Ancestry.md",
+    "04_Risorse/Templates",
+    "04_Risorse/Pictures",
+    "04_Risorse",
+    "scripts/storylines_text/When Angels Cry ITA.txt",
+    "scripts/storylines_text/Oscura Chiesa di Tenebris.txt",
+    "scripts/storylines_text/The Star Gazer Deluxe ITA.txt",
+    "scripts/storylines_text/Pioggia di Fuoco.txt",
+    "scripts/storylines_text/La Tavoletta Proibita.txt",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Teriantropia.md",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Vampirismo.md",
+    "06_Materiale_Notte_Eterna/Regole_di_Casa/Ispirazione Divina.md",
+    "06_Materiale_Notte_Eterna/PNG/Minori/Wonderrod.md",
+    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Öduin il Valoroso.md",
+    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Uzkal delle Zanne.md",
+    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Principessa Xanesh.md",
+    "06_Materiale_Notte_Eterna/PNG/Magia della Sfera/Nyami-Mia.md",
     "Senza nome.canvas"
   ]
 }

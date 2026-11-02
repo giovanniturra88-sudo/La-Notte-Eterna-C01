@@ -12,12 +12,12 @@ owner_class: Mago / Stregone / Warlock
 ![[Pasted image 20260802121721.png|502]]
 # 🐾 Yamyam (Famiglio Wiloi)
 
-Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabel]], ammirando gli ologrammi che raffigurano le gesta dei più grandi incantatori *nüeth*, alcuni sopravvissuti alla distruzione della Città delle Sette Rune. Tra fuoco, fiamme e meraviglie arcane vi sembra di scorgere un particolare ricorrente. Vi avvicinate per guardare meglio, non c'è dubbio: quelle non sono ombre, ma **[[06_Materiale_Notte_Eterna/Ancestry/Yamyam]]**, frammenti di anima materializzati in corpicini arruffati, immancabili famigli di ogni [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] che si rispetti. La storia è raccontata da uomini e donne di potere, ma a fare spesso la differenza anche nelle situazioni più disperate sono i loro servitori più fidati.
+Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabel]], ammirando gli ologrammi che raffigurano le gesta dei più grandi incantatori *nüeth*, alcuni sopravvissuti alla distruzione della Città delle Sette Rune. Tra fuoco, fiamme e meraviglie arcane vi sembra di scorgere un particolare ricorrente. Vi avvicinate per guardare meglio, non c'è dubbio: quelle non sono ombre, ma **[[Yamyam]]**, frammenti di anima materializzati in corpicini arruffati, immancabili famigli di ogni [[Wiloi]] che si rispetti. La storia è raccontata da uomini e donne di potere, ma a fare spesso la differenza anche nelle situazioni più disperate sono i loro servitori più fidati.
 
 > *«Prendetevi cura di loro e avrete cura di voi stessi. Vi guarderanno le spalle in luoghi sconosciuti e lontani, saranno il vostro supporto in giorni bui e angosciosi.»*
-> — **I Draghi di Yolamhra ai [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] prima della partenza per [[Neir]]**
+> — **I Draghi di Yolamhra ai [[Wiloi]] prima della partenza per [[Neir]]**
 
-Gli yamyam sono estensioni dell'anima dei [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]], ma non tutti i [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sorcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole dell'incantatore.
+Gli yamyam sono estensioni dell'anima dei [[Wiloi]], ma non tutti i [[Wiloi]] possono evocarli. Possono essere evocati a partire dal 1° livello di classe ([[Wizard]], [[Sorcerer]] e [[Warlock]]). Evocare uno yamyam impedisce al [[Wiloi]] di lanciare l'incantesimo *Trova Famiglio*. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole dell'incantatore.
 
 ---
 

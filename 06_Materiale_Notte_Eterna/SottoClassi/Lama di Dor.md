@@ -11,6 +11,7 @@ Dominio:
   - "[[Ossa]]"
   - "[[Saggezza]]"
   - "[[Lama]]"
+  - "[[Mezzanotte]]"
 source: La Notte Eterna
 location:
   - "[[Landa di Edeber]]"
@@ -23,17 +24,22 @@ Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri
 ---
 
 ### Fondazione
-**_Lama di Dor:_** Quando impugni due armi a una mano (o armi con proprietà _In Coppia / Paired_), ottieni **+1 all'Evasione (Evasion)**. Inoltre, puoi riporre le armi da mischia ed estrarre un arco (o viceversa) istantaneamente durante qualsiasi tua mossa senza spendere risorse.
+**_Lama di Dor:_** Puoi riporre le armi da mischia ed estrarre un arco (o viceversa) istantaneamente durante qualsiasi tua mossa, senza spendere risorse. 
+
+**_Danza Gemella:_** Quando metti a segno un attacco con la tua arma primaria in Mischia mentre impugni anche un'arma secondaria a una mano, puoi marcare **1 Stress** per aggiungere al danno uno dei dadi di danno dell'arma secondaria.
 
 ---
 
 ### Specializzazione
-**_Danza Gemella:_** dopo un colpo riuscito con due armi, puoi spendere **1 Speranza** per aggiungere un dado di danno dell’arma secondaria.
+**_Veloce come il Vento:_** Con i tuoi movimenti puoi coprire una fascia di portata in più (ad esempio da Vicina a Lontana) senza costi aggiuntivi. 
+
+**_Raffica d'Argento:_** Quando attacchi con l'arco puoi marcare **1 Stress** per bersagliare con lo stesso tiro d'attacco una seconda creatura entro portata.
 
 ---
 
 ### Maestria
-**_Campione degli Elfi:_** una volta per scena, quando ti disimpegni, marcando **1 stress** puoi effettuare un attacco con arma gratuito durante il movimento e i tuoi colpi riusciti infliggono **+1d6 danni extra**.
+**_Campione degli Elfi:_** Mentre impugni due armi a una mano ottieni un bonus permanente di **+1 all'Evasione (Evasion)**. 
+Inoltre, una volta per scena, quando ti disimpegni da un avversario in Mischia o ti sposti di almeno una fascia di portata, puoi marcare **1 Stress** ed effettuare un attacco con arma gratuito durante il movimento. Se riesce, infliggi **+1d6 danni extra**.
 
 ---
 

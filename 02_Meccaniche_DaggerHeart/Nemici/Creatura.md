@@ -139,7 +139,7 @@ Questa pagina elenca tutti i nemici presenti nel progetto, organizzati per fonte
 - [[Terribile Pipistrello]]
 - [[Teschio del Caos]]
 - [[Torretta Guardiana della Cripta]]
-- [[02_Meccaniche_DaggerHeart/Nemici/DaggerHeart/Vampiro]]
+- [[Vampiro]]
 - [[Zanna Cultista]]
 - [[Zanzare Giganti]]
 - [[Zombie Barcollante]]
