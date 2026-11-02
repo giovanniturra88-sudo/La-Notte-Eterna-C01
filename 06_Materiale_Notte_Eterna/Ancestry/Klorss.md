@@ -18,7 +18,3 @@ source: La Notte Eterna
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Klorss sono creature del crepuscolo perenne; la loro vista si è adattata a percepire le variazioni di temperatura e energia anche dove non esiste alcuna fonte luminosa.
 - **Relazione con le Fazioni**: Visti con rispetto misto a terrore dalle gerarchie ecclesiastiche di Neir, che li considerano "toccati dal Vuoto". Sono invece consultati come oracoli dalle fazioni che operano ai margini dei portali dimensionali.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Elfo** (adattato per le tematiche del Vuoto).
-- *Modifiche apportate*: Abbiamo rimosso le abilità silvane e di agilità tipiche per concentrarci su capacità di resistenza magica e manipolazione psichica, bilanciando il potere con l'accumulo di *Paura*.

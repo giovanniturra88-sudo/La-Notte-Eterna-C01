@@ -17,18 +17,18 @@ Ladri specializzati nell'esplorazione e nel saccheggio di antiche necropoli, cap
 ---
 
 ### Fondazione
-**_Morto di Fatica:_** Una volta per riposo, puoi mirare a un cadavere umanoide di taglia media o inferiore per rianimarlo come non-morto aiutante (Scheletro o Zombi). Non può attaccare o difendere, ma esegue ordini semplici per te (aprire casse, trasportare pesi, attivare leve). Scompare se subisce danni.
+**_Morto di Fatica:_** Una volta per riposo breve o lungo, puoi interagire con i resti di una creatura per rianimarla come non-morto servitore (**Scheletro o Zombie Minore**). Non può attaccare autonomamente, ma esegue ordini di fatica (trasportare pesi, sbloccare leve, disattivare trappole). Scompare se viene bersagliato da un colpo diretto.
 
 ---
 
 ### Specializzazione
-**_Morto di Fatica Migliorato:_** Il tuo Morto di Fatica ottiene +2 all'Evasione e raddoppia i suoi Punti Ferita. Quando stai per subire danni da un attacco e il tuo aiutante è entro portata Prossima, puoi far sì che l'attacco colpisca e distrugga il tuo aiutante al tuo posto.
-**_Esploratore di Catacombe:_** Ottieni vantaggio su tutte le prove per individuare trappole e passaggi segreti.
+**_Morto di Fatica Migliorato:_** Il tuo _Morto di Fatica_ diventa più resistente. Quando stai per subire danni da un attacco nemico e il tuo servitore si trova a portata **Mischia (Melee)** da te, puoi far sì che lo zombie si frapponga, distruggendosi ma cancellando **1 Punto Ferita** dal danno subito.
+**_Esploratore di Catacombe:_** Ottieni **Vantaggio** a tutti i tiri di _Investigare_ o _Astuzia_ effettuati per individuare trappole meccaniche, passaggi segreti o meccanismi antichi.
 
 ---
 
 ### Maestria
-**_Ultimo Trucco:_** Una volta per riposo lungo, puoi comandare mentalmente al tuo Morto di Fatica di gonfiarsi ed esplodere. Ogni creatura entro portata Ravvicinata deve superare un Tiro di Reazione di Agilità; in caso di fallimento, subisce 4d10 danni magici necrotici ed è avvelenata per 1 minuto.
+**_Ultimo Trucco:_** Una volta per riposo lungo, puoi ordinare al tuo servitore non-morto di gonfiarsi di gas ematici ed esplodere. Tutti i nemici a portata **Vicina (Close)** dal servitore devono effettuare un Tiro di Reazione di _Agilità_: chi fallisce subisce **2d8 danni magici Necrotici** e la condizione **Vulnerabile**.
 
 ---
 

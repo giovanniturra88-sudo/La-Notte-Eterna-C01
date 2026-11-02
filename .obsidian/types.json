@@ -16,6 +16,7 @@
     "classe": "multitext",
     "domini_associati": "multitext",
     "location": "multitext",
-    "tattiche": "multitext"
+    "tattiche": "multitext",
+    "spellcast_trait": "multitext"
   }
 }

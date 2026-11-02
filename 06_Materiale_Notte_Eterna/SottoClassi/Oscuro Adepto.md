@@ -1,15 +1,16 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Warlock]]"
+  - "[[Warlock]]"
+  - "[[Seraph]]"
 Dominio:
- - "[[Terrore]]"
- - "[[Grazia]]"
+  - "[[Terrore]]"
+  - "[[Grazia]]"
 spellcast_trait: Presenza (Presence)
 source: La Notte Eterna
 location:
- - "[[Pianure di Xanesh]]"
- - "[[Mubunash]]"
+  - "[[Pianure di Xanesh]]"
+  - "[[Mubunash]]"
 ---
 # Sottoclasse: Oscuro Adepto
 
@@ -18,18 +19,18 @@ Chierici e cultisti devoti del semidio [[Tenebris]], che stringono patti inferna
 ---
 
 ### Fondazione
-**_Protezione Infernale:_** Ottieni resistenza permanente ai danni da Fuoco e da Veleno. Quando vieni colpito da un attacco, puoi spendere 1 Stress per essere ammantato da ombre deformi che ti concedono resistenza a tutti i danni di quell'attacco.
+**_Protezione Infernale:_** Ottieni **Resistenza** permanente ai danni da Fuoco e Veleno. Inoltre, quando subisci danni da un attacco, puoi marcare **1 Stress** per essere ammantato da ombre deformi che ti concedono **Resistenza** a tutti i danni di quel singolo attacco.
 
 ---
 
 ### Specializzazione
-**_In Catene:_** Come azione, spendi 1 Speranza e seleziona un avversario entro portata Ravvicinata. Devono superare un Tiro di Reazione di Forza contro la tua Difficoltà; in caso di fallimento, sono considerati Trattenuti (*Restrained*) da catene di acciaio bollente per 1 round.
-**_Aguzzino Competente:_** Ottieni vantaggio permanente su tutte le prove di Intimidire.
+**_In Catene:_** Spendi **1 Speranza** per evocare catene d'acciaio incandescente contro un nemico entro portata **Vicina (Close)**. Il bersaglio deve effettuare un Tiro di Reazione di _Forza_: se fallisce, subisce la condizione **Trattenuto (Restrained)** finché non spende un'azione per liberarsi o la scena termina.
+**_Aguzzino Competente:_** Ottieni **Vantaggio** a tutti i tiri d'azione di _Presenza_ o _Intimidire_ effettuati per minacciare, interrogare o instillare paura nei tuoi interlocutori.
 
 ---
 
 ### Maestria
-**_Pentacolo dei Dieci Devoti:_** Ottieni l'immunità completa ai danni da Fuoco e Veleno. Il tuo tipo di creatura diventa permanentemente Immondo (Fiend). Ottieni vantaggio permanente a tutte le prove di Intimidire, ma subisci svantaggio permanente a tutte le prove di Persuasione con creature buone.
+**_Pentacolo dei Dieci Devoti:_** Ottieni l'immunità totale ai danni da Fuoco e Veleno, e la tua natura di creatura diventa permanentemente **Immondo (Fiend)**. Tutti i tuoi tiri per intimidire od ordinare sono con **Vantaggio**, ma subisci **Svantaggio** costante nelle prove di _Persuasione_ dirette a creature buone o consacrate.
 
 ---
 

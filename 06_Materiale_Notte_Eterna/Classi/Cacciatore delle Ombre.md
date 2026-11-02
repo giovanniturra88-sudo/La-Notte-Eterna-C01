@@ -23,21 +23,21 @@ Il **Cacciatore delle Ombre** ha adattato il proprio stile di caccia alla notte 
 # Speranza
 
 ## Velo della Notte
-**Spendi 3 Speranze** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Nascosto** (Cloaked) fino all'inizio del tuo prossimo turno, anche se ti trovi sotto la diretta osservazione di un nemico o in piena luce intensa.
+Spendi **2 Speranze** per dissolverti parzialmente nelle ombre circostanti. Ottieni immediatamente la condizione **Nascosto (Cloaked)** finché non effettui una nuova azione d'attacco o la scena non termina, anche se ti trovi sotto la diretta osservazione di un nemico o in condizioni di luce fievole.
 
 ---
 
 # Caratteristiche di Classe
 
 ## Focus dell'Ombra (Shadow Focus)
-Spendi un punto Speranza ed effettua un attacco contro un bersaglio che si trova in condizioni di luce fioca o oscurità. In caso di successo, infliggi il danno normale dell'arma e rendi temporaneamente quel bersaglio la tua **Priorità**. 
-Finché questa caratteristica rimane attiva o finché non marchi un altro Focus, ottieni i seguenti benefici:
-* **Sguardo Penetrante:** Conosci sempre l'esatta posizione del tuo Focus, anche se si nasconde dietro coperture totali, muri o se diventa invisibile.
-* **Tormento del Fato:** Una volta per turno, quando infliggi danno al tuo Focus, questi deve marcare immediatamente **1 Stress** a causa del terrore psicologico che gli incuti.
-* **Ineluttabilità:** Se fallisci un tiro di attacco contro la tua Priorità, puoi decidere di terminare immediatamente l'effetto di questa caratteristica per ripetere il tuo tiro con i Dadi Dualità.
+Spendi **1 Speranza** ed effettua un attacco d'arma o di classe contro un bersaglio che si trova in condizioni di luce fioca o oscurità. Se l'attacco va a segno, infliggi il normale danno dell'arma e marchi quel bersaglio come tuo **Focus dell'Ombra**.
 
+Finché mantieni il Focus su quel bersaglio (fino a quando non ne scegli un altro o la scena non termina):
+- **Sguardo Penetrante:** Conosci sempre l'esatta posizione del tuo Focus, anche se si nasconde dietro coperture totali, muri o se diventa invisibile.
+- **Tormento del Fato:** Quando metti a segno un'azione d'attacco e infliggi danni al tuo Focus, puoi costringere il bersaglio a marcare immediatamente **1 punto Stress** aggiuntivo per il terrore psicologico incusso.
+- **Ineluttabilità:** Se fallisci un tiro d'attacco contro il tuo Focus, puoi scegliere di interrompere l'effetto di questa caratteristica per ripetere immediatamente il tiro usando i tuoi Dadi Dualità.
 ## Passo Silenzioso (Shadow Stride)
-Il tuo movimento è naturalmente privo di suono. Ottieni vantaggio permanente su tutti i tiri di azione o reazione effettuati per muoverti silenziosamente o per nasconderti in aree ricoperte da ombre, nebbia o vegetazione di alberi-fungo.
+Il tuo movimento è privo di suono ed elusivo per natura. Ottieni **Vantaggio** permanente su tutte le prove di _Agilità_ o _Furtività_ effettuate per muoverti silenziosamente o per nasconderti in aree ricoperte da ombre, nebbia, fumo o vegetazione fitta.
 
 ---
 

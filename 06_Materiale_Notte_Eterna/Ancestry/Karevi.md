@@ -18,7 +18,3 @@ source: La Notte Eterna
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Per un Karevi, la Notte Eterna è il suo ambiente naturale. Non soffrono penalità ambientali nelle zone corrotte.
 - **Relazione con le Fazioni**: Sono rispettati (e temuti) dalle gilde magiche di Neir che li usano come guide attraverso i Portali. Spesso visti con sospetto dalle fazioni che temono l'influenza della [[Dimensione dello Spirito]].
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Elfo** (adattato).
-- *Modifiche apportate*: Abbiamo sostituito i tratti silvani con abilità di movimento dimensionale e gestione dei fear points, riflettendo la loro natura di "Signori delle Ombre".

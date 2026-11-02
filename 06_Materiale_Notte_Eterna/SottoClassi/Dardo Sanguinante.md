@@ -1,14 +1,17 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Rogue]]"
+  - "[[Rogue]]"
 Dominio:
- - "[[Mezzanotte]]"
- - "[[Grazia]]"
-spellcast_trait: Astuzia
+  - "[[Mezzanotte]]"
+  - "[[Grazia]]"
+spellcast_trait:
+  - Astuzia
+  - Agilità
 source: La Notte Eterna
 location:
- - "[[Mendulia's Rock]]"
+  - "[[Mendulia's Rock]]"
+  - "[[Neir]]"
 ---
 # I Dardi Sanguinanti
 
@@ -17,20 +20,20 @@ I Dardi Sanguinanti sono la più potente e temuta gilda malavitosa che estende i
 ## Caratteristiche di Fondazione
 
 ### Tatuaggio di Sangue
-La ferita rituale della gilda pulsa di un'energia magica e viscerale. Quando metti a segno un **Attacco Furtivo (Sneak Attack)** con successo, puoi scegliere di spendere **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni suo turno, una creatura Sanguinante subisce 1d6 danni fisici diretti finché essa o un alleato entro portata di mischia non spendono un'azione per tamponare e medicare la ferita.
+Quando metti a segno un attacco con successo usando il tuo privilegio di classe (come _Sneak Attack_), puoi marcare **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni sua azione, la creatura sanguinante subisce **1d6 danni fisici diretti** finché essa o un alleato non spendono un'azione per medicarla.
 
 ## Caratteristiche di Specializzazione
 
 ### Covo Sicuro
-Conosci la collocazione di tutti i rifugi segreti dei Dardi Sanguinanti nelle città di Neir. Quando giungi in un insediamento di taglia media o superiore, puoi spendere **1 Speranza** per condurre il tuo gruppo in un covo sicuro. All'interno del rifugio, tu e i tuoi alleati potete effettuare un riposo breve o lungo in totale sicurezza e gratuitamente, protetti dalle ronde della milizia cittadina.
+Conosci i rifugi segreti della gilda. Quando il gruppo giunge in un centro abitato, puoi spendere **1 Speranza** per condurre tutti in un covo sicuro dove effettuare riposi brevi o lunghi in totale sicurezza.
 
 ### Smercio dei Bassifondi
-Ottieni vantaggio a tutte le prove di caratteristica effettuate per negoziare con ricettatori, contrabbandieri o contatti del mercato nero. Inoltre, quando vendi refurtiva o merci di contrabbando, ottieni un incremento del **25% sul conio** d'oro o argento ricevuto.
+Ottieni **Vantaggio** a tutti i tiri per interagire o contrattare con ricettatori, criminali e mercanti del mercato nero, ottenendo sempre il miglior prezzo di vendita per la refurtiva.
 
 ## Caratteristiche di Maestria
 
 ### Dardo Letale
-La tua lama cerca istintivamente le ferite aperte dei tuoi avversari. Ottieni vantaggio a tutti i tiri d'attacco effettuati contro bersagli affetti dalla condizione **Sanguinante** o sotto l'effetto di veleni. Quando colpisci con successo una di queste creature, puoi aggiungere il tuo modificatore di **Astuzia** direttamente ai danni dell'arma. Se il bersaglio viene sconfitto da questo attacco, recuperi immediatamente 1 Punto Ferita o 2 Stress.
+Ottieni **Vantaggio** a tutti i tiri d'attacco effettuati contro bersagli che soffrono di condizioni (come _Sanguinante_, _Vulnerabile_ o _Veleno_). Quando sconfiggi un bersaglio affetto da una di queste condizioni, recuperi immediatamente **1 Punto Ferita** o **2 punti Stress**.
 
 ---
 

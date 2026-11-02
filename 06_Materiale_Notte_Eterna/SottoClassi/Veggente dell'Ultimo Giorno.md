@@ -18,18 +18,18 @@ Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marzia
 ---
 
 ### Fondazione
-**_Dadi del Destino:_** Ottieni una riserva di *Dadi del Destino* (d8) pari al tuo modificatore di Istinto. Prima di effettuare una prova o un attacco, puoi spendere un Dado del Destino per aggiungerne il risultato al tuo tiro d'azione (*Conoscenza Futura*).
+**_Dadi del Destino:_** Ottieni una riserva speciale di **Dadi del Destino (d8)** pari al tuo modificatore di _Istinto_ (minimo 1). Prima di effettuare un tiro d'azione o di reazione, puoi spendere 1 Dado del Destino per aggiungerne il risultato come bonus diretto al totale del tiro. Recuperi tutti i Dadi del Destino dopo un riposo lungo.
 
 ---
 
 ### Specializzazione
-**_Previsione Accurata:_** Quando utilizzi un Dado del Destino, puoi scegliere di fornire vantaggio a un tiro che effettuerai nelle prossime 24 ore.
-**_Futuro Malleabile:_** Come azione, spendi un Dado del Destino per imporre svantaggio a tutti i tiri d'attacco effettuati contro di te fino alla fine del tuo prossimo turno.
+**_Previsione Accurata:_** Puoi spendere **1 Dado del Destino** durante un riposo per analizzare il futuro: tu o un tuo compagno a scelta otterrete **Vantaggio** al primissimo tiro d'azione decisivo della scena successiva.
+**_Futuro Malleabile:_** Quando sei bersaglio di un attacco, puoi spendere **1 Dado del Destino** per imporre **Svantaggio** al tiro d'attacco del nemico.
 
 ---
 
 ### Maestria
-**_Onniscienza Futura:_** I tuoi Dadi del Destino diventano d12. Una volta per riposo, quando spendi un Dado del Destino e non sei soddisfatto del risultato, puoi scegliere di rilanciarlo e tenere il valore più alto. Se il tiro fallisce, recuperi immediatamente il Dado speso.
+**_Onniscienza Futura:_** I tuoi Dadi del Destino diventano **d12**. Inoltre, quando spendi un Dado del Destino e il risultato è pari o inferiore a 3, non lo consumi e lo riponi immediatamente nella tua riserva.
 
 ---
 

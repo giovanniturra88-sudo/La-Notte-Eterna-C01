@@ -1,17 +1,18 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Sorcerer]]"
+  - "[[Sorcerer]]"
 Dominio:
- - "[[Arcano]]"
- - "[[Mezzanotte]]"
-spellcast_trait: Conoscenza (Knowledge)
+  - "[[Arcano]]"
+  - "[[Mezzanotte]]"
+spellcast_trait:
+  - Presenza (Presence)
+  - Istinto (Instinct)
 source: La Notte Eterna
 location:
- - "[[Cenere di Lanie]]"
- - "[[Cratere di Lava]]"
+  - "[[Cenere di Lanie]]"
+  - "[[Cratere di Lava]]"
 ---
-
 # I Cacciatori di Meteore
 
 I Cacciatori di Meteore sono studiosi, esploratori e astronomi ossessionati dallo scandagliare la fredda volta celeste de La Notte Eterna alla ricerca di presagi, reliquie divine e frammenti di divinità cadute (meteore) precipitati su Neir. Imparano a risuonare con le energie volatili e cosmiche imprigionate nel metallo stellare, canalizzando l'energia delle stelle cadute per potenziare i propri incantesimi innati.
@@ -19,21 +20,24 @@ I Cacciatori di Meteore sono studiosi, esploratori e astronomi ossessionati dall
 ## Caratteristiche di Fondazione
 
 ### Sintonia Celeste
-Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando lanci una capacità magica dello Stregone che infligge danni magici, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso o Forza**. Quando lo fai, aggiungi al danno un dado extra pari al valore del tuo dado di **Proficienza**.
+Porti con te un monile o un frammento di roccia meteoritica che brilla di una debole luce violacea. Una volta per scena, quando effettui un tiro d'attacco o lanci un incantesimo da un Dominio che infligge danni, puoi spendere **1 Speranza** per convertire il tipo di danno in **Radioso** o **Forza**. Quando lo fai, aggiungi **1d6** danni extra al totale dell'attacco.
 
 ## Caratteristiche di Specializzazione
 
 ### Esperto Astronomo
-Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni vantaggio permanente a tutte le prove di *Istinto* effettuate per orientarti di notte sotto la luce della Luna e alle prove di *Conoscenza* volte a identificare le proprietà magiche o geologiche di frammenti di meteore, ars o metalli celesti.
+Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni **Vantaggio** permanente a tutte le prove di *Istinto* effettuate per orientarti durante la notte o sottoterra, e alle prove di *Conoscenza* volte a identificare la natura, il valore o i pericoli di materiali cosmici, ars e metalli celesti.
 
 ### Bagliore della Caduta
-Quando utilizzi la caratteristica di classe dello Stregone *Incanalare Potere Grezzo (Channel Raw Power)*, puoi scegliere di marcare **1 Stress** per scatenare una pioggia di scintille purpuree dal tuo incantesimo. Tutti i nemici entro portata Ravvicinata dal bersaglio primario devono superare un Tiro di Reazione di Agilità contro la tua Difficoltà o subire la condizione **Vulnerabile** fino all'inizio del tuo turno successivo.
+Quando scateni una capacità della tua classe [[Sorcerer]] o una carta Dominio di attacco, puoi marcare **1 Stress** per far esplodere una pioggia di scintille purpuree attorno al bersaglio.
 
+Tutti i nemici entro portata **Molto Vicina (Very Close)** dal bersaglio primario subiscono la condizione **Vulnerabile** fino alla tua prossima azione o finché non rimuovono lo stato.
 ## Caratteristiche di Maestria
 
 ### Araldo di Lanie
-Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere la forma spettrale di un Araldo di Lanie per la durata di una scena. Durante questo stato, ottieni una velocità di volo (fluttuare) pari a 12 metri, emani luce argentata intensa in un raggio di 6 metri (e luce fioca per altri 6 metri) e ottieni resistenza ai danni **Radiosi e Necrotici**.
-
+Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere la forma spettrale di un Araldo di [[Lanie]] per la durata di una scena:
+- Ottieni la capacità di **Volare** liberamente durante ogni tuo movimento.
+- Emani luce argentata che illumina chiaramente fino a portata **Vicina (Close)** e soffusa fino a portata **Lontana (Far)**.  
+- Ottieni **Resistenza** ai danni **Radiosi** e **Necrotici**.
 ---
 
 ## Domande di Sfondo

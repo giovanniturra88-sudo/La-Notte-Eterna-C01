@@ -18,7 +18,3 @@ source: La Notte Eterna
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Essendo abituati a cieli lontani, i Wiloi percepiscono la Notte Eterna non come un limite, ma come un'assenza che cercano di colmare con la loro curiosità. Non subiscono penalità in condizioni di scarsa illuminazione.
 - **Relazione con le Fazioni**: Sono visti come "stranieri" dalla maggior parte delle fazioni di Neir. Tuttavia, le gilde di cartografi e i mercanti di rotte sicure pagano profumatamente per i loro servigi, poiché sono gli unici in grado di "leggere" le vibrazioni del territorio.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Katari** (adattato per la mobilità e la percezione).
-- *Modifiche apportate*: Abbiamo adattato le abilità di movimento tipiche della razza base per riflettere il loro essere esuli ("Passo rapido") e la loro natura di "cercatori di vie" ("Memoria dimensionale"), legando l'uso delle loro abilità più potenti all'accumulo di Paura.

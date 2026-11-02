@@ -1,40 +1,49 @@
 ---
 type:
- - Sottoclasse
+  - Sottoclasse
 classe:
- - "[[Wizard]]"
-spellcast_trait: Conoscenza
+  - "[[Wizard]]"
+spellcast_trait:
+  - Conoscenza (Knowledge)
 Dominio:
- - "[[Codice]]"
- - "[[Lama]]"
- - "[[Ossa]]"
- - "[[Splendore]]"
+  - "[[Codice]]"
+  - "[[Lama]]"
+  - "[[Ossa]]"
+  - "[[Splendore]]"
 source: La Notte Eterna
 location:
- - "[[Mubunash]]"
- - "[[Ducato di Öuin]]"
- - "[[Vetta delle Anime]]"
+  - "[[Mubunash]]"
+  - "[[Ducato di Öuin]]"
+  - "[[Vetta delle Anime]]"
 ---
 
 # Sottoclasse: Cavaliere di Kurash
 
-Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'energia arcana e di manipolare lo scorrere del tempo.
+Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'energia arcana e di manipolare il tempo e la trama della realtà.
 
 ---
 
 ### Fondazione
-**_Arcano della Lama:_** Puoi compiere un rito per materializzare una spada magica a una mano. Quando attacchi con quest'arma, usi la tua caratteristica di capacità magica invece di Forza, infliggendo 1d10 danni magici. Puoi farla scomparire e ricomparire senza spendere un'azione.
+**_Arcano della Lama:_** Puoi compiere un breve rito concentrato per manifestare una spada di pura energia arcana nella tua mano.
+* Quando effettui un Tiro d'Attacco con quest'arma, usi il tuo tratto di lancio degli incantesimi (**Conoscenza**) invece della Forza.
+* L'arma infligge **1d10 danni magici**.
+* Puoi farla scomparire o richiamarla istantaneamente a te in qualsiasi momento del tuo movimento.
 
 ---
 
 ### Specializzazione
-**_Arcano della Preveggenza:_** Se non indossi armature, la tua Evasione aumenta di +2. Inoltre, ottieni vantaggio ai tiri di Iniziativa (il GM decide chi agisce per primo; se usi questo vantaggio, puoi chiedere di agire prima nella scena).
-**_Arcano del Tempo:_** Una volta per riposo lungo, quando tu o un alleato entro portata Ravvicinata subite danni o fallite una prova, puoi marcare 1 Stress per annullare completamente l'effetto dell'azione nemica avvenuta nel turno precedente.
+**_Arcano della Preveggenza:_** La tua visione anticipata degli eventi ti rende schivo e infallibile nelle prime fasi dello scontro.
+* Finché non indossi un'armatura pesante, la tua **Evasione (Evasion)** aumenta permanentemente di **+2**.
+* Quando la scena di combattimento ha inizio, puoi spendere **1 Speranza** per agire prima di chiunque altro, imponendo la tua iniziativa nel flusso narrativo.
+**_Arcano del Tempo:_** Imparando a riavvolgere brevi istanti di tempo:
+* Una volta per riposo lungo, quando tu o un alleato entro portata **Vicina (Close)** subite un attacco devastatione o fallite un tiro decisivo, puoi marcare **1 Stress** per annullare l'esito negativo appena avvenuto, costringendo il tiro a essere effettuato nuovamente o annullando l'azione del nemico.
 
 ---
 
 ### Maestria
-**_Maestro del Fuoco Segreto:_** La tua lama di forza ignora qualsiasi resistenza o immunità al danno dei nemici. I tuoi attacchi riusciti con l'Arcano della Lama infliggono +1d10 danni magici extra.
+**_Maestro del Fuoco Segreto:_** La tua lama arcana trascende le barriere della materia.
+* I tuoi attacchi portati con l'**Arcano della Lama** ignorano qualsiasi **Resistenza** ai danni magici dei nemici.
+* I tuoi attacchi riusciti con l'Arcano della Lama infliggono **+1d8 danni magici extra**.
 
 ---
 

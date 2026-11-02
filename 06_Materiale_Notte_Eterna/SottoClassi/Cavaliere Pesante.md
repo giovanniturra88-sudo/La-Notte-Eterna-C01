@@ -1,36 +1,40 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Guardian]]"
- - "[[Warrior]]"
-spellcast_trait: Forza
+  - "[[Guardian]]"
+  - "[[Warrior]]"
+spellcast_trait:
+  - Forza
 Dominio:
- - "[[Lama]]"
- - "[[Ossa]]"
- - "[[Valore]]"
+  - "[[Lama]]"
+  - "[[Ossa]]"
+  - "[[Valore]]"
 source: La Notte Eterna
 location:
- - "[[Ducato di Öuin]]"
+  - "[[Ducato di Öuin]]"
 ---
 # Sottoclasse: Cavaliere Pesante
 
-Resistenti combattenti specializzati nella pura forza fisica, nell'uso di pesanti armature e nel blocco dei nemici.
+Resistenti combattenti e baluardi inamovibili specializzati nella pura forza fisica, nell'uso di pesanti armature e nel blocco implacabile delle cariche nemiche.
 
 ---
 
 ### Fondazione
-**_Armatura del Veterano:_** Ignori qualsiasi penalità all'Evasione derivante dall'indossare armature pesanti. Inoltre, la tua soglia di danno Minore aumenta di +1.
-
+**_Armatura del Veterano:_** La tua familiarità con le corazze pesanti le rende un'estensione del tuo corpo.
+* Ignori qualsiasi penalità al tuo punteggio di **Evasione (Evasion)** derivante dall'indossare armature pesanti.
+* Incrementi permanentemente la tua **Soglia di Danno Minore (Minor Damage Threshold)** di **+2**.
 ---
-
 ### Specializzazione
-**_Resilienza del Veterano:_** Come azione, spendi 1 Speranza per focalizzarti su un avversario. Ottieni resistenza ai danni fisici (contundenti, perforanti, taglienti) inflitti da quell'avversario fino alla fine della scena.
-**_Nella Polvere:_** Quando colpisci un bersaglio con un attacco di opportunità, il bersaglio è immediatamente buttato prono.
+**_Resilienza del Veterano:_** Puoi spendere **1 Speranza** per focalizzare l'attenzione e la guardia su un singolo avversario in vista. Ottieni **Resistenza** a tutti i danni fisici (contundenti, perforanti, taglienti) inflitti da quel bersaglio specifico fino al termine della scena.
+**_Nella Polvere:_** Quando riesci a bloccare o a colpire un bersaglio a portata **Mischia (Melee)** con un tiro d'attacco in risposta a un suo movimento o azione, il nemico viene immediatamente **Abbattuto / Bruno (Prone)**, fermando la sua avanzata.
 
 ---
 
 ### Maestria
-**_Inamovibile:_** Sei completamente immune ad essere spostato contro la tua volontà o buttato prono. Sei inoltre immune alla condizione Afferrato (Grabbed) e non puoi subire Stress per respingere attacchi fisici.
+**_Inamovibile:_** Sei un baluardo inscalfibile sul campo di battaglia:
+* Sei totalmente immune a qualsiasi effetto o attacco che provi a muoverti o spingerti contro la tua volontà, o ad abbatterti prono.
+* Sei immune alla condizione **Trattenuto / Afferrato (Restrained/Grabbed)**.
+* Non puoi essere costretto a marcare **Stress** per bloccare fisicamente attacchi da parte di avversari di taglia normale.
 
 ---
 

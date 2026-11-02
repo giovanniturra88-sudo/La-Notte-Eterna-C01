@@ -6,10 +6,12 @@ source: DaggerHeart Hope and Fear
 
 # Warborne
 
-Far parte di una comunità warborne significa essere abituati a una vita plasmata dal conflitto, dalla conquista o dalla costante minaccia della violenza. La tua gente è sopravvissuta grazie alla potenza marziale, al pensiero strategico e a una disciplina incrollabile. Le comunità warborne si trovano spesso in insediamenti di frontiera, roccaforti militari o regioni teatro di perpetue dispute territoriali. I membri di una comunità warborne si comportano con la sicurezza di chi ha affrontato il pericolo ed è rimasto vivo per raccontarlo, con le proprie giornate scandite dalle necessità della difesa e dalla prontezza alla battaglia.
+Far parte di una comunità warborne significa provenire da un luogo che è, o è stato, devastato dalla guerra. Questi gruppi potrebbero essere composti da civili che vivono in una zona di guerra attiva, da soldati che hanno servito insieme nelle forze armate, o da cittadini di nazioni in conflitto da decenni. Che siano civili o militari, i warborne sono tipicamente abili nell'auto-difesa, anche se le loro tattiche si concentrano sull'evitamento piuttosto che sull'azione offensiva.
 
-_I Warborne sono spesso audaci, aggressivi, disciplinati, leali, pragmatici e orgogliosi._
+I warborne che difendono la loro patria sono noti per usare il loro ambiente a loro vantaggio, mentre i warborne invasori potrebbero fare affidamento interamente sulla loro potenza militare. Indipendentemente dalla loro origine, la vita di un warborne è definita almeno in parte dalla resourcefulness. Coloro che vivono in un territorio occupato potrebbero dover intraprendere massicci sforzi di ricostruzione per riparare e preservare case, fattorie, luoghi di lavoro o monumenti culturali—i resti di un edificio spesso diventano i materiali per ripararne un altro. Nel frattempo, i warborne che fanno parte di un esercito invasore tipicamente possiedono pochi beni personali e devono fare affidamento sul saccheggio delle zone di guerra che occupano. Che si trovino dalla parte vincente o perdente di un conflitto, quelli delle comunità warborne sono probabilmente destinati a portare traumi per il resto delle loro vite, con il loro senso di sicurezza e mortalità per sempre offuscati dalle massicce perdite e dalla distruzione della guerra.
+
+_I Warborne sono spesso strategici, devastati, determinati, calcolatori, incrollabili e devoti._
 
 ### TRATTO DI COMUNITÀ
 
-**_Esperienza di Guerra:_** Hai vantaggio sui tiri per intimidire i nemici, guidare gruppi in situazioni di combattimento, valutare le condizioni del campo di battaglia e riconoscere formazioni militari o schieramenti tattici.
+**_Volto Coraggioso:_** Una volta per sessione, quando saresti costretto a marcare uno Stress, puoi spendere una Speranza al posto di esso.
