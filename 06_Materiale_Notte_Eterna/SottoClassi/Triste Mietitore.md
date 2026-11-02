@@ -19,18 +19,19 @@ Paladini risorti per volere di [[Krea]], che non seguono la via del bene o del m
 ---
 
 ### Fondazione
-**_Punizione dell'Oltretomba:_** I tuoi attacchi con arma possono convertire il loro tipo di danno in **Necrotico**. Ogni volta che sconfiggi un nemico rilevante infliggendo danni Necrotici, puoi cancellare immediatamente **1 punto Stress** marcato sulla tua scheda.
+**_Punizione dell'Oltretomba:_** I tuoi attacchi con arma possono convertire il loro tipo di danno in **Necrotico**. Ogni volta che sconfiggi un nemico rilevante infliggendo danni Necrotici, puoi cancellare immediatamente **1 punto Stress** marcato sulla tua scheda o guadagni **1 speranza**.
 
 ---
 
 ### Specializzazione
 **_Aura dell'Oltretomba:_** Emani un'aura spettrale entro portata **Molto Vicina (Very Close)**. Tutte le creature invisibili o incorporee che entrano nell'area perdono l'incorporeità e diventano visibili a tutti finché vi rimangono.
-**_Cupo Raccolto:_** Quando metti a segno un attacco con successo che infligge danni Necrotici e causa il superamento di una Soglia di Danno Maggiore o Severa, puoi cancellare **1 Punto Ferita** marcato dalla tua scheda.
+**_Cupo Raccolto:_** Quando metti a segno un attacco con successo che infligge danni Necrotici e causa il superamento di una Soglia di Danno Maggiore o Severa, puoi cancellare **1 Punto Ferita** marcato dalla tua scheda marcando **1 stress**.
 
 ---
 
 ### Maestria
-**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo **3 Speranze**, ti trasformi in un campione scheletrico alato di [[Krea]] per la durata della scena. Durante la trasformazione ottieni la capacità di **Volare**, immunità totale ai danni **Necrotici**, e ogni tuo attacco ripristina **1 punto Stress** a te o a un alleato vicino.
+**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo **3 Speranze**, ti trasformi in un campione scheletrico alato di [[Krea]] per la durata della scena. Durante la trasformazione ottieni la capacità di **Volare**, immunità totale ai danni **Necrotici**, e scegli due fra +4 Soglia Grave, +2 Evasione, +1 Proficiency. 
+Ogni attacco riuscito cancella 1 Stress, **massimo 3 volte per scena**
 
 ---
 

@@ -26,7 +26,7 @@ Appartenenti alla prestigiosa e paradossale **Corporazione degli Archivisti** co
 
 La tua mente è una biblioteca vivente. Ottieni **Vantaggio** a tutte le prove di Storia, Investigare o Decifrare effettuate per interpretare testi antichi, tradurre pergamene di Vera Magia o scoprire i punti deboli di mostri e fazioni storiche di Neir.
 
-Inoltre, grazie alla tua profonda disciplina mentale, puoi **preparare 1 carta Dominio aggiuntiva nel tuo Loadout** rispetto al limite standard consentito dal tuo livello.
+Inoltre, grazie alla tua profonda disciplina mentale, puoi **scegliere 1 carta Dominio aggiuntiva** rispetto al limite standard.
 ## Caratteristiche di Specializzazione
 ### Parola del Dotto
 
@@ -38,7 +38,7 @@ Una volta per sessione, durante un riposo breve o una fase di pianificazione, pu
 ### Contemplazione della Polvere
 
 Hai compreso l'inevitabile scorrere del tempo e gli errori del passato, imparando a volgere a tuo favore anche le situazioni peggiori.
-Quando effettui un tiro d'azione o di reazione e ottieni un **Tiro con Timore** (il Dado del Timore è superiore al Dado della Speranza), puoi spendere **2 Speranze** per convertire il risultato in un **Successo con Speranza**, descrivendo come un lampo di genio o un ricordo storico ti mostri la via d'uscita perfetta.
+Una volta per scena, quando effettui un tiro d'azione o di reazione e ottieni un **Tiro con Paura (il Dado della Paura è superiore al Dado della Speranza), puoi spendere **2 Speranze** per convertire il risultato in un **Successo con Speranza**, descrivendo come un lampo di genio o un ricordo storico ti mostri la via d'uscita perfetta, ma il Master ottiene comunque 1 Paura.
 
 ## Domande di Sfondo
 

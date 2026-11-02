@@ -16,7 +16,6 @@ location:
   - "[[Landa di Edeber]]"
   - "[[Azkabel]]"
 ---
-
 # Sottoclasse: Lama di Dor
 
 Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri nella scherma duale e nell'uso rapido dell'arco.
@@ -29,13 +28,12 @@ Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri
 ---
 
 ### Specializzazione
-**_Veloce come il Vento:_** Puoi coprire una categoria di distanza extra con i tuoi movimenti senza rischi o costi aggiuntivi.
-**_Cappa d'Ombra:_** Ottieni **Vantaggio** a tutti i tiri di _Agilità_ o _Furtività_ effettuati per nasconderti nelle ombre o mimetizzarti nel terreno naturalistico.
+**_Danza Gemella:_** dopo un colpo riuscito con due armi, puoi spendere **1 Speranza** per aggiungere un dado di danno dell’arma secondaria.
 
 ---
 
 ### Maestria
-**_Campione degli Elfi:_** Quando ti disimpegni o ti sposti rapido in combattimento, puoi effettuare un attacco con arma gratuito durante il movimento. I tuoi colpi riusciti infliggono **+1d6 danni extra**.
+**_Campione degli Elfi:_** una volta per scena, quando ti disimpegni, marcando **1 stress** puoi effettuare un attacco con arma gratuito durante il movimento e i tuoi colpi riusciti infliggono **+1d6 danni extra**.
 
 ---
 

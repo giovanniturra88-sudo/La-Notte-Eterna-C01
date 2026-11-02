@@ -17,18 +17,19 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Fondazione
-**_Recuperare Energie Migliorato:_** Quando utilizzi le tue abilità di classe per recuperare Punti Ferita o punti Stress dopo un combattimento o durante un riposo breve, puoi curare **1 punto Stress o HP aggiuntivo**.
+**Addestramento Marziale:** +1 slot Stress.
+**_Recuperare Energie Migliorato:_** Quando utilizzi una mossa di riposo per recuperare Punti Ferita o punti Stress, puoi curare **1 punto Stress o HP aggiuntivo** per te o un tuo alleato.
 
 ---
 
 ### Specializzazione
-**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo, scegli un'**Esperienza** o un ambito tattico in cui non sei addestrato: fino al riposo lungo successivo, puoi applicare un bonus di **+1** a tutte le prove legate a quell'ambito.
-**_Scatto Impetuoso:_** Quando spendi Speranza per attivare una capacità di attacco o difesa marziale, puoi anche riposizionarti immediatamente coprendo una distanza fino a portata **Vicina (Close)** senza subire contrattacchi.
+**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo, scegli un'**Esperienza** o un ambito tattico in cui non sei addestrato: fino al riposo lungo successivo, puoi applicare un bonus di **+2** a tutte le prove legate a quell'ambito.
+**_Scatto Impetuoso:_** Quando spendi Speranza per attivare una capacità di attacco o difesa marziale, puoi anche riposizionarti immediatamente coprendo una distanza fino a portata **Vicina (Close)** senza spendere altro e senza provocare Attacco d’Opportunità.
 
 ---
 
 ### Maestria
-**_Eroe di Ventura:_** Sei quasi inamovibile sul campo di battaglia. Quando effettui un Tiro di Reazione difensivo per resistere a un effetto fisico, tiri con **Vantaggio**. Inoltre, una volta per scena, puoi spendere **1 Speranza** per costringere un nemico che ti ha appena colpito a ripetere il suo tiro d'attacco.
+**_Eroe di Ventura:_** Sei quasi inamovibile sul campo di battaglia. Quando effettui un Tiro di Reazione difensivo per resistere a un effetto fisico, tiri con **Vantaggio**. Inoltre, una volta per scena, puoi spendere **1 Speranza** per costringere un nemico che ti ha appena colpito a ripetere il suo tiro d'attacco. Dopo un reroll, il tuo prossimo attacco contro quell’avversario ottiene **+1 Proficiency**.
 
 ---
 

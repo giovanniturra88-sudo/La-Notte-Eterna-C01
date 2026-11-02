@@ -22,20 +22,18 @@ Resistenti combattenti e baluardi inamovibili specializzati nella pura forza fis
 ### Fondazione
 **_Armatura del Veterano:_** La tua familiarità con le corazze pesanti le rende un'estensione del tuo corpo.
 * Ignori qualsiasi penalità al tuo punteggio di **Evasione (Evasion)** derivante dall'indossare armature pesanti.
-* Incrementi permanentemente la tua **Soglia di Danno Minore (Minor Damage Threshold)** di **+2**.
+* Incrementi permanentemente la tua **Soglia di Danno Maggiore (Major Damage Threshold)** di **+2**.
 ---
 ### Specializzazione
-**_Resilienza del Veterano:_** Puoi spendere **1 Speranza** per focalizzare l'attenzione e la guardia su un singolo avversario in vista. Ottieni **Resistenza** a tutti i danni fisici (contundenti, perforanti, taglienti) inflitti da quel bersaglio specifico fino al termine della scena.
-**_Nella Polvere:_** Quando riesci a bloccare o a colpire un bersaglio a portata **Mischia (Melee)** con un tiro d'attacco in risposta a un suo movimento o azione, il nemico viene immediatamente **Abbattuto / Bruno (Prone)**, fermando la sua avanzata.
+**_Resilienza del Veterano:_** Puoi spendere **1 Speranza** per focalizzare l'attenzione e la guardia su un singolo avversario in vista. Fino a fine scena, quando ti infligge danno fisico, puoi marcare 1 Stress per ridurne la gravità di una soglia.
+**_Nella Polvere:_** Quando riesci a bloccare o a colpire un bersaglio a portata **Mischia (Melee)** con un tiro d'attacco in risposta a un suo movimento o azione, il nemico diviene temporaneamente **vulnerabile**.
 
 ---
 
 ### Maestria
 **_Inamovibile:_** Sei un baluardo inscalfibile sul campo di battaglia:
-* Sei totalmente immune a qualsiasi effetto o attacco che provi a muoverti o spingerti contro la tua volontà, o ad abbatterti prono.
-* Sei immune alla condizione **Trattenuto / Afferrato (Restrained/Grabbed)**.
-* Non puoi essere costretto a marcare **Stress** per bloccare fisicamente attacchi da parte di avversari di taglia normale.
-
+* **+2 a entrambe le soglie** di danno.
+* Immunità a spostamenti forzati e alla condizione **Trattenuto**. 
 ---
 
 ## Domande di Sfondo

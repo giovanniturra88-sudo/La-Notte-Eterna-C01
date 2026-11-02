@@ -28,7 +28,7 @@ Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di muoversi i
 ---
 
 ### Specializzazione
-**_Passo Schivo:_** Sei maestro nel disimpegnarti dal pericolo. Quando ti allontani da un nemico a portata **Mischia (Melee)**, i nemici che cercano di intercettarti o reagire al tuo movimento subiscono **Svantaggio** al loro tiro d'attacco.
+**_Passo Schivo:_** Hai +1 ad evasione. Sei maestro nel disimpegnarti dal pericolo. Quando ti allontani da un nemico a portata **Mischia (Melee)**, i nemici che cercano di intercettarti o reagire al tuo movimento subiscono **Svantaggio** al loro tiro d'attacco.
 **_Passo Fuorviante:_** puoi spendere **1 Speranza** e descrivere un finto movimento o un'illusione ottica per confondere un avversario a portata visibile. Quell'avversario subisce **Svantaggio** a tutti i tiri d'attacco diretti contro di te finché non ti infligge danni o finché la scena non termina.
 
 ---

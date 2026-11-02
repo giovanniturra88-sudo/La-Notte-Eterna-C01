@@ -18,19 +18,19 @@ Ranger nani specializzati nel depistaggio non letale e nell'uso di illusioni mon
 ### Fondazione
 **_Munizioni di Depistaggio:_** Durante un riposo breve o lungo, puoi preparare 3 frecce speciali. Quando effettui un attacco a distanza, puoi spendere una freccia per applicare uno dei seguenti effetti tattici (senza infliggere danni feritori):
 
-- **Spettrale**: Il bersaglio a portata **Vicina (Close)** deve superare un Tiro di Reazione di Istinto o subire la condizione **Spaventato** finché non spende un'azione per riprendersi.
-- **Luminosa / Stordente**: Il bersaglio a portata **Vicina (Close)** deve superare un Tiro di Reazione di Forza o subire la condizione **Vulnerabile**.
+- **Spettrale**: Il bersaglio a portata **Vicina (Close)** marca 1 Stress e ha svantaggio al prossimo attacco.
+- **Luminosa / Stordente**: Il bersaglio a portata **Vicina (Close)** è temporaneamente **Vulnerabile**.
 
 ---
 
 ### Specializzazione
 **_Guardiano Illusorio:_** Quando sei bersaglio di un attacco in mischia, puoi marcare **1 Stress** per creare un'illusione istantanea di te stesso, imponendo **Svantaggio** al tiro d'attacco del nemico.
-**_Frecce del Sonno:_** Spendi **1 Speranza** e scocca una freccia soporifera: se colpisci il bersaglio, questo deve superare un Tiro di Reazione di Istinto oppure cadere **Addormentato/Incapace** fino alla sua prossima azione o finché non subisce danni.
+**_Frecce del Sonno:_** Spendi **1 Speranza** (su colpo riuscito) e scocca una freccia soporifera: se colpisci il bersaglio, il bersaglio è temporaneamente Trattenuto e ha svantaggio all’attacco successivo. Non funziona su avversari Solo e Leader.
 
 ---
 
 ### Maestria
-**_Via da Qui:_** Una volta per riposo lungo, spendendo **2 Speranze**, puoi forzare un avversario visibile a effettuare un Tiro di Reazione di Presenza. In caso di fallimento, viene scacciato e teletrasportato a portata **Molto Lontana (Very Far)** o fuori dalla zona di combattimento.
+**_Via da Qui:_** Una volta per riposo lungo, spendendo **2 Speranze**, puoi forzare un avversario entro **Lontano**. Se non è Solo/Leader esce dalla scena (il Master può farlo rientrare spendendo **1 Paura**). Se è Solo/Leader è spinto a **Molto Lontano** e ha svantaggio al prossimo attacco.
 
 ---
 
