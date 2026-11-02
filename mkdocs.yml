@@ -14,10 +14,6 @@ theme:
     - search.suggest
     - search.highlight
 
-plugins:
-  - search
-  - obsidian-support
-
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -25,3 +21,4 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.details
   - pymdownx.tabbed
+  - wikilinks  # Supporto nativo Python-Markdown per [[WikiLinks]]
