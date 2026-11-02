@@ -19,7 +19,7 @@ Druidi del Circolo dei Segreti, protettori della fonte primigenia del Fuoco Segr
 ---
 
 ### Fondazione
-**_Segreto del Fuoco:_** Quando utilizzi la tua capacità di _Forma Selvatica (Beastform)_ o trasformazione naturale, puoi scegliere di recuperare immediatamente **2 punti Stress** o **1 Speranza**.
+**_Segreto del Fuoco:_** Una volta per scena, quando utilizzi la tua capacità di _Forma Selvatica (Beastform)_ o trasformazione naturale, puoi scegliere di recuperare immediatamente **2 punti Stress** o **1 Speranza**.
 
 ---
 
@@ -27,7 +27,6 @@ Druidi del Circolo dei Segreti, protettori della fonte primigenia del Fuoco Segr
 **_Invocare il Fuoco:_** Quando lanci una capacità magica di danno o cura, puoi spendere **1 Speranza** per potenziarla con l'energia del Fuoco Segreto. Puoi scegliere uno dei seguenti effetti:
 - Infliggi **+1d8 danni magici da Fuoco** extra.
 - Permetti al bersaglio di cancellare **1 Punto Ferita** o **1d4 Stress** marcati in più.
-- Il bersaglio subisce **Svantaggio** al suo eventuale Tiro di Reazione contro l'effetto.
 
 ---
 

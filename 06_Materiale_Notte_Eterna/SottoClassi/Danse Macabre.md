@@ -19,9 +19,7 @@ La musica proibita non è scritta su nessun spartito accademico, ma viene sussur
 ---
 
 ### Fondazione
-**_Melodia dell'Oltretomba:_** Ottieni **Vantaggio** a tutte le prove di _Presenza_ o _Spettacolo_ effettuate per interagire con spiriti, defunti o non morti. Inoltre, quando lanci un incantesimo del dominio del **Terrore**, puoi spendere **1 Speranza** per costringere un nemico entro portata **Vicina (Close)** a subire la condizione **Spaventato** finché non marca 1 Stress.
-
-**_Canto della Carne Morta:_** Quando una creatura muore entro portata **Lontana (Far)** da te, puoi marcare **1 Stress** per rianimarla all'istante come **Zombie Marionetta** per la durata della scena. Lo Zombie si muove ed esegue un attacco quando agisci tu, oppure può intercettare un colpo diretto a te o a un alleato vicino.
+**_Melodia dell'Oltretomba:_** Ottieni **Vantaggio** a tutte le prove di _Presenza_ o _Spettacolo_ effettuate per interagire con spiriti, defunti o non morti. Inoltre, quando lanci un incantesimo del dominio del **Terrore**, puoi spendere **1 Speranza** per costringere un nemico entro portata **Vicina (Close)** a subire 1 Stress e avendo svantaggio al prossimo attacco.
 
 ---
 
@@ -30,10 +28,12 @@ La musica proibita non è scritta su nessun spartito accademico, ma viene sussur
 
 **_Sinfonia della Dama Nera:_** Una volta per scena, puoi spendere **2 Speranze** per intonare un accordo spettrale. Tutti i servitori non morti sotto il tuo controllo entro portata **Lontana (Far)** ottengono **+2 all'Armatura** e infliggono **+1d6 danni Necrotici extra** ai loro attacchi finché dura la scena.
 
+**_Canto della Carne Morta:_** Quando una creatura muore entro portata **Lontana (Far)** da te, puoi marcare **1 Stress** per rianimarla all'istante come **Zombie Marionetta** (minion) per la durata della scena. Ne hai al massimo una. Non agisce da sola: quando attacchi aggiunge il suo danno fisso, oppure intercetta un attacco e si distrugge riducendo di 1 i PF marcati.
+
 ---
 
 ### Maestria
-**_Alzati e Cammina:_** Quando metti a segno un **Successo Critico** con un attacco o un incantesimo, puoi spendere **3 Speranze** per consumare la forza vitale del bersaglio: un nemico sconfitto si rianima immediatamente come **Scheletro d'Élite** al tuo servizio (fino a un massimo di 2 attivi). Quando subisci danni, puoi distruggere uno dei tuoi scheletri per ridurre di 1 i Punti Ferita marcati.
+**_Alzati e Cammina:_** Quando metti a segno un **Successo Critico** con un attacco o un incantesimo, puoi spendere **3 Speranze** per consumare la forza vitale del bersaglio: un nemico sconfitto si rianima immediatamente come **Scheletro d'Élite** al tuo servizio (minion livello pari al tuo) (fino a un massimo di 2 attivi). Quando subisci danni, puoi distruggere uno dei tuoi scheletri per ridurre di 1 i Punti Ferita marcati.
 
 ---
 

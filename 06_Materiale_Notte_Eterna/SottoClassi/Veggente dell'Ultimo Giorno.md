@@ -23,7 +23,7 @@ Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marzia
 ---
 
 ### Specializzazione
-**_Previsione Accurata:_** Puoi spendere **1 Dado del Destino** durante un riposo per analizzare il futuro: tu o un tuo compagno a scelta otterrete **Vantaggio** al primissimo tiro d'azione decisivo della scena successiva.
+**_Previsione Accurata:_** Puoi spendere **1 Dado del Destino** durante un riposo per analizzare il futuro: tu o un tuo compagno a scelta otterrete **Vantaggio** al primo tiro d'azione della scena successiva.
 **_Futuro Malleabile:_** Quando sei bersaglio di un attacco, puoi spendere **1 Dado del Destino** per imporre **Svantaggio** al tiro d'attacco del nemico.
 
 ---

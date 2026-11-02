@@ -20,20 +20,20 @@ I membri della prestigiosa Gilda del Gonfalone Azzurro di Mendulia's Rock sono m
 ## Caratteristiche di Fondazione
 
 ### Legge della Marea
-Possiedi una profonda sintonia con le correnti cosmiche. All'inizio di ogni scontro ottieni una riserva speciale di **Gettoni Marea** pari al tuo Livello. Ogni volta che tu o un alleato a portata **Vicina (Close)** risolvete un tiro con **Timore (Fear)**, aggiungi **1 Gettone Marea** alla tua riserva. Puoi spendere questi gettoni prima di effettuare un tiro d'attacco o di danno per aggiungere **+1 al risultato** per ogni gettone consumato.
+Possiedi una profonda sintonia con le correnti cosmiche. All'inizio di ogni scontro ottieni una riserva speciale di **Gettoni Marea** pari al tuo Livello. Ogni volta che tu o un alleato a portata **Vicina (Close)** risolvete un tiro con **Timore (Fear)**, aggiungi **1 Gettone Marea** alla tua riserva. Puoi spendere questi gettoni prima di effettuare un tiro d'attacco o di danno (fino al massimo della tua **proficiency**) per aggiungere **+1 al risultato** per ogni gettone consumato.
 
 ## Caratteristiche di Specializzazione
 
 ### Andatura Marittima
-Ignori qualsiasi terreno difficile o periglioso legato ad acqua, fango, fognature o superfici scivolose e inclinate. Inoltre, la tua velocità di movimento in acqua è pari alla tua normale velocità di movimento a terra.
+Ignori terreno difficile o periglioso legato ad acqua, fango, fognature o superfici scivolose e inclinate. Inoltre, la tua capacità di movimento in acqua non può subire penalità.
 
 ### Cassa Marittima
-Quando sconfiggi un nemico rilevante o di taglia imponente, puoi spendere **1 Speranza** per "riscuotere la cassa": tu e un alleato a tua scelta potete cancellare immediatamente **1 punto Stress** o **1 Punto Ferita** marcato.
+Una volta per scena, quando sconfiggi un nemico rilevante o di taglia imponente, puoi spendere **1 Speranza** per "riscuotere la cassa": tu e un alleato a tua scelta potete cancellare immediatamente **1 punto Stress** o **1 Punto Ferita** marcato.
 
 ## Caratteristiche di Maestria
 
 ### Capitano del Gonfalone Azzurro
-Quando un alleato entro portata **Vicina (Close)** sta per marcare Punti Ferita in seguito a un attacco fisico o magico, puoi spendere **2 Gettoni Marea** o **1 Speranza** per intercettare il colpo. Ti frapponi al suo posto e dimezzi i danni finali prima di applicarvi il tuo Punteggio di Armatura.
+Quando un alleato entro portata **Vicina (Close)** sta per marcare Punti Ferita in seguito a un attacco fisico o magico, puoi spendere **2 Gettoni Marea** o **1 Speranza** più **1 Stress** per intercettare il colpo. Ti frapponi al suo posto e dimezzi i danni finali (la prima volta per scena, mentre rimane non modificato successivamente) prima di applicarvi il tuo Punteggio di Armatura.
 
 ---
 

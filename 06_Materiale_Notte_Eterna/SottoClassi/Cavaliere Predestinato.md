@@ -33,7 +33,7 @@ Paladini consacrati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati
 Durante la trasformazione:
 * Ottieni la capacità di **Volare** liberamente durante il tuo movimento.
 * Emani una luce sacra accecante: i non morti e le creature dell'oscurità a portata **Vicina (Close)** subiscono **Svantaggio** a tutti i tiri effettuati contro di te o i tuoi compagni.
-* Tutti i tuoi attacchi d'arma infliggono un dado di danno extra di elemento **Radioso**.
+* Il Marchio passa da +1d6 a +1d10 e puoi marcare un secondo bersaglio.
 ---
 ## Domande di Sfondo
 

@@ -17,18 +17,18 @@ Guerriero nativo delle gelide tundre delle Valli dei Giganti, temprato dal gelo 
 ---
 
 ### Fondazione
-**_Il Gelo è Casa:_** Ottieni **Resistenza** permanente ai danni da Freddo. Hai **Vantaggio** a tutte le prove fisiche o ambientali effettuate per resistere agli effetti del ghiaccio, delle bufere e delle basse temperature.
+**_Il Gelo è Casa:_** **+2 alla Soglia Grave.** Contro il freddo ambientale e i danni di Freddo dimezzi il danno e non hai penalità. Hai **Vantaggio** a tutte le prove fisiche o ambientali effettuate per resistere agli effetti del ghiaccio, delle bufere e delle basse temperature.
 
 ---
 
 ### Specializzazione
 **_Lama di Ghiaccio:_** Quando colpisci con un attacco d'arma da mischia, puoi marcare **1 Stress** per infondere il colpo di un gelo devastante. L'attacco infligge **+1d6 danni da Freddo extra**.
-**_Valanga:_** Quando attacchi a portata **Mischia (Melee)**, puoi spendere **1 Speranza** per travolgere il nemico: oltre ai danni, spingi il bersaglio indietro a portata **Molto Vicina (Very Close)** e gli infliggi la condizione **Prono (Prone)**.
+**_Valanga:_** Quando riesci in un attacco a portata **Mischia (Melee)**, puoi spendere **1 Speranza** per travolgere il nemico: oltre ai danni, spingi il bersaglio indietro a portata **Molto Vicina (Very Close)** o lo rendi **Vulnerabile**.
 
 ---
 
 ### Maestria
-**_Vento Glaciale:_** Una volta per scena, puoi spendere **2 Speranze** per esalare un soffio di gelo verso nemici a portata **Vicina (Close)**. Tutti i nemici nell'area subiscono **2d8 danni da Freddo** e la condizione **Vulnerabile**.
+**_Vento Glaciale:_** Una volta per riposo lungo, puoi spendere **2 Speranze** per esalare un soffio di gelo verso nemici a portata **Vicina (Close)**. Tutti i nemici nell'area subiscono un numero di **d8 danni da Freddo** pari alla tua proficiency e la condizione **Vulnerabile**.
 
 ---
 

@@ -17,17 +17,18 @@ Mago d'accademia rinomato per l'identificazione, l'uso e l'affinità assoluta co
 ---
 
 ### Fondazione
-**_Studio & Arcanista Meraviglioso:_** Ottieni **Vantaggio** a tutte le prove di _Conoscenza_ effettuate per decifrare, identificare o comprendere le proprietà di artefatti e oggetti magici. Durante un riposo, puoi vincolare un oggetto magico al tuo spirito: finché l'oggetto è vincolato, i tuoi attacchi magici infliggono **+2 danni extra**.
+**_Studio & Arcanista Meraviglioso:_** Ottieni **Vantaggio** a tutte le prove di _Conoscenza_ effettuate per decifrare, identificare o comprendere le proprietà di artefatti e oggetti magici. Durante un riposo, puoi vincolare un oggetto magico al tuo spirito: finché l'oggetto è vincolato, i tuoi attacchi magici infliggono un numero di **danni extra** pari alla tua proficiency (minimo 2).
 
 ---
 
 ### Specializzazione
 **_Incantamento Meraviglioso:_** Durante un riposo breve o lungo, puoi canalizzare l'energia del tuo oggetto vincolato. Fino al riposo successivo, ottieni **Vantaggio** al tuo primo tiro d'attacco magico di ogni scena.
+**_Richiamo Perfetto:_** Una volta per riposo, quando recuperi una carta dal Vault, riduci di 1 il suo costo di Recupero.
 
 ---
 
 ### Maestria
-**_Manipolatore di Meraviglie:_** Una volta per riposo lungo, puoi drenare l'energia dell'oggetto vincolato per recuperare immediatamente **2 punti Stress** o **2 Speranze**. Inoltre, puoi ora tenere vincolati fino a **due oggetti magici contemporaneamente**, sommandone i benefici.
+**_Manipolatore di Meraviglie:_** Una volta per riposo lungo, puoi drenare l'energia dell'oggetto vincolato per recuperare immediatamente **2 punti Stress** o **2 Speranze**. Inoltre, puoi ora tenere vincolati fino a **due oggetti magici contemporaneamente**, ottenendo i benefici di entrambi.
 
 ---
 

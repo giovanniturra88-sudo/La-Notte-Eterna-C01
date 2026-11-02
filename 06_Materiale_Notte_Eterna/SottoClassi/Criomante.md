@@ -18,18 +18,18 @@ Chierici e incantatori araldi del gelo divino di [[Unthamarand]], che traggono v
 ---
 
 ### Fondazione
-**_Gelo Interiore:_** Ottieni **Resistenza** permanente ai danni da Freddo. Una volta per riposo breve o lungo, puoi spendere **1 Speranza** per evocare uno schermo di ghiaccio protettivo: ottieni uno scudo temporaneo che ti permette di cancellare fino a 2 Punti Ferita dal prossimo attacco che subisci.
+**_Gelo Interiore:_** contro danni di Freddo marchi 1 Stress per dimezzarli. Due volte per riposo breve o lungo, puoi spendere **1 Speranza** per evocare uno schermo di ghiaccio protettivo: ottieni uno scudo temporaneo che ti permette di cancellare 1 Punti Ferita (è cumulabile) dal prossimo attacco che subisci.
 
 ---
 
 ### Specializzazione
 **_Canalizzazione del Gelo:_** Una volta per scena, quando metti a segno un incantesimo o un attacco che infligge danni da Freddo, puoi marcare **1 Stress** per massimizzare il risultato di uno dei tuoi dadi di danno.
-**_Aura di Ghiaccio:_** Finché lo schermo di ghiaccio o una protezione magica da freddo è attiva su di te, emani un gelo pungente entro portata **Molto Vicina (Very Close)**. Qualsiasi nemico che si avvicina o inizia la propria azione nell'area subisce **1d6 danni da Freddo**.
+**_Aura di Ghiaccio:_** Mentre lo scudo è attivo, un avversario in Mischia che ti infligge danno subisce **1d6 magico**.
 
 ---
 
 ### Maestria
-**_Signore dell'Inverno:_** Ottieni l'immunità totale ai danni da Freddo. I tuoi incantesimi ignorano la Resistenza al Freddo dei nemici, e i bersagli colpiti dai tuoi attacchi di gelo subiscono la condizione **Vulnerabile** finché non subiscono danni da Fuoco o la scena termina.
+**_Signore dell'Inverno:_** Ottieni l'immunità totale ai danni da Freddo. I bersagli colpiti dai tuoi attacchi di gelo subiscono la condizione **Vulnerabile** se marchi **1 Stress**.
 
 ---
 

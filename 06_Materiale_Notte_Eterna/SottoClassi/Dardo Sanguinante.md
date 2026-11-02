@@ -20,12 +20,12 @@ I Dardi Sanguinanti sono la più potente e temuta gilda malavitosa che estende i
 ## Caratteristiche di Fondazione
 
 ### Tatuaggio di Sangue
-Quando metti a segno un attacco con successo usando il tuo privilegio di classe (come _Sneak Attack_), puoi marcare **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni sua azione, la creatura sanguinante subisce **1d6 danni fisici diretti** finché essa o un alleato non spendono un'azione per medicarla.
+Quando metti a segno un attacco con successo usando il tuo privilegio di classe (come _Sneak Attack_), puoi marcare **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni sua azione, la creatura sanguinante subisce **1 punto ferita** finché essa o un alleato non spendono un'azione per medicarla.
 
 ## Caratteristiche di Specializzazione
 
 ### Covo Sicuro
-Conosci i rifugi segreti della gilda. Quando il gruppo giunge in un centro abitato, puoi spendere **1 Speranza** per condurre tutti in un covo sicuro dove effettuare riposi brevi o lunghi in totale sicurezza.
+Conosci i rifugi segreti della gilda. Una volta per sessione, quando il gruppo giunge in un centro abitato, puoi spendere **1 Speranza** per condurre tutti in un covo sicuro dove effettuare riposi brevi o lunghi in totale sicurezza.
 
 ### Smercio dei Bassifondi
 Ottieni **Vantaggio** a tutti i tiri per interagire o contrattare con ricettatori, criminali e mercanti del mercato nero, ottenendo sempre il miglior prezzo di vendita per la refurtiva.
