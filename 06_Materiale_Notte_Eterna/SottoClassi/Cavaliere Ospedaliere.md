@@ -1,35 +1,40 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Seraph]]"
+  - "[[Seraph]]"
 Dominio:
- - "[[Valore]]"
- - "[[Splendore]]"
-spellcast_trait: Presenza
+  - "[[Valore]]"
+  - "[[Splendore]]"
+spellcast_trait:
+  - Presenza (Presence)
 source: La Notte Eterna
 location:
- - "[[Ducato di Öuin]]"
- - "[[Repubblica di Mendulia’s Rock]]"
+  - "[[Ducato di Öuin]]"
+  - "[[Repubblica di Mendulia’s Rock]]"
 ---
 # Sottoclasse: Cavaliere Ospedaliere
 
-Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti a sacrificarsi e a lenire le ferite dei sofferenti.
+Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti a sacrificarsi e a lenire le ferite dei sofferenti e degli innocenti durante le ore più buie de La Notte Eterna.
 
 ---
 
 ### Fondazione
-**_Dono della Guarigione:_** Spendendo 3 Speranze, puoi toccare una creatura per ripristinare immediatamente Punti Ferita pari al tuo rango + il tuo modificatore di Incantesimo (minimo 1). Non ha effetto su costrutti o non morti.
+**_Dono della Guarigione:_** Hai sviluppato una forte connessione con le energie curative di [[Fadranstaff]].
+* Spendendo **2 Speranze**, puoi toccare un alleato a portata **Mischia (Melee)** per curare immediatamente una quantità di Punti Ferita (HP) o punti Stress pari al tuo modificatore di **Presenza** (minimo 1). Questa capacità non ha effetto su costrutti ([[Clank]]) o non morti.
 
 ---
 
 ### Specializzazione
-**_Aura del Risanamento:_** Una volta per riposo, spendendo 2 Speranze, crei una calda aura entro portata Ravvicinata. Finché resti concentrato in preghiera (senza muoverti o attaccare), ogni alleato che inizia il turno nell'area cura 1 Stress. Tutti gli attacchi contro di te hanno vantaggio.
-**_Risanatore Esperto:_** Aggiungi il tuo modificatore di Incantesimo a tutte le cure effettuate tramite magie o pergamene.
+**_Aura del Risanamento:_** Una volta per riposo lungo, puoi spendere **2 Speranze** per incanalare un'aura di calda energia sacra attorno a te entro portata **Molto Vicina (Very Close)**. Finché mantieni la concentrazione (senza effettuare tiri d'attacco o muoverti):
+* All'inizio del turno di ogni compagno di squadra (o prima che effettui una nuova azione), qualsiasi alleato situato dentro la tua aura guarisce **1 Stress**.
+* I nemici ottengono **Vantaggio** a tutti i tiri d'attacco diretti contro di te mentre sostieni l'aura.
+**_Risanatore Esperto:_** La tua fede canalizza la guarigione in modo più efficiente. Quando utilizzi una carta Dominio o una pergamena per ripristinare i Punti Ferita o lo Stress di un alleato, aggiungi il tuo modificatore di **Presenza** al totale ripristinato.
 
 ---
 
 ### Maestria
-**_Aura del Martirio:_** Quando un alleato entro portata Ravvicinata sta per marcare uno o più Punti Ferita, puoi spendere 1 Stress per deviare l'attacco su di te. Tu subisci i Punti Ferita di danno al suo posto, riducibili tramite il tuo Punteggio di Armatura.
+**_Aura del Martirio:_** Il tuo legame di protezione verso i compagni spinge il tuo corpo a farsi scudo per gli altri.
+Quando un compagno di squadra entro portata **Vicina (Close)** sta per subire danni che lo costringerebbero a marcare Punti Ferita, puoi marcare **1 Stress** e interporti. Subisci tu l'attacco al suo posto, applicando il danno al tuo Punteggio di Armatura (*Armor Score*) e riducendolo normalmente.
 
 ---
 

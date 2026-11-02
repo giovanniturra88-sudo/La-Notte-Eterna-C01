@@ -14,26 +14,26 @@ location:
 
 # Sottoclasse: Danse Macabre
 
-La musica proibita non è scritta su nessun spartito accademico, ma viene sussurrata e tramandata per via orale all'interno della setta eretica di Krea, la Dama Nera. Chi intraprende questo cammino non cerca il mero intrattenimento dei vivi, ma la risonanza profonda dell'oltretomba. Danzando sulle lapidi dei cimiteri e pizzicando corde dissonanti, il Danse Macabre canalizza le energie ematiche e spirituali della morte, terrorizzando i vivi e costringendo i morti a rialzarsi per ballare al ritmo spettrale delle sue melodie.
+La musica proibita non è scritta su nessun spartito accademico, ma viene sussurrata e tramandata per via orale all'interno della setta eretica di [[Krea]], la Dama Nera. Chi intraprende questo cammino non cerca il mero intrattenimento dei vivi, ma la risonanza profonda dell'oltretomba. Danzando sulle lapidi dei cimiteri e pizzicando corde dissonanti, il Danse Macabre canalizza le energie ematiche e spirituali della morte, terrorizzando i vivi e costringendo i morti a rialzarsi per ballare al ritmo spettrale delle sue melodie.
 
 ---
 
 ### Fondazione
-**_Melodia dell'Oltretomba:_** La tua musica risuona della fredda indifferenza della morte. Ottieni competenza nell'esperienza *Musica Proibita (+2)* (o la utilizzi con vantaggio nelle prove che coinvolgono l'interazione con i defunti). Inoltre, quando lanci una capacità magica del dominio del **Terrore** o rianimi un servitore, puoi spendere **1 Speranza** per far sì che un avversario entro portata Ravvicinata debba effettuare un Tiro di Reazione di Forza o essere colto da tremori raggelanti, subendo la condizione **Spaventato** finché non marca uno Stress.
+**_Melodia dell'Oltretomba:_** Ottieni **Vantaggio** a tutte le prove di _Presenza_ o _Spettacolo_ effettuate per interagire con spiriti, defunti o non morti. Inoltre, quando lanci un incantesimo del dominio del **Terrore**, puoi spendere **1 Speranza** per costringere un nemico entro portata **Vicina (Close)** a subire la condizione **Spaventato** finché non marca 1 Stress.
 
-**_Canto della Carne Morta:_** Sei in grado di far muovere i corpi come burattini biologici. Quando una creatura umanoide muore entro portata Lontana da te, puoi spendere **1 Stress** e lanciare il tuo *Dado del Patrono* per rianimarla all'istante come **Zombi Marionetta** per la durata della scena. Lo Zombi si muove ed esegue un singolo attacco nel tuo turno, utilizzando il risultato del tuo Dado del Patrono come bonus aggiuntivo al tiro d'attacco o per assorbire un colpo diretto a un alleato vicino.
+**_Canto della Carne Morta:_** Quando una creatura muore entro portata **Lontana (Far)** da te, puoi marcare **1 Stress** per rianimarla all'istante come **Zombie Marionetta** per la durata della scena. Lo Zombie si muove ed esegue un attacco quando agisci tu, oppure può intercettare un colpo diretto a te o a un alleato vicino.
 
 ---
 
 ### Specializzazione
-**_Danza degli Spettri:_** Quando effettui un'azione di movimento o di disingaggio, puoi marcare **1 Stress** per svanire parzialmente nel velo che separa il piano materiale dall'oltretomba di Krea. Fino all'inizio del tuo prossimo turno ottieni un bonus di **+2 all'Evasione** e puoi fluttuare e muoverti liberamente attraverso i nemici e gli oggetti solidi come se fossi incorporeo. Qualsiasi nemico che attraversi durante questo movimento subisce danni da freddo pari al tuo rango di gioco.
+**_Danza degli Spettri:_** Quando ti sposti, puoi marcare **1 Stress** per svanire parzialmente nel velo dell'oltretomba. Fino alla tua prossima azione ottieni **+2 all'Evasione (Evasion)** e puoi attraversare nemici e ostacoli solidi. Qualsiasi nemico oltrepassato subisce **1d6 danni da Freddo**.
 
-**_Sinfonia della Dama Nera:_** Una volta per scena, puoi spendere **2 Speranze** per intonare un accordo spettrale che fa vibrare la linfa vitale dei non morti. Tutti i servitori non morti sotto il tuo controllo (compresi quelli dei tuoi alleati) entro portata Lontana ottengono immediatamente un bonus di **+2 al Punteggio di Armatura** e infliggono **+1d6 danni necrotici extra** ai loro attacchi fino al termine della scena. Inoltre, le tue magie di cura (come *Healing Hands*) possono ripristinare i loro Punti Ferita, ignorando le normali restrizioni biologiche.
+**_Sinfonia della Dama Nera:_** Una volta per scena, puoi spendere **2 Speranze** per intonare un accordo spettrale. Tutti i servitori non morti sotto il tuo controllo entro portata **Lontana (Far)** ottengono **+2 all'Armatura** e infliggono **+1d6 danni Necrotici extra** ai loro attacchi finché dura la scena.
 
 ---
 
 ### Maestria
-**_Alzati e Cammina:_** Il tuo controllo sulla morte è assoluto. Quando metti a segno un *Successo Critico* con un attacco o sconfiggi personalmente un avversario rilevante, puoi spendere **3 Speranze** per consumare completamente la sua forza vitale. Il suo corpo si rianima immediatamente sotto forma di **Scheletro d'Élite** sotto il tuo controllo permanente (fino a un massimo di 4 scheletri contemporaneamente). Nel tuo turno, puoi spendere un'azione per comandare mentalmente a tutti i tuoi scheletri attivi di attaccare o spostarsi. Inoltre, quando subisci danno Maggiore o superiore, puoi spendere la tua reazione per far sì che uno dei tuoi scheletri si frapponga, distruggendosi ma riducendo di 1 il numero di Punti Ferita marcati.
+**_Alzati e Cammina:_** Quando metti a segno un **Successo Critico** con un attacco o un incantesimo, puoi spendere **3 Speranze** per consumare la forza vitale del bersaglio: un nemico sconfitto si rianima immediatamente come **Scheletro d'Élite** al tuo servizio (fino a un massimo di 2 attivi). Quando subisci danni, puoi distruggere uno dei tuoi scheletri per ridurre di 1 i Punti Ferita marcati.
 
 ---
 

@@ -18,7 +18,3 @@ source: La Notte Eterna
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I Nuno non considerano la Notte Eterna un ostacolo, ma una condizione necessaria per la loro esistenza. Sono immuni agli effetti di disorientamento tipici delle zone corrotte dalla nebbia abissale.
 - **Relazione con le Fazioni**: Spesso ignorati dagli abitanti della superficie, sono diventati indispensabili per le gilde di esploratori che devono penetrare nei livelli più profondi di Mendulia's Rock per recuperare materiali antichi.
-
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: **Dwarf** (adattato per la resistenza sotterranea).
-- *Modifiche apportate*: Abbiamo enfatizzato la capacità di navigazione in ambienti estremi e la percezione sensoriale, sostituendo la resilienza fisica classica con abilità di orientamento che generano *Paura* (Fear Points) a causa dell'attenzione che attirano dal sottosuolo.

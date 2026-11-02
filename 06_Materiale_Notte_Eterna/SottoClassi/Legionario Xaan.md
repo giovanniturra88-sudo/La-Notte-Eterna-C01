@@ -1,14 +1,14 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Warrior]]"
+  - "[[Warrior]]"
 Dominio:
- - "[[Lama]]"
- - "[[Ossa]]"
+  - "[[Lama]]"
+  - "[[Ossa]]"
 spellcast_trait: Forza
 source: La Notte Eterna
 location:
- - "[[Pianure di Xanesh]]"
+  - "[[Pianure di Xanesh]]"
 ---
 # Sottoclasse: Legionario Xaan
 
@@ -17,18 +17,18 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Fondazione
-**_Recuperare Energie Migliorato:_** Puoi utilizzare la tua caratteristica di classe per recuperare Punti Ferita o Stress quando subisci danni. Se la cura supera il tuo valore massimo di Punti Ferita, i punti in eccesso diventano Punti Ferita temporanei.
+**_Recuperare Energie Migliorato:_** Quando utilizzi le tue abilità di classe per recuperare Punti Ferita o punti Stress dopo un combattimento o durante un riposo breve, puoi curare **1 punto Stress o HP aggiuntivo**.
 
 ---
 
 ### Specializzazione
-**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo, scegli due abilità o strumenti in cui non sei addestrato. Ottieni vantaggio su tutte le prove effettuate con essi fino al riposo lungo successivo.
-**_Scatto Impetuoso:_** Quando utilizzi il tuo privilegio *Azione Impetuosa* (Action Surge), puoi anche effettuare una mossa gratuita di Scatto o Disingaggio.
+**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo, scegli un'**Esperienza** o un ambito tattico in cui non sei addestrato: fino al riposo lungo successivo, puoi applicare un bonus di **+1** a tutte le prove legate a quell'ambito.
+**_Scatto Impetuoso:_** Quando spendi Speranza per attivare una capacità di attacco o difesa marziale, puoi anche riposizionarti immediatamente coprendo una distanza fino a portata **Vicina (Close)** senza subire contrattacchi.
 
 ---
 
 ### Maestria
-**_Eroe di Ventura:_** Sei invincibile sul campo di battaglia. Quando utilizzi la caratteristica *Indomito*, effettui il Tiro di Reazione con vantaggio. Inoltre, una volta per scena, puoi spendere 1 Speranza per convertire un successo nemico contro di te in un fallimento con Timore.
+**_Eroe di Ventura:_** Sei quasi inamovibile sul campo di battaglia. Quando effettui un Tiro di Reazione difensivo per resistere a un effetto fisico, tiri con **Vantaggio**. Inoltre, una volta per scena, puoi spendere **1 Speranza** per costringere un nemico che ti ha appena colpito a ripetere il suo tiro d'attacco.
 
 ---
 

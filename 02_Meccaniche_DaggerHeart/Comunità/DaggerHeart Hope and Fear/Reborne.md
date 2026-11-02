@@ -6,10 +6,16 @@ source: DaggerHeart Hope and Fear
 
 # Reborne
 
-Far parte di una comunità reborne significa essere abituati alla vita tra i morti, sia come custodi di tombe o sacerdoti della morte, sia come coloro che hanno la propria casa vicino a necropoli e luoghi di sepoltura. La tua gente ha fatto pace con la mortalità, considerando la morte non come una fine ma come una transizione. Le comunità reborne si trovano spesso in antiche città con vasti cimiteri, tombe scavate nelle scogliere o lungo fiumi sacri usati per i riti funebri. I membri di una comunità reborne possiedono un'insolita dimestichezza con le questioni legate alla morte e possono avere intuizioni sulle energie necromantiche che altri temono.
+Un tempo eri un membro di una comunità diversa dalla quale non fai più parte. A differenza dei membri di collettivi uniti dalla familiarità, dalla posizione condivisa, dalla storia e dalla cultura, i reborne sono individui che potrebbero non incontrarsi mai e sono uniti solo dalla loro esperienza condivisa di solitudine. Che si siano lasciati per scelta o siano stati strappati dalla loro comunità, tutti i reborne sono scollegati dal luogo a cui un tempo appartenevano, e portano con sé quella ferita.
 
-_I Reborne sono spesso contemplativi, pazienti, reverenti, pragmatici, enigmatici e calmi._
+Alcuni reborne sono isolati dalla loro comunità perché hanno scelto di rifiutarla o rinnegarla, o potrebbero essere stati espulsi forzatamente da altri membri. Questi casi sono spesso dovuti a un conflitto, come differenze ideologiche in contrasto, una rottura con il loro popolo, o un incidente che li ha costretti a partire. Altri reborne non hanno alcuna conoscenza della loro cultura, sia per la loro educazione o forse perché hanno perso la memoria a causa di un infortunio o della magia. Alcuni sono persino tornati oltre il velo dopo la morte senza alcun ricordo della loro vita precedente—o della cultura che l'ha plasmata.
+
+Spesso, gli individui reborne cercano instancabilmente il loro passato o sentono che non apparterranno mai a un collettivo, ma tutti hanno l'opportunità di voltarsi verso il futuro e ridefinirsi mentre costruiscono nuovi legami con coloro che vengono a conoscere e amare.
+
+_I Reborne sono spesso curiosi, speranzosi, innocenti, isolati, malinconici e bizzarri._
 
 ### TRATTO DI COMUNITÀ
 
-**_Conoscenza della Morte:_** Hai vantaggio sui tiri per identificare i resti, eseguire correttamente i riti funebri, resistere alla paura quando ti trovi di fronte a non morti o a fenomeni legati alla morte e percepire le intenzioni delle creature connesse alle energie necromantiche.
+**_Famiglia Trovata:_** Una volta per riposo, puoi spendere una Speranza per usare l'Esperienza di un alleato come se fosse la tua. Quando lo fai, descrivi come il tuo tempo con quell'alleato ti ha preparato per questo momento.
+
+Quando unisci una nuova comunità o riscopri la tua vecchia, puoi scambiare permanentemente questa carta con quella.

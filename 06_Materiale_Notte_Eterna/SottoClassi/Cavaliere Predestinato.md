@@ -12,26 +12,29 @@ location:
 ---
 # Sottoclasse: Cavaliere Predestinato
 
-Paladini votati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da una fede cieca e pronti al sacrificio estremo.
+Paladini consacrati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da una fede cieca e incrollabile sono pronti al sacrificio estremo e supremo per proteggere gli ultimi scampoli di luce.
 
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Come azione, spendi 2 Speranze per marchiare un avversario entro portata Ravvicinata. I tuoi attacchi contro di esso infliggono +1d6 danni magici radianti extra. Il marchio dura finché il bersaglio non viene sconfitto.
+**_Marchio di Laon:_** Puoi spendere **2 Speranze** per imprimere una sagoma fiammeggiante su un avversario entro portata **Vicina (Close)**.I tuoi attacchi contro il bersaglio marchiato infliggono **+1d6 danni magici Radiosi** extra. Il marchio persiste finché il bersaglio non viene sconfitto o la scena termina.
 
 ---
 
 ### Specializzazione
-**_Sentinella Eterna:_** Una volta per riposo lungo, quando vieni ridotto a 0 Punti Ferita, puoi spendere 1 Speranza (invece di svenire o effettuare la Mossa finale) per rimanere a 1 Punto Ferita ed effettuare immediatamente un attacco di mischia.
-**_Sacra Ira:_** I tuoi attacchi con arma infliggono +1d8 danni extra quando hai almeno 4 Stress marcati.
+**_Sentinella Eterna:_** Una volta per riposo lungo, quando subisci danni sufficienti a spingerti a segnare tutti i tuoi Punti Ferita (HP) rimanenti:
+* Invece di cadere privo di sensi o effettuare la *Mossa Finale*, puoi spendere **1 Speranza** per rimanere in piedi con **1 Punto Ferita** ed effettuare immediatamente un attacco di mischia contro chi ti ha colpito.
+**_Sacra Ira:_** La tua determinazione cresce con l'aumentare dello sforzo. Tutti i tuoi attacchi d'arma infliggono un **+1d8 danni extra** quando hai almeno **4 Stress** marcati sulla tua scheda.
 
 ---
 
 ### Maestria
-**_Araldo dell'Ultima Luce:_** Una volta per riposo lungo, spendendo 3 Speranze, ti trasformi in un campione alato di Laon per la durata della scena. Ottieni velocità di volo pari a 12 m, emani luce intensa che infligge svantaggio ai non morti, e tutti i tuoi attacchi infliggono +1d10 danni magici radianti extra.
-
+**_Araldo dell'Ultima Luce:_** Una volta per riposo lungo, puoi spendere **3 Speranze** per manifestare la forma divina di un campione alato di [[Laon]] fino alla fine della scena.
+Durante la trasformazione:
+* Ottieni la capacità di **Volare** liberamente durante il tuo movimento.
+* Emani una luce sacra accecante: i non morti e le creature dell'oscurità a portata **Vicina (Close)** subiscono **Svantaggio** a tutti i tiri effettuati contro di te o i tuoi compagni.
+* Tutti i tuoi attacchi d'arma infliggono un dado di danno extra di elemento **Radioso**.
 ---
-
 ## Domande di Sfondo
 
 Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.

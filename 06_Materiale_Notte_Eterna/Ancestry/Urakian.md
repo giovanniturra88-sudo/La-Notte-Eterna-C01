@@ -18,6 +18,3 @@ source: La Notte Eterna
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: La loro natura artificiale li rende insensibili alla nebbia della Notte Eterna. Possono muoversi nelle zone corrotte senza subire penalità sensoriali.
 - **Relazione con le Fazioni**: Reclutati come mercenari o guardie del corpo dalle gilde di [[Neir]]. Temuti dalle fazioni religiose, che li vedono come abominazioni senz'anima.
-## Note di Adattamento
-- *Base Daggerheart di riferimento*: Urakian (Manuale base).
-- *Modifiche apportate*: Abbiamo reso la "Resistenza Sintetica" una meccanica che interagisce con la Paura anziché essere una semplice passiva, per riflettere il costo energetico del loro corpo in un mondo decadente.

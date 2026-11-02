@@ -1,34 +1,35 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Witch]]"
+  - "[[Witch]]"
+  - "[[Seraph]]"
 spellcast_trait: Conoscenza
 Dominio:
- - "[[Saggezza]]"
- - "[[Terrore]]"
+  - "[[Saggezza]]"
+  - "[[Terrore]]"
 source: La Notte Eterna
 location:
- - "[[Valli dei Giganti]]"
+  - "[[Valli dei Giganti]]"
 ---
 # Sottoclasse: Criomante
 
-Chierici araldi del gelo divino di [[Unthamarand]], che traggono vigore dalle bufere e congelano la carne dei nemici.
+Chierici e incantatori araldi del gelo divino di [[Unthamarand]], che traggono vigore dalle bufere e congelano la carne dei nemici.
 
 ---
 
 ### Fondazione
-**_Gelo Interiore:_** Ottieni resistenza permanente ai danni da Freddo. Una volta per riposo, spendendo un'azione crei uno schermo di ghiaccio che ti fornisce Punti Ferita temporanei pari al tuo modificatore di Incantesimo + il tuo rango.
+**_Gelo Interiore:_** Ottieni **Resistenza** permanente ai danni da Freddo. Una volta per riposo breve o lungo, puoi spendere **1 Speranza** per evocare uno schermo di ghiaccio protettivo: ottieni uno scudo temporaneo che ti permette di cancellare fino a 2 Punti Ferita dal prossimo attacco che subisci.
 
 ---
 
 ### Specializzazione
-**_Canalizzazione del Gelo:_** Una volta per scena, quando infliggi danni da Freddo con una magia, puoi spendere 1 Stress per infliggere il massimo dei danni possibili.
-**_Aura di Ghiaccio:_** Finché possiedi Punti Ferita temporanei attivi, emani un'aura di gelo entro portata Prossima. I nemici che iniziano il turno nell'area subiscono 1d8 danni da Freddo.
+**_Canalizzazione del Gelo:_** Una volta per scena, quando metti a segno un incantesimo o un attacco che infligge danni da Freddo, puoi marcare **1 Stress** per massimizzare il risultato di uno dei tuoi dadi di danno.
+**_Aura di Ghiaccio:_** Finché lo schermo di ghiaccio o una protezione magica da freddo è attiva su di te, emani un gelo pungente entro portata **Molto Vicina (Very Close)**. Qualsiasi nemico che si avvicina o inizia la propria azione nell'area subisce **1d6 danni da Freddo**.
 
 ---
 
 ### Maestria
-**_Signore dell'Inverno:_** Ottieni l'immunità totale al danno da Freddo. I tuoi incantesimi ignorano le immunità e le resistenze dei nemici al Freddo, e i bersagli congelati subiscono la condizione Vulnerabile finché non subiscono danno da fuoco.
+**_Signore dell'Inverno:_** Ottieni l'immunità totale ai danni da Freddo. I tuoi incantesimi ignorano la Resistenza al Freddo dei nemici, e i bersagli colpiti dai tuoi attacchi di gelo subiscono la condizione **Vulnerabile** finché non subiscono danni da Fuoco o la scena termina.
 
 ---
 

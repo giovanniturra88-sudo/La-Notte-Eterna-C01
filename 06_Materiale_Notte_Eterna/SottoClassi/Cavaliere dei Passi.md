@@ -1,38 +1,46 @@
 ---
 type: Sottoclasse
 classe:
- - "[[Ranger]]"
+  - "[[Ranger]]"
 Dominio:
- - "[[Ossa]]"
- - "[[Saggezza]]"
-spellcast_trait: Istinto
+  - "[[Ossa]]"
+  - "[[Saggezza]]"
+spellcast_trait:
+  - Istinto (Instinct)
 source: La Notte Eterna
 location:
- - "[[Ducato di Öuin]]"
- - "[[Landa di Edeber]]"
+  - "[[Ducato di Öuin]]"
+  - "[[Landa di Edeber]]"
 ---
 # Sottoclasse: Cavaliere dei Passi
 
-Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di correre in silenzio e superare barriere territoriali impossibili.
+Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di muoversi in silenzio e superare barriere territoriali impossibili.
 
 ---
 
 ### Fondazione
-**_Passo Lungo & Felpato:_** La tua velocità di movimento aumenta permanentemente di +3 metri, e ottieni +1 all'Evasione. Hai vantaggio permanente su tutte le prove di Furtività che richiedono movimento.
+**_Passo Lungo & Felpato:_** la tua andatura è rapida e quasi impalpabile.
+
+* Ottieni permanentemente un **bonus di +1 al tuo punteggio di Evasione (Evasion)**
+* Quando ti muovi, puoi coprire una distanza maggiore (ad esempio passare da una portata *Molto Vicina* a *Lontana*) con un singolo movimento narrativo.
+* Ottieni **Vantaggio** a tutti i tiri di *Agilità* o *Furtività* effettuati mentre ti sposti o cerchi di non far sentire la tua presenza.
 
 ---
 
 ### Specializzazione
-**_Passo Schivo:_** Tutti gli attacchi di opportunità effettuati contro di te subiscono svantaggio.
-**_Passo Fuorviante:_** Come azione, spendi 1 Speranza per confondere un avversario visibile. I suoi attacchi contro di te hanno svantaggio finché non ti colpisce o finché la scena non termina.
+**_Passo Schivo:_** Sei maestro nel disimpegnarti dal pericolo. Quando ti allontani da un nemico a portata **Mischia (Melee)**, i nemici che cercano di intercettarti o reagire al tuo movimento subiscono **Svantaggio** al loro tiro d'attacco.
+**_Passo Fuorviante:_** puoi spendere **1 Speranza** e descrivere un finto movimento o un'illusione ottica per confondere un avversario a portata visibile. Quell'avversario subisce **Svantaggio** a tutti i tiri d'attacco diretti contro di te finché non ti infligge danni o finché la scena non termina.
 
 ---
 
 ### Maestria
-**_Passo Perfetto:_** Ottieni la capacità di camminare sull'acqua e sulle superfici verticali. Sei completamente immune a qualsiasi danno ambientale (acido, fuoco, trappole) derivante dal muoverti sul terreno, e ignori tutti i terreni difficili.
+**_Passo Perfetto:_** Hai raggiunto il totale controllo del tuo peso e dell'equilibrio:
+
+* Puoi camminare e correre su **superfici acquatiche e pareti verticali** come se fossero normale terreno pianeggiante.
+* Ignori qualsiasi intralcio provocato da terreni perigliosi, ostacoli o vegetazione intricata.
+* Ottieni **Resistenza** ai danni ambientali e alle trappole legate al terreno (come acido, fuoco di superficie, spintoni o trappole a pressione).
 
 ---
-
 ## Domande di Sfondo
 
 Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.

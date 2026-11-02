@@ -13,23 +13,23 @@ location:
 ---
 # Spiritualista
 
-Necromanti sopravvissuti a potenti ed empi esperimenti necromantici, in grado di vedere gli spiriti e incanalarne la forza vitale.
+Necromanti e medium sopravvissuti a potenti ed empi esperimenti necromantici, in grado di vedere gli spiriti e incanalarne la forza vitale.
 
 ---
 
 ### Fondazione
-**_Vascello delle Anime:_** Puoi vedere gli spiriti dei morti. Possiedi una riserva di *Punti Spirito* (massimo pari al tuo rango + il tuo modificatore di Incantesimo). Quando uccidi un avversario pericoloso, ottieni 1 Punto Spirito. Puoi spendere 1 Punto Spirito prima di un tiro di danno magico per infliggere +1d8 danni magici extra.
+**_Vascello delle Anime:_** Puoi vedere chiaramente gli spiriti dei defunti. Possiedi una riserva di **Punti Spirito** (massimo pari al tuo modificatore di _Conoscenza_). Quando uno scontro ha fine o quando viene sconfitto un nemico rilevante, ottieni **1 Punto Spirito**. Puoi spendere 1 Punto Spirito prima di un tiro d'attacco magico o di danno per infliggere **+1d8 danni magici extra**.
 
 ---
 
 ### Specializzazione
-**_Unione con i Morti:_** Come azione, spendi 2 Punti Spirito per diventare temporaneamente incorporeo per 1 round. Puoi passare attraverso i muri e ottieni resistenza a tutti i danni fisici.
-**_Medium:_** Hai vantaggio permanente su tutte le prove di abilità o conoscenza in cui non sei addestrato.
+**_Unione con i Morti:_** Spendi **2 Punti Spirito** per rendere la tua forma fisica incorporea fino alla tua prossima azione. Puoi attraversare pareti, ostacoli e nemici e ottieni **Resistenza** a tutti i danni fisici subiti in questo lasso di tempo.
+**_Medium:_** La presenza costante di spiriti guida ti dona consigli inattesi: puoi tirare con **Vantaggio** qualsiasi prova di _Conoscenza_ o abilità generale in cui non possiedi un'Esperienza specifica.
 
 ---
 
 ### Maestria
-**_Le Braccia dei Morti:_** Quando subisci danni fisici o magici, puoi spendere 1 Punto Spirito per materializzare braccia spettrali attorno a te. Queste braccia riducono il danno finale subito di un valore pari al tuo modificatore di Incantesimo + il tuo rango.
+**_Le Braccia dei Morti:_** Quando stai per marcare Punti Ferita in seguito a un attacco, puoi spendere **1 Punto Spirito** per evocare braccia spettrali protettive. Le braccia assorbono i danni cancellando fino a **1 Punto Ferita** o **2 punti Stress** dal colpo subito.
 
 ---
 

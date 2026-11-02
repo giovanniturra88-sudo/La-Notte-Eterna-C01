@@ -6,10 +6,10 @@ source: DaggerHeart Hope and Fear
 
 # Frostborne
 
-Far parte di una comunità frostborne significa essere abituati alla vita in terre selvagge ghiacciate, tundre gelide e regioni perennemente avvolte dalla morsa dell'inverno. La tua gente si è adattata a sopportare il freddo pungente, la scarsità e il peso schiacciante di neve e ghiaccio. Le comunità frostborne sono molto unite e sopravvivono grazie alla cooperazione, al lavoro condiviso e al profondo rispetto per coloro che sanno affrontare gli elementi più duri. I membri di una comunità frostborne possiedono una resilienza interiore che consente loro di resistere non solo alle difficoltà fisiche, ma anche al tributo psicologico del freddo e dell'oscurità senza fine.
+Far parte di una comunità frostborne significa provenire da un luogo di neve e ghiaccio. Forgiati in un freddo amaro e implacabile, i collettivi frostborne sono abituati a sopravvivere nelle condizioni più dure. I ghiacciai e le tundre che chiamano casa di solito mancano di legno, quindi questi collettivi usano materiali più facilmente disponibili come ghiaccio, pietra, ossa e pelli di animali per fare rifugi e conservare il calore. Sono abili nel far durare a lungo le loro provviste e nel garantire a tutti i loro abitanti l'accesso agli essenziali necessari per sopravvivere. Come parte dei loro sistemi di sopravvivenza, molti frostborne tracciano attentamente i modelli meteorologici, l'alba e il tramonto del sole e i bisogni della flora e della fauna locali. A causa del vento ululante e della neve pungente, alcune comunità frostborne sviluppano mezzi di comunicazione non verbali per poter coprire il viso in sicurezza durante il tempo pericoloso.
 
-_I Frostborne sono spesso tenaci, cupi, disciplinati, leali, austeri e risoluti._
+_I Frostborne sono spesso astuti, socievoli, intraprendenti, determinati, silenziosi e calorosi._
 
 ### TRATTO DI COMUNITÀ
 
-**_Resistenza al Freddo:_** Hai vantaggio sui tiri per resistere agli effetti del freddo estremo, sopravvivere in ambienti ghiacciati e sopportare condizioni che sopraffarebbero gli impreparati.
+**_Robusto:_** Quando fai un riposo, rimuovi un Punto Ferita.

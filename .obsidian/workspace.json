@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3e9f8fa7bfcb8f",
+        "id": "44d2c89edfe58e04",
         "type": "tabs",
         "children": [
           {
-            "id": "855391d5483e36d7",
+            "id": "ca186bd66c9511de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Materiale_Notte_Eterna/Ancestry/Klorss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klorss"
+            }
+          },
+          {
+            "id": "f601c6756bf12e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 342.5
   },
   "right": {
     "id": "8a279119e481b459",
@@ -242,12 +256,7 @@
     "04_Risorse/Pictures/Pasted image 20260806185438.png",
     "04_Risorse/Pictures/Pasted image 20260805185428.png",
     "04_Risorse/Pictures/Pasted image 20260804014346.png",
-    "Senza nome.canvas",
-    "04_Risorse/Pictures/KAREVI.png",
     "04_Risorse/Pictures/Pasted image 20260802121721.png",
-    "04_Risorse/Pictures/Pasted image 20260802121620.png",
-    "04_Risorse/Pictures/Pasted image 20260802121610.png",
-    "04_Risorse/Pictures/Pasted image 20260802121147.png",
-    "04_Risorse/Pictures/Pasted image 20260802121134.png"
+    "Senza nome.canvas"
   ]
 }

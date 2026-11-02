@@ -41,3 +41,4 @@ _Fai una delle seguenti domande ai tuoi compagni di gioco._
 - In che modo ti ho allenato per farti diventare fisicamente più forte e resistente?
 - Cosa mi hai insegnato sul combattimento che non avrei mai potuto scoprire da solo?
 - Come ti sei sentito quando mi sono frapposto per assorbire un colpo mortale diretto a te?
+

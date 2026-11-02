@@ -24,7 +24,7 @@ I bardi sono i maestri della captazione e del fascino in tutti i regni. Esperti 
 **_Fare Scena:_** Spendi 3 Speranze per Distrarre temporaneamente un bersaglio entro portata Ravvicinata, infliggendogli una penalità di -2 alla sua Difficoltà.
 
 # Sottoclassi
-Scegli tra la sottoclasse del [[Trovatore]] o del [[Oratore]].
+Scegli tra la sottoclasse del [[Trovatore]] o del [[Oratore]] (o [[06_Materiale_Notte_Eterna/SottoClassi/Danse Macabre|Danse Macabre]] da [[La Notte Eterna]]).
 
 # Caratteristiche di Classe
 **_Adunata (Rally):_** Una volta per sessione, descrivi come incoraggi il gruppo e fornisci a te stesso e a ogni alleato un Dado A Raccolta (d6 al livello 1). Un PG può spendere il Dado A Raccolta per aggiungerlo al proprio tiro di azione, reazione, danno o per curare Stress pari al risultato. Rimuovi tutti i dadi inutilizzati a fine sessione.
