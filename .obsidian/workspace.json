@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "fce48a2639d1fa4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Note di rilascio 1.15.0"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,40 +214,40 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2a02b6fd0187928c",
+  "active": "7953156e4dee41d1",
   "lastOpenFiles": [
     "requirements.txt.md",
     "requirements.txt",
     "README.md",
     "Benvenuto.md",
-    "00_Dashboard/Master e Players/Indice SottoClassi.md",
-    "06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
+    "docs/00_Dashboard/Master e Players/Indice SottoClassi.md",
+    "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
     "04_Risorse/Pictures/klorrs_pic.png",
     "docs",
-    "06_Materiale_Notte_Eterna/Ancestry/Klorss.md",
-    "04_Risorse/Pictures/Pasted image 20260710132429.png",
-    "06_Materiale_Notte_Eterna/Ancestry/Karevi.md",
-    "04_Risorse/Pictures/klorss_pic.png",
-    "04_Risorse/Pictures/karevi_pic.png",
-    "04_Risorse/Pictures/nuno_pic.png",
-    "04_Risorse/Pictures/nuno_pic.png",
-    "06_Materiale_Notte_Eterna/Ancestry/Nuno.md",
-    "04_Risorse/Pictures/urakian_pic.png",
-    "04_Risorse/Pictures/Pasted image 20260806185438.png",
-    "06_Materiale_Notte_Eterna/Ancestry/Urakian.md",
-    "04_Risorse/Pictures/urakian_pic.png",
-    "04_Risorse/Pictures/wiloi_pic.png",
-    "06_Materiale_Notte_Eterna/Ancestry/Wiloi.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Lama di Dor.md",
-    "06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
-    "02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Necromante.md",
-    "06_Materiale_Notte_Eterna/SottoClassi/Dardo Sanguinante.md",
-    "04_Risorse/Templates/Template Scena.md",
-    "04_Risorse/Templates/Template Avversario.md",
-    "04_Risorse/Templates/Template Ancestry.md",
-    "04_Risorse/Templates",
-    "04_Risorse/Pictures",
-    "04_Risorse",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Klorss.md",
+    "docs/04_Risorse/Pictures/Pasted image 20260710132429.png",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Karevi.md",
+    "docs/04_Risorse/Pictures/klorss_pic.png",
+    "docs/04_Risorse/Pictures/karevi_pic.png",
+    "docs/04_Risorse/Pictures/nuno_pic.png",
+    "docs/04_Risorse/Pictures/nuno_pic.png",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Nuno.md",
+    "docs/04_Risorse/Pictures/urakian_pic.png",
+    "docs/04_Risorse/Pictures/Pasted image 20260806185438.png",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Urakian.md",
+    "docs/04_Risorse/Pictures/urakian_pic.png",
+    "docs/04_Risorse/Pictures/wiloi_pic.png",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Wiloi.md",
+    "docs/06_Materiale_Notte_Eterna/SottoClassi/Lama di Dor.md",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
+    "docs/02_Meccaniche_DaggerHeart/SottoClassi/DaggerHeart Void/Necromante.md",
+    "docs/06_Materiale_Notte_Eterna/SottoClassi/Dardo Sanguinante.md",
+    "docs/04_Risorse/Templates/Template Scena.md",
+    "docs/04_Risorse/Templates/Template Avversario.md",
+    "docs/04_Risorse/Templates/Template Ancestry.md",
+    "docs/04_Risorse/Templates",
+    "docs/04_Risorse/Pictures",
+    "docs/04_Risorse",
     "scripts/storylines_text/When Angels Cry ITA.txt",
     "scripts/storylines_text/Oscura Chiesa di Tenebris.txt",
     "scripts/storylines_text/The Star Gazer Deluxe ITA.txt",

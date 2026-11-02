@@ -1,6 +1,5 @@
 site_name: Daggerheart Vault
 site_url: https://giovanniturra88-sudo.github.io/La-Notte-Eterna-C01/
-docs_dir: '.'
 
 theme:
   name: material
