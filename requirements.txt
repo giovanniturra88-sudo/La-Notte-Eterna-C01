@@ -1,2 +1,2 @@
 mkdocs-material
-mkdocs-wikilinks-plugin
+mkdocs-markdownextradata-plugin

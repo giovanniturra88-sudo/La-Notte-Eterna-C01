@@ -29,4 +29,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - wikilinks
