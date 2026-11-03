@@ -23,7 +23,9 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.tabbed
-  - wikilinks  # Supporto nativo Python-Markdown per [[WikiLinks]]
+  - wikilinks:
+      base_url: ''
+      end_url: '/'
 
 plugins:
   - search
