@@ -11,10 +11,12 @@ source: La Notte Eterna
 - **Archetipo**: Padroneggiano le arti arcane e ogni aspetto della loro vita è regolato dalla magia. Esploratori di frontiera e osservatori. Sono noti per la loro agilità innata e la capacità di percepire i cambiamenti nelle correnti energetiche che attraversano il mondo.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sensi acuti**: Ottieni vantaggio alle prove di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
-- **Passo rapido**: Quando effettui un'azione di movimento, puoi marcare 1 *Stress* per muoverti fino a una gittata aggiuntiva senza provocare attacchi di opportunità.
-- **Memoria dimensionale**: Una volta per sessione, puoi consultare la tua "memoria ancestrale" per ottenere una conoscenza specifica su un portale o un fenomeno magico, generando però 1 punto di *Paura* nella riserva del GM.
+- **Sensi Acuti** *(prima feature)*: Ottieni vantaggio ai tiri di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
+- **Anima Gemella** *(seconda feature)*: Puoi evocare il tuo [[Yamyam]] come Compagno. Si comanda con il Tiro di Incantesimo, quindi serve una sottoclasse con un tratto di lancio.
+
+> [!NOTE] Variante senza Compagno
+> La seconda feature diventa **Memoria Dimensionale**: una volta per sessione ottieni una conoscenza specifica su un portale o un fenomeno magico, senza costo di Timore.
 
 ## Integrazione in Nebvarasa
-- **Percezione del Buio**: Essendo abituati a cieli lontani, i Wiloi percepiscono la Notte Eterna non come un limite, ma come un'assenza che cercano di colmare con la loro curiosità. Non subiscono penalità in condizioni di scarsa illuminazione.
+- **Percezione del Buio**: Essendo abituati a cieli lontani, i wiloi percepiscono la Notte Eterna non come un limite, ma come un'assenza che cercano di colmare con la loro curiosità (vedi la Regola dell'Oscurità nel Campaign Frame).
 - **Relazione con le Fazioni**: Sono visti come "stranieri" dalla maggior parte delle fazioni di Neir. Tuttavia, le gilde di cartografi e i mercanti di rotte sicure pagano profumatamente per i loro servigi, poiché sono gli unici in grado di "leggere" le vibrazioni del territorio.
