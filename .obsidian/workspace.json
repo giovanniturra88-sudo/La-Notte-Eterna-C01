@@ -202,8 +202,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7953156e4dee41d1",
+  "active": "fce48a2639d1fa4e",
   "lastOpenFiles": [
+    "docs/00_Dashboard/Master e Players/Indice Classi.md",
+    "docs/00_Dashboard/Master e Players/Indice Ancestry.md",
+    "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
+    "docs/00_Dashboard/Master e Players/Indice SottoClassi.md",
+    "docs/00_Dashboard/Master e Players/Indice Domini.md",
+    "docs/00_Dashboard/Master e Players/Indice Comunità.md",
     "docs/index.md",
     "docs/00_Dashboard/Sessione Zero.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
@@ -217,8 +223,6 @@
     "requirements.txt",
     "README.md",
     "Benvenuto.md",
-    "docs/00_Dashboard/Master e Players/Indice SottoClassi.md",
-    "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
     "04_Risorse/Pictures/klorrs_pic.png",
     "docs",
     "docs/04_Risorse/Pictures/Pasted image 20260710132429.png",
@@ -246,9 +250,6 @@
     "scripts/storylines_text/The Star Gazer Deluxe ITA.txt",
     "scripts/storylines_text/Pioggia di Fuoco.txt",
     "scripts/storylines_text/La Tavoletta Proibita.txt",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Teriantropia.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Vampirismo.md",
-    "06_Materiale_Notte_Eterna/Regole_di_Casa/Ispirazione Divina.md",
     "Senza nome.canvas"
   ]
 }
