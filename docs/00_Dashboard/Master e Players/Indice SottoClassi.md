@@ -1,7 +1,6 @@
 
-<!-- QueryToSerialize: TABLE file.frontmatter.source, file.frontmatter.classe WHERE type = "Sottoclasse"  SORT file.frontmatter.source ASC, file.name ASC  
--->
-<!-- SerializedQuery: TABLE file.frontmatter.source, file.frontmatter.classe WHERE type = "Sottoclasse" SORT file.frontmatter.source ASC, file.name ASC -->
+<!-- QueryToSerialize: TABLE file.frontmatter.source, file.frontmatter.classe WHERE type = "Sottoclasse"  SORT file.frontmatter.source ASC, file.name ASC -->
+<!-- SerializedQuery: TABLE file.frontmatter.source, file.frontmatter.classe WHERE type = "Sottoclasse"  SORT file.frontmatter.source ASC, file.name ASC -->
 
 | File                                                                                                                     | file.frontmatter.source   | file.frontmatter.classe                                                             |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------------------------------------------------------------------------- |
