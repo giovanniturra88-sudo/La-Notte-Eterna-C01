@@ -10,6 +10,8 @@ source: La Notte Eterna
 location:
  - "[[Ducato di Öuin]]"
 ---
+![[../../04_Risorse/Pictures/cavaliere_predestinato_pic.png]]
+
 # Sottoclasse: Cavaliere Predestinato
 
 Paladini consacrati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati da una fede cieca e incrollabile sono pronti al sacrificio estremo e supremo per proteggere gli ultimi scampoli di luce.

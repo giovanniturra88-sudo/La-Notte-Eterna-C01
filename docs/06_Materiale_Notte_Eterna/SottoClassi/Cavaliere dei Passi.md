@@ -12,6 +12,7 @@ location:
   - "[[Ducato di Öuin]]"
   - "[[Landa di Edeber]]"
 ---
+![](../../04_Risorse/Pictures/cavaliere_dei_passi.png)))
 # Sottoclasse: Cavaliere dei Passi
 
 Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di muoversi in silenzio e superare barriere territoriali impossibili.

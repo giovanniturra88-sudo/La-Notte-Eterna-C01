@@ -16,7 +16,7 @@ location:
   - "[[Ducato di Öuin]]"
   - "[[Vetta delle Anime]]"
 ---
-
+![](../../04_Risorse/Pictures/cavaliere_kurash_pic.png)
 # Sottoclasse: Cavaliere di Kurash
 
 Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'energia arcana e di manipolare il tempo e la trama della realtà.
