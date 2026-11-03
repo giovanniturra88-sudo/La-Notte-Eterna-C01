@@ -9,7 +9,7 @@ creature_type: Elementale Piccolo (Arcano)
 owner_class: Mago / Stregone / Warlock
 ---
 
-![[Pasted image 20260802121721.png|502]]
+![](../../../04_Risorse/Pictures/yamyam.png)
 # 🐾 Yamyam (Famiglio Wiloi)
 
 Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabel]], ammirando gli ologrammi che raffigurano le gesta dei più grandi incantatori *nüeth*, alcuni sopravvissuti alla distruzione della Città delle Sette Rune. Tra fuoco, fiamme e meraviglie arcane vi sembra di scorgere un particolare ricorrente. Vi avvicinate per guardare meglio, non c'è dubbio: quelle non sono ombre, ma **[[Yamyam]]**, frammenti di anima materializzati in corpicini arruffati, immancabili famigli di ogni [[Wiloi]] che si rispetti. La storia è raccontata da uomini e donne di potere, ma a fare spesso la differenza anche nelle situazioni più disperate sono i loro servitori più fidati.
