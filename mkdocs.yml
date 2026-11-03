@@ -20,6 +20,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.betterem
   - pymdownx.highlight
+  - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.tabbed
   - wikilinks  # Supporto nativo Python-Markdown per [[WikiLinks]]
+
+plugins:
+  - search
