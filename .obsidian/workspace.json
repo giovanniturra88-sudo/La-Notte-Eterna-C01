@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/00_Dashboard/Master e Players/Indice Ancestry.md",
+                "file": "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice Ancestry"
+              "title": "06_Materiale_Notte_Eterna"
             }
           }
         ],
@@ -204,12 +204,12 @@
   },
   "active": "fce48a2639d1fa4e",
   "lastOpenFiles": [
-    "docs/00_Dashboard/Master e Players/Indice Classi.md",
-    "docs/00_Dashboard/Master e Players/Indice Ancestry.md",
-    "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
     "docs/00_Dashboard/Master e Players/Indice SottoClassi.md",
     "docs/00_Dashboard/Master e Players/Indice Domini.md",
     "docs/00_Dashboard/Master e Players/Indice Comunità.md",
+    "docs/00_Dashboard/Master e Players/Indice Classi.md",
+    "docs/00_Dashboard/Master e Players/Indice Ancestry.md",
+    "docs/06_Materiale_Notte_Eterna/06_Materiale_Notte_Eterna.md",
     "docs/index.md",
     "docs/00_Dashboard/Sessione Zero.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
