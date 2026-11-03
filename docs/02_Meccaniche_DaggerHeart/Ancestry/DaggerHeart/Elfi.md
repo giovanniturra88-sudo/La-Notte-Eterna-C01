@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[elfi_pic.png|227]]
+![](../../../04_Risorse/Pictures/elfi_pic.png)
 ## Profilo
 - **Descrizione Visiva**: sono tipicamente umanoidi alti con orecchie a punta e sensi estremamente sviluppati. Le loro orecchie variano in dimensioni e forma appuntita e, con l'età, le punte iniziano a incurvarsi. Sebbene gli elfi presentino una vasta gamma di corporature, sono tutti piuttosto alti, con altezze che vanno da circa 1,80 a 2 metri e mezzo. Tutti gli elfi hanno la capacità di entrare in una trance celeste, anziché dormire. Questo permette loro di riposare efficacemente in un breve lasso di tempo. Alcuni elfi possiedono quella che è conosciuta come una "forma mistica", che si manifesta quando un elfo si è dedicato allo studio o alla protezione del mondo naturale così profondamente che la sua forma fisica cambia. Queste caratteristiche possono includere lentiggini celestiali, la presenza di foglie, viticci o fiori tra i capelli, occhi che brillano come fuoco e altro ancora. A volte questi tratti sono ereditari, ma se un elfo cambia ambiente o focus magico, il suo aspetto cambia nel tempo. Poiché gli elfi vivono per circa 350 anni, queste caratteristiche possono cambiare più di una volta nel corso della loro vita.
 - **Origine**: Antichi custodi dei sentieri tra i mondi, sopravvissuti alla dissoluzione dei piani. La loro essenza è intrinsecamente legata alle correnti residue di magia che permeano ancora Nebvarasa.

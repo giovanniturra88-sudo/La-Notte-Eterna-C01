@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[ribbet_pic.png|319]]
+![](../../../04_Risorse/Pictures/ribbet_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I Ribbet assomigliano a rane antropomorfe con occhi sporgenti e mani e piedi palmati. Hanno una pelle liscia (anche se a volte verrucosa) e umida e occhi posizionati su entrambi i lati della testa. Alcuni Ribbet hanno zampe posteriori più lunghe del doppio del torso, mentre altri hanno arti corti. Indipendentemente dalle loro dimensioni (che variano da circa 90 cm a 135 cm), i Ribbet si muovono principalmente saltando. Tutti i Ribbet hanno arti palmati, che permettono loro di nuotare con facilità. Alcuni Ribbet possiedono un mimetismo naturale verde e marrone, mentre altri sono dai colori vivaci con motivi audaci. Indipendentemente dal loro aspetto, tutti i Ribbet nascono da uova deposte in acqua, si schiudono in girini e, dopo circa 6-7 anni, crescono fino a diventare anfibi in grado di muoversi sulla terraferma. I Ribbet vivono per circa 100 anni.
 - **Origine**: Creature anfibie native delle cisterne, delle fognature corrose e delle zone umide di Neir. I Ribbet si sono adattati a un ambiente saturo di residui alchemici e umidità perenne, sviluppando una biologia che trasforma la corruzione ambientale in una forma di energia vitale.

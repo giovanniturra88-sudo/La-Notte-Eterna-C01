@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[orchi_pic.png|312]]
+![](../../../04_Risorse/Pictures/orchi_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Gli orchi sono umanoidi facilmente riconoscibili per i loro tratti squadrati e le zanne simili a quelle di un cinghiale che sporgono dalla mascella inferiore. Le zanne hanno dimensioni variabili e, sebbene sporgano dalla bocca, non vengono utilizzate per mangiare. Molti orchi, invece, scelgono di decorarle con ornamenti elaborati. Gli orchi vivono in genere 125 anni e, a meno che non vengano modificate, le loro zanne continuano a crescere per tutta la vita. Le loro orecchie sono appuntite e i capelli e la pelle hanno tipicamente tonalità verdi, blu, rosa o grigie. Gli orchi tendono ad avere una corporatura muscolosa e la loro altezza media varia da 1,50 a 2 metri.
 - **Origine**: Gli Orchi di Nebvarasa non sono semplici predoni, ma sopravvissuti estremi provenienti dalle terre oltre i confini di Neir. Hanno forgiato la loro cultura attorno alla resistenza fisica e alla capacità di prosperare dove le risorse sono pressoché inesistenti. Ogni loro cicatrice è una mappa delle battaglie vinte contro la Notte Eterna.

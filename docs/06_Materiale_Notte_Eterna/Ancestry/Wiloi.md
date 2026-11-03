@@ -4,7 +4,7 @@ type:
 source: La Notte Eterna
 ---
 
-![[wiloi_pic.png]]
+![](../../../04_Risorse/Pictures/wiloi_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Hanno un'altezza che varia tra 1,8 e 2 m. I loro occhi sono perennemente avvolti da una patina luminosa che riflette il loro innato legame con la magia; le mani lunghe e sottili si prestano magnificamente ad attività musicali e di studio, meno a lavori di fatica e al combattimento fisico.
 - **Origine**: Originari del mondo di Yolam'hra, i wiloi sono i diretti discendenti dei grandi evocatori della Città delle Sette Rune. Esuli provenienti da un mondo lontano e ormai perduto, giunti su Nebvarasa attraverso portali instabili durante la Grande Caduta. Sono creature che portano nel sangue il ricordo di cieli non oscurati, il che li rende profondamente malinconici ma tenaci.

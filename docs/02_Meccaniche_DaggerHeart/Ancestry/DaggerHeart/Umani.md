@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[umani_pic.png|269]]
+![](../../../04_Risorse/Pictures/umani_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Gli esseri umani sono facilmente riconoscibili per le loro mani agili, le orecchie arrotondate e i corpi robusti, adatti alla resistenza. La loro altezza media varia da poco meno di 1,5 metri a circa 2 metri. Hanno una corporatura molto varia, con alcuni piuttosto robusti, altri agili e molti che si collocano in una posizione intermedia. Gli esseri umani sono fisicamente adattabili e si adattano a climi rigidi con relativa facilità. In generale, gli esseri umani vivono fino a circa 100 anni, con cambiamenti fisici significativi tra la giovinezza e la vecchiaia.
 - **Origine**: Gli abitanti di Neir. In un mondo dove il sole è stato rubato e la realtà si sta sgretolando, gli umani sono la razza che più di ogni altra cerca di mantenere ordine, commercio e strutture di potere. La loro resilienza non è magica, ma frutto di una testarda volontà di non scomparire nel Vuoto.

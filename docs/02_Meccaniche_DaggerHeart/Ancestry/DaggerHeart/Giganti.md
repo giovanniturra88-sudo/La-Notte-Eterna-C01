@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[giganti_pic.png|344]]
+![](../../../04_Risorse/Pictures/giganti_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I giganti sono umanoidi imponenti con spalle larghe, braccia lunghe e da uno a tre occhi. I giganti adulti hanno un'altezza che varia da 2 metri a 2,5 metri e sono naturalmente muscolosi, indipendentemente dalla corporatura. Sono facilmente riconoscibili per la loro struttura ampia e le braccia e il collo allungati. Sebbene possano avere fino a tre occhi, tutti i giganti nascono senza e rimangono ciechi per il primo anno di vita. Fino a quando un gigante non raggiunge i 10 anni e le sue caratteristiche non si sviluppano completamente, la conformazione dei suoi occhi può variare. Quelli con un solo occhio sono comunemente noti come ciclopi. La durata media della vita di un gigante è di circa 75 anni.
 - **Origine**: Discendenti dei "Costruttori di Pilastri", creature titaniche che un tempo sorreggevano la volta del mondo. La loro statura è una reliquia di un'epoca di gloria, ora compressa dalla densità della Notte Eterna.

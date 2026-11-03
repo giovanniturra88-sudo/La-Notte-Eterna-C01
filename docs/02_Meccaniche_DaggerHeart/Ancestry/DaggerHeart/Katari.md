@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[katari_pic.png|298]]
+![](../../../04_Risorse/Pictures/katari_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I Katari sono umanoidi felini con artigli retrattili, pupille a fessura verticale e orecchie alte e triangolari. Possono anche avere piccoli canini appuntiti, pelliccia morbida e lunghi baffi che li aiutano nella percezione e nell'orientamento. Le loro orecchie possono ruotare di quasi 180 gradi per rilevare i suoni, arricchendo ulteriormente i loro sensi. I Katari possono avere un aspetto più o meno felino o umanoide, con caratteristiche feline come pelo, baffi e muso. Circa metà della popolazione di Katari ha la coda. La loro pelle e la loro pelliccia presentano un'ampia gamma di tonalità e motivi, tra cui colori uniti, tonalità calico, strisce tigrate e una varietà di macchie, chiazze, marmorizzazioni o fasce. La loro altezza varia da circa 90 cm a 2 metri e vivono fino a circa 150 anni.
 - **Origine**: Felinoidi predatori originari delle distese crepuscolari che circondano Neir. Evolutisi per cacciare in condizioni di oscurità assoluta, i Katari si sono adattati alla vita tra le rovine sfruttando i loro sensi sovrumani e una mobilità che rasenta il soprannaturale.

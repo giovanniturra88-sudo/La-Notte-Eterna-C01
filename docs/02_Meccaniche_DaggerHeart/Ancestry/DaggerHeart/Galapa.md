@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[galapa_pic.png|314]]
+![](../../../04_Risorse/Pictures/galapa_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Le galapa assomigliano a tartarughe antropomorfe con grandi gusci a cupola in cui possono ritirarsi. In media, la loro altezza varia da 1,2 a 1,8 metri e la forma della testa e del corpo può assomigliare a qualsiasi tipo di tartaruga. Le galapa presentano una varietà di tonalità terrose, il più delle volte sfumature di verde e marrone, e possiedono motivi unici sui loro gusci. I membri di questa stirpe possono ritrarre la testa, le braccia e le gambe nel guscio per proteggersi e usarlo come scudo naturale quando sono necessarie misure difensive. Alcuni aumentano la resistenza o l'aspetto del loro guscio applicando armature o intagliando disegni unici, ma il processo è estremamente doloroso. La maggior parte delle galapa si muove lentamente indipendentemente dall'età e può vivere circa 150 anni.
 - **Origine**: Discendenti di creature millenarie che si sono rifugiate nelle caverne corrose durante la Grande Caduta. La loro biologia si è evoluta per rallentare il metabolismo, permettendo loro di sopravvivere in ambienti dove il tempo e le risorse sono scarsi.
