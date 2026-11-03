@@ -13,12 +13,12 @@ owner_class: Qualsiasi sottoclasse con tratto di lancio
 
 # 🐾 Yamyam (Compagno Wiloi)
 
-Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabel]], ammirando gli ologrammi che raffigurano le gesta dei più grandi incantatori *nüeth*, alcuni sopravvissuti alla distruzione della Città delle Sette Rune. Tra fuoco, fiamme e meraviglie arcane vi sembra di scorgere un particolare ricorrente. Vi avvicinate per guardare meglio, non c'è dubbio: quelle non sono ombre, ma **[[docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam]]**, frammenti di anima materializzati in corpicini arruffati, immancabili famigli di ogni [[06_Materiale_Notte_Eterna/Ancestry/Wiloi]] che si rispetti. La storia è raccontata da uomini e donne di potere, ma a fare spesso la differenza anche nelle situazioni più disperate sono i loro servitori più fidati.
+Passeggiate tra le sale della [[Casa dei Musici e delle Belle Arti]] di [[Azkabel]], ammirando gli ologrammi che raffigurano le gesta dei più grandi incantatori *nüeth*, alcuni sopravvissuti alla distruzione della Città delle Sette Rune. Tra fuoco, fiamme e meraviglie arcane vi sembra di scorgere un particolare ricorrente. Vi avvicinate per guardare meglio, non c'è dubbio: quelle non sono ombre, ma **[[Yamyam]]**, frammenti di anima materializzati in corpicini arruffati, immancabili famigli di ogni [[Wiloi]] che si rispetti. La storia è raccontata da uomini e donne di potere, ma a fare spesso la differenza anche nelle situazioni più disperate sono i loro servitori più fidati.
 
 > *«Prendetevi cura di loro e avrete cura di voi stessi. Vi guarderanno le spalle in luoghi sconosciuti e lontani, saranno il vostro supporto in giorni bui e angosciosi.»*
-> — **I Draghi di Yolamhra ai [[docs/06_Materiale_Notte_Eterna/Ancestry/Wiloi]] prima della partenza per [[Neir]]**
+> — **I Draghi di Yolamhra ai [[Wiloi]] prima della partenza per [[Neir]]**
 
-Gli yamyam sono estensioni dell'anima dei [[docs/06_Materiale_Notte_Eterna/Ancestry/Wiloi]]. Sono la feature *Anima Gemella* della loro ancestry e si comandano con il Tiro di Incantesimo. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole del possessore.
+Gli yamyam sono estensioni dell'anima dei [[Wiloi]]. Sono la feature *Anima Gemella* della loro ancestry e si comandano con il Tiro di Incantesimo. Non appena viene evocato, lo yamyam assume l'aspetto di una creatura che somiglia vagamente a un mammifero terrestre. Col tempo acquisisce varie abilità e assume un aspetto adorabile o spaventoso, a seconda dell'indole del possessore.
 
 ---
 
