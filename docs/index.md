@@ -1,34 +1,54 @@
----
-type: Indice
----
+# 🌑 La Notte Eterna — Vault DaggerHeart
 
-# 🌑 Benvenuto nel Vault "La Notte Eterna"
+Vault Obsidian per la campagna **"La Notte Eterna"**, giocata con il sistema **DaggerHeart**.
 
-Questo vault Obsidian è dedicato alla campagna **La Notte Eterna**, giocata con il sistema **DaggerHeart**.
+## 🎯 Scopo
 
-## 📖 Cosa Troverai Qui
+Questo vault raccoglie tutto il materiale necessario per gestire la campagna:
 
-- **Lore completa** del mondo di gioco (cosmologia, divinità, geografia, razze, cronologia)
-- **Meccaniche DaggerHeart** ufficiali e materiale homebrew adattato
-- **Dashboard del Master** con indici di luoghi, PNG e artefatti
-- **Documento di campagna** con storyline e sessioni
+- **Lore e ambientazione** del mondo di gioco
+- **Meccaniche e regole** del sistema DaggerHeart
+- **Materiale homebrew** adattato da DnD a DaggerHeart
+- **Strumenti di gestione** per il Master (dashboard, sessioni, storyline)
 
-## 🚀 Inizia da Qui
+## 📁 Struttura delle Cartelle
 
-1. **[[00_Dashboard/Home]]** → Dashboard principale della campagna
-2. **[[03_Campagna/La Notte Eterna]]** → Documento di campagna
-3. **[[README]]** → Guida alla struttura del vault
+| Cartella                     | Contenuto                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------ |
+| `00_Dashboard/`              | Dashboard, indici e strumenti di gestione della campagna                       |
+| `02_Meccaniche_Daggerheart/` | **Materiale ufficiale del sistema DaggerHeart** (regole, classi, armi, nemici) |
+| `04_Risorse/`                | Immagini e template riutilizzabili                                             |
+| `06_Materiale_Notte_Eterna/` | **Materiale homebrew della campagna**, adattato da DnD a DaggerHeart           |
 
-## 📁 Struttura Essenziale
+## 🔑 Distinzione Fondamentale: `02` vs `06`
 
-| Cartella | Contenuto |
+- **`02_Meccaniche_Daggerheart/`** → Materiale **ufficiale** del gioco DaggerHeart. È il riferimento di sistema: non va modificato.
+- **`06_Materiale_Notte_Eterna/`** → Materiale **della campagna**, creato dal Master e adattato da DnD a DaggerHeart. È il contenuto homebrew che va consultato per le partite.
+
+> ⚠️ **Regola**: se un contenuto è ufficiale DaggerHeart, va in `02`. Se è un adattamento o una creazione per la campagna, va in `06`.
+
+## 🗂️ Convenzioni di Denominazione
+
+- **Lingua**: tutti i nomi di file e note in **italiano**
+- **Formato**: `Nome della Nota.md` (spazi e capitalizzazione standard)
+- **Evitare**: acronimi, codici, doppie lingue (es. `Shadow Hunter.md` → `Cacciatore delle Ombre.md`)
+
+## 🧩 Template Disponibili
+
+I template si trovano in `04_Risorse/Templates/`:
+
+| Template | Uso |
 |---|---|
-| `00_Dashboard/` | Dashboard e indici |
-| `01_Lore/` | Ambientazione e lore |
-| `02_Meccaniche_Daggerheart/` | Regole ufficiali |
-| `03_Campagna/` | Documento di campagna e sessioni |
-| `06_Materiale_Notte_Eterna/` | Homebrew della campagna |
+| `Template Ancestry.md` | Creazione di una nuova Ancestry |
+| `Template Avversario.md` | Creazione di un nemico/avversario |
+| `Template Scena.md` | Creazione di una scena di gioco |
 
-> 💡 **Suggerimento**: usa i template in `04_Risorse/Templates/` per creare nuovo materiale in modo coerente.
+## 🔗 Link e Frontmatter
 
-Buon gioco! 🎲
+- Tutti i collegamenti tra note usano la sintassi Obsidian `Nome Nota`
+- Ogni nota dovrebbe avere un frontmatter YAML con `type` e, se necessario, `aliases`
+
+## 🚀 Per Iniziare
+
+1. Apri `00_Dashboard/Home.md` per il dashboard principale
+2. Usa i template in `04_Risorse/Templates/` per creare nuovo materiale
