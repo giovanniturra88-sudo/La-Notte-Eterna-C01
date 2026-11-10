@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+L'Università delle Scienze è l'equivalente razionale dell'[[Accademia Magica di Nü]]. Prima della Notte Eterna, l'università si occupava di studiare sostanze quali fissativi per facilitare e migliorare il lavoro degli artigiani. Adesso, gli scienziati si occupano prevalentemente di scoprire e magari creare in laboratorio delle specie vegetali in grado di sopravvivere a un mondo freddo e senza sole, non disdegnando l'uso dell'alchimia. Professori e studenti si sono già resi protagonisti di importanti invenzioni quali l'albero di Yug, così chiamato in onore al suo creatore, un brillante scienziato originario di [[Daragoss]]. Alla sua morte, il Consiglio dei Tre fece innalzare una statua di pietra in onore del grande inventore: la statua è posta nel campus universitario e raffigura un giovane Yug che accudisce un alberello.

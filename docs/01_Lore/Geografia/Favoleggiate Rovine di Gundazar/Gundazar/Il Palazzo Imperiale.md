@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+Dimora dell'Imperatrice Desea e dei suoi miserabili servitori, il Palazzo Imperiale è il simbolo dell'odierna e tenebrosa Gundazar. Non esiste luogo su Neir che abbia visto passare tante teste coronate, uomini e donne famosi, ricchi e potenti, quanto il millenario Palazzo Imperiale. Entrando, è facile immaginare pareti tappezzate da splendidi arazzi, pavimenti in lucido marmo, pregiate statue bronzee, lucernari d'oro tempestati di pietre preziose... Ma della magnificenza di questo antico edificio è rimasto ben poco. Oggi, i suoi portici sono desolati, le sue terme colme di acqua putrida, i suoi giardini appassiti e i suoi saloni bui, sporchi e polverosi. Tuttavia, il Palazzo Imperiale preserva un certo fascino decadente, un alone di regalità morente, ma non ancora svanita.

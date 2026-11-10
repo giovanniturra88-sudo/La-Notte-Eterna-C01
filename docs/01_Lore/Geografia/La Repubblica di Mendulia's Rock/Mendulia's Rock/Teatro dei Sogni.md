@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+Questo elegante edificio abbonda di meravigliosi motivi floreali lungo tutta la sua struttura, marchio inequivocabile della civiltà Dor. Il Teatro è situato nella parte vecchia della città e ospita la rinomata compagnia teatrale dei "Musici dell'Imperatore". Questa compagnia si è mantenuta fedele ai modelli artistici del Vecchio Impero; negli ultimi anni è stata però obbligata a rinnovare il proprio repertorio per non incorrere nel rischio di esaurire il materiale a disposizione. La responsabile artistica del teatro è Kylia, una giovane e intraprendente halfling. È stata lei ad apportare i primi, fondamentali cambiamenti e sebbene non intenda rinunciare ai capolavori degli antichi è seriamente intenzionata a rinfrescare il repertorio della compagnia, non senza creare qualche malumore tra alcuni degli attori.

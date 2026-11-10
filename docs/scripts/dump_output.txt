@@ -1,0 +1,1681 @@
+
+============================================================
+FOLDER: 02_Meccaniche_DaggerHeart/Items/DaggerHeart
+============================================================
+
+--- FILE: Airblade Charm.md ---
+---
+type:
+  - "[[Item]]"
+---
+
+# Amuleto della Lame d'Aria
+
+**_Amuleto della Lame d'Aria_**
+
+Puoi fissare questo amuleto a un'arma con il tratto gittata Corpo a Corpo. Tre volte per riposo, puoi attivare l'amuleto per effettuare un attacco a gittata Vicina invece che Corpo a Corpo.
+
+--- FILE: Alistairs Torch.md ---
+---
+type:
+  - "[[Item]]"
+---
+
+# Torcia di Alistair
+
+**_Item_**
+
+Puoi accendere questa torcia magica a piacimento. La luce della fiamma riempie uno spazio molto più grande di quanto dovrebbe, abbastanza da illuminare una caverna chiara come il giorno.
+
+--- FILE: Arcane Cloak.md ---
+---
+type:
+  - "[[Item]]"
+---
+
+# Mantello Arcano
+
+**_Item_**
+
+Una creatura con il tratto Incantesimo che indossa questo mantello può regolare colore, consistenza e dimensioni a piacimento.
+
+--- FILE: Arcane Prism.md ---
+---
+type:
+  - "[[Item]]"
+---
+
+# Prisma Arcano
+
+**_Item_**
+
+Posiziona questo prisma in un luogo a tua scelta e attivalo. Tutti gli alleati entro gittata Vicina da esso ottengono un bonus di +1 ai loro Tiri di Incantesimo. Mentre è attivo, il prisma non può essere spostato. Una volta disattivato, non può essere riattivato fino al tuo prossimo riposo lungo.
+
+--- FILE: Attune Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Attune Relic
+
+**_Item_**
+
+You gain a +1 bonus to your Instinct. You can only carry one relic.
+
+
+--- FILE: Bag of Ficklesand.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Sacca di Sabbia Volubile
+
+**_Item_**
+
+Puoi convincere questa piccola sacca di sabbia a diventare molto più pesante o leggera con un Tiro di Presenza riuscito (10). Inoltre, con un Tiro di Finezza riuscito (10), puoi soffiare un po' di sabbia sul viso di un bersaglio per renderlo temporaneamente Vulnerabile.
+
+--- FILE: Belt of Unity.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Cintura dell'Unità
+
+**_Item_**
+
+Una volta per sessione, puoi spendere 5 Speranza per guidare un Tiro di Squadra con tre PG invece di due.
+
+--- FILE: Bloodstone.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Pietra del Sangue
+
+**_Item_**
+
+Puoi fissare questa pietra a un'arma che non ha già una caratteristica. L'arma ottiene la seguente caratteristica. Brutale: Quando ottieni il valore massimo su un dado di danno, tira un dado di danno aggiuntivo.
+
+--- FILE: Bolster Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Reliquia del Rinforzo
+
+**_Item_**
+
+Ottieni un bonus di +1 alla tua Forza. Puoi trasportare una sola reliquia.
+
+--- FILE: Box of Many Goods.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Scatola di Molte Cose
+
+**_Item_**
+
+Una volta per riposo lungo, puoi aprire questa piccola scatola e tirare un d12. Con un risultato di 1-6, è vuota. Con un risultato di 7-10, contiene un consumabile comune casuale. Con un risultato di 11-12, contiene due consumabili comuni casuali.
+
+--- FILE: Calming Pendant.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Ciondolo Calmante
+
+**_Item_**
+
+Quando stai per segnare il tuo ultimo Stress, tira un d6. Con un risultato di 5 o superiore, non lo segnare.
+
+--- FILE: Charging Quiver.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Faretra Caricante
+
+**_Item_**
+
+Quando hai successo su un attacco con una freccia conservata in questa faretra, ottieni un bonus al tiro di danno pari al tuo grado attuale.
+
+--- FILE: Charm Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Reliquia del Fascino
+
+**_Item_**
+
+Ottieni un bonus di +1 alla tua Presenza. Puoi trasportare una sola reliquia.
+
+--- FILE: Clay Companion.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Compagno d'Argilla
+
+**_Item_**
+
+Quando scolpisci questa palla di argilla in un compagno animale d'argilla, si comporta come quell'animale. Per esempio, un ragno d'argilla può tessere ragnatele d'argilla, mentre un uccello d'argilla può volare. Il compagno d'argilla conserva memoria e identità attraverso forme diverse, ma può adottare nuovi modi di fare con ogni forma.
+
+--- FILE: Companion Case.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Custodia per Compagno
+
+**_Item_**
+
+Questa custodia può contenere un piccolo compagno animale. Mentre il compagno è dentro, l'animale e la custodia sono immuni a tutti i danni e agli effetti dannosi.
+
+--- FILE: Control Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Control Relic
+
+**_Item_**
+
+You gain a +1 bonus to your Finesse. You can only carry one relic.
+
+
+--- FILE: Corrector Sprite.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Spiritello Correttore
+
+**_Item_**
+
+Questo minuscolo spiritello si posiziona nella curva del tuo condotto uditivo e sussurra consigli utili durante il combattimento. Una volta per riposo breve, puoi ottenere vantaggio su un tiro per colpire.
+
+--- FILE: Dual Flask.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Fiaschetta Doppia
+
+**_Item_**
+
+Questa fiaschetta può contenere due liquidi diversi. Puoi passare da uno all'altro capovolgendo un piccolo interruttore sul lato della fiaschetta.
+
+--- FILE: Elusive Amulet.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Elusive Amulet
+
+**_Item_**
+
+Once per long rest, you can activate this amulet to become Hidden until you move. While Hidden in this way, you remain unseen even if an adversary moves to where they would normally see you.
+
+
+--- FILE: Empty Chest.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Empty Chest
+
+**_Item_**
+
+This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.
+
+
+--- FILE: Enlighten Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Enlighten Relic
+
+**_Item_**
+
+You gain a +1 bonus to your Knowledge. You can only carry one relic.
+
+
+--- FILE: Explosive Rounds.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Cartucce Esplosive
+
+**_Item_**
+
+Quando usi queste munizioni, un attacco che colpisce infligge 1 danno extra a ogni creatura adiacente al bersaglio.
+
+--- FILE: Fire Jar.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Fire Jar
+
+**_Item_**
+
+You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest.
+
+
+--- FILE: Flickerfly Pendant.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Flickerfly Pendant
+
+**_Item_**
+
+While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.
+
+
+--- FILE: Gecko Gloves.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Guanti da Geco
+
+**_Item_**
+
+Quando indossi questi guanti, ottieni velocità di scalata pari alla tua velocità di movimento.
+
+--- FILE: Gem of Alacrity.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Alacrity
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon.
+
+
+--- FILE: Gem of Audacity.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Audacity
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Presence when making an attack with that weapon.
+
+
+--- FILE: Gem of Insight.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Insight
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Instinct when making an attack with that weapon.
+
+
+--- FILE: Gem of Might.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Might
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Strength when making an attack with that weapon.
+
+
+--- FILE: Gem of Precision.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Precision
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Finesse when making an attack with that weapon.
+
+
+--- FILE: Gem of Sagacity.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Gem of Sagacity
+
+**_Item_**
+
+You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon.
+
+
+--- FILE: Glamour Stone.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Glamour Stone
+
+**_Item_**
+
+Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion.
+
+
+--- FILE: Glider.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Glider
+
+**_Item_**
+
+While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground.
+
+
+--- FILE: Greatstone.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Greatstone
+
+**_Item_**
+
+You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. Powerful: On a successful attack, roll an additional damage die and discard the lowest result.
+
+
+--- FILE: Homing Compasses.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Bussole Guidanti
+
+**_Item_**
+
+Queste due bussole puntano l'una verso l'altra, non importa quanto siano distanti.
+
+--- FILE: Honing Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Honing Relic
+
+**_Item_**
+
+You gain a +1 bonus to an Experience of your choice. You can only carry one relic.
+
+
+--- FILE: Hopekeeper Locket.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Hopekeeper Locket
+
+**_Item_**
+
+During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re‑imbued before it can be used this way again.
+
+
+--- FILE: Infinite Bag.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Infinite Bag
+
+**_Item_**
+
+When you store items in this bag, they are kept in a pocket dimension that never runs out of space. You can retrieve an item at any time.
+
+
+--- FILE: Lakestrider Boots.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Lakestrider Boots
+
+**_Item_**
+
+You can walk on the surface of water as if it were soft ground.
+
+
+--- FILE: Lorekeeper.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Lorekeeper
+
+**_Item_**
+
+You can store the name and details of up to three hostile creatures inside this book. You gain a +1 bonus to action rolls against those creatures.
+
+
+--- FILE: Manacles.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Manacles
+
+**_Item_**
+
+This pair of locking cuffs comes with a key.
+
+
+--- FILE: Minor Health Potion Recipe.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Minor Health Potion Recipe
+
+**_Item_**
+
+As a downtime move, you can use a vial of blood to craft a Minor Health Potion.
+
+
+--- FILE: Minor Stamina Potion Recipe.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Minor Stamina Potion Recipe
+
+**_Item_**
+
+As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion.
+
+
+--- FILE: Mythic Dust Recipe.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Mythic Dust Recipe
+
+**_Item_**
+
+As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.
+
+
+--- FILE: Paragons Chain.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Paragon’s Chain
+
+**_Item_**
+
+As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle.
+
+
+--- FILE: Phoenix Feather.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Phoenix Feather
+
+**_Item_**
+
+If you have at least one Phoenix Feather on you when you fall unconscious, you gain a +1 bonus to the roll you make to determine whether you gain a scar.
+
+
+--- FILE: Piercing Arrows.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Piercing Arrows
+
+**_Item_**
+
+Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll.
+
+
+--- FILE: Piper Whistle.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Piper Whistle
+
+**_Item_**
+
+This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.
+
+
+--- FILE: Portal Seed.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Portal Seed
+
+**_Item_**
+
+You can plant this seed in the ground to grow a portal in that spot. The portal is ready to use in 24 hours. You can use this portal to travel to any other location where you planted a portal seed. A portal can be destroyed by dealing any amount of Magic damage to it.
+
+
+--- FILE: Premium Bedroll.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Premium Bedroll
+
+**_Item_**
+
+During downtime, you automatically clear a Stress.
+
+
+--- FILE: Ring of Resistance.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Ring of Resistance
+
+**_Item_**
+
+Once per long rest, you can activate this ring after a successful attack against you to halve the damage.
+
+
+--- FILE: Ring of Silence.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Ring of Silence
+
+**_Item_**
+
+Spend a Hope to activate this ring. Your footsteps are silent until your next rest.
+
+
+--- FILE: Ring of Unbreakable Resolve.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Ring of Unbreakable Resolve
+
+**_Item_**
+
+Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.
+
+
+--- FILE: Shard of Memory.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Shard of Memory
+
+**_Item_**
+
+Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost.
+
+
+--- FILE: Skeleton Key.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Skeleton Key
+
+**_Item_**
+
+When you use this key to open a locked door, you gain advantage on the Finesse Roll.
+
+
+--- FILE: Speaking Orbs.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Speaking Orbs
+
+**_Item_**
+
+This pair of orbs allows any creatures holding them to communicate with each other across any distance.
+
+
+--- FILE: Stride Relic.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Stride Relic
+
+**_Item_**
+
+You gain a +1 bonus to your Agility. You can only carry one relic.
+
+
+--- FILE: Suspended Rod.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Suspended Rod
+
+**_Item_**
+
+This flat rod is inscribed with runes. When you activate the rod, it is immediately suspended in place. Until the rod is deactivated, it can't move, doesn't abide by the rules of gravity, and remains in place.
+
+
+--- FILE: Valorstone.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Valorstone
+
+**_Item_**
+
+You can attach this stone to armor that doesn't already have a feature. The armor gains the following feature. Resilient: Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+
+
+--- FILE: Vial of Darksmoke Recipe.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Vial of Darksmoke Recipe
+
+**_Item_**
+
+As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.
+
+
+--- FILE: Woven Net.md ---
+---
+type: 
+  - "[[Item]]"
+---
+
+# Woven Net
+
+**_Item_**
+
+You can make a Finesse Roll using this net to trap a small creature. A trapped target can break free with a successful Attack Roll (16).
+
+
+============================================================
+FOLDER: 02_Meccaniche_DaggerHeart/Items/DaggerHeart Hope and Fear
+============================================================
+
+--- FILE: Augurs_Relic.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Augurs_Relic"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 60
+---
+
+# Augur's Relic
+
+Once per long rest, you can activate your Hope feature without spending Hope. You can carry only one relic.
+
+
+--- FILE: Ball_Bearings.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Ball_Bearings"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 3
+---
+
+# Ball Bearings
+
+This pouch contains perfectly smooth metal spheres.
+
+
+--- FILE: Blackwing_Quill.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Blackwing_Quill"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 9
+---
+
+# Blackwing Quill
+
+This writing quill never runs out of ink or needs to be sharpened.
+
+
+--- FILE: Boots_of_Supple_Mystique.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Boots_of_Supple_Mystique"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 18
+---
+
+# Boots of Supple Mystique
+
+While wearing these boots, you don't leave tracks or footprints.
+
+
+--- FILE: Box_of_Dragon_Dust.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Box_of_Dragon_Dust"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 4
+---
+
+# Box of Dragon Dust
+
+This snuffbox is filled with combustible powder.
+
+
+--- FILE: Caltrops.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Caltrops"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 1
+---
+
+# Caltrops
+
+You can spread these caltrops in a Very Close area around you. A creature hastening through that area must mark a Stress.
+
+
+--- FILE: Cheaters_Coin.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Cheaters_Coin"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 28
+---
+
+# Cheater's Coin
+
+When you flip this coin, you can spend a Hope to determine which side it lands on.
+
+
+--- FILE: Collapsible_Pole.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Collapsible_Pole"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 8
+---
+
+# Collapsible Pole
+
+You can break down this 18-foot pole into six interlinked 3-foot segments.
+
+
+--- FILE: Collar_of_Ascendancy.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Collar_of_Ascendancy"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 49
+---
+
+# Collar of Ascendancy
+
+An animal who wears this collar gains the ability to speak and understand common speech.
+
+
+--- FILE: Communion_Relic.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Communion_Relic"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 59
+---
+
+# Communion Relic
+
+Once per rest, you can spend a Hope to use an ally's Experience as if it were your own. You can carry only one relic.
+
+
+--- FILE: Crucible_Frames.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Crucible_Frames"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 42
+---
+
+# Crucible Frames
+
+These eyeglasses reveal weak points in objects and creatures. Three times per rest, you can spend a Hope to gain advantage on an attack roll.
+
+
+--- FILE: Dagginaes_Obsidian_Slate.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Dagginaes_Obsidian_Slate"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 32
+---
+
+# Dagginae's Obsidian Slate
+
+This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.
+
+
+--- FILE: Eclipse_Coin.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Eclipse_Coin"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 34
+---
+
+# Eclipse Coin
+
+Once per rest, flip a coin. On heads, you gain a +1 bonus to attack rolls until your next successful attack. On tails, you gain +1 to your Evasion until an attack fails against you.
+
+
+--- FILE: Elven_Spyglass.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Elven_Spyglass"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 6
+---
+
+# Elven Spyglass
+
+You can use this spyglass to magnify your vision a hundredfold.
+
+
+--- FILE: Enchanters_Loupe.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Enchanters_Loupe"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 26
+---
+
+# Enchanter's Loupe
+
+You can use this loupe to see through illusions and enchantments.
+
+
+--- FILE: Eschers_Mirrorball.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Eschers_Mirrorball"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 27
+---
+
+# Escher's Mirrorball
+
+Once per long rest, you can command this fist-sized silver orb to capture an omnidirectional image of its surroundings on its surface. This image lasts until your next long rest.
+
+
+--- FILE: Force_Disc.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Force_Disc"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 45
+---
+
+# Force Disc
+
+This shimmering two-dimensional disc of magical force has a 4-foot diameter and is magically tethered to a pebble. The disc always floats 3 feet north of, and at the same elevation as, the pebble. The pebble has a mass equal to one-hundredth of the total mass carried by the disc.
+
+
+--- FILE: Furball_Bag.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Furball_Bag"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 24
+---
+
+# Furball Bag
+
+Once per rest, you can produce 2d20 harmless, cat-sized fur creatures of indeterminate origin and species from this bag.
+
+
+--- FILE: Gadimans_Backpack.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Gadimans_Backpack"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 33
+---
+
+# Gadiman's Backpack
+
+Once per rest, you can spend a Hope to conjure a mundane item up to a cubic foot in size inside this satchel.
+
+
+--- FILE: Ghoulskin_Gloves.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Ghoulskin_Gloves"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 36
+---
+
+# Ghoulskin Gloves
+
+When you attack with a physical weapon while wearing these gloves, the damage is considered both physical and magic.
+
+
+--- FILE: Gloves_of_Alacrity.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Gloves_of_Alacrity"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 37
+---
+
+# Gloves of Alacrity
+
+When you would mark a Stress to reload a weapon, you don't mark it.
+
+
+--- FILE: Gourmet_Granules.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Gourmet_Granules"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 7
+---
+
+# Gourmet Granules
+
+This savory powder makes any food it's sprinkled on delicious and healthy, no matter how bland or rotten it is.
+
+
+--- FILE: Grapnel.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Grapnel"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 2
+---
+
+# Grapnel
+
+You gain advantage on action rolls to climb sheer surfaces.
+
+
+--- FILE: Gravewardens_Bell.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Gravewardens_Bell"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 29
+---
+
+# Gravewarden's Bell
+
+This bell rings when a ghost or undead creature moves within Far range of it.
+
+
+--- FILE: Heros_Helm.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Heros_Helm"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 51
+---
+
+# Hero's Helm
+
+When you critically succeed on an attack, all allies within Close range gain a Hope.
+
+
+--- FILE: Hollowbark_Horn.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Hollowbark_Horn"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 13
+---
+
+# Hollowbark Horn
+
+You can blow this horn to summon a small woodland creature to perform a simple task.
+
+
+--- FILE: Insomniacs_Periapt.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Insomniacs_Periapt"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 38
+---
+
+# Insomniac's Periapt
+
+When you take a rest without clearing Hit Points or Stress, you gain a +2 bonus to attack and damage rolls until your next rest.
+
+
+--- FILE: Iron_Dagger_Pendant.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Iron_Dagger_Pendant"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 48
+---
+
+# Iron Dagger Pendant
+
+Once per long rest, you can spend a Hope to tell the pendant a creature's name. The pendant gently pulls you toward that creature's current location until your next long rest.
+
+
+--- FILE: Iron_Veil.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Iron_Veil"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 23
+---
+
+# Iron Veil
+
+This chain-link head covering renders the wearer invisible to fey creatures.
+
+
+--- FILE: Kingfishers_Net.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Kingfishers_Net"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 21
+---
+
+# Kingfisher's Net
+
+Once per long rest, you can use this net to scoop one live fish out of any amount of water, no matter how unlikely it is for that water to have fish in it.
+
+
+--- FILE: Knockback_Bracelets.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Knockback_Bracelets"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 44
+---
+
+# Knockback Bracelets
+
+On a successful weapon attack, you can knock your target back up to Close range from their location.
+
+
+--- FILE: Loaded_Dice.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Loaded_Dice"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 12
+---
+
+# Loaded Dice
+
+You can choose what result this set of weighted dice rolls with a successful Finesse Roll (14). If you roll with Fear, anyone watching knows the dice are loaded.
+
+
+--- FILE: Mandragorian_Torch.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Mandragorian_Torch"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 17
+---
+
+# Mandragorian Torch
+
+This torch gives off light only the bearer can see.
+
+
+--- FILE: Map_of_Revelation.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Map_of_Revelation"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 31
+---
+
+# Map of Revelation
+
+You can attune this map to one creature at a time. The map always shows the attuned creature's location.
+
+
+--- FILE: Molepaw_Mittens.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Molepaw_Mittens"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 46
+---
+
+# Molepaw Mittens
+
+Spend a Hope to swim through earth as if it were water for the next 10 minutes.
+
+
+--- FILE: Namers_Oracle.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Namers_Oracle"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 41
+---
+
+# Namer's Oracle
+
+Once per session, you can roll this set of runic dice to reveal the full name of the last person you touched.
+
+
+--- FILE: Nighthawkers_Ring.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Nighthawkers_Ring"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 5
+---
+
+# Nighthawker's Ring
+
+Spend a Hope to activate the gemstone in this ring until the end of the scene. While active, the gemstone changes color to indicate the wearer's proximity to hidden treasure: warm colors for near, cool colors for far.
+
+
+--- FILE: Phobophages_Circlet.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Phobophages_Circlet"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 55
+---
+
+# Phobophage's Circlet
+
+When the GM spends a Fear, roll a d4. Once per scene on a result of 4, you clear a Stress.
+
+
+--- FILE: Portal_Frames.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Portal_Frames"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 58
+---
+
+# Portal Frames
+
+This pair of small ornate frames, one red and one blue, are connected. Anything that passes into one exits from the other.
+
+
+--- FILE: Quillshawl.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Quillshawl"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 56
+---
+
+# Quillshawl
+
+If an adversary attacks you within Melee range, they must succeed on a Reaction Roll (12) or mark a Hit Point.
+
+
+--- FILE: Reliquary_of_the_Sightless_Saint.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Reliquary_of_the_Sightless_Saint"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 30
+---
+
+# Reliquary of the Sightless Saint
+
+You gain a +1 bonus to your Hope Die when you make the Risk It All death move.
+
+
+--- FILE: Returning_Ring.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Returning_Ring"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 20
+---
+
+# Returning Ring
+
+When you throw your primary weapon while wearing this ring, the weapon appears in your hand immediately after the attack.
+
+
+--- FILE: Rings_of_Alliance.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Rings_of_Alliance"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 54
+---
+
+# Rings of Alliance
+
+Two creatures can wear this pair of rose gold rings. Once per session, you can initiate a Tag Team Roll with whoever is wearing the other ring without spending Hope or counting against your session limit for Tag Team Rolls.
+
+
+--- FILE: Rings_of_Camaraderie.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Rings_of_Camaraderie"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 53
+---
+
+# Rings of Camaraderie
+
+Two creatures can wear this pair of wooden rings. You can mark the Stress of whoever is wearing the other ring (with their permission) as if it were your own.
+
+
+--- FILE: Rings_of_Friendship.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Rings_of_Friendship"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 52
+---
+
+# Rings of Friendship
+
+Two creatures can wear this pair of rings shaped like coiled snakes. You can spend the Hope of whoever is wearing the other ring (with their permission) as if it were your own.
+
+
+--- FILE: Self-Tying_Rope.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Self-Tying_Rope"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 14
+---
+
+# Self-Tying Rope
+
+You can command this rope to tie or untie itself.
+
+
+--- FILE: Silees_Folding_Knife.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Silees_Folding_Knife"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 10
+---
+
+# Silee's Folding Knife
+
+This 3-inch blade has an edge that easily cuts through anything except the handle it's stored in.
+
+
+--- FILE: Sorcerers_Hat.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Sorcerers_Hat"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 35
+---
+
+# Sorcerer's Hat
+
+This conical blue hat is covered in silver stars. Once per rest, you can cast a spell from your vault with a Recall Cost equal to or less than your tier. This doesn't work for permanently vaulted cards.
+
+
+--- FILE: Soul-Twin_Circlets.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Soul-Twin_Circlets"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 40
+---
+
+# Soul-Twin Circlets
+
+Two creatures can wear this pair of circlets. You can spend a Hope to switch places with whoever is wearing the other circlet.
+
+
+--- FILE: Temporal_Sanctuary.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Temporal_Sanctuary"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 50
+---
+
+# Temporal Sanctuary
+
+A PC who takes a rest in the temporal sanctuary can choose an additional downtime move.
+
+
+--- FILE: Thiefs_Compass.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Thiefs_Compass"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 15
+---
+
+# Thief's Compass
+
+This compass points the way toward the nearest exit while indoors and the closest entrance while outdoors.
+
+
+--- FILE: Timekeepers_Pendant.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Timekeepers_Pendant"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 47
+---
+
+# Timekeeper's Pendant
+
+You can choose an additional downtime move each rest.
+
+
+--- FILE: Titans_Girdle.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Titans_Girdle"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 22
+---
+
+# Titan's Girdle
+
+Once per scene, you can activate this girdle to gain a +1 bonus to your Proficiency for your next attack.
+
+
+--- FILE: Travelers_Bell.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Travelers_Bell"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 16
+---
+
+# Traveler's Bell
+
+Once per long rest, you can ring this bell to magically open the shortest safe path through rough terrain for 1 hour.
+
+
+--- FILE: Two-Faced_Aegis_Brooch.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Two-Faced_Aegis_Brooch"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 43
+---
+
+# Two-Faced Aegis Brooch
+
+Once per rest, flip a coin. On heads, you become immune to the next physical damage you take. On tails, you become immune to the next magic damage you take.
+
+
+--- FILE: Warp_Pendant.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Warp_Pendant"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 57
+---
+
+# Warp Pendant
+
+Once per rest, mark a Stress to teleport to a location you can clearly see.
+
+
+--- FILE: Whisperstep_Anklet.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Whisperstep_Anklet"]
+rarity: "Discreto"
+original_rarity: "Uncommon"
+roll: 25
+---
+
+# Whisperstep Anklet
+
+This anklet makes your steps silent as long as you don't move faster than walking speed.
+
+
+--- FILE: Wildriders_Saddle.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Wildriders_Saddle"]
+rarity: "Raro"
+original_rarity: "Rare"
+roll: 39
+---
+
+# Wildrider's Saddle
+
+This saddle grants any animal it's strapped onto the ability to understand their rider's commands.
+
+
+--- FILE: Windup_Toy.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Windup_Toy"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 11
+---
+
+# Windup Toy
+
+This small mechanical device is shaped like a strixwolf pup and can be programmed to perform simple tricks.
+
+
+--- FILE: Zephyrs_Jar.md ---
+---
+type:
+  - "[[Item]]"
+alias: ["Zephyrs_Jar"]
+rarity: "Comune"
+original_rarity: "Common"
+roll: 19
+---
+
+# Zephyr's Jar
+
+You can open this empty jar during inclement weather to capture the storm and leave behind clear skies. The storm remains inside until unleashed by reopening the jar.

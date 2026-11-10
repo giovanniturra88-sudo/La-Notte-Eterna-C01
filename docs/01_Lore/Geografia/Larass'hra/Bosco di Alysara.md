@@ -1,0 +1,7 @@
+---
+type: Luogo
+---
+
+Se Melis è la più astuta, Alysara (drago verde adulto) è la più crudele delle Tre Sorelle Lussureggianti. Vent'anni fa, e all'insaputa delle sue sorelle, Alysara assunse le sembianze di una bellissima [[Elfi|elfa]] e si recò ad [[Azkabel]], nella [[Magocrazia di Nü]]. Una volta li, trovato un [[Elfi|elfo]] che giudicava degno delle sue attenzioni, lo sedusse e vi si accoppiò. Terminato il rapporto, Alysara uccise il malcapitato e tornò al suo dominio dove, qualche anno dopo, diede alla luce il mezzosangue.
+Superata la fase dell'adolescenza, Devoross (AL LM, elfo/mezzodrago verde, Mago 13) lasciò il dominio della madre per recarsi alla città di [[Mendulia's Rock]]. Tra le meraviglie e distrazioni della metropoli, le stranezze di Devoross non danno particolarmente nell'occhio, e il draconide riesce a mascherare le sue reali sembianze grazie a poteri di illusione. Tramite una sfera di cristallo Devoross aggiorna continuamente la madre sugli avvenimenti politici delle nazioni mortali. Alysara intende sfruttare queste conoscenze una volta che i draghi guardiani avranno dato via libera all'invasione di [[Neir]].
+Come per Melis, anche il dominio di Alysara deve la sua vegetazione lussureggiante ai poteri di Llira. Ma a differenza di Melis, Alysara non nutre alcuna forma di devozione nei confronti della sorella maggiore che anzi, invidia e odia profondamente.

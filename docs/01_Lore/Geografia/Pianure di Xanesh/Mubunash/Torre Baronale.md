@@ -1,0 +1,5 @@
+---
+type: Luogo
+---
+
+Questo castello ha ospitato il semidio [[Tenebris]], i numerosi governatori e i Baroni che gli sono succeduti, in una catena ininterrotta di nobili e ricchi signori che l'hanno abitata, ampliata e arricchita nel corso delle ere. Il castello ospita la corte del baronato con i suoi ministri, la guardia e la servitù. Il suo punto forte è la sala del trono, rimasta praticamente invariata dai tempi di [[Tenebris]]: le colonne, in marmo nero striato di viola, sono sorrette da diavoli alati. Il pavimento è in marmo rosso striato di nero, mentre le pareti e il soffitto della sala costituiscono un unico affresco dove figurano turbini di fiamme che formano intricate decorazioni. Nella Torre Baronale si cela uno dei numerosi passaggi segreti che conducono all'[[Oscura Chiesa di Tenebris]] e di cui si è persa conoscenza.
