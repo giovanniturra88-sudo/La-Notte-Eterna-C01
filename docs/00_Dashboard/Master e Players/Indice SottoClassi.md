@@ -35,9 +35,9 @@ code: DHC1.H4sIAAAAAAAACs1WS2_bMAz-KwPPOqzZ0nS-tSm2HjqsaFrsMAQFKzG2Gpk0JDmpUeS_D
 | [[Oratore]]                                           | DaggerHeart               | <ul><li>[[Bard]]</li></ul>                                                          |
 | [[Trovatore]]                                       | DaggerHeart               | <ul><li>[[Bard]]</li></ul>                                                          |
 | [[Danse Macabre]]                                           | La Notte Eterna           | <ul><li>[[Bard]]</li></ul>                                                          |
+| [[Ordine dello Spettro]]            | DaggerHeart Void          | <ul><li>[[Blood Hunter]]</li></ul>                                                  |
 | [[Ordine del Licantropo]]          | DaggerHeart Void          | <ul><li>[[Blood Hunter]]</li></ul>                                                  |
 | [[Ordine del Mutante]]                | DaggerHeart Void          | <ul><li>[[Blood Hunter]]</li></ul>                                                  |
-| [[Ordine dello Spettro]]            | DaggerHeart Void          | <ul><li>[[Blood Hunter]]</li></ul>                                                  |
 | [[Artista Marziale]]           | DaggerHeart Hope and Fear | <ul><li>[[Brawler]]</li></ul>                                                       |
 | [[Colosso]]                             | DaggerHeart Hope and Fear | <ul><li>[[Brawler]]</li></ul>                                                       |
 | [[Lupo del Nord]]                                           | La Notte Eterna           | <ul><li>[[Brawler]]</li></ul>                                                       |
@@ -45,11 +45,11 @@ code: DHC1.H4sIAAAAAAAACs1WS2_bMAz-KwPPOqzZ0nS-tSm2HjqsaFrsMAQFKzG2Gpk0JDmpUeS_D
 | [[Custode degli Elementi]]             | DaggerHeart               | <ul><li>[[Druid]]</li></ul>                                                         |
 | [[Custode del Rinnovamento]]         | DaggerHeart               | <ul><li>[[Druid]]</li></ul>                                                         |
 | [[Custode dei Segreti]]                               | La Notte Eterna           | <ul><li>[[Druid]]</li></ul>                                                         |
-| [[Valoroso]]                                         | DaggerHeart               | <ul><li>[[Guardian]]</li></ul>                                                      |
 | [[Vendicatore]]                                   | DaggerHeart               | <ul><li>[[Guardian]]</li></ul>                                                      |
+| [[Valoroso]]                                         | DaggerHeart               | <ul><li>[[Guardian]]</li></ul>                                                      |
 | [[Cavaliere Pesante]]                                   | La Notte Eterna           | <ul><li>[[Guardian]]</li><li>[[Warrior]]</li></ul>                                  |
-| [[Esploratore]]                                   | DaggerHeart               | <ul><li>[[Ranger]]</li></ul>                                                        |
 | [[Ferale]]                                             | DaggerHeart               | <ul><li>[[Ranger]]</li></ul>                                                        |
+| [[Esploratore]]                                   | DaggerHeart               | <ul><li>[[Ranger]]</li></ul>                                                        |
 | [[Cavaliere dei Passi]]                               | La Notte Eterna           | <ul><li>[[Ranger]]</li></ul>                                                        |
 | [[Guardiano Nanico]]                                     | La Notte Eterna           | <ul><li>[[Ranger]]</li></ul>                                                        |
 | [[Mare Andante]]                                             | La Notte Eterna           | <ul><li>[[Ranger]]</li><li>[[Warrior]]</li></ul>                                    |
@@ -72,11 +72,11 @@ code: DHC1.H4sIAAAAAAAACs1WS2_bMAz-KwPPOqzZ0nS-tSm2HjqsaFrsMAQFKzG2Gpk0JDmpUeS_D
 | [[Patto dell'Infinito]]     | DaggerHeart Hope and Fear | <ul><li>[[Warlock]]</li></ul>                                                       |
 | [[Patto dell'Ira]]               | DaggerHeart Hope and Fear | <ul><li>[[Warlock]]</li></ul>                                                       |
 | [[Oscuro Adepto]]                                           | La Notte Eterna           | <ul><li>[[Warlock]]</li><li>[[Seraph]]</li></ul>                                    |
-| [[Chiamata del Coraggio]]               | DaggerHeart               | <ul><li>[[Warrior]]</li></ul>                                                       |
 | [[Chiamata dello Sterminatore]]   | DaggerHeart               | <ul><li>[[Warrior]]</li></ul>                                                       |
+| [[Chiamata del Coraggio]]               | DaggerHeart               | <ul><li>[[Warrior]]</li></ul>                                                       |
 | [[Legionario Xaan]]                                       | La Notte Eterna           | <ul><li>[[Warrior]]</li></ul>                                                       |
-| [[Congrega della Luna]]     | DaggerHeart Hope and Fear | <ul><li>[[Witch]]</li></ul>                                                         |
 | [[Congrega della Siepe]]   | DaggerHeart Hope and Fear | <ul><li>[[Witch]]</li></ul>                                                         |
+| [[Congrega della Luna]]     | DaggerHeart Hope and Fear | <ul><li>[[Witch]]</li></ul>                                                         |
 | [[Criomante]]                                                   | La Notte Eterna           | <ul><li>[[Witch]]</li><li>[[Seraph]]</li></ul>                                      |
 | [[Scuola della Conoscenza]]           | DaggerHeart               | <ul><li>[[Wizard]]</li></ul>                                                        |
 | [[Scuola della Guerra]]                   | DaggerHeart               | <ul><li>[[Wizard]]</li></ul>                                                        |
