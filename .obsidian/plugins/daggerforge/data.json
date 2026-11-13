@@ -1,0 +1,298 @@
+{
+  "adversaries": [],
+  "environments": [],
+  "characters": [
+    {
+      "id": "CHR_1794526535755_u72ey5jn",
+      "name": "Bruno Pennati",
+      "pronouns": "",
+      "heritage": "Fungril WildBorne",
+      "classSubclass": "Rogue - Archivista di Mubunash",
+      "level": "1",
+      "traits": {
+        "agility": {
+          "value": "+1",
+          "marked": false
+        },
+        "strength": {
+          "value": "-1",
+          "marked": false
+        },
+        "finesse": {
+          "value": "+2",
+          "marked": false
+        },
+        "instinct": {
+          "value": "0",
+          "marked": false
+        },
+        "presence": {
+          "value": "+1",
+          "marked": false
+        },
+        "knowledge": {
+          "value": "0",
+          "marked": false
+        }
+      },
+      "evasion": "13",
+      "armorScore": "3",
+      "armorSlots": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "majorThreshold": "6",
+      "severeThreshold": "12",
+      "hp": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "stress": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hope": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hopeFeature": "",
+      "experiences": [
+        {
+          "text": "",
+          "modifier": ""
+        },
+        {
+          "text": "",
+          "modifier": ""
+        },
+        {
+          "text": "",
+          "modifier": ""
+        },
+        {
+          "text": "",
+          "modifier": ""
+        },
+        {
+          "text": "",
+          "modifier": ""
+        }
+      ],
+      "goldHandfuls": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "goldBags": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "goldChest": false,
+      "classFeature": "Ammantato (Cloaked)\nOgni volta che saresti Nascosto (Hidden), sei invece Ammantato (Cloaked). In aggiunta ai benefici della condizione Nascosto, mentre sei Ammantato rimani invisibile se resti fermo quando un avversario si sposta dove potrebbe vederti. Dopo aver effettuato un attacco o terminato un movimento in linea di vista di un avversario, non sei più Ammantato.\n\nAttacco Furtivo (Sneak Attack)\nQuando colpisci un bersaglio mentre sei Ammantato o quando un alleato è a portata di mischia con esso, aggiungi un numero di d6 pari al tuo rango al tiro di danno.\n\nCustode dei Segreti\nLa tua mente è una biblioteca vivente. Ottieni Vantaggio a tutte le prove di Storia, Investigare o Decifrare effettuate per interpretare testi antichi, tradurre pergamene di Vera Magia o scoprire i punti deboli di mostri e fazioni storiche di Neir.\nInoltre, grazie alla tua profonda disciplina mentale, puoi scegliere 1 carta Dominio aggiuntiva rispetto al limite standard.\n",
+      "proficiency": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "weaponHandOne": false,
+      "weaponHandTwo": false,
+      "primaryWeapon": {
+        "name": "Dagger",
+        "traitRange": "Finesse Melee",
+        "damageDice": "d8+3 phy",
+        "feature": ""
+      },
+      "secondaryWeapon": {
+        "name": "Small Dagger",
+        "traitRange": "Finesse Melee",
+        "damageDice": "d8 phy",
+        "feature": "Paired give +2 to primary weapon damage to targets within melee range"
+      },
+      "activeArmor": {
+        "name": "Gambeson Armor",
+        "baseThresholds": "5 / 11",
+        "baseScore": "3",
+        "feature": "Flexible +1 Evasion"
+      },
+      "inventory": "",
+      "inventoryWeapons": [
+        {
+          "name": "",
+          "traitRange": "",
+          "damageDice": "",
+          "feature": "",
+          "handOne": false,
+          "handTwo": false,
+          "primary": false,
+          "secondary": false
+        },
+        {
+          "name": "",
+          "traitRange": "",
+          "damageDice": "",
+          "feature": "",
+          "handOne": false,
+          "handTwo": false,
+          "primary": false,
+          "secondary": false
+        }
+      ],
+      "notes": "",
+      "ancestryCard": {
+        "name": "Fungril",
+        "description": "Fungril resemble humanoid mushrooms. They can be either more humanoid or more fungal in appearance, and they come in an assortment of colors, from earth tones to bright reds, yellows, purples, and blues. Fungril display an incredible variety of bodies, faces, and limbs, as there's no single common shape among them. Even their heights range from a tiny 2 feet tall to a staggering 7 feet tall. While the common lifespan of a fungril is about 300 years, some have been reported to live much longer. They can communicate nonverbally, and many members of this ancestry use a mycelial array to chemically exchange information with other fungril across long distances.",
+        "features": "Fungril Network: Make an Instinct Roll (12) to use your mycelial array to speak with others of your ancestry. On a success, you can communicate across any distance.\n\nDeath Connection: While touching a corpse that died recently, you can mark a Stress to extract one memory from the corpse related to a specific emotion or sensation of your choice."
+      },
+      "communityCard": {
+        "name": "Wildborne",
+        "description": "Being part of a wildborne community means you lived deep within the forest. Wildborne communities are defined by their dedication to the conservation of their homelands, and many have strong religious or cultural ties to the fauna they live among. This results in unique architectural and technological advancements that favor sustainability over short-term, high-yield results.\n\nIt is a hallmark of wildborne societies to integrate their villages and cities with the natural environment and avoid disturbing the lives of the plants and animals. While some construct their lodgings high in the branches of trees, others establish their homes on the ground beneath the forest canopy. It's not uncommon for wildborne to remain reclusive and hidden within their woodland homes.\n\nWildborne are often hardy, loyal, nurturing, reclusive, sagacious, and vibrant.",
+        "features": "Lightfoot: Your movement is naturally silent. You have advantage on rolls to move without being heard."
+      },
+      "domainCards": [
+        {
+          "name": "Pick and Pull",
+          "level": 1,
+          "domain": "Midnight",
+          "type": "Ability",
+          "recallCost": 0,
+          "text": "You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).",
+          "inVault": false
+        },
+        {
+          "name": "Uncanny Disguise",
+          "level": 1,
+          "domain": "Midnight",
+          "type": "Spell",
+          "recallCost": 0,
+          "text": "When you have a few minutes to prepare, you can **mark a Stress** to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny.\n\nPlace a number of tokens equal to your Spellcast trait on this card. When you take an action while disguised, spend a token from this card. After the action that spends the last token is resolved, the disguise drops.",
+          "inVault": false
+        },
+        {
+          "name": "Enrapture",
+          "level": 1,
+          "domain": "Grace",
+          "type": "Spell",
+          "recallCost": 0,
+          "text": "Make a **Spellcast Roll** against a target within Close range. On a success, they become temporarily _Enraptured_. While _Enraptured_, a target's attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Once per rest on a success, you can **mark a Stress** to force the _Enraptured_ target to mark a Stress as well.",
+          "inVault": false
+        }
+      ],
+      "backgroundAnswers": [],
+      "connectionAnswers": [],
+      "activeBeastform": "",
+      "levelUp": {
+        "pointsPerLevel": 2,
+        "pending": 0,
+        "lastLevel": 1,
+        "marks": {}
+      },
+      "companion": {
+        "name": "",
+        "art": "",
+        "evasion": "",
+        "stress": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "experiences": [
+          {
+            "text": "",
+            "modifier": ""
+          },
+          {
+            "text": "",
+            "modifier": ""
+          },
+          {
+            "text": "",
+            "modifier": ""
+          },
+          {
+            "text": "",
+            "modifier": ""
+          },
+          {
+            "text": "",
+            "modifier": ""
+          }
+        ],
+        "attack": "",
+        "range": "",
+        "damageDie": "",
+        "training": {}
+      },
+      "sheetSettings": {
+        "massiveDamage": false,
+        "maxHp": 6,
+        "maxStress": 6,
+        "maxHope": 6,
+        "experienceRows": 5,
+        "goldMode": "standard",
+        "goldLabel": "Gold",
+        "currencies": [],
+        "layoutMode": "auto"
+      },
+      "lastUpdated": 1794571031055
+    }
+  ],
+  "items": [],
+  "settings": {
+    "cardTheme": "default",
+    "keywordHighlighting": false,
+    "diceBadgeTooltipMs": 3000
+  },
+  "lastUpdated": 1794571031059
+}

@@ -1,5 +1,6 @@
 {
     "obsidian-md-vsc.defaultVault": "La Notte Eterna C01",
     "obsidian-md-vsc.defaultVaultPath": "C:\\Users\\gturra\\DaggerHeart\\La Notte Eterna C01",
-    "obsidian-md-vsc.defaultNote": "Benvenuto"
+    "obsidian-md-vsc.defaultNote": "Benvenuto",
+    "editor.maxTokenizationLineLength": 200000000000000
 }

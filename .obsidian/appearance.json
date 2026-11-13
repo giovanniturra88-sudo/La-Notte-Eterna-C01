@@ -1,5 +1,6 @@
 {
   "cssTheme": "Typewriter",
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": true
 }

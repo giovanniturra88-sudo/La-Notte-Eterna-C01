@@ -1,0 +1,11 @@
+{
+  "id": "ttrpg-ui-toolkit",
+  "name": "TTRPG UI Toolkit",
+  "version": "0.29.1",
+  "minAppVersion": "1.13.0",
+  "description": "Build interactive character sheets for D&D and other TTRPGs with health trackers, ability scores, skills, and spell slots.",
+  "author": "hay-kot",
+  "authorUrl": "https://hay-kot.dev/",
+  "fundingUrl": "https://github.com/sponsors/hay-kot",
+  "isDesktopOnly": false
+}
