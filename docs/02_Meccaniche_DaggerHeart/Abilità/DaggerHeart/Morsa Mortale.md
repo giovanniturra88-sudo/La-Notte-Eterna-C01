@@ -4,7 +4,7 @@ Livello: 4
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Titolo Inglese: Death grip
 ---
 
 Effettua un **Tiro Incantesimo** contro un bersaglio entro portata ravvicinata e scegli una delle seguenti opzioni:
@@ -13,3 +13,5 @@ Effettua un **Tiro Incantesimo** contro un bersaglio entro portata ravvicinata e
 - Tutti i nemici tra te e il bersaglio devono ottenere un Successo in un Tiro di Reazione (13) oppure essere colpiti da liane, prendendo **3d6+2** danni fisici.
 
 In caso di successo, le liane si allungano dalle tue mani, causando l'effetto scelto e _Trattenuto_ temporaneamente il bersaglio.
+
+![[DEATH GRIP.png]]

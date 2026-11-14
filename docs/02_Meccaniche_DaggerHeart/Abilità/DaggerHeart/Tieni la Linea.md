@@ -4,9 +4,11 @@ Livello: 9
 Dominio: "[[Valore]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Hold the line
 ---
 
 Descrivi la posizione difensiva che assumi e **spendi una Speranza**. Se un avversario si muove entro portata Prossima, viene trainato a portata Mischia e diventa _Trattenuto_.
 
 Questa condizione persiste finché non ti muovi o non fallisci un tiro con Paura, oppure il GM spende 2 Paura nel proprio turno per rimuoverla.
+
+![[HOLD THE LINE.png]]

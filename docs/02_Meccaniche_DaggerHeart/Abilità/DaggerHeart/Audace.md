@@ -4,7 +4,8 @@ Livello: 2
 Dominio: "[[Lama]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Reckless
 ---
-
 Segna uno [[Stress]] per ottenere [[Vantaggio|vantaggio]] su un [[Attacco|attacco]].
+
+![[RECKLESS.png]]

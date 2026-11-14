@@ -9,13 +9,13 @@ Il **Sangue** è il dominio della forza vitale e del sacrificio. Coloro che perc
 
 | **Livello** | **Opzione 1**            | **Opzione 2**             | **Opzione 3**          |
 | :---------: | ------------------------ | ------------------------- | ---------------------- |
-|    **1**    | [[blood_spike]]          | [[lifeblood_talisman]]    | [[power_through_pain]] |
-|    **2**    | [[brand_of_castigation]] | [[palpitations]]          | —                      |
-|    **3**    | [[blood_puppet]]         | [[burning_gore]]          | —                      |
-|    **4**    | [[grisly_harpoon]]       | [[weave_the_flesh]]       | —                      |
-|    **5**    | [[viscous_form]]         | [[parasite_of_the_will]]  | —                      |
-|    **6**    | [[blood_bind]]           | [[life_link]]             | —                      |
-|    **7**    | [[blood-touched]]        | [[vampiric_strike]]       | —                      |
-|    **8**    | [[vital_ward]]           | [[bleeding_tree]]         | —                      |
-|    **9**    | [[ichor_wave]]           | [[glyph_of_hemorrhaging]] | —                      |
-|   **10**    | [[scabrous_adamance]]    | [[sanguine_feast]]        | —                      |
+|    **1**    | [[Spina Insanguinata]]          | [[Talismano della Linfa Vitale]]    | [[Superare il Dolore]] |
+|    **2**    | [[Marchio del Castigo]] | [[Palpitazioni]]          | —                      |
+|    **3**    | [[Pupazzo di Sangue]]         | [[Carne in Fiamme]]          | —                      |
+|    **4**    | [[Arpione Macabro]]       | [[Intrecciare la Carne]]       | —                      |
+|    **5**    | [[Forma Viscosa]]         | [[Parassita della Volontà]]  | —                      |
+|    **6**    | [[Legame di Sangue]]           | [[Collegamento Vitale]]             | —                      |
+|    **7**    | [[Toccato dal Sangue]]        | [[Colpo Vampirico]]       | —                      |
+|    **8**    | [[Reparto di Terapia Intensiva]]           | [[Albero Sanguinante]]         | —                      |
+|    **9**    | [[Onda di Icore]]           | [[Glifo dell'Emorragia]] | —                      |
+|   **10**    | [[Ostinazione Scabrosa]]    | [[Banchetto Sanguigno]]        | —                      |

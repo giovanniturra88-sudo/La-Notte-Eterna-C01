@@ -4,7 +4,7 @@ Livello: 10
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Titolo Inglese: Force of Nature
 ---
 
 **Segna uno Stress** per trasformarti in un potente spirito naturale, ottenendo i seguenti vantaggi:
@@ -12,3 +12,5 @@ Titolo Inglese:
 - Quando infliggi danni sufficienti per sconfiggere una creatura entro Portata Ravvicinata, la assorbi e svuoti uno Casella Armatura.
 - Non puoi essere _Trattenuto_.
 Prima di effettuare un Lancio d'Azione, devi **spendere una Speranza**. Se non puoi farlo, torni alla tua forma normale.
+
+![[FORCE OF NATURE.png]]

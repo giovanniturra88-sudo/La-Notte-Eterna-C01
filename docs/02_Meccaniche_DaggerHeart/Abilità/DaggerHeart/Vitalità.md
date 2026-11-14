@@ -4,7 +4,7 @@ Livello: 5
 Dominio: "[[Lama]]"
 Costo di Richiamo: 0
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Vitality
 ---
 
 Quando scegli questa carta, ottieni permanentemente due dei seguenti vantaggi:
@@ -16,3 +16,5 @@ Quando scegli questa carta, ottieni permanentemente due dei seguenti vantaggi:
 - +2 bonus alle tue soglie di danno
 
 Poi metti questa carta nella tua riserva permanentemente.
+
+![[VITALITY.png]]

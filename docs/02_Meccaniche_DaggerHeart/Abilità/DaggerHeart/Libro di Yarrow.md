@@ -4,10 +4,12 @@ Livello: 10
 Dominio: "[[Codice]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Grimorio]]"
-Titolo Inglese:
+Titolo Inglese: Book of Yarrow
 ---
 
 ## Disturbatore Temporale
 Effettua un **Tiro Incantesimo (18)**. In caso di successo, il tempo rallenta temporaneamente fino a fermarsi per tutti all'interno della portata Lontana, tranne che per te. Riprende il prossimo momento in cui effettui un tiro d'azione che mira a un'altra creatura.
 ## Immunità Magica
 **Spendi 5 Speranze** per diventare immune ai danni magici fino al tuo prossimo riposo.
+
+![[BOOK OF YARROW.png]]

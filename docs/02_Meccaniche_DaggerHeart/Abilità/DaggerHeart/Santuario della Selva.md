@@ -4,7 +4,7 @@ Livello: 9
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Fane of the wilds
 ---
 
 Dopo un lungo riposo, posiziona un numero di gettoni uguale al numero delle carte di dominio [[Saggezza]] nella tua mano e cripta su questa carta.
@@ -14,3 +14,5 @@ Quando dovresti effettuare un Tiro Incantesimo, puoi spendere qualsiasi numero d
 Quando ottieni un successo critico su un Tiro Incantesimo per una magia di dominio [[Saggezza]], guadagna un gettone.
 
 Quando fai un riposo lungo, rimuovi tutti i gettoni non spesi.
+
+![[FANE OF THE WILDS.png]]
