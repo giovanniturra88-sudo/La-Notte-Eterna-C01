@@ -4,8 +4,9 @@ Livello: 5
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Titolo Inglese: Thorn skin
 ---
-
 Una volta per riposo, **spendi una Speranza** per far spuntare spine su tutto il tuo corpo. Quando lo fai, posiziona un numero di gettoni uguale alla tua tratto da Incantatore su questa carta. Quando ricevi danni, puoi spendere un qualsiasi numero di gettoni per lanciare quel numero di **d6**. Somma i risultati e riduci i danni in arrivo di quell'ammontare. Se sei entro portata di mischia dell'attaccante, infliggi loro quell'ammontare di danni in ritorno.
 Quando fai un riposo, rimuovi tutti i gettoni non spesi.
+
+![[THORN SKIN.png]]

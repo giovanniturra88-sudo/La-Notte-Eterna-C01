@@ -4,7 +4,7 @@ Livello: 6
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Titolo Inglese: Forager
 ---
 
 Come mossa supplementare durante il tempo libero che puoi scegliere, tira un d6 per vedere cosa raccogli. Lavora con il GM per descriverlo e aggiungilo al tuo inventario come consumo. Il tuo gruppo può trasportare fino a cinque consumabili raccolti contemporaneamente.
@@ -14,3 +14,5 @@ Come mossa supplementare durante il tempo libero che puoi scegliere, tira un d6 
 4. Una fiala curativa (Rimuovi 2 Punti Ferita)
 5. Una talismano della fortuna (Ritira qualsiasi dado)
 6. Scegli una delle opzioni sopra.
+
+![[FORAGER.png]]

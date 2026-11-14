@@ -4,7 +4,7 @@ Livello: 5
 Dominio: "[[Ossa]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Know thy enemy
 ---
 
 Quando osservi una creatura, puoi effettuare un **Tiro d'istinto** contro di essa. In caso di successo, **spendi una Speranza** e chiedi al GM un insieme di informazioni sulla target dalle seguenti opzioni:
@@ -18,3 +18,5 @@ Quando osservi una creatura, puoi effettuare un **Tiro d'istinto** contro di ess
 - Le sue caratteristiche e Esperienze.
 
 In aggiunta, in caso di successo, puoi **contrassegnare uno Stress** per rimuovere una Paura dalla riserva della paura del GM.
+
+![[KNOW THY ENEMY.png]]

@@ -4,11 +4,12 @@ Livello: 10
 Dominio: "[[Lama]]"
 Costo di Richiamo: 3
 Tipologia Carta: "[[Abilità]]"
-Titolo Inglese:
+Titolo Inglese: Onslaught
 ---
-
 Quando effettui con [[Successo|successo]] un [[Attacco|attacco]] con la tua arma, non infliggi mai danni al di sotto della soglia di danno maggiore del bersaglio (il bersaglio segna sempre almeno 2 Punti [[Ferita]]).
 
 Inoltre, quando una creatura entro il raggio della tua arma infligge danni ad un alleato con un [[Attacco|attacco]] che non include te, puoi segnare uno [[Stress]] per costringerla a effettuare un [[Tiro di Reazione]] (15).
 
 In caso di [[Fallimento|fallimento]], il bersaglio deve segnare un Punto [[Ferita]].
+
+![[ONSLAUGHT.png]]

@@ -3,8 +3,8 @@ type: Abilità
 Livello: 1
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 0
-Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Tipologia Carta: "[[Abilità]]"
+Titolo Inglese: Gifted tracker
 ---
 
 Quando stai tracciando una creatura specifica o un gruppo di creature in base alle tracce del loro passaggio, puoi **spendere qualsiasi numero di Speranza** e chiedere al GM quel numero di domande dalla seguente lista.
@@ -13,3 +13,5 @@ Quando stai tracciando una creatura specifica o un gruppo di creature in base al
 - Cosa stavano facendo in questa località?
 - Quante di loro erano qui?
 Quando incontri creature che hai tracciato in questo modo, ottieni un bonus di +1 alla tua Evasione contro di loro.
+
+![[GIFTED TRACKER.png]]

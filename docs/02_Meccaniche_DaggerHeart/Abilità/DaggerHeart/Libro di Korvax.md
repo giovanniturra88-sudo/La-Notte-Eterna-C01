@@ -4,7 +4,7 @@ Livello: 3
 Dominio: "[[Codice]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Grimorio]]"
-Titolo Inglese:
+Titolo Inglese: Book of Korvax
 ---
 
 ## Levitazione
@@ -13,3 +13,5 @@ Effettua un **Tiro Incantesimo** per sollevare temporaneamente in aria un bersag
 **Spendi una Speranza** per costringere un bersaglio entro portata di Mischia a effettuare un Tiro di Reazione (15). In caso di fallimento, dimentica l'ultimo minuto della tua conversazione.
 ## Cerchio Runico
 **Segna uno Stress** per creare un cerchio magico temporaneo sul terreno dove stai. Tutti i nemici entro portata di Mischia, o che entrano in portata di Mischia, subiscono **2d12+4** danni magici e vengono spinti indietro fino a portata Prossima.
+
+![[BOOK OF KORVAX.png]]

@@ -4,7 +4,7 @@ Livello: 2
 Dominio: "[[Codice ]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Grimorio]]"
-Titolo Inglese:
+Titolo Inglese: Book of Vagras
 ---
 
 ## Sigillo Runico
@@ -13,3 +13,5 @@ Fai un **Tiro Incantesimo (15)** su un oggetto che stai toccando e che possa chi
 Quando non hai avversari entro portata di mischia, fai un **Tiro Incantesimo (13)**. In caso di successo, **spendi una Speranza** per creare un portale dal punto in cui ti trovi fino a un punto entro portata Lontana che puoi vedere. Il portale si chiude una volta che una creatura vi è passata attraverso.
 ## Rivela
 Fai un **Tiro Incantesimo**. Se c'è qualcosa di nascosto magicamente entro portata Ravvicinata, viene rivelato.
+
+![[BOOK OF VAGRAS.png]]

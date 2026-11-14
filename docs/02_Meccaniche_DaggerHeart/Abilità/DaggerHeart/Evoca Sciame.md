@@ -4,7 +4,7 @@ Livello: 2
 Dominio: "[[Saggezza]]"
 Costo di Richiamo: 1
 Tipologia Carta: "[[Incantesimo]]"
-Titolo Inglese:
+Titolo Inglese: Conjure swarm
 ---
 
 ## Tekaira Coleotteri Corazzati
@@ -12,3 +12,5 @@ Titolo Inglese:
 
 ## Lucciole
 Effettua un **Tiro Incantesimo** contro tutti i nemici entro portata Ravvicinata. **Spendi una Speranza** per infliggere **2d8+3** danni magici ai bersagli contro cui hai avuto successo.
+
+![[CONJURE SWARM.png]]

@@ -4,7 +4,7 @@ Livello: 1
 Dominio: "[[Codice]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Grimorio]]"
-Titolo Inglese:
+Titolo Inglese: Book of Ava
 ---
 
 ## Potere Spingente
@@ -13,3 +13,5 @@ Effettua un **Tiro Incantesimo** contro un bersaglio entro portata di mischia. S
 **Spendi una Speranza** per dare a un bersaglio che puoi toccare un bonus di +1 al loro punteggio d'armatura fino alla loro prossima pausa o fino a quando non lanci nuovamente l'Armatura di Tava.
 ## Punta di Ghiaccio
 Effettua un **Tiro Incantesimo (12)** per evocare una grande punta di ghiaccio entro portata lontana. Se la usi come arma, effettua il Tiro Incantesimo contro la Difficoltà del bersaglio. Se riesci, infliggi **d6** danni fisici utilizzando la tua Abilità.
+
+![[BOOK OF AVA.png]]

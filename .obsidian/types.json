@@ -17,6 +17,7 @@
     "domini_associati": "multitext",
     "location": "multitext",
     "tattiche": "multitext",
-    "spellcast_trait": "multitext"
+    "spellcast_trait": "multitext",
+    "Tipologia Carta": "text"
   }
 }

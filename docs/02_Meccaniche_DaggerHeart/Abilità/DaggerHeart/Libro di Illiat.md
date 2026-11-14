@@ -4,7 +4,7 @@ Livello: 1
 Dominio: "[[Codice]]"
 Costo di Richiamo: 2
 Tipologia Carta: "[[Grimorio]]"
-Titolo Inglese:
+Titolo Inglese: Book of Illiat
 ---
 
 ## Sonno
@@ -15,3 +15,5 @@ Una volta per riposo, **spendi qualsiasi numero di Speranza** e lancia proiettil
 
 ## Telepatia
 **Spendi una Speranza** per aprire una linea di comunicazione mentale con un bersaglio che puoi vedere. Questa connessione dura fino al tuo prossimo riposo o fino a quando non lanci Telepatia di nuovo.
+
+![[BOOK OF ILLIAT.png]]
