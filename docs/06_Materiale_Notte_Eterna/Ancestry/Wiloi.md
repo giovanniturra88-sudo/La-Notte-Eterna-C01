@@ -5,7 +5,7 @@ source: La Notte Eterna
 system: Daggerheart
 ---
 
-![[../../../04_Risorse/Pictures/wiloi_pic.png]]
+![](../../../04_Risorse/Pictures/wiloi_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Alti e slanciati, tra 1,8 e 2 m. I loro occhi sono perennemente avvolti da una patina luminosa che riflette il loro innato legame con la magia, con sfumature specifiche per ciascun wiloi. Le mani lunghe e sottili si prestano magnificamente ad attività musicali e di studio, meno a lavori di fatica e al combattimento fisico.
 - **Origine**: Originari di Yolam'hra, piccolo pianeta della Dimensione della Materia, i wiloi sono i diretti discendenti dei grandi evocatori della Città delle Sette Rune. Cresciuti accanto ai Draghi della Luna, spinti da un'insaziabile sete di sapere, crearono a costo di un'immensa energia arcana un portale di sola andata verso Neir, dove si stabilirono nell'Abisso Oscuro. Portano nel sangue il ricordo di cieli non oscurati, il che li rende curiosi, tenaci e un po' malinconici.

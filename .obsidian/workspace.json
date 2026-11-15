@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/00_Dashboard/Master e Players/Indice Classi.md",
+                "file": "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice Classi"
+              "title": "Yamyam"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:wiloi",
+                "query": "!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,14 +125,16 @@
   },
   "active": "3e6f2a089ce4b4a2",
   "lastOpenFiles": [
-    "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Wiloi.md",
+    "docs/06_Materiale_Notte_Eterna/Ancestry/Yamyam.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Urakian.md",
-    "2026-11-15.md",
-    "docs/00_Dashboard/Master e Players/Indice Domini.md",
-    "docs/00_Dashboard/Master e Players/Indice Classi.md",
+    "docs/06_Materiale_Notte_Eterna/Armature/Gabbano dei Lupi d'Inverno.md",
+    "docs/02_Meccaniche_DaggerHeart/Abilità/DaggerHeart/Zona di Protezione.md",
     "docs/00_Dashboard/Master e Players/Indice Comunità.md",
     "docs/04_Risorse/Guide/venv/lib/python3.14/site-packages/pymupdf-2.1.dist-info/README.md",
+    "docs/00_Dashboard/Master e Players/Indice Classi.md",
+    "2026-11-15.md",
+    "docs/00_Dashboard/Master e Players/Indice Domini.md",
     "docs/06_Materiale_Notte_Eterna/SottoClassi/Archivista di Mubunash.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Nuno.md",
     "docs/06_Materiale_Notte_Eterna/Ancestry/Klorss.md",
@@ -165,8 +167,6 @@
     "docs/02_Meccaniche_DaggerHeart/Trasformazioni e Corruzione/Ghost.md",
     "docs/02_Meccaniche_DaggerHeart/Trasformazioni e Corruzione/Demigod.md",
     "docs/02_Meccaniche_DaggerHeart/Trasformazioni e Corruzione",
-    "docs/00_Dashboard/Sessione Zero.md",
-    "docs/05_StoryLines/A01_La_Morte_Strisciante/A01_La_Morte_Strisciante.md",
     "docs/04_Risorse/Guide/carte_ritagliate",
     "docs/04_Risorse/Guide/carte_ritagliate_hf",
     "docs/04_Risorse/Guide/crop_cards_improved.py",
