@@ -11,7 +11,7 @@ location:
  - "[[Azkabel]]"
  - "[[Principato di Darkflame]]"
 ---
-
+![](../../04_Risorse/Pictures/danse_macabre_pic.png)
 # Sottoclasse: Danse Macabre
 
 La musica proibita non è scritta su nessun spartito accademico, ma viene sussurrata e tramandata per via orale all'interno della setta eretica di [[Krea]], la Dama Nera. Chi intraprende questo cammino non cerca il mero intrattenimento dei vivi, ma la risonanza profonda dell'oltretomba. Danzando sulle lapidi dei cimiteri e pizzicando corde dissonanti, il Danse Macabre canalizza le energie ematiche e spirituali della morte, terrorizzando i vivi e costringendo i morti a rialzarsi per ballare al ritmo spettrale delle sue melodie.

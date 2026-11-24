@@ -12,6 +12,7 @@ location:
   - "[[Ducato di Öuin]]"
   - "[[Repubblica di Mendulia’s Rock]]"
 ---
+![](../../04_Risorse/Pictures/cavaliere_ospedaliere_pic.png)
 # Sottoclasse: Cavaliere Ospedaliere
 
 Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti a sacrificarsi e a lenire le ferite dei sofferenti e degli innocenti durante le ore più buie de La Notte Eterna.

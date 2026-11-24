@@ -13,6 +13,7 @@ source: La Notte Eterna
 location:
   - "[[Ducato di Öuin]]"
 ---
+![](../../04_Risorse/Pictures/cavaliere_pesante_pic.png)
 # Sottoclasse: Cavaliere Pesante
 
 Resistenti combattenti e baluardi inamovibili specializzati nella pura forza fisica, nell'uso di pesanti armature e nel blocco implacabile delle cariche nemiche.

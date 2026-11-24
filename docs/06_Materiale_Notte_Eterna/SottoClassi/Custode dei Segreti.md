@@ -12,6 +12,8 @@ location:
  - "[[Verde Foresta]]"
  - "[[Giungla di Erth]]"
 ---
+![](../../04_Risorse/Pictures/custode_dei_segreti_pic.png)
+
 # Sottoclasse: Custode dei Segreti
 
 Druidi del Circolo dei Segreti, protettori della fonte primigenia del Fuoco Segreto, vincolati al silenzio eterno.
