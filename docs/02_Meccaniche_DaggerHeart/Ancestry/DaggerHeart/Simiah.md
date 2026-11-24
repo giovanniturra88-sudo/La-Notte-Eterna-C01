@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[simiah_pic.png|319]]
+![](../../../04_Risorse/Pictures/simiah_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I simiah assomigliano a scimmie e primati antropomorfi con arti lunghi e piedi prensili. Sebbene il loro aspetto rifletta quello di tutte le creature simiane, dal gorilla più grande al marmosetto più piccolo, le loro dimensioni non corrispondono a quelle delle loro controparti animali e possono raggiungere un'altezza compresa tra 60 e 180 centimetri. Tutti i simiah possono usare i loro agili piedi per la comunicazione non verbale, il lavoro e il combattimento. Inoltre, alcuni possiedono anche code prensili che possono afferrare oggetti o aiutare a mantenere l'equilibrio durante manovre difficili. Queste caratteristiche conferiscono ai membri di questa stirpe un'agilità unica che li aiuta in una varietà di compiti fisici. In particolare, i simiah sono abili arrampicatori e possono passare facilmente dalla deambulazione bipede alla camminata sulle nocche e all'arrampicata, e viceversa. In media, i simiah vivono circa 100 anni.
 - **Origine**: Creature arboricole e agili, originarie delle giungle sospese e delle foreste verticali di mondi lontani. A seguito dell'apertura dei portali, molte colonie di Simiah si sono stabilite tra le rovine architettoniche di Neir, trasformando guglie e tralicci nel loro nuovo habitat naturale.

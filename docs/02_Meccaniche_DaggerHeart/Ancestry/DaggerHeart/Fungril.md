@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[fungril_pic.png|349]]
+![](../../../04_Risorse/Pictures/fungril_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I Fungril assomigliano a funghi umanoidi. Possono essere più umanoidi o più fungini nell'aspetto e presentano un assortimento di colori, dalle tonalità della terra ai rossi, gialli, viola e blu brillanti. I Fungril mostrano un'incredibile varietà di corpi, volti e arti, poiché non esiste una forma comune tra di loro. Anche la loro altezza varia da un minuscolo 60 centimetri a un impressionante 2 metri e 13 centimetri. Mentre la durata media della vita di un Fungril è di circa 300 anni, alcuni sono stati segnalati come vissuti molto più a lungo. Possono comunicare in modo non verbale e molti membri di questa stirpe utilizzano una rete miceliare per scambiare chimicamente informazioni con altri Fungril a lunga distanza. 
 - **Origine**: Creature nate dalla simbiosi tra antiche forme di vita vegetale e le spore aliene giunte attraverso le brecce dimensionali. Sono i veri figli della Notte Eterna, capaci di prosperare nel decadimento.

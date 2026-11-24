@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[goblin_pic.png|270]]
+![](../../../04_Risorse/Pictures/goblin_pic.png)
 ## Profilo
 - **Descrizione Visiva**: sono piccoli umanoidi facilmente riconoscibili per i loro grandi occhi e le enormi orecchie membranose. Grazie all'udito acuto e alla vista acuta, percepiscono i dettagli sia a grandi distanze che nell'oscurità, il che permette loro di muoversi con facilità anche in ambienti meno favorevoli. Il colore della loro pelle e dei loro occhi è incredibilmente vario, senza che una tonalità, vibrante o tenue, prevalga sulle altre. Un goblin tipico è alto tra i 90 e i 120 centimetri e ogni orecchio ha all'incirca le dimensioni della sua testa. I goblin sono noti per usare la posizione delle orecchie in modo molto specifico quando comunicano in modo non verbale. La durata media della vita di un goblin è di circa 100 anni e molti mantengono un udito e una vista acuti anche in età avanzata.
 - **Origine**: Originariamente servitori dei piani inferiori, i Goblin si sono adattati alla vita tra le rovine di Neir, diventando maestri dell'adattamento in un ambiente che tenta costantemente di consumarli. La loro cultura si basa sulla condivisione delle risorse scarse e su una gerarchia mutevole.

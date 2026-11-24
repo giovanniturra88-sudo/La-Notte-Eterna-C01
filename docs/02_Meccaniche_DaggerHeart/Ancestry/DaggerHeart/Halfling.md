@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[halfling_pic.png|259]]
+![](../../../04_Risorse/Pictures/halfling_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Gli halfling sono piccoli umanoidi con grandi piedi pelosi e orecchie arrotondate e prominenti. In media, gli halfling sono alti da 90 a 120 centimetri e le loro orecchie, il naso e i piedi sono più grandi in proporzione al resto del corpo. I membri di questa stirpe vivono per circa 150 anni e l'aspetto di un halfling tende a rimanere giovanile anche con il passare degli anni, dall'età adulta alla vecchiaia. Gli halfling sono naturalmente in sintonia con i campi magnetici del Regno Mortale, il che conferisce loro una forte bussola interiore. Possiedono inoltre sensi dell'udito e dell'olfatto molto sviluppati e spesso riescono a individuare chi conoscono dal suono dei loro movimenti.
 - **Origine**: Piccoli viaggiatori ed esperti di sopravvivenza che hanno prosperato grazie alla loro innata capacità di passare inosservati. In un mondo di giganti e rovine crollanti, gli Halfling sono coloro che mantengono i legami tra le comunità disperse, muovendosi dove altri non possono.

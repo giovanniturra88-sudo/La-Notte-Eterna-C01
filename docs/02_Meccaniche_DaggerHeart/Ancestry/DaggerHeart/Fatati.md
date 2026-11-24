@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[faerie_pic.png|203]]
+![](../../../04_Risorse/Pictures/faerie_pic.png)
 ## Profilo
 - **Descrizione Visiva**: Le fate sono creature umanoidi alate con caratteristiche insettoidi. Queste caratteristiche coprono un ampio spettro, da umanoidi a insettoidi: alcune possiedono braccia aggiuntive, occhi composti, organi a lanterna, esoscheletri chitinosi o pungiglioni. Grazie al loro stretto legame con il mondo naturale, possiedono spesso anche attributi che permettono loro di mimetizzarsi con diverse piante. L'altezza media di una fata varia da circa 60 cm a 150 cm, ma alcune possono raggiungere i 210 cm di altezza. Tutte le fate possiedono ali membranose e ognuna attraversa un processo di metamorfosi. Il processo e i cambiamenti differiscono da fata a fata, ma durante questa trasformazione ogni individuo manifesta l'aspetto finale che manterrà per il resto della sua vita, che dura circa 50 anni.
 - **Origine**: Esseri ancestrali emersi dalle crepe dimensionali dopo la caduta del Sole. Sono frammenti di realtà "selvaggia" che hanno assunto forma fisica, spesso riflettendo l'aspetto dei sogni (o degli incubi) di chi le osserva.

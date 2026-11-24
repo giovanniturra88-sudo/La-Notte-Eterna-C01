@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[fauno_pic.png|165]]
+![](../../../04_Risorse/Pictures/fauno_pic.png)
 ## Profilo
 - **Descrizione Visiva**: I fauni assomigliano a capre umanoidi con corna ricurve, pupille quadrate e zoccoli biforcuti. Sebbene il loro aspetto possa variare, la maggior parte dei fauni ha un torso umanoide e una parte inferiore del corpo simile a quella di una capra, ricoperta da una folta pelliccia. I volti dei fauni possono essere più caprini o più simili a quelli umani, e presentano un'ampia varietà di forme di orecchie e corna. Le corna dei fauni variano da corte con una curvatura minima a molto più grandi con una curvatura ben definita. L'altezza media di un fauno varia da 1,20 m a 2 metri, ma può cambiare drasticamente da un momento all'altro a seconda della postura. La maggior parte dei fauni ha arti proporzionalmente lunghi, indipendentemente dalle dimensioni o dalla forma, e sono noti per la loro capacità di sferrare colpi potenti con i loro zoccoli biforcuti. I fauni vivono per circa 225 anni e, con l'avanzare dell'età, il loro aspetto può diventare sempre più simile a quello di una capra.
 - **Origine**: Creature antiche legate ai cicli biologici della natura, sopravvissute al collasso del sole mutando i loro corpi per assorbire l'energia residua delle foreste corrotte.

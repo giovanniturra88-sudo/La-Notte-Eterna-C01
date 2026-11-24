@@ -4,7 +4,7 @@ type:
 source: DaggerHeart
 ---
 
-![[nani_pic.png|215]]
+![](../../../04_Risorse/Pictures/nani_pic.png)
 ## Profilo
 - **Descrizione Visiva**: i nani sono facilmente riconoscibili come umanoidi di bassa statura, con corporatura tozza, muscolatura densa e capelli folti. La loro altezza media varia da 1,20 a 1,65 metri e spesso sono robusti in proporzione alla loro statura. La loro pelle e le unghie contengono un'elevata quantità di cheratina, che li rende naturalmente resistenti. Questo permette ai nani di incastonare pietre preziose nel corpo e di decorarsi con tatuaggi o piercing. I loro capelli crescono folti, di solito sulla testa, ma alcuni nani hanno peli folti anche su tutto il corpo. I nani di entrambi i sessi possono farsi crescere la barba, che spesso acconciano in elaborate pettinature. In genere, i nani vivono fino a 250 anni, mantenendo la loro massa muscolare anche in età avanzata.
 - **Origine**: Antichi costruttori delle roccaforti sotterranee che un tempo collegavano i vari piani dimensionali. Dopo la caduta, molti sono rimasti sepolti nel profondo, sviluppando una resilienza leggendaria.
