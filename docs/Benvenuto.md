@@ -15,9 +15,9 @@ Questo vault Obsidian è dedicato alla campagna **La Notte Eterna**, giocata con
 
 ## 🚀 Inizia da Qui
 
-1. **[[00_Dashboard/Home]]** → Dashboard principale della campagna
-2. **[[03_Campagna/La Notte Eterna]]** → Documento di campagna
-3. **[[README]]** → Guida alla struttura del vault
+1. **[Home](./00_Dashboard/Home.md)** → Dashboard principale della campagna
+2. **[La Notte Eterna](./03_Campagna/La%20Notte%20Eterna.md)** → Documento di campagna
+3. **[README](./README.md)** → Guida alla struttura del vault
 
 ## 📁 Struttura Essenziale
 

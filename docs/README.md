@@ -50,7 +50,25 @@ I template si trovano in `04_Risorse/Templates/`:
 
 - Tutti i collegamenti tra note usano la sintassi Obsidian `Nome Nota`
 - Ogni nota dovrebbe avere un frontmatter YAML con `type` e, se necessario, `aliases`
-- Nomi canonici, terminologia Daggerheart e stati editoriali sono definiti in [[00_Canone e Glossario]]
+- Nomi canonici, terminologia Daggerheart e stati editoriali sono definiti in [00_Canone e Glossario](./01_Lore/00_Canone%20e%20Glossario.md)
+
+### Preparazione dei collegamenti per GitHub Pages
+
+Lo script `scripts/fix_vault_links.py` trova i collegamenti interni a note e immagini
+e li converte in collegamenti Markdown relativi. Di default esegue solo un'analisi:
+
+```bash
+python docs/scripts/fix_vault_links.py
+```
+
+Per applicare la conversione:
+
+```bash
+python docs/scripts/fix_vault_links.py --write
+```
+
+I collegamenti ambigui o non risolti non vengono modificati e sono segnalati nel
+report. È possibile salvarne uno completo con `--json percorso/report.json`.
 
 ## 🚀 Per Iniziare
 
