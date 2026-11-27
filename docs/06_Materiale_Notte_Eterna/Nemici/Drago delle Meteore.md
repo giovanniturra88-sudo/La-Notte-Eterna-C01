@@ -1,21 +1,22 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Solo]]"
+type: Avversario
+status: Canonico
 ---
 ## Drago delle Meteore (Rionnag'hra)
 * **Descrizione:** Custode supremo del confine dimensionale in armatura di adamantio pura. Capace di far cadere le stelle dal cielo.
 * **Rango:** 4 (Solo / Avversario Mitico)
 * **Difficoltà:** 21
-* **Soglie di Danno:** Minore: 35 | Maggiore: 48 | Grave: 88
+* **Soglie di Danno:** 35/48
 * **Punti Ferita:** 12 | **Stress:** 10
+* **Esperienza:** Stelle +8
 * **Attacchi:**
- * **Morso e Artigli Divini:** +6 | Ravvicinata | 4d10+12 Tagliente/Radiante
- * **Soffio Divino:** +5 | Area Lontana | 4d12+10 Radiante
+ * **Morso e Artigli Divini:** **+6** | Ravvicinata | **4d10+12** Tagliente/Radiante
+ * **Soffio Divino:** **+5** | Area Lontana | **4d12+10** Radiante
 * **Tratti e Capacità:**
- * **Scaglie di Adamantio:** Immune ai colpi critici.
- * **Pioggia di Meteore (3 Paura):** Evoca 6 rocciose meteore antiche infuocate sul campo di battaglia (5d10 danni da Fuoco e Contundenti).
- * **Distruggere il Cielo (Azione Mitica):** Si scaglia dal cielo come una cometa riducendo in polvere l'area d'impatto.
+ * **Inesorabile (2) - Passiva:** Il Drago può essere messo a fuoco due volte per turno del GM; spendi 1 Paura per la seconda azione.
+ * **Scaglie di Adamantio - Passiva:** Quando subisce danni fisici, il Drago segna 1 PF in meno, fino a un minimo di 1 PF. Il beneficio non si applica ai danni diretti.
+ * **Pioggia di Meteore - Azione:** **Spendere 3 Paura**; segna fino a sei aree entro portata Lontana. Le creature in quelle aree effettuano un Tiro di Reazione di Agilità o subiscono 4d10+8 danni fisici; in caso di successo subiscono la metà.
+ * **Distruggere il Cielo - Azione:** Una volta per scena, **segnare 3 Stress**; colpisce un’area entro portata Prossima. Le creature vi effettuano un Tiro di Reazione di Agilità o subiscono 5d10+10 danni fisici diretti; in caso di successo subiscono la metà.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -27,17 +28,19 @@ difficolta: "21"
 hp: "12"
 stress: "10"
 esperienza: "Stelle +8"
-soglia_danni: "Minore: 35 | Maggiore: 48 | Grave: 88"
+soglia_danni: "35/48"
 attacchi:
   - name: "Morso e Artigli Divini"
     desc: "**+6** | Ravvicinata | **4d10+12** Tagliente/Radiante"
   - name: "Soffio Divino"
     desc: "**+5** | Area Lontana | **4d12+10** Radiante"
 tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* Il Drago può essere messo a fuoco due volte per turno del GM; spendi 1 Paura per la seconda azione."
   - name: "Scaglie di Adamantio"
-    desc: "Immune ai colpi critici."
+    desc: "*- Passiva:* Quando subisce danni fisici, il Drago segna 1 PF in meno, fino a un minimo di 1 PF. Il beneficio non si applica ai danni diretti."
   - name: "Pioggia di Meteore"
-    desc: "*(Costo: 3 Paura)* Evoca 6 rocciose meteore antiche infuocate sul campo di battaglia (5d10 danni da Fuoco e Contundenti)."
+    desc: "*- Azione:* **Spendere 3 Paura**; segna fino a sei aree entro portata Lontana. Le creature in quelle aree effettuano un Tiro di Reazione di Agilità o subiscono 4d10+8 danni fisici; in caso di successo subiscono la metà."
   - name: "Distruggere il Cielo"
-    desc: "*(Azione Mitica)* Si scaglia dal cielo come una cometa riducendo in polvere l'area d'impatto."
+    desc: "*- Azione:* Una volta per scena, **segnare 3 Stress**; colpisce un’area entro portata Prossima. Le creature vi effettuano un Tiro di Reazione di Agilità o subiscono 5d10+10 danni fisici diretti; in caso di successo subiscono la metà."
 ```

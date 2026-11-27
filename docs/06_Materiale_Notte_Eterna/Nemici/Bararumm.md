@@ -1,20 +1,20 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Picchiatore]]"
+type: Avversario
+status: Canonico
 ---
 ## Bararumm
 * **Descrizione:** Grosso bovino cieco dal pelo folto e con un singolo corno frontale. Utilizza la vista cieca/udito radar per orientarsi.
 * **Rango:** 1 (Picchiatore / Caccia)
 * **Difficoltà:** 12
-* **Soglie di Danno:** Minore: 6 | Maggiore: 9 | Grave: 17
+* **Soglie di Danno:** 6/9
 * **Punti Ferita:** 4 | **Stress:** 3
+* **Esperienza:** Sensi del Tremore +2
 * **Attacchi:**
- * **Incornata:** +2 | Ravvicinata | 1d10+3 Perforante
- * **Pestone:** +2 | Ravvicinata (su bersaglio a terra) | 2d6+2 Contundente
+ * **Incornata:** **+2** | Ravvicinata | **1d10+3** Perforante
+ * **Pestone:** **+2** | Ravvicinata (su bersaglio a terra) | **2d6+2** Contundente
 * **Tratti e Capacità:**
- * **Sense Radar:** Possiede Vista Cieca entro portata Lontana basata sull'udito. Se assordato, perde la capacità di individuare i bersagli non adiacenti.
- * **Carica Travolgente:** Se si muove in linea retta prima dell'attacco, infligge +1d6 danni e atterra il bersaglio.
+ * **Sense Radar - Passiva:** Il Bararumm individua creature in movimento entro portata Lontana. Se è assordato, perde questo tratto fino alla fine del proprio prossimo turno.
+ * **Carica Travolgente - Azione:** Dopo essersi mosso in linea retta, effettuare un attacco. In caso di successo, infligge 1d6 danni fisici aggiuntivi e il bersaglio è *Vulnerabile* fino alla fine del proprio prossimo turno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -26,7 +26,7 @@ difficolta: "12"
 hp: "4"
 stress: "3"
 esperienza: "Sensi del Tremore +2"
-soglia_danni: "Minore: 6 | Maggiore: 9 | Grave: 17"
+soglia_danni: "6/9"
 attacchi:
   - name: "Incornata"
     desc: "**+2** | Ravvicinata | **1d10+3** Perforante"
@@ -34,7 +34,7 @@ attacchi:
     desc: "**+2** | Ravvicinata (su bersaglio a terra) | **2d6+2** Contundente"
 tratti:
   - name: "Sense Radar"
-    desc: "Possiede Vista Cieca entro portata Lontana basata sull'udito. Se assordato, perde la capacità di individuare i bersagli non adiacenti."
+    desc: "*- Passiva:* Il Bararumm individua creature in movimento entro portata Lontana. Se è assordato, perde questo tratto fino alla fine del proprio prossimo turno."
   - name: "Carica Travolgente"
-    desc: "Se si muove in linea retta prima dell'attacco, infligge +1d6 danni e atterra il bersaglio."
+    desc: "*- Azione:* Dopo essersi mosso in linea retta, effettuare un attacco. In caso di successo, infligge 1d6 danni fisici aggiuntivi e il bersaglio è *Vulnerabile* fino alla fine del proprio prossimo turno."
 ```

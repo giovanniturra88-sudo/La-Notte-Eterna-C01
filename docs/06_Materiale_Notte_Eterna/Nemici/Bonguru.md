@@ -1,20 +1,20 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Picchiatore]]"
+type: Avversario
+status: Canonico
 ---
 ## Bonguru
 * **Descrizione:** Cinghiale deformato dalla magia della meteora, con tre teste sovrapposte, funghi tossici sul dorso e nidi di calabroni giganti tra le piaghe.
 * **Rango:** 2 (Picchiatore / Infettivo)
 * **Difficoltà:** 14
-* **Soglie di Danno:** Minore: 11 | Maggiore: 17 | Grave: 32
+* **Soglie di Danno:** 11/17
 * **Punti Ferita:** 6 | **Stress:** 4
+* **Esperienza:** Veleno +3
 * **Attacchi:**
- * **Zanne Feroci:** +4 | Ravvicinata | 2d8+6 Tagliente
- * **Pestone Sanguinario:** +3 | Ravvicinata | 2d6+5 Contundente
+ * **Zanne Feroci:** **+4** | Ravvicinata | **2d8+6** Tagliente
+ * **Pestone Sanguinario:** **+3** | Ravvicinata | **2d6+5** Contundente
 * **Tratti e Capacità:**
- * **Alone di Insetti (1 Stress):** Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce 1d8 danni da Veleno automatici.
- * **Tenacia Mortale:** Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere.
+ * **Alone di Insetti - Azione:** **Segnare 1 Stress**; un bersaglio entro portata Prossima effettua un Tiro di Reazione di Istinto o subisce 1d8 danni da veleno e segna 1 Stress.
+ * **Tenacia Mortale - Reazione:** Quando il Bonguru viene sconfitto, effettua subito un attacco standard contro una creatura entro portata Ravvicinata prima di essere rimosso.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -26,7 +26,7 @@ difficolta: "14"
 hp: "6"
 stress: "4"
 esperienza: "Veleno +3"
-soglia_danni: "Minore: 11 | Maggiore: 17 | Grave: 32"
+soglia_danni: "11/17"
 attacchi:
   - name: "Zanne Feroci"
     desc: "**+4** | Ravvicinata | **2d8+6** Tagliente"
@@ -34,7 +34,7 @@ attacchi:
     desc: "**+3** | Ravvicinata | **2d6+5** Contundente"
 tratti:
   - name: "Alone di Insetti"
-    desc: "*(Costo: 1 Stress)* Rilascia uno sciame di calabroni contro un bersaglio vicino che subisce **1d8** danni da Veleno automatici."
+    desc: "*- Azione:* **Segnare 1 Stress**; un bersaglio entro portata Prossima effettua un Tiro di Reazione di Istinto o subisce 1d8 danni da veleno e segna 1 Stress."
   - name: "Tenacia Mortale"
-    desc: "Quando i suoi PF arrivano a 0, compie un ultimo attacco prima di soccombere."
+    desc: "*- Reazione:* Quando il Bonguru viene sconfitto, effettua subito un attacco standard contro una creatura entro portata Ravvicinata prima di essere rimosso."
 ```

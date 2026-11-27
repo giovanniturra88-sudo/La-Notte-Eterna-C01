@@ -1,17 +1,18 @@
 ---
-type:
- - "[[Creatura]]"
+type: Avversario
+status: Canonico
 ---
 ## Loy'ach
 * **Descrizione:** Orribili mastini demoniaci ombra evocati per dare la caccia agli eroi, usati originariamente da [[Najestarr]].
 * **Rango:** 2 (Cacciatore)
 * **Difficoltà:** 14
-* **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 26
+* **Soglie di Danno:** 8/14
 * **Punti Ferita:** 4 | **Stress:** 4
+* **Esperienza:** Cacciatore +3
 * **Attacchi:**
- * **Morso delle Ombre:** +3 | Ravvicinata | 2d8+5 Necrotico
+ * **Morso delle Ombre:** **+3** | Ravvicinata | **2d8+5** Necrotico
 * **Tratti e Capacità:**
- * **Inseguitore Implacabile:** Ha sempre vantaggio nel tracciare o individuare nemici feriti o che provano a fuggire.
+ * **Inseguitore Implacabile - Passiva:** Il Loy’ach individua automaticamente una creatura ferita che conosce entro portata Lontana e ha vantaggio sui tiri per seguirne le tracce.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -23,11 +24,11 @@ difficolta: "14"
 hp: "4"
 stress: "4"
 esperienza: "Cacciatore +3"
-soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 26"
+soglia_danni: "8/14"
 attacchi:
   - name: "Morso delle Ombre"
     desc: "**+3** | Ravvicinata | **2d8+5** Necrotico"
 tratti:
   - name: "Inseguitore Implacabile"
-    desc: "Ha sempre vantaggio nel tracciare o individuare nemici feriti o che provano a fuggire."
+    desc: "*- Passiva:* Il Loy’ach individua automaticamente una creatura ferita che conosce entro portata Lontana e ha vantaggio sui tiri per seguirne le tracce."
 ```

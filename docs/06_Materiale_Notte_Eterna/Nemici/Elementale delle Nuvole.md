@@ -1,20 +1,20 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Furtivo]]"
+type: Avversario
+status: Canonico
 ---
 ## Elementale delle Nuvole
 * **Descrizione:** Creatura eterea e tempestosa fatta di nebbia densa, fulmini e venti impetuosi.
 * **Rango:** 2 (Furtivo / Area)
 * **Difficoltà:** 15
-* **Soglie di Danno:** Minore: 8 | Maggiore: 14 | Grave: 26
+* **Soglie di Danno:** 8/14
 * **Punti Ferita:** 5 | **Stress:** 4
+* **Esperienza:** Tempesta +3
 * **Attacchi:**
- * **Sferzata di Vento / Fulmine:** +3 | Ravvicinata / Lontana | 2d8+4 Tuono/Fulmine
- * **Vortice d'Aria:** +2 | Area Ravvicinata | 2d6+4 Contundente + Spinta
+ * **Sferzata di Vento / Fulmine:** **+3** | Ravvicinata / Lontana | **2d8+4** Tuono/Fulmine
+ * **Vortice d'Aria:** **+2** | Area Ravvicinata | **2d6+4** Contundente + Spinta
 * **Tratti e Capacità:**
- * **Forma Gassosa:** Può attraversare fessure strette e volare liberamente.
- * **Scarica Elettrica (1 Stress):** Emette una scossa che paralizza brevemente il bersaglio colpito.
+ * **Forma Gassosa - Passiva:** Può attraversare fessure strette, vola liberamente e non può essere *Trattenuto* da impedimenti ordinari.
+ * **Scarica Elettrica - Azione:** **Segnare 1 Stress**; dopo un attacco riuscito, il bersaglio segna 1 Stress ed è *Vulnerabile* fino alla fine del proprio prossimo turno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -26,7 +26,7 @@ difficolta: "15"
 hp: "5"
 stress: "4"
 esperienza: "Tempesta +3"
-soglia_danni: "Minore: 8 | Maggiore: 14 | Grave: 26"
+soglia_danni: "8/14"
 attacchi:
   - name: "Sferzata di Vento / Fulmine"
     desc: "**+3** | Ravvicinata / Lontana | **2d8+4** Tuono/Fulmine"
@@ -34,7 +34,7 @@ attacchi:
     desc: "**+2** | Area Ravvicinata | **2d6+4** Contundente + Spinta"
 tratti:
   - name: "Forma Gassosa"
-    desc: "Può attraversare fessure strette e volare liberamente."
+    desc: "*- Passiva:* Può attraversare fessure strette, vola liberamente e non può essere *Trattenuto* da impedimenti ordinari."
   - name: "Scarica Elettrica"
-    desc: "*(Costo: 1 Stress)* Emette una scossa che paralizza brevemente il bersaglio colpito."
+    desc: "*- Azione:* **Segnare 1 Stress**; dopo un attacco riuscito, il bersaglio segna 1 Stress ed è *Vulnerabile* fino alla fine del proprio prossimo turno."
 ```

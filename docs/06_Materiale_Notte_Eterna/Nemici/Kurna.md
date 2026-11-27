@@ -1,18 +1,18 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Furtivo]]"
+type: Avversario
+status: Canonico
 ---
 ## Kurna
 * **Descrizione:** Demone minore strisciante, stridulo e pestilenziale, inviato per diffondere morbi e disperazione.
 * **Rango:** 1 (Furtivo)
 * **Difficoltà:** 12
-* **Soglie di Danno:** Minore: 6 | Maggiore: 8 | Grave: 15
+* **Soglie di Danno:** 6/8
 * **Punti Ferita:** 4 | **Stress:** 3
+* **Esperienza:** Pestilenza +2
 * **Attacchi:**
- * **Morso Appestato:** +2 | Ravvicinata | 1d8+3 Veleno
+ * **Morso Appestato:** **+2** | Ravvicinata | **1d8+3** Veleno
 * **Tratti e Capacità:**
- * **Aura Pestilenziale:** Chiunque entri a contatto subisce svantaggio sui tiri fisici.
+ * **Aura Pestilenziale - Passiva:** Una creatura che inizia il turno entro portata Ravvicinata da Kurna segna 1 Stress o diventa *Vulnerabile* fino alla fine del proprio turno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -24,11 +24,11 @@ difficolta: "12"
 hp: "4"
 stress: "3"
 esperienza: "Pestilenza +2"
-soglia_danni: "Minore: 6 | Maggiore: 8 | Grave: 15"
+soglia_danni: "6/8"
 attacchi:
   - name: "Morso Appestato"
     desc: "**+2** | Ravvicinata | **1d8+3** Veleno"
 tratti:
   - name: "Aura Pestilenziale"
-    desc: "Chiunque entri a contatto subisce svantaggio sui tiri fisici."
+    desc: "*- Passiva:* Una creatura che inizia il turno entro portata Ravvicinata da Kurna segna 1 Stress o diventa *Vulnerabile* fino alla fine del proprio turno."
 ```

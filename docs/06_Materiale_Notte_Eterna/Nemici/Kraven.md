@@ -1,18 +1,19 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Minion]]"
+type: Avversario
+status: Canonico
 ---
 ## Kraven
 * **Descrizione:** Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio.
 * **Rango:** 1 (Minion / Orda)
-* **Difficoltà:** 12
-* **Soglie di Danno:** Minore: 5 | Maggiore: 6 | Grave: 11
-* **Punti Ferita:** 3 | **Stress:** 2
+* **Difficoltà:** 11
+* **Soglie di Danno:** Nessuna
+* **Punti Ferita:** 1 | **Stress:** 1
+* **Esperienza:** Buio +2
 * **Attacchi:**
- * **Picco / Pugnale arrugginito:** +2 | Ravvicinata | 1d8+3 Tagliente
+ * **Picco / Pugnale arrugginito:** **-2** | Ravvicinata | **2** Tagliente
 * **Tratti e Capacità:**
- * **Vantaggio nel Buio:** Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità.
+ * **Vantaggio nel Buio - Passiva:** Il Kraven ha vantaggio sugli attacchi contro bersagli che non sono esposti a una fonte di luce.
+ * **Minion (3) - Passiva:** Viene sconfitto da qualsiasi danno. Per ogni 3 danni inflitti a un Kraven, sconfiggi un Kraven aggiuntivo nel raggio dell’attacco.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -20,15 +21,17 @@ name: "Kraven"
 description: "Umanoide deformato e brutale che vive nelle caverne buie, specializzato in agguati al buio."
 tier: "1"
 ruolo: "Minion / Orda"
-difficolta: "12"
-hp: "3"
-stress: "2"
+difficolta: "11"
+hp: "1"
+stress: "1"
 esperienza: "Buio +2"
-soglia_danni: "Minore: 5 | Maggiore: 6 | Grave: 11"
+soglia_danni: "Nessuna"
 attacchi:
   - name: "Picco / Pugnale arrugginito"
-    desc: "**+2** | Ravvicinata | **1d8+3** Tagliente"
+    desc: "**-2** | Ravvicinata | **2** Tagliente"
 tratti:
   - name: "Vantaggio nel Buio"
-    desc: "Vantaggio ai tiri d'attacco se il bersaglio si trova nell'oscurità."
+    desc: "*- Passiva:* Il Kraven ha vantaggio sugli attacchi contro bersagli che non sono esposti a una fonte di luce."
+  - name: "Minion (3)"
+    desc: "*- Passiva:* Viene sconfitto da qualsiasi danno. Per ogni 3 danni inflitti a un Kraven, sconfiggi un Kraven aggiuntivo nel raggio dell’attacco."
 ```

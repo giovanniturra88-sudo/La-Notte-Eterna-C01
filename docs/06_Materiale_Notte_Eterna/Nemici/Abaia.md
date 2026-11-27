@@ -1,7 +1,6 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Solo]]"
+type: Avversario
+status: Canonico
 aliases:
  - Il principe delle Anguille
 
@@ -9,16 +8,19 @@ aliases:
 * **Descrizione:** Signore dei Demoni, sovrano dell'inferno sommerso di Ezav. Una titanica anguilla demoniaca ricoperta di scaglie e artigli, in grado di scatenare tempeste elettriche.
 * **Rango:** 4 (Solo / Avversario Leggendario)
 * **Difficoltà:** 21
-* **Soglie di Danno:** Minore: 25 | Maggiore: 48 | Grave: 70
+* **Soglie di Danno:** 25/48
 * **Punti Ferita:** 12 | **Stress:** 8
+* **Esperienza:** Mare Abissale +5
 * **Attacchi:**
- * **Morso della Murena / Artigli:** +5 | Ravvicinata | 3d12+12 Tagliente/Perforante + 2d8 Elettrico
- * **Coda Avvolgente:** +4 | Prossima | 2d10+10 Contundente (Il bersaglio è Trattenuto)
+ * **Morso della Murena / Artigli:** **+5** | Ravvicinata | **3d12+12** Tagliente/Perforante + **2d8** Elettrico
+ * **Coda Avvolgente:** **+4** | Prossima | **2d10+10** Contundente
 * **Tratti e Capacità:**
- * **Anfibio Supremo:** Muove e combatte senza penalità in acqua.
- * **Strillo Stordente (1 Stress):** Abaia emette un grido subacqueo/terrestre lancinante. Tutte le creature vicine devono superare un Tiro di Reazione di Forza (Difficoltà 18) o rimanere stordite fino al loro prossimo turno.
- * **Invocare la Tempesta (2 Paura):** Scatena fulmini devastanti in tutta l'area. Tutti i nemici a gittata Lontana subiscono 4d10+8 danni da Fulmine (metà danni se superano un Tiro di Reazione di Agilità (Difficoltà 19)).
- * **Aura Elettrica:** Ogni creatura che inizia il turno a contatto o da Ravvicinato ad Abaia subisce 1d8 danni da Fulmine.
+ * **Inesorabile (3) - Passiva:** Abaia può essere messo a fuoco fino a tre volte per turno del GM. Spendi una Paura come di consueto per ciascuna azione oltre la prima.
+ * **Anfibio Supremo - Passiva:** Abaia può nuotare e attraversare terreni acquatici senza impedimenti.
+ * **Aura Elettrica - Passiva:** Quando una creatura inizia il proprio turno entro portata Ravvicinata da Abaia, segna **1 Stress**.
+ * **Presa della Coda - Reazione:** Quando il suo attacco con la coda ha successo, segnare **1 Stress** per rendere il bersaglio *Trattenuto* e *Vulnerabile* finché non supera un Tiro di Forza o Abaia subisce danni Gravi.
+ * **Strillo Stordente - Azione:** **Segnare 1 Stress**; tutte le creature entro portata Prossima effettuano un Tiro di Reazione di Forza. Chi fallisce è *Vulnerabile* e non può usare reazioni fino alla fine del proprio prossimo turno.
+ * **Invocare la Tempesta - Azione:** **Spendere 2 Paura**; tutte le creature entro portata Lontana effettuano un Tiro di Reazione di Agilità. Chi fallisce subisce **4d10+8** danni da fulmine; chi riesce ne subisce la metà. Fino all'inizio del prossimo turno di Abaia, l'area tempestosa rende ogni creatura che vi entra *Vulnerabile* fino alla fine del proprio prossimo turno.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -30,20 +32,24 @@ difficolta: "21"
 hp: "12"
 stress: "8"
 esperienza: "Mare Abissale +5"
-soglia_danni: "Minore: 25 | Maggiore: 48 | Grave: 70"
+soglia_danni: "25/48"
 attacchi:
   - name: "Morso della Murena / Artigli"
     desc: "**+5** | Ravvicinata | **3d12+12** Tagliente/Perforante + **2d8** Elettrico"
   - name: "Coda Avvolgente"
-    desc: "**+4** | Prossima | **2d10+10** Contundente *(Il bersaglio è Trattenuto)*"
+    desc: "**+4** | Prossima | **2d10+10** Contundente"
 tratti:
+  - name: "Inesorabile (3)"
+    desc: "*- Passiva:* Abaia può essere messo a fuoco fino a tre volte per turno del GM. Spendi una Paura come di consueto per ciascuna azione oltre la prima."
   - name: "Anfibio Supremo"
-    desc: "Muove e combatte senza penalità in acqua."
+    desc: "*- Passiva:* Abaia può nuotare e attraversare terreni acquatici senza impedimenti."
   - name: "Aura Elettrica"
-    desc: "Ogni creatura che inizia il turno a contatto o da Ravvicinato ad Abaia subisce **1d8** danni da Fulmine."
+    desc: "*- Passiva:* Quando una creatura inizia il proprio turno entro portata Ravvicinata da Abaia, segna **1 Stress**."
 capacita_speciali:
+  - name: "Presa della Coda"
+    desc: "*- Reazione:* Quando il suo attacco con la coda ha successo, segnare **1 Stress** per rendere il bersaglio *Trattenuto* e *Vulnerabile* finché non supera un Tiro di Forza o Abaia subisce danni Gravi."
   - name: "Strillo Stordente"
-    desc: "Abaia emette un grido subacqueo/terrestre lancinante. Tutte le creature vicine devono superare un Tiro di Reazione di Forza (Difficoltà 18) o rimanere stordite fino al loro prossimo turno. *(Costo: 1 Stress)*"
+    desc: "*- Azione:* **Segnare 1 Stress**; tutte le creature entro portata Prossima effettuano un Tiro di Reazione di Forza. Chi fallisce è *Vulnerabile* e non può usare reazioni fino alla fine del proprio prossimo turno."
   - name: "Invocare la Tempesta"
-    desc: "Scatena fulmini devastanti in tutta l'area. Tutti i nemici a gittata Lontana subiscono **4d10+8** danni da Fulmine (metà danni se superano un Tiro di Reazione di Agilità (Difficoltà 19))."
+    desc: "*- Azione:* **Spendere 2 Paura**; tutte le creature entro portata Lontana effettuano un Tiro di Reazione di Agilità. Chi fallisce subisce **4d10+8** danni da fulmine; chi riesce ne subisce la metà. Fino all'inizio del prossimo turno di Abaia, l'area tempestosa rende ogni creatura che vi entra *Vulnerabile* fino alla fine del proprio prossimo turno."
 ```

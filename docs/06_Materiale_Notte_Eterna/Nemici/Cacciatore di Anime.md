@@ -1,20 +1,20 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Furtivo]]"
+type: Avversario
+status: Canonico
 ---
 ## Cacciatore di Anime
 * **Descrizione:** Non-morto alato agile e spietato, creato dai necromanti xaan per cacciare ed estrarre le anime di viventi e spettri.
 * **Rango:** 3 (Furtivo / Nemico Scelto)
 * **Difficoltà:** 17
-* **Soglie di Danno:** Minore: 14 | Maggiore: 24 | Grave: 42
+* **Soglie di Danno:** 14/24
 * **Punti Ferita:** 6 | **Stress:** 5
+* **Esperienza:** Cacciatore +4
 * **Attacchi:**
- * **Risucchiare Vita:** +4 | Ravvicinata | 3d8+6 Necrotico (Riduce lo Stress/PF massimi)
- * **Artigli della Notte:** +4 | Ravvicinata | 2d10+5 Tagliente
+ * **Risucchiare Vita:** **+4** | Ravvicinata | **3d8+6** Necrotico; in caso di successo, il bersaglio segna 1 Stress.
+ * **Artigli della Notte:** **+4** | Ravvicinata | **2d10+5** Tagliente
 * **Tratti e Capacità:**
- * **Passeggiata Eterea (1 Paura):** Si sposta momentaneamente sul piano etereo per riposizionarsi ed evitare danni fisici.
- * **Rigenerazione Tenebrosa:** Recupera 1 punto PF all'inizio del turno se non è esposto a luce solare o danni Radianti.
+ * **Passeggiata Eterea - Azione:** **Spendere 1 Paura**; il Cacciatore si sposta entro portata Lontana e non può subire danni fisici fino all’inizio del proprio prossimo turno.
+ * **Rigenerazione Tenebrosa - Passiva:** All’inizio del proprio turno, se non ha subito danni radianti dal proprio turno precedente, rimuove 1 PF segnato.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -26,15 +26,15 @@ difficolta: "17"
 hp: "6"
 stress: "5"
 esperienza: "Cacciatore +4"
-soglia_danni: "Minore: 14 | Maggiore: 24 | Grave: 42"
+soglia_danni: "14/24"
 attacchi:
   - name: "Risucchiare Vita"
-    desc: "**+4** | Ravvicinata | **3d8+6** Necrotico *(Riduce lo Stress/PF massimi)*"
+    desc: "**+4** | Ravvicinata | **3d8+6** Necrotico; in caso di successo, il bersaglio segna 1 Stress."
   - name: "Artigli della Notte"
     desc: "**+4** | Ravvicinata | **2d10+5** Tagliente"
 tratti:
   - name: "Passeggiata Eterea"
-    desc: "*(Costo: 1 Paura)* Si sposta momentaneamente sul piano etereo per riposizionarsi ed evitare danni fisici."
+    desc: "*- Azione:* **Spendere 1 Paura**; il Cacciatore si sposta entro portata Lontana e non può subire danni fisici fino all’inizio del proprio prossimo turno."
   - name: "Rigenerazione Tenebrosa"
-    desc: "Recupera **1** punto PF all'inizio del turno se non è esposto a luce solare o danni Radianti."
+    desc: "*- Passiva:* All’inizio del proprio turno, se non ha subito danni radianti dal proprio turno precedente, rimuove 1 PF segnato."
 ```

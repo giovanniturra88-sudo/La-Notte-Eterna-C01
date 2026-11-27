@@ -1,19 +1,19 @@
 ---
-type:
- - "[[Creatura]]"
- - "[[Furtivo]]"
+type: Avversario
+status: Canonico
 ---
 ## Impundulu (Uccello del Fulmine)
 * **Descrizione:** Creatura mitologica simile a un enorme rapace in grado di evocare fulmini e trasformarsi in forma umana.
 * **Rango:** 3 (Furtivo / Elementale)
 * **Difficoltà:** 17
-* **Soglie di Danno:** Minore: 12 | Maggiore: 24 | Grave: 38
+* **Soglie di Danno:** 12/24
 * **Punti Ferita:** 5 | **Stress:** 5
+* **Esperienza:** Fulmini +4
 * **Attacchi:**
- * **Artigli Elettrici:** +4 | Ravvicinata | 3d8+6 Fulmine
- * **Invocazione della Saetta:** +4 | Lontana | 2d10+6 Fulmine
+ * **Artigli Elettrici:** **+4** | Ravvicinata | **3d8+6** Fulmine
+ * **Invocazione della Saetta:** **+4** | Lontana | **2d10+6** Fulmine
 * **Tratti e Capacità:**
- * **Mutaforma (1 Stress):** Assume l'aspetto di un attraente umanoide per ingannare le sue vittime.
+ * **Mutaforma - Azione:** **Segnare 1 Stress**; l’Impundulu assume forma umanoide fino alla fine della scena. Finché mantiene l’inganno, è *Nascosto* dalle creature che non conoscono la sua identità.
 
 ```statblock
 layout: DaggerHeart Nemici
@@ -25,7 +25,7 @@ difficolta: "17"
 hp: "5"
 stress: "5"
 esperienza: "Fulmini +4"
-soglia_danni: "Minore: 12 | Maggiore: 24 | Grave: 38"
+soglia_danni: "12/24"
 attacchi:
   - name: "Artigli Elettrici"
     desc: "**+4** | Ravvicinata | **3d8+6** Fulmine"
@@ -33,5 +33,5 @@ attacchi:
     desc: "**+4** | Lontana | **2d10+6** Fulmine"
 tratti:
   - name: "Mutaforma"
-    desc: "Assume l'aspetto di un attraente umanoide per ingannare le sue vittime *(Costo: 1 Stress)*."
+    desc: "*- Azione:* **Segnare 1 Stress**; l’Impundulu assume forma umanoide fino alla fine della scena. Finché mantiene l’inganno, è *Nascosto* dalle creature che non conoscono la sua identità."
 ```
