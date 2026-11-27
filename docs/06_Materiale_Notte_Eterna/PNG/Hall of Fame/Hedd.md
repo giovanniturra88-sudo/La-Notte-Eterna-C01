@@ -4,8 +4,7 @@ type:
 status: Da verificare
 aliases:
  - Hedd il Folle
----
-![[Pasted image 20260804014346.png|700]]
+--![[hedd_pic.png|700]]]]
 
 Originario di [[Mendulia's Rock]], Hedd, il Folle Mascherato, è una leggenda vivente. Il suo nome è conosciuto, rispettato, amato, temuto e odiato ovunque. Alcuni lo chiamano eroe, altri un povero squilibrato. È difficile capire chi abbia ragione, ma forse la verità sta nel mezzo.
 Hedd ha la straordinaria capacità di apparire e scomparire sempre al momento opportuno. Si narrano un'infinità di storie su di lui, e nessuno sa dire quali siano vere e quali no. Un alone di mistero circonda la figura di Hedd. Sembra che nessuno lo abbia mai visto in volto, o almeno chi lo ha fatto non è sopravvissuto per raccontarlo. Il volto dell'elfo, infatti, è sempre coperto da una maschera di ceramica finemente lavorata, il ricordo di un viaggio fatto tempo addietro alla Città delle Trame.

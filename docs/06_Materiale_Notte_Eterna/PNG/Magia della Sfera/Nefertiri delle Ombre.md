@@ -3,8 +3,7 @@ type:
  - "[[PNG]]"
 status: Da verificare
 ---
-
-![[Pasted image 20260801175450.png|700]]
+![[nefertiri_delle_ombre_pic.png|700]]]
 # NEFERTIRI DELLE OMBRE
 *La Generalessa dei Non Morti*
 

@@ -10,7 +10,7 @@ luoghi:
  - "[[Scuola delle Parole che Uccidono]]"
 ---
 
-![[Pasted image 20260801180800.png|689]]
+![[silke_pic.png|689]]
 
 # Silke
 
