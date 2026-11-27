@@ -1,4 +1,4 @@
----
+﻿---
 type: Luogo
 ---
 
@@ -97,7 +97,7 @@ A [[Öuin]] i nomi costituiscono il perfetto punto di incontro tra l'alfabeto na
 * **Maschili:** Elthoras, Fenair, Garren, Howard, Lucien, Matthew, Patrick, Richard, Kivan.
 * **Femminili:** Amy, Belle, Christine, Claire, Daisy, Elewyn, Fire, Ilares, Oria.
 #### Linguaggio
-La lingua parlata a Öuin si chiama öued e deriva dal nanico. Probabilmente l'antico commercio tra le due razze (metalli in cambio di armi e monili) ha spinto gli umani di Öuin a utilizzare l'energico linguaggio dei nani.
+La lingua parlata a Öuin si chiama öued e deriva dal nanico. Probabilmente l'antico commercio tra le due ascendenze (metalli in cambio di armi e monili) ha spinto gli umani di Öuin a utilizzare l'energico linguaggio dei nani.
 #### Moda
 Fabbri, pastori e contadini indossano pantaloni e maglie fatte di lana. Anche i cavalieri, che rappresentano la classe sociale più elevata di [[Öuin]], vestono abiti composti da questo tessuto, seppure di ottima qualità. Le popolane indossano comuni gonne coperte da maglie molto larghe, mentre le nobildonne preferiscono vestire delle gonne esageratamente larghe che sono motivo di stupore e scherno per gli stranieri.
 #### Alimentazione

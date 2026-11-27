@@ -1,4 +1,4 @@
----
+﻿---
 type: Luogo
 ---
 
@@ -22,7 +22,7 @@ Nel 486 E.S. gli elfi selvaggi assaltarono gli insediamenti della Vecchia Strada
 L'anno 1 della Notte Eterna segnò profondamente gli abitanti della [[Verde Foresta]]. Ciascuna tribù si preparò al peggio: certe che la scomparsa della stella avrebbe decretato la loro fine. Ma le creature fatate che sopravvivevano nell'antica foresta rassicurarono gli umanoidi: la [[Verde Foresta]] era protetta dalla benedizione di Amber, un incantesimo di Vera Magia grazie al quale gli animali e la vegetazione sarebbero usciti indenni dalla catastrofe. L'incantesimo che protegge gli alberi e gli animali della [[Verde Foresta]] dal buio perenne consente ai lucertoloidi e ad altre specie a sangue freddo di sopravvivere.
 ## Cronologia
 Anno 5616, E.S. Le tribù di umanoidi mostruosi scacciate dai territori dell'Impero varcano i confini della Verde Foresta.
-Anno 5614-5599, E.S. Il popolo fatato e le razze umanoidi combattono la "Contesa degli Alberi". Dopo aspre e sanguinose battaglie, il popolo fatato riesce vincitore sebbene a costo di gravi perdite.
+Anno 5614-5599, E.S. Il popolo fatato e le comunità umanoidi combattono la "Contesa degli Alberi". Dopo aspre e sanguinose battaglie, il popolo fatato riesce vincitore sebbene a costo di gravi perdite.
 Anno 5598, E.S. Gli umanoidi e il popolo fatato stringono "l'Accordo degli Alberi", impegnandosi a convivere pacificamente.
 Anno 4942, E.S. Convocata in guerra, la dragona Amber lascia la Verde Foresta per prendere parte alla battaglia dei Cento Draghi. Sopravvissuta, la dragona d'argento vola a occidente per non fare più ritorno.
 Anno 3500, E.S. L'esplosione demografica conduce le tribù umanoidi alla guerra. In migliaia sono costretti ad abbandonare la Verde Foresta per spingersi più a sud, verso la regione attualmente nota come [[Cenere di Lanie]].

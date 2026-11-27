@@ -1,4 +1,4 @@
----
+﻿---
 type: Luogo
 ---
 
@@ -81,9 +81,9 @@ Libro delle Leggi Hjilaki, Ufficio del Buoncostume*
 Fanno eccezione alla regola [[Namass'rya]] e il suo sposo. Quando devono spostarsi da un palazzo a un altro, i signori del Dominio viaggiano a bordo di una carrozza trainata da venti cavalli.
 Gli hjilaki trascorrono il loro tempo amministrando i propri possedimenti, facendo bagni nelle piscine e assistendo ai combattimenti nelle arene. I confini del Dominio sono continuamente sorvegliati da truppe di esploratori, generalmente combattenti mortali capitanati da ufficiali vampiri.
 ### Religione
-II culto di Garod è piuttosto diffuso trai vampiri che ne esaltano l’autorità ferrea. Alcuni hanno invece sviluppato la convinzione della propria superiorità rispetto alle razze mortali, venerando il Primo alla stregua di un dio. Al gradino immediatamente successivo di questa pseudo religione si trovano i Cinque Signori. Secondo la leggenda, Uzkal, Luaar, Arkanis e Nefertiri torneranno sulla terra, in futuro, per guidare i vampiri alla conquista definitiva di Neir. I vampiri esiliati hanno fatto propria questa leggenda e credono che la risurrezione dei quattro decreterà la fine di [[Namass'rya]] e del suo dominio.
+II culto di Garod è piuttosto diffuso trai vampiri che ne esaltano l’autorità ferrea. Alcuni hanno invece sviluppato la convinzione della propria superiorità rispetto alle ascendenze mortali, venerando il Primo alla stregua di un dio. Al gradino immediatamente successivo di questa pseudo religione si trovano i Cinque Signori. Secondo la leggenda, Uzkal, Luaar, Arkanis e Nefertiri torneranno sulla terra, in futuro, per guidare i vampiri alla conquista definitiva di Neir. I vampiri esiliati hanno fatto propria questa leggenda e credono che la risurrezione dei quattro decreterà la fine di [[Namass'rya]] e del suo dominio.
 ## Luoghi Rilevanti
 - [[Città delle Trame]]
 ## Spunti per Avventure
 - Gli avventurieri devono scoprire chi si cela dietro alla sparizione degli schiavi di un nobile hjilaki: sarà colpa della banda di Morgan, oppure di una banda di sciocchi eroi con benefici intenti?
-- La [[Namass'rya|Matrona di Sangue]] è seriamente preoccupata da una serie di segnali premonitori che indicano la resurrezione di Uzkal, Arkanis, Nefertiri e Luaar, i generali caduti dell’Armata dell'Apocalisse. Se ciò dovesse accadere, il potere congiunto di questi quattro minaccerebbe la sua autorità. Gli avventurieri devono scoprire chi, cosa e perché è interessato alla resurrezione dei quattro hjilaki e soprattutto dovranno fermarlo a ogni costo. La [[Matrona di Sangue]] lo ordina!
+- La [[Namass'rya|Matrona di Sangue]] è seriamente preoccupata da una serie di segnali premonitori che indicano la resurrezione di Uzkal, Arkanis, Nefertiri e Luaar, i generali caduti dell’Armata dell'Apocalisse. Se ciò dovesse accadere, il potere congiunto di questi quattro minaccerebbe la sua autorità. Gli avventurieri devono scoprire chi, cosa e perché è interessato alla resurrezione dei quattro hjilaki e soprattutto dovranno fermarlo a ogni costo. La [[06_Materiale_Notte_Eterna/PNG/Hall of Fame/Namass'rya|Matrona di Sangue]] lo ordina!

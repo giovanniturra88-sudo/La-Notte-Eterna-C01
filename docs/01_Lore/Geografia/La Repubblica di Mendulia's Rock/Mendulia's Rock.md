@@ -1,5 +1,6 @@
 ---
 type: Luogo
+status: Da adattare
 ---
 
 *(Al Qualsiasi, Metropoli, 645 892 abitanti, umani 68%, altri 32%)*

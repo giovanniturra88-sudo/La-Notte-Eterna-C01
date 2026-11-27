@@ -1,12 +1,12 @@
----
+﻿---
 type: Luogo
 ---
 
 Il mercato degli schiavi dista appena un centinaio di metri dal Cancello. Ogni anno, il destino di migliaia di uomini e donne vi si compie. Gli schiavisti, in genere zeyd e [[Karevi]], sono notoriamente individui senza scrupoli. Segue una tabella con il prezzario e sul modo in cui vengono generalmente sfruttati gli schiavi:
 
-| Razza                            | Impiego                                               | Costo  |
+| ascendenza                            | Impiego                                               | Costo  |
 | -------------------------------- | ----------------------------------------------------- | ------ |
-| Maschio/Femmina [[Urakian]]      | Riserva di Sangue, Lavoratore, Gladiatore             | 500 mo |
+| Maschio/Femmina [[06_Materiale_Notte_Eterna/Ancestry/Urakian|Urakian]]      | Riserva di Sangue, Lavoratore, Gladiatore             | 500 mo |
 | Maschio/Femmina [[Elfi di Dor|elfo]]   | Riserva di Sangue, Schiavo dedito al piacere sessuale | 150 mo |
 | Maschio/Femmina [[Halfling]]     | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |
 | Maschio/Femmina [[Gnomi]]        | Riserva di Sangue, Animale da compagnia, Servo        | 75 mo  |

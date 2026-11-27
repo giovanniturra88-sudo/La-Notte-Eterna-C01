@@ -41,7 +41,8 @@ Molte delle sepolture appartengono a epoche ormai dimenticate della storia di [[
 Nei livelli più profondi delle catacombe si trova la tomba del sacerdote elfico [[Valeiran Tenos]], protetta dallo spettro [[Seldin Yuvanis]].  
 ## Avventure Collegate  
 ### La Morte Strisciante  
-Compare come luogo secondario.  
+Compare come luogo secondario e nodo opzionale in [[S04B - Casetta dei Nonni e Seldin]].
+La scena collega il traffico di salme dei Dardi Sanguinanti alle catacombe e offre una via alternativa verso la [[Sezione LVI]].
 ### Esplorazione delle Catacombe  
 Le catacombe rappresentano un dungeon completo utilizzabile come avventura autonoma.  
 Possibili elementi:  

@@ -1,4 +1,4 @@
----
+﻿---
 type: Luogo
 ---
 
@@ -10,7 +10,7 @@ Non sapendo cos'altro fare, la montagna si guardò dentro; ma altro non vide che
 I nani scacciarono i giganti e costruirono enormi colonne di pietra che la sorreggessero nelle ere venture. Ma il tempo inesorabile passò, e l'antica montagna con la furia del vento si sgretolò...
 Dal Mito della Creazione dei nani*
 
-Come molte razze di Neir, anche le tradizioni naniche parlano di un mito della creazione. Questo mito trova riferimenti anche nell'appellativo che i draghi usano per riferirsi ai nani, _lukruw-amyan-turuq-zaavanos_: “coloro che sono nati dalla roccia, dal metallo, dal quarzo e dalla terra” in draconico.
+Come molte ascendenze di Neir, anche le tradizioni naniche parlano di un mito della creazione. Questo mito trova riferimenti anche nell'appellativo che i draghi usano per riferirsi ai nani, _lukruw-amyan-turuq-zaavanos_: “coloro che sono nati dalla roccia, dal metallo, dal quarzo e dalla terra” in draconico.
 
 ## Storia Vera
 All'anno 10 000 E.S. circa si fa risalire la creazione mitologica dei nani in una zona non meglio identificata del continente di Neir.
@@ -27,7 +27,7 @@ Grazie alla saggezza dei regnanti e alla benevolenza del destino, il Principato 
 Nel 1111 E.S. il Principato proclamò il regime di isolazionismo. Le ambasciate estere furono espulse e le nazioni assisterono al generale ritiro degli emissari di Valle Nuvolosa dalle proprie città. Tutt’oggi il regime di isolazionismo del Principato permane. I nani che si incontrano al di fuori dei confini di Valle Nuvolosa sono perlopiù compagnie in incognito o nani esiliati.
 
 ## Cronologia
-**Anno 10 000 circa, E.S.** Comparsa della razza nanica.
+**Anno 10 000 circa, E.S.** Comparsa dell'ascendenza nanica.
 **Anno 8220, E.S.** I nani si stabiliscono nella regione di Valle Nuvolosa.
 **Anno 6487, E.S.** Il Principe Dorgar I uccide Tweshradsal Stomaco di Lava, l’ultimo drago di Valle Nuvolosa.
 **Anno 6250, E.S.** Fondazione di Hultuaar.
@@ -101,7 +101,7 @@ I nani preferiscono vivere in città sotterranee, vicino al cuore della terra. L
 ### Festività
 L'industriosità nanica si riflette anche sul modo di vivere la socialità. Ogni momento importante della vita di un individuo viene celebrato con sobrietà solenne. A cerimonie come nascite, matrimoni e funerali si aggiunge il _Giorno dello Scudo_ (cade nel 40° anniversario di un nano), un rito di passaggio all'età adulta per ogni nano che viene chiamato a fabbricare il proprio scudo in una prova a tempo e con pochi materiali a disposizione. Fallire questa prova causa uno stigma sociale nei confronti dell'individuo e ne segna profondamente la psiche; i “nani senza scudo” sono soliti abbandonare il proprio clan e lasciare Valle Nuvolosa per esplorare l'ignoto: un fato ritenuto ben peggiore della morte.
 ### Usi e Costumi
-La società nanica è organizzata in clan. Un clan è governato da una matriarca o patriarca, generalmente il primogenito del fondatore del clan. I nani sono leali nei confronti del loro clan, monarca e della nazione tutta; nei conflitti con le altre razze, anche i più riluttanti si schierano con i loro simili. La solidità dei loro legami e la loro resilienza sono alla base della longevità del Principato. I clan nanici si concentrano solitamente su uno o due tipi di artigianato quali la metallurgia, la fabbricazione di armi o armature, la creazione di gioielli, l'ingegneria o la lavorazione della pietra. Un artigianato comune a tutti i clan è la fabbricazione di scudi. I nani affermano che sono stati loro a inventarli e la maestria con cui li fabbricano sembrerebbe confermarlo.
+La società nanica è organizzata in clan. Un clan è governato da una matriarca o patriarca, generalmente il primogenito del fondatore del clan. I nani sono leali nei confronti del loro clan, monarca e della nazione tutta; nei conflitti con gli altri popoli, anche i più riluttanti si schierano con i loro simili. La solidità dei loro legami e la loro resilienza sono alla base della longevità del Principato. I clan nanici si concentrano solitamente su uno o due tipi di artigianato quali la metallurgia, la fabbricazione di armi o armature, la creazione di gioielli, l'ingegneria o la lavorazione della pietra. Un artigianato comune a tutti i clan è la fabbricazione di scudi. I nani affermano che sono stati loro a inventarli e la maestria con cui li fabbricano sembrerebbe confermarlo.
 ### Religione
 Il culto di Fadranstaff è il più diffuso tra i nani sebbene anche la dea Iliar goda di un buon seguito tra i villaggi dediti alla pastorizia e all'agricoltura. Non mancano eremiti devoti di Lurtan sui picchi innevati di Valle Nuvolosa.
 
