@@ -1,11 +1,12 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 aliases:
   - Tetra Dama
 ---
 ![[Pasted image 20260710132429.png]]
 
-Krea, dea della morte, è Neutrale. Chiamata "la Dama Nera", il suo avatar ha l'aspetto di una donna vecchissima e gracile, quasi scheletrica, vestita di una lunga tunica nera.
+Krea, dea della morte, mantiene un equilibrio fra impulso, necessità e conseguenza. Chiamata "la Dama Nera", il suo avatar ha l'aspetto di una donna vecchissima e gracile, quasi scheletrica, vestita di una lunga tunica nera.
 
 
 

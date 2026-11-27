@@ -1,10 +1,11 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 ---
 
 ![[Pasted image 20260710131752.png]]
 
-Doomkhan, dio del destino, è Neutrale. Conosciuto come "il Fato" e "l'Inevitabile", il suo avatar ha l'aspetto di uno gnomo erudito.
+Doomkhan, dio del destino, mantiene un equilibrio fra impulso, necessità e conseguenza. Conosciuto come "il Fato" e "l'Inevitabile", il suo avatar ha l'aspetto di uno gnomo erudito.
 
 
 
@@ -16,7 +17,7 @@ Popolare tra maghi, monaci, insegnanti e studiosi, al dio si rivolgono anche div
 
 
 
-I chierici di Doomkhan sono sempre esperti divinatori. I suoi campioni, le "Lance del Destino", sono guerrieri che eccellono nell'uso del giavellotto. L'ordine è noto per il profondo misticismo che caratterizza i suoi combattenti, i quali si considerano veri e propri emissari del fato, amministrando vita e morte indipendentemente da qualsiasi morale o ingiustizia, sia buona che malvagia.
+I sacerdoti e i campioni di Doomkhan sono sempre esperti divinatori. I suoi campioni, le "Lance del Destino", sono guerrieri che eccellono nell'uso del giavellotto. L'ordine è noto per il profondo misticismo che caratterizza i suoi combattenti, i quali si considerano veri e propri emissari del fato, amministrando vita e morte indipendentemente da qualsiasi morale o ingiustizia, sia buona che malvagia.
 
 
 

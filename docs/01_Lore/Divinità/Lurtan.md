@@ -1,10 +1,11 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 ---
 
 ![[Pasted image 20260710132843.png]]
 
-Lurtan, dio della terra, è Neutrale. Chiamato "il Pesante", il suo avatar ha l'aspetto di un elementale della terra di taglia colossale.
+Lurtan, dio della terra, mantiene un equilibrio fra impulso, necessità e conseguenza. Chiamato "il Pesante", il suo avatar ha l'aspetto di un elementale della terra di taglia colossale.
 
 
 

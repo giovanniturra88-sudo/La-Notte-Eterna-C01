@@ -1,11 +1,12 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 aliases:
   - dio Gatto
 ---
 ![[Pasted image 20260710132905.png]]
 
-Maskarr, dio dei ladri, è Caotico Neutrale. Conosciuto come "lo Sfuggente", "il Silenzioso" e "il Gatto", il suo avatar ha l'aspetto di un halfling dai marcati tratti felini.
+Maskarr, dio dei ladri, privilegia il cambiamento, l'imprevedibilità e la libertà d'azione. Conosciuto come "lo Sfuggente", "il Silenzioso" e "il Gatto", il suo avatar ha l'aspetto di un halfling dai marcati tratti felini.
 
 
 

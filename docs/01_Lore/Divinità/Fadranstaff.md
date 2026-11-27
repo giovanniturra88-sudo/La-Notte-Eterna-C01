@@ -1,4 +1,5 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 aliases:
   - Viandante Misericordioso
@@ -6,7 +7,7 @@ aliases:
 
 ![[Pasted image 20260710131838.png]]
 
-Fadranstaff, dio del soccorso, è Neutrale Buono. Chiamato "il Viandante Misericordioso", il suo avatar ha l'aspetto di un vecchio nano barbuto appoggiato a un solido bastone di quercia.
+Fadranstaff, dio del soccorso, privilegia soccorso, equilibrio e protezione dei vulnerabili. Chiamato "il Viandante Misericordioso", il suo avatar ha l'aspetto di un vecchio nano barbuto appoggiato a un solido bastone di quercia.
 
 
 
@@ -14,11 +15,11 @@ Fadranstaff, dio del soccorso, è Neutrale Buono. Chiamato "il Viandante Miseric
 
 
 
-Venerato da qualsiasi razza mortale, Fadranstaff sostiene la causa dei più deboli e degli emarginati ed è sempre restio all'uso della violenza, anche per le giuste cause, perché portatrice di dolore.
+Venerato da qualsiasi ascendenza mortale, Fadranstaff sostiene la causa dei più deboli e degli emarginati ed è sempre restio all'uso della violenza, anche per le giuste cause, perché portatrice di dolore.
 
 
 
-I chierici di Fadranstaff sono sempre esperti guaritori. I suoi campioni sono monaci votati ad almeno una rinuncia, come per esempio la castità, la non violenza o il non uso di bevande alcoliche e sostanze stupefacenti. Per i sacerdoti del Viandante Misericordioso il bastone ferrato è un'arma e un sostegno nei lunghi pellegrinaggi e può servire a determinare rango, missione intrapresa e altri particolari in base ad alcune tacche incise seguendo un ordine noto soltanto ai chierici del dio. Alcuni bastoni appartenuti a santi del culto sono oggetto di profonda venerazione e imbevuti di energia divina.
+I sacerdoti e i campioni di Fadranstaff sono sempre esperti guaritori. I suoi campioni sono monaci votati ad almeno una rinuncia, come per esempio la castità, la non violenza o il non uso di bevande alcoliche e sostanze stupefacenti. Per i sacerdoti del Viandante Misericordioso il bastone ferrato è un'arma e un sostegno nei lunghi pellegrinaggi e può servire a determinare rango, missione intrapresa e altri particolari in base ad alcune tacche incise seguendo un ordine noto soltanto ai sacerdoti del dio. Alcuni bastoni appartenuti a santi del culto sono oggetto di profonda venerazione e imbevuti di energia divina.
 
 
 

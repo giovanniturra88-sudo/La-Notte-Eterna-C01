@@ -1,10 +1,11 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 ---
 
 ![[Pasted image 20260710132254.png]]
 
-Halthea, dea del valore, è Legale Neutrale. Conosciuta come "la Giusta" e "l'Ardita", il suo avatar ha l'aspetto di una giovane guerriera umana dalla carnagione chiara, i capelli biondi a caschetto e gli occhi glaciali.
+Halthea, dea del valore, incarna ordine, disciplina e dovere. Conosciuta come "la Giusta" e "l'Ardita", il suo avatar ha l'aspetto di una giovane guerriera umana dalla carnagione chiara, i capelli biondi a caschetto e gli occhi glaciali.
 
 
 
@@ -16,7 +17,7 @@ A Ôuin, la sua chiesa ha sostituito quella di Laon diventando il culto ufficial
 
 
 
-Si dice che ogni sacerdote di Halthea sia un guerriero e ogni guerriero un sacerdote. I chierici e i paladini di Halthea non infrangono mai un giuramento, quali che siano le difficoltà e gli ostacoli ad attenderli. Per questo motivo ponderano attentamente quali cause sostenere: una volta preso un impegno, state certi che perseguiranno il loro obiettivo anche a costo della vita.
+Si dice che ogni sacerdote di Halthea sia un guerriero e ogni guerriero un sacerdote. I sacerdoti e i paladini di Halthea non infrangono mai un giuramento, quali che siano le difficoltà e gli ostacoli ad attenderli. Per questo motivo ponderano attentamente quali cause sostenere: una volta preso un impegno, state certi che perseguiranno il loro obiettivo anche a costo della vita.
 
 
 

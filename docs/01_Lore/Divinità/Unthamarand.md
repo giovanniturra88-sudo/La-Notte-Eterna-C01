@@ -1,4 +1,5 @@
----
+﻿---
+status: Da verificare
 type: Divinità
 ---
 
