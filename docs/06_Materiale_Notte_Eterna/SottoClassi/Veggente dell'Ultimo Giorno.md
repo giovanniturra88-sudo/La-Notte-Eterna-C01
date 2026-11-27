@@ -5,8 +5,9 @@ classe:
 Dominio:
  - "[[Mezzanotte]]"
  - "[[Saggezza]]"
-spellcast_trait: Istinto (Instinct)
+spellcast_trait: Istinto
 source: La Notte Eterna
+status: Da verificare
 location:
  - "[[Oasi di Zey]]"
 ---
@@ -18,7 +19,7 @@ Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marzia
 ---
 
 ### Fondazione
-**_Dadi del Destino:_** Ottieni una riserva speciale di **Dadi del Destino (d8)** pari al tuo modificatore di _Istinto_ (minimo 1). Prima di effettuare un tiro d'azione o di reazione, puoi spendere 1 Dado del Destino per aggiungerne il risultato come bonus diretto al totale del tiro. Recuperi tutti i Dadi del Destino dopo un riposo lungo.
+**_Dadi del Destino:_** Dopo ogni riposo lungo ottieni 2 **Dadi del Destino (d6)**. Una volta prima di un tiro d'azione o di reazione, puoi spendere un dado: se il risultato è 4 o più, il tiro ha **Vantaggio**. I dadi si azzerano al riposo lungo.
 
 ---
 
@@ -29,7 +30,7 @@ Ranger devoti al dio [[Doomkhan]], che vedono il destino come una risorsa marzia
 ---
 
 ### Maestria
-**_Onniscienza Futura:_** I tuoi Dadi del Destino diventano **d12**. Inoltre, quando spendi un Dado del Destino e il risultato è pari o inferiore a 3, non lo consumi e lo riponi immediatamente nella tua riserva.
+**_Onniscienza Futura:_** Dopo un riposo lungo ottieni 3 Dadi del Destino invece di 2. Inoltre, una volta per riposo lungo puoi spendere un dado dopo aver visto un tiro riuscito per ridurre il GM a guadagnare la Paura prevista di 1, fino a un minimo di 0.
 
 ---
 

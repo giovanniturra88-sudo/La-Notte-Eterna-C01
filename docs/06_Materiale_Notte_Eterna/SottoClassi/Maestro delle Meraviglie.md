@@ -5,8 +5,9 @@ classe:
 Dominio:
  - "[[Codice]]"
  - "[[Splendore]]"
-spellcast_trait: Conoscenza (Knowledge)
+spellcast_trait: Conoscenza
 source: La Notte Eterna
+status: Da verificare
 location:
  - "[[Daragoss]]"
 ---
@@ -17,18 +18,18 @@ Mago d'accademia rinomato per l'identificazione, l'uso e l'affinità assoluta co
 ---
 
 ### Fondazione
-**_Studio & Arcanista Meraviglioso:_** Ottieni **Vantaggio** a tutte le prove di _Conoscenza_ effettuate per decifrare, identificare o comprendere le proprietà di artefatti e oggetti magici. Durante un riposo, puoi vincolare un oggetto magico al tuo spirito: finché l'oggetto è vincolato, i tuoi attacchi magici infliggono un numero di **danni extra** pari alla tua proficiency (minimo 2).
+**_Studio & Arcanista Meraviglioso:_** Una volta per scena ottieni **Vantaggio** a una prova di *Conoscenza* per decifrare, identificare o comprendere un artefatto. Durante un riposo puoi vincolare un oggetto magico: una volta per scena aggiungi **1d4** danni a un attacco magico che usa quell'oggetto.
 
 ---
 
 ### Specializzazione
 **_Incantamento Meraviglioso:_** Durante un riposo breve o lungo, puoi canalizzare l'energia del tuo oggetto vincolato. Fino al riposo successivo, ottieni **Vantaggio** al tuo primo tiro d'attacco magico di ogni scena.
-**_Richiamo Perfetto:_** Una volta per riposo, quando recuperi una carta dal Vault, riduci di 1 il suo costo di Recupero.
+**_Richiamo Perfetto:_** Una volta per riposo, quando richiami una carta dalla riserva, riduci di 1 il suo costo di richiamo, fino a un minimo di 0.
 
 ---
 
 ### Maestria
-**_Manipolatore di Meraviglie:_** Una volta per riposo lungo, puoi drenare l'energia dell'oggetto vincolato per recuperare immediatamente **2 punti Stress** o **2 Speranze**. Inoltre, puoi ora tenere vincolati fino a **due oggetti magici contemporaneamente**, ottenendo i benefici di entrambi.
+**_Manipolatore di Meraviglie:_** Una volta per riposo lungo puoi drenare l'energia dell'oggetto vincolato per cancellare **2 Stress** oppure ottenere **2 Speranze**. Puoi inoltre scegliere quale dei tuoi due oggetti vincolati è attivo al termine di ogni riposo; solo quello concede il beneficio.
 
 ---
 

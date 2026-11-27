@@ -5,9 +5,9 @@ classe:
 Dominio:
   - "[[Ossa]]"
   - "[[Saggezza]]"
-spellcast_trait:
-  - Istinto (Instinct)
+spellcast_trait: Agilità
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Ducato di Öuin]]"
   - "[[Landa di Edeber]]"
@@ -21,15 +21,14 @@ Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di muoversi i
 
 ### Fondazione
 **_Passo Lungo & Felpato:_** la tua andatura è rapida e quasi impalpabile.
-
 * Ottieni permanentemente un **bonus di +1 al tuo punteggio di Evasione (Evasion)**
-* Quando ti muovi, puoi coprire una distanza maggiore (ad esempio passare da una portata *Molto Vicina* a *Lontana*) con un singolo movimento narrativo.
-* Ottieni **Vantaggio** a tutti i tiri di *Agilità* o *Furtività* effettuati mentre ti sposti o cerchi di non far sentire la tua presenza.
+* Una volta per scena puoi coprire una distanza maggiore, ad esempio da **Molto Vicina** a **Lontana**, con un solo movimento.
+* Una volta per scena ottieni **Vantaggio** a un tiro di *Agilità* effettuato mentre ti sposti o cerchi di non far sentire la tua presenza.
 
 ---
 
 ### Specializzazione
-**_Passo Schivo:_** Hai +1 ad evasione. Sei maestro nel disimpegnarti dal pericolo. Quando ti allontani da un nemico a portata **Mischia (Melee)**, i nemici che cercano di intercettarti o reagire al tuo movimento subiscono **Svantaggio** al loro tiro d'attacco.
+**_Passo Schivo:_** Hai +1 ad evasione. Sei maestro nel disimpegnarti dal pericolo.Una volta per scena, quando ti allontani da un nemico in **Mischia**, subiscono **Svantaggio** gli attacchi di reazione diretti contro di te fino alla tua prossima azione.
 **_Passo Fuorviante:_** puoi spendere **1 Speranza** e descrivere un finto movimento o un'illusione ottica per confondere un avversario a portata visibile. Quell'avversario subisce **Svantaggio** a tutti i tiri d'attacco diretti contro di te finché non ti infligge danni o finché la scena non termina.
 
 ---
@@ -37,9 +36,8 @@ Esploratori e ranger fondati da [[Edeber l'Esploratore]], in grado di muoversi i
 ### Maestria
 **_Passo Perfetto:_** Hai raggiunto il totale controllo del tuo peso e dell'equilibrio:
 
-* Puoi camminare e correre su **superfici acquatiche e pareti verticali** come se fossero normale terreno pianeggiante.
-* Ignori qualsiasi intralcio provocato da terreni perigliosi, ostacoli o vegetazione intricata.
-* Ottieni **Resistenza** ai danni ambientali e alle trappole legate al terreno (come acido, fuoco di superficie, spintoni o trappole a pressione).
+* Una volta per riposo breve puoi trattare acqua, una parete verticale o un terreno periglioso come percorso normale per una scena.
+* Durante l'effetto, se un danno ambientale o una trappola ti farebbe marcare Punti Ferita, puoi marcare 1 *Stress* per ridurli di uno.
 
 ---
 ## Domande di Sfondo

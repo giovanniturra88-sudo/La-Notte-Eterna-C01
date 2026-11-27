@@ -2,12 +2,13 @@
 type: Sottoclasse
 classe:
  - "[[Ranger]]"
-spellcast_trait: Istinto (Instinct)
+spellcast_trait: Agilità
 Dominio:
  - "[[Ossa]]"
  - "[[Saggezza]]"
 location: "[[Valle Nuvolosa]]"
 source: La Notte Eterna
+status: Da verificare
 ---
 # Sottoclasse: Guardiano Nanico
 
@@ -18,8 +19,8 @@ Ranger nani specializzati nel depistaggio non letale e nell'uso di illusioni mon
 ### Fondazione
 **_Munizioni di Depistaggio:_** Durante un riposo breve o lungo, puoi preparare 3 frecce speciali. Quando effettui un attacco a distanza, puoi spendere una freccia per applicare uno dei seguenti effetti tattici (senza infliggere danni feritori):
 
-- **Spettrale**: Il bersaglio a portata **Vicina (Close)** marca 1 Stress e ha svantaggio al prossimo attacco.
-- **Luminosa / Stordente**: Il bersaglio a portata **Vicina (Close)** è temporaneamente **Vulnerabile**.
+- **Spettrale**: Il bersaglio a portata **Vicina** marca 1 Stress e ha svantaggio al prossimo attacco.
+- **Luminosa / Stordente**: Il bersaglio a portata **Vicina** è temporaneamente **Vulnerabile**.
 
 ---
 

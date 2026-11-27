@@ -1,13 +1,15 @@
 ---
 type: Sottoclasse
-classe: "[[Blood Hunter]]"
+classe:
+  - "[[Blood Hunter]]"
 Dominio:
   - "[[Sangue]]"
   - "[[Ossa]]"
 spellcast_trait:
-  - Presenza (Presence)
-  - Istinto (Instinct)
+  - Presenza
+  - Istinto
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[I Bianchi Sepolcri]]"
   - "[[Principato di Darkflame]]"
@@ -24,14 +26,13 @@ Paladini risorti per volere di [[Krea]], che non seguono la via del bene o del m
 ---
 
 ### Specializzazione
-**_Aura dell'Oltretomba:_** Emani un'aura spettrale entro portata **Molto Vicina (Very Close)**. Tutte le creature invisibili o incorporee che entrano nell'area perdono l'incorporeità e diventano visibili a tutti finché vi rimangono.
-**_Cupo Raccolto:_** Quando metti a segno un attacco con successo che infligge danni Necrotici e causa il superamento di una Soglia di Danno Maggiore o Severa, puoi cancellare **1 Punto Ferita** marcato dalla tua scheda marcando **1 stress**.
+**_Aura dell'Oltretomba:_** Emani un'aura spettrale entro portata **Molto Vicina**. Tutte le creature invisibili o incorporee che entrano nell'area perdono l'incorporeità e diventano visibili a tutti finché vi rimangono.
+**_Cupo Raccolto:_** Una volta per scena, quando un attacco necrotico fa segnare danni Severi, puoi marcare **1 Stress** per ridurre di uno i Punti Ferita che hai segnato dall'ultimo attacco subito.
 
 ---
 
 ### Maestria
-**_Avatar della Dama Nera:_** Una volta per riposo lungo, spendendo **3 Speranze**, ti trasformi in un campione scheletrico alato di [[Krea]] per la durata della scena. Durante la trasformazione ottieni la capacità di **Volare**, immunità totale ai danni **Necrotici**, e scegli due fra +4 Soglia Grave, +2 Evasione, +1 Proficiency. 
-Ogni attacco riuscito cancella 1 Stress, **massimo 3 volte per scena**
+**_Avatar della Dama Nera:_** Una volta per riposo lungo puoi spendere **3 Speranze** per assumere la forma scheletrica di [[Krea]] fino alla fine della scena. Puoi volare; una volta durante la trasformazione riduci di una soglia i danni necrotici subiti. Fino a due volte nella scena, quando metti a segno un attacco, cancella **1 Stress**.
 
 ---
 

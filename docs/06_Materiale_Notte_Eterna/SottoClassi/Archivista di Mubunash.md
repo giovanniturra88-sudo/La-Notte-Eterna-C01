@@ -2,17 +2,12 @@
 type: Sottoclasse
 classe:
   - "[[Wizard]]"
-  - "[[Bard]]"
-  - "[[Rogue]]"
 Dominio:
   - "[[Codice]]"
   - "[[Splendore]]"
-  - "[[Grazia]]"
-spellcast_trait:
-  - Conoscenza (Knowledge)
-  - Presenza (Presence)
-  - Istinto (Instinct)
+spellcast_trait: Conoscenza
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Mubunash]]"
 ---
@@ -24,21 +19,21 @@ Appartenenti alla prestigiosa e paradossale **Corporazione degli Archivisti** co
 
 ### Custode dei Segreti
 
-La tua mente è una biblioteca vivente. Ottieni **Vantaggio** a tutte le prove di Storia, Investigare o Decifrare effettuate per interpretare testi antichi, tradurre pergamene di Vera Magia o scoprire i punti deboli di mostri e fazioni storiche di Neir.
+La tua mente è una biblioteca vivente. Una volta per scena puoi ottenere **Vantaggio** a una prova per interpretare testi antichi, tradurre pergamene di Vera Magia o indagare sui punti deboli di mostri e fazioni storiche di Neir.
 
-Inoltre, grazie alla tua profonda disciplina mentale, puoi **scegliere 1 carta Dominio aggiuntiva** rispetto al limite standard.
+Inoltre, una volta per riposo lungo, puoi scegliere una carta nella tua riserva e considerarla attiva fino alla fine della scena, superando temporaneamente di una carta la normale dotazione.
 ## Caratteristiche di Specializzazione
 ### Parola del Dotto
 
 Conosci storie, aneddoti e tattiche applicate in battaglie e imperi ormai scomparsi.
 
-Una volta per sessione, durante un riposo breve o una fase di pianificazione, puoi descrivere un aneddoto storico o una memoria accademica rilevante. Scegli un'**Esperienza** di un tuo alleato: spendendo **1 Speranza**, puoi assimilare ed eseguire temporaneamente quell'Esperienza con lo stesso modificatore dell'alleato fino al tuo prossimo riposo lungo.
+Una volta per riposo lungo, durante un riposo breve o una fase di pianificazione, puoi descrivere un aneddoto rilevante. Scegli un'**Esperienza** di un alleato e spendi **1 Speranza**: per il tuo prossimo tiro puoi applicarne il modificatore.
 ## Caratteristiche di Maestria
 
 ### Contemplazione della Polvere
 
 Hai compreso l'inevitabile scorrere del tempo e gli errori del passato, imparando a volgere a tuo favore anche le situazioni peggiori.
-Una volta per scena, quando effettui un tiro d'azione o di reazione e ottieni un **Tiro con Paura (il Dado della Paura è superiore al Dado della Speranza), puoi spendere **2 Speranze** per convertire il risultato in un **Successo con Speranza**, descrivendo come un lampo di genio o un ricordo storico ti mostri la via d'uscita perfetta, ma il Master ottiene comunque 1 Paura.
+Una volta per riposo lungo, quando ottieni un tiro con Paura, puoi spendere **2 Speranze** per convertirlo in un successo con Speranza. Il GM guadagna comunque **1 Paura**.
 
 ## Domande di Sfondo
 

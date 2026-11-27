@@ -5,8 +5,9 @@ classe:
 Dominio:
  - "[[Sangue]]"
  - "[[Splendore]]"
-spellcast_trait: Conoscenza (Knowledge)
+spellcast_trait: Conoscenza
 source: La Notte Eterna
+status: Da verificare
 location:
  - "[[Principato di Darkflame]]"
  - "[[I Bianchi Sepolcri]]"
@@ -18,19 +19,18 @@ Necromanti e medium sopravvissuti a potenti ed empi esperimenti necromantici, in
 ---
 
 ### Fondazione
-**_Vascello delle Anime:_** Puoi vedere chiaramente gli spiriti dei defunti. Possiedi una riserva di **Punti Spirito** (massimo pari al tuo modificatore di _Conoscenza_). 
-All’inizio di ogni riposo lungo hai 1 Punto Spirito. Massimo = Conoscenza, **minimo 2**. Quando uno scontro ha fine o quando viene sconfitto un nemico rilevante, ottieni **1 Punto Spirito**. Puoi spendere 1 Punto Spirito prima di un tiro d'attacco magico o di danno per infliggere **+1d8 danni magici extra**.
+**_Vascello delle Anime:_** Puoi vedere chiaramente gli spiriti dei defunti. Al termine di un riposo lungo ottieni 2 **Punti Spirito**, fino a un massimo di 3; quando finisce uno scontro rilevante ne ottieni 1. Puoi spendere 1 Punto Spirito prima di un attacco magico per aggiungere **1d6** danni.
 
 ---
 
 ### Specializzazione
-**_Unione con i Morti:_** Spendi **2 Punti Spirito** per rendere la tua forma fisica incorporea fino alla tua prossima azione. Puoi attraversare pareti, ostacoli e nemici e ottieni **Resistenza** a tutti i danni fisici (dimezza i danni fisici) subiti in questo lasso di tempo.
-**_Medium:_** La presenza costante di spiriti guida ti dona consigli inattesi: ottieni un’**Esperienza gratuita +2** (“Spiriti Guida”). Una volta per scena, un tiro di Conoscenza ha vantaggio.
+**_Unione con i Morti:_** Una volta per scena puoi spendere **2 Punti Spirito**: fino alla tua prossima azione attraversi ostacoli narrativi e, se subisci danni fisici, riduci di una soglia i Punti Ferita segnati.
+**_Medium:_** Ottieni l'Esperienza **Spiriti Guida +2**. Una volta per scena puoi ottenere **Vantaggio** a un tiro di *Conoscenza*.
 
 ---
 
 ### Maestria
-**_Le Braccia dei Morti:_** Una volta per scena, quando stai per marcare Punti Ferita in seguito a un attacco, puoi spendere **1 Punto Spirito** per evocare braccia spettrali protettive. Le braccia assorbono i danni cancellando fino a **2 Punti Ferita** o **3 punti Stress** dal colpo subito.
+**_Le Braccia dei Morti:_** Una volta per scena, quando stai per segnare Punti Ferita, puoi spendere **1 Punto Spirito** per ridurre di uno i Punti Ferita segnati oppure evitare 2 *Stress*.
 
 ---
 

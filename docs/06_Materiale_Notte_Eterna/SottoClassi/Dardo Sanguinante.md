@@ -5,10 +5,9 @@ classe:
 Dominio:
   - "[[Mezzanotte]]"
   - "[[Grazia]]"
-spellcast_trait:
-  - Astuzia
-  - Agilità
+spellcast_trait: Astuzia
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Mendulia's Rock]]"
   - "[[Neir]]"
@@ -20,7 +19,7 @@ I Dardi Sanguinanti sono la più potente e temuta gilda malavitosa che estende i
 ## Caratteristiche di Fondazione
 
 ### Tatuaggio di Sangue
-Quando metti a segno un attacco con successo usando il tuo privilegio di classe (come _Sneak Attack_), puoi marcare **1 Stress** per infliggere la condizione **Sanguinante** al bersaglio. All'inizio di ogni sua azione, la creatura sanguinante subisce **1 punto ferita** finché essa o un alleato non spendono un'azione per medicarla.
+Una volta per scena, quando metti a segno un attacco sfruttando una capacità della classe, puoi marcare **1 Stress** per infliggere **Sanguinante**. La creatura marca 1 *Stress* all'inizio della sua prossima azione, poi l'effetto termina; può anche terminare spendendo un'azione per medicarsi.
 
 ## Caratteristiche di Specializzazione
 
@@ -28,12 +27,12 @@ Quando metti a segno un attacco con successo usando il tuo privilegio di classe 
 Conosci i rifugi segreti della gilda. Una volta per sessione, quando il gruppo giunge in un centro abitato, puoi spendere **1 Speranza** per condurre tutti in un covo sicuro dove effettuare riposi brevi o lunghi in totale sicurezza.
 
 ### Smercio dei Bassifondi
-Ottieni **Vantaggio** a tutti i tiri per interagire o contrattare con ricettatori, criminali e mercanti del mercato nero, ottenendo sempre il miglior prezzo di vendita per la refurtiva.
+Una volta per scena ottieni **Vantaggio** a un tiro per interagire o contrattare con ricettatori, criminali e mercanti del mercato nero.
 
 ## Caratteristiche di Maestria
 
 ### Dardo Letale
-Ottieni **Vantaggio** a tutti i tiri d'attacco effettuati contro bersagli che soffrono di condizioni (come _Sanguinante_, _Vulnerabile_ o _Veleno_). Quando sconfiggi un bersaglio affetto da una di queste condizioni, recuperi immediatamente **1 Punto Ferita** o **2 punti Stress**.
+Una volta per scena ottieni **Vantaggio** a un attacco contro un bersaglio affetto da una condizione. Una volta per riposo lungo, se lo sconfiggi, puoi cancellare 1 *Stress* oppure guadagnare **1 Speranza**.
 
 ---
 

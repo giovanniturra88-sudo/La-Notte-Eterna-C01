@@ -2,12 +2,12 @@
 type: Sottoclasse
 classe:
   - "[[Witch]]"
-  - "[[Seraph]]"
-spellcast_trait: Conoscenza
+spellcast_trait: Istinto
 Dominio:
   - "[[Saggezza]]"
   - "[[Terrore]]"
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Valli dei Giganti]]"
 ---
@@ -18,18 +18,18 @@ Chierici e incantatori araldi del gelo divino di [[Unthamarand]], che traggono v
 ---
 
 ### Fondazione
-**_Gelo Interiore:_** contro danni di Freddo marchi 1 Stress per dimezzarli. Due volte per riposo breve o lungo, puoi spendere **1 Speranza** per evocare uno schermo di ghiaccio protettivo: ottieni uno scudo temporaneo che ti permette di cancellare 1 Punti Ferita (è cumulabile) dal prossimo attacco che subisci.
+**_Gelo Interiore:_** Una volta per scena, contro danni da freddo puoi marcare 1 *Stress* per ridurre di una soglia i Punti Ferita segnati. Due volte per riposo lungo puoi spendere **1 Speranza** per ridurre di uno i Punti Ferita segnati dal prossimo attacco subito nella scena.
 
 ---
 
 ### Specializzazione
-**_Canalizzazione del Gelo:_** Una volta per scena, quando metti a segno un incantesimo o un attacco che infligge danni da Freddo, puoi marcare **1 Stress** per massimizzare il risultato di uno dei tuoi dadi di danno.
+**_Canalizzazione del Gelo:_** Una volta per scena, quando metti a segno un incantesimo o un attacco che infligge danni da freddo, puoi marcare **1 Stress** per aggiungere **1d6** danni.
 **_Aura di Ghiaccio:_** Mentre lo scudo è attivo, un avversario in Mischia che ti infligge danno subisce **1d6 magico**.
 
 ---
 
 ### Maestria
-**_Signore dell'Inverno:_** Ottieni l'immunità totale ai danni da Freddo. I bersagli colpiti dai tuoi attacchi di gelo subiscono la condizione **Vulnerabile** se marchi **1 Stress**.
+**_Signore dell'Inverno:_** Una volta per riposo lungo, quando subisci danni da freddo, puoi spendere **1 Speranza** per azzerare i Punti Ferita segnati da quell'effetto. Una volta per scena, dopo aver colpito con il gelo, puoi marcare **1 Stress** per rendere il bersaglio **Vulnerabile**.
 
 ---
 

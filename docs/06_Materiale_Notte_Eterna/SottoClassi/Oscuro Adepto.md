@@ -2,12 +2,12 @@
 type: Sottoclasse
 classe:
   - "[[Warlock]]"
-  - "[[Seraph]]"
 Dominio:
   - "[[Terrore]]"
   - "[[Grazia]]"
-spellcast_trait: Presenza (Presence)
+spellcast_trait: Presenza
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Pianure di Xanesh]]"
   - "[[Mubunash]]"
@@ -19,19 +19,18 @@ Chierici e cultisti devoti del semidio [[Tenebris]], che stringono patti inferna
 ---
 
 ### Fondazione
-**_Protezione Infernale:_** hai 1 slot extra Stress. Quando subisci danni (una volta per riposo) da un attacco, puoi marcare **1 Stress** per essere ammantato da ombre deformi che ti concedono di dimezzare i danni di quel singolo attacco.
+**_Protezione Infernale:_** Una volta per riposo lungo, quando subisci danni da un attacco, puoi marcare **1 Stress** e ridurre di una soglia i Punti Ferita che segni.
 
 ---
 
 ### Specializzazione
-**_In Catene:_** Spendi **1 Speranza** per evocare catene d'acciaio incandescente contro un nemico entro portata **Vicina (Close)**. Fai un tiro contro la difficoltà dell'avversario: se riesce, subisce la condizione **Trattenuto (Restrained)** finché non spende un'azione per liberarsi o la scena termina.
+**_In Catene:_** Spendi **1 Speranza** per evocare catene d'acciaio incandescente contro un nemico entro portata **Vicina**. Fai un tiro contro la difficoltà dell'avversario: se riesce, subisce la condizione **Trattenuto** finché non spende un'azione per liberarsi o la scena termina.
 **_Aguzzino Competente:_** Ottieni **Vantaggio** a tutti i tiri d'azione di _Presenza_ o _Intimidire_ effettuati per minacciare, interrogare o instillare paura nei tuoi interlocutori.
 
 ---
 
 ### Maestria
-**_Pentacolo dei Dieci Devoti:_** Ottieni l'immunità totale ai danni da Veleno, e la tua natura di creatura diventa permanentemente **Immondo (Fiend)**. Tutti i tuoi tiri per intimidire od ordinare sono con **Vantaggio**, ma subisci **Svantaggio** costante nelle prove di _Persuasione_ dirette a creature buone o consacrate.
-Una volta per riposo lungo, spendendo 2 Speranze, quando dovresti marcare più PF ne marchi solo 1.
+**_Pentacolo dei Dieci Devoti:_** La tua natura diventa **Immondo**. Una volta per scena ottieni **Vantaggio** per intimidire o ordinare, ma subisci **Svantaggio** alla prima prova di persuasione contro una creatura consacrata. Una volta per riposo lungo, contro un effetto di veleno o quando dovresti marcare Punti Ferita, puoi spendere **2 Speranze** per ridurre di una soglia i Punti Ferita segnati.
 
 ---
 

@@ -1,16 +1,13 @@
 ---
-type:
-  - Sottoclasse
+type: Sottoclasse
 classe:
   - "[[Wizard]]"
-spellcast_trait:
-  - Conoscenza (Knowledge)
+spellcast_trait: Conoscenza
 Dominio:
   - "[[Codice]]"
-  - "[[Lama]]"
-  - "[[Ossa]]"
   - "[[Splendore]]"
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Mubunash]]"
   - "[[Ducato di Öuin]]"
@@ -27,21 +24,22 @@ Maghi spadaccini e studiosi del Fuoco Segreto, in grado di unire la scherma all'
 **_Arcano della Lama:_** Puoi compiere un breve rito concentrato per manifestare una spada di pura energia arcana nella tua mano.
 * Quando effettui un Tiro d'Attacco con quest'arma, usi il tuo tratto di lancio degli incantesimi (**Conoscenza**) invece della Forza.
 * L'arma infligge **1d8 danni magici**.
-* Puoi farla scomparire o richiamarla istantaneamente a te in qualsiasi momento del tuo movimento.
+* Puoi farla scomparire o richiamarla durante il movimento. L'effetto termina se resta a più di **Lontana** da te.
 
 ---
 
 ### Specializzazione
 **_Arcano della Preveggenza:_** La tua visione anticipata degli eventi ti rende schivo e infallibile nelle prime fasi dello scontro.
 * Finché non indossi un'armatura pesante, la tua **Evasione (Evasion)** aumenta permanentemente di **+1**.
-* Quando la scena di combattimento ha inizio, puoi spendere **1 Speranza** per agire prima di chiunque altro, imponendo la tua iniziativa nel flusso narrativo.
+* Una volta per scena, finché non indossi armatura pesante, puoi ottenere **Vantaggio** a un Tiro di Reazione.
+* Una volta per riposo lungo, quando inizia uno scontro, puoi spendere **1 Speranza** per agire prima di un avversario scelto dal GM.
 **_Arcano del Tempo:_** Imparando a riavvolgere brevi istanti di tempo:
-* Una volta per riposo lungo, quando tu o un alleato entro portata **Vicina (Close)** subite un attacco devastante o fallite un tiro decisivo, puoi marcare **1 Stress** e usare **1 Speranza** per annullare l'esito negativo appena avvenuto, costringendo il tiro a essere effettuato nuovamente o annullando l'azione del nemico.
+* Una volta per riposo lungo, quando tu o un alleato entro portata **Vicina** subite un attacco devastante o fallite un tiro decisivo, puoi marcare **1 Stress** e usare **1 Speranza** per annullare l'esito negativo appena avvenuto, costringendo il tiro a essere effettuato nuovamente o annullando l'azione del nemico.
 
 ---
 
 ### Maestria
-**_Maestro del Fuoco Segreto:_** La tua lama arcana trascende le barriere della materia (hai +1 Proficinecy per gli attacchi della lama).
+**_Maestro del Fuoco Segreto:_** Una volta per scena, quando colpisci con la lama arcana, puoi aggiungere **1d6** danni magici o ignorare l'Armatura spendendo **1 Speranza** e marcando **1 Stress**.
 
 ---
 

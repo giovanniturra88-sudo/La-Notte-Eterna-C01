@@ -2,14 +2,12 @@
 type: Sottoclasse
 classe:
   - "[[Guardian]]"
-  - "[[Warrior]]"
-spellcast_trait:
-  - Forza
 Dominio:
-  - "[[Lama]]"
-  - "[[Ossa]]"
   - "[[Valore]]"
+  - "[[Lama]]"
+spellcast_trait:
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Ducato di Öuin]]"
 ---
@@ -23,18 +21,18 @@ Resistenti combattenti e baluardi inamovibili specializzati nella pura forza fis
 ### Fondazione
 **_Armatura del Veterano:_** La tua familiarità con le corazze pesanti le rende un'estensione del tuo corpo.
 * Ignori qualsiasi penalità al tuo punteggio di **Evasione (Evasion)** derivante dall'indossare armature pesanti.
-* Incrementi permanentemente la tua **Soglia di Danno Maggiore (Major Damage Threshold)** di **+2**.
+* Una volta per scena, mentre indossi armatura pesante, puoi marcare 1 *Stress* per ridurre di una soglia i danni fisici subiti.
 ---
 ### Specializzazione
 **_Resilienza del Veterano:_** Puoi spendere **1 Speranza** per focalizzare l'attenzione e la guardia su un singolo avversario in vista. Fino a fine scena, quando ti infligge danno fisico, puoi marcare 1 Stress per ridurne la gravità di una soglia.
-**_Nella Polvere:_** Quando riesci a bloccare o a colpire un bersaglio a portata **Mischia (Melee)** con un tiro d'attacco in risposta a un suo movimento o azione, il nemico diviene temporaneamente **vulnerabile**.
+**_Nella Polvere:_** Quando riesci a bloccare o a colpire un bersaglio a portata **Mischia** con un tiro d'attacco in risposta a un suo movimento o azione, il nemico diviene temporaneamente **vulnerabile**.
 
 ---
 
 ### Maestria
 **_Inamovibile:_** Sei un baluardo inscalfibile sul campo di battaglia:
 * **+2 a entrambe le soglie** di danno.
-* Immunità a spostamenti forzati e alla condizione **Trattenuto**. 
+* Una volta per scena, quando un effetto ti sposterebbe forzatamente o ti imporrebbe **Trattenuto**, puoi marcare 1 *Stress* per impedirlo.
 ---
 
 ## Domande di Sfondo
