@@ -1,7 +1,7 @@
 ---
-type:
- - "[[Ancestry]]"
+type: Ascendenza
 source: La Notte Eterna
+status: Da verificare
 ---
 
 ![](../../../04_Risorse/Pictures/wiloi_pic.png)
@@ -11,11 +11,11 @@ source: La Notte Eterna
 - **Archetipo**: Padroneggiano le arti arcane e ogni aspetto della loro vita è regolato dalla magia. Esploratori di frontiera e osservatori. Sono noti per la loro agilità innata e la capacità di percepire i cambiamenti nelle correnti energetiche che attraversano il mondo.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sensi Acuti** *(prima feature)*: Ottieni vantaggio ai tiri di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
+- **Sensi Acuti** *(prima feature)*: Una volta per scena, puoi ottenere **Vantaggio** a un tiro di *Istinto* per individuare minacce nascoste o creature che tentano di tenderti un'imboscata.
 - **Anima Gemella** *(seconda feature)*: Puoi evocare il tuo [[Yamyam]] come Compagno. Si comanda con il Tiro di Incantesimo, quindi serve una sottoclasse con un tratto di lancio.
 
 > [!NOTE] Variante senza Compagno
-> La seconda feature diventa **Memoria Dimensionale**: una volta per sessione ottieni una conoscenza specifica su un portale o un fenomeno magico, senza costo di Timore.
+> La seconda feature diventa **Memoria Dimensionale**: una volta per sessione, dopo una scena di investigazione, il GM ti rivela un dettaglio utile su un portale o un fenomeno magico. Nessun costo in Paura.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Essendo abituati a cieli lontani, i wiloi percepiscono la Notte Eterna non come un limite, ma come un'assenza che cercano di colmare con la loro curiosità (vedi la Regola dell'Oscurità nel Campaign Frame).

@@ -1,7 +1,7 @@
 ---
-type:
- - "[[Ancestry]]"
+type: Ascendenza
 source: La Notte Eterna
+status: Da verificare
 ---
 ![](../../04_Risorse/Pictures/karevi_pic.png)
 
@@ -11,8 +11,8 @@ source: La Notte Eterna
 - **Archetipo**: Esploratori del Velo e Guide. Si comportano come specialisti in mobilità e percezione, capaci di agire come "pilastri di silenzio" per il gruppo. Mentire è un'arte come un'altra nella loro cultura e sin da fanciulli sviluppano capacità che li rendono abili mercanti, in alcuni casi spie e sicari infallibili.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sintonia con l'Ombra** *(prima feature)*: Quando ti trovi in una zona d'ombra, puoi marcare 1 *Stress* per ottenere vantaggio su un tiro d'azione di *Astuzia* o *Istinto*. Una volta per scena.
-- **Passo Transdimensionale** *(seconda feature)*: Una volta per scena puoi teletrasportarti in un punto visibile entro Vicina (*Close*).
+- **Sintonia con l'Ombra** *(prima feature)*: Una volta per scena, quando ti trovi in una zona d'ombra, puoi marcare 1 *Stress* per ottenere **Vantaggio** a un tiro d'azione di *Astuzia* o *Istinto*.
+- **Passo Transdimensionale** *(seconda feature)*: Una volta per scena puoi teletrasportarti in un punto visibile entro Vicina.
 
 ## Integrazione in Nebvarasa
 - **Visione del Velo**: I karevi vedono attraverso l'oscurità magica e percepiscono i flussi di energia necrotica vicino a sé. È un tratto fisico: il Master lo usa come informazione narrativa, non come bonus automatico.

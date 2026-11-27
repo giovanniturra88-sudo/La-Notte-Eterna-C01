@@ -1,7 +1,7 @@
 ---
-type:
- - "[[Ancestry]]"
+type: Ascendenza
 source: La Notte Eterna
+status: Da verificare
 ---
 
 ![](../../../04_Risorse/Pictures/nuno_pic.png)
@@ -11,8 +11,8 @@ source: La Notte Eterna
 - **Archetipo**: Allevatori di sciami e sentinelle delle canopie. Esploratori di ambienti fitti, oscuri e claustrofobici.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sciame Pungente** *(prima feature)*: Quando metti a segno un attacco con arma entro Vicina (*Close*), puoi spendere 1 *Speranza*: il tuo sciame infligge 1d6 danni fisici extra al bersaglio.
-- **Sensi dell'Alveare** *(seconda feature)*: Spendi 1 *Speranza* e chiedi al Master cosa percepiscono i tuoi insetti entro Lontana (*Far*): presenza e posizione approssimativa di creature, passaggi, vibrazioni nel terreno. Il prossimo tiro d'azione che sfrutta quell'informazione ha vantaggio.
+- **Sciame Pungente** *(prima feature)*: Una volta per scena, quando metti a segno un attacco con arma entro **Vicina**, puoi spendere 1 *Speranza*: il tuo sciame infligge 1d6 danni fisici aggiuntivi.
+- **Sensi dell'Alveare** *(seconda feature)*: Una volta per riposo breve, spendi 1 *Speranza* e chiedi al GM cosa percepiscono i tuoi insetti entro **Lontana**: presenza e posizione approssimativa di creature, passaggi o vibrazioni. Il prossimo tiro d'azione che sfrutta quell'informazione ha **Vantaggio**.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: I nuno non considerano la Notte Eterna un ostacolo, ma una condizione necessaria per la loro esistenza: i loro sciami li guidano anche nelle nebbie (vedi la Regola dell'Oscurità nel Campaign Frame).

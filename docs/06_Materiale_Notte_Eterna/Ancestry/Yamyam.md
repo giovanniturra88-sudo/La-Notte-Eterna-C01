@@ -4,9 +4,11 @@ tags:
  - companion/yamyam
  - wiloi
  - lore/azkabel
-type: Companion
+type: Compagno
 creature_type: Elementale Piccolo (Arcano)
 owner_class: Qualsiasi sottoclasse con tratto di lancio
+source: La Notte Eterna
+status: Da verificare
 ---
 
 ![](../../../04_Risorse/Pictures/yamyam.png)
@@ -25,9 +27,9 @@ Gli yamyam sono estensioni dell'anima dei [[Wiloi]]. Sono la feature *Anima Geme
 ## 🔮 Creazione
 
 1. **Nome e aspetto.** Dagli un nome e scegli come appare (un mammifero terrestre, vagamente).
-2. **Evasione:** 10.
-3. **Esperienze:** due, a +2 ciascuna (es. *Sussurri Arcani*, *Sempre all'Erta*, *Fedele fino alla Fine*). Ogni volta che ottieni una nuova Esperienza, anche lo yamyam ne ottiene una a +2.
-4. **Attacco:** *Proiettile Arcano*, danni magici, dado d6, portata Vicina (*Close*).
+2. **Difesa:** usa la Difficoltà appropriata del narratore; non possiede un punteggio autonomo di Evasione.
+3. **Esperienze:** due, a +2 ciascuna (es. *Sussurri Arcani*, *Sempre all'Erta*, *Fedele fino alla Fine*).
+4. **Attacco:** *Proiettile Arcano*, danni magici, dado d6, portata **Vicina**.
 5. **Aspetto:** scegli Purezza, Protezione o Furia. Riflette l'indole del possessore, non è un allineamento morale.
 6. **Stress:** 3 caselle (valore provvisorio, da allineare alla scheda del Compagno ufficiale).
 
@@ -35,7 +37,7 @@ Gli yamyam sono estensioni dell'anima dei [[Wiloi]]. Sono la feature *Anima Geme
 
 ## 🪽 Forme
 
-* **Forma Limitata (sempre disponibile):** spendi **1 Speranza** con un'azione per evocarlo. Può solo interagire con oggetti e ambiente, esplorare e comunicare con te in telepatia entro Lontana (*Far*). Non ha accesso ad attacco, Aspetto e crescita. Puoi congedarlo a costo zero e rievocarlo dopo un riposo (breve o lungo).
+* **Forma Limitata (sempre disponibile):** spendi **1 Speranza** con un'azione per evocarlo. Può solo interagire con oggetti e ambiente, esplorare e comunicare con te in telepatia entro Lontana. Non ha accesso ad attacco, Aspetto e crescita. Puoi congedarlo a costo zero e rievocarlo dopo un riposo (breve o lungo).
 * **Vera Forma (una volta per riposo lungo):** con un'azione, per la durata di una scena, lo yamyam ha accesso a tutte le feature di questa scheda.
 
 ---
@@ -44,7 +46,7 @@ Gli yamyam sono estensioni dell'anima dei [[Wiloi]]. Sono la feature *Anima Geme
 
 * Per fargli compiere un'azione fai un **Tiro di Incantesimo**. Spendi 1 *Speranza* per aggiungere una sua Esperienza al tiro.
 * Se hai successo con Speranza e la tua azione successiva si basa sul suo successo, ottieni vantaggio.
-* Quando lo comandi ad attaccare, beneficia di ciò che normalmente vale solo per te. Il danno usa il tuo Proficiency e il suo dado.
+* Quando lo comandi ad attaccare, applica soltanto il proprio dado di danno e gli eventuali effetti temporanei della sua scheda.
 
 ---
 
@@ -70,17 +72,17 @@ Gli yamyam sono estensioni dell'anima dei [[Wiloi]]. Sono la feature *Anima Geme
 
 A ogni aumento di livello del possessore scegli un'opzione per lo yamyam:
 
-* **Intelligente:** +1 a un'Esperienza dello yamyam.
-* **Luce nel Buio:** una casella di Speranza aggiuntiva per te.
+* **Intelligente:** una volta per scena, puoi usare un'Esperienza dello yamyam senza spendere Speranza.
+* **Luce nel Buio:** una volta per riposo lungo, quando ottieni un risultato con Paura puoi invece guadagnare 1 Speranza.
 * **Conforto:** una volta per riposo, in un momento di quiete, ottieni 1 Speranza oppure voi due cancellate 1 *Stress*.
 * **Corazzato:** quando subisce danni puoi marcare una tua casella di Armatura al posto del suo *Stress*.
 * **Feroce:** dado di danno o portata +1 passo (d6→d8, Vicina→Lontana).
-* **Resistente:** una casella di *Stress* in più.
-* **Legato:** quando marchi l'ultimo Punto Ferita, lo yamyam accorre: tira un d6 per ogni sua casella di *Stress* non marcata e le marca; con almeno un 6 ti aiuta a rialzarti e cancelli quell'ultimo Punto Ferita.
-* **Consapevole:** +2 all'Evasione.
+* **Resistente:** una volta per riposo lungo, lo yamyam ottiene una casella temporanea di *Stress* fino alla fine della scena.
+* **Legato:** una volta per riposo lungo, quando stai per segnare Punti Ferita, lo yamyam può marcare una sua casella di *Stress*: tira un d6; con 4 o più, riduci di uno i Punti Ferita che segni.
+* **Consapevole:** una volta per scena, quando lo yamyam sarebbe colpito, il suo possessore può marcare 1 Stress affinché l'attacco subisca Svantaggio.
 * **Una sola per Aspetto** (dal tuo Aspetto):
   * 🪽 *Purezza:* **Preghiera Gentile**: una volta per riposo lungo gli alleati entro Vicina cancellano 1 *Stress*.
-  * 🛡️ *Protezione:* **Barriera Arcana**: una volta per riposo lungo, spendi 2 *Speranze*: tu e fino a tre alleati entro Vicina avete +1 all'Evasione fino a fine scena.
+  * 🛡️ *Protezione:* **Barriera Arcana**: una volta per riposo lungo, spendi 2 *Speranze*: fino a tre alleati entro **Vicina** possono ridurre di uno i Punti Ferita segnati dal prossimo attacco subito in questa scena.
   * 🗡️ *Furia:* **Mietitore Arcano**: quando usi *Tocco Mortale* puoi marcare 1 *Stress* per colpire anche una seconda creatura entro portata con lo stesso tiro.
 
 ---

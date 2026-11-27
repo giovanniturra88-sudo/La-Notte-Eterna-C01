@@ -1,7 +1,7 @@
 ---
-type:
- - "[[Ancestry]]"
+type: Ascendenza
 source: La Notte Eterna
+status: Da verificare
 ---
 ![](../../../04_Risorse/Pictures/klorss_pic.png)
 ## Essenza e Archetipo
@@ -10,10 +10,10 @@ source: La Notte Eterna
 - **Archetipo**: Incantatori dell'Oscurità e Mediatori. Specializzati nel manipolare le energie necrotiche e nel percepire minacce che provengono da altri piani.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Sintonia Ectoplasmica** *(prima feature)*: Quando subisci danni magici (necrotici inclusi), puoi marcare 2 *Stress* per dimezzare il danno ricevuto.
-- **Tocco del Velo** *(seconda feature)*: Spendi 1 *Speranza*: un avversario entro Vicina (*Close*) marca 1 *Stress* e ha svantaggio al suo prossimo attacco.
+- **Sintonia Ectoplasmica** *(prima feature)*: Una volta per scena, quando subisci danni magici, puoi marcare 1 *Stress* per ridurre di una soglia il numero di Punti Ferita che dovresti segnare.
+- **Tocco del Velo** *(seconda feature)*: Una volta per scena puoi spendere 1 *Speranza*: un avversario entro **Vicina** marca 1 *Stress* e subisce **Svantaggio** al suo prossimo attacco.
 
 ## Integrazione in Nebvarasa
-- **Vista del Vuoto**: Gli occhi viola dei klorss non sono ingannati dall'oscurità e distinguono i contorni delle entità invisibili vicine. È un tratto fisico: il Master lo usa come informazione narrativa. *Versione meccanica opzionale:* vantaggio ai tiri di *Istinto* per individuare creature Nascoste o invisibili entro Vicina.
+- **Vista del Vuoto**: Gli occhi viola dei klorss non sono ingannati dall'oscurità e distinguono i contorni delle entità invisibili vicine. È un tratto fisico: il GM lo usa come informazione narrativa.
 - **Percezione del Buio**: I klorss sono creature del crepuscolo perenne; la loro vista si è adattata a percepire le variazioni di temperatura e di energia anche dove non esiste alcuna fonte luminosa (vedi la Regola dell'Oscurità nel Campaign Frame).
 - **Relazione con le Fazioni**: Visti con rispetto misto a terrore dalle gerarchie ecclesiastiche di Neir, che li considerano "toccati dal Vuoto". Sono invece consultati come oracoli dalle fazioni che operano ai margini dei portali dimensionali.
