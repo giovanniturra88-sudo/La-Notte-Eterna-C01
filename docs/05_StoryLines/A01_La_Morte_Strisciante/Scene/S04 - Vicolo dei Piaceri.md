@@ -58,3 +58,35 @@ I personaggi potrebbero approfondire le discrepanze scoperte presso l'[[Obitorio
 I personaggi comprendono che il traffico di cadaveri è probabilmente il movente economico dietro la collaborazione dell'imbalsamatore.
 ### Seguire la pista criminale
 L'indagine continua verso gli intermediari che ritiravano i corpi e porta progressivamente verso [[Grualk]].
+
+## Nodo investigativo
+
+### Ingressi
+
+- Prova dei pagamenti di Claudius.
+- Contatto con i Dardi Sanguinanti.
+- Richiesta di un alleato del mercato.
+- Inseguimento di un intermediario proveniente dall'Obitorio o dalla Vetreria.
+
+### Domanda
+
+Perché Claudius ha accettato di partecipare al traffico e chi lo ricompensava?
+
+### Prove essenziali
+
+Il movimento del denaro può emergere da testimoni, registri informali, proprietari o debiti. Non è necessario salvare Claudius per comprendere il meccanismo economico.
+
+### Pressione
+
+Le domande attirano protettori e Dardi Sanguinanti. Un intervento brusco rende il quartiere diffidente; ascoltare con discrezione richiede però tempo e offre alla rete l'occasione di riorganizzarsi.
+
+### Uscite
+
+- Tornare all'Obitorio per contestare a Claudius una spesa o un debito.
+- Seguire il denaro fino al Ritrovo di Grualk.
+- Usare i Dardi Sanguinanti per scoprire una consegna alla Vetreria.
+- Individuare un luogo di raccolta e raggiungere la Sezione LVI senza interrogare Grualk.
+
+### Conseguenza del nodo
+
+Questo nodo rafforza una deduzione già ottenuta. Può essere saltato, ma se giocato crea alleati del quartiere o rende Claudius più incline a confessare.

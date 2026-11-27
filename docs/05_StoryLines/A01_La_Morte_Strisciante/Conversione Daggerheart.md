@@ -50,6 +50,9 @@ Il laboratorio viene scoperto e distrutto.
 
 ---
 # Clock Narrativi
+
+I tre clock seguenti sono gli unici fronti globali. Gli allarmi di scene specifiche, come quelli del Ritrovo o del Covo, sono contatori locali e non devono essere sommati ai fronti dell'intera storyline.
+
 ## Panico nei Bassifondi
 
 ○ ○ ○ ○ ○ ○
@@ -62,7 +65,7 @@ Effetto finale:
 La popolazione perde fiducia nella milizia e la situazione degenera.
 
 ---
-## Indagine di Zakara
+## Copertura di Zakara
 
 ○ ○ ○ ○ ○ ○
 
@@ -71,7 +74,7 @@ Si riempie quando:
 - i personaggi si fidano delle sue versioni;
 - un testimone viene eliminato.
 Effetto finale:
-Zakara riesce a coprire il proprio coinvolgimento.
+Zakara può bloccare o espellere i personaggi attraverso la milizia, ma non cancella prove già ottenute: la nuova versione diventa una contraddizione giocabile.
 
 ---
 ## Esperimenti di Silke
@@ -86,6 +89,14 @@ Effetto finale:
 Gli esperimenti raggiungono un nuovo livello di pericolosità.
 
 ---
+## Separazione dei tre fronti
+
+- **Panico:** misura la fiducia dei cittadini, non il sospetto di Zakara.
+- **Copertura:** misura il controllo della narrazione istituzionale, non il progresso dei rituali.
+- **Esperimenti:** misura le risorse di Silke, non la sua conoscenza dell'ingresso dei PG.
+
+Un evento muove di norma un solo clock. Due clock avanzano insieme soltanto quando la conseguenza riguarda esplicitamente entrambe le minacce.
+
 # Fazioni Coinvolte
 ## Autorità
 - [[Procurator Alexis]]
@@ -120,7 +131,7 @@ Gli esperimenti raggiungono un nuovo livello di pericolosità.
 # Avversari Daggerheart
 ## Silke
 ### Ruolo
-Antagonista Principale
+Avversario Solo di rango 1
 ### Tipo
 Incantatrice · Necromante · Manipolatrice
 ### Comportamento
@@ -130,6 +141,7 @@ Preferisce:
 - manipolare gli avversari
 - guadagnare tempo
 - distruggere prove
+Nel confronto finale usa le regole dell'avversario Solo riportate in [[Silke]].
 ### Fear Move
 Quando il GM spende Fear:
 - uno zombie emerge dall'oscurità
@@ -162,7 +174,7 @@ La sua esposizione distrugge una parte del potere occulto che protegge la necrom
 
 ## Grualk
 ### Ruolo
-Intermediario Criminale
+Antagonista Sociale
 ### Tipo
 Furfante · Contrabbandiere · Sopravvissuto
 ### Comportamento
@@ -172,6 +184,7 @@ Preferisce:
 - negoziare
 - tradire
 - comprare tempo
+Il pericolo rappresentato da Grualk è definito dalle informazioni che nasconde, dalla sua rete e dalle vie di fuga, non da uno statblock individuale.
 ### Fear Move
 Quando il GM spende Fear:
 - Grualk fugge

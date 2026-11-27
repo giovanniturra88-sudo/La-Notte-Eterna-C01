@@ -86,3 +86,41 @@ I criminali possono essere seguiti fino al [[Ritrovo di Grualk]].
 Le incongruenze nel comportamento dell'ufficiale iniziano a diventare troppo numerose per essere ignorate.
 ### Recuperare la Chiave LVI
 Tra gli oggetti legati a [[Grualk]] compare il primo riferimento alla misteriosa [[Sezione LVI]], che conduce verso il covo della necromante.
+
+## Nodo investigativo
+
+### Ingressi
+
+- Spilla verde dalla Bottega delle Pelli.
+- Commissione citata da un mercante.
+- Seguimento di Grualk prima dell'Obitorio.
+- Richiesta degli apprendisti che cercano protezione.
+
+### Domanda
+
+Chi ordina le spille e per quale apparecchiatura vengono usate?
+
+### Prove essenziali
+
+La relazione con Grualk è dimostrabile da:
+
+- Tyril;
+- fatture o disegni;
+- resti della giara;
+- testimonianza di Yanis;
+- un contrassegno sulle casse.
+
+### Pressione
+
+L'attacco agli apprendisti è un rischio, non l'unica conclusione della scena. Se i PG arrivano tardi, i ragazzi possono essere dispersi o messi in salvo separatamente; le fatture restano e la minaccia contro i testimoni diventa una prova.
+
+### Uscite
+
+- Seguire Grualk fino al Ritrovo.
+- Proteggere Yanis o Tyril e ottenere una testimonianza.
+- Confrontare Zakara con un ordine o una comunicazione.
+- Analizzare la giara e passare alla Sezione LVI o al Covo.
+
+### Conseguenza del nodo
+
+Salvare gli apprendisti garantisce testimoni contro la rete. Perderli non elimina le prove, ma cambia i Bassifondi: i criminali acquistano territorio e paura.

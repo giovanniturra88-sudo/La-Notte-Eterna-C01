@@ -76,3 +76,41 @@ I personaggi scoprono l'esistenza del goblin che trasportava i cadaveri.
 L'indagine conduce verso [[Grualk]] e il suo nascondiglio.
 ### Sospettare Zakara
 I personaggi iniziano a comprendere che qualcuno all'interno della milizia potrebbe ostacolare deliberatamente le indagini.
+
+## Nodo investigativo
+
+### Ingressi
+
+- Unguento rinvenuto alla Bottega.
+- Richiesta sui corpi delle vittime.
+- Registri ottenuti da un medico o da un tempio.
+- Viaggio di ritorno dal Vicolo dopo aver scoperto i compensi di Claudius.
+
+### Domanda
+
+Chi preleva i corpi e chi protegge il traffico?
+
+### Prove essenziali
+
+Il goblin zoppo, le salme mancanti e i pagamenti possono essere dimostrati da:
+
+- Registro dei Morti;
+- testimonianza dell'imbalsamatore;
+- boccette e ordini di prelievo;
+- date che coincidono con i turni di Zakara;
+- Claudius o un altro addetto.
+
+### Pressione
+
+Claudius può nascondersi, distruggere pagine o chiamare Zakara. La sua scomparsa non rende inutili le discrepanze nei registri: crea invece un testimone che deve essere protetto o ritrovato.
+
+### Uscite
+
+- Seguire i pagamenti al [[S04 - Vicolo dei Piaceri]].
+- Intercettare il goblin al [[S06 - Ritrovo di Grualk]].
+- Usare i turni di Zakara per confrontarla, senza provarne ancora tutta la colpevolezza.
+- Seguire una consegna fino alla [[S05 - Vetreria]] o alla Sezione LVI.
+
+### Conseguenza del nodo
+
+I PG possono stabilire il traffico anche senza confessione. Se Zakara sente che il nodo è stato scoperto, elimina o trasferisce Claudius, ma porta i personaggi più vicini al suo coinvolgimento.

@@ -42,3 +42,43 @@ I personaggi visitano la [[Vetreria]] per scoprire chi ha commissionato l'oggett
 I personaggi visitano l'[[Obitorio]] per indagare sull'origine della sostanza e sui movimenti dei cadaveri.
 ### Interrogare le guardie
 Approfondendo le irregolarità nella gestione della scena del crimine, i personaggi possono iniziare a sospettare un coinvolgimento di membri della milizia.
+
+## Nodo investigativo
+
+### Ingressi
+
+- Incarico diretto di Alexis.
+- Legame personale con Roardus Masa.
+- Testimonianza di un vicino o di una guardia.
+- Arrivo dalla Vetreria dopo aver riconosciuto una spilla simile.
+
+### Domanda
+
+L'omicidio è una rapina opportunistica oppure la vittima possedeva qualcosa per cui i responsabili cercavano?
+
+### Prove essenziali
+
+La conclusione non dipende dal trovare un singolo oggetto. Distribuire:
+
+- la spilla;
+- l'unguento;
+- un registro parziale;
+- segni che qualcuno ha rimosso documenti;
+- una guardia che ammette l'arrivo di Zakara.
+
+Due prove bastano a stabilire che la scena è stata manipolata e che il lavoro della vittima è rilevante.
+
+### Pressioni
+
+La bottega può essere ripulita da una squadra della milizia, visitata dai criminali o riaperta da un familiare. Il ritardo rende più costosa l'ispezione, ma le tracce principali riemergono nel registro dell'Obitorio o sulle spille della Vetreria.
+
+### Uscite
+
+- L'unguento conduce all'[[S03 - Obitorio]].
+- La spilla conduce alla [[S05 - Vetreria]].
+- Le irregolarità delle guardie aprono il fronte sociale contro Zakara.
+- Il registro parziale permette di interrogare un contatto e raggiungere il [[S06 - Ritrovo di Grualk]].
+
+### Conseguenza del nodo
+
+Se la scena viene compromessa, Zakara avanza la propria copertura ma perde un grado di credibilità presso Alexis; i PG possono trasformare la prova mancante in una contraddizione da usare più tardi.

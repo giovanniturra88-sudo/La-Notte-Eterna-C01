@@ -45,8 +45,11 @@ Combatte esclusivamente perché considera il proprio compito ancora incompiuto.
 ### Divinità 
 - [[Lanie]] 
 ## Coinvolgimento nella Storyline 
-### Esplorazione delle Catacombe 
-Appare come guardiano finale dell'antica tomba custodita sotto la [[Casetta dei Nonni]].
+### S04B - Casetta dei Nonni e Seldin
+Può comparire come guardiano della tomba e testimone della profanazione. La scena non richiede di sconfiggerlo: rispetto, prova del giuramento e promesse di protezione consentono di ottenere il suo aiuto.
+
+### Collegamento all'indagine
+Seldin riconosce la differenza fra gli antichi spiriti e i non morti legati a [[Silke]]. Può indicare il passaggio riaperto dai Dardi Sanguinanti verso la [[Sezione LVI]], fornendo una via alternativa al [[Covo di Silke]].
 ## Eredità 
 La sua esistenza dimostra che alcuni giuramenti possono sopravvivere persino alla morte. 
 ## Collegamenti 
@@ -55,3 +58,7 @@ La sua esistenza dimostra che alcuni giuramenti possono sopravvivere persino all
 - [[Lanie]] 
 - [[La Morte Strisciante]] 
 - [[Nore Aad]]
+- [[Nore Aad]]
+- [[S04B - Casetta dei Nonni e Seldin]]
+- [[Sezione LVI]]
+- [[Covo di Silke]]

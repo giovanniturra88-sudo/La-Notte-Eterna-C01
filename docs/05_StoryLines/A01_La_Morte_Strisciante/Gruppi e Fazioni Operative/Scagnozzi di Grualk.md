@@ -2,6 +2,7 @@
 type:
  - "[[Creatura]]"
  - "[[Organizzazioni]]"
+ - "[[Orda]]"
 storyline:
  - "[[La Morte Strisciante]]"
 ---
@@ -58,4 +59,55 @@ Difendono il rifugio e i materiali della rete criminale.
 Alcuni vengono sostituiti da servitori necromantici e non morti. 
 ## Citazione 
 
-> "Non abbastanza importanti da guidare il mondo. Abbastanza disperati da venderlo per qualche moneta." 
+> "Non abbastanza importanti da guidare il mondo. Abbastanza disperati da venderlo per qualche moneta."
+
+---
+
+## Statistiche Daggerheart
+
+* **Descrizione:** Ladri, picchiatori e contrabbandieri che combattono insieme finché Grualk sembra avere una via d'uscita.
+* **Rango:** 1 (Orda, 1d4+2)
+* **Difficoltà:** 11
+* **Soglie di Danno:** 5/10
+* **Punti Ferita:** 5 | **Stress:** 3
+* **Attacchi:**
+  * **Armi da Quartiere:** +1 | Ravvicinata | 1d8+2 fisico
+* **Esperienza:** Vicoli dei Bassifondi +3
+* **Tratti e Capacità:**
+  * **Orda (1d4+2) - Passiva:** Quando gli Scagnozzi hanno segnato metà o più dei loro PF, il danno del loro attacco standard diminuisce a 1d4+2.
+  * **Copertura dei Vicoli - Passiva:** Quando gli Scagnozzi attaccano da una copertura o controllano un'uscita, hanno vantaggio sull'attacco.
+  * **Pressione Coordinata - Azione:** **Segnare 1 Stress** per rendere _Trattenuto_ un bersaglio colto in portata Ravvicinata, finché il bersaglio non supera una prova o lo spazio viene spezzato.
+  * **Sopravvivenza Prima di Tutto - Reazione:** Quando Grualk viene sconfitto, catturato o abbandona la scena, gli Scagnozzi possono fuggire o cercare un accordo. Se tentano di fuggire, il GM guadagna una Paura.
+
+```statblock
+layout: DaggerHeart Nemici
+name: "Scagnozzi di Grualk"
+description: "Ladri, picchiatori e contrabbandieri che combattono insieme finché Grualk sembra avere una via d'uscita."
+tier: "1"
+ruolo: "Orda"
+difficolta: "11"
+hp: "5"
+stress: "3"
+esperienza: "Vicoli dei Bassifondi +3"
+soglia_danni: "5/10"
+attacchi:
+  - name: "Armi da Quartiere"
+    desc: "**+1** | Ravvicinata | **1d8+2** fisico"
+tratti:
+  - name: "Orda (1d4+2)"
+    desc: "*- Passiva:* Quando gli Scagnozzi hanno segnato metà o più dei loro PF, il danno del loro attacco standard diminuisce a 1d4+2."
+  - name: "Copertura dei Vicoli"
+    desc: "*- Passiva:* Quando gli Scagnozzi attaccano da una copertura o controllano un'uscita, hanno vantaggio sull'attacco."
+capacita_speciali:
+  - name: "Pressione Coordinata"
+    desc: "*- Azione:* Segnare 1 Stress per rendere Trattenuto un bersaglio colto in portata Ravvicinata, finché il bersaglio non supera una prova o lo spazio viene spezzato."
+  - name: "Sopravvivenza Prima di Tutto"
+    desc: "*- Reazione:* Quando Grualk viene sconfitto, catturato o abbandona la scena, gli Scagnozzi possono fuggire o cercare un accordo. Se tentano di fuggire, il GM guadagna una Paura."
+```
+
+## Indicazioni di impiego
+
+- Usare il blocco come un'unica Orda, non come diversi avversari individuali.
+- Per una scena con pochi partecipanti, ridurre i PF a 4 invece di cambiare rango.
+- Gli Scagnozzi non combattono fino alla morte: negoziazione, resa e fuga sono esiti attesi.
+- Separarli da Grualk o costringere il goblin alla fuga indebolisce immediatamente la loro determinazione.

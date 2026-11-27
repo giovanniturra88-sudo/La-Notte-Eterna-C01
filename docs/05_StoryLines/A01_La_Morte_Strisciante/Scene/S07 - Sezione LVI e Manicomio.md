@@ -83,3 +83,36 @@ I personaggi decidono di entrare immediatamente nella Sezione LVI.
 L'indizio recuperato da [[Grualk]] trova finalmente una spiegazione.
 ### Accedere al Covo di Silke
 La Sezione LVI conduce direttamente alla fase finale dell'avventura e allo scontro con [[Silke]].
+
+## Nodo investigativo
+
+### Ingressi
+
+- Chiave LVI.
+- Testimonianza di un operaio o abitante delle fogne.
+- Ispezione municipale fallita.
+- Mappa ottenuta da Alexis.
+- Indizi della Vetreria o del Ritrovo.
+
+### Domanda
+
+Che cosa si trova sotto la città e come entrarvi senza essere annientati dalla preparazione del nemico?
+
+### Prove essenziali
+
+Esteran Tara, la mappa e i registri delle sparizioni sono percorsi alternativi. Ottenere un accesso serve a evitare danno e preparazione, non a essere autorizzati al finale.
+
+### Pressioni
+
+Visitare Tara richiede fiducia dell'ospedale e tempo, ma rivela i rischi. Scendere subito è possibile, al prezzo di un settore iniziale dell'allarme del Covo e di minore conoscenza del percorso.
+
+### Uscite
+
+- Entrare nel Covo con la mappa.
+- Preparare l'equipaggiamento e tornare al Ritrovo per ottenere un’altra via.
+- Cercare un accesso LVI alternativo.
+- Contattare Alexis senza coinvolgere Zakara.
+
+### Conseguenza del nodo
+
+Se il manicomio è ignorato, la testimonianza emerge durante l'esplorazione tramite gli operai scomparsi. Se viene visitato, il gruppo acquisisce informazioni tattiche contro non morti e glifi.

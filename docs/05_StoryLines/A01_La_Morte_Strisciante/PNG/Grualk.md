@@ -84,3 +84,57 @@ Se percepisce che [[Silke]] sta perdendo il controllo della situazione, non esit
 ## Citazione 
 
 > "Essere vivi è meglio che essere fedeli."
+
+---
+
+## Antagonista sociale Daggerheart
+
+### Obiettivo sociale
+
+Conservare abbastanza libertà e denaro da scomparire. Grualk non vuole fermare i PG per principio: vuole impedire che la sua utilità termini prima di poter negoziare.
+
+### Leve
+
+- **Informazioni:** conosce percorso, chiave e consegne della Sezione LVI.
+- **Paura di Zakara:** sa che la milizia corrotta potrebbe eliminarlo.
+- **Denaro per la taverna:** un accordo concreto conta più di una promessa generica.
+- **Scagnozzi:** la sua autorità crolla quando sembrano disposti ad arrendersi senza di lui.
+
+### Segnali da interpretare
+
+- cambia versione appena sente parlare di Silke;
+- tratta la chiave come un bene negoziabile, non come prova;
+- controlla sempre le uscite prima di rispondere;
+- attribuisce le proprie decisioni alla necessità di sopravvivere;
+- parla con rispetto dei morti solo quando teme di diventare uno di loro.
+
+### Mosse sociali
+
+- Proporre uno scambio: chiave o informazione contro una via di fuga.
+- Accusare Zakara per sembrare meno responsabile.
+- Offrire uno scagnozzo come capro espiatorio.
+- Mentire per omissione su Silke e sul Legame.
+- Chiudere l'accordo soltanto dopo aver ottenuto protezione concreta.
+
+### Clock: Pazienza di Grualk — 4 settori
+
+Riempi un settore quando il gruppo:
+
+- blocca una via di fuga;
+- cattura o convince un suo scagnozzo;
+- dimostra di conoscere Zakara o la Sezione LVI;
+- rifiuta minacce e offerte senza ostilità inutile.
+
+A 4 settori Grualk accetta che l'accordo è migliore della fuga. Se gli viene però mostrato che sarà consegnato a Zakara, tenta immediatamente di scappare o tradire il gruppo.
+
+### Vittoria dei personaggi
+
+Grualk è sconfitto socialmente quando accetta che i PG controllano la sua sopravvivenza e può essere indotto a:
+
+- consegnare la chiave LVI;
+- rivelare il percorso del [[Ritrovo di Grualk]];
+- identificare Zakara come «Z.»;
+- descrivere le spedizioni e i materiali;
+- tradire Silke durante il finale.
+
+Una fuga non annulla la vittoria: Grualk può lasciare la chiave, un appunto o una falsa pista utile a mantenere l'indagine in movimento.

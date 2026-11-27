@@ -1,6 +1,7 @@
 ---
 type:
  - "[[PNG]]"
+ - "[[Solo]]"
 storyline:
  - "[[La Morte Strisciante]]"
 luoghi:
@@ -8,171 +9,135 @@ luoghi:
  - "[[Mendulia's Rock]]"
  - "[[Scuola delle Parole che Uccidono]]"
 ---
+
 ![[Pasted image 20260801180800.png|689]]
-## Ruolo 
-Antagonista principale di [[La Morte Strisciante]]. 
-Necromante [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] responsabile della rete criminale che opera nei [[Bassifondi]] e mandante degli omicidi che danno origine all'indagine.
-## Descrizione 
-Una [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]] di straordinaria bellezza e presenza. 
-Veste quasi esclusivamente di nero e si presenta sempre con modi eleganti e raffinati. 
-La mano sinistra appare deformata e in avanzato stato di deterioramento. Per nascondere tale menomazione indossa costantemente un elegante guanto nero. 
-## Personalità 
-- Ambiziosa 
-- Intelligente 
-- Manipolatrice 
-- Affascinante 
-- Orgogliosa 
-Silke considera il sapere una forma di potere. 
-Nutre grande fiducia nelle proprie capacità e tende a vedere le altre persone come strumenti da utilizzare o ostacoli da rimuovere. 
-## Storia 
-Ex allieva della [[Scuola delle Parole che Uccidono]], si è distinta fin da giovane per il desiderio di applicare concretamente ogni teoria studiata. 
-Durante un esperimento fallito con energie necromantiche rischiò la morte e riportò danni permanenti alla mano sinistra. 
-Dopo aver completato la propria formazione, ricevette un incarico particolarmente delicato che la portò a operare nei [[Bassifondi]] di [[Mendulia's Rock]]. 
-Attraverso [[Zakara]], [[Grualk]] e numerosi intermediari riuscì a costruire una rete clandestina dedicata: 
-- al traffico di cadaveri; 
-- alla raccolta di materiale umano; 
-- agli esperimenti necromantici; 
-- all'espansione dell'influenza della sua organizzazione. 
-## Obiettivi 
-### Pubblici 
-Nessuno. 
-Silke opera quasi esclusivamente nell'ombra. 
-### Reali 
-- Perfezionare il Legame Necromantico. 
-- Accrescere il proprio potere personale. 
-- Ottenere una posizione dominante nella criminalità cittadina. 
-- Liberarsi da qualsiasi vincolo o superiore. 
-- Raggiungere l'immortalità attraverso la necromanzia. 
-## Segreti 
-### Mandante degli Omicidi 
-Silke ha ordinato l'eliminazione delle vittime coinvolte nel traffico di resti umani per cancellare ogni possibile testimone. 
-### Legame Necromantico 
-Ha sviluppato una propria forma di controllo necromantico in grado di vincolare servitori e collaboratori. 
-### Manipolazione di Zakara 
-Ha sfruttato i sentimenti di [[Zakara]] per ottenere protezione e accesso alle istituzioni cittadine. 
-### Infiltrazione dei Bassifondi 
-Sta costruendo una rete d'influenza sotterranea all'interno di [[Mendulia's Rock]]. 
-### Wonderrod 
-Dietro parte delle sue attività si cela l'influenza del maestro [[Wonderrod]], anche se Silke ambisce a superarlo e a liberarsi della sua autorità. 
-## Relazioni 
-### Alleati 
-- [[Zakara]] 
-- [[Grualk]] 
-- Servitori Necromantici 
-### Mentore 
-- [[Wonderrod]] 
-### Organizzazioni 
-- [[Scuola delle Parole che Uccidono]] 
-### Nemici 
-- [[Procurator Alexis]] 
-- Milizia cittadina 
-- Chiunque minacci i suoi piani 
-## Punto Debole 
-### Ambizione 
-Il desiderio di potere la porta spesso a sottovalutare i pericoli e a correre rischi inutili. 
-### Orgoglio 
-È profondamente convinta della superiorità delle proprie capacità e fatica ad accettare critiche o fallimenti. 
-### Wonderrod 
-Pur ammirandolo, vive costantemente all'ombra del proprio maestro e nutre nei suoi confronti una forte invidia. 
-## Risorse 
-### Covo 
-Opera da un laboratorio nascosto nella [[Sezione LVI]]. 
-### Servitori 
-Dispone di: 
-- criminali reclutati nei [[Bassifondi]]; 
-- non morti; 
-- intermediari corrotti; 
-- collaboratori inconsapevoli. 
-### Conoscenze 
-Possiede una vasta competenza in: 
-- necromanzia; 
-- rituali; 
-- manipolazione; 
-- controllo soprannaturale. 
-## Coinvolgimento nella Storyline 
-### Prima dell'Avventura 
-Organizza il traffico di cadaveri e avvia i propri esperimenti. 
-### Omicidi 
-Ordina l'eliminazione dei complici diventati potenziali testimoni. 
-### Durante l'Indagine 
-Utilizza [[Zakara]] e [[Grualk]] per ostacolare i personaggi. 
-### S08 - Covo di Silke 
-I personaggi scoprono la verità sulle sue attività e la affrontano nel confronto finale. 
-## Possibili Evoluzioni 
-### Caduta 
-La sua sconfitta pone fine alla cospirazione dei Bassifondi. 
-### Fuga 
-Una Silke sopravvissuta può diventare un'antagonista ricorrente. 
-### Collegamento Futuro 
-Le informazioni recuperate nel suo laboratorio aprono la strada a nuove storyline legate a: 
-- [[Wonderrod]] 
-- [[Scuola delle Parole che Uccidono]] 
-- infiltrazioni necromantiche a [[Mendulia's Rock]] 
-## Citazione 
 
-> "La conoscenza è solo il primo passo. Il vero scopo è il potere che ne deriva."
+# Silke
 
+> «La sapienza è soltanto il primo passo. Il vero scopo è il potere che ne deriva.»
 
+## Ruolo
 
-# Silke — La Necromante Klorss
+[[Silke]] è l'antagonista principale de [[La Morte Strisciante]]: necromante [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Klorss]], coordinatrice della rete criminale dei [[Bassifondi]] e avversaria Solo di rango 1.
 
-> *"La sapienza è l'unica vera via per il potere ed il predominio."*
+## Descrizione
 
----
+Klorss di straordinaria presenza, elegante e composta. Veste di nero, con seta, pizzo e piccoli gioielli color rubino. La mano sinistra, gravemente deteriorata da un esperimento necromantico, resta nascosta da un guanto.
 
-## 📄 Profilo del Personaggio
+## Personalità
 
-* **Nome:** Silke
-* **Eredità (Ancestry):** Klorss (Elfo delle Profondità / Drow)
-* **Comunità (Community):** Underborne / Sottoterra (o Scuola d'Arcano)
-* **Classe:** Sorcerer / Wizard (Specializzazione Necromanzia / Arcanista)
-* **Ruolo / Rango:** PNG / Avversario (Rango 1 Capo o Solo)
-* **Aspetto:** Elegante e raffinata, veste sempre con abiti di seta e pizzo nero. Ha pelle d'alabastro/grigio pallido, capelli ramati raccolti con gioielli d'oro e rubini. Indossa sempre un raffinato guanto di seta nera sulla mano sinistra per nascondere l'arto tumefatto e putrefatto, prezzo pagato per le sue ricerche necromantiche.
+- Ambiziosa
+- Intelligente
+- Manipolatrice
+- Raffinata
+- Orgogliosa
 
----
+Silke considera il sapere uno strumento di potere. Evita il confronto diretto finché può controllare servitori, informazioni e terreno, ma non è una codarda: sottovaluta chiunque la creda indebolita dalla propria condizione.
 
-## 🎭 Tratti, Motivazioni e Legami
+## Obiettivi
 
-* **Tratto Caratteriale:** Elegante, calcolatrice e manipolatrice. Appare affascinante e formale, ma custodisce gelosamente i propri segreti arcani.
-* **Ideale (Potere):** La conoscenza e lo studio della magia necromantica sono la chiave per la vita eterna e il controllo assoluto.
-* **Legame (Zakara & I Dardi Sanguinanti):** Controlla vari isolati del quartiere dei Bassifondi e la gilda criminale dei Dardi Sanguinanti tramite la sua amante Zakara. Non esiterebbe a sacrificarla per i propri scopi.
-* **Difetto / Rivale:** Invidiosa ed astiosa nei confronti del suo ex maestro, l'Arcimago Wonderrod (con cui ha avuto una relazione segreta). Cerca disperatamente di superarlo e di liberarsi da ogni legame con lui.
+- Perfezionare il Legame Necromantico.
+- Creare una base d'influenza nei [[Bassifondi]].
+- Liberarsi dall'autorità di [[Wonderrod]].
+- Dimostrare la superiorità delle proprie ricerche.
+- Sostituire la fragilità umana con una forma di controllo eterno.
 
----
+## Relazioni
 
-## 📊 Statistiche Avversario Daggerheart (Rango 1 Capo / PNG Principale)
+- **[[Zakara]]:** amante, protettrice istituzionale e alleata sacrificabile.
+- **[[Grualk]]:** intermediario utile, che Silke considera sostituibile.
+- **[[Wonderrod]]:** maestro, rivale e legame che desidera spezzare.
+- **[[Scuola delle Parole che Uccidono]]:** organizzazione da cui proviene e che potrebbe reclamare il suo lavoro.
 
-### Statistiche Base
-* **Difficulty (Difficoltà):** 14
-* **Hit Points (Punti Ferita):** 6
-* **Stress:** 5
-* **Thresholds (Soglie di Danno):** 
- * *Minor:* 1-5
- * *Major:* 6-11
- * *Severe:* 12+
-* **Armor (Armatura):** 2 (Armatura Magica / Vesti Incantate)
+## Segreti
 
----
+- Ha ordinato l'eliminazione dei complici diventati testimoni.
+- Usa la vetreria per creare le spille del Legame Necromantico.
+- Controlla parte delle proprie reti mediante promesse, ricatti e rituali.
+- Conserva nel diario prove contro Zakara e riferimenti a Wonderrod.
+- Ritiene che i servitori fedeli e obbedienti siano solo un esperimento preliminare.
 
-## ⚔️ Attacchi e Azioni (Moves & Actions)
+## Punto debole
 
-### Attacchi
-* **Bastone Ferrato:** `+2` vs Difficoltà | **Danno:** `1d8+2` Fisico (Portata da Mischia).
-* **Tocco Gelido / Raggio di Infermità:** `+4` vs Difficoltà | **Danno:** `1d10+4` Magico/Sconfiggente (Portata Lontana). *Spende 1 Stress per applicare la condizione **Vulnerabile** al bersaglio.*
+**Orgoglio e rivalità:** Silke può essere provocata a difendere il proprio lavoro, rivelare qualcosa su Wonderrod o reagire a una critica sulla qualità del Legame. Non la rende automaticamente ingenua: usare questi argomenti fa emergere informazioni, tempo o aperture tattiche.
 
----
+## Statistiche Daggerheart
 
-## ✨ Abilità Speciali e Danni (Features)
+* **Descrizione:** Necromante Klorss elegante e metodica, protetta dal laboratorio che ha costruito sotto Mendulia's Rock.
+* **Rango:** 1 (Solo)
+* **Difficoltà:** 13
+* **Soglie di Danno:** 8/15
+* **Punti Ferita:** 8 | **Stress:** 5
+* **Esperienza:** Necromanzia +3, Manipolazione +2
+* **Attacchi:**
+  * **Raggio d'Infernità:** +3 | Lontana | 1d10+4 magico
+  * **Bastone Ferrato:** +2 | Ravvicinata | 1d8+2 fisico
+* **Tratti e Capacità:**
+  * **Inesorabile (2) - Passiva:** Silke può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco.
+  * **Padrona del Rituale - Passiva:** Mentre è nel [[Covo di Silke]] o in presenza di un glifo attivo, ottiene vantaggio sulle azioni per modificare l'ambiente, muovere una barriera o attivare un contenitore rituale.
+  * **Guanto Putrefatto - Azione:** **Segnare 1 Stress** per effettuare un attacco in portata Ravvicinata. In caso di successo, infligge 1d8+3 danni magici diretti e il bersaglio deve segnare 1 Stress.
+  * **Ritirata tra le Ombre - Azione:** **Segnare 1 Stress** per spostarsi fino a portata Lontana senza provocare attacchi. Prima del movimento può lasciare una falsa immagine che rimane visibile fino al termine del turno successivo.
+  * **Risveglio Obbediente - Azione:** **Spendere 1 Paura** per animare un cadavere o rimettere in scena uno [[Zombie]] sconfitto con 1 PF. Silke può controllare al massimo due servitori non morti contemporaneamente.
+  * **Legame Spezzato - Reazione:** Quando un PG distrugge una spilla, un glifo o un componente rituale, Silke deve segnare 1 Stress oppure rinunciare a **Ritirata tra le Ombre** fino al proprio prossimo turno.
+  * **Ultimo Comando - Reazione:** Quando Silke segna la metà o più dei propri PF, può **spendere 1 Paura** per mettere immediatamente a fuoco lo [[Zombie Potenziato]] o il contenitore rituale ancora integro.
 
-* **Sensibilità alla Luce (Luce Intensa):** Quando Silke agisce in piena luce solare o sotto un'intensa illuminazione magica, le sue prove hanno uno svantaggio (o i giocatori ottengono +2 alla difesa contro di lei).
-* **Mano Putrefatta (Prezzo Arcano):** Silke nasconde una mano in stato avanzato di decomposizione. Quando spende 1 Stress, può toccare un bersaglio a portata da mischia infliggendo `1d6` Danno Diretto e paralizzandolo fino al suo turno successivo.
-* **Legame Necromantico (Azione della Paura / Fear Move):** Spende 1 Gettone Paura (Fear) per rianimare 2 scagnozzi dei *Dardi Sanguinanti* o servitori non-morti con 1 PF ciascuno per bloccare i PG.
-* **Immagine Speculare / Movimenti del Ragno:** Spende 1 Stress per evitare un attacco fisico o per posizionarsi istantaneamente su pareti/soffitti fuori dalla portata da mischia.
+```statblock
+layout: DaggerHeart Nemici
+name: "Silke"
+description: "Necromante Klorss elegante e metodica, protetta dal laboratorio sotto Mendulia's Rock."
+tier: "1"
+ruolo: "Solo"
+difficolta: "13"
+hp: "8"
+stress: "5"
+esperienza: "Necromanzia +3, Manipolazione +2"
+soglia_danni: "8/15"
+attacchi:
+  - name: "Raggio d'Infernità"
+    desc: "**+3** | Lontana | **1d10+4** magico"
+  - name: "Bastone Ferrato"
+    desc: "**+2** | Ravvicinata | **1d8+2** fisico"
+tratti:
+  - name: "Inesorabile (2)"
+    desc: "*- Passiva:* Silke può essere messa a fuoco fino a due volte per turno del GM. Spendere Paura come di consueto per metterla a fuoco."
+  - name: "Padrona del Rituale"
+    desc: "*- Passiva:* Nel laboratorio o in presenza di un glifo attivo, Silke ottiene vantaggio per modificare l'ambiente o attivare un contenitore rituale."
+capacita_speciali:
+  - name: "Guanto Putrefatto"
+    desc: "*- Azione:* Segnare 1 Stress per un attacco in portata Ravvicinata. In caso di successo infligge 1d8+3 danni magici diretti e il bersaglio segna 1 Stress."
+  - name: "Ritirata tra le Ombre"
+    desc: "*- Azione:* Segnare 1 Stress per spostarsi fino a portata Lontana senza provocare attacchi, lasciando una falsa immagine fino al termine del turno successivo."
+  - name: "Risveglio Obbediente"
+    desc: "*- Azione:* Spendere 1 Paura per animare un cadavere o rimettere in scena uno Zombie sconfitto con 1 PF. Silke controlla al massimo due servitori non morti."
+  - name: "Legame Spezzato"
+    desc: "*- Reazione:* Quando un PG distrugge una spilla, un glifo o un componente rituale, Silke segna 1 Stress oppure perde Ritirata tra le Ombre fino al proprio prossimo turno."
+  - name: "Ultimo Comando"
+    desc: "*- Reazione:* Quando Silke segna metà o più dei propri PF, può spendere 1 Paura per mettere immediatamente a fuoco lo Zombie Potenziato o il contenitore rituale ancora integro."
+```
 
----
+## Condotta al tavolo
 
-## 💰 Tesoro e Equipaggiamento
-* **Gioielli D'Oro e Rubini:** Valore stimato di 350 Imperiali d'Oro (cerchietto, orecchini e anelli).
-* **Componenti per Ritualistici Necromantici:** Valore di 300 Imperiali d'Oro.
-* **Guanto di Seta Nera:** Nasconde la mutazione necrotica dell'arto sinistro.
-* **Grimorio Segreto:** Contiene gli appunti incompiuti sul rituale del *Legame Necromantico*.
+1. Prima del combattimento, Silke separa il gruppo con parole, ombre e richieste impossibili.
+2. All'inizio del confronto usa il laboratorio per controllare spazio e servitori.
+3. Con metà PF, protegge le prove o prepara la fuga.
+4. A PF quasi esauriti, tenta una resa condizionata, sacrifica un servitore o sfrutta il canale di deflusso.
+
+Un attacco letale contro le statistiche non è l'unico modo per sconfiggerla: distruggere il circuito rituale, ottenere il diario e impedirle la fuga sono vittorie equivalenti.
+
+## Tesoro
+
+- Guanto di seta nera
+- Gioielli in oro e rubini
+- Componenti rituali
+- Opale nero
+- Diario e pergamena del Legame Necromantico
+
+## Collegamenti
+
+- [[Covo di Silke]]
+- [[Zakara]]
+- [[Grualk]]
+- [[Zombie]]
+- [[Zombie Potenziato]]
+- [[Wonderrod]]
+- [[La Morte Strisciante]]
