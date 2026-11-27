@@ -4,7 +4,7 @@ type: Artefatto
 aliases:
  - Il Senza Memoria
 ---
-![[Pasted image 20260712141553.png]]
+![[demone_x_pic.png]]]]
 
 Forse per aver battuto la testa quando è caduto su [[Neir]] questo demone ha perso completamente la memoria e non ricorda chi sia, perché sia giunto fin qui e soprattutto perché è così spaventato e ha tanta voglia di aggredire il gruppo di avventurieri che gli si sta avvicinando.
 Esiste la remota possibilità che questo demone non attacchi per primo e che, qualora si creasse una certa sintonia con il gruppo, possa addirittura decidere di aggregarsi a loro. Se ciò avviene, userà il bracciale magico che ha al polso (unico oggetto degno di nota che indossa l'immondo) per cambiare aspetto e passare inosservato.

@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713135452.png]]
+![[la_senza_peso_pic.png]]]
 
 *Arma Magica Senziente (Randello), Leggendaria, Richiede un accordo con un portatore non crudele*
 

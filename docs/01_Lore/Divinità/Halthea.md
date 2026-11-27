@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132254.png]]
+![[halthea_simbolo_pic.png]]]
 
 Halthea, dea del valore, incarna ordine, disciplina e dovere. Conosciuta come "la Giusta" e "l'Ardita", il suo avatar ha l'aspetto di una giovane guerriera umana dalla carnagione chiara, i capelli biondi a caschetto e gli occhi glaciali.
 

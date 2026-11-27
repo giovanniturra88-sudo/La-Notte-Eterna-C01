@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710131909.png]]
+![[garod_simbolo_pic.png]]]
 
 Garod, dio della tirannide, impone ordine, gerarchia e controllo attraverso paura o coercizione. Viene chiamato "il Tetro Sire" ed è il signore della tirannia e dell'egoismo. Il suo avatar ha l'aspetto di un karevi maestoso in armatura completa che brandisce una possente alabarda nera.
 

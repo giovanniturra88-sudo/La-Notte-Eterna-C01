@@ -3,7 +3,7 @@ status: Canonico
 type: Artefatto
 ---
 
-![[Pasted image 20260713170412.png]]
+![[lancia_angelica_pic.png]]
 
 *Arma magica instabile (lancia), rara; richiede un accordo con un personaggio dall'animo benevolo*
 

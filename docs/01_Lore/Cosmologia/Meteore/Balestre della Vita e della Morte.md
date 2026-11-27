@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140552.png]]
+![[balestra_della_vita_e_della_morte_pic.png]]]
 
 *Arma magica (Balestra), Leggendaria, legata all'intento del portatore*
 

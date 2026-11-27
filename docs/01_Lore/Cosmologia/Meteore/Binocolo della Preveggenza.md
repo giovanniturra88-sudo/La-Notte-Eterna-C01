@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140520.png]]
+![[binocolo_della_preveggenza_pic.png]]]
 
 *Artefatto (Binocolo), Raro, legato alla curiosità del portatore*
 

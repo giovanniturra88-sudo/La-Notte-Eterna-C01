@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712133843.png]]
+![[bracciale_delle_molte_forme_pic.png]]]
 
 *Artefatto (Bracciale), Molto raro, legato alle forme conosciute*
 

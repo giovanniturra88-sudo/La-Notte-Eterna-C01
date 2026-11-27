@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132446.png]]
+![[lanie_simbolo_pic.png]]]
 
 Lanie, dea della magia, era Neutrale. Veniva chiamata "la Sorella d'Argento" ed era la signora della magia e dei misteri. Il suo avatar aveva l'aspetto di un'elfa con gli occhi scintillanti di luce magica.
 Nell'anno 127 dell'Era della Notte Eterna, Lanie cadde. Morta in battaglia, la dea precipitò sulla terra sotto forma di cometa incandescente. La cometa non passò inosservata ai mortali che, dalle regioni più sperdute alle città più popolose, partirono per un lungo pellegrinaggio.

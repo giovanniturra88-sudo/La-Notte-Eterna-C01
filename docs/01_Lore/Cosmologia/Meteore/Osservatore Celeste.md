@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713184300.png]]
+![[osservatore_celeste_pic.png]]]
 
 *Oggetto Magico (Disco Metallico), Molto Raro*
 

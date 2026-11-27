@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712014522.png]]
+![[ali_del_radioso_martirio_pic.png]]]
 
 *Artefatto danneggiato (Ali di celestiale), Molto raro, legato ad Artaria*
 Non importa quanto velocemente vi avviciniate al punto di schianto di questa meteora, al vostro arrivo la scena che vi si parerà davanti strapperà via un pezzo del vostro cuore. Stesa al suolo, al centro del cratere, giace un angelo in fin di vita. Una rapida occhiata vi basterà per capire che il suo corpo deve avere subito orrende torture. Le profonde ferite e le ossa spezzate sono impossibili da curare. L'angelo annaspa e sputa sangue dalla bocca martoriata. Se, impietositi, tentate comunque di soccorrerlo, come atto di gratitudine l'angelo farà dono delle proprie ali prima di morire e dissolversi in un turbinio di particelle di luce e piume.

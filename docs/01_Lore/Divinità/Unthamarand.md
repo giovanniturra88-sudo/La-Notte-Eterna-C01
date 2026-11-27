@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710133019.png]]
+![[untharamand_simbolo_pic.png]]]
 
 Unthamarand, dio dei ghiacci, dall'indole caotica e neutrale. Ha l'aspetto di un drago bianco antico. Freddo e distaccato dalle sorti mortali ma non per questo crudele, Unthamarand rappresenta la forza indomita e selvaggia dell'inverno. La sua corazza di scaglie bianche 'emana un'aura di gelo perenne, il battito delle sue grandi ali rilascia turbini di vento e neve in grado di congelare gli incendi più feroci. Ma sono gli occhi del dio-drago a provocare un senso di smarrimento in chi li osserva: due grandi pozzi blu, intensi come i ghiacciai più profondi, emanano antica saggezza e fiera determinazione al cospetto delle quali anche il cuore più saldo vacilla.
 

@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713183122.png]]
+![[occhio_del_demone_pic.png]]]
 
 *Oggetto Magico Maledetto (Occhio Demoniaco), Molto Raro, Richiede un rituale per essere identificato*
 

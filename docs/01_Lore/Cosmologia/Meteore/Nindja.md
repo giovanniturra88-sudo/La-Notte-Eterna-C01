@@ -3,7 +3,7 @@ status: Canonico
 type: Artefatto
 ---
 
-![[Pasted image 20260713182303.png]]
+![[nindja_pic.png]]
 
 *Arma magica senziente (spada lunga), leggendaria; richiede un accordo con Nindja*
 

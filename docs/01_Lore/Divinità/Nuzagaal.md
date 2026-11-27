@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132933.png]]
+![[nuzagaal_simblo_pic.png]]]
 
 Nuzagaal, dio della distruzione, privilegia distruzione, impulso e desiderio senza freni. Conosciuto come "lo Sterminatore", il suo avatar ha l'aspetto di un orco indomito e selvaggio.
 

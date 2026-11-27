@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712142508.png]]
+![[dozhdboli_pic.png]]]
 
 *Arma Maledetta (Ascia), Leggendaria, Richiede discendenza o accordo con un karevi*
 

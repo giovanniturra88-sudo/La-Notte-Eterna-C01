@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713182245.png|471]]
+![[matna_e_la_scatola_pic.png|471]]]]
 
 Giunti sul luogo d'impatto della meteora gli avventurieri notano in fondo al cratere fumante una scatola sigillata magicamente su ogni lato. Ogni tentativo ordinario di aprirla risulterà vano.
 

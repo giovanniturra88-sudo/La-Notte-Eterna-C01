@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140541.png]]
+![[bastone_della_misericordia_pic.png]]]
 
 *Arma magica (Bastone ferrato), Rara, consacrata a Fadranstaff*
 

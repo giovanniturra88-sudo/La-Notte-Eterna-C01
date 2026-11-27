@@ -2,8 +2,7 @@
 status: Canonico
 type: Incontro
 ---
-
-![[Pasted image 20260713183854.png|327]]
+![[oppressione_demoniaca_pic.png|327]]]
 
 Gli avventurieri arrivano sul luogo di impatto di una meteora. Tra le rocce fumanti intravedono i resti di un immondo definitivamente morto, il cui spirito tenterà di possedere chiunque si trovi sul posto.
 

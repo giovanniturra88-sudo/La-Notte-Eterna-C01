@@ -4,8 +4,7 @@ type: Divinità
 aliases:
   - Viandante Misericordioso
 ---
-
-![[Pasted image 20260710131838.png]]
+![[fadranstaff_simbolo_pic.png]]]
 
 Fadranstaff, dio del soccorso, privilegia soccorso, equilibrio e protezione dei vulnerabili. Chiamato "il Viandante Misericordioso", il suo avatar ha l'aspetto di un vecchio nano barbuto appoggiato a un solido bastone di quercia.
 

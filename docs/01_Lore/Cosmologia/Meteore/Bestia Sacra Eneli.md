@@ -4,7 +4,7 @@ type: Artefatto
 aliases:
  - Eneli
 ---
-![[Pasted image 20260712122123.png|354]]
+![[bestia_sacra_eneli_pic.png|354]]]
 
 Il cratere generato da questa meteora sembra enorme e ci vorrà un po' per scorgere, semisommersa dalla cenere, una creatura ridotta in pessime condizioni. Non molto lontano udite il ringhio di qualche creatura avvicinarsi: meglio affrettarsi! Avvolgete la figura con una coperta e vi allontanate il più in fretta possibile. Raggiunto un luogo sicuro riuscite finalmente a osservare meglio l'essere ansimante che avete portato in salvo. Si direbbe una ragazza umana, forse adolescente, emaciata e tremante. Possibile che fosse lì quando è caduta la meteora e che in qualche modo sia sopravvissuta all'impatto?
 

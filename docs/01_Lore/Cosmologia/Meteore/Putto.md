@@ -2,8 +2,7 @@
 status: Canonico
 type: Incontro
 ---
-
-![[Pasted image 20260713185502.png]]
+![[putto_pic.png]]]
 
 L'arte presente nei templi e nei tomi della grandiosa biblioteca di [[Azkabel]] vi ha abituato a immaginare gli angeli di [[Rengaria]] come creature maestose e sublimi. Giunti sul luogo d'impatto di questa meteora resterete dunque un po' perplessi: che cos'è quell'esserino con le alucce che sembra dormire beato al centro del cratere? Da una certa distanza sembra quasi un bambolotto intento a succhiarsi il pollice. Dunque è vivo!
 

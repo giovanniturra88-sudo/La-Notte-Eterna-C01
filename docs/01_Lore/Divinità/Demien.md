@@ -3,7 +3,7 @@ status: Da verificare
 type: Divinità
 ---
 
-![[Pasted image 20260710131707.png]]
+![[demien_simbolo_pic.png]]
 Demien, dio del male, persegue il proprio disegno attraverso tenebra, patto e corruzione. Conosciuto come "il Tessitore di Tenebre", il suo avatar ha l'aspetto di un klorss cieco.
 
 È Demien ad avere imprigionato il Sole in una trama di tenebre, causando così l'avvento della Notte Eterna. I suoi fedeli credono fermamente che l'oscurità rappresenti il fato ineluttabile cui è destinato l'intero cosmo, una volta che le galassie si saranno allontanate tra loro e che le stelle galleggeranno nel buio come gelidi cadaveri. Abbracciare l'oscurità in vita promette quindi salvezza a quanti si donano a essa incondizionatamente. Per avvicinarsi a questo dogma, i più fanatici del culto si provocano un accecamento volontario che spesso ne provoca la morte. I sacerdoti e i campioni di Demien scelgono il Dominio dell'Inganno o della Morte e sono grandi evocatori di demoni, mentre i suoi campioni, conosciuti anche come "le Ombre", sono monaci della Via dell'Ombra.

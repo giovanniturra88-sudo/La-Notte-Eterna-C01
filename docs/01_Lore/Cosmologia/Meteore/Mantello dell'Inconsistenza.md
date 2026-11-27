@@ -3,7 +3,7 @@ status: Canonico
 type: Artefatto
 ---
 
-![[Pasted image 20260713181806.png|246]]
+![[mantello_dell_inconsistenza.png|246]]
 
 *Oggetto magico maledetto (mantello), molto raro; richiede un accordo con chi lo indossa*
 

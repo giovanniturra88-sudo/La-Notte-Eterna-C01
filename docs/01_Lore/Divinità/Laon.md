@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132750.png]]
+![[laon_simbolo_pic.png]]]
 
 Laon, dio del sole, incarna ordine, giustizia e protezione della vita. Viene chiamato "il Fulgido" e "l'Eterno" ed è il protettore della vita e di tutto ciò che è buono e giusto sulla terra. Il suo avatar ha l'aspetto di un fanciullo dalla chioma bianca.
 

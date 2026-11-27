@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132353.png]]
+![[iliar_simbolo_pic.png]]]
 
 Iliar, dea della natura e in particolare delle terre boschive, mantiene un equilibrio fra impulso, necessità e conseguenza. Chiamata "la Signora dei Boschi", il suo avatar ha l'aspetto di un'elfa dalla chioma di foglie.
 

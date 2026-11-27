@@ -2,8 +2,7 @@
 status: Da adattare
 type: Artefatto
 ---
-
-![[Pasted image 20260713190340.png]]
+![[tridente_del_mare_eterno_pic.png]]]
 
 *Arma magica, rara, richiede sintonia*
 

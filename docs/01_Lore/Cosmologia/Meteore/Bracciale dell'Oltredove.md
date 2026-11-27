@@ -3,8 +3,7 @@ status: Da adattare
 type: Artefatto
 ---
 
- 
-![[Pasted image 20260712133935.png]]
+ ![[bracciale_dell_oltre_dove_pic.png]]]
 
 *Oggetto Magico (Bracciale), Raro, Richiede sintonia*
 

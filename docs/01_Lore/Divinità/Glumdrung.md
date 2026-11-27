@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710131952.png]]
+![[glumdrung_simbolo_pic.png]]]
 
 Glumdrung, dio dei mari e dei fiumi, difende libertà e solidarietà attraverso azioni impetuose. Chiamato “il Sommo dei Flutti”, il suo avatar ha l'aspetto di una creatura ibrida, metà pesce e metà uomo.
 

@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712144725.png|159]]
+![[elmo_di_gwynplaine_pic.png|159]]]
 
 *Oggetto Magico Senziente e Malfunzionante (Elmo, Neutrale), Molto Raro, Richiede accordo*
 

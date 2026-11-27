@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710131752.png]]
+![[doomkhan_simbolo_pic.png]]]
 
 Doomkhan, dio del destino, mantiene un equilibrio fra impulso, necessità e conseguenza. Conosciuto come "il Fato" e "l'Inevitabile", il suo avatar ha l'aspetto di uno gnomo erudito.
 

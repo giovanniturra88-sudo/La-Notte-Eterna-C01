@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140006.png]]
+![[collana_del_distruttore_pic.png]]]
 
 *Artefatto maledetto (Collana), Molto raro, legato alla Furia*
 

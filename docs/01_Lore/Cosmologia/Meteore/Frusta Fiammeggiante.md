@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712184002.png]]
+![[frusta_fiammeggiante_pic.png]]]
 
 *Arma Magica (Frusta), Rara, Richiede un accordo narrativo con la sua fiamma*
 

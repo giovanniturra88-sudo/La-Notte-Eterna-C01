@@ -2,8 +2,7 @@
 status: Da adattare
 type: Artefatto
 ---
-
-![[Pasted image 20260712134221.png]]
+![[bracciale_sulfureo_pic.png]]]
 
 *Oggetto Magico Maledetto (Bracciale), Non comune, Richiede sintonia*
 

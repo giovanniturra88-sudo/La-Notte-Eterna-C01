@@ -4,8 +4,7 @@ type: Artefatto
 aliases:
  - Scudo di Lame
 ---
-
-![[Pasted image 20260712183613.png]]
+![[frullatore_danneggiato_pic.png]]]
 
 *Oggetto Magico Instabile (Scudo), Raro*
 

@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713170124.png]]
+![[lama_del_sacro_ordine_pic.png]]]
 
 *Arma Magica (Spada Lunga), Molto Rara, Richiede un giuramento compatibile con l'ordine di [[Halthea]]*
 

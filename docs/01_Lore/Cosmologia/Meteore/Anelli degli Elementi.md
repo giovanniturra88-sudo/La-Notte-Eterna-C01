@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140604.png]]
+![[anelli_degli_elementi_pic.png]]]
 
 *Artefatto instabile (Anello), Non comune, con legame elementale*
 

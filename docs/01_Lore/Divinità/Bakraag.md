@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[_page_15_Picture_16.jpeg]]
+![[bakraag_simbolo_pic.jpeg]]]]]
 
 Bakraag, dio del fuoco, privilegia distruzione, impulso e desiderio senza freni. Chiamato "il Rogo" e "il Purificatore", il suo avatar ha l'aspetto di un uomo completamente avvolto dalle fiamme.
 Il culto di Bakraag trova un certo seguito in tutte le nazioni di Neir e delle Terre Nascoste, per quanto templi a lui dedicati siano piuttosto rari. La gente comune gli offre sacrifici affinché non divori le case con le sue fiamme, ma piuttosto dia vigore ai focolai. Quasi ogni casa fa bella mostra di una sua statuina in argilla sul davanzale del camino.

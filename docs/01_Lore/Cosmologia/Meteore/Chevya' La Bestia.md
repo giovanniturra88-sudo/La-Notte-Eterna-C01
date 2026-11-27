@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712135136.png|345]]
+![[chevya_la_bestia_pic.png|345]]]
 
 Avete seguito la scia rosso sangue fino al suo punto di impatto, un acquitrino ora coperto di ceneri e pesci galleggianti semi carbonizzati nell'acqua arroventata. La coltre di fumo si dirada velocemente, svelando un cerchio di terra ardente e libero dall'acqua proprio nel cuore dell'acquitrino.
 

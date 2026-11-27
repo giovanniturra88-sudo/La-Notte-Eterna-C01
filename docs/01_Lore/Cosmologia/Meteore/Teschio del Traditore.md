@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260713185941.png|259]]
+![[teschio_del_traditore_pic.png|259]]]
 
 *Oggetto Magico Instabile (Cranio), Raro, richiede un accordo narrativo con la persona che decide di usarlo*
 

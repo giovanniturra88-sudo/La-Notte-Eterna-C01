@@ -4,8 +4,7 @@ type: Compagno
 aliases:
  - P.B.
 ---
-![[Pasted image 20260713184520.png]]
-![[Pasted image 20260713184530.png]]
+![[psy_bot_pic.png]]]![[psy_bot_adult_pic.png]]]
 *Costrutto Senziente e Malfunzionante (di indole caotica e benevola), Leggendario*
 
 P.B. è un costrutto senziente e parlante, dotato di un'anima soffiata al suo interno dal dio [[Doomkhan]] in persona. Costruito in metallo, è mosso da meccanismi incastrati abilmente tra loro. Per via dei danni subiti ha perso ogni traccia di memoria e, al primo incontro con gli avventurieri, attiverà i propri meccanismi di difesa. Se i suoi scopritori riescono a instaurare una forma di dialogo con Psy Bot e gli chiedono il suo nome, il costrutto si limiterà a rispondere attraverso una serie di suoni incomprensibili.

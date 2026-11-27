@@ -2,8 +2,7 @@
 status: Da adattare
 type: Artefatto
 ---
-
-![[Pasted image 20260713190638.png|237]]
+![[yolandi_pic.png|237]]]
 
 *Leggendaria, richiede sintonia, arma magica senziente*
 

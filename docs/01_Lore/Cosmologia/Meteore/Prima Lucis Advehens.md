@@ -4,7 +4,7 @@ type: Artefatto
 aliases:
  - Portatore della Prima Alba
 ---
-![[Pasted image 20260713185101.png]]
+![[prima_lucis_advehens_pic.png]]]
 
 *Arma Magica (Pistola), Leggendaria, richiede un legame con una persona animata da intenti benevoli*
 

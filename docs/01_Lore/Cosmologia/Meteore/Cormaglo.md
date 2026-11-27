@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140924.png|262]]
+![[cormagio_pic.png|262]]]
 
 *Arma Magica (Guanto d'Arme), Raro, Richiede accordo*
 

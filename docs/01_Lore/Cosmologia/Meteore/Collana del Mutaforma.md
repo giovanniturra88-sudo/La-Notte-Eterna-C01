@@ -2,8 +2,7 @@
 status: Canonico
 type: Artefatto
 ---
-
-![[Pasted image 20260712140244.png]]
+![[collana_del_mutaforma_pic.png]]]
 
 *Oggetto Magico Maledetto (Collana), Molto Raro*
 

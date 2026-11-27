@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132843.png]]
+![[lurtan_simbolo_pic.png]]]
 
 Lurtan, dio della terra, mantiene un equilibrio fra impulso, necessità e conseguenza. Chiamato "il Pesante", il suo avatar ha l'aspetto di un elementale della terra di taglia colossale.
 

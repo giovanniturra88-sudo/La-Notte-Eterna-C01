@@ -2,8 +2,7 @@
 status: Da verificare
 type: Divinità
 ---
-
-![[Pasted image 20260710132953.png]]
+![[tenebris_simbolo_pic.png]]]
 
 Tenebris, Sire dell'Angoscia, impone ordine, gerarchia e controllo attraverso paura o coercizione. È un uomo affascinante sulla quarantina, ha lunghi capelli neri lisci come seta, un pizzetto ben curato e veste sempre impeccabilmente con abiti scuri e sofisticati. La sua disposizione è calda e affabile, ma il colore dei suoi occhi tende verso un marrone rossastro, intensificandosi fino ad assumere una tinta rosso sangue quando il semidio viene provocato.
 

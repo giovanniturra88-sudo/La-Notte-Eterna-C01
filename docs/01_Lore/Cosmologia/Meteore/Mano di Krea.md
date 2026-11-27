@@ -3,7 +3,7 @@ status: Canonico
 type: Artefatto
 ---
 
-![[Pasted image 20260713171358.png|300]]
+![[mano_di_krea_pic.png|300]]
 
 *Oggetto magico instabile (mano scheletrica), leggendario*
 

@@ -1,7 +1,7 @@
 ﻿---
 type: Luogo
 ---
-![[Pasted image 20260801205735.png]]
+![[rifugio_dei_marinai_pic.png]]]
 
 Le prime parole di un novello avventore varcando la soglia di questa mastodontica locanda sono:
 

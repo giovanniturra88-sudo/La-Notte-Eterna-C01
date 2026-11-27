@@ -3,7 +3,7 @@ status: Canonico
 type: Artefatto
 ---
 
-![[Pasted image 20260713170809.png]]
+![[lenti_dell_archivista_pic.png]]
 
 *Oggetto magico (occhiali), non comune; richiede un accordo con il portatore*
 
