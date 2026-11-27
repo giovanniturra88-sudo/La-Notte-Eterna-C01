@@ -1,20 +1,20 @@
 ---
-alias:
- - Abito del Messo
+alias: ["Abito del Messo"]
 categoria: equipaggiamento
-original_name: Abito del Messo
+original_name: "Abito del Messo"
+status: Canonico
 tier: 2
 type:
- - "[[Armatura]]"
+  - "[[Armatura]]"
 ---
 
 # Abito del Messo
 
-**_Livello 2_** _Armatura_
+**_Tier 2_** _Armatura_
 
 - **Soglie di Danno:** 8 / 18
-- **Punteggio di Armatura:** 3
+- **Punteggio di Armatura:** 4
 
-### TRATTO DELL'ARMATURA
+### Tratto dell'armatura
 
-**_Passo Silenzioso:_** Ottieni +1 ai tiri di Agilità legati alla discrezione o al movimento furtivo. Spendi 1 Speranza per muoverti a gittata Ravvicinata senza provocare reazioni o essere individuato.
+**_Passo Silenzioso:_** Una volta per scena, puoi spendere 1 Speranza per ottenere Vantaggio su un tiro di Agilità legato a furtività o movimento. Se riesci, ti muovi fino a gittata Molto Vicina senza essere individuato da reazioni ordinarie.

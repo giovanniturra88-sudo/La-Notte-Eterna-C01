@@ -1,18 +1,23 @@
 ---
 alias: ["Blackdoom"]
 categoria: equipaggiamento
-danno: d12+8
-gittata: mischia
+danno: "d10+11"
+gittata: "Mischia"
 ingombro: "due mani"
 original_name: "Blackdoom"
 ruolo: primaria
+status: Canonico
 tier: 4
 tipo_danno: fisica
 tratto: forza
-type: 
- - "[[Arma]]"
+type:
+  - "[[Arma]]"
 ---
 
-### EFFETTO
+# Blackdoom
 
-**_Lama Maledetta:_** Infligge d12 aggiuntivo contro creature di luce o sacre. Tuttavia, ogni volta che ottieni un tiro con Paura mentre impugni Blackdoom, subisci 1 danno diretto alla Speranza.
+**_Tier 4_** _Arma_
+
+### Tratto dell'arma
+
+**_Lama Maledetta:_** Una volta per scena, quando metti a segno un attacco contro una creatura di luce o sacra, puoi segnare 1 Stress per aggiungere +d8 danni. La maledizione non è gratuita: quando il GM spende Paura contro di te mentre impugni Blackdoom, puoi subire 1 Stress per ridurre di un grado la conseguenza.

@@ -2,18 +2,19 @@
 alias: ["Gabbano dei Lupi d'Inverno"]
 categoria: equipaggiamento
 original_name: "Gabbano dei Lupi d'Inverno"
+status: Canonico
 tier: 2
-type: 
- - "[[Armatura]]"
+type:
+  - "[[Armatura]]"
 ---
 
 # Gabbano dei Lupi d'Inverno
 
-**_Livello 2_** _Armatura_
+**_Tier 2_** _Armatura_
 
 - **Soglie di Danno:** 9 / 20
 - **Punteggio di Armatura:** 4
 
-### TRATTO DELL'ARMATURA
+### Tratto dell'armatura
 
-**_Pelliccia Glaciale:_** Sei immune ai danni e agli effetti del freddo estremo. Spendi 1 Speranza per ottenere resistenza ai danni da Gelo per la durata dell'incontro/scena.
+**_Pelliccia Glaciale:_** Una volta per riposo lungo, puoi spendere 1 Speranza per ridurre di un grado le conseguenze del freddo estremo oppure ridurre di un grado i danni da Gelo subiti fino alla fine della scena.
