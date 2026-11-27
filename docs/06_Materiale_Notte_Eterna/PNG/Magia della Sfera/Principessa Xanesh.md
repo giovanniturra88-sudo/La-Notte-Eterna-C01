@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # PRINCIPESSA XANESH
 *La Signora delle Pianure Desolate*
 
@@ -9,46 +11,28 @@ type:
 
 Tragica e maestosa figura reale, la Principessa Xanesh governa le sterminate pianure che portano il suo nome. Sospesa tra il retaggio di un'oscura stirpe e il desiderio di redimere il suo popolo, domina sia le arti arcane che la diplomazia con pugno di ferro.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 3
+- **Ruolo:** Controllore
+- **Difficoltà:** 18
+- **Soglie di Danno:** 10/20
+- **Punti Ferita:** 9
+- **Stress:** 6
+- **Attacco — Lancia del Dominio:** +4 | Lontana | 3d8+5 magici
 
-* **Descrizione:** Tragica e maestosa figura reale, signora delle pianure desolate che portano il suo nome, che domina arti arcane e diplomazia con pugno di ferro.
-* **Rango:** 3 (Solo)
-* **Difficoltà:** 18
-* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
-* **Punti Ferita:** 9 | **Stress:** 5
-* **Esperienza:** Persuasione +4, Inganno +4, Arcano +4, Storia +4, Percepire +1
-* **Attacchi:**
- * **Sciabola Cosmica:** +4 | Prossima | 3d8+5 danni taglienti e psichici
-* **Tratti e Capacità:**
- * **Scurovisione - Passiva:** vede nel buio (18 m).
- * **Volo - Passiva:** Può muoversi volando.
- * **Telepatia - Passiva:** Comunica telepaticamente entro 18 m (Lontana).
- * **Comando della Sovrana - Passiva:** Un alleato entro 18 m (Lontana) che possa sentirla può effettuare un attacco come reazione quando Xanesh effettua un attacco.
- * **Resistenza Magica - Passiva:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
- * **Resistenza Psichica e Necrotica - Passiva:** Resiste ai danni psichici e necrotici.
- * **Azione:** Effettua fino a 2 attacchi con la Sciabola Cosmica (o con i Dardi di Energia Astrale).
- * **Sguardo di Dominio (una volta per scena) - Azione:** Fissa un bersaglio entro 18 m (Lontana), che deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato e obbedire ai suoi ordini verbali per 1 minuto.
- * **Deviazione Telecinetica - Reazione:** Quando viene bersagliata da un attacco o da una capacità a distanza, crea un campo di forza telecinetico che riduce il danno di 15.
+### Mosse
+- **Presenza Sovrana: una volta per scena, un PNG ostile entro portata Lontana esita; rimuove un'azione minore dal prossimo turno invece di cambiare permanentemente le sue motivazioni.**
+- **Sguardo di Dominio - Azione: un bersaglio Vicino sceglie se segnare 2 Stress o obbedire a un ordine limitato fino alla fine del suo prossimo turno.**
+- **Deviazione Telecinetica - Reazione: quando viene bersagliata, marca 1 Stress per respingere l'attaccante di una zona o ridirigere una conseguenza narrativa.**
+- **Trono dell'Ombra - Paura: spendi 2 Paura; il Titano d'Ombra sovrappone una minaccia ambientale alla scena e Xanesh guadagna 1 uso extra di Sguardo di Dominio.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Comando della Sovrana:** Un alleato entro 18 m (Lontana) che possa sentire la Principessa Xanesh può effettuare un attacco come reazione quando la Principessa Xanesh attacca.
-- **Resistenza Magica:** Ha vantaggio ai Tiri di Reazione contro capacità magiche e altri effetti magici.
+Usala quando storia, politica e influenza del Titano d'Ombra sono inseparabili; il titolo di principessa non rende verificata la genealogia né prova che ogni racconto della corte sia autentico.
 
-#### **AZIONI**
-- **Azione:** La Principessa Xanesh effettua fino a 2 attacchi con la Sciabola Cosmica o con i dardi di Energia Astrale.
-- **Sciabola Cosmica:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+5 danni taglienti e psichici.
-- **Sguardo di Dominio (una volta per scena):** La Principessa Xanesh fissa un bersaglio entro 18 m (Lontana). Il bersaglio deve superare un Tiro di Reazione di Istinto con Difficoltà 18 o venire affascinato ed obbedire ai suoi ordini verbali per 1 minuto.
+**Tradizione conservata:** Erede di un impero spezzato, la Principessa Xanesh lotta costantemente contro l'influenza del Titano d'Ombra dello Xanesh, proteggendo con fierezza la sovranità delle sue terre.
 
-#### **REAZIONI**
-- **Deviazione Telecinetica:** Quando viene bersagliata da un attacco o da una capacità a distanza, la Principessa crea un campo di forza telecinetico che riduce il danno di 15.
-
----
-
-### **STORIA E LORE**
-Erede di un impero spezzato, la Principessa Xanesh lotta costantemente contro l'influenza del Titano d'Ombra dello Xanesh, proteggendo con fierezza la sovranità delle sue terre.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

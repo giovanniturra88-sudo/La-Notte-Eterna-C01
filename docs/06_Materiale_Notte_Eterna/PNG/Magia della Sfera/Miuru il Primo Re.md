@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # MIURU, IL PRIMO RE
 *Sovrano Leggendario delle Terre Unite*
 
@@ -9,46 +11,28 @@ type:
 
 Miuru è stato il grande unificatore delle tribù mortali prima dell'avvento della Notte Eterna. Antico re stratega, la sua presenza carismatica ispira coraggio incrollabile nei suoi guerrieri ed evoca il rispetto persino nei nemici più efferati.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 4
+- **Ruolo:** Leader
+- **Difficoltà:** 20
+- **Soglie di Danno:** 14/28
+- **Punti Ferita:** 10
+- **Stress:** 6
+- **Attacco — Lancia del Primo Re:** +5 | Mischia | 4d8+8 fisici
 
-* **Descrizione:** Grandissimo unificatore delle tribù mortali prima dell'avvento della Notte Eterna, Miuru è un antico re stratega la cui carismatica presenza ispira coraggio incrollabile nei suoi guerrieri ed evoca rispetto persino nei nemici più efferati.
-* **Rango:** 4 (Solo)
-* **Difficoltà:** 20
-* **Soglie di Danno:** Minore: 15 | Maggiore: 30 | Grave: 55
-* **Punti Ferita:** 10 | **Stress:** 6
-* **Esperienza:** Persuasione +5, Intimidire +5, Conoscenza +5, Atletica +5
-* **Attacchi:**
- * **Scettro del Dominio:** +5 | Prossima | 4d8+10 contundenti e radianti
-* **Tratti e Capacità:**
- * **Presenza Regale - Passiva:** tutti gli alleati entro 18 m (Lontana) da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla paura.
- * **Azione:** con un'unica azione Miuru effettua fino a 3 attacchi di Scettro del Dominio.
- * **Ispirazione del Sovrano - Azione (3 volte per scena):** Miuru consente a un alleato entro 18 m (Lontana) di effettuare immediatamente un attacco o di muoversi della propria velocità.
- * **Grido di Conquista - Azione (una volta per scena):** Miuru emette un ruggito di comando; ogni nemico entro 12 m (Area Ravvicinata) deve superare un Tiro di Reazione di Presenza Difficoltà 19 o subire 4d10+10 danni psichici ed essere stordito per 1 turno.
- * **Guardia Imperiale - Reazione:** quando un attacco sta per colpire Miuru, egli può scambiare la propria posizione con quella di un alleato volenteroso entro 1,5 m (Prossima), che subisce l'attacco al suo posto.
+### Mosse
+- **Presenza Regale: gli alleati a portata Vicina recuperano 1 Stress quando Miuru diventa bersaglio di un attacco.**
+- **Ispirazione del Sovrano - Azione: permette a un alleato Vicino di muoversi e compiere subito un'azione senza consumare lo Spotlight, una volta per scena.**
+- **Guardia Imperiale - Reazione: quando un alleato sarebbe colpito entro portata Vicina, Miuru marca 2 Stress e scambia posto con lui, subendo l'attacco.**
+- **Grido di Conquista - Paura: spendi 2 Paura; tutti i nemici Molto Vicini segnano 1 Stress e Miuru sceglie un alleato che effettua subito l'attacco base.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Presenza Regale:** Tutti gli alleati entro 18 m da Miuru ottengono un bonus di +3 ai Tiri di Reazione e sono immuni alla paura.
-- **Ispirazione del Sovrano (3 volte per scena):** Con un'azione, Miuru permette a un alleato entro 18 m di effettuare immediatamente un attacco o di muoversi della propria velocità.
+Usalo come sovrano di un'epoca leggendaria, in una memoria condivisa o come ideale materializzato; la sua età d'oro è tradizione epica, non una fonte documentale completa.
 
-#### **AZIONI**
-- **Azione:** Effettua fino a tre attacchi con lo Scettro del Dominio.
-- **Scettro del Dominio:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Rango 4), portata 1,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti e radianti.
-- **Grido di Conquista (una volta per scena):** Miuru emette un ruggito di comando. Ogni nemico entro 12 m deve superare un Tiro di Reazione di Presenza Difficoltà 19 o subire 4d10+10 danni psichici ed essere stordito per 1 turno.
+**Tradizione conservata:** Il regno di Miuru è ricordato come un'epoca d'oro di prosperità e giustizia. La sua figura è tuttora invocata dagli avventurieri come simbolo di resistenza contro le tenebre.
 
-#### **REAZIONI**
-- **Guardia Imperiale:** Quando un attacco sta per colpire Miuru, egli può scambiare la sua posizione con quella di un alleato volenteroso entro 1,5 m, che subisce l'attacco al suo posto.
-
-#### **AZIONI LEGGENDARIE**
-- **Comando Guerriero:** Miuru sceglie un alleato che può vederlo. Quell'alleato può usare la sua reazione per effettuare un attacco da mischia.
-- **Avanzata Sovrana:** Miuru si muove fino alla sua velocità senza provocare attacchi di opportunità.
-
----
-
-### **STORIA E LORE**
-Il regno di Miuru è ricordato come un'epoca d'oro di prosperità e giustizia. La sua figura è tuttora invocata dagli avventurieri come simbolo di resistenza contro le tenebre.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

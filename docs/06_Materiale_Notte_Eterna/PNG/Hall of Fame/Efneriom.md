@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 ![[Pasted image 20260731103737.png|700]]
 
@@ -11,3 +12,8 @@ Quanto avvenuto realmente ha alcuni punti in comune con la leggenda. Prima della
 Nella sua dilagante megalomania, il lich odia profondamente l'Imperatrice [[Desea]] per il vecchio potere che rappresenta. La considera una belva assetata di sangue, incapace di intendere altro fuorché il piacere della caccia: una pedina utile per tenere alla larga gli intrusi che continuano a cercare la vita eterna, trovando invece la morte contro i guardiani e le trappole magiche che proteggono la sua dimora.
 L'obiettivo di Efneriom è formare una potente organizzazione segreta in grado di infiltrarsi tra i poteri delle metropoli di [[Neir]] e soggiogarli al suo comando.
 Il discusso dono della vita eterna custodito da Efneriom è rappresentato da quegli stessi oscuri segreti che lo resero un lich. Efneriom è gelosissimo dei suoi tomi ed è pronto a difenderli a qualunque costo. Di rado il lich partecipa a uno scontro, preferendo che siano le trappole e i guardiani della Torretta delle Anime a occuparsi degli intrusi. Quando il suo intervento si rende necessario, Efneriom ostenta tutta la sua potenza e non mostra alcuna pietà.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Efneriom; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Efneriom offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

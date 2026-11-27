@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 ![[Pasted image 20260730171949.png|700]]
 
@@ -14,3 +15,8 @@ Renetzia ne è rimasta inevitabilmente toccata e la sua pietà viene guardata co
 * *Preparare piani di emergenza per far fronte a imprevisti.*
 * *Mantenere una presenza discreta, minimizzando i contatti.*
 * *Connettersi con il proprio contatto e svanire nell'ombra.*
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Renetzia; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Renetzia offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

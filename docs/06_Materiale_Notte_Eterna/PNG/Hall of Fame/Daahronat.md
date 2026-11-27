@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 ![[Pasted image 20260731103128.png|700]]
 
@@ -12,3 +13,8 @@ Recitando la parola d'ordine «Hsszrat» la bolla permette l'accesso al suo inte
 **Occorrono:** Ombra della Luna Rossa, il respiro più antico della foresta, sangue di guerriero, frammento di fuoco celeste (meteora).
 **Procedimento:** Alla luce della Luna Rossa, create un cerchio serrato. Inspirate a fondo il respiro della foresta. Cantate le antiche canzoni. Risvegliate gli spiriti per attingere il potere del firmamento. Versa il tuo sangue nella bocca della terra. Poni il frammento del cielo in mezzo al cerchio sacro. Ardi il sangue raffreddato. Bevi il distillato e lascia che il calore inondi le tue vene.
 **Risultato:** Scaglie che brillano, cuore che batte. Rinascita per i guerrieri dell'alba senza sole. Attenzione! Solo per chi è degno, il rituale non ammette debolezze.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Daahronat; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Daahronat offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

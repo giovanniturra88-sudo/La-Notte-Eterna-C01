@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # MENDULIA
 *La Sacerdotessa della Luce Perduta*
 
@@ -9,42 +11,28 @@ type:
 
 Mendulia è una figura venerata tra i superstiti di Neir. Devota all'antico culto di Laon, la sua fede incrollabile le permette di canalizzare la luce radiosa e la magia curativa per confortare gli afflitti e scacciare i non morti.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 3
+- **Ruolo:** Supporto
+- **Difficoltà:** 17
+- **Soglie di Danno:** 8/16
+- **Punti Ferita:** 8
+- **Stress:** 5
+- **Attacco — Fiamma Consacrata:** +4 | Vicino | 3d8+3 magici
 
-* **Descrizione:** Figura venerata tra i superstiti di Neir, canalizza luce radiosa e magia curativa per confortare gli afflitti e scacciare i non morti.
-* **Rango:** 3 (Solo)
-* **Difficoltà:** 17
-* **Soglie di Danno:** Minore: 8 | Maggiore: 16 | Grave: 30
-* **Punti Ferita:** 8 | **Stress:** 4
-* **Esperienza:** Medicina +4, Religione +2, Persuasione +3
-* **Attacchi:**
- * **Mazza Radiosa:** +3 | Prossima | 3d8+3 danni contundenti e radianti
-* **Tratti e Capacità:**
- * **Aura di Devozione - Passiva:** Mendulia e gli alleati in portata Ravvicinata non possono essere affascinati o spaventati.
- * **Immunità alla Luce - Passiva:** Immune ai danni radianti.
- * **Percezione:** 15.
- * **Incantesimi del Chierico - Azione:** Canalizza capacità di cura e danno radiante (Difficoltà 17): **Colpo Infuocato (a volontà)**: attacco con capacità magica a Distanza, gittata Lontana, un bersaglio. Colpito: 3d8+3 danni radianti e da fuoco. **Parola della Guarigione (3 volte per scena)**: un alleato entro portata Ravvicinata recupera 2d10 Punti Ferita.
- * **Scacciare Abomini (3 volte per scena) - Azione:** Mostra il simbolo sacro. Ogni non morto o immondo in portata Ravvicinata deve superare un Tiro di Reazione di Istinto con Difficoltà 17 o essere scacciato, o distrutto se di rango pari o inferiore a 2.
- * **Intercessione Divina - Reazione:** Quando un alleato in portata Ravvicinata subisce danni, Mendulia li riduce di 16 (3d10) ponendosi come scudo spirituale.
+### Mosse
+- **Aura di Devozione: una volta per scena, Mendulia o un alleato Vicino recupera 1 Stress quando protegge qualcuno in pericolo.**
+- **Scacciare gli Abomini - Azione: costringe un non morto o un servitore di Tenebris entro portata Vicina a scegliere: ritirarsi fino a Lontano oppure segnare 2 Stress.**
+- **Intercessione Divina - Reazione: quando un alleato subisce danni, marca 1 Stress per ridurre di 1 grado le conseguenze e cancellare una condizione.**
+- **Luce dell'Ultimo Rifugio - Paura: spendi 1 Paura; un alleato recupera 1 punto di Punti Ferita e ogni avversario di tipo non morto in vista segna 1 Stress.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Aura di Devozione:** Mendulia e gli alleati in portata Ravvicinata non possono essere affascinati o spaventati.
-- **Incantesimi del Chierico:** Mendulia è un'incantatrice di Rango 3 (Difficoltà 17, +4 ai tiri d'attacco magici). **Colpo Infuocato (a volontà):** attacco con capacità magica a Distanza: +3, gittata Lontana, un bersaglio. Colpito: 3d8+3 danni radianti e da fuoco. **Parola della Guarigione (3 volte per scena):** un alleato entro portata Ravvicinata recupera 2d10 Punti Ferita.
+Usala come protettrice evocata, eco del culto di Laon o PNG ospitale; le storie sui suoi miracoli devono essere distinte dagli eventi comprovati della campagna.
 
-#### **AZIONI**
-- **Mazza Radiosa:** Attacco con Arma da Mischia: +3 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d8+3 danni contundenti e radianti.
-- **Scacciare Abomini (3 volte per scena):** Mendulia mostra il suo simbolo sacro. Ogni non morto o immondo in portata Ravvicinata deve superare un Tiro di Reazione di Istinto con Difficoltà 17 o essere scacciato o distrutto se con rango pari o inferiore a 2.
+**Tradizione conservata:** Mendulia viaggia instancabilmente per le distese buie di Neir portando conforto e cura alle comunità isolate, opposte alla terribile influenza di Tenebris.
 
-#### **REAZIONI**
-- **Intercessione Divina:** Quando un alleato in portata Ravvicinata subisce danni, Mendulia riduce quel danno di 16 (3d10) ponendosi come scudo spirituale.
-
----
-
-### **STORIA E LORE**
-Mendulia viaggia instancabilmente per le distese buie di Neir portando conforto e cura alle comunità isolate, opposte alla terribile influenza di Tenebris.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

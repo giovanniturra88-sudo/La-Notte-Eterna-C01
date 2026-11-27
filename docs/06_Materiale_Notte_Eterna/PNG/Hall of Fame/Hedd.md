@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 aliases:
  - Hedd il Folle
 ---
@@ -16,3 +17,8 @@ Hedd è alla ricerca di un giovane disposto ad apprendere i segreti dello stile 
 *«Non vorremmo»* dice, riferendosi a Milde, Tuldann e Corky, *«non vorremmo che tu vada là fuori a farti ammazzare da un [[hjilaki]], hm? Hm? Hm?»*.
 
 *In silenzio nella foresta, osservo la mia vita lunga quanto la terra, Un tempo giovane e forte, ora l'età si palesa e nei miei verdi occhi brilla una lacrima d'argento. Guardo avanti, cosa serba per me la morte? Una storia da raccontare? Il mio sentiero si inerpica tra le stelle disegnando nuove avventure.*
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Hedd; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Hedd offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 
 ![[Pasted image 20260712155004.png|700]]
@@ -12,3 +13,8 @@ La Repubblica sta così gradualmente rivelando le sue reali ambizioni ad altre s
 Finora Bruin ha saputo tenere banco, mantenendosi imparziale nei confronti di qualsiasi nazione, sia essa il [[Dominio delle Trame]] oppure il [[Ducato di Öuin]].
 Ma giocando con il fuoco si può rimanere scottati e Bruin ha collezionato nemici come conchiglie sul bagnasciuga.
 La sua attitudine è propria della cultura mendus, per cui «Il denaro non conosce amici né nemici». Purché finisca nelle loro tasche, si intende.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Bruin Ashcroft; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Bruin Ashcroft offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

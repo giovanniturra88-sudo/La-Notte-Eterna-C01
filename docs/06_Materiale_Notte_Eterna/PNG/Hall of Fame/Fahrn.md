@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 
 Fahrn non è sempre stato un druido votato al mantenimento dell'equilibrio naturale ad ogni costo.
@@ -10,3 +11,8 @@ della città che aveva consumato la sua giovinezza, Fahrn si unì a un convoglio
 a un rigoroso periodo di servizio prima di rivelargli i segreti druidici.
 All'interno del Circolo, Fahrn nacque una seconda volta, e con gli anni maturò diventando il più saggio e potente tra loro. Grazie alla sua guida, l'enclave ha consolidato posizioni strategiche lungo [[Aman'Raith]], respingendo le occasionali incursioni di non morti provenienti dalle rovine di [[Gundazar]].
 Tutti i druidi di [[Aman'Raith]] gli obbediscono ciecamente. Da più di 700 anni, Fahrn vive come un eremita in un mausoleo semidiroccato, circondato da un boschetto di yug e rovi inestricabili. Il venerabile elfo, che molto tempo fa ebbe il privilegio di conoscere Nohughntass, sente che la sua fine è ormai prossima ed è pronto a concedere il titolo di Arcidruido a chi se ne dimostrerà degno.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Fahrn; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Fahrn offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

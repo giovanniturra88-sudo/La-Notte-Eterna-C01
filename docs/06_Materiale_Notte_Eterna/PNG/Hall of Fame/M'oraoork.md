@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 
 ![[Pasted image 20260713162553.png|700]]
@@ -13,3 +14,8 @@ Il cuore di M'oraoork ha conosciuto un unico, grande amore: Kiwruel, la madre de
 Raramente lascia [[Gloriosa Ezakran]], preferendo governare la vasta e influente Chiesa di Garod dalla capitale dell'Impero. Si affida a una rete di fidati emissari che lo informano sugli avvenimenti nelle chiese e nei monasteri di Garod ovunque su [[Neir]] e nell'[[Impero delle Terre Nascoste]].
 
 **Nota:** Mescola radice di mandragora, aglio schiacciato e sangue di basilisco per esaltarne le qualità conservanti. Versa dell'acqua santa per formare una pasta in grado di fermare la decomposizione. Spalma la pomata sulle aree soggette a putrefazione e avvolgi le membra in lino incantato per sigillare gli effetti.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a M'oraoork; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di M'oraoork offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

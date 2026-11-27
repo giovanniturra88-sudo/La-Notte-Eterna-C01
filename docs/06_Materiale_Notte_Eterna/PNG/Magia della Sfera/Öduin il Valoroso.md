@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # ÖDUIN IL VALOROSO
 *Il Campione del Fuoco Segreto*
 
@@ -9,43 +11,28 @@ type:
 
 Öduin è un leggendario cavaliere e paladino che ha consacrato la sua esistenza alla difesa della Vetta delle Anime e del Fuoco Segreto. Esempio vivente di virtù, coraggio e incrollabile fermezza, conduce gli eserciti dei mortali in prima linea.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 3
+- **Ruolo:** Leader marziale
+- **Difficoltà:** 18
+- **Soglie di Danno:** 10/20
+- **Punti Ferita:** 9
+- **Stress:** 5
+- **Attacco — Spada del Fuoco Segreto:** +4 | Mischia | 3d8+5 fisici e magici
 
-* **Descrizione:** Leggendario cavaliere e paladino, campione del Fuoco Segreto, che conduce gli eserciti dei mortali in prima linea in difesa della Vetta delle Anime.
-* **Rango:** 3 (Solo)
-* **Difficoltà:** 18
-* **Soglie di Danno:** Minore: 10 | Maggiore: 20 | Grave: 38
-* **Punti Ferita:** 9 | **Stress:** 5
-* **Esperienza:** Atletica +4, Persuasione +4, Intimidire +4, Religione +2, Percepire +2
-* **Attacchi:**
- * **Fiammasolenne (Spada Acharia):** +4 | Prossima | 3d10+4 danni taglienti e da fuoco
-* **Tratti e Capacità:**
- * **Aura del Fuoco Segreto - Passiva:** Öduin e gli alleati entro 3 m (Prossima) aggiungono +4 ai Tiri di Reazione e infliggono 4 danni da fuoco extra ai loro attacchi in mischia.
- * **Carica Sacra - Passiva:** Se Öduin si muove di almeno 6 m in linea retta verso una creatura prima di colpirla in mischia, infligge 9 danni da fuoco aggiuntivi e il bersaglio deve superare un Tiro di Reazione di Forza con Difficoltà 18 o cadere a terra.
- * **Immunità e Resistenze - Passiva:** Immune ai danni da fuoco e alla paura; resiste ai danni radianti.
- * **Azione:** Effettua fino a 3 attacchi con Fiammasolenne.
- * **Onda Solare (una volta per scena) - Azione:** Öduin conficca la spada nel terreno scatenando un'esplosione di luce e calore in un raggio di 9 m (Area Ravvicinata): ogni nemico nell'area deve superare un Tiro di Reazione di Agilità con Difficoltà 18 o subire 3d12+5 danni da fuoco e radianti ed essere accecato per 1 turno (metà danni in caso di successo).
- * **Incrociare le Lame - Reazione:** Quando una creatura effettua un attacco in mischia contro Öduin, egli incrocia l'arma aumentando la Difficoltà dell'attacco di 3; se l'attacco fallisce, l'attaccante subisce 9 danni da fuoco.
+### Mosse
+- **Carica Sacra: la prima volta in scena che Öduin si muove da Lontano a Mischia, l'attacco successivo infligge una conseguenza aggiuntiva.**
+- **Onda Solare - Azione: attacca ogni nemico in un'area Vicina; chi non viene colpito è costretto a scegliere tra segnare 1 Stress e arretrare.**
+- **Incrociare le Lame - Reazione: quando intercetta un attacco in Mischia, marca 1 Stress per imporre svantaggio; se fallisce, l'attaccante subisce 1 Stress.**
+- **Fuoco della Vetta - Paura: spendi 2 Paura; accendi un'aura che protegge gli alleati Vicini da una condizione e consente loro di recuperare 1 Stress.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Aura del Fuoco Segreto:** Öduin e gli alleati entro 3 m (Prossima) aggiungono +4 a tutti i Tiri di Reazione e infliggono 4 danni da fuoco extra ai loro attacchi in mischia.
-- **Carica Sacra:** Se Öduin si muove di almeno 6 m in linea retta verso una creatura prima di colpirla con un attacco in mischia, infligge 9 danni da fuoco aggiuntivi e il bersaglio deve superare un Tiro di Reazione di Forza con Difficoltà 18 o cadere a terra.
+Usalo come campione della Vetta delle Anime, in una visione dell'età precedente alla Notte Eterna o come modello del suo ultimo conflitto; il titolo è leggendario e non certifica ogni impresa narrata.
 
-#### **AZIONI**
-- **Azione:** Öduin effettua fino a 3 attacchi con Fiammasolenne.
-- **Fiammasolenne (Spada Acharia):** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d10+4 danni taglienti e da fuoco.
-- **Onda Solare (una volta per scena):** Öduin conficca la sua spada nel terreno scatenando un'esplosione di luce e calore in un raggio di 9 m (Area Ravvicinata). Ogni nemico nell'area deve effettuare un Tiro di Reazione di Agilità con Difficoltà 18, subendo 3d12+5 danni da fuoco e radianti ed essere accecato per 1 turno in caso di fallimento.
+**Tradizione conservata:** Campione acclamato di Neir, Öduin ha respinto personalmente le incursioni dei Titani d'Ombra, ricacciando gli orrori abissali nelle profondità dello Xanesh.
 
-#### **REAZIONI**
-- **Incrociare le Lame:** Quando una creatura effettua un attacco in mischia contro Öduin, egli risponde incrociando l'arma, aumentando la Difficoltà dell'attacco di 3 e infliggendo 9 danni da fuoco all'attaccante se l'attacco fallisce.
-
----
-
-### **STORIA E LORE**
-Campione acclamato di Neir, Öduin ha respinto personalmente le incursioni dei Titani d'Ombra, ricacciando gli orrori abissali nelle profondità dello Xanesh.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

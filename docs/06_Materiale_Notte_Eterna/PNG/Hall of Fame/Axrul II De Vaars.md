@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 aliases:
  - Énuas
 ---
@@ -13,3 +14,8 @@ Venuta a conoscenza della capitolazione di [[Gundazar]], l'imperatrice decise co
 Di [[Desea]] si perse ogni traccia dopo il 13 N.E., quando Luaar e Arkanis con le loro rispettive armate si annientarono a vicenda.
 Caio VI, alias Terek, crebbe dunque a [[Forte Arundex]], allevato da servi devoti. Il fanciullo divenne uomo serbando intimamente il segreto delle sue origini. Non c'era più posto per la sua stirpe nel mondo ma con il passare del tempo riuscì a farsi strada e a ottenere un certo prestigio economico come mercante. Il suo erede Caio VII preservò la segretezza delle travagliate origini familiari e così fece anche Axrul I, suo discendente. Quest'ultimo ebbe un figlio da un'affascinante elfa originaria di [[Azkabel]], che dopo un certo periodo di tempo li abbandonò per seguire i suoi sogni.
 Axrul II De Vaars, conosciuto come Énuas, è un ragazzo malinconico e taciturno che si cura poco degli affari di famiglia, preferendo che siano le sue avide sorellastre a occuparsene. Portatore dell'antico amuleto della casata De Vaars, cimelio che conferisce il diritto al trono di [[Gundazar]], Axrul spesso parte senza avvisare nessuno, con somma preoccupazione dell'anziano padre, per ritornare mesi dopo con una cicatrice in più e lo sguardo accigliato e rivolto verso un orizzonte lontano. Axrul coltiva il desiderio di visitare la terra dei suoi avi, [[Gundazar]]. Sa bene che l'impresa potrebbe essergli fatale ma ormai la vita per lui non ha alcun senso e ogni strada sembra condurre verso tale oscura meta. Nel sonno gli sembra quasi di udire una suadente voce di donna chiamarlo a sé. Presto l'Imperatrice [[Desea]] potrebbe stringere il suo amato bambino fra le braccia.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Axrul II De Vaars; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Axrul II De Vaars offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

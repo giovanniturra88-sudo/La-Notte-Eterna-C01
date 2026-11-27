@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 
 Non lasciarti ingannare dall'apparenza vistosa di Hulbert; sotto i suoi abiti costosi si nasconde un abile spadaccino, sempre pronto a difendere l'onore della sua famiglia e a proteggere ciò che è in gioco, se la via diplomatica dovesse fallire. A differenza degli altri regnanti xaan che praticano la guerra come sport, il legittimo erede della Baronia di Mubunash preferisce risolvere le divergenze con la parola invece della lama.
@@ -11,3 +12,8 @@ Attualmente, la sua corte affronta una minaccia crescente. L'Oscura Chiesa di Te
 
 *«Oh Hulbert, che nella ricca seta sprofondi, Barone audace, [[Tenebris]] incombe, Destati, mio signore è l'ora di sguainare la spada e prova il tuo valore.»*
 *"La Seta e l'Acciaio" del Menestrello Ombra*
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Hulbert; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Hulbert offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

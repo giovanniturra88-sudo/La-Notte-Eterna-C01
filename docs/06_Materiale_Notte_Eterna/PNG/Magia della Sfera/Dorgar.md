@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # DORGAR
 *Il Principe Uccisore di Draghi*
 
@@ -9,44 +11,28 @@ type:
 
 Dorgar è il Principe di Valle Nuvolosa, il campione che nell'anno 6487 E.S. affrontò e uccise in battaglia Tweshradsal Stomaco di Lava, l'ultimo drago di Valle Nuvolosa.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 3
+- **Ruolo:** Bruto
+- **Difficoltà:** 17
+- **Soglie di Danno:** 8/17
+- **Punti Ferita:** 8
+- **Stress:** 5
+- **Attacco — Martello dell'Urto:** +4 | Mischia | 3d10+4 fisici
 
-* **Descrizione:** Principe di Valle Nuvolosa, campione che sconfisse in battaglia Tweshradsal Stomaco di Lava, l'ultimo drago di Valle Nuvolosa.
-* **Rango:** 3 (Solo)
-* **Difficoltà:** 17
-* **Soglie di Danno:** Minore: 8 | Maggiore: 17 | Grave: 32
-* **Punti Ferita:** 8 | **Stress:** 5
-* **Esperienza:** Atletica +4, Storia +2, Percepire +3
-* **Attacchi:**
- * **Martello della Rupe:** +4 | Prossima | 3d10+4 danni contundenti e magici
-* **Tratti e Capacità:**
- * **Resilienza Nanica - Passiva:** Vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
- * **Inamovibile - Passiva:** Non può essere spinto, buttato a terra o mosso contro la sua volontà finché si trova su una superficie di pietra o terra.
- * **Resistenza al Danno - Passiva:** Resiste ai danni da veleno e ai danni fisici; è immune all'avvelenamento.
- * **Scurovisione - Passiva:** vede nel buio (18 m).
- * **Attacchi Multipli - Azione:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
- * **Impatto Sismico (una volta per scena) - Azione:** Scaglia il martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata a terra.
- * **Proteggere l'Alleato - Reazione:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
+### Mosse
+- **Granito Inamovibile: non può essere spostato contro la sua volontà mentre è in piedi.**
+- **Impatto Sismico - Azione: crea un pericolo in un'area Molto Vicina. Ogni PG nella zona sceglie se subire l'attacco standard o marcare 1 Stress e finire Vulnerabile fino al proprio prossimo turno.**
+- **Proteggere l'Alleato - Reazione: quando un alleato entro portata Vicina verrebbe colpito, Dorgar si interpone e subisce i danni al suo posto.**
+- **Frattura della Montagna - Paura: spendi 2 Paura; l'attacco colpisce tutti i bersagli Vicini e lascia l'area Difficile fino alla fine della scena.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Resilienza Nanica:** Dorgar ha vantaggio ai Tiri di Reazione contro veleni e capacità magiche.
-- **Inamovibile:** Dorgar non può essere spinto, buttato a terra o mosso contro la sua volontà se si trova su una superficie di pietra o terra.
+Usalo in un flashback, in un patto con la memoria dei nani o come prova evocata dalla Magia della Sfera; il titolo e le date appartengono alla tradizione storica, non a una biografia verificata.
 
-#### **AZIONI**
-- **Attacchi Multipli:** Dorgar effettua fino a 2 attacchi con il Martello della Rupe, oppure uno con il Martello e uno con lo Scudo.
-- **Martello della Rupe:** Attacco con Arma da Mischia: +4 al tiro d'attacco, portata Prossima, un bersaglio. Colpito: 3d10+4 danni contundenti e magici.
-- **Impatto Sismico (una volta per scena):** Dorgar scaglia il suo martello al suolo. Ogni creatura in portata Ravvicinata deve superare un Tiro di Reazione di Forza con Difficoltà 17 o subire 3d12+5 danni contundenti ed essere buttata a terra.
+**Tradizione conservata:** Principe Dorgar I di Valle Nuvolosa (6487-6200 E.S.) è il campione che sconfisse in battaglia Tweshradsal Stomaco di Lava, l'ultimo drago di Valle Nuvolosa, guadagnandosi il titolo di loro Principe presso i nani. Nel 6250 E.S., dove un tempo si trovava la tana di Tweshradsal, i nani fondarono Hultuaar, la "Tana del Drago", che assunse un'importanza fondamentale nell'organizzazione dei reami nanici.
 
-#### **REAZIONI**
-- **Proteggere l'Alleato:** Quando una creatura attacca un alleato di Dorgar in portata Prossima, Dorgar impone svantaggio al tiro d'attacco dell'attaccante.
-
----
-
-### **STORIA E LORE**
-Principe Dorgar I di Valle Nuvolosa (6487-6200 E.S.) è il campione che sconfisse in battaglia Tweshradsal Stomaco di Lava, l'ultimo drago di Valle Nuvolosa, guadagnandosi il titolo di loro Principe presso i nani. Nel 6250 E.S., dove un tempo si trovava la tana di Tweshradsal, i nani fondarono Hultuaar, la "Tana del Drago", che assunse un'importanza fondamentale nell'organizzazione dei reami nanici.
-
-*Documento generato per l'ambientazione dark epic fantasy **La Notte Eterna**.*
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

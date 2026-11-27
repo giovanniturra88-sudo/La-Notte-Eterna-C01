@@ -1,7 +1,9 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
+
 # NYAMI-MIA
 *Spirito delle Acque Profonde*
 
@@ -9,42 +11,28 @@ type:
 
 Nyami-mia è una creatura mitica e venerata, guardiana dei grandi corsi d'acqua e dei bacini sotterranei di [[Neir]]. Legata allo spirito guida dei fiumi, protegge la vita acquatica e scatena piene rovinose contro chi inquina o profana le sue acque.
 
----
+## Avversario Daggerheart
 
-### **STATISTICHE E CAPACITÀ (Daggerheart)**
+- **Rango:** 4
+- **Ruolo:** Solo
+- **Difficoltà:** 20
+- **Soglie di Danno:** 14/28
+- **Punti Ferita:** 10
+- **Stress:** 6
+- **Attacco — Colpo di Coda:** +5 | Vicino | 4d8+10 fisici
 
-* **Descrizione:** Creatura mitica e venerata, guardiana dei grandi corsi d'acqua e dei bacini sotterranei di [[Neir]]; legata allo spirito guida dei fiumi, protegge la vita acquatica e scatena piene rovinose contro chi inquina o profana le sue acque.
-* **Rango:** 4 (Solo)
-* **Difficoltà:** 20
-* **Soglie di Danno:** Minore: 14 | Maggiore: 28 | Grave: 52
-* **Punti Ferita:** 10 | **Stress:** 6
-* **Esperienza:** Percepire +4, Conoscenza +3, Atletica +5
-* **Attacchi:**
- * **Colpo di Coda:** +5 | Ravvicinata (4,5 m) | 4d8+10 contundenti
-* **Tratti e Capacità:**
- * **Anfibio - Passiva:** respira sia in aria che in acqua.
- * **Forma Acquatica - Passiva:** in acqua si muove attraverso spazi stretti (fino a 2,5 cm) senza costrizioni.
- * **Scurovisione - Passiva:** vede nel buio (36 m).
- * **Vista Cieca - Passiva:** percepisce le creature entro 18 m anche senza vederle.
- * **Azione:** con un'unica azione Nyami-mia effettua fino a 2 attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
- * **Maelstrom Abissale - Azione (una volta per scena):** evoca un vortice d'acqua travolgente in una sfera di 9 m (Area Ravvicinata) entro 27 m (Lontana); ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere trattenuta e trascinata nel vortice.
- * **Onda Protettiva - Reazione:** quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, aumentando di +4 la Difficoltà contro quell'attacco.
+### Mosse
+- **Forma delle Acque: si muove senza impedimenti attraverso acqua e zone allagate; fuori dall'acqua i suoi effetti che controllano il campo restano disponibili ma costano 1 Stress.**
+- **Maelstrom Abissale - Azione: attacca ogni bersaglio in un'area Vicina, poi trascina ciascun bersaglio colpito verso il centro dell'area.**
+- **Onda Protettiva - Reazione: quando Nyami-mia o un alleato Vicino subirebbe danni, marca 1 Stress per ridurre di un grado le conseguenze.**
+- **Piena della Memoria - Paura: spendi 2 Paura; una zona diventa allagata e Pericolosa fino alla fine della scena, e Nyami-mia ottiene un attacco extra contro chi prova ad abbandonarla.**
 
----
+## Storia, leggenda e uso narrativo
 
-#### **TRATTI SPECIALI**
-- **Anfibio:** Nyami-mia può respirare sia in aria che in acqua.
-- **Forma Acquatica:** Nyami-mia può muoversi attraverso uno spazio stretto fino a 2,5 cm senza doversi stringere finché si trova in acqua.
+Tratta Nyami-mia come creatura mitica e guardiana. La venerazione dei fiumi è parte di più tradizioni: usa la scheda per un avatar, un'eco o la presenza stessa soltanto quando il tavolo stabilisce la sua natura.
 
-#### **AZIONI**
-- **Azione:** Nyami-mia effettua fino a due attacchi di Colpo di Coda, oppure un Colpo di Coda e una Sferzata d'Acqua.
-- **Colpo di Coda:** Attacco con Arma da Mischia: +5 al tiro d'attacco (bonus d'attacco del Rango 4), portata 4,5 m, un bersaglio. Colpito: 4d8+10 danni contundenti.
-- **Maelstrom Abissale (una volta per scena):** Nyami-mia evoca un vortice d'acqua travolgente in una sfera di 9 m entro 27 m. Ogni creatura nell'area deve superare un Tiro di Reazione di Forza Difficoltà 18 o subire 4d12+15 danni contundenti ed essere trattenuta e trascinata nel vortice.
+**Tradizione conservata:** Protettrice del fiume sacro di [[Neir]], Nyami-mia combatte apertamente le nefaste creazioni di [[Abaia]], il Principe delle Anguille, ricacciando i demoni negli abissi di Ezav.
 
-#### **REAZIONI**
-- **Onda Protettiva:** Quando Nyami-mia o un alleato entro 9 m subisce un attacco, un muro d'acqua intercetta il colpo, aumentando di +4 la Difficoltà contro quell'attacco.
-
----
-
-### **STORIA E LORE**
-Protettrice del fiume sacro di [[Neir]], Nyami-mia combatte apertamente le nefaste creazioni di [[Abaia]], il Principe delle Anguille, ricacciando i demoni negli abissi di Ezav.
+## Ganci per Daggerheart
+- Usa la verità storica come posta: la prima prova che la contraddice può essere un indizio, non un annullamento della leggenda.
+- Al tavolo, scegli se la scheda rappresenta la figura, un'evocazione della Sfera, un'ombra del passato o una narrazione resa reale per una scena.

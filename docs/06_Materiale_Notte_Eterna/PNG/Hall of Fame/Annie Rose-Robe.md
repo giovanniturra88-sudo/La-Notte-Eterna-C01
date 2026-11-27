@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 ---
 
 ![[annie_rose_robe_pic.png|700]]
@@ -8,3 +9,8 @@ Discendente del leggendario comandante Trawler, Annie Rose-Robe è recentemente 
 In qualità di regnante xaan, la Contessa si trova spesso coinvolta nelle turbolente politiche della regione. Nonostante i suoi sforzi per evitare conflitti armati, ha dovuto occasionalmente guidare piccoli contingenti di cavalleria [[Halfling]] in combattimento contro eserciti invasori per proteggere i confini di [[Milford]]. La sua determinazione è rivolta in particolare a continuare la nobile tradizione che vuole i combattenti [[Halfling]] formidabili cacciatori di vampiri. Questa politica rende Milford un importante centro commerciale per aspiranti cacciatori di non morti, che presso la contea possono acquistare l'equipaggiamento e le armi di cui hanno bisogno.
 La relazione diplomatica di Annie con il Principe di [[Darkflame]], quest'ultimo un reame vicino alla Contea di [[Milford]], è eccellente, considerando che il carattere dei due sovrani si bilanciano perfettamente. Annie è giovane, estroversa e allegra, il Principe [[Aran]] è vecchio, cupo e solitario. Condividono spesso informazioni sugli eventi della regione e, sorprendentemente, si scambiano lettere e poesie ispirate alla letteratura cortese öued, di cui entrambi i sovrani sono profondi ammiratori.
 Tuttavia, di recente l'attenzione di Annie è rivolta anche ad indagare alcune anomale segnalazioni riportate dai suoi esploratori che pattugliano i confini occidentali della contea. Le segnalazioni di grandi creature alate che vagano nel cielo notturno sono diventate sempre più frequenti e motivo di preoccupazione per la Contessa. Come se questa stranezza non fosse sufficiente, voci allarmanti sono giunte ad Annie riguardo la crescente influenza del Culto di [[Tenebris]], che sembra aver preso piede in molti centri urbani dello [[Pianure di Xanesh|Xanesh]]. Annie sta raccogliendo quante più prove possibili prima di inviare un dispaccio al Barone [[Hulbert]].
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a Annie Rose-Robe; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di Annie Rose-Robe offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.

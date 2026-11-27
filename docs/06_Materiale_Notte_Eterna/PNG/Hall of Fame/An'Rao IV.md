@@ -1,6 +1,7 @@
----
+﻿---
 type:
  - "[[PNG]]"
+status: Da verificare
 aliases:
  - An'Rao
 ---
@@ -12,3 +13,8 @@ La malvagità e l'intelligenza dell'imperatore sono talmente temute dai suoi sud
 An'Rao ha mitizzato la sua figura, riportando alla luce antiche usanze. Egli non si mostra mai ai sudditi né agli ambasciatori stranieri, comunicando con loro solo dietro un drappo e indossando una maschera; si circonda esclusivamente di fedeli e potenti servitori e dai Prescelti dalle Tenebre. Un lusso sfrenato e unico al mondo caratterizza il suo palazzo, tanto da ammaliare e convincere i visitatori della sua provenienza ultraterrena.
 
 **Nota:** Approccia l'Imperatore An'Rao IV con assoluta sottomissione: copriti il viso per non contaminare l'aria, prostrati e parla solo se interpellato. La disobbedienza non sarà tollerata.
+
+## Ganci per Daggerheart
+- **Legame:** una reliquia, un testimone o una diceria collega gli avventurieri a An'Rao IV; stabilire quale parte del racconto è vera diventa una scelta narrativa.
+- **Svolta:** il ritorno, il nome o l'eredità di An'Rao IV offre ai personaggi un vantaggio, ma chiede in cambio di affrontarne le conseguenze nella scena successiva.
+- **Uso del GM:** spendi 1 Paura per far emergere un dettaglio inquietante della sua storia, non per risolvere automaticamente il conflitto o sostituire le motivazioni dei personaggi.
