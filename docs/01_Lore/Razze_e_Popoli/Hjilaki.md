@@ -1,45 +1,38 @@
----
-type: Popolo
+﻿---
+type: Trasformazione
+status: Canonico
+aliases:
+  - "Alti Vampiri"
 ---
 
-Gli alti vampiri sono conosciuti come hjilaki, un composto delle parole [[Karevi]] *hj* e *hlaká* (in lingua [[Karevi]] *"morto del sangue"*). In principio il termine si riferiva a tutti i vampiri, ma con il progressivo indebolimento del Sangue del Primo è servito a indicare esclusivamente i vampiri dotati di pieni poteri.
-Gli hjilaki sono creature più affascinanti, scaltre e forti dei vampiri. Ai vertici di ogni banda, clan o nazione vampirica vi sono sempre hjilaki. Secondo quanto affermano loro stessi, gli hjilaki avrebbero mantenuto intatte le straordinarie caratteristiche del leggendario Primo, il progenitore dei vampiri di [[Neir]].
-## Tratti degli Hjilaki
-Il personaggio perde tutti i suoi privilegi di razza ma conserva l'aspetto che aveva in vita, sebbene il suo incarnato acquisisca un estremo pallore e il colore delle sue iridi cambi in grigio, nero e in alcuni casi rossastro.
-Incremento dei Punteggi di Caratteristica. Il punteggio di Destrezza e Carisma del Hjilaki aumenta di 2 e il punteggio di Costituzione aumenta di 1.
-### Tipo
-Non morto.
-### Taglia
-La stessa della razza base.
-### Velocità
-+6 metri rispetto alla razza base.
-### Scurovisione
-Vedi [[01_Lore/Razze_e_Popoli/Vampiro]].
+# Hjilaki
 
-Le capacità Eterno Riposo, Paletto nel Cuore, Ferito da Acqua Corrente, Ipersensibilità alla luce e Repulsione all'Argento sono identiche a quelle del Vampiro, cui si rimanda per la descrizione.
-### Morso
-Un hjilaki ottiene un attacco con arma naturale (Forza). Se colpisce, il [[01_Lore/Razze_e_Popoli/Vampiro]] infligge danni perforanti pari a 1d8 + il modificatore di Forza del personaggio + 1d6 danni necrotici. L'Hjilaki recupera Punti Ferita pari alla metà dei danni necrotici inferti.
-### Bere Sangue
-Un hjilaki deve consumare almeno 2 litri di sangue ogni 24 ore. Quando si nutre può recuperare Punti Ferita pari a 1 dado vita per ogni litro di sangue assunto. Il massimo dei Punti Ferita del hjilaki si riduce di 5 per ogni giorno in cui non si nutre. Questa riduzione permane fino a che il vampiro non si nutre di sangue. Se questo effetto riduce il suo massimo dei Punti Ferita a 0, l'hjilaki cade in Frenesia di Sangue: i suoi punteggi di Intelligenza, Saggezza e Carisma scendono a 6, trasformandolo in una belva assetata di sangue. Mentre è in Frenesia di Sangue, l'hjilaki attinge al proprio sangue corrotto ottenendo 14 PF temporanei per dado vita. L'[[hjilaki]] muore se non si nutre entro le 24 ore successive.
-### Costituzione Vampirica
-Un hjilaki non ha bisogno di mangiare e bere se non sangue ed è immune alla condizione indebolimento. Un hjilaki è resistente ai danni necrotici e se non indossa un'armatura la sua CA è pari 15 + modificatore di Agilità.
+Gli alti vampiri sono conosciuti come hjilaki, termine [[Karevi]] composto da *hj* e *hlaká*, “morto del sangue”. In origine indicava tutti i vampiri; con l'indebolimento del Sangue del Primo è rimasto ai vampiri che ne conservano la pienezza.
+
+Gli hjilaki sono più affascinanti, potenti e resistenti dei vampiri comuni. Guidano clan, bande e nazioni vampiriche e sostengono di aver conservato intatti i doni del Primo.
+
+Gli hjilaki usano tutte le regole della trasformazione [[Vampiro]], con le seguenti evoluzioni:
+
+### Forma dell'Alto Vampiro
+
+- Il morso infligge `1d8` danni perforanti più `1d6` danni necrotici.
+- Dopo aver inflitto danni necrotici con il morso, l'hjilaki cancella 1 Stress o 1 Punto Ferita segnato.
+- Le prove fisiche o sociali nelle quali può sfruttare presenza soprannaturale, forza o fascino ottengono Vantaggio quando la fiction lo consente.
+- Può muoversi su pareti e soffitti senza prove, salvo superfici esplicitamente protette.
+- Può entrare in una residenza privata anche senza invito.
+
 ### Rigenerazione
-Un hjilaki recupera 10 Punti Ferita all'inizio di ogni tuo turno se ha almeno 1 punto ferita e non si trova in luce solare o acqua corrente. Se un hjilaki subisce danni radianti o da acqua santa, questo tratto non funziona fino alla fine del suo prossimo turno.
-### Movimenti del Ragno
-Un hjilaki può muoversi su superfici verticali e a testa in giù senza bisogno di prove.
-### Eterno Riposo
-Vedi Vampiro.
-### Paletto nel Cuore
-Vedi Vampiro.
-### Nessuna Proibizione
-Un hjilaki può entrare liberamente in una residenza senza essere invitato dal proprietario.
-### Ferito da Acqua Corrente
-Vedi Vampiro. 
-### Ipersensibilità alla Luce
-Vedi Vampiro. 
-### Repulsione all'Argento
-Vedi Vampiro.
-### Creare Hjilaki e Vampiri
-La creazione di hjilaki e vampiri funziona esattamente come "Creare vampiri" descritto sopra, con le seguenti distinzioni: La capacità di generare hjilaki si rinnova una volta ogni secolo. La Difficoltà per resistere al morso di un hjilaki è un Tiro di Reazione di Istinto con Difficoltà 15 + il modificatore di Presenza dell'hjilaki. Solo un hjilaki è in grado di generare suoi simili. Per farlo non gli basta mordere la vittima designata ma deve sacrificare parte delle sue energie vitali (perdita permanente di 1 a Forza e Agilità). Questo sacrificio e la propensione degli hjilaki a vedere nei propri simili dei possibili rivali ha contribuito a mantenerne il numero esiguo nel corso dei secoli.
+
+Una volta per turno, all'inizio del proprio turno, l'hjilaki cancella 1 Stress se non ha subito danni radiosi, danni da argento o acqua corrente dall'ultimo turno. Non si rigenera se è incapacitato durante l'Eterno Riposo o se il GM usa una conseguenza che richiede un fallimento irrevocabile.
+
+### Frenesia di Sangue
+
+Gli hjilaki devono nutrirsi come i vampiri comuni. Dopo tre riposi senza nutrimento entrano in Frenesia: subiscono Svantaggio alle prove sociali e di Conoscenza, e il GM può compiere mosse legate alla sete. Dopo la Frenesia possono tentare di riprendere il controllo trascorrendo una scena lontano dal profumo di sangue fresco e superando un Tiro di Reazione di Presenza.
+
+### Creare Hjilaki
+
+Un hjilaki può tentare di generarne un altro soltanto una volta ogni cento anni. Il processo richiede il morso, un rituale del Sangue del Primo e una conseguenza permanente scelta dal GM: sacrificio di ricordi, perdita di una capacità, debito verso un'entità o ulteriore frammentazione della stirpe. La vittima resiste con un Tiro di Reazione di Istinto.
+
 ### Legame di Sangue
-Il Legame di Sangue hjilaki funziona esattamente come quello dei vampiri descritto sopra, con le seguenti distinzioni: il contatto telepatico ha un raggio di 3 km. L'hjilaki o vampiro controllato deve superare una prova su Saggezza Difficoltà 15 + il modificatore di Presenza dell'hjilaki per distorcere il senso degli ordini ricevuti.
+
+Il legame hjilaki raggiunge un'intera regione solo in termini narrativi e permette al creatore di impartire un comando. Il subordinato può distorcerlo con un Tiro di Reazione di Istinto. Un ordine che contraddice direttamente una paura, un valore o una connessione fondamentale concede Svantaggio al creatore o Vantaggio al resistere, a seconda dell'interpretazione narrativa concordata.
