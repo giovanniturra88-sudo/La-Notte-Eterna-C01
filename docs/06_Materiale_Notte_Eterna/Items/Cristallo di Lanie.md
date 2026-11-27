@@ -1,10 +1,17 @@
 ---
+categoria: consumabile
+status: Canonico
+tier: 3
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Cristallo di Lanie_**
+# Cristallo di Lanie
 
-_Oggetto di Rango 3_
+**_Tier 3_** _Oggetto consumabile_
 
-Un cristallo luminoso che funge da catalizzatore magico. Quando incanti o scagli una capacità magica spendendo questo cristallo, aumenta la gittata di un livello (es. da Ravvicinata a Lontana) e aggiungi +2 al danno magico complessivo.
+Quando usi una capacità magica, puoi frantumare il cristallo: aggiungi +d8 danni magici oppure aumenta la gittata dell'effetto di un solo livello, senza superare Molto Lontana. Il cristallo viene consumato.
+
+- **Usi:** 1
+- **Ricarica:** Nessuna; il cristallo è consumato
+- **Costo:** Consumo del cristallo

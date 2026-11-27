@@ -1,10 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 1
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Pendaglio dell'Artiglio della Bestia_**
+# Pendagli dell'Artiglio della Bestia
 
-_Oggetto di Rango 1_
+**_Tier 1_** _Oggetto_
 
-Puoi agganciare questo pendaglio a qualsiasi arma Corpo a corpo. Aumenta la soglia del colpo critico dell'arma di 1 (es. connette il critico anche su un tiro di 19 e 20) e aggiunge +1 ai danni di tipo fisico.
+Puoi agganciare questo pendaglio a un'arma da Mischia. Una volta per riposo breve, dopo un attacco riuscito, puoi spendere 1 Speranza per aggiungere +d6 danni fisici oppure ottenere Vantaggio al tiro successivo contro lo stesso bersaglio.
+
+- **Usi:** 1
+- **Ricarica:** Riposo breve
+- **Costo:** 1 Speranza

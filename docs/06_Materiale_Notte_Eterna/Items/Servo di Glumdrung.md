@@ -1,10 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Servo di Glumdrung_**
+# Servo di Glumdrung
 
-_Oggetto di Rango 2_
+**_Tier 2_** _Oggetto_
 
-Una statuetta di pietra che prende vita a comando trasformandosi in un piccolo costrutto servitore per 1 ora. Può trasportare oggetti, attivare trappole o esplorare aree pericolose al posto tuo.
+Una volta per riposo lungo, la statuetta si anima per una scena. Il piccolo costrutto può trasportare oggetti, attivare congegni o esplorare un luogo pericoloso; quando lo fa al posto del gruppo, il GM può chiedere 1 Stress ma evita di esporre i personaggi al rischio iniziale.
+
+- **Usi:** 1
+- **Ricarica:** Riposo lungo
+- **Costo:** 1 Stress

@@ -1,10 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Collana della Fortuna_**
+# Collana della Fortuna
 
-_Oggetto di Rango 2_
+**_Tier 2_** _Oggetto_
 
-Due volte per riposo lungo, quando effettui un tiro con Paura, puoi spendere 1 Speranza per ritirare il Dado Speranza o cancellare la Paura generata dal tiro.
+Una volta per riposo lungo, quando ottieni Paura su un tiro, puoi spendere 1 Speranza per ritirare il Dado Speranza. Il nuovo risultato sostituisce il precedente, ma conserva le conseguenze della Paura.
+
+- **Usi:** 1
+- **Ricarica:** Riposo lungo
+- **Costo:** 1 Speranza

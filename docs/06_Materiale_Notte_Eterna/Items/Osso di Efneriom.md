@@ -1,12 +1,17 @@
 ---
+categoria: reliquia
+status: Canonico
+tier: 3
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Osso di Efneriom_**
+# Osso di Efneriom
 
-_Oggetto di Rango 3_
+**_Tier 3_** _Reliquia_
 
-Un feticcio d'osso inciso. Può essere spezzato per evocare lo spettro di [[Efneriom]] per la durata di una scena. Lo spettro combatte al tuo fianco come un alleato di Rango 3 o rivela un segreto nascosto nel luogo in cui ti trovi.
+Una volta per riposo lungo, puoi spezzare simbolicamente il feticcio senza distruggerlo ed evocare lo spettro di [[Efneriom]] fino alla fine della scena. Lo spettro può concedere +d6 danni a un attacco riuscito o rivelare un segreto utile nascosto nel luogo; poi svanisce.
 
----
+- **Usi:** 1
+- **Ricarica:** Riposo lungo
+- **Costo:** 1 Stress

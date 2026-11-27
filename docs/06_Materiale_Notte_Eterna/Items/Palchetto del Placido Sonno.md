@@ -1,10 +1,17 @@
 ---
+categoria: narrativo
+status: Canonico
+tier: 1
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Palchetto del Placido Sonno_**
+# Palchetto del Placido Sonno
 
-_Oggetto di Rango 1_
+**_Tier 1_** _Oggetto narrativo_
 
-Quando allestisci il campo usando questo palchetto di legno incantato, tutti i membri del gruppo ripristinano 1 Slot Stress aggiuntivo al termine del riposo lungo e sono protetti da imboscate non magiche durante la notte.
+Quando il gruppo usa il palchetto per un riposo lungo, un personaggio può liberare 1 Stress aggiuntivo. Per il resto della notte, le protezioni del palchetto segnalano le prime imboscate ordinarie invece di prevenirle automaticamente.
+
+- **Usi:** 1 per riposo lungo
+- **Ricarica:** Riposo lungo successivo
+- **Costo:** Nessuno

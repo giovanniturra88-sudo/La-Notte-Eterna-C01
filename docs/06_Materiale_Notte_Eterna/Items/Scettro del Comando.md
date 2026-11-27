@@ -1,10 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 3
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Scettro del Comando_**
+# Scettro del Comando
 
-_Oggetto di Rango 3_
+**_Tier 3_** _Oggetto_
 
-Finché impugni lo scettro, una volta per riposo lungo puoi spendere 1 Speranza per impartire un ordine imperativo a una creatura a gittata Ravvicinata. La creatura deve superare un tiro di Istinto o eseguire immediatamente il tuo comando se non direttamente suicida.
+Una volta per riposo lungo, puoi spendere 1 Speranza e impartire a una creatura entro gittata Molto Vicina un ordine breve e non suicida. La creatura può resistere con un tiro appropriato; se fallisce, segue l'ordine per un'azione o subisce Svantaggio al prossimo tiro mentre lo contesta.
+
+- **Usi:** 1
+- **Ricarica:** Riposo lungo
+- **Costo:** 1 Speranza

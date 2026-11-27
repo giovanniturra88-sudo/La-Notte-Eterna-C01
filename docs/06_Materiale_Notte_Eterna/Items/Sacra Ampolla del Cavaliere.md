@@ -1,10 +1,17 @@
 ---
+categoria: consumabile
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Sacra Ampolla del Cavaliere_**
+# Sacra Ampolla del Cavaliere
 
-_Oggetto Consumabile di Rango 2_
+**_Tier 2_** _Oggetto consumabile_
 
-Un'ampolla contenente acqua benedetta. Quando viene bevuta o versata su una ferita, cura 2 Punti Ferita gravi e rimuove qualsiasi maledizione di basso livello o effetto di debolezza spirituale.
+Bere l'acqua benedetta o versarla su una ferita richiede un'azione. La creatura libera 2 Stress e termina una maledizione minore o una conseguenza spirituale temporanea concordata con il GM.
+
+- **Usi:** 1
+- **Ricarica:** Nessuna; l'ampolla è consumata
+- **Costo:** Consumo dell'ampolla
