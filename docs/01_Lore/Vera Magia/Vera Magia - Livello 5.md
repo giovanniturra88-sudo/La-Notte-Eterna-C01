@@ -1,9 +1,11 @@
----
+﻿---
 tags:
  - incantesimi
  - vera-magia
  - livello-5
  - daggerheart
+type: Regola homebrew
+status: Da adattare
 ---
 
 # Vera Magia - Livello 5
@@ -11,36 +13,36 @@ tags:
 ### Dardo Incantato Supremo
 * **Livello:** 5
 * **Costo:** 2 Speranze
-* **Tiro d'Attacco / Magia:** Tiro Incantesimo
+* **Tiro:** Incantesimo contro Evasione
 * **Durata:** Istantaneo
-* **Gittata:** Remoto
+* **Gittata:** Molto Lontana
 
-Un'unica imponente lancia di pura energia arcana trafigge un bersaglio a scelta infliggendo `7d20` danni magici. L'esplosione risultante investe tutti coloro che si trovano in gittata **Ravvicinata** dal punto d'impatto, spingendoli indietro e infliggendo `2d20` danni magici a meno che non superino un Tiro di Reazione di Forza.
+Un'unica imponente lancia di pura energia arcana trafigge un bersaglio: con successo infliggi `4d10+4` danni magici. L'esplosione risultante investe le creature entro portata Molto Vicina; esse effettuano un Tiro di Reazione di Forza per evitare di essere spinte e subiscono `2d8` danni magici, dimezzati se riescono.
 
 ---
 
 ### Frusta Arcana di Nelen
 * **Livello:** 5
 * **Costo:** 2 Speranze
-* **Tiro d'Attacco / Magia:** Tiro Incantesimo
-* **Durata:** mantenimento dell'effetto
-* **Gittata:** Ravvicinata
+* **Tiro:** Incantesimo contro Evasione
+* **Durata:** fino al termine della scena
+* **Gittata:** Molto Vicina
 
-Crea una frusta d'energia arcana che infligge `2d20` danni magici. Nei turni successivi puoi usarla per effettuare azioni speciali senza costi aggiuntivi:
-- **Afferrare/Scagliare:** Scagli o trascini una creatura verso di te (oppure la spingi via infliggendo `2d20` danni magici).
-- **Bloccare:** La creatura viene **Trattenuta** e subisce `2d20` danni magici; finché resta trattenuta, all'inizio di ogni suo turno subisce `2d20` danni fisici contundenti.
-- **Scarica Arcana:** Consumi la capacità magica per l'ultimo colpo devastante che infligge `6d20` danni magici.
+Crea una frusta d'energia arcana che infligge `2d10` danni magici. Nei turni successivi puoi usarla senza ritirare il costo iniziale:
+- **Afferrare o scagliare:** Dopo un tiro riuscito, trascina o spingi una creatura di una portata Molto Vicina e infliggi `2d8` danni magici.
+- **Bloccare:** La creatura viene **Trattenuta** fino alla fine del proprio turno successivo e subisce `2d8` danni magici.
+- **Scarica Arcana:** Consumi la frusta per un colpo finale che infligge `4d10+4` danni magici.
 
 ---
 
 ### Fulmine Istantaneo di Fahrn
 * **Livello:** 5
-* **Costo:** 2 Speranze + 1 Paura concessa al GM
+* **Costo:** 2 Speranze
 * **Tiro Incantesimo:** Automatico / Tiro di Reazione del Bersaglio
 * **Durata:** Istantaneo
-* **Gittata:** Remota (entro il raggio visivo/mappa)
+* **Gittata:** Molto Lontana (entro il raggio visivo/mappa)
 
-Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un Tiro di Reazione di Forza: subisce `5d20+3` danni magici da fulmine (metà se supera la prova).
+Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il bersaglio deve effettuare un Tiro di Reazione di Forza: subisce `4d10+3` danni magici da fulmine (metà se supera la prova).
 
 ---
 
@@ -51,15 +53,15 @@ Schioccando le dita guidi un fulmine dal cielo su un bersaglio che conosci. Il b
 * **Durata:** 1 Scena
 * **Gittata:** Mischia / Personale
 
-Fornisce a te o ad un alleato visioni del futuro immediato. Il bersaglio ottiene **Vantaggio a TUTTI i Tiri di Reazione** e un bonus di **+2 all'Evasione** per la durata della Scena. Se viene attaccato in mischia, può immediatamente spendere una reazione per effettuare un attacco di risposta.
+Fornisce a te o a un alleato visioni del futuro immediato. Per la scena, il bersaglio ottiene Vantaggio ai Tiri di Reazione. Una volta, quando un attacco lo manca, può spostarsi di una portata Molto Vicina senza provocare attacchi.
 
 ---
 
 ### Raggio Lunare di Najestarr
 * **Livello:** 5
 * **Costo:** 2 Speranze
-* **Tiro d'Attacco / Magia:** Tiro Incantesimo
-* **Durata:** mantenimento dell'effetto
+* **Tiro:** Incantesimo contro Evasione
+* **Durata:** fino al termine della scena
 * **Gittata:** Lontana
 
-Evochi un raggio di luce scura. Le creature colpite devono superare un Tiro di Reazione di Forza o subire `4d20` danni necrotici. Se una creatura vivente viene uccisa da questo incantesimo, si rianima immediatamente come **Ghoul** sotto il controllo dell'incantatore.
+Evochi un raggio di luce scura. Con successo, il bersaglio subisce `4d8` danni necrotici. Se viene sconfitto, il GM può rianimarlo come Ghoul nemico o alleato per il resto della scena, scegliendo in modo coerente con l'effetto e senza trasferire automaticamente statistiche fuori scena al personaggio.

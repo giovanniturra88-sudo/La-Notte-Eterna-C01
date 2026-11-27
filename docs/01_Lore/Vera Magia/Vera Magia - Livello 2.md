@@ -1,9 +1,11 @@
----
+﻿---
 tags:
  - incantesimi
  - vera-magia
  - livello-2
  - daggerheart
+type: Regola homebrew
+status: Da adattare
 ---
 
 # Vera Magia - Livello 2
@@ -15,8 +17,8 @@ tags:
 * **Durata:** Fino al prossimo Riposo Lungo
 * **Gittata:** Mischia
 
-Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumirne uno:
-- **Uso Curativo:** Rimuove **1 Gettone Danno** (o cura `1d20+3` PF se usate le regole opzionali sui Punti Ferita).
+Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere un'azione per consumarne uno:
+- **Uso Curativo:** Rimuove **1 Punto Ferita** marcato.
 - **Uso Disintossicante:** Rimuove lo stato **Avvelenato** o **Infezione**.
 
 ---
@@ -24,11 +26,11 @@ Infondi energia curativa in un massimo di 5 funghi. Un personaggio può spendere
 ### Lama Lunare
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Automatico (Incantatore)
+* **Tiro:** Automatico
 * **Durata:** 1 Scena
 * **Gittata:** Mischia
 
-Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'attacco e ai tiri di danno**, emana una fioca luce e infligge **+1d6 Danni Aggiuntivi** in base alla fase lunare:
+Tocchi un'arma da mischia non magica. L'arma emana una fioca luce e il tuo prossimo attacco riuscito con essa infligge `+1d6` danni aggiuntivi in base alla fase lunare:
 - **Luna Piena:** Danni Radiosi.
 - **Luna Nuova:** Danni Necrotici.
 - **Luna Calante/Crescente:** Danni Magici puri.
@@ -38,22 +40,22 @@ Tocchi un'arma da mischia non magica. L'arma ottiene un bonus di **+1 ai tiri d'
 ### Pelle Arcana
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Conoscenza/Presenza)
-* **Durata:** mantenimento dell'effetto
+* **Tiro:** Incantesimo (Conoscenza o Presenza)
+* **Durata:** fino al termine della scena
 * **Gittata:** Personale
 
-La tua pelle si ricopre di sigilli luminosi. La tua **Evasione** aumenta di **+2** e la tua Evasione non può essere inferiore a 16. Quando un nemico in gittata **Prossima** ti colpisce con un attacco fisico, subisce immediatamente `1d6` Danni Magici di ritorsione.
+La tua pelle si ricopre di sigilli luminosi. Una volta per turno, un attacco contro di te subisce Svantaggio. Quando un nemico a portata Vicina ti colpisce con un attacco fisico, puoi spendere 1 Stress per infliggergli `1d6` danni magici di ritorsione.
 
 ---
 
 ### Ruota di Fiamme
 * **Livello:** 2
 * **Costo:** 1 Speranza
-* **Tiro d'Attacco / Magia:** Tiro Incantesimo (Grazia o Presenza)
-* **Durata:** mantenimento dell'effetto
+* **Tiro:** Incantesimo (Agilità o Presenza) contro Evasione
+* **Durata:** fino al termine della scena
 * **Gittata:** Lontana
 
-Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro una creatura entro gittata: se la sovrapponi o la colpisci, infliggi `1d20` danni da fuoco (magici). Nei turni successivi puoi spostare la ruota senza spendere un'azione; il terreno attraversato rimane in fiamme, infliggendo `1d6` danni da fuoco a chiunque lo attraversi.
+Evochi una ruota infuocata. Se colpisci una creatura a portata Lontana, infliggi `1d12` danni magici da fuoco. Nel turno successivo puoi spostarla senza un nuovo tiro; se attraversa una creatura, questa effettua un Tiro di Reazione di Agilità per evitare `1d6` danni da fuoco.
 
 ---
 
@@ -64,4 +66,4 @@ Evochi una ruota infuocata che sfreccia sul campo. Fai un Tiro d'Attacco contro 
 * **Durata:** Fino al prossimo Riposo Breve/Lungo
 * **Gittata:** Personale
 
-I tuoi occhi brillano di luce azzurra. Puoi vedere perfettamente nell'oscurità naturale e magica fino a gittata **Remota** e ottieni **Vantaggio** contro qualsiasi effetto che cerchi di infliggerti lo stato *Accecato*.
+I tuoi occhi brillano di luce azzurra. Puoi vedere perfettamente nell'oscurità naturale e magica fino a portata Molto Lontana e ottieni Vantaggio contro gli effetti che cercano di accecarti.

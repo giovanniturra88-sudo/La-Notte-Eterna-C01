@@ -4,9 +4,10 @@ tags:
  - magia
  - vera-magia
  - nebvarasa
+type: Regola homebrew
+status: Da adattare
 aliases:
  - Vera Magia
- - Il Fuoco Segreto
 ---
 # Vera Magia (Adattamento Daggerheart)
 
@@ -39,12 +40,37 @@ I draghi sono legati a doppio filo alla Vera Magia: quando uno di essi muore, la
 Gli incantesimi della Vera Magia sono trattati come **Incantesimi Speciali / Dominio Segreto del Fuoco Segreto**. Qualsiasi personaggio dotato di un Tratto da Incantatore (*Conoscenza, Istinto, Presenza, ecc.*) può tentare di impararli.
 
 ### Requisiti di Apprendimento:
-Per apprendere una capacità magica di Vera Magia è necessario uno studio/addestramento continuativo di **4 ore al giorno** per un numero di settimane pari al **Livello dell'Incantesimo x 2** (es. Livello 1 = 2 settimane; Livello 6 = 12 settimane).
+Un personaggio può apprendere una capacità di Vera Magia soltanto se il suo livello è almeno pari al livello della capacità. L'apprendimento richiede accesso a un maestro, una fonte o un testo della Vera Magia e un periodo narrativo di studio:
 
-### Regola del Cast (Costo in Speranza e Paura):
-Lanciare la Vera Magia richiede un tributo di energia vitale e mentale:
-* **Costo Standard:** Spendere **1 Speranza** per attivare una capacità magica di Livello 1-3; **2 Speranze** per una capacità magica di Livello 4-6.
-* **Fallimento o Tiro con Paura:** Se il Tiro Incantesimo fallisce o viene effettuato con **Paura**, il GM ottiene **1 Paura** addizionale oltre alla risoluzione standard della mossa.
+* **Livelli 1-3:** una settimana di studio e un Progresso narrativo.
+* **Livelli 4-6:** un mese di studio e due Progressi narrativi.
+* **Livelli 7-9:** un'impresa, un patto o una rivelazione legata a una fonte di Vera Magia, più la conversione del relativo Progresso in una capacità permanente.
+
+Il GM può sostituire il tempo astratto con una scena di addestramento quando è centrale per la storia.
+
+### Attivazione
+
+Salvo diversa indicazione, usa il Tratto da incantatore indicato dalla capacità e contrasta il tiro con l'Evasione del bersaglio o con la Difficoltà impostata dal GM. Nei Tiri di Reazione richiesti a un avversario, la Difficoltà è impostata dal GM, normalmente 12-15 in base al livello e alla gravità dell'effetto.
+
+Le capacità di Vera Magia hanno il costo seguente:
+
+| Livello della capacità | Speranza | Prezzo della Vera Magia |
+| --- | ---: | --- |
+| 1-3 | 1 | Nessuno, salvo indicazione |
+| 4-6 | 2 | Quando il Tiro Azione ha Paura, marca 1 Stress |
+| 7-9 | 3 | Quando il Tiro Azione ha Paura, marca 2 Stress |
+
+I rituali possono richiedere anche tempo, reagenti o sacrifici esplicitamente descritti. Un Tiro con Paura segue la normale generazione di Paura del sistema; i costi sopra sostituiscono e non duplicano bonus arbitrari di Paura al GM.
+
+### Scala di potenza
+
+Le capacità di livello superiore sono più ampie, durevoli o costose, ma mantengono una scala coerente con Daggerheart:
+
+* **Livelli 1-3:** d6-d10, pochi bersagli o singola scena.
+* **Livelli 4-6:** d8-d12 con più dadi, oppure un effetto persistente forte.
+* **Livelli 7-9:** rituali, effetti geografici o benefici permanenti; il potere è accompagnato da Stress, vulnerabilità o conseguenze irreversibili.
+
+Gli effetti permanenti non devono rimuovere automaticamente le conseguenze di morte, i costi narrativi o le mosse del GM: il giocatore e il GM stabiliscono l'eccezione quando la capacità viene appresa.
 
 ---
 

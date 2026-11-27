@@ -1,34 +1,44 @@
-# Vera Magia: Livello 7 (Daggerheart)
+﻿---
+tags:
+ - incantesimi
+ - vera-magia
+ - livello-7
+ - daggerheart
+type: Regola homebrew
+status: Da adattare
+---
+
+# Vera Magia: Livello 7
 
 ---
 
 ### Circolo di Potere: Dolore
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 7 | Costo: 2 Speranze
+* **Requisiti:** Livello 7 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 10 minuti (Rituale)
-* **Gittata:** Zona Ravvicinata (Raggio)
+* **Gittata:** Molto Vicina (Raggio)
 * **Durata:** Fino al prossimo Riposo Lungo
 
-Tracci un circolo del raggio di una Zona Ravvicinata usando carboni e carne sacrificale. Il circolo diventa del tutto invisibile (richiede una prova di *Istinto* con Difficoltà 18 per scoprirlo con magia o sensi speciali).
+Tracci un circolo del raggio di una portata Molto Vicina usando carboni e carne sacrificale. Il circolo diventa invisibile a chi non dispone di vera visione o sensi speciali; individuarlo richiede una prova di Istinto contro la Difficoltà impostata dal GM.
 
-Quando una creatura entra nell'area o vi inizia il turno, deve effettuare un **Tiro di Reazione di Forza (Difficoltà 16)**:
-* **Fallimento:** Subisce lo stato **Incapacitato** e non può muoversi o agire. All'inizio di ogni suo turno ripete la prova. Se accumula 3 fallimenti consecutivi, cade svenuta finché resta nel circolo.
-* **Successo:** Non viene incapacitata, ma subisce **Svantaggio** a tutti i tiri d'attacco, ai Tiri di Reazione e alle prove di Tratto finché rimane nel circolo.
+Quando una creatura entra nell'area o vi inizia il turno, effettua un Tiro di Reazione di Forza:
+* **Fallimento:** È **Incapacitata** fino alla fine del proprio turno successivo. Alla fine di ogni turno può ripetere il tiro. Dopo il terzo fallimento complessivo, subisce anche `2d8` danni psichici.
+* **Successo:** Subisce Svantaggio al prossimo tiro finché rimane nel circolo.
 
-Puoi incantare un numero di oggetti/chiodi pari al tuo valore di **Presenza**. Chiunque porti con sé uno di questi chiodi è completamente immune agli effetti del circolo.
+Puoi incantare fino a 3 chiodi. Chiunque ne porti uno è immune agli effetti del circolo e può esporne la presenza.
 
 ---
 
 ### Circolo Lunare
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 7 | Costo: 2 Speranze
+* **Requisiti:** Livello 7 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 2 ore
-* **Gittata:** Zona Lontana (Raggio)
+* **Gittata:** Lontana (Raggio)
 * **Durata:** Fino al prossimo Riposo Lungo
 
-Evochi una luce lunare azzurra e intensa che permea una Zona Lontana. Entro l'area, la magia di illusione viene dissipata e le creature o gli oggetti invisibili diventano chiaramente visibili. Le prove di Furtività subiscono **Svantaggio**.
+Evochi una luce lunare azzurra e intensa che permea un'area fino a portata Lontana. Entro l'area, la magia di illusione viene dissipata e le creature o gli oggetti invisibili diventano chiaramente visibili. Le prove di Furtività subiscono **Svantaggio**.
 
-Quando evochi il circolo, puoi designare le creature alleate che saranno immuni. Tutte le altre creature che entrano o iniziano il turno nell'area devono superare un **Tiro di Reazione di Forza (Difficoltà 16)** o subire lo stato **Accecato** e iniziare a emanare una tenue luce per 1 ora (anche se escono dall'area).
+Quando evochi il circolo, puoi designare le creature alleate che saranno immuni. Tutte le altre creature che entrano o iniziano il turno nell'area effettuano un Tiro di Reazione di Forza: con un fallimento sono **Accecate** fino alla fine del proprio turno successivo ed emanano una tenue luce per il resto della scena.
 
 ---
 
@@ -36,13 +46,13 @@ Quando evochi il circolo, puoi designare le creature alleate che saranno immuni.
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 1 ora
-* **Gittata:** Zona Remota
+* **Gittata:** Molto Lontana
 * **Durata:** 1 Settimana
 
-Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero di piante o alberi pari al tuo valore di **Istinto + 3**. Le piante acquisiscono movimento, sensi umani e statistiche di combattimento appropriate alla loro taglia (gestite dal GM come Avversari o Alleati).
+Versi una porzione del tuo sangue e utilizzi reagenti rari per animare fino a 3 piante o alberi. Le piante acquisiscono movimento e statistiche appropriate alla loro taglia, gestite dal GM come Alleati o Avversari.
 
-* **Comando:** Durante il tuo turno, puoi spendere un'Azione per impartire comandi mentali a tutte le piante animate. Seguiranno l'ordine al meglio delle loro capacità.
-* **Mantenimento:** Prima che la settimana scada, puoi spendere 1 Speranza e reagenti rari per estendere la durata di un'altra settimana per ogni pianta. Al termine, la pianta torna stazionaria e affonda le radici nel terreno.
+* **Comando:** Puoi usare la tua azione per impartire un comando mentale a tutte le piante animate.
+* **Mantenimento:** Prima che la settimana scada, puoi spendere 1 Speranza e reagenti rari per estendere la durata di un'altra settimana. Al termine, le piante tornano stazionarie e affondano nuovamente le radici.
 
 ---
 
@@ -50,28 +60,28 @@ Versi una porzione del tuo sangue e utilizzi reagenti rari per animare un numero
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
 * **Requisiti:** Livello 7 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** Rituale (7 giorni)
-* **Gittata:** Personale / Zona Ravvicinata
+* **Gittata:** Personale / Molto Vicina
 * **Durata:** Permanente
 
-Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vitale. La fiamma fluttua sopra la tua mano, non può essere spenta ed emette luce regolabile fino a una Zona Lontana.
+Al termine del rituale, leghi una fiamma divina indissolubile alla tua forza vitale. La fiamma fluttua sopra la tua mano, non può essere spenta ed emette luce regolabile fino a portata Lontana.
 
 **Benefici del Lascito:**
-* **Attacco di Fuoco:** Puoi effettuare un attacco magico (*Conoscenza* o *Presenza*) su un bersaglio a Zona Ravvicinata/Lontana. In caso di successo, infliggi **2d20+5 + Caratteristica** danni da Fuoco.
-* **Resistenza:** Ottieni **Resistenza** ai danni da Fuoco.
-* **Padronanza Piromantica:** Quando lanci una capacità magica che infligge danni da Fuoco, puoi ritirare un qualsiasi numero di dadi di danno (prendendo il secondo risultato). Inoltre, i tuoi attacchi di fuoco ignorano le Resistenze del bersaglio e dimezzano l'Immunità al Fuoco.
-* **Mantenimento Imperturbabile:** Non devi effettuare Tiri di Reazione per mantenere l'effetto sugli incantesimi di fuoco quando subisci danni.
+* **Attacco di Fuoco:** Una volta per scena puoi effettuare un attacco magico di Conoscenza o Presenza contro un bersaglio a portata Lontana. Se riesce, infliggi `3d10+3` danni da fuoco e marca 1 Stress.
+* **Resistenza:** La prima volta in una scena che dovresti subire danni da fuoco, riduci di una casella il Punto Ferita o lo Stress segnato da quell'effetto.
+* **Padronanza Piromantica:** Una volta per scena, quando infliggi danni da fuoco, puoi ritirare uno dei dadi di danno e tenere il nuovo risultato.
+* **Prezzo Permanente:** Se la fiamma viene estinta con Vera Magia o se il Fuoco Segreto la ritira, perdi questi benefici e marchi 3 Stress.
 
 ---
 
 ### Nube di Stelle
 * **Dominio / Tipo:** Incantesimo (Vera Magia)
-* **Requisiti:** Livello 7 | Costo: 2 Speranze
+* **Requisiti:** Livello 7 | Costo: 3 Speranze
 * **Tempo di Esecuzione:** 10 minuti
-* **Gittata:** Zona Lontana (Raggio)
+* **Gittata:** Lontana (Raggio)
 * **Durata:** Fino al prossimo Riposo Breve
 
-Sgretoli polveri preziose per creare una densa nube di polvere cosmica che copre una Zona Lontana, oscurando completamente la vista. 
+Sgretoli polveri preziose per creare una densa nube di polvere cosmica che copre un'area fino a portata Lontana, oscurando completamente la vista.
 
-Chiunque entri nella nube o vi inizi il turno (tranne te) deve effettuare un **Tiro di Reazione di Forza (Difficoltà 16)**:
-* **Fallimento:** Subisce **5d20+2 danni magici (radiosi)** e lo stato **Avvelenato** per 1 minuto. Immondi ed Aberrazioni effettuano la prova con Svantaggio.
+Chiunque entri nella nube o vi inizi il turno, salvo te, effettua un Tiro di Reazione di Forza:
+* **Fallimento:** Subisce `3d8` danni magici radiosi ed è **Avvelenato** fino alla fine del proprio turno successivo.
 * **Successo:** Subisce metà danno.
