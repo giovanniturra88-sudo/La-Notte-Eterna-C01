@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - lore
   - ambientazione
@@ -25,7 +25,7 @@ Una minaccia al **[[Fuoco Segreto]]** rappresenta un pericolo mortale per la vit
 
 ---
 
-## 🕯️ Adattamento e Sopravvivenza delle Razze Intelligenti
+## 🕯️ Adattamento e Sopravvivenza dei Popoli Senzienti
 
 I popoli di [[Neir]] si sono dovuti adattare drasticamente per sopravvivere alle temperature rigide:
 

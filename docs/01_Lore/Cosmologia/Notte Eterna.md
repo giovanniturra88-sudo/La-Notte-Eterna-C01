@@ -1,4 +1,4 @@
----
+﻿---
 type: Lore
 ---
 
@@ -12,7 +12,7 @@ Neir è un mondo freddo e inospitale, dove la vita resiste solo grazie agli infl
 
 La scomparsa del sole ha segnato la storia di ogni popolo: gli [[Hjilaki]], vampiri di sangue puro, sorsero dalle loro cripte per mettere a ferro e fuoco le nazioni mortali, mentre i karevi, popolo di mercanti e schiavisti governato da un imperatore spietato e fedele a un dio crudele, compivano la loro ascesa al mondo di superficie. Nell'anno 1 N.E., l'[[Armata dell'Apocalisse]] invase l'Impero di Gundazar e il resto delle terre conosciute, e la rovina tragica e improvvisa dell'impero costellò il continente di immense necropoli e città in rovina. Durante questi 161 anni, lunghissime pagine di dolore sono state scritte, spesso con il sangue: in questo caos imperituro vigono nuovi ordini e, laddove gli antichi regni sono caduti, altri lottano quotidianamente per sopravvivere alla marea di morte che vuole travolgere ogni cosa.
 
-Il mondo ha saputo, in qualche modo, adattarsi alle tenebre. Molte razze umanoidi hanno trasformato le proprie abitudini, in alcuni casi radicalmente: tribù di umanoidi mostruosi si sono integrate nelle grandi città, i viandanti klorss sono divenuti più frequenti in superficie e i nuno, tribù gnomica originaria delle giungle, lasciarono le loro terre prima dell'impatto della meteora che generò la [[Cenere di Lanie]] per cercare rifugio nella [[Verde Foresta]]. Gli anni si contano dall'inizio della Notte Eterna – l'anno attuale è il 161 N.E. – mentre prima di allora si fa riferimento all'Era della Stella (E.S.); i giorni scorrono secondo il ciclo lunare, che rappresenta una scienza esatta, e l'usuale "buongiorno" è stato sostituito da un più pratico "buona luna". Su Neir il pericolo si annida ovunque: nei templi dedicati a dei innominabili, tra le antiche rovine infestate da creature blasfeme, nei territori selvaggi abitati da mostri.
+Il mondo ha saputo, in qualche modo, adattarsi alle tenebre. Molte comunità umanoidi hanno trasformato le proprie abitudini, in alcuni casi radicalmente: tribù di umanoidi mostruosi si sono integrate nelle grandi città, i viandanti klorss sono divenuti più frequenti in superficie e i nuno, tribù gnomica originaria delle giungle, lasciarono le loro terre prima dell'impatto della meteora che generò la [[Cenere di Lanie]] per cercare rifugio nella [[Verde Foresta]]. Gli anni si contano dall'inizio della Notte Eterna – l'anno attuale è il 161 N.E. – mentre prima di allora si fa riferimento all'Era della Stella (E.S.); i giorni scorrono secondo il ciclo lunare, che rappresenta una scienza esatta, e l'usuale "buongiorno" è stato sostituito da un più pratico "buona luna". Su Neir il pericolo si annida ovunque: nei templi dedicati a dei innominabili, tra le antiche rovine infestate da creature blasfeme, nei territori selvaggi abitati da mostri.
 
 ## Citata da
 ```dataview

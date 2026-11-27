@@ -1,4 +1,5 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
@@ -6,5 +7,8 @@ type: Artefatto
 
 *Oggetto Magico (Disco Metallico), Molto Raro*
 
-Questo strano congegno metallico di forma circolare è dotato di uno specchio nero riflettente. Usando un'azione, è possibile attivare l'oggetto premendo un posto sul guscio metallico. Una volta attivato, lo specchio nero smette di riflettere l'immagine di chi lo sta osservando per mostrare uno schema verde reticolato. Al centro dello schermo compare un puntino di colore arancione mentre sul bordo dello specchio una freccia rossa appare e scompare, emettendo un suono simile a un bip che cresce in intensità avvicinandosi a una meteora. È facile accorgersi che, man a mano che ci si sposta tenendo lo specchio in mano, la freccia cambia lentamente direzione. Usando un'azione per disattivare il congegno, lo specchio torna a essere nero e silenzioso.
-Esiste una probabilità del 65% che lo specchio sia incrinato, se questo accade a ogni attivazione c'è la possibilità del 30% che il radar indichi la meteora più lontana invece di quella più vicina.
+Questo strano congegno metallico di forma circolare è dotato di uno specchio nero riflettente. Attivandolo con una pressione sul guscio metallico, lo specchio smette di riflettere l'immagine di chi lo osserva e mostra uno schema verde reticolato. Al centro dello schermo compare un puntino arancione mentre sul bordo appare e scompare una freccia rossa, emettendo un bip che cresce in intensità avvicinandosi a una meteora. Man mano che si sposta il congegno, la freccia cambia lentamente direzione. Disattivandolo, lo specchio torna a essere nero e silenzioso.
+
+Una volta per scena, chi attiva l'Osservatore può ottenere dal GM la direzione e una misura approssimativa della distanza dalla meteora più vicina, espresse nelle portate Mischia, Molto Vicina, Vicina, Lontana e Molto Lontana. Per scandagliare una regione vasta serve un riposo breve, durante il quale il congegno interrompe e riprende il segnale come un radar.
+
+Il GM decide al rinvenimento se lo specchio è incrinato. In tal caso, quando il congegno viene usato il GM può spendere 1 Paura per mostrare la meteora più lontana rilevabile invece di quella più vicina. Questo errore si manifesta al massimo una volta per scena; una riparazione riuscita presso un artigiano competente elimina l'instabilità.

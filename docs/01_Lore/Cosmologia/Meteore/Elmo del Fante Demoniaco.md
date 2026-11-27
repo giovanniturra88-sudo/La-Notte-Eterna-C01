@@ -1,12 +1,16 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
-*Oggetto Magico Instabile (Elmo), Non Comune, Richiede sintonia*
+*Oggetto Magico Instabile (Elmo), Non Comune, Richiede accordo*
 
 Decorati in maniera macabra affinché l'aspetto già mostruoso dei demoni possa incutere ancora più timore, alcuni di questi elmi non si limitano a proteggere la testa dei loro portatori ma servono anche ad accrescerne le capacità combattive.
+
 [[Demien]] fece creare questi elmi maledetti per i fanti più deboli delle sue legioni. Indossarlo induce una furia sanguinaria, che se mal dosata porta alla pazzia.
-- Il personaggio che indossa l'elmo, con un'azione e una volta per scena, può entrare in uno stato di follia sanguinaria e ottenere così un uso d'Ira Barbarica (come un barbaro di 3º livello), che ricarica al termine di un riposo lungo. Se il personaggio è di indole malvagia gli usi diventano 3 e si ricaricano al termine di un riposo lungo.
-- Dopo aver speso una settimana a contatto con l'elmo, il personaggio che ha stabilito la sintonia con esso deve effettuare un Tiro di Reazione di Istinto con Difficoltà 15. Se lo supera non accade nulla fino al termine della settimana successiva, quando dovrà ripetere il tiro. Se lo fallisce, l'elmo sviluppa la capacità di ottenere il parziale controllo sulla furia sanguinaria indotta. All'inizio di ogni turno di combattimento il personaggio perde lucidità sotto gli oscuri sussurri dell'elmo demoniaco e deve effettuare un Tiro di Reazione di Presenza con Difficoltà 13. Se il portatore fallisce è indotto ad attaccare il bersaglio che più gli sta vicino, effettuando un attacco con un'arma da mischia impugnata o con un colpo senz'armi. Questo effetto si verifica una sola volta per turno.
-- Se dopo 3 giorni dalla prima settimana in cui si verificano gli episodi di perdita di controllo ancora non si è provveduto a rimuovere l'elmo, il personaggio sarà totalmente tempestato dalle influenze demoniache che lo costringeranno a effettuare un ulteriore Tiro di Reazione di Presenza Difficoltà 16. Se il tiro riesce l'effetto svanisce per poi ritornare nei 3 giorni successivi. Se il tiro fallisce il personaggio in sintonia perde il controllo di se stesso e viene soggiogato totalmente dalla influenza demoniaca dell'elmo, diventando a tutti gli effetti un agente di morte e distruzione. Il personaggio perde qualsiasi controllo di sé fin quando non viene esorcizzato in qualche modo. Il GM assume il controllo del personaggio decidendone le azioni e stabilendo in segreto come si comporterà.
-- Soltanto un essere divino, un suo alto sacerdote o un demone potrebbero rimuovere l'elmo maledetto o annullare la maledizione sanguinaria. Un gruppo di avventurieri potrebbe recarsi da una di queste figure per richiedere aiuto, svolgendo per loro dei compiti.
+
+- **Follia Sanguinaria:** una volta per scena il portatore può entrare in frenesia fino al termine della scena. Ottiene Vantaggio agli attacchi in Mischia e ai Tiri di Reazione di Forza, ma ha Svantaggio ai Tiri di Reazione di Istinto e Presenza. La frenesia termina anticipatamente se il portatore subisce una condizione che lo priva della lucidità o se rifiuta consapevolmente di combattere, subendo 1 Stress. Un portatore devoto agli intenti dell'elmo o ai demoni di Demien può usarla una volta aggiuntiva dopo un riposo lungo, ma il GM dovrebbe trattare questa concessione come una concessione narrativa pericolosa.
+- **Sussurri di Demien:** dopo una settimana di accordo con l'elmo, al termine di ogni riposo lungo il portatore effettua un Tiro di Reazione di Istinto contro la Difficoltà stabilita dal GM. In caso di successo la mente resta libera. Con un fallimento il GM può spendere 1 Paura durante un combattimento per costringere il portatore ad attaccare la creatura più vicina nella sua prima opportunità di agire.
+- **Influenza Crescente:** se il portatore resta sotto la maledizione per altri tre giorni dopo una perdita di controllo, affronta un Tiro di Reazione di Presenza contro la Difficoltà stabilita dal GM. Con un successo respinge gli impulsi fino al successivo riposo lungo; con un fallimento l'elmo prende il comando del personaggio fino a quando un esorcismo interrompe il legame. Il GM usa il personaggio come avversario temporaneo, preservando possibilità di fuga, soccorso e redenzione.
+
+Soltanto un essere divino, il suo alto sacerdote o un demone può rimuovere l'elmo maledetto o annullare la maledizione sanguinaria. Un gruppo di avventurieri potrebbe recarsi da una di queste figure per richiedere aiuto, svolgendo per essa dei compiti.

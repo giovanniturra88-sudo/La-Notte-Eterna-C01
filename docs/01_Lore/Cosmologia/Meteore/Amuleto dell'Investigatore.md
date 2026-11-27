@@ -1,17 +1,20 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
-*Oggetto Magico Senziente (Amuleti, Caotico Buono), Raro, Richiede sintonia*
+*Artefatto senziente, Raro, legato alla fiducia di Moth Alghert*
 
 Questo amuleto è composto da una catena placcata d'oro che avvolge una grossa lente d'ingrandimento usata come pendente. Non sembra aver ricevuto, stranamente, gravi danni dalla caduta da [[Rengaria]].
-Tenendolo tra le mani è possibile udire la leggera melodia di un pianoforte in sottofondo e una profonda voce provenire dalla lente trasparente. Le origini di questo amuleto sono ignote persino allo spirito senziente che lo abita, benché questi passa tutto il suo tempo libero a rifletterci sopra.
+Tenendolo tra le mani è possibile udire la leggera melodia di un pianoforte in sottofondo e una profonda voce provenire dalla lente trasparente. Le origini di questo amuleto sono ignote persino allo spirito senziente che lo abita, benché questi passi tutto il suo tempo libero a rifletterci sopra.
+
 ## Senziente
-L'Amuleto dell'Investigatore è un oggetto magico senziente con Conoscenza 18, Istinto 14 e Presenza 16. È dotato di udito e Scurovisione entro un raggio di 36 m, l'oggetto può parlare telepaticamente con il suo possessore.
+L'Amuleto dell'Investigatore ospita Moth Alghert, leggendario investigatore. Moth vede e ascolta ciò che si trova intorno all'amuleto, anche nel buio, e comunica telepaticamente con il suo portatore. Il GM interpreta le sue deduzioni senza sostituire le Prove di Tratto dei personaggi.
 
 ## Personalità
-L'obiettivo di Moth Alghert, il leggendario investigatore intrappolato in questo artefatto, è quello di scoprire le sue origini, il motivo per cui si trova nell'amuleto e la maniera per liberarsi. A giudicare dalla voce, Moth si direbbe un uomo di mezza età, pacato e particolarmente arguto. Tendenzialmente ha un'indole caotica e buona e se il suo portatore gli sta simpatico, durante l'avventura, potrebbe fornire con più piacere informazioni e consigli preziosi anche quando non richiesti. In ogni caso, la passione di Moth Alghert per l'investigazione e la deduzione analitica è tale da non potersi trattenere dal rivelare ad alta voce le informazioni che scopre strada facendo. Il suo spirito di osservazione e la sua memoria sono a dir poco prodigiose. 
+L'obiettivo di Moth Alghert è scoprire le proprie origini, il motivo per cui si trova nell'amuleto e la maniera per liberarsi. A giudicare dalla voce, Moth si direbbe un uomo di mezza età, pacato e particolarmente arguto. Ha un'indole indipendente e benevola; se il suo portatore gli sta simpatico, durante l'avventura potrebbe fornire con più piacere informazioni e consigli preziosi anche quando non richiesti. In ogni caso, la passione di Moth per l'investigazione e la deduzione analitica è tale da non potersi trattenere dal rivelare a voce alta le informazioni che scopre strada facendo. Il suo spirito di osservazione e la sua memoria sono a dir poco prodigiosi.
 
-- Una volta per scena, il personaggio che indossa l'amuleto può ripetere un tiro su Investigare se sta analizzando una scena del crimine o sta cercando qualcuno o qualcosa seguendone le tracce. Il nuovo risultato deve essere mantenuto anche se è inferiore a quello precedente. 
-- Una volta per scena, il personaggio che indossa l'amuleto può ripetere un tiro su Intuizione se sta parlando con qualcuno o qualcosa di sospetto o che suppone stia mentendo. Il nuovo risultato deve essere mantenuto anche se è inferiore a quello precedente.
-- La lente che compone l'amuleto è dotata della capacità magica Comprensione dei Linguaggi con la differenza che funziona solo sui testi scritti. La traduzione viene recitata a voce da Moth Algerth e viene udita solo dal possessore dell'amuleto.
+## Occhio dell'Investigatore
+- Una volta per scena, quando analizza una scena del crimine o segue le tracce di qualcuno o qualcosa, il portatore può ottenere Vantaggio a una Prova di Istinto.
+- Una volta per scena, mentre conversa con qualcuno che ritiene sospetto o ritiene stia mentendo, il portatore può ottenere Vantaggio a una Prova di Presenza.
+- La lente traduce i testi scritti. Una volta per scena, Moth ne recita il contenuto soltanto al portatore; se il testo è protetto, cifrato o incompleto, il GM richiede una Prova di Conoscenza contro la Difficoltà appropriata alla scena. Speranza rivela un dettaglio contestuale, mentre Paura può suggerire anche una conclusione ingannevole che dovrà essere verificata.

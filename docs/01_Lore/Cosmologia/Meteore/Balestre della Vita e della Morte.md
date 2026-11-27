@@ -1,14 +1,20 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260712140552.png]]
 
-*Arma Magica (Qualsiasi Balestra), Leggendaria, Richiede sintonia con una creatura di indole buona (Vita) o malvagia (Morte)*
+*Arma magica (Balestra), Leggendaria, legata all'intento del portatore*
+
 ## Balestra della Vita
-Un'arma angelica di precisione che scaglia dardi di energia magica che colpiscono sempre il bersaglio purché sullo stesso piano di esistenza. C'è solo un "piccolo" problema: la balestra non colpirà mai un essere vivente, sia esso buono o malvagio. Per esempio non colpirà mai un arciere ma colpirà la freccia scagliata da questi cambiandone la traiettoria. I non morti e tutto ciò che non è tecnicamente vivente può essere colpito con precisione infallibile. Un consiglio: non fate mai sapere a [[Hedd|Hedd il Folle]] di quest'arma: non esiterebbe un attimo ad appropriarsene!
- La Balestra della Vita non necessita di proiettili per il funzionamento. Quando viene utilizzata scaglia un dardo lucente di forza magica che colpisce automaticamente il bersaglio se quest'ultimo non è una creatura vivente, infliggendo sempre 1d4+1 danni magici.
- Il portatore della balestra può spendere la sua reazione per cercare di deviare un proiettile quando viene colpito dall'attacco di un'arma a distanza. Quando lo fa, il danno è ridotto di 1d10 più il dado di danno della balestra. Se il portatore riduce il danno a 0, il proiettile è deviato e l'attacco fallisce.
- La Balestra della Vita non può colpire per nessun motivo una creatura vivente. Se ciò accadesse per qualche motivo, il proiettile sparirebbe all'impatto senza provocare danni.
+Un'arma angelica di precisione che scaglia dardi di energia magica. C'è solo un "piccolo" problema: la balestra non colpirà mai un essere vivente, sia esso benevolo o malevolo. Per esempio non colpirà un arciere, ma può colpire la freccia scagliata cambiandone la traiettoria. I non morti e tutto ciò che non è tecnicamente vivente possono essere colpiti con precisione infallibile. Un consiglio: non fate mai sapere a [[Hedd|Hedd il Folle]] di quest'arma: non esiterebbe un attimo ad appropriarsene!
+
+La Balestra della Vita non necessita di proiettili e scaglia un dardo lucente di forza magica fino a portata Lontana. Può bersagliare oggetti, costrutti e non morti; un colpo riuscito infligge `1d8` danni magici e, con Speranza, ulteriori `1d6` danni. Contro un essere vivente il dardo svanisce senza ferirlo.
+
+Come Reazione, una volta per scena, il portatore può spendere 1 Stress per deviare un proiettile rivolto contro sé stesso o una creatura visibile entro portata Vicina. Il bersaglio riduce il danno di una soglia; se il danno così ridotto sarebbe Minore, il proiettile è deviato completamente.
+
 ## Balestra della Morte
-È la controparte della Balestra della Vita. Funziona allo stesso modo, salvo che per nessun motivo può colpire una creatura non vivente, perdendo così la capacità di deviazione dei proiettili.
+È la controparte della Balestra della Vita e funziona allo stesso modo, ma può colpire esclusivamente creature viventi. Non possiede il potere di deviare i proiettili; contro un essere vivente, un colpo riuscito infligge `1d10` danni necrotici e, con Speranza, ulteriori `1d6` danni. Costrutti, non morti e oggetti restano intatti.
+
+Per entrambe le balestre, il GM decide se il bersaglio appartiene alla categoria richiesta in base alla sua natura narrativa, non alle sole origini dei danni.

@@ -1,19 +1,22 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260712140604.png]]
 
-*Oggetto Magico Instabile (Anello), Non Comune, Richiede sintonia*
+*Artefatto instabile (Anello), Non comune, con legame elementale*
 
-Diffusi tra gli alti ufficiali in servizio agli eserciti divini, questi anelli trovano il loro utilizzo nelle missioni più disparate. Solitamente, questi anelli cadono su [[Neir]] ancora attaccati alla mano (recisa) dei loro ex-portatori. Una volta toccato il suolo, l'arto reciso si sgretola lentamente in una miriade di particelle, lasciando a terra solo l'anello.
-Questi anelli, di varia natura e per tutti gli allineamenti, possono concedere bonus alle caratteristiche dei portatori. Il GM potrebbe decidere a priori il tipo di anello e le capacità conferite in base all'avventura o alle caratteristiche del gruppo di avventurieri. Altrimenti lanciare 1d8 e attenersi alla tabella sottostante.
+Diffusi tra gli alti ufficiali in servizio agli eserciti divini, questi anelli trovano il loro utilizzo nelle missioni più disparate. Solitamente cadono su [[Neir]] ancora attaccati alla mano recisa dei loro ex-portatori. Una volta toccato il suolo, l'arto si sgretola lentamente in una miriade di particelle, lasciando a terra solo l'anello.
 
-|**D8**|**TIPO ANELLO**|**POTERE**|
-|---|---|---|
-|1-2|Anello dell'Acqua|Controllare Acqua 1 volta per scena|
-|3-4|Anello dell'Aria|Libertà di Movimento 1 volta per scena|
-|5-6|Anello del Fuoco|Muro di Fuoco 1 volta per scena|
-|7-8|Anello della Terra|Pelle di Pietra 1 volta per scena|
+Il GM sceglie o assegna l'elemento più adatto all'avventura:
 
-Quando un anello viene creato, esiste una probabilità del 10% che sia maledetto. Se maledetto, l'anello rimarrà serrato al dito del portatore, rendendone impossibile la rimozione. Questo effetto può essere annullato attraverso l'utilizzo dell'incantesimo *Rimuovere Maledizione* oppure attraverso un rituale eseguito da un chierico di almeno 10° livello.
+| **TIPO ANELLO** | **POTERE** |
+|---|---|
+| Anello dell'Acqua | Una volta per scena, il portatore può modellare acqua esistente per aprire un passaggio, spegnere un incendio o spingere creature entro portata Vicina. I bersagli possono opporsi con un Tiro di Reazione di Forza stabilito dal GM. |
+| Anello dell'Aria | Una volta per scena, il portatore ignora terreno pericoloso, corrente o caduta mentre si muove fra due portate consentite dalla scena. Può anche rallentare una caduta propria o di una creatura entro portata Vicina. |
+| Anello del Fuoco | Una volta per scena, il portatore può erigere una barriera ardente fino a portata Vicina. Le creature che la attraversano subiscono `2d8` danni da fuoco o possono tentare un Tiro di Reazione di Agilità contro la Difficoltà del GM per dimezzarli. La barriera dura fino al termine della scena. |
+| Anello della Terra | Una volta per scena, quando il portatore subirebbe danno, può ridurre l'effetto di una soglia: un colpo Maggiore diventa Minore, mentre un colpo Minore viene assorbito senza danno ma causa 1 Stress. |
+
+## Instabilità
+Al ritrovamento il GM decide se l'anello è maledetto oppure se una minaccia coerente con la storia può attivare la maledizione spendendo 1 Paura. Se maledetto, si serra al dito del portatore e non può essere rimosso normalmente. Un rituale di purificazione riuscito, oppure una Prova di Presenza o Conoscenza contro la Difficoltà stabilita dal GM, spezza il legame durante un riposo lungo.

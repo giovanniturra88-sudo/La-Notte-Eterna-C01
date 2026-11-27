@@ -1,8 +1,9 @@
----
+﻿---
 type: Indice
+status: Da adattare
 ---
 
-Molto tempo prima che la Guerra Celeste avesse inizio, potenti celestiali e immondi già combattevano nelle profondità della [[Dimensione dello Spirito]], occasionalmente precipitando sui mondi mortali sotto forma di meteore. Questi eventi erano incredibilmente rari e, ogni volta che accadevano, generavano miti e leggende sopravvissuti fino all'era corrente. Uno di questi miti è direttamente collegato all'origine della razza [[Karevi]], i cui antenati, secondo una delle tante teorie che riguardano le loro origini, erano immondi scacciati dal proprio piano di origine.
+Molto tempo prima che la Guerra Celeste avesse inizio, potenti celestiali e immondi già combattevano nelle profondità della [[Dimensione dello Spirito]], occasionalmente precipitando sui mondi mortali sotto forma di meteore. Questi eventi erano incredibilmente rari e, ogni volta che accadevano, generavano miti e leggende sopravvissuti fino all'era corrente. Uno di questi miti è direttamente collegato all'origine dell'ascendenza [[Karevi]], i cui antenati, secondo una delle tante teorie che riguardano le loro origini, erano immondi scacciati dal proprio piano di origine.
 La caduta di una meteora non è un evento da sottovalutare. L'incontro con una creatura extraplanare o un potente artefatto potrebbe segnare non solo il destino degli avventurieri che vi si imbattono ma di un'intera nazione. Per questo motivo il GM dovrebbe riflettere bene sulle condizioni necessarie affinché l'avventura sia scossa da un avvenimento di tale portata.
 ## La Profezia
 Gli avventurieri intraprendono una missione lunga e irta di ostacoli: recuperare un antico rotolo di pergamena o una tavoletta che riporta un'iscrizione misteriosa, oppure incontrare un veggente. Indipendentemente dal percorso scelto, le profezie sulla caduta di una meteora servono come uno spunto eccellente per dare inizio a un'avventura o per aggiungere interesse a una missione già intrapresa. Se gli avventurieri riescono a interpretare la profezia relativa alla caduta della meteora, il GM deve scegliere quale tra quelle riportate nella pagina seguente meglio si addice alle esigenze narrative, oppure crearne una nuova.
@@ -14,6 +15,21 @@ Durante il proprio girovagare, gli avventurieri sono testimoni della caduta di u
 Le meteore cadute potrebbero essere più di una. Il GM sceglie il numero di meteore cadute in base alle esigenze narrative ed effettua i tiri d% corrispondenti.
 
 La tabella nella pagina seguente offre al Game Master una vasta gamma di meteore comprendenti oggetti e creature in cui gli avventurieri possono imbattersi durante i loro viaggi.
+
+## Standard di conversione
+
+Le singole meteore mantengono il proprio grado di rarità e il valore narrativo originale, ma le regole restanti vanno convertite secondo questi criteri:
+
+- un oggetto legato a un'ascendenza o a una condotta morale va descritto come richiedente un patto, una provenienza o un'origine compatibile;
+- i bonus fissi ai tiri diventano Vantaggio, dadi aggiuntivi o una modifica limitata a un singolo tiro;
+- `Competenza`, Punti Ferita temporanei, slot e Classi Armatura non vengono usati come valute homebrew;
+- un effetto numerico permanente deve essere trasformato in Vantaggio, resistenza, una casella temporanea o un uso limitato;
+- cariche e usi vanno convertiti in uso per scena, per riposo o in gettoni esplicitamente tracciabili;
+- le Difficoltà fisse sono stabilite dal GM in base alla situazione;
+- le creature restano Avversari Daggerheart e non usano riduzioni automatiche a una Mossa di Morte, azioni multiple o bonus di sistema esterni;
+- effetti catastrofici, desideri e alterazioni permanenti richiedono sempre un costo, una vulnerabilità o una conseguenza narrativa.
+
+Una meteora resta utilizzabile solo dopo la rimozione dei residui legacy; fino ad allora il suo `status` resta `Da adattare`.
 
 | **D%** | **METEORA** | **D%** | **METEORA** |
 | ------ | ------------------------------------- | ------ | ---------------------------------- |

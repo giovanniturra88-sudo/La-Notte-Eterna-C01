@@ -1,12 +1,20 @@
 ---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260713181806.png|246]]
 
-*Oggetto Magico Maledetto (Mantello), Molto raro, Richiede sintonia*
+*Oggetto magico maledetto (mantello), molto raro; richiede un accordo con chi lo indossa*
 
-Indossare questo mantello rende invisibile e inconsistente il suo portatore e l'equipaggiamento che indossa. Inoltre, il mantello fa sì che tutti gli oggetti in cuoio e metallo diventino inconsistenti per il suo portatore, che non potrà più trasportarli, nell'istante stesso in cui viene indossato.
-- Il personaggio diventa inconsistente al tocco mentre indossa il mantello e può attraversare altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni magici se termina il suo turno all'interno di un oggetto. Il personaggio può ancora essere bersagliato da attacchi o effetti magici.
-- Mentre indossa il mantello il personaggio è impossibilitato a mangiare e a bere a causa della sua inconsistenza corporea.
-- Se il personaggio indossa il mantello per più di 1 ora, deve effettuare un Tiro di Reazione di Forza con Difficoltà 15. In caso di successo non accade nulla e andrà ripetuto nella prossima ora in cui si ha indosso il mantello. Se il tiro fallisce il mantello si impossessa della forma materiale del personaggio, che da questo momento diventa un PNG nelle mani del GM. Da questo punto in avanti il mantello potrà essere rimosso solo tramite la capacità magica Rimuovi Maledizione.
+Indossare questo mantello rende invisibile e inconsistente il suo portatore e l'equipaggiamento che indossa. Inoltre, il mantello fa sì che tutti gli oggetti in cuoio e metallo diventino inconsistenti per il suo portatore, che non potrà più trasportarli nell'istante stesso in cui lo indossa.
+
+## Passaggio Incorporeo
+Mentre indossa il mantello, il personaggio può attraversare creature e oggetti solidi come se fossero terreno libero. Può ancora essere bersagliato da attacchi ed effetti magici, ma non può usare armi, armature o oggetti in cuoio o metallo divenuti inconsistenti.
+
+Se conclude una scena all'interno di un oggetto solido, subisce **d10 danni magici** e viene espulso nello spazio libero più vicino. Mentre indossa il mantello non può mangiare né bere.
+
+## Prezzo dell'Inconsistenza
+Alla fine di ogni terza scena consecutiva passata indossando il mantello, il portatore effettua un Tiro di Reazione di Forza contro la Difficoltà del GM. Con Speranza può continuare a indossarlo; con Paura il mantello si impossessa della sua forma materiale e il personaggio diventa un PNG sotto il controllo del GM fino alla rimozione della maledizione.
+
+Il mantello allora può essere rimosso soltanto compiendo un rituale di purificazione, distruggendo o placando la volontà che lo anima. Il successo richiede una Prova o una serie di Prove stabilite dal GM e una perdita significativa o una verità rivelata.

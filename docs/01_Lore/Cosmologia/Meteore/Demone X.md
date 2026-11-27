@@ -1,4 +1,5 @@
----
+﻿---
+status: Da adattare
 type: Artefatto
 aliases:
  - Il Senza Memoria
@@ -23,8 +24,8 @@ Ti avvicini al cratere fumante, attirato dal bagliore ultraterreno visibile da l
  * **Artiglio:** +2 | Ravvicinata | 1d8+4 taglienti
  * **Morso:** +2 | Prossima | 1d10+4 perforanti
 * **Tratti e Capacità:**
- * **Resistenza agli Incantesimi - Passiva:** I Tiri Incantesimo contro il Demone subiscono Svantaggio; ha resistenza ai danni da fuoco e da freddo ed è immune ai danni da veleno.
- * **Vista del Demone - Passiva:** Scurovisione: vede nel buio (36 m); vede attraverso illusioni e magie di occultamento.
- * **Attacchi Multipli - Azione:** Effettua due Attacchi Artiglio e un attacco Morso come parte della stessa azione.
- * **Frenesia - Reazione:** Quando il Demone riduce una creatura a 0 PF, può effettuare immediatamente un altro attacco standard.
+ * **Resistenza agli Incantesimi - Passiva:** Il primo Tiro Incantesimo contro il Demone in ogni scena subisce Svantaggio. Il Demone riduce di una casella il danno da fuoco o freddo ricevuto la prima volta nella scena ed è immune ai danni da veleno.
+ * **Vista del Demone - Passiva:** Vede nel buio e attraverso illusioni o occultamenti non divini.
+ * **Attacchi Multipli - Azione:** Il Demone può attaccare con Artiglio due bersagli entro portata Vicina, oppure colpire un solo bersaglio con Artiglio e Morso. La seconda opzione richiede il successo del primo attacco.
+ * **Frenesia - Reazione:** Una volta per scena, quando il Demone sconfigge una creatura rilevante, può effettuare immediatamente un altro attacco standard.
  * **Mutare Forma - Azione:** Usando il [[Bracciale delle Molte Forme]], può assumere l'aspetto di qualsiasi creatura (vedi l'artefatto per i limiti).

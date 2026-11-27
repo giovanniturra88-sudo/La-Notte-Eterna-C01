@@ -1,13 +1,15 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260712140924.png|262]]
 
-*Arma Magica (Guanto d'Arme), Raro, Richiede sintonia*
+*Arma Magica (Guanto d'Arme), Raro, Richiede accordo*
 
-Si presenta come un massiccio guanto d'arme metallico. Di colore marrone, lungo il polso e sulle punta delle dita reca bossature nere. Nonostante sia un oggetto piuttosto voluminoso, indossandolo non si avverte minimamente il suo peso.
- - Finché indossa i guanti, il personaggio ottiene un bonus di +1 ai tiri d'attacco e ai danni dei colpi senz'armi.
- - Il guanto possiede 3 cariche. Quando il personaggio lo impugna può usare un'azione e spendere una carica per effettuare un Tiro Incantesimo (Sfera Infuocata).
- - Il portatore può spendere un'azione per colpire la sfera infuocata che ha evocato e scagliarla entro 18 m da sé, aggiungendo al tiro d'attacco il proprio bonus di Forza + Competenza. Se il colpo va a segno infligge il doppio del danno normale di Sfera Infuocata.
- - Un combattente esperto di arti marziali che effettua questo speciale tiro d'attacco può farlo senza spendere un'azione; inoltre somma anche il proprio bonus di Istinto al danno.
+Si presenta come un massiccio guanto d'arme metallico. Di colore marrone, lungo il polso e sulle punte delle dita reca bossature nere. Nonostante sia un oggetto piuttosto voluminoso, indossandolo non si avverte minimamente il suo peso.
+
+- **Pugno del Cormaglo:** gli attacchi senz'armi effettuati con il guanto hanno Vantaggio e infliggono 1d8 danni contundenti.
+- **Sfera Infuocata:** il guanto possiede 3 gettoni, ripristinati al termine di un riposo lungo. Spendendo 1 gettone il portatore crea una sfera di fuoco alla portata Molto Vicina, che permane fino al termine della scena. Una creatura che tocca o attraversa deliberatamente lo spazio della sfera effettua un Tiro di Reazione di Agilità contro la Difficoltà stabilita dal GM e, in caso di fallimento, subisce 1d6 danni da fuoco.
+- **Colpo Incandescente:** una volta per scena il portatore può colpire la sfera e scagliarne una parte contro un bersaglio entro portata Vicina. Effettua una Prova di Forza contro la Difficoltà del bersaglio stabilita dal GM; se riesce infligge 2d8 danni da fuoco. Con Paura, il portatore può subire 1 Stress per dissipare comunque la sfera prima che il calore raggiunga un alleato vicino.
+- **Maestria Marziale:** chi è addestrato alle arti marziali o possiede un'Esperienza pertinente può usare questa capacità senza rinunciare a un altro gesto di combattimento durante la propria opportunità di agire; con Speranza aggiunge 1d6 al danno del Colpo Incandescente.

@@ -1,21 +1,30 @@
 ---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260713182303.png]]
 
-*Arma Magica Senziente (Spada Lunga, Legale Malvagio), Leggendaria, Richiede sintonia*
+*Arma magica senziente (spada lunga), leggendaria; richiede un accordo con Nindja*
 
 *«La tua insolenza fa a gara con quella di [[Yolandi]]. Di chi parlo? Di mia sorella, purtroppo. Per quanto mi secca ammetterlo, ci tornerebbe decisamente utile in una situazione come questa.»*
 
-Nindja, come sua sorella [[Yolandi]], è un demone tramutato in spada per un capriccio di [[Demien]]. La spada è lunga 90 cm e ha una lama più ampia rispetto a una normale spada lunga. Spuntoni demoniaci e altri macabri dettagli decorano la spada rendendola un'arma dall'aspetto mostruoso e ultraterreno.
-Avvicinandosi alla spada, questa inizia a vorticare e ad avvolgersi in un turbine di sabbia rossa. Una volta sollevatasi da terra e dopo essersi presentata chiede con finta gentilezza ai presenti chi sia disposto ad aiutarla a ritrovare la sua assillante sorella [[Yolandi]], offrendosi come un grande strumento di morte nelle mani di chi la impugna.
-Nindja ha però perso buona parte dei suoi poteri. Appena trovata sarà al minimo delle forze e per riacquisirle dovrà uccidere e assorbire le essenze vitali delle proprie vittime.
+Nindja, come sua sorella [[Yolandi]], è un demone tramutato in spada per un capriccio di [[Demien]]. La spada è lunga quanto una comune lama a due mani e ha un profilo più ampio rispetto a una normale spada lunga. Spuntoni demoniaci e altri macabri dettagli la rendono un'arma dall'aspetto mostruoso e ultraterreno.
+
+Avvicinandosi alla spada, questa inizia a vorticare e ad avvolgersi in un turbine di sabbia rossa. Una volta sollevatasi da terra e dopo essersi presentata chiede con finta gentilezza ai presenti chi sia disposto ad aiutarla a ritrovare la sua assillante sorella [[Yolandi]], offrendosi come un grande strumento di morte.
+
+Nindja ha però perso buona parte dei suoi poteri. Appena trovata sarà al minimo delle forze e, per riacquisirli, dovrà uccidere e assorbire le essenze vitali delle proprie vittime.
+
 ## Senziente
-La spada è senziente finché imprigiona Nindja. Mentre è senziente, la spada ha le seguenti proprietà:
-- Quando Nindja viene ritrovata si presenta come una Spada dei Demoni Minore (spada lunga +1, 3 cariche). Il possessore può usare un'azione per spendere una carica ed effettuare un Tiro Incantesimo per evocare attorno a sé immagini speculari protettive (Immagine Speculare), oppure spendere una carica quando viene colpito per effettuare un Tiro Incantesimo e avvolgersi in uno scudo di fuoco (effetto minimo). La spada recupera tutte le cariche consumate al sorgere della luna. Uccidere una creatura con Nindja, o una creatura che nell'ultimo minuto ha subito gli effetti dello scudo di fuoco, fa assorbire un'essenza vitale a Nindja. A 30 essenze vitali assorbite, Nindja si trasforma in una Spada dei Demoni.
-- Quando Nindja la spada si trasforma in Spada dei Demoni, la sua lama cresce e diventa più affilata e distruttiva, altri spuntoni si sviluppano lungo l'arma, rendendola più mortale e spaventosa. Viene trattata come una spada lunga +2, il numero di cariche sale a 6 e mette a segno un successo critico con maggiore probabilità. In aggiunta alle opzioni precedenti, il possessore può spendere due cariche per effettuare un Tiro Incantesimo che inaridisce (dissipa le forze vitali di) un bersaglio. Il possessore può inoltre spendere un'azione per consumare 2 cariche per teletrasportarsi in qualsiasi punto che è in grado di vedere entro 36 m. La spada recupera tutte le cariche al sorgere della luna. Uccidere una creatura con Nindja, o con l'effetto che inaridisce, o che nell'ultimo minuto ha subito gli effetti dello scudo di fuoco, fa assorbire a Nindja un'essenza vitale. A 60 essenze vitali assorbite. Nindja si trasforma in una Spada Mangia Demoni Superiore.
-- Quando Nindja la spada si trasforma in Spada Mangia Demoni Superiore raggiunge la sua forma finale. Sull'elsa spunta un grosso occhio verde smeraldo dalla pupilla opaca e rotonda. La lama raggiunge la sua massima dimensione e appare mostruosa e mortale grazie anche allo sviluppo di nuovi spuntoni e decorazioni demoniache. Viene trattata come una spada lunga +3 e possiede 9 cariche. In aggiunta a tutte le opzioni precedenti, il possessore può spendere un'azione e consumare 6 cariche per effettuare un Tiro Incantesimo (Ferire). La spada recupera tutte le cariche consumate al sorgere della luna.
+La spada è senziente finché imprigiona Nindja. Le sue essenze devono essere conquistate su avversari della stessa fascia di sfida narrativa del gruppo: creature insignificanti non la rafforzano.
+
+- **Spada dei Demoni Minore**: infligge **d8 danni magici**. Una volta per riposo breve, evoca immagini speculari che concedono Svantaggio al prossimo attacco diretto al portatore. Quando è colpito, il portatore può avvolgersi in fuoco, riducendo di una soglia il danno e infliggendo **d6 danni da fuoco** all'attaccante a Mischia. Dopo 30 essenze assorbite diventa una Spada dei Demoni.
+- **Spada dei Demoni**: infligge **d10 danni magici**. Su Speranza ai danni il portatore sceglie un bersaglio entro portata Vicina e lo spinge di una portata. Una volta per riposo lungo può consumare 1 Stress per teletrasportarsi in un punto visibile entro portata Lontana. Mantiene gli effetti della forma minore. Dopo 60 essenze assorbite diventa una Spada Mangia Demoni Superiore.
+- **Spada Mangia Demoni Superiore**: infligge **d12 danni magici** e sull'elsa compare un grosso occhio verde smeraldo. Una volta per riposo lungo, un bersaglio entro portata Vicina effettua una Reazione di Forza contro la Difficoltà del GM: con Paura subisce **d12 danni magici** e marca 1 Punto Ferita, con Speranza subisce soltanto **d6 danni magici**.
+
+Uccidere una creatura con Nindja, con il suo effetto di inaridimento o con il suo scudo di fuoco durante la scena fa assorbire a Nindja un'essenza vitale.
+
 ## Liberare Nindja
-Lanciare sulla spada una magia capace di dissolvere il male e il bene ha una probabilità dell'1% (la percentuale aumenta di 1 per ogni livello della magia) di liberare il Glabrezu rinchiuso al suo interno; riesce automaticamente se la capacità è usata da un Solar o un Principe dei Demoni.
-Se [[Yolandi]] e Nindja, ancora intrappolati nelle armi, si ricongiungono ed entrambi sono nelle loro forme finali, riescono a liberarsi dalla loro prigionia e sono liberi di vagare. [[Yolandi]] e Nindja potrebbero anche decidere di impossessarsi dei loro due precedenti portatori, se li ritengono alla loro altezza. Solo l'intervento di un sacerdote di alto livello, un immondo o un celestiale potrebbe esorcizzare gli individui posseduti.
+Un rituale che può dissolvere il legame di un'entità malvagia o benevola permette al GM di tentare la liberazione del Glabrezu racchiuso nella spada. Il rito richiede una serie di Prove contro la Difficoltà del GM; con Paura Nindja si libera, ma il rituale comporta una conseguenza. Un celestiale o un principe dei demoni può riuscirvi senza la Prova, pagando però un prezzo narrativo equivalente.
+
+Se [[Yolandi]] e Nindja, ancora intrappolati nelle armi, si ricongiungono ed entrambi raggiungono le loro forme finali, si liberano dalla prigionia. Potrebbero scegliere di impossessarsi dei loro due precedenti portatori, se li ritengono alla loro altezza; solo un rituale di esorcismo eseguito da un potente sacerdote, un immondo o un celestiale può spezzare tale possessione.

@@ -1,12 +1,16 @@
----
+﻿---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260712133843.png]]
 
-*Oggetto Magico (Bracciale), Molto Raro, Richiede sintonia*
+*Artefatto (Bracciale), Molto raro, legato alle forme conosciute*
 
-Questo bracciale in ferro dalla foggia piuttosto semplice ha il potere di trasformare chi lo indossa in qualsiasi creatura conosciuta dal portatore di rango 2 o inferiore purché di taglia minuscola, piccola, media o grande. La trasformazione resta stabile fino a 90 minuti e non richiede mantenimento dell'effetto. Il bracciale si ricarica solo quando non viene utilizzato e impiega 2 minuti per caricare 1 minuto di trasformazione. Il bracciale si attiva usando un'azione e può essere utilizzato un massimo di 3 volte per riposo lungo.
-Proprietà della trasformazione:
-- Quando si usa il bracciale per trasformarsi in creature umanoidi, le statistiche del personaggio rimangono invariate ma nel caso di trasformazioni animali le statistiche fisiche cambiano in quelle della bestia e solo le statistiche mentali rimangono invariate.
-- Alcune trasformazioni potrebbero portare vantaggi esclusivi. Per esempio, la trasformazione in una creatura alata permetterà al portatore di volare alla velocità della creatura in cui si è trasformato. Trasformandosi in un insetto, invece, il personaggio potrebbe riuscire a passare attraverso una fessura particolarmente stretta ma attenzione, è facile in quel caso finire schiacciati nella maniera più indecorosa.
+Questo bracciale in ferro dalla foggia piuttosto semplice ha il potere di trasformare chi lo indossa in una creatura conosciuta dal portatore. La forma può essere assunta fino a tre volte per riposo lungo e dura fino alla fine della scena, finché il portatore non la interrompe o finché non segna il massimo Stress. Riassumere la vera forma non consuma un uso.
+
+## Proprietà della Trasformazione
+- Il portatore mantiene i propri Tratti, Punti Ferita, Stress, Esperienze e capacità personali. La trasformazione non fornisce valori di un Avversario né nuove capacità offensive.
+- Una volta scelta la forma, il GM e il giocatore concordano una caratteristica fisica utile ma limitata. Una creatura alata può attraversare in volo ostacoli aperti; una piccola può passare da fessure plausibili; una acquatica può nuotare e respirare in acqua. La caratteristica concede Vantaggio a una Prova coerente o rende possibile ciò che la forma base non consentirebbe.
+- Le forme troppo potenti, colossali o incapaci di ragionare richiedono l'autorizzazione del GM. Possono essere ammesse come aspetto incompleto o durante una scena specifica, ma non devono sostituire armi, armature o capacità del personaggio.
+- Una volta per trasformazione, quando forma e situazione permettono un pericolo particolare, il portatore può ridurre di una soglia il danno appropriato o ignorare un effetto restrittivo, a scelta del GM. L'uso si manifesta come tratto naturale della creatura, non come invulnerabilità.

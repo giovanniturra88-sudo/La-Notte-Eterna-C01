@@ -1,19 +1,20 @@
----
+﻿---
+status: Da adattare
 type: Artefatto
 ---
 
 ![[Pasted image 20260713190340.png]]
 
-*Arma Magica (Tridente), Rara, Richiede sintonia*
+*Arma magica, rara, richiede sintonia*
 
 Arma in dotazione agli ufficiali dell'esercito di [[Glumdrung]]. Caduta su [[Neir]] in seguito a una battaglia, il tridente è forgiato in acquamarina con intarsi di giada. Si tratta di un'arma portentosa e ricercatissima da marinai e pirati. 
 ## Arma Magica
-Il tridente conferisce un bonus di +1 ai tiri d'attacco e ai danni.
+Il primo attacco riuscito con il tridente in ogni scena infligge `+1d6` danni da acqua o contundenti.
 ## Nato nel Mare
-Il tridente conferisce 9 m di velocità di nuoto al possessore, la possibilità di respirare sott'acqua e scurovisione 36 m sott'acqua.
+Il tridente permette di nuotare a portata Vicina, respirare sott'acqua e vedere nell'oscurità acquatica.
 ## Comunicare con gli Abissi
-Il tridente permette per 3 volte di parlare con gli animali (capacità magica di comunicazione con le bestie), ma solo con le creature marine. Ricarica dopo riposo breve o lungo.
+Una volta per riposo breve, il tridente permette di comunicare con una creatura marina come se condividesse un linguaggio.
 ## Scuotere i Mari
-Usando un'azione, il personaggio può emanare dal tridente un potente raggio d'acqua in una linea di 18 m larga 1,5 m. Ogni creatura nel raggio effettua un Tiro di Reazione di Forza Difficoltà 14. Se lo fallisce subisce 3d6 danni contundenti e cade a terra, mentre se lo supera subisce soltanto la metà dei danni e non cade a terra. L'abilità è utilizzabile un numero di volte pari alla Competenza. Ricarica dopo un riposo lungo.
+Una volta per riposo lungo, il portatore può emanare un potente raggio d'acqua fino a portata Lontana. Ogni creatura nella linea effettua un Tiro di Reazione di Forza: con un fallimento subisce `3d6` danni contundenti e cade a terra; con un successo subisce metà danno e resta in piedi.
 ## Creatura Marina
-Il personaggio ha bisogno di bagnare la propria pelle almeno 3 volte al giorno o inizia a soffocare, beve il doppio dell'acqua rispetto al normale e rifiuta di nutrirsi di creature marine.
+Finché è in sintonia, il portatore deve immergersi o bagnarsi almeno una volta durante ogni riposo lungo e consuma il doppio dell'acqua normale. Se trascura questo dovere, il GM ottiene una Paura e il portatore marca 1 Stress. Il portatore si rifiuta inoltre di nutrirsi di creature marine.

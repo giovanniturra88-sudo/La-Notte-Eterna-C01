@@ -1,19 +1,27 @@
 ---
+status: Canonico
 type: Artefatto
 ---
 
 ![[Pasted image 20260713171358.png|300]]
 
-*Oggetto Magico Instabile (Mano Scheletrica), Leggendario*
+*Oggetto magico instabile (mano scheletrica), leggendario*
 
 Durante una battaglia su [[Rengaria]], il dio-gatto [[Maskarr]] riuscì a salvarsi la vita per un soffio e a beffare la stessa dea della morte, [[Krea]]. Schivato un fendente alla sua coda, [[Maskarr]] tranciò di netto la mano di [[Krea]]. La mutilazione causò un'immensa esplosione necrotica tra i domini di [[Rengaria]], che fece perdere le tracce di [[Maskarr]] e della mano di [[Krea]], piovuta in qualche punto sconosciuto della [[Dimensione della Materia]] sotto forma di meteora.
-Cadendo su [[Neir]] come meteora, la mano di [[Krea]] si è frammentata in 5 parti, ognuna atterrata in regioni diverse di [[Neir]]. Le "Dita della Morte" sono artefatti magici di grande potere che raggiungono il loro apice quando vengono riunite. Possono essere usate singolarmente come bacchette, fungendo da focus arcano per gli incantatori che le impugnano. Tutte le dita conferiscono un bonus di +2 ai tiri d'attacco e ai danni da incantesimi. Inoltre, ciascun Dito della Morte conferisce capacità specifiche al suo possessore.
-- 1. **Dito del Tormento**: l'incantatore sviluppa la capacità di lanciare una volta per scena la capacità magica Tentacoli Neri e due volte per scena la capacità magica Controincantesimo.
-- 2. **Dito della Non Vita**: l'incantatore che impugna il Dito della Non Vita sviluppa la capacità di controllare i non morti. Può lanciare una volta per scena la capacità magica Creare Non Morti e due volte per scena la capacità magica Animare Morti.
-- 3. **Dito dell'Illusione**: l'incantatore sviluppa la capacità di lanciare una volta per scena la capacità magica Terreno Illusorio e due volte per scena la capacità magica Immagine Maggiore. Entrambi gli incantesimi non richiedono mantenimento dell'effetto, in aggiunta le creature che interferiscono con le illusioni effettuano i Tiri di Reazione con svantaggio.
-- 4. **Dito del Tempo**: l'incantatore sviluppa la capacità di lanciare una volta per scena la capacità magica Scrutare e una volta per scena la capacità magica Porta Dimensionale.
-- 5. **Dito del Dolore**: l'incantatore che impugna il Dito del Dolore sviluppa la capacità di lanciare una volta per scena la capacità magica Ferire e due volte per scena la capacità magica Tocco del Vampiro.
-Essendo artefatti derivanti dal corpo di una divinità, le Dita della Morte sono ricercate in tutta [[Neir]] per via dei loro immensi poteri. Oltre che per i [[Cacciatore di Meteore]], recuperare le Dita della [[Krea|Tetra Dama]] costituisce il principale obiettivo di molti servitori di [[Krea]] ma anche un bottino appetibile per i seguaci di [[Maskarr]].
-Ogni volta che viene utilizzata una capacità delle Dita di [[Krea]], si ha una probabilità del 70% di essere individuati da membri di una delle due fazioni di seguaci divini. Quando ciò accade si è pesantemente braccati da queste creature, che faranno di tutto per appropriarsi delle Dita. Il GM potrebbe pensare di inserire un'organizzazione dedita al recupero di questi artefatti per conto di [[Maskarr]] o di [[Krea]].
-Riunire le Dita della Morte. Se le 5 Dita della Morte vengono riunite, è possibile compiere un rituale dalla durata di 3 ore spendendo un rubino dal valore di 5000 mo e il manoscritto riportante la procedura del rituale stesso. Il manoscritto è gelosamente custodito nel [[Tempio di Krea]] a [[Darkflame]] e recuperarlo è impresa ardua. Tutte le organizzazioni e le creature dedite alla ricerca delle Dita della Morte percepiscono con 1 ora in anticipo che il rituale sta per avvenire, dopodiché tentano per un'ultima volta di riappropriarsi delle dita e di concludere a loro favore il rituale.
-Quando il rituale viene concluso, le 5 dita si fondono insieme dando vita alla Mano di [[Krea]]. La mano di [[Krea]] richiama un [[Burocrate Infernale]]. In cambio della Mano di [[Krea]], l'immondo concederà 2 utilizzi della capacità magica Desiderio, dopo di che svanirà all'interno della mano che a sua volta sparirà dalla [[Dimensione della Materia]]. Se chi ha eseguito il rituale è un seguace di [[Maskarr]], prima che il diavolo venga evocato potrebbe ricevere la visita del [[Maskarr|dio Gatto]] nella sua felina persona o di uno dei suoi emissari che tenteranno in tutti i modi di avere la Mano di [[Krea]] in cambio di promesse e altre ricompense.
+
+Cadendo su [[Neir]] come meteora, la mano di [[Krea]] si è frammentata in 5 parti, ognuna atterrata in regioni diverse di [[Neir]]. Le “Dita della Morte” sono artefatti magici di grande potere che raggiungono il loro apice quando vengono riunite. Possono essere usate singolarmente come focus arcano e conferiscono a chi le impugna Vantaggio sulla prima Prova d'incantesimo effettuata in ogni scena.
+
+Ogni Dito fornisce inoltre il seguente potere. I primi utilizzi elencati si rinnovano dopo un riposo breve, gli ultimi dopo un riposo lungo.
+
+1. **Dito del Tormento**: una volta per riposo lungo, crea tentacoli d'ombra entro portata Vicina; gli avversari coinvolti effettuano una Reazione di Agilità contro la Difficoltà del GM o subiscono **d8 danni magici** e restano tratti verso il punto d'origine. Due volte per riposo breve, permette di interrompere un incantesimo in corso.
+2. **Dito della Non Vita**: una volta per riposo lungo, anima o comanda cadaveri e spettri non superiori al rango narrativo del portatore per il resto della scena.
+3. **Dito dell'Illusione**: una volta per scena, crea una falsa scena o immagine fino a portata Lontana. Chi tenta di sfondare l'illusione con una Reazione tira con Svantaggio finché non la riconosce.
+4. **Dito del Tempo**: una volta per riposo lungo, consente di osservare un luogo noto o di attraversare una soglia ombrosa, spostandosi fino a portata Lontana senza attraversare lo spazio intermedio. Il GM decide le conseguenze legate a luoghi protetti.
+5. **Dito del Dolore**: una volta per riposo lungo, infligge **d10 danni magici** a un bersaglio entro portata Molto Vicina; con Speranza il portatore recupera 1 Stress. Due volte per riposo breve può invece assorbire vitalità a Mischia, infliggendo **d6 danni magici** e recuperando 1 Punto Ferita.
+
+Usare un potere attiva l'attenzione delle fazioni di [[Maskarr]] e [[Krea]]. Il GM avanza di una tacca un orologio dedicato all'inseguimento; quando si completa, i loro agenti compaiono e cercano di appropriarsi del Dito. Le organizzazioni e le creature dedite alla ricerca delle Dita restano le principali minacce ricorrenti per i [[Cacciatore di Meteore]] e per tutti coloro che portano questi artefatti.
+
+## Riunire le Dita della Morte
+Se le 5 Dita vengono riunite, è possibile compiere un rituale di 3 ore usando un rubino dal valore di 5.000 monete d'oro e il manoscritto custodito nel [[Tempio di Krea]] a [[Darkflame]]. Un'ora prima della conclusione, tutte le organizzazioni e le creature dedite alla ricerca delle Dita percepiscono il rituale e tentano un'ultima volta di impadronirsene.
+
+Al termine, le dita si fondono nella Mano di [[Krea]] e richiamano un [[Burocrate Infernale]]. In cambio della Mano, l'immondo concede due invocazioni di un desiderio; ognuna è interpretata letteralmente, richiede una conseguenza o un sacrificio approvato dal GM e non può annullarne un'altra. Dopodiché l'immondo, la mano e l'artefatto scompaiono dalla [[Dimensione della Materia]]. Se chi compie il rituale è un seguace di [[Maskarr]], prima dell'evocazione potrebbe ricevere la visita del [[Maskarr|dio Gatto]] o di un emissario, pronto a offrire ricompense in cambio della Mano.
