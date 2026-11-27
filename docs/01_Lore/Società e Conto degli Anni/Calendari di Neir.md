@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - lore
   - calendario
@@ -11,7 +11,7 @@ aliases:
 
 # Calendari in Uso a Neir
 
-A causa delle varie culture e delle origini storiche delle razze su Neir, vengono adoperati diversi sistemi per la misurazione dei mesi e delle stagioni.
+A causa delle varie culture e delle origini storiche delle ascendenze su Neir, vengono adoperati diversi sistemi per la misurazione dei mesi e delle stagioni.
 
 ---
 

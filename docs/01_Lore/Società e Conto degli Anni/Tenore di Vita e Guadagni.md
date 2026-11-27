@@ -8,11 +8,12 @@ tags:
 aliases:
   - Tenore di Vita
   - Guadagni e Professioni
+status: Canonico
 ---
 
 # Tenore di Vita e Guadagni
 
-Anche su Neir esiste un profondo divario fra ricchi e poveri. La tabella seguente mostra il rapporto tra professione, guadagno mensile approssimativo e relativa qualità della vita a tavola.
+Anche su Neir esiste un profondo divario fra ricchi e poveri. La tabella seguente descrive stipendi mensili e prestigio sociale in termini di lore. Non stabilisce il potere d'acquisto esatto dei personaggi giocanti: per ricompense, spese straordinarie e disponibilità al tavolo usa la [scala economica](./Ricchezze%20e%20Valute.md).
 
 ---
 
@@ -31,6 +32,12 @@ Anche su Neir esiste un profondo divario fra ricchi e poveri. La tabella seguent
 | **Consigliere, studioso**                                                                                        | 60 monete d'oro  | **Tenore di vita egregio:** quando ti sei saziato? All'ottava o alla nona portata? Perché manca ancora il tortino di frutta ok'koror...   |
 
 ---
+
+## Uso al tavolo
+
+- I salari indicano la posizione sociale di un alleato, datore di lavoro o sospettato.
+- Il GM può sostituire una ricompensa in oro con accesso, protezione, informazioni, equipaggiamento o un favore.
+- La schiavitù è una realtà crudele dell'ambientazione, non una caratteristica narrativa obbligatoria per ogni personaggio o comunità.
 
 ## 🔗 Note Correlate
 - [[Società e Conto degli Anni]]

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - lore
   - terre-nascoste
@@ -20,7 +20,7 @@ La mancanza di riferimenti celesti ha da sempre condizionato la concezione che i
 
 Ciononostante, alcune apparecchiature come **clesidre** e **orologi ad acqua** esistono da sempre e qui hanno raggiunto un livello di precisione che non ha eguali in superficie. 
 
-Esistono poi altri sistemi in vigore, di gran lunga più complessi e originali, quali il parametro di elaborazione temporale utilizzato dai **karevi** che, a seguito dei contatti con le razze di Neir, è tuttavia caduto largamente in disuso.
+Esistono poi altri sistemi in vigore, di gran lunga più complessi e originali, quali il parametro di elaborazione temporale utilizzato dai **karevi** che, a seguito dei contatti con le ascendenze di Neir, è tuttavia caduto largamente in disuso.
 
 ---
 

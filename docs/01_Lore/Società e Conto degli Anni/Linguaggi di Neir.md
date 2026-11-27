@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - lore
   - linguaggi
@@ -23,7 +23,7 @@ Su Neir si parlano una molteplicità di lingue diverse e non è sempre facile co
 | Alfabeto | Lingue Derivate |
 | :--- | :--- |
 | **Abissale** | **Abissale** (parlato dai demoni), **Ta'ari** (parlato dai vesharûn), **Vampirico** (parlato dai vampiri e dagli hjilaki). |
-| **Celestiale** | **Celestiale** (parlato dagli angeli), **Divino** (parlato dalle divinità), **Planare** (parlato dalle razze di origine planare). |
+| **Celestiale** | **Celestiale** (parlato dagli angeli), **Divino** (parlato dalle divinità), **Planare** (parlato dalle ascendenze di origine planare). |
 | **Draconico** | **Draconico** (parlato dai draghi, coboldi, lucertoloidi, ecc.), **Wiloi** (parlato dai wiloi e mezzo wiloi), **Sszykar** (parlato dagli Ishkrit). |
 | **Elementale** | **Elementale** (parlato da tutte le creature elementali). |
 | **Gigante** | **Gigante** (parlato da giganti, ogre, mezziogre, ecc.). |
@@ -40,4 +40,4 @@ Su Neir si parlano una molteplicità di lingue diverse e non è sempre facile co
 - [[Società e Conto degli Anni]]
 - [[Pianure di Xanesh]]
 - [[Karevi]]
-- [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Wiloi]]
+- [[06_Materiale_Notte_Eterna/Ancestry/Wiloi|Wiloi]]
