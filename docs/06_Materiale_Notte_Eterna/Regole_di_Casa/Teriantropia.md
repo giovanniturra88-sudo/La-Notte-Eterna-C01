@@ -1,5 +1,7 @@
----
+﻿---
 type: Regola
+source: La Notte Eterna
+status: Da verificare
 ---
 
 La teriantropia, o morbo della luna, è piuttosto diffusa su [[Neir]], soprattutto lontano dalla civiltà, dato che fra le culture civili è considerata un sintomo di bestialità ed è repressa con qualunque mezzo. Nelle terre selvagge la teriantropia è invece venerata come una manifestazione delle forze primitive e soprannaturali che governano il mondo. L'avvento della [[Notte Eterna]] non ha alterato i sintomi della teriantropia, che continua a manifestarsi solo nelle notti di luna piena.
@@ -7,7 +9,7 @@ La teriantropia, o morbo della luna, è piuttosto diffusa su [[Neir]], soprattut
 *«Quando quell'enorme squalo gli strappò via mezza gamba, che i diavoli se lo portino, qualcosa entrò nel sangue di quel ragazzo. Poche ore dopo lo vedemmo sprofondare in una febbre piena di incubi e a nulla valsero le cure di Matthew, il nostro cuoco, che un po' ne capiva di medicina. Pensavamo ci sarebbe morto a bordo, «segno di cattivo auspicio» mormoravano alcuni. Poche ore dopo udimmo delle grida disumane provenire dalla cabina del ragazzo. Eravamo tutti terrorizzati... Forse la sua agonia era finita, ma nessuna febbre che conoscevo avrebbe fatto gridare un uomo in quel modo. Nessuno di noi aveva il coraggio di scendere in coperta ad accertarsi delle sue condizioni. Mentre discutevamo sul da farsi, vedemmo l'ombra di una creatura grossa e deforme correre sul ponte e poi tuffarsi in mare levando una massa d'acqua che ci inzuppò dalla testa ai piedi. Quando ci affacciammo a guardare, la pinna di uno squalo increspava minacciosa la superficie delle onde. Dopo un po' si immerse sott'acqua e sparì dalla nostra vista. Il ragazzo era scomparso. La sua cabina era messa a soqquadro ma non vedemmo alcuna goccia di sangue... Mi chiedete che penso? Beh, io credo che lo squalo che lo morse era contaminato come un cane infetto. Aveva il morbo della luna, vi dico! Comunque stiano le cose, da quella notte di luna piena nessuno di noi lo rivide mai più... e io smisi di navigare.»*
 *James Northsea, Nostromo del [[Gonfalone Azzurro]] presso [[Forte Arundex]]*
 
-A differenza di quanto si crede generalmente, il morbo della luna non si limita ai famigerati "uomini lupo", ma comprende numerosissime trasformazioni animali. Un altro errore che commettono gli stolti è scambiare un [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Urakian]] per un teriantropo. Com'è ben noto, l'aspetto e la natura bestiale del teriantropo sono strettamente legati alla luna piena, mentre gli [[02_Meccaniche_DaggerHeart/Ancestry/DaggerHeart/Urakian]] sono perfetti ibridi dalla nascita.
+A differenza di quanto si crede generalmente, il morbo della luna non si limita ai famigerati "uomini lupo", ma comprende numerosissime trasformazioni animali. Un altro errore che commettono gli stolti è scambiare un [[06_Materiale_Notte_Eterna/Ancestry/Urakian|Urakian]] per un teriantropo. Com'è ben noto, l'aspetto e la natura bestiale del teriantropo sono strettamente legati alla luna piena, mentre gli Urakian sono perfetti ibridi dalla nascita.
 Un altro mito da sfatare è la favolosa inimicizia che esisterebbe tra teriantropi e vampiri: pur ammettendo che un teriantropo riesca a mantenere il completo controllo delle sue facoltà mentali durante la trasformazione, questi non si interesserebbe minimamente di una creatura avvizzita e che non può divorare. Nei primi anni del [[Dominio delle Trame]], gli [[hjilaki]] tentarono di incorporare i teriantropi in una truppa speciale del loro esercito ma il progetto fu accantonato a causa di evidenti difficoltà logistiche. I teriantropi tendevano a sfuggire al controllo mentale dei loro padroni e ad attaccare chiunque avessero a tiro, creando scompiglio tra le truppe. All'epoca in cui vennero compiuti questi esperimenti destarono enorme scalpore tra i servizi di spionaggio di [[Neir]], e quando fu chiaro che gli [[hjilaki]] avevano fallito, tutto quello che rimase fu la fantasiosa credenza dell'inimicizia tra vampiri e teriantropi.
 In ogni caso la teriantropia ha origini ben più antiche del [[Vampirismo]] e per questa ragione le sue caratteristiche e le sue cure sono più o meno note anche alla gente comune. In campo accademico esistono svariati manuali che trattano l'argomento. Tra i testi più rappresentativi vi è l'opera di uno studioso xaan vissuto tra il 400 e il 320 E.S., Razrar Amūn:
 
@@ -15,20 +17,31 @@ In ogni caso la teriantropia ha origini ben più antiche del [[Vampirismo]] e pe
 *Introduzione al Morbo della Luna: fra verità e leggenda di Razrar Amūn.*
 ## Creare un Teriantropo
 Il Morbo della Luna fu scagliato sul mondo dalla dea [[Iliar]] per punire i mortali dei loro crimini contro la natura. Questo male è particolarmente diffuso nelle zone rurali e selvagge di [[Neir]], dove prospera grazie alla superstizione e all'omertà. Sebbene la forma più comune di teriantropo sia il licantropo, questi esseri sono conosciuti per assumere numerose forme, alcune non terrestri.
-Trasformazione. Una creatura umanoide morsa da un teriantropo deve effettuare un Tiro di Reazione di Forza con Difficoltà pari a 10 + il modificatore di Presenza del Teriantropo. Se ha successo diviene immune alla maledizione, in caso contrario ha 12 ore di tempo per ricevere cure, solitamente sotto forma di una capacità di purificazione (come *Ristorare Superiore* o *Rimuovi Maledizione*), prima di iniziare la sua irreversibile trasformazione in teriantropo, che sarà completa dopo ulteriori 12 ore rivelando la sua mostruosa manifestazione durante la luna piena successiva.
-## Tratti del Teriantropo
-Esistono numerose specie di mannari. Per tutte valgono i tratti riportati in basso, con le differenze indicate nella tabella sottostante.
-### Pelle Coriacea
-Quando il personaggio è trasformato la sua pelle si ispessisce conferendo un bonus di +1 all'Evasione come armatura naturale.
-### Repulsione all'Argento
-Il personaggio è vulnerabile alle armi e ai proiettili in argento anche quando non è trasformato in mannaro.
-### Fuori Controllo
-Quando la luna è piena il personaggio deve effettuare un Tiro di Reazione di Presenza con Difficoltà 15. La difficoltà scende a 12 se la luna è coperta e 10 se si trova in un ambiente chiuso, sotto terra o nelle profondità marine. Se fallisce il tiro, il GM assume il controllo del personaggio fino alla fine della notte. Può ritentare il tiro ogni ora ma la Difficoltà aumenta di +1 per ogni ora passata fuori controllo. In caso di successo, il personaggio si trasforma ottenendo i bonus e le capacità speciali del tuo tipo mannaro. Al calare della luna piena la trasformazione cessa e il personaggio rientra in possesso delle sue piene facoltà.
-### Trasformazione Volontaria
-Usando un'azione e superando una prova su Presenza con Difficoltà 15 il personaggio può trasformarsi volontariamente in mannaro. Il tiro va ripetuto al termine di ogni ora per mantenere l'effetto, ma la Difficoltà aumenta di +1 per ogni ora passata volontariamente trasformato. Al termine della trasformazione volontaria il personaggio subisce un livello di affaticamento per ora trascorsa da mannaro.
+## Regola homebrew: contagio
 
-| TIPO MANNARO | MOVIMENTO | PUNTI CARATTERISTICA | SPECIALE |
-| ------------- | --------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Acquatico     | Nuotare 9 m     | +2 Forza e Costituzione | Una volta effettuata una prova di afferrare con successo, il personaggio può immediatamente effettuare un movimento di 6 m, trascinando il bersaglio.  Il personaggio è in grado di avvertire una molecola di sangue in un miliardo di molecole d'acqua. |
-| Alato         | Volare 9 m | +2 Agilità e +1<br>Forza | Il personaggio non provoca attacchi di opportunità quando vola fuori dalla portata di un nemico. Finché è in volo ha vantaggio alle prove di Percezione basate sulla vista o sull'udito. |
-| Terrestre | +3 m terrestre | +2 Forza e +1<br>Forza | Usando un'azione per effettuare uno scatto in linea retta, il personaggio può spendere un'azione per ottenere +5 al tiro d'attacco del primo attacco contro un singolo bersaglio. Se l'attacco va a segno, la creatura deve effettuare un Tiro di Reazione di Forza con Difficoltà 10 + il modificatore di Forza del personaggio o cadere a terra Prono.  Ha vantaggio alle prove di Percezione basate sull'olfatto. |
+Dopo un morso, la vittima effettua un Tiro di Reazione di *Forza* contro la Difficoltà del GM. Il successo respinge il morbo per quella esposizione; il fallimento produce un Contrassegno del Morbo della Luna. Entro 12 ore può essere tentata una purificazione narrativa. Un rituale riuscito cancella il contrassegno; altrimenti la trasformazione emerge alla luna piena successiva.
+
+## Trasformazione del Morbo della Luna
+
+Questa trasformazione adatta [[Werewolf]] e non sostituisce il bilanciamento base di Daggerheart.
+
+### Forma Bestiale
+Una volta per riposo lungo, quando segni 1 o più Punti Ferita puoi marcare **1 Stress** per assumere una forma acquatica, alata o terrestre fino alla fine della scena. Durante la trasformazione:
+
+- una volta per scena ottieni **Vantaggio** a inseguire, saltare, nuotare o volare;
+- un attacco naturale infligge **1d8** danni fisici usando il Tratto più appropriato;
+- dopo un risultato con Speranza puoi marcare **1 Stress** per aggiungere **1d4** danni al successivo attacco nella scena.
+
+### Fuori Controllo
+Alla luna piena effettui un Tiro di Reazione di *Presenza* contro la Difficoltà del GM. Se fallisce, il GM usa la spinta degli istinti finché non raggiungi un riparo, un alleato spende **1 Speranza** per richiamarti o termina la notte. Il GM non sceglie una Mossa della Morte o conseguenze permanenti senza una posta esplicita.
+
+### Argento
+Una volta per scena, quando subisci danni da una fonte d'argento, il GM può imporre **Svantaggio** al tuo prossimo tiro. Non vi sono immunità, vulnerabilità numeriche permanenti o effetti automatici su *Fuori Controllo*.
+
+## Forme animali
+
+| Forma | Opzione, una volta per scena |
+| --- | --- |
+| Acquatica | Trascina una creatura afferrata di una fascia di portata oppure ottieni **Vantaggio** per rintracciarla in acqua. |
+| Alata | Copri una fascia di portata in più durante un movimento oppure ottieni **Vantaggio** al primo tiro basato sulla vista o sull'udito. |
+| Terrestre | Dopo un attacco riuscito, spingi il bersaglio a terra o a **Molto Vicina**; il GM stabilisce se è ammesso un Tiro di Reazione. |
