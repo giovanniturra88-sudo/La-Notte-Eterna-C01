@@ -7,10 +7,10 @@ Dominio:
  - "[[Splendore]]"
  - "[[Valore]]"
 source: La Notte Eterna
+status: Da verificare
 location:
  - "[[Ducato di Öuin]]"
 ---
-![[../../04_Risorse/Pictures/cavaliere_predestinato_pic.png]]
 
 # Sottoclasse: Cavaliere Predestinato
 
@@ -19,23 +19,22 @@ Paladini consacrati al dio scomparso [[Laon]] e alla sua Fiamma Perenne, guidati
 ---
 
 ### Fondazione
-**_Marchio di Laon:_** Puoi spendere **2 Speranze** per imprimere una sagoma fiammeggiante su un avversario entro portata **Vicina (Close)**.I tuoi attacchi contro il bersaglio marchiato infliggono **+1d6 danni magici Radiosi** extra. Il marchio persiste finché il bersaglio non viene sconfitto o la scena termina.
+**_Marchio di Laon:_** Puoi spendere **2 Speranze** per imprimere una sagoma fiammeggiante su un avversario entro portata **Vicina**.I tuoi attacchi contro il bersaglio marchiato infliggono **+1d6 danni magici Radiosi** extra. Il marchio persiste finché il bersaglio non viene sconfitto o la scena termina.
 
 ---
 
 ### Specializzazione
-**_Sentinella Eterna:_** Una volta per riposo lungo, quando subisci danni sufficienti a spingerti a segnare tutti i tuoi Punti Ferita (HP) rimanenti:
-* Invece di cadere privo di sensi o effettuare la *Mossa Finale*, puoi spendere **1 Speranza** per rimanere in piedi con **1 Punto Ferita** ed effettuare immediatamente un attacco di mischia contro chi ti ha colpito.
-**_Sacra Ira:_** La tua determinazione cresce con l'aumentare dello sforzo. Tutti i tuoi attacchi d'arma infliggono un **+1d8 danni extra** quando hai almeno **4 Stress** marcati sulla tua scheda.
+**_Sentinella Eterna:_** Una volta per riposo lungo, quando un colpo ti farebbe segnare almeno 2 Punti Ferita, puoi spendere **2 Speranze** e marcare **1 Stress** per ridurre di uno i Punti Ferita segnati.
+**_Sacra Ira:_** Una volta per scena, quando hai almeno la metà delle caselle di *Stress* marcate, puoi aggiungere **1d6** danni a un attacco d'arma.
 
 ---
 
 ### Maestria
 **_Araldo dell'Ultima Luce:_** Una volta per riposo lungo, puoi spendere **3 Speranze** per manifestare la forma divina di un campione alato di [[Laon]] fino alla fine della scena.
 Durante la trasformazione:
-* Ottieni la capacità di **Volare** liberamente durante il tuo movimento.
-* Emani una luce sacra accecante: i non morti e le creature dell'oscurità a portata **Vicina (Close)** subiscono **Svantaggio** a tutti i tiri effettuati contro di te o i tuoi compagni.
-* Il Marchio passa da +1d6 a +1d10 e puoi marcare un secondo bersaglio.
+* Durante il movimento puoi volare.
+* Emani una luce sacra accecante: i non morti e le creature dell'oscurità a portata **Vicina** subiscono **Svantaggio** a tutti i tiri effettuati contro di te o i tuoi compagni.
+* Una volta nella scena trasformata, il *Marchio di Laon* infligge **1d8** danni invece di 1d6.
 ---
 ## Domande di Sfondo
 

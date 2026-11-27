@@ -1,18 +1,23 @@
 ---
 alias: ["Bastoni Magici di Nũ"]
 categoria: equipaggiamento
-danno: d8+3
-gittata: mischia
+danno: "d8+3"
+gittata: "Mischia"
 ingombro: "una mano"
 original_name: "Bastoni Magici di Nũ"
 ruolo: primaria
+status: Canonico
 tier: 2
 tipo_danno: magica
 tratto: istinto
-type: 
- - "[[Arma]]"
+type:
+  - "[[Arma]]"
 ---
 
-### EFFETTO
+# Bastoni Magici di Nũ
 
-**_Coppia d'Elementi:_** Quando impugni entrambi i bastoni, ottieni +1 alla Forza di Volontà. Spendi 1 Speranza dopo un attacco a segno per infliggere d6 danni aggiuntivi di tipo Elementale.
+**_Tier 2_** _Arma_
+
+### Tratto dell'arma
+
+**_Coppia d'Elementi:_** Una volta per scena, dopo aver messo a segno un attacco mentre impugni entrambi i bastoni, puoi spendere 1 Speranza per aggiungere +d6 danni elementali oppure ottenere Vantaggio sul prossimo tiro di Istinto.

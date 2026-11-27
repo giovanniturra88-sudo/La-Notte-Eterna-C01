@@ -5,9 +5,9 @@ classe:
 Dominio:
   - "[[Valore]]"
   - "[[Splendore]]"
-spellcast_trait:
-  - Presenza (Presence)
+spellcast_trait: Presenza
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Ducato di Öuin]]"
   - "[[Repubblica di Mendulia’s Rock]]"
@@ -21,21 +21,21 @@ Chierici e guaritori devoti del Viandante Misericordioso [[Fadranstaff]], pronti
 
 ### Fondazione
 **_Dono della Guarigione:_** Hai sviluppato una forte connessione con le energie curative di [[Fadranstaff]].
-* Spendendo **2 Speranze**, puoi toccare un alleato a portata **Mischia (Melee)** per curare immediatamente una quantità di Punti Ferita (HP) o punti Stress pari al tuo modificatore di **Presenza** (minimo 2). Questa capacità non ha effetto su costrutti ([[Clank]]) o non morti.
+* Una volta per scena puoi spendere **2 Speranze** e toccare un alleato in **Mischia**: il bersaglio cancella 1 Punto Ferita oppure 2 *Stress*. Non ha effetto su costrutti o non morti.
 
 ---
 
 ### Specializzazione
-**_Aura del Risanamento:_** Una volta per riposo lungo, puoi spendere **2 Speranze** per incanalare un'aura di calda energia sacra attorno a te entro portata **Molto Vicina (Very Close)**. Finché mantieni la concentrazione (senza effettuare tiri d'attacco o muoverti):
+**_Aura del Risanamento:_** Una volta per riposo lungo, puoi spendere **2 Speranze** per incanalare un'aura di calda energia sacra attorno a te entro portata **Molto Vicina**. Finché mantieni la concentrazione (senza effettuare tiri d'attacco o muoverti):
 * Quando lo spotlight si sposta su un compagno di squadra che si trova all'interno dell'aura guarisce **1 Stress**.
-* I nemici ottengono **Vantaggio** a tutti i tiri d'attacco diretti contro di te mentre sostieni l'aura.
-**_Risanatore Esperto:_** La tua fede canalizza la guarigione in modo più efficiente. Quando utilizzi una carta Dominio o una pergamena per ripristinare i Punti Ferita o lo Stress di un alleato, aggiungi +1 al totale ripristinato.
+* I nemici ottengono **Vantaggio** agli attacchi diretti contro di te mentre sostieni l'aura.
+**_Risanatore Esperto:_** Una volta per scena, quando una carta Dominio o una pergamena ti permette di far cancellare Punti Ferita o *Stress* a un alleato, quel bersaglio cancella 1 *Stress* aggiuntivo.
 
 ---
 
 ### Maestria
 **_Aura del Martirio:_** Il tuo legame di protezione verso i compagni spinge il tuo corpo a farsi scudo per gli altri.
-Quando un compagno di squadra entro portata **Vicina (Close)** sta per subire danni che lo costringerebbero a marcare Punti Ferita e ne ha 3 o meno, puoi marcare **1 Stress** e interporti. Subisci tu l'attacco al suo posto, applicando il danno al tuo Punteggio di Armatura (*Armor Score*) e riducendolo normalmente. L'alleato salvato cancella **1 stress**.
+Una volta per riposo lungo, quando un compagno entro **Vicina** sta per marcare Punti Ferita, puoi marcare **1 Stress** e subire il colpo al suo posto, applicando normalmente la tua Armatura. Riduci di uno i Punti Ferita che marchi; l'alleato cancella **1 Stress**.
 
 ---
 

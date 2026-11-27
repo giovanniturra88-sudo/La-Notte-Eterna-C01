@@ -5,10 +5,9 @@ classe:
 Dominio:
   - "[[Arcano]]"
   - "[[Mezzanotte]]"
-spellcast_trait:
-  - Presenza (Presence)
-  - Istinto (Instinct)
+spellcast_trait: Istinto
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Cenere di Lanie]]"
   - "[[Cratere di Lava]]"
@@ -25,19 +24,19 @@ Porti con te un monile o un frammento di roccia meteoritica che brilla di una de
 ## Caratteristiche di Specializzazione
 
 ### Esperto Astronomo
-Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Ottieni **Vantaggio** permanente a tutte le prove di *Istinto* effettuate per orientarti durante la notte o sottoterra, e alle prove di *Conoscenza* volte a identificare la natura, il valore o i pericoli di materiali cosmici, ars e metalli celesti.
+Possiedi una conoscenza enciclopedica delle costellazioni e del moto dei corpi celesti. Una volta per scena puoi ottenere **Vantaggio** a una prova di *Istinto* o *Conoscenza* relativa a orientamento, materiali cosmici, ars o metalli celesti.
 
 ### Bagliore della Caduta
 Quando scateni una capacità della tua classe [[Sorcerer]] o una carta Dominio di attacco, puoi marcare **1 Stress** per far esplodere una pioggia di scintille purpuree attorno al bersaglio.
 
-Il bersaglio è temporaneamente **vulnerabile**. Se l’attacco infligge almeno danno Grave, Tutti i nemici entro portata **Molto Vicina (Very Close)** dal bersaglio primario subiscono la condizione **Vulnerabile**.
+Il bersaglio è temporaneamente **vulnerabile**. Se l’attacco infligge almeno danno Grave, Tutti i nemici entro portata **Molto Vicina** dal bersaglio primario subiscono la condizione **Vulnerabile**.
 ## Caratteristiche di Maestria
 
 ### Araldo di Lanie
-Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere la forma spettrale di un Araldo di [[Lanie]] per la durata di una scena:
-- Ottieni la capacità di **Volare** liberamente durante ogni tuo movimento.
-- Emani luce argentata che illumina chiaramente fino a portata **Vicina (Close)** e soffusa fino a portata **Lontana (Far)**.  
-- Scegli due fra: +4 Soglia Grave, +2 Evasione, +1 Proficiency, +1 a un tratto.
+Riesci a fondere completamente la tua anima con il frammento di stella che custodisci. Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere la forma spettrale di un Araldo di [[Lanie]] fino alla fine della scena:
+- Durante ogni movimento puoi considerarti in grado di volare.
+- Emani luce argentata che illumina chiaramente fino a portata **Vicina** e soffusa fino a portata **Lontana**.
+- Una volta durante la trasformazione, puoi ridurre di una soglia il danno subito oppure ottenere **Vantaggio** a un tiro che usa *Istinto*.
 ---
 
 ## Domande di Sfondo

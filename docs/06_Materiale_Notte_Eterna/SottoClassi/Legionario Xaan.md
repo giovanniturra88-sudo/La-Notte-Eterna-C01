@@ -7,6 +7,7 @@ Dominio:
   - "[[Ossa]]"
 spellcast_trait: Forza
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Pianure di Xanesh]]"
 ---
@@ -17,19 +18,19 @@ Mercenari d'élite delle accademie marziali dello Xanesh, famosi per la loro ver
 ---
 
 ### Fondazione
-**Addestramento Marziale:** +1 slot Stress.
-**_Recuperare Energie Migliorato:_** Quando utilizzi una mossa di riposo per recuperare Punti Ferita o punti Stress, puoi curare **1 punto Stress o HP aggiuntivo** per te o un tuo alleato.
+**Addestramento Marziale:** Una volta per riposo lungo, quando dovresti marcare l'ultima casella di *Stress*, puoi marcarne una aggiuntiva temporanea; l'effetto termina al termine della scena.
+**_Recuperare Energie Migliorato:_** Una volta per riposo, quando una tua mossa di riposo cancella Punti Ferita o *Stress*, scegli un alleato: cancella 1 *Stress* anche su di lui.
 
 ---
 
 ### Specializzazione
-**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo, scegli un'**Esperienza** o un ambito tattico in cui non sei addestrato: fino al riposo lungo successivo, puoi applicare un bonus di **+2** a tutte le prove legate a quell'ambito.
-**_Scatto Impetuoso:_** Quando spendi Speranza per attivare una capacità di attacco o difesa marziale, puoi anche riposizionarti immediatamente coprendo una distanza fino a portata **Vicina (Close)** senza spendere altro e senza provocare Attacco d’Opportunità.
+**_Quello che Serve, Quando Serve:_** Al termine di un riposo lungo scegli un ambito tattico in cui non sei addestrato. Una volta per scena, fino al riposo lungo successivo, ottieni **Vantaggio** a una prova legata a quell'ambito.
+**_Scatto Impetuoso:_** Quando spendi Speranza per attivare una capacità di attacco o difesa marziale, puoi anche riposizionarti immediatamente coprendo una distanza fino a portata **Vicina** senza spendere altro e senza provocare Attacco d’Opportunità.
 
 ---
 
 ### Maestria
-**_Eroe di Ventura:_** Sei quasi inamovibile sul campo di battaglia. Quando effettui un Tiro di Reazione difensivo per resistere a un effetto fisico, tiri con **Vantaggio**. Inoltre, una volta per scena, puoi spendere **1 Speranza** per costringere un nemico che ti ha appena colpito a ripetere il suo tiro d'attacco. Dopo un reroll, il tuo prossimo attacco contro quell’avversario ottiene **+1 Proficiency**.
+**_Eroe di Ventura:_** Una volta per scena puoi ottenere **Vantaggio** a un Tiro di Reazione difensivo contro un effetto fisico. Inoltre, una volta per riposo lungo, quando un nemico ti colpisce puoi spendere **1 Speranza** per costringerlo a ritirare; conserva il nuovo risultato.
 
 ---
 

@@ -1,10 +1,17 @@
 ---
+categoria: reliquia
+status: Canonico
+tier: 4
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Kumwrub il Grande_**
+# Kumwrub il Grande
 
-_Oggetto Reliquia di Rango 4_
+**_Tier 4_** _Reliquia_
 
-Un idolo antico. Una volta per sessione, puoi invocare lo spirito di Kumwrub: evoca una tempesta di sabbia o una scossa sismica a gittata Remota che infligge d12+6 danni a tutti i nemici e li rende Vulnerabili.
+Una volta per sessione, puoi invocare lo spirito di Kumwrub. Per il resto della scena, scegli una tempesta di sabbia o una scossa sismica entro gittata Lontana: le creature ostili nell'area sono Vulnerabili o ricevono Svantaggio al prossimo tiro. Una sola di esse subisce inoltre +d8 danni.
+
+- **Usi:** 1
+- **Ricarica:** Fine della sessione
+- **Costo:** 1 Speranza

@@ -1,12 +1,17 @@
 ---
+categoria: consumabile
+status: Canonico
+tier: 1
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Foglia di Adraoos_**
+# Foglia di Adraoos
 
-_Oggetto Consumabile di Rango 1_
+**_Tier 1_** _Oggetto consumabile_
 
-Masticare questa foglia rara richiede un'azione. Rimuove immediatamente lo stato Avvelenato o Paralizzato e ripristina 1 Slot Stress.
+Masticare la foglia richiede un'azione. Termina immediatamente una condizione Avvelenato o Paralizzato e libera 1 Stress dalla creatura che la usa.
 
----
+- **Usi:** 1
+- **Ricarica:** Nessuna; la foglia è consumata
+- **Costo:** Consumo della foglia

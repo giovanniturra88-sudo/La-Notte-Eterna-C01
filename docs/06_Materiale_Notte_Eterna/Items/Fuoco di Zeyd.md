@@ -1,12 +1,17 @@
 ---
+categoria: consumabile
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Fuoco di Zeyd_**
+# Fuoco di Zeyd
 
-_Oggetto Consumabile di Rango 2_
+**_Tier 2_** _Oggetto consumabile_
 
-Puoi scagliare questa boccetta a gittata Lontana. All'impatto esplode in un'area di gittata Ravvicinata: tutte le creature nell'area subiscono d10 danni da Fuoco e continuano a subire 3 danni da Fuoco all'inizio del loro turno finché non spengono le fiamme.
+Puoi scagliare la boccetta entro gittata Lontana. Esplode in un'area entro gittata Molto Vicina: infliggi d8 danni da fuoco a una creatura e, fino alla fine della scena, le prime creature che attraversano le fiamme ottengono una conseguenza minore legata al fuoco.
 
----
+- **Usi:** 1
+- **Ricarica:** Nessuna; la boccetta è consumata
+- **Costo:** Consumo della boccetta

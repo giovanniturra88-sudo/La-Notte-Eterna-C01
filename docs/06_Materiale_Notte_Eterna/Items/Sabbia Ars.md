@@ -1,10 +1,17 @@
 ---
+categoria: consumabile
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Sabbia Ars_**
+# Sabbia Ars
 
-_Oggetto Consumabile di Rango 2_
+**_Tier 2_** _Oggetto consumabile_
 
-Puoi scagliare un pugno di questa sabbia incandescente a gittata Ravvicinata. Acceca i bersagli colpiti per 1 turno e crea una zona di calore soffocante che infligge d6 danni da Fuoco a chiunque la attraversi.
+Puoi scagliare un pugno di sabbia incandescente entro gittata Molto Vicina. Una creatura colpita subisce +d6 danni da fuoco oppure è impedita nel movimento fino alla fine del suo turno successivo. Il calore restante è una complicazione narrativa e non infligge danni automatici.
+
+- **Usi:** 1
+- **Ricarica:** Nessuna; la sabbia è consumata
+- **Costo:** Consumo della sabbia

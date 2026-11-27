@@ -2,11 +2,12 @@
 type: Sottoclasse
 classe:
  - "[[Sorcerer]]"
-spellcast_trait: Istinto (Instinct)
+spellcast_trait: Istinto
 Dominio:
  - "[[Arcano]]"
  - "[[Mezzanotte]]"
 source: La Notte Eterna
+status: Da verificare
 location:
  - "[[Cenere di Lanie]]"
 ---
@@ -17,18 +18,18 @@ Stregoni con una sintonia viscerale verso un elemento naturale (Acido, Veleno, F
 ---
 
 ### Fondazione
-**Sintonia Elementale:** spendi 1 Speranza e descrivi come l’elemento aiuta un tiro d’azione: +2 al tiro oppure +3 al danno.
-**_Schermo Elementale:_** Scegli un elemento (Acido, Fuoco, Freddo, Tuono o Fulmine). Quando subisci danni, puoi marcare **1 Stress** per ridurre il danno subito di un valore pari al tuo modificatore di **Istinto**. L'attaccante in mischia subisce lo stesso ammontare di danni dell'elemento da te scelto.
+**Sintonia Elementale:** una volta per scena puoi spendere 1 *Speranza* per ottenere **Vantaggio** a un tiro che descrive il tuo elemento come elemento favorevole.
+**_Schermo Elementale:_** Scegli un elemento. Una volta per scena, quando subisci danni, puoi marcare **1 Stress** per ridurre di uno i Punti Ferita segnati. Se l'attaccante è in **Mischia**, segna **1d6** danni dell'elemento scelto.
 
 ---
 
 ### Specializzazione
-**_Fusione Elementale:_** Contro danni del tuo elemento dimezzi il danno. Quando colpisci con quell’elemento, il bersaglio marca **1 Stress** (una volta per scena).
+**_Fusione Elementale:_** Una volta per scena, contro danni del tuo elemento puoi marcare 1 *Stress* per ridurre di una soglia i Punti Ferita segnati. Una volta per scena, quando colpisci con quell'elemento, il bersaglio marca **1 Stress**.
 
 ---
 
 ### Maestria
-**_Elementalista Supremo:_** Una volta per riposo lungo, trasformazione: scegli due fra +4 Soglia Grave, +2 Evasione, +1 Proficiency ai danni del tuo elemento, +1 a un tratto. Per la durata sei immune ai danni del tuo elemento. Le creature immuni al tuo elemento subiscono comunque **metà danno**.
+**_Elementalista Supremo:_** Una volta per riposo lungo, puoi spendere **2 Speranze** per assumere un aspetto elementale fino alla fine della scena. Durante l'effetto scegli una volta tra: ridurre di una soglia un colpo del tuo elemento, imporre **Svantaggio** a chi reagisce al tuo attacco elementale, oppure aggiungere **1d6** danni a un colpo del tuo elemento.
 
 ---
 

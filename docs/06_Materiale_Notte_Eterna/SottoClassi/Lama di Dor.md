@@ -2,17 +2,12 @@
 type: Sottoclasse
 classe:
   - "[[Ranger]]"
-  - "[[Warrior]]"
-  - "[[Cacciatore delle Ombre]]"
-spellcast_trait:
-  - Istinto (Instinct)
-  - Agilità
+spellcast_trait: Agilità
 Dominio:
   - "[[Ossa]]"
   - "[[Saggezza]]"
-  - "[[Lama]]"
-  - "[[Mezzanotte]]"
 source: La Notte Eterna
+status: Da verificare
 location:
   - "[[Landa di Edeber]]"
   - "[[Azkabel]]"
@@ -31,15 +26,14 @@ Eleganti ranger o guerrieri elfi dediti alla rinascita del Reame di Dor, maestri
 ---
 
 ### Specializzazione
-**_Veloce come il Vento:_** Con i tuoi movimenti puoi coprire una fascia di portata in più (ad esempio da Vicina a Lontana) senza costi aggiuntivi. 
+**_Veloce come il Vento:_** Una volta per scena puoi coprire una fascia di portata in più con un movimento, ad esempio da **Vicina** a **Lontana**.
 
 **_Raffica d'Argento:_** Quando attacchi con l'arco puoi marcare **1 Stress** per bersagliare con lo stesso tiro d'attacco una seconda creatura entro portata.
 
 ---
 
 ### Maestria
-**_Campione degli Elfi:_** Mentre impugni due armi a una mano ottieni un bonus permanente di **+1 all'Evasione (Evasion)**. 
-Inoltre, una volta per scena, quando ti disimpegni da un avversario in Mischia o ti sposti di almeno una fascia di portata, puoi marcare **1 Stress** ed effettuare un attacco con arma gratuito durante il movimento. Se riesce, infliggi **+1d6 danni extra**.
+**_Campione degli Elfi:_** Una volta per scena, mentre impugni due armi a una mano e disimpegni o copri almeno una fascia di portata, puoi marcare **1 Stress**: effettui un attacco gratuito durante il movimento; se colpisci aggiungi **1d6** danni.
 
 ---
 

@@ -1,12 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Cintura dei Possenti_**
+# Cintura dei Possenti
 
-_Oggetto di Rango 2_
+**_Tier 2_** _Oggetto_
 
-Finché indossi questa cintura, il tuo tratto Forza aumenta di +1 (fino a un massimo di +4) e la tua capacità di carico è raddoppiata.
+Una volta per scena, puoi spendere 1 Speranza per ottenere Vantaggio a un tiro di Forza per sollevare, spostare o sostenere un carico eccezionale. La cintura consente inoltre di trasportare il carico d'un compagno senza impacciarne il movimento, secondo il giudizio del GM.
 
----
+- **Usi:** 1
+- **Ricarica:** Riposo breve
+- **Costo:** 1 Speranza

@@ -1,10 +1,17 @@
 ---
+categoria: oggetto
+status: Canonico
+tier: 2
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Catena dello Sfinimento_**
+# Catena dello Sfinimento
 
-_Oggetto di Rango 2_
+**_Tier 2_** _Oggetto_
 
-Puoi lanciare la catena contro un bersaglio a gittata Ravvicinata spendendo 1 Speranza. Effettua un tiro di Forza contro il bersaglio: in caso di successo, la creatura è bloccata e subisce una penalità di -2 a tutti i tiri finché non spende un'azione per liberarsi.
+Una volta per riposo breve, puoi lanciare la catena contro un bersaglio entro gittata Molto Vicina. Spendi 1 Speranza ed effettua un tiro di Forza: se riesci, il bersaglio è impedito nei movimenti e ottiene Svantaggio al prossimo tiro, finché non usa un'azione per liberarsi.
+
+- **Usi:** 1
+- **Ricarica:** Riposo breve
+- **Costo:** 1 Speranza

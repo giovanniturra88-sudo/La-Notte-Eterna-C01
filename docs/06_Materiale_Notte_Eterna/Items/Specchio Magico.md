@@ -1,10 +1,17 @@
 ---
+categoria: reliquia
+status: Canonico
+tier: 3
 type:
- - "[[Item]]"
+  - "[[Item]]"
 ---
 
-**_Specchio Magico_**
+# Specchio Magico
 
-_Oggetto di Rango 3_
+**_Tier 3_** _Reliquia_
 
-Una volta per riposo lungo, guardando nello specchio puoi porre al Game Master una domanda su un luogo o una persona distante e ricevere una visione veritiera del suo stato attuale.
+Una volta per riposo lungo, puoi porre al GM una domanda su una persona o un luogo distante. Lo specchio mostra una visione veritiera ma non completa del suo stato attuale; la visione non fornisce risultati numerici, posizioni esatte o dettagli che risolverebbero direttamente un enigma.
+
+- **Usi:** 1
+- **Ricarica:** Riposo lungo
+- **Costo:** 1 Stress

@@ -1,7 +1,7 @@
 ---
-type:
- - "[[Ancestry]]"
+type: Ascendenza
 source: La Notte Eterna
+status: Da verificare
 ---
 
 ![](../../../04_Risorse/Pictures/urakian_pic.png)
@@ -11,8 +11,8 @@ source: La Notte Eterna
 - **Archetipo**: Difensori, combattenti da prima linea, distruttori.
 
 ## Tratti Ancestrali (Meccaniche)
-- **Pelle Dura** *(prima feature)*: Ottieni un bonus permanente di +1 al *Punteggio di Armatura (Armor Score)* alla creazione del personaggio.
-- **Furia Inarrestabile** *(seconda feature)*: Quando metti a segno un attacco in Mischia (*Melee*), puoi marcare 1 *Stress* per aggiungere 1d6 ai danni.
+- **Pelle Dura** *(prima feature)*: Una volta per scena, quando subisci danni, puoi marcare 1 *Stress* per ridurre di uno il numero di Punti Ferita che dovresti segnare.
+- **Furia Inarrestabile** *(seconda feature)*: Una volta per scena, quando metti a segno un attacco in **Mischia**, puoi marcare 1 *Stress* per aggiungere 1d6 danni.
 
 ## Integrazione in Nebvarasa
 - **Percezione del Buio**: Nessun trattamento speciale: per gli urakian valgono le regole comuni (vedi la Regola dell'Oscurità nel Campaign Frame).

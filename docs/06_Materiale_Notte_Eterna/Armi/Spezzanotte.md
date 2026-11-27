@@ -1,18 +1,23 @@
 ---
 alias: ["Spezzanotte"]
 categoria: equipaggiamento
-danno: d10+5
-gittata: mischia
+danno: "d10+5"
+gittata: "Mischia"
 ingombro: "una mano"
 original_name: "Spezzanotte"
 ruolo: primaria
+status: Canonico
 tier: 3
 tipo_danno: magica
 tratto: forza
-type: 
- - "[[Arma]]"
+type:
+  - "[[Arma]]"
 ---
 
-### EFFETTO
+# Spezzanotte
 
-**_Luce Scintillante:_** Spezzanotte emette una luce radiosa che illumina fino a gittata Lontana. Spendi 1 Speranza per sprigionare un flash di luce che acceca e scaccia le creature delle tenebre o non-morte a gittata Ravvicinata.
+**_Tier 3_** _Arma_
+
+### Tratto dell'arma
+
+**_Luce Scintillante:_** La lama illumina fino a gittata Lontana. Una volta per riposo breve, puoi spendere 1 Speranza: fino alla fine della scena, tu e un alleato ottenete Vantaggio al primo tiro per resistere a tenebre o spaventare creature non morte.
